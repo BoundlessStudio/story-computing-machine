@@ -1,13 +1,13 @@
 # Graphic-novel house style — draft v0.5
 
-Publisher design guidance, not universe facts. These are proposed defaults for
+Historical drawing and lettering direction for the preserved books, not universe facts. These were proposed defaults for
 user review. Explicit preferences and the approved edition plan take precedence
 over design defaults; source truth and binding narrative policy still apply.
 This file does not change existing stories, covers or illustrated editions.
 
 ## Written style and reference provenance
 
-This document is the reusable `[GN]` style specification. It encodes drawing,
+This document records the former `[GN]` style specification. It encodes drawing,
 color, lettering and composition as text; there is no visual style preview or
 fixed example page to reproduce. Choose every page's composition from its story
 beats. Consistency means a shared drawing language, not repeated layouts,
@@ -20,7 +20,6 @@ paper texture. It changes `[GN]` only; `[IL]` keeps its existing house style.
 
 - Original: [Photo 1.jpg](D:/Development/BoundlessAi/story-computing-machine/.codex-remote-attachments/01a0b02d-ff15-77d1-a1f8-a8f9cc8c6d79/93838bec-9eb5-4eab-b208-87e8e04ea1a3/1-Photo-1.jpg).
 - Inspected dimensions: 853 × 1280 pixels, approximately 2:3 portrait.
-- SHA-256: `e1fbbc451fe6d37ee940d078213b933d98033675fccc77e7f7ef54b354a27173`.
 - Role: provenance for the written GN rendering, color and lettering rules.
   Its cast, harbor, bells, costumes, dialogue and plot are not new story facts.
 - The original remains external and unchanged. These text rules carry its useful

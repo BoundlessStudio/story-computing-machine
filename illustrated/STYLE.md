@@ -1,6 +1,6 @@
 # Illustrated edition house rules
 
-These are publisher design rules, not in-world facts. The source prose and
+Historical art and layout direction for the preserved editions; this is not an active production contract or an in-world source. The source prose and
 universe authority control story facts. Artwork interprets unspecified visual
 details; it never establishes canon. House rules, story art direction, and
 presentation mode are independent.

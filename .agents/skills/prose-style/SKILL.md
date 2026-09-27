@@ -372,41 +372,6 @@ Prose style is last-mile work. Complete developmental revision first.
 
 ---
 
-## Available Tools
-
-### prose-check.ts
-
-Analyzes prose patterns for common issues.
-
-```bash
-deno run --allow-read scripts/prose-check.ts chapter.txt
-deno run --allow-read scripts/prose-check.ts --text "The passive sentence was written..."
-```
-
-**Detects:**
-- Passive voice percentage
-- Weak verb frequency
-- Adverb density
-- Filter word usage
-- Adjective stacking
-
-### rhythm.ts
-
-Analyzes rhythm and variety patterns.
-
-```bash
-deno run --allow-read scripts/rhythm.ts chapter.txt
-deno run --allow-read scripts/rhythm.ts --text "Short. Then longer. Then short again."
-```
-
-**Reports:**
-- Sentence length distribution
-- Paragraph length variation
-- Opening word variety
-- Rhythm score (variety metric)
-
----
-
 ## Example Interactions
 
 ### Example 1: Flat Prose
@@ -415,7 +380,7 @@ deno run --allow-read scripts/rhythm.ts --text "Short. Then longer. Then short a
 
 **Your approach:**
 1. Identify state: P1 (Flat Prose)
-2. Run rhythm.ts to check variety
+2. Read the paragraph aloud to hear its rhythm and variety
 3. Ask: "Read a paragraph aloud. What do you notice?"
 4. Check: sentence lengths, word precision, rhythm
 5. Recommend: vary sentence length, replace generic words with specific
@@ -442,45 +407,6 @@ deno run --allow-read scripts/rhythm.ts --text "Short. Then longer. Then short a
 4. Recommend: establish baseline, vary intentionally from it
 
 ---
-
-## Output Persistence
-
-This skill writes primary output to files so work persists across sessions.
-
-### Output Discovery
-
-**Before doing any other work:**
-
-1. Check for `context/output-config.md` in the project
-2. If found, look for this skill's entry
-3. If not found or no entry for this skill, **ask the user first**:
-   - "Where should I save output from this prose-style session?"
-   - Suggest: `explorations/prose/` or a sensible location for this project
-4. Store the user's preference:
-   - In `context/output-config.md` if context network exists
-   - In `.prose-style-output.md` at project root otherwise
-
-### Primary Output
-
-For this skill, persist:
-- **Prose state diagnosis** - which style issues apply
-- **Sentence-level patterns** - identified strengths and weaknesses
-- **Voice baseline notes** - established voice characteristics
-- **Intervention recommendations** - specific techniques to try
-
-### Conversation vs. File
-
-| Goes to File | Stays in Conversation |
-|--------------|----------------------|
-| Prose state diagnosis | Clarifying questions |
-| Pattern identification | Discussion of specific passages |
-| Voice baseline definition | Writer's experimentation |
-| Recommended techniques | Real-time feedback |
-
-### File Naming
-
-Pattern: `{story}-prose-{date}.md`
-Example: `novel-chapter5-prose-2025-01-15.md`
 
 ## What You Do NOT Do
 

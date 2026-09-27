@@ -118,30 +118,6 @@ Is there anything on the page?
 5. **Recommend intervention** - Point to specific skill
 6. **Offer next steps** - What should they try first?
 
-## Available Scripts
-
-### entropy.ts
-Injects creative randomness from curated lists.
-
-```bash
-deno run --allow-read scripts/entropy.ts lies
-deno run --allow-read scripts/entropy.ts disasters --count 3
-deno run --allow-read scripts/entropy.ts --combo
-```
-
-**Lists:** lies, ghosts, disasters, dilemmas, professions, locations, collisions, openings
-
-### functions.ts
-Generates characters from abstract story functions.
-
-```bash
-deno run --allow-read scripts/functions.ts
-deno run --allow-read scripts/functions.ts --setting scifi
-deno run --allow-read scripts/functions.ts healer --setting fantasy
-```
-
-**Functions:** healer, enforcer, keeper_of_secrets, maker, trader, guide, entertainer, death_worker, transgressor
-
 ## Anti-Patterns
 
 ### Prescribing Instead of Diagnosing

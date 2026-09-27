@@ -1,11 +1,9 @@
 ---
-title: {{title_yaml}}
-slug: "{{slug}}"
-created: {{date}}
-created-at: {{created_at}}
+title: "Story title"
+created: YYYY-MM-DD
 canon: false
 ---
 
-# {{title}}
+# Story title
 
-<!-- Complete reader-facing prose goes here. -->
+Write the complete reader-facing story here.

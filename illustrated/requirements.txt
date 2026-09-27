@@ -1,2 +1,0 @@
--r ../pages/requirements.txt
-openai==3.13.0

@@ -141,7 +141,6 @@ and no supplied boundary forbids it.
 - Profile each character's speech patterns separately
 - Read dialogue aloud, voice each character distinctly
 - Map what each character notices, assumes, explains, and refuses to formulate
-- Use voice-check tool for quantitative analysis
 
 ---
 
@@ -246,7 +245,6 @@ inside a functioning exchange is not automatically a defect.
 - Add a second purpose only when it grows from the speaker and situation
 - Track what each character wants vs. what they say they want
 - End scenes at changed state, not just information transferred
-- Use dialogue-audit tool to check function coverage
 
 ---
 
@@ -414,52 +412,7 @@ Run through the anti-pattern list. Most dialogue problems match at least one.
 
 ### 7. Recommend Interventions
 
-Based on identified state, provide specific fixes. Use tools for quantitative analysis when helpful.
-
----
-
-## Available Tools
-
-### voice-check.ts
-
-Estimates surface-pattern differences between characters. Use at least five
-lines per speaker; smaller samples do not produce a distinctiveness index.
-
-```bash
-deno run --allow-read scripts/voice-check.ts dialogue.txt
-deno run --allow-read scripts/voice-check.ts --text "Alice: I want it.`nBob: Not yours."
-```
-
-**Analyzes:**
-- Vocabulary overlap between speakers
-- Average sentence length per speaker
-- Contraction usage
-- Question/statement ratio
-
-### dialogue-audit.ts
-
-Heuristically checks function signals, tags, and several textual anti-patterns.
-
-```bash
-deno run --allow-read scripts/dialogue-audit.ts scene.txt
-deno run --allow-read scripts/dialogue-audit.ts --text "dialogue here"
-```
-
-**Reports:**
-- Detected functions (plot, character, tension, relationship)
-- Subtext indicators
-- Tag usage analysis
-- Anti-pattern flags
-
-**Cannot certify:**
-- Verb-object or action-language compatibility
-- Referent resolution
-- Speaker knowledge or perception
-- Listener uptake and reply causality
-- Whether a line should exist
-
-Run the manual Ground check first. A high score or empty issue list is never a
-dialogue PASS verdict.
+Based on the identified problem, provide specific fixes.
 
 ---
 
@@ -488,8 +441,7 @@ dialogue PASS verdict.
 2. Identify state: D1 (Identical Voices)
 3. Ask for a sample with 2-3 characters talking
 4. Apply the cover-the-tags test
-5. Use voice-check only as a quantitative surface comparison
-6. Identify differences in attention, assumptions, vocabulary, and directness
+5. Identify differences in attention, assumptions, vocabulary, and directness
 
 ### Example 2: Flat Conversation
 
@@ -514,45 +466,6 @@ dialogue PASS verdict.
 5. Break it across scenes only when the story's information order benefits
 
 ---
-
-## Output Persistence
-
-This skill writes primary output to files so work persists across sessions.
-
-### Output Discovery
-
-**Before doing any other work:**
-
-1. Check for `context/output-config.md` in the project
-2. If found, look for this skill's entry
-3. If not found or no entry for this skill, **ask the user first**:
-   - "Where should I save output from this dialogue session?"
-   - Suggest: `explorations/dialogue/` or a sensible location for this project
-4. Store the user's preference:
-   - In `context/output-config.md` if context network exists
-   - In `.dialogue-output.md` at project root otherwise
-
-### Primary Output
-
-For this skill, persist:
-- **Diagnosed state** - which dialogue state(s) apply
-- **Layer analysis** - Ground, text, subtext, or context issues identified
-- **Intervention recommendations** - specific techniques to apply
-- **Character voice notes** - distinct voice elements for each character
-
-### Conversation vs. File
-
-| Goes to File | Stays in Conversation |
-|--------------|----------------------|
-| Dialogue state diagnosis | Clarifying questions |
-| Voice distinction notes | Discussion of specific exchanges |
-| Subtext recommendations | Writer's experimentation |
-| Anti-pattern warnings | Real-time feedback |
-
-### File Naming
-
-Pattern: `{story}-dialogue-{date}.md`
-Example: `novel-chapter3-dialogue-2025-01-15.md`
 
 ## What You Do NOT Do
 

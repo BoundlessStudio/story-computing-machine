@@ -1,182 +1,50 @@
 ---
 name: story-create
-description: "Create one new or explicitly requested replacement shared-universe short story through outline, prose, review, gallery references, and cover."
+description: Write or substantially revise a [WP] short story through agent conversation, independent reading, and evidence-led revision.
 ---
 
-# Story create
+# Story workshop
 
-Coordinate new `[WP]` stories and explicitly named whole-story replacements.
-Before acting, read [AGENTS.md](../../../AGENTS.md) for authority, editability,
-artifacts, and mandatory branch/worktree setup. Use
-[story-room](../story-room/SKILL.md) for stage requirements and
-[short-story-writing](../short-story-writing/SKILL.md) for prose.
-Choose reasonable low-impact defaults; ask only for missing required inputs,
-canon/retcon rulings, or material prompt reinterpretation.
+The aim is a story a reader wants to finish and remember. Establish the dedicated worktree from updated `main` before production, then read [AGENTS.md](../../../AGENTS.md) for permission and files. Use this as a practice, not a sequence of verdicts. Make room for discovery and revise the underlying scene or premise when a line edit cannot solve the problem.
 
-## Workflow
+## Begin with the story
 
-1. Complete AGENTS' branch/worktree sequence before production. Retain the
-   absolute worktree path and include it in every assignment. For a replacement,
-   complete [Replacement](#replacement) before scaffolding.
-2. Identify, resolve, and visually inspect every supplied reference original.
-   Keep originals outside the story directory; if one is inaccessible, restore
-   access or request reattachment. Preserve the request verbatim and scaffold
-   with `../story-room/scripts/new-story.ps1`, passing every original through
-   `-ReferenceImage`. Every new scaffold uses `prospective-2026-08-23`.
-   The prompt inventories display names, or `None supplied`.
-   Use one `[WP]` marker for the reader-facing blockquote paragraph and keep
-   surrounding user context in separate paragraphs. Default to 2,500–4,000
-   words unless the prompt specifies otherwise.
-3. Resolve [Collection context](#collection-context). Delegate a fresh
-   `story_outliner` to write only `outline.md`. Include every reference as a
-   resolvable path or unambiguous attachment identifier, its requested role,
-   and any compact collection anti-default brief.
-4. Obtain independent GPT-6 Sol and Claude Opus 5.5
-   [OUTLINE REVIEW](../story-room/SKILL.md#outline-review) readings of the
-   saved outline. Adjudicate their findings against the text, resolve material
-   disagreements, and check authority at the end. On coordinator `REVISE`,
-   return only blocking findings to the outliner and reread changed bytes.
-   Do not assign a writer until the coordinator passes the exact outline hash.
-   Carry the decision and hash in the handoff, never in a new package file.
-5. Delegate a fresh `story_writer` to write and revise only `story.md` through
-   the prose adapter. Give it the passed outline, not the review discussion or
-   comparison prose. Do not expose prior prose or Voice capsules.
-6. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Obtain fresh,
-   independent GPT-6 Sol and Claude Opus 5.5 [REVIEW](../story-room/SKILL.md#review)
-   readings. Adjudicate actual findings and disagreements against the prose,
-   check authority at the end, and record the coordinator's hash-bound verdict
-   in `review.md`. Their readings replace the `story_reviewer` agent.
-7. On `REVISE`, return only blocking findings to that story's writer, allowing
-   the smallest surrounding action/narration needed for repair. Repeat
-   PreReview and run a new non-persistent two-model review every time. Do not
-   broaden the rewrite.
-8. After prose `PASS`, delegate `story_title_illustrator` under
-   [ART REFERENCES](../story-room/SKILL.md#art-references). Include the final
-   prose, every inventoried original from every retained request block, and
-   the gallery style anchors. Create and review character sheets first, then
-   separate exterior and interior location images. Both illustrator and
-   coordinator inspect the actual saved PNGs. Repair failures before proceeding;
-   account for every main character and major setting, including any proposed
-   cover subject. A source without a qualifying subject may omit that category
-   with a source-based reason in the handoff, never an invented subject.
-9. Only after the complete reference set passes both visual checks, delegate
-   `story_title_illustrator` under the TITLE IMAGE contract. Supply the accepted
-   reference paths and their roles, plus all inventoried originals for inspection.
-   Attach the relevant accepted images to cover generation within the tool's
-   five-input limit. Both illustrator and coordinator inspect the exact saved
-   JPEG and independently apply all seven gates. Send the contract's regeneration brief
-   on failure and repeat until accepted; do not capture a rejected image.
-10. Complete [Publication](#publication) and any batch-completion audit due under
-   [Collection context](#collection-context). The four authored Markdown files
-   and accepted title image remain at the package root; accepted reference PNGs
-   live only in its three permitted `art/` collections.
+Keep the user's `[WP]` request verbatim in `prompt.md`, including later user-authored constraints. Record the audience, intensity, and content note required by the style guide. List every supplied reference-image display name; save the original file under that name in the story's `art/references/` directory and inspect it before creative work. If one cannot be accessed, restore access or ask for reattachment; never silently omit it. These input images do not establish canon. Read relevant [universe authority](../../../universe/README.md) and the short [style guide](../../../universe/style-guide.md); search only facts the story will use. For an existing story, verify its canon marker before reading it for an edit.
 
-## Replacement
+The writer and coordinator talk briefly about the prompt's live possibility: who or what matters, what could change, what form might reveal it, and the most obvious version worth avoiding. For a new `[WP]`, the writer then puts a short, provisional direction in `outline.md`: enough to expose the central desire, pressure, important turns, and a possible ending, in whatever form helps. It is a thinking aid, not a scene quota or a contract. Preserve an early version in Git when discussion materially changes it. Let the writer choose length, voice, structure, and ending from the prompt; the prose may discover a better route. Record a meaningful departure in `notes.md` rather than rewriting the outline to pretend it predicted the story.
 
-A replacement starts with an absent target, not an edited copy. After worktree
-setup, inspect only the named source's authoritative canon marker first and
-apply AGENTS' lock/reconciliation rules. A replacement request never unlocks a
-canon story; any separately authorized unlock must already be its own verified
-marker-only commit.
+For a new `[WP]`, before drafting, have an independent Codex reader and Claude read only the complete prompt and outline, separately. If Claude is unavailable, use another independent reader and record the substitution. Ask what pleasure the prompt promises, what the outline makes a reader want to follow, where agency or causality is thin, what the proposed ending has not earned, and whether the solution is the first safe or obvious one. Each should identify the strongest possibility to protect as well as the most consequential risk. Preserve their first observations in `notes.md` before sharing them. Then relay each reader's actual objection and evidence to the writer and the other reader; let them question one another's assumptions and test the writer's proposed direction. Revise where useful and have both readers respond again to a materially changed outline. The coordinator decides when the direction is promising enough to draft; no outline PASS, required shape, or fixed round count. These readers and Claude sessions have seen the plan and cannot be cold prose readers later. A substantial edit of an older package may discuss a new direction without adding `outline.md` or changing that package's layout.
 
-Before removal, preserve every verbatim user-authored prompt or request block,
-the new request, and every associated reference-image display name.
-Discard only machine-owned selections, cover policy, constraints, and workflow
-metadata. Resolve and inspect every original; display names alone cannot
-recover images. Do not open the old outline, prose, review, cover, art, or historical
-process artifacts for creative reuse.
+Give a Codex writer agent ownership of the outline and prose and room to make substantive choices. The coordinator owns editorial judgment, not the sentences. The writer may use `creative-writing-craft` for a specific craft need and `dialogue`, `story-sense`, or `prose-style` to diagnose a problem. Use those references only for the problem at hand; they do not add stages or separate reports. The writer reads the complete story aloud or skeptically in mind before handoff, watching reader knowledge, scene consequences, dialogue uptake, and whether the ending earns its effect. Commit the first complete draft before review so later changes can be understood.
 
-Verify exact absolute paths, then remove only the explicitly named source
-package and its catalog entry, captured cover, chronology placement, and bundle
-`stories/INDEX.md` row when present. Preserve frozen `stories/NAMES.md` and all
-universe facts. Confirm the target directory is absent. Scaffold a clean
-`prospective-2026-08-23` package with all retained and new user text verbatim in
-one Prompt section under minimal labels, and all originals via `-ReferenceImage`.
+## Read independently, then talk
 
-Remove only that story's obsolete character specification/manifest row and its
-selections, exclusions, replacement art and web copies from the three gallery
-collections as part of the same named replacement. Preserve every other story's
-art and snapshot. Old reference art must not survive as the replacement's selected
-gallery art or supply creative inputs. No new removal ledger is needed.
+For a new complete story or a substantial rewrite of a non-canon story, obtain a cold Codex reader subagent and a cold Claude reading. If Claude cannot be used, recruit another independent reader and say what changed. Use new readers who did not join the outline talk. Start the Codex reader fresh without the coordinator's prior conversation; paste the complete prompt and current prose into its assignment, or direct it to read only those two named files in the absolute worktree. Keep that same reader available for discussion. Give each reader only those inputs, without the outline, `notes.md`, prior reviews, the writer's explanation, or the other reader's response. If a supplied original image carries a binding detail or is needed to judge the story, provide that original to both readers as well.
 
-Continue the ordinary workflow with fresh agents, fresh references and cover,
-and collection comparison. Do not carry forward old creative artifacts or create a backup,
-replacement-history file, or managed rewrite section. Git preserves history.
-Commit the named removal and creation together.
+For each independent Claude first read (outline, draft, or final), use a new session of the normal authenticated CLI from a neutral temporary directory outside the repository and outside any parent `CLAUDE.md`; pin `--model claude-opus-5-5`, use `--tools ""`, `--strict-mcp-config`, and `--output-format json`, and pipe the complete prompt with only the target outline or prose through stdin rather than a Windows command argument. When an original image is needed, make it available in that neutral directory and grant only the Read tool for that input. Keep each session ID and resume that session from the same directory for its discussion. Do not expose other files or feedback until each independent first reading is delivered. After both readings in a pair arrive, preserve short, attributed excerpts of their observations in their own words in `notes.md` before discussion; keep the coordinator's interpretation separate and do not rewrite those observations when opinions change.
 
-## Collection context
+Ask each reader what held attention or feeling, where the story lost them, what they believed happened, and which passages created those effects. Ask for the most consequential weakness even when the story is broadly successful. Have them distinguish a demonstrated problem from a taste preference, and identify what is already working and should survive revision. A checklist, number, or PASS is not a substitute for a reader's account.
 
-Comparison is production memory, never canon or a model to imitate. Order recent
-stories by full source creation timestamp, using Pages' existing fallback when
-needed, rather than edit or merge time. Confirm passing reviews before reuse.
+Then convene an actual exchange. Relay each participant's own words to the others instead of replacing them with the coordinator's summary. Resume Claude's same session for follow-up; if that session is lost, record the break honestly. Let the writer explain intent, challenge a reading, and propose or reject repairs. Ask the readers to clarify their evidence, respond to each other, and test proposed changes. The coordinator returns to the text to decide which concerns deserve action. Do not settle disagreements by vote. An explanation of authorial intent can clarify a deliberate effect; it does not erase an effect a cold reader experienced. Keep reasoned dissent visible when the choice is to preserve the passage.
 
-- Before OUTLINE, resolve up to five recent passing current outlines. The
-  outliner may read only their `## Story` design sections, never prior Voice
-  capsules or prose.
-- For an 08-23 CREATE or replacement review, resolve the six most recent passing
-  current-story paths excluding the target, or all available if fewer exist.
-  Give these paths only to the reviewer, which follows the bounded comparison
-  procedure in [REVIEW](../story-room/SKILL.md#review).
-- Before the first OUTLINE in each CREATE request, the coordinator audits up to
-  ten most recent passing current stories, excluding the target, under
-  [Collection variation](../../../universe/style-guide.md#collection-variation).
-  Read their recorded prompts and bounded opening, decisive, and closing prose
-  passages, including adjacent action and major dialogue exchanges. Expand only
-  as needed to establish a suspected pattern; outline intent and review PASS
-  are not evidence of narrative variety. Do not inspect removed replacement
-  artifacts. This replaces the exact-multiple-of-ten trigger.
-- For an explicitly grouped multi-story batch, also compare all its completed
-  passing stories with one another once the batch finishes, including siblings
-  produced in parallel. Use the same audit method; do not infer batch membership
-  from dates or delay unrelated stories. Findings guide subsequent CREATE work,
-  not revisions to the completed batch.
-- Give the next outliner an advisory brief of at most 150 words: up to three
-  supported recurring patterns, the range they crowd out, and opportunities
-  compatible with the new prompt. Include dialogue as well as character change
-  and emotional destination. Do not prescribe an ending, quote sampled prose,
-  summarize prior scenes, or expose prior Voice capsules. The writer receives
-  only the target's resulting outline, never the sampled material.
-- Before every OUTLINE handoff, re-resolve the current ordered sample. Reuse
-  in-conversation findings only when that sample's membership and source
-  versions match the audited set; otherwise reconstruct them from the current
-  sample. Always tailor the brief to the current prompt, even when the sample
-  is unchanged. Save no audit file, checklist, ledger, or new story field.
-  Bounded audit sampling never certifies a story's dialogue; the ordinary
-  independent review and its existing dialogue thresholds remain required.
+Focus first on the issues with the greatest effect on the story: attachment and desire, causal movement, scene purpose, point of view, dialogue, revelation, and ending. Use specific passages. Widen a revision when the cause is structural; protect strong scenes and lines that a proposed fix would damage. If a repair repeatedly fails, reconsider the scene's job or the story's premise instead of polishing the same surface.
 
-## Publication
+## Revise and remember
 
-After prose review, both reference-art reviews and both saved-pixel cover reviews
-pass, run from the worktree:
+The writer revises `story.md` directly. Commit each substantial editorial round with a plain description of the change. Continue the conversation with the same readers to find whether the reported effect has changed and what the revision may have broken. After a structural rewrite that changes the premise, scene order, point of view, or ending, obtain a fresh cold reading; returning readers already know the intended repair. After the last substantial revision, require a returning independent reader to read the entire current prose from beginning to end, not just the diff. Repeat discussion and revision while there is a material issue the coordinator would act on; there is no required round count.
 
-```powershell
-pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
-python pages/build.py capture <slug>
-python pages/build.py capture-characters <slug>
-python pages/build.py capture-landscapes <slug>
-python pages/build.py capture-interiors <slug>
-python pages/build.py check
-```
+## Read the finished story with fresh eyes
 
-Run only the applicable gallery captures: a category with no source-supported
-subjects was already accounted for in the art handoff. Never invoke a global art
-capture to publish one story. Story capture comes first because each gallery
-entry links to the existing catalog reader. Compare all accepted reference paths
-and hashes with the named gallery selections; partial character capture is not
-completion even if the command succeeds. Build Pages to a temporary directory
-outside the story package and inspect the story's character, exterior and interior
-entries in the gallery, their thumbnails, full images and reader links.
+When the coordinator and returning readers think the revised story works, recruit a new Codex reader and a new Claude session that saw neither the outline nor the draft conversation. Give each only the complete prompt and current whole prose, independently, with the same cold-read isolation as above. Ask each to describe the story they actually experienced before advising on it: what they cared about, where attention or belief broke, whether the prompt's distinctive promise was fulfilled, and the most consequential reason they would hesitate to publish. Invite scrutiny of choice, dialogue uptake, physical and temporal logic, and the ending, but do not turn that into a box-ticking report. The aim is to expose assumptions the revision room has normalized.
 
-Capture is the final prose, cover and reference-art handoff; chronology entries
-are not required. Stage the four story Markdown files, `title-image.jpg`, accepted
-`art/` PNGs, the story's character specification and manifest inventory update,
-`pages/catalog.json`, `pages/covers/<slug>.jpg`, the changed gallery snapshots
-(`characters.json`, `landscapes.json`, `interiors.json`) and their named web copies,
-plus any required removal changes. Commit,
-push the current branch to `origin` with upstream tracking, and open a draft
-pull request against the repository's default branch. These steps are required
-for completion; do not merge automatically.
+Save their first effects in `notes.md` before sharing opinions. Relay each fresh reader's actual finding to the writer and the other fresh reader, then bring in earlier readers where useful. Ask them to test one another's evidence, the writer's intent, and proposed repairs rather than vote on readiness. The writer repairs at the scale the cause needs. After a substantial change, both fresh final readers reread the complete story and discuss whether the reported effect changed or another problem appeared; after a local change, the reader whose material concern prompted it checks the passage in whole-story context and the coordinator judges it. If distinct concerns prompted the edit, each reporting reader checks their effect. A structural reworking also needs another genuinely fresh reading, because the discussing readers know the intended fix. Continue while a material concern warrants work, not for a preset number of turns or unanimous agreement. Record the reason for accepting or declining a well-supported objection.
 
-Publication-state rules, prompt preservation, timestamp order, and snapshot-only
-CI are defined in [AGENTS: Pages](../../../AGENTS.md#pages). Read that contract
-before capture; it also governs source/catalog canon reconciliation.
+Use `notes.md` as a compact, dated memory for the next writer or editor. Keep the outline readers' first concerns, the prose readers' original effects and passages, the fresh final readers' findings, the writer's responses, the coordinator's reasoning, what changed, what rereading showed, and important unresolved disagreement. Include short before/after excerpts where Git's eventual merge style might otherwise hide the actual repair. Record decisions and lessons, not a full transcript or a form full of empty fields. A later round can correct an earlier diagnosis without erasing it.
+
+Once the prose works, check the prompt, relevant shared facts, names that might confuse readers, and internal time, space, knowledge, and object continuity. Resolve a canon conflict with the user; do not distort the story to satisfy a routine check. The coordinator states why the current version is ready, including any deliberate dissent, in `notes.md` and the pull request. No SHA-256 pin, script, test suite, or numeric review verdict certifies the story.
+
+## Art and handoff
+
+After the prose is ready, create a cover for a new `[WP]` story by default unless the user asks for prose only. Make `title-image.jpg` a 9:16 portrait JPEG at 864×1536, with the exact story title rendered once as part of the image rather than added afterward. Default to the collection's Group of Seven inspired oil style unless the prompt asks otherwise; compose a novel cover, not an illustrated plot summary. Other story art is optional and should serve the finished story. Use the built-in image-generation skill, attach relevant inspected originals from this story's `art/references/` and accepted story art, and inspect the saved pixels for story fidelity, coherent objects and anatomy, readable title, and an image that invites the right story. Before reusing legacy location art, consult `art/selection-notes.json`; prefer a selected correction over an excluded original. Keep accepted art and original reference inputs in the story package. No reference-sheet quota, gallery capture, or site build is part of `[WP]`.
+
+Commit the story, notes, and selected art on the story branch. Push and open a draft pull request for the user to review. Do not merge it automatically. A localized prose edit that changes meaning, action, or voice needs one independent contextual read of the changed passage and a brief note, rather than a full discussion round. The coordinator rereads a purely mechanical correction. A substantive rewrite deserves fresh whole-story reading. Preserve legacy package layouts and prior reviews as history.
