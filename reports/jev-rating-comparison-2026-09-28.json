@@ -1,0 +1,4723 @@
+{
+  "date": "2026-09-28",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "served_model": "typesafe/jev-1.13-20260917",
+  "question": {
+    "type": "choice",
+    "instructions": "Assign the minimum AO3 fiction rating appropriate for the finished story text. Judge the most intense material actually depicted on the page, including its detail and frequency. A theme, identity, relationship, or intended audience alone does not raise the rating.",
+    "criteria": {
+      "General": "Suitable for all ages; mild or non-graphic content.",
+      "Teen": "May be unsuitable for readers under 13; moderate threat, violence, language, or suggestive material without adult-level detail.",
+      "Mature": "Adult themes or stronger violence or sexual material, but without the detailed sexual activity or graphic violence of Explicit.",
+      "Explicit": "Detailed sexual activity, graphic violence, or similarly explicit adult content depicted on the page."
+    }
+  },
+  "input": "Finished story prose only; existing ratings and covers omitted from Jev requests.",
+  "results": [
+    {
+      "slug": "a-beginner-of-considerable-age",
+      "source": "stories/a-beginner-of-considerable-age/story.md",
+      "sha256": "826a23b2cf8b84000e764c3a8a3eb97ad94bae06f2bef4e76db88d530eb818bb",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.39,
+        "General": 0.6,
+        "Mature": 0.01,
+        "Explicit": 0
+      },
+      "confidence": 0.47,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587200-r822fPasGBmQuyVcuS5g",
+      "usage": {
+        "input_tokens": 4660,
+        "output_tokens": 46,
+        "cost": 0.00019572
+      },
+      "canon": false,
+      "title": "A Beginner of Considerable Age"
+    },
+    {
+      "slug": "a-busy-year-for-dying",
+      "source": "stories/a-busy-year-for-dying/story.md",
+      "sha256": "b0b13d9fa7037f845e388a6d40fc1dee5a3b06febcb19c60649b95edd419c971",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.36,
+        "Mature": 0.22,
+        "Teen": 0.42,
+        "Explicit": 0
+      },
+      "confidence": 0.23,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587223-WmCfpLn9iQvqUYKVmuKr",
+      "usage": {
+        "input_tokens": 4815,
+        "output_tokens": 46,
+        "cost": 0.00020223
+      },
+      "canon": false,
+      "title": "A Busy Year for Dying"
+    },
+    {
+      "slug": "a-crown-for-the-endless-fire",
+      "source": "stories/a-crown-for-the-endless-fire/story.md",
+      "sha256": "f9e2438f2097a17234fb7dae92dffe9af88d0da8b901eadce855fc48bcb011e1",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.58,
+        "General": 0.27,
+        "Mature": 0.15,
+        "Explicit": 0
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587223-HkeGniWgbpGtSCzzLvPm",
+      "usage": {
+        "input_tokens": 5153,
+        "output_tokens": 46,
+        "cost": 0.000216426
+      },
+      "canon": false,
+      "title": "A Crown for the Endless Fire"
+    },
+    {
+      "slug": "a-crown-in-the-bargain",
+      "source": "stories/a-crown-in-the-bargain/story.md",
+      "sha256": "5594e4a2f3956476ca7208f1d5544230909ddf1b47042c07c086960ff5db29e4",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.85,
+        "Mature": 0.06,
+        "Explicit": 0,
+        "Teen": 0.09
+      },
+      "confidence": 0.8,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587223-f8IfYAwJ4VBhsIMnnZjG",
+      "usage": {
+        "input_tokens": 5378,
+        "output_tokens": 46,
+        "cost": 0.000225876
+      },
+      "canon": false,
+      "title": "A Crown in the Bargain"
+    },
+    {
+      "slug": "a-curse-before-breakfast",
+      "source": "stories/a-curse-before-breakfast/story.md",
+      "sha256": "3d0bb8357b2865067e8e5143a05fda7ba88495a387a023c4ae46d79882dbd105",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0,
+        "Teen": 0.07,
+        "General": 0.93,
+        "Explicit": 0
+      },
+      "confidence": 0.91,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587223-ra3FcB0gqrocGHdQrqqr",
+      "usage": {
+        "input_tokens": 4646,
+        "output_tokens": 46,
+        "cost": 0.000195132
+      },
+      "canon": false,
+      "title": "A Curse Before Breakfast"
+    },
+    {
+      "slug": "a-darkness-written-under-skin",
+      "source": "stories/a-darkness-written-under-skin/story.md",
+      "sha256": "990ff46715f8134ba99a9c1121dcb7281d678f64d7251d5e1fb9dd37b330290a",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.64,
+        "Explicit": 0,
+        "Teen": 0.27,
+        "Mature": 0.09
+      },
+      "confidence": 0.51,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-dtx5iaiYV0grUgOGMMGY",
+      "usage": {
+        "input_tokens": 3775,
+        "output_tokens": 46,
+        "cost": 0.00015855
+      },
+      "canon": true,
+      "title": "A Darkness Written Under Skin"
+    },
+    {
+      "slug": "a-knock-in-someone-elses-sleep",
+      "source": "stories/a-knock-in-someone-elses-sleep/story.md",
+      "sha256": "078d9c84def0c2f0a2fb25b8bc38533b7311d2af574ccfcf621387ea54cbd2d0",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.65,
+        "Explicit": 0,
+        "Mature": 0.06,
+        "Teen": 0.29
+      },
+      "confidence": 0.53,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-LYdyRd7QGYJLbVg2lil5",
+      "usage": {
+        "input_tokens": 4309,
+        "output_tokens": 46,
+        "cost": 0.000180978
+      },
+      "canon": false,
+      "title": "A Knock in Someone Else's Sleep"
+    },
+    {
+      "slug": "a-little-more-room",
+      "source": "stories/a-little-more-room/story.md",
+      "sha256": "a5ee0dbd01f11390273aedb228fbc8493b05053809d18180160bc9aceae23ed1",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.04,
+        "Explicit": 0,
+        "General": 0.75,
+        "Teen": 0.21
+      },
+      "confidence": 0.66,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-mGS2e5FtSHcpCpJXPa90",
+      "usage": {
+        "input_tokens": 3942,
+        "output_tokens": 46,
+        "cost": 0.000165564
+      },
+      "canon": false,
+      "title": "A Little More Room"
+    },
+    {
+      "slug": "a-little-winter-for-sale",
+      "source": "stories/a-little-winter-for-sale/05-story.md",
+      "sha256": "22da5aa91f45e9f148ce9b23fcd3eecd17504bd18f473ff642d8abf5db61844b",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.02,
+        "General": 0.73,
+        "Teen": 0.25
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-OPyOHQSsrq9LgfhpfJUn",
+      "usage": {
+        "input_tokens": 5382,
+        "output_tokens": 46,
+        "cost": 0.000226044
+      },
+      "canon": false,
+      "title": "A Little Winter for Sale"
+    },
+    {
+      "slug": "a-lock-on-the-inside",
+      "source": "stories/a-lock-on-the-inside/story.md",
+      "sha256": "4290fd38e913e41c77bf0dd793b6957d5aa6d284b682c11f8c3f27ed80b9d164",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.33,
+        "Explicit": 0,
+        "Teen": 0.49,
+        "Mature": 0.18
+      },
+      "confidence": 0.31,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-J2q4L4A0ydjHxFGiq7zd",
+      "usage": {
+        "input_tokens": 4210,
+        "output_tokens": 46,
+        "cost": 0.00017682
+      },
+      "canon": false,
+      "title": "A Lock on the Inside"
+    },
+    {
+      "slug": "a-note-of-spite",
+      "source": "stories/a-note-of-spite/story.md",
+      "sha256": "a8f0aa348e9175c967ba715c9ab91ff298ed64324af837cd2a6f19b087806538",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.02,
+        "Teen": 0.02,
+        "General": 0.96,
+        "Explicit": 0
+      },
+      "confidence": 0.94,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-V0LT5qf98M68SZ0jrXAw",
+      "usage": {
+        "input_tokens": 4785,
+        "output_tokens": 46,
+        "cost": 0.00020097
+      },
+      "canon": false,
+      "title": "A Note of Spite"
+    },
+    {
+      "slug": "a-pet-human",
+      "source": "stories/a-pet-human/story.md",
+      "sha256": "10fb92c23651833cca4bcd3eddf16e0d004d79623950d96450427a9c1399a991",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.73,
+        "General": 0.2,
+        "Explicit": 0,
+        "Mature": 0.07
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-q3Tk84dYBHlDGnlXF51O",
+      "usage": {
+        "input_tokens": 4898,
+        "output_tokens": 46,
+        "cost": 0.000205716
+      },
+      "canon": false,
+      "title": "A Pet Human"
+    },
+    {
+      "slug": "a-place-for-sunday",
+      "source": "stories/a-place-for-sunday/story.md",
+      "sha256": "f1d8b4e7eb6c4bb339cc4db654a80ba2adebbb7e05bfc2d0aa738406ceaea4bd",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0,
+        "Explicit": 0,
+        "Teen": 0,
+        "General": 1
+      },
+      "confidence": 1,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-9KePw3OHMXeQ0wOYYkWg",
+      "usage": {
+        "input_tokens": 4985,
+        "output_tokens": 46,
+        "cost": 0.00020937
+      },
+      "canon": false,
+      "title": "A Place for Sunday"
+    },
+    {
+      "slug": "a-place-for-the-living",
+      "source": "stories/a-place-for-the-living/05-story.md",
+      "sha256": "d67d41a7b58b81753df1a4678977be72eaab2fda06e6fac62d552448a00f275b",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.21,
+        "Teen": 0.21,
+        "General": 0.58
+      },
+      "confidence": 0.44,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-h9lcq4vMxopfKZodoQtY",
+      "usage": {
+        "input_tokens": 5374,
+        "output_tokens": 46,
+        "cost": 0.000225708
+      },
+      "canon": true,
+      "title": "A Place for the Living"
+    },
+    {
+      "slug": "a-reasonable-declaration",
+      "source": "stories/a-reasonable-declaration/story.md",
+      "sha256": "4de7ba56e94bb087086a3fe5f33041a92e837eb59656d32ffb602f476028bc0b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.12,
+        "Explicit": 0,
+        "Mature": 0.02,
+        "General": 0.86
+      },
+      "confidence": 0.82,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-HljTkfQnQkJ7v5X1fAHI",
+      "usage": {
+        "input_tokens": 5020,
+        "output_tokens": 46,
+        "cost": 0.00021084
+      },
+      "canon": false,
+      "title": "A Reasonable Declaration"
+    },
+    {
+      "slug": "a-seat-for-the-sun",
+      "source": "stories/a-seat-for-the-sun/story.md",
+      "sha256": "0ef6d98c9d404c425facb4f6efb00df4ffd8085c51a577cfb35775c3be92d38e",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 1,
+        "Teen": 0,
+        "Mature": 0
+      },
+      "confidence": 1,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-fjXC8dUGM3mkJEoh6JGz",
+      "usage": {
+        "input_tokens": 4791,
+        "output_tokens": 46,
+        "cost": 0.000201222
+      },
+      "canon": false,
+      "title": "A Seat for the Sun"
+    },
+    {
+      "slug": "a-throne-neither-wanted",
+      "source": "stories/a-throne-neither-wanted/story.md",
+      "sha256": "8fd1ab1de6d413e97bd4bb0508467619ee8b69ce6c37679ecf368675dfdd55a4",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.46,
+        "General": 0.33,
+        "Mature": 0.21,
+        "Explicit": 0
+      },
+      "confidence": 0.28,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-bfUDJxiJFdO59MvTKKjd",
+      "usage": {
+        "input_tokens": 5063,
+        "output_tokens": 46,
+        "cost": 0.000212646
+      },
+      "canon": true,
+      "title": "The Throne Neither of Us Wanted"
+    },
+    {
+      "slug": "all-accounts-due",
+      "source": "stories/all-accounts-due/05-story.md",
+      "sha256": "f03d0f2c18ab72cb84c746238a00bd9997ebd2727d3cb6a76da21b6c133eecaa",
+      "existing_rating": "Teen",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Teen": 0.14,
+        "Mature": 0.84,
+        "General": 0,
+        "Explicit": 0.02
+      },
+      "confidence": 0.79,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-iJrqzeoRwRrIdgSC0bUO",
+      "usage": {
+        "input_tokens": 8295,
+        "output_tokens": 47,
+        "cost": 0.00034839
+      },
+      "canon": false,
+      "title": "All Accounts Due"
+    },
+    {
+      "slug": "an-ordinary-education",
+      "source": "stories/an-ordinary-education/story.md",
+      "sha256": "5dd411fafc45eb6839fbd07119facd449585fd53600d1284f0d95a167938117b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "General": 0.71,
+        "Teen": 0.28,
+        "Explicit": 0
+      },
+      "confidence": 0.62,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-JX1CXOCqFdRnlEPwUi7R",
+      "usage": {
+        "input_tokens": 5103,
+        "output_tokens": 46,
+        "cost": 0.000214326
+      },
+      "canon": false,
+      "title": "An Ordinary Education"
+    },
+    {
+      "slug": "anatomy-of-a-god",
+      "source": "stories/anatomy-of-a-god/story.md",
+      "sha256": "b12b025d551a287137d8e01689baa23d97380c099b4c6a73f4dbce5001d26603",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.54,
+        "Explicit": 0,
+        "Mature": 0.45,
+        "General": 0.01
+      },
+      "confidence": 0.37,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-yuTRnLIiRDKY06WB1FyA",
+      "usage": {
+        "input_tokens": 4302,
+        "output_tokens": 46,
+        "cost": 0.000180684
+      },
+      "canon": false,
+      "title": "The Anatomy of a God"
+    },
+    {
+      "slug": "apes-in-orbit",
+      "source": "stories/apes-in-orbit/story.md",
+      "sha256": "a2e548a6cc80729a9c3a5c7b215e288bfeaed50a1b77f9ddc67f468ed1f89430",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.64,
+        "Explicit": 0,
+        "Mature": 0.13,
+        "General": 0.23
+      },
+      "confidence": 0.52,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587224-th9U037H5vWIDuvBdFFr",
+      "usage": {
+        "input_tokens": 6234,
+        "output_tokens": 46,
+        "cost": 0.000261828
+      },
+      "canon": false,
+      "title": "The Apes Above"
+    },
+    {
+      "slug": "before-lunch",
+      "source": "stories/before-lunch/story.md",
+      "sha256": "a2cbcacad5ae685ae1f051e28f6e704728986c8598ac125e4b9cffd46d86e1e0",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.21,
+        "Teen": 0.55,
+        "General": 0.24
+      },
+      "confidence": 0.4,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-jB2WKxtLt0GyQHmzmsm4",
+      "usage": {
+        "input_tokens": 5115,
+        "output_tokens": 46,
+        "cost": 0.00021483
+      },
+      "canon": false,
+      "title": "Before Lunch"
+    },
+    {
+      "slug": "before-she-gets-tired",
+      "source": "stories/before-she-gets-tired/story.md",
+      "sha256": "62d1644d63b90f8022d6f3a2a6a36e1b4ad41d53df2966767b34b93e0ad2987b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.02,
+        "General": 0.98,
+        "Mature": 0,
+        "Explicit": 0
+      },
+      "confidence": 0.96,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-Tb8brlsTLfy0o8GkVHny",
+      "usage": {
+        "input_tokens": 4338,
+        "output_tokens": 46,
+        "cost": 0.000182196
+      },
+      "canon": false,
+      "title": "Not Friday"
+    },
+    {
+      "slug": "between-the-colors",
+      "source": "stories/between-the-colors/story.md",
+      "sha256": "61e1748bde0beb5290657e854c536390cb44c04ff062ed6d5db32806ead2ed6d",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.19,
+        "Teen": 0.72,
+        "General": 0.09,
+        "Explicit": 0
+      },
+      "confidence": 0.62,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-1pXZ83RxW1n8tPB1IZ8I",
+      "usage": {
+        "input_tokens": 4683,
+        "output_tokens": 46,
+        "cost": 0.000196686
+      },
+      "canon": false,
+      "title": "Between the Colors"
+    },
+    {
+      "slug": "blade-calls-your-name",
+      "source": "stories/blade-calls-your-name/story.md",
+      "sha256": "38c241141114f87c3d9e730aa26726fcaa4c65089b8a74420a36965cb0a6d17a",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.07,
+        "General": 0.51,
+        "Explicit": 0,
+        "Teen": 0.42
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-wGNRi0npeU0yFfGhXKOo",
+      "usage": {
+        "input_tokens": 5996,
+        "output_tokens": 46,
+        "cost": 0.000251832
+      },
+      "canon": false,
+      "title": "The Blade Calls Your Name"
+    },
+    {
+      "slug": "blood-types-of-immortality",
+      "source": "stories/blood-types-of-immortality/story.md",
+      "sha256": "78e37a21c399751911d7497e6bbc4dad9318aad3504eaa0fac24ada9d3a948a1",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.25,
+        "General": 0.63,
+        "Mature": 0.12
+      },
+      "confidence": 0.5,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-3j3lubCZCh83ebIYf1sU",
+      "usage": {
+        "input_tokens": 4757,
+        "output_tokens": 46,
+        "cost": 0.000199794
+      },
+      "canon": false,
+      "title": "The Fourth Blood"
+    },
+    {
+      "slug": "by-tooth-and-threshold",
+      "source": "stories/by-tooth-and-threshold/story.md",
+      "sha256": "9aa4c70e9bd61596f864960ce4550faa8eb932ebac5a3845532243a9d5e17cc4",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.02,
+        "Mature": 0.48,
+        "Explicit": 0,
+        "Teen": 0.5
+      },
+      "confidence": 0.34,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-REYWOvKNiU5JeeVll9iB",
+      "usage": {
+        "input_tokens": 5123,
+        "output_tokens": 46,
+        "cost": 0.000215166
+      },
+      "canon": false,
+      "title": "By Tooth and Threshold"
+    },
+    {
+      "slug": "captive-couples",
+      "source": "stories/captive-couples/story.md",
+      "sha256": "880172c0bfb16391006eb89c7d88f90c877f16674e99bf47cc1ef9ec96c0052f",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.64,
+        "Explicit": 0,
+        "Mature": 0.34,
+        "General": 0.02
+      },
+      "confidence": 0.51,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-M3UnFNNX72aQ4u6aZjcT",
+      "usage": {
+        "input_tokens": 5077,
+        "output_tokens": 46,
+        "cost": 0.000213234
+      },
+      "canon": false,
+      "title": "Held Together"
+    },
+    {
+      "slug": "clerics-infernal-ex",
+      "source": "stories/clerics-infernal-ex/story.md",
+      "sha256": "6e4dbcb9674caf1a49cdc2dfeb027662151648aafa46ffc0d7af69f02562813d",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.09,
+        "Explicit": 0,
+        "Teen": 0.74,
+        "Mature": 0.17
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-r5WZT9F1ZIFAFr9gB4x3",
+      "usage": {
+        "input_tokens": 4497,
+        "output_tokens": 46,
+        "cost": 0.000188874
+      },
+      "canon": false,
+      "title": "Hello, Lover"
+    },
+    {
+      "slug": "coiled-together",
+      "source": "stories/coiled-together/story.md",
+      "sha256": "ad60eceaef915a18eae137549d4877a2ced3cd8c2272f36c4f1fc17dc96a3953",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.74,
+        "General": 0.09,
+        "Mature": 0.17
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-U0cud3DR79TZEras0pqJ",
+      "usage": {
+        "input_tokens": 5328,
+        "output_tokens": 46,
+        "cost": 0.000223776
+      },
+      "canon": false,
+      "title": "Coiled Together"
+    },
+    {
+      "slug": "daughter-of-the-sun",
+      "source": "stories/daughter-of-the-sun/05-story.md",
+      "sha256": "55edabe8612ec00f7bacdb8f80dee8278b159e7e57e4031a669175f5c99d1d3b",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.64,
+        "Explicit": 0,
+        "Mature": 0.23,
+        "General": 0.13
+      },
+      "confidence": 0.53,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-8e5wfeNHrjsLxau44KBS",
+      "usage": {
+        "input_tokens": 4663,
+        "output_tokens": 46,
+        "cost": 0.000195846
+      },
+      "canon": true,
+      "title": "Daughter of the Sun"
+    },
+    {
+      "slug": "deaths-patron",
+      "source": "stories/deaths-patron/story.md",
+      "sha256": "693a4c1e757472bee9606ee971964b3e1465d9607bbe19189d6a62204c94a46e",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.7,
+        "General": 0.19,
+        "Explicit": 0,
+        "Mature": 0.11
+      },
+      "confidence": 0.6,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-a3RfO008H0QXbKjUwegT",
+      "usage": {
+        "input_tokens": 4994,
+        "output_tokens": 46,
+        "cost": 0.000209748
+      },
+      "canon": false,
+      "title": "When Death Knelt"
+    },
+    {
+      "slug": "deja-vu-too-late",
+      "source": "stories/deja-vu-too-late/story.md",
+      "sha256": "b3eb038b3fa3b007a2f4de2a6c7e0d8590a8799ed9ea22ddc995dc690e31cc25",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.08,
+        "Teen": 0.68,
+        "Mature": 0.24
+      },
+      "confidence": 0.57,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-Ln3snDThwnkKX8nIG6xA",
+      "usage": {
+        "input_tokens": 4496,
+        "output_tokens": 46,
+        "cost": 0.000188832
+      },
+      "canon": false,
+      "title": "The Warning Comes Second"
+    },
+    {
+      "slug": "drone-down",
+      "source": "stories/drone-down/story.md",
+      "sha256": "7eebbf18288b2aa918ff46f5d31b3e25c1878157cb588a4260e1486623089e2f",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.08,
+        "Teen": 0.85,
+        "General": 0.07
+      },
+      "confidence": 0.79,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-tpyigySBI5ei4QQQHump",
+      "usage": {
+        "input_tokens": 5107,
+        "output_tokens": 46,
+        "cost": 0.000214494
+      },
+      "canon": false,
+      "title": "The City Keeps Score"
+    },
+    {
+      "slug": "empire-within",
+      "source": "stories/empire-within/story.md",
+      "sha256": "506cc5f99f81e2da8906b0bd96fa435a3796b21dc87c41b482763f220314bf67",
+      "existing_rating": "Explicit",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "General": 0,
+        "Mature": 0.83,
+        "Teen": 0.01,
+        "Explicit": 0.16
+      },
+      "confidence": 0.77,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-1MlYOYuwtqtQNfSibW2H",
+      "usage": {
+        "input_tokens": 5547,
+        "output_tokens": 47,
+        "cost": 0.000232974
+      },
+      "canon": false,
+      "title": "Nobody Spends Her Name"
+    },
+    {
+      "slug": "every-flower-she-knew",
+      "source": "stories/every-flower-she-knew/story.md",
+      "sha256": "c371d79024ba27cf90dd7bc8a63e2ad16591c39b3f338d46cdf20af914c57667",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.04,
+        "Explicit": 0,
+        "Mature": 0.01,
+        "General": 0.95
+      },
+      "confidence": 0.93,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587225-e6HyWqUuDOGfJde2VIy6",
+      "usage": {
+        "input_tokens": 4755,
+        "output_tokens": 46,
+        "cost": 0.00019971
+      },
+      "canon": false,
+      "title": "Every Flower She Knew"
+    },
+    {
+      "slug": "everyone-knows-her",
+      "source": "stories/everyone-knows-her/story.md",
+      "sha256": "a1ce2dbf1c3edc213caaa4dba5309a34b56c732528c30b535cdf86c1d63a2594",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0,
+        "Explicit": 0,
+        "General": 0.99,
+        "Teen": 0.01
+      },
+      "confidence": 0.99,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-8ggSO6hzRW4r3P3rzu8J",
+      "usage": {
+        "input_tokens": 4698,
+        "output_tokens": 46,
+        "cost": 0.000197316
+      },
+      "canon": false,
+      "title": "All the Ways They Knew Her"
+    },
+    {
+      "slug": "fifty-seven-minutes",
+      "source": "stories/fifty-seven-minutes/story.md",
+      "sha256": "f6abf2d832407063270b500bf0b1b00a6e1bc06f0dd1ab8570ad241dcf97877c",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.29,
+        "Mature": 0.12,
+        "Explicit": 0,
+        "Teen": 0.59
+      },
+      "confidence": 0.45,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-Hu6ZY6C1DTX5U72BRLKS",
+      "usage": {
+        "input_tokens": 5926,
+        "output_tokens": 46,
+        "cost": 0.000248892
+      },
+      "canon": false,
+      "title": "The Tide Will Have Her Answer"
+    },
+    {
+      "slug": "four-crowns-in-hiding",
+      "source": "stories/four-crowns-in-hiding/story.md",
+      "sha256": "c32bb5313d10f7fce718db6f1683749f16784ab467316e9b589de4ce862b64e3",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.6,
+        "Explicit": 0,
+        "Mature": 0.02,
+        "General": 0.38
+      },
+      "confidence": 0.46,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-i0XaQlHWSmf8mxRAaO4H",
+      "usage": {
+        "input_tokens": 5401,
+        "output_tokens": 46,
+        "cost": 0.000226842
+      },
+      "canon": false,
+      "title": "Four Crowns in Hiding"
+    },
+    {
+      "slug": "four-million-falling",
+      "source": "stories/four-million-falling/05-story.md",
+      "sha256": "4d86fd59b16a9dc89bd2a3b4a76cd23cfef5fcf9417a3e0444516afa5c760927",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.51,
+        "Explicit": 0,
+        "Mature": 0.45,
+        "General": 0.04
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-7NgK14wDmsXC8qgQtWLI",
+      "usage": {
+        "input_tokens": 4904,
+        "output_tokens": 46,
+        "cost": 0.000205968
+      },
+      "canon": true,
+      "title": "Four Million Falling"
+    },
+    {
+      "slug": "fourth-house",
+      "source": "stories/fourth-house/story.md",
+      "sha256": "22f4188bee88b2bed71dd8b152f320f8293140d71f682431caf7b8387fc5d627",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.06,
+        "General": 0.72,
+        "Teen": 0.22,
+        "Explicit": 0
+      },
+      "confidence": 0.63,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-Z4Ulcvq5OYshA1p5Qfro",
+      "usage": {
+        "input_tokens": 5034,
+        "output_tokens": 46,
+        "cost": 0.000211428
+      },
+      "canon": false,
+      "title": "The Fourth House"
+    },
+    {
+      "slug": "friends-of-the-night",
+      "source": "stories/friends-of-the-night/story.md",
+      "sha256": "8e148887cfafdeb6cedf55880f1245d722cf8c36ce073ff10ab621e5bb0aabeb",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.68,
+        "General": 0.11,
+        "Mature": 0.21
+      },
+      "confidence": 0.57,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-p2HiBFmHNc559Tmyhykv",
+      "usage": {
+        "input_tokens": 5264,
+        "output_tokens": 46,
+        "cost": 0.000221088
+      },
+      "canon": true,
+      "title": "Friends of the Night"
+    },
+    {
+      "slug": "gods-afraid-of-grandma",
+      "source": "stories/gods-afraid-of-grandma/story.md",
+      "sha256": "8344efaec13f95a900fc2250d3ef83a6f27e10ed786baa7ee95209672534cba7",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.44,
+        "Mature": 0.16,
+        "Explicit": 0,
+        "General": 0.4
+      },
+      "confidence": 0.25,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-yGwNa252G3OUVH3BDUlQ",
+      "usage": {
+        "input_tokens": 5122,
+        "output_tokens": 46,
+        "cost": 0.000215124
+      },
+      "canon": false,
+      "title": "The Gods Are Afraid of Grandma"
+    },
+    {
+      "slug": "golden-lion",
+      "source": "stories/golden-lion/story.md",
+      "sha256": "72cd5b9a47da833d11edb01df2da2e5d3502e590c747831a8322189c9d4b434d",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.37,
+        "Explicit": 0,
+        "Mature": 0.19,
+        "General": 0.44
+      },
+      "confidence": 0.25,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-92sRGs5rHi6Ae0K12nPS",
+      "usage": {
+        "input_tokens": 5157,
+        "output_tokens": 46,
+        "cost": 0.000216594
+      },
+      "canon": false,
+      "title": "The Gentleman with the Golden Lion"
+    },
+    {
+      "slug": "head-priests-in-love",
+      "source": "stories/head-priests-in-love/story.md",
+      "sha256": "1eda78cc1690fa2109f5b8dff82288a7a906b211e32172b739e52df507a4c09b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.34,
+        "Explicit": 0,
+        "Mature": 0.17,
+        "General": 0.49
+      },
+      "confidence": 0.32,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-a2yPlBfTEav5T7r0iPSH",
+      "usage": {
+        "input_tokens": 4982,
+        "output_tokens": 46,
+        "cost": 0.000209244
+      },
+      "canon": false,
+      "title": "Where Rival Gods Go Quiet"
+    },
+    {
+      "slug": "his-infernal-majesty-says-no",
+      "source": "stories/his-infernal-majesty-says-no/story.md",
+      "sha256": "c37c8a2b71ee1e86f077b8fd090561d4048dae04305b8b475762256749895575",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.19,
+        "Teen": 0.7,
+        "General": 0.11
+      },
+      "confidence": 0.6,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-z4w2ORLuf5B6OVSFkwCB",
+      "usage": {
+        "input_tokens": 4826,
+        "output_tokens": 46,
+        "cost": 0.000202692
+      },
+      "canon": false,
+      "title": "His Infernal Majesty Says No"
+    },
+    {
+      "slug": "i-really-need-a-sidekick",
+      "source": "stories/i-really-need-a-sidekick/story.md",
+      "sha256": "a2665395841ab3623a8924fe862011d20eefb39c8b0f1009611dde768f858e30",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "Explicit": 0,
+        "General": 0.65,
+        "Teen": 0.34
+      },
+      "confidence": 0.53,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-5342rkg8OtEl9vN8iM1s",
+      "usage": {
+        "input_tokens": 4835,
+        "output_tokens": 46,
+        "cost": 0.00020307
+      },
+      "canon": false,
+      "title": "I Really Need a Sidekick"
+    },
+    {
+      "slug": "kite-letters-below",
+      "source": "stories/kite-letters-below/story.md",
+      "sha256": "7050ff1b8cb5e449f37f1965cad0517a05185c4f3d22c4de63943ff62e42d4eb",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.1,
+        "Explicit": 0,
+        "Mature": 0.01,
+        "General": 0.89
+      },
+      "confidence": 0.85,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-lu7GpOWQLIpKbHT6KgCU",
+      "usage": {
+        "input_tokens": 5005,
+        "output_tokens": 46,
+        "cost": 0.00021021
+      },
+      "canon": false,
+      "title": "A Question for the Sky"
+    },
+    {
+      "slug": "last-watcher-of-jupiter",
+      "source": "stories/last-watcher-of-jupiter/story.md",
+      "sha256": "5d1e0d3474f3d7ec36f36a90543520ef8831a7778c4a68091b185e00b0cba8c0",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.08,
+        "Teen": 0.6,
+        "General": 0.32
+      },
+      "confidence": 0.46,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-kgcLIk4vqjyj0cJ2UMLv",
+      "usage": {
+        "input_tokens": 5493,
+        "output_tokens": 46,
+        "cost": 0.000230706
+      },
+      "canon": false,
+      "title": "The Last Watcher of Jupiter"
+    },
+    {
+      "slug": "late-for-dinner",
+      "source": "stories/late-for-dinner/story.md",
+      "sha256": "e2c729285c28ff9b375c634f61568c29c70a108220f3a64d3422594b5143854c",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.7,
+        "Explicit": 0,
+        "General": 0.04,
+        "Mature": 0.26
+      },
+      "confidence": 0.6,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-lLmLF49FwGE8v6QODnMg",
+      "usage": {
+        "input_tokens": 5369,
+        "output_tokens": 46,
+        "cost": 0.000225498
+      },
+      "canon": false,
+      "title": "Late for Dinner"
+    },
+    {
+      "slug": "laughing-clouds",
+      "source": "stories/laughing-clouds/story.md",
+      "sha256": "f063de3615e64d019b9129d60eedfa6e134d96e4ee359411fee9ff44ea3d9a13",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0,
+        "Teen": 0.17,
+        "General": 0.83
+      },
+      "confidence": 0.76,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-YisqOpsCKivqYGMpBRzJ",
+      "usage": {
+        "input_tokens": 5398,
+        "output_tokens": 46,
+        "cost": 0.000226716
+      },
+      "canon": false,
+      "title": "A Little Weather Between Us"
+    },
+    {
+      "slug": "leave-the-names",
+      "source": "stories/leave-the-names/story.md",
+      "sha256": "699e9ae856411cb321865bb4cd85d569e1730eb848068e1c28aeade8301792bf",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.86,
+        "Explicit": 0,
+        "Mature": 0.04,
+        "Teen": 0.1
+      },
+      "confidence": 0.82,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587226-ecuP69SewkIdeNJHZUty",
+      "usage": {
+        "input_tokens": 5279,
+        "output_tokens": 46,
+        "cost": 0.000221718
+      },
+      "canon": false,
+      "title": "Leave the Names"
+    },
+    {
+      "slug": "life-with-a-girlfriend-with-shrinking-powers",
+      "source": "stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md",
+      "sha256": "6b72af42c75d4f7994d847f586653114573de3a11738644a41062148710d4dc7",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.55,
+        "Mature": 0.08,
+        "General": 0.37,
+        "Explicit": 0
+      },
+      "confidence": 0.4,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-NGgl2jWF5LspwcK0xmhb",
+      "usage": {
+        "input_tokens": 4759,
+        "output_tokens": 46,
+        "cost": 0.000199878
+      },
+      "canon": false,
+      "title": "The Two-Tug Rule"
+    },
+    {
+      "slug": "lightning-carries-one",
+      "source": "stories/lightning-carries-one/story.md",
+      "sha256": "24d426f54c7a9552acce03d568ad8ee0ec224e13a8262f52319c59d60296f6a8",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.36,
+        "Mature": 0.16,
+        "Explicit": 0,
+        "General": 0.48
+      },
+      "confidence": 0.31,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-NqM02khPPe4MVqV4LlD1",
+      "usage": {
+        "input_tokens": 5071,
+        "output_tokens": 46,
+        "cost": 0.000212982
+      },
+      "canon": false,
+      "title": "Lightning Carries One"
+    },
+    {
+      "slug": "mother-of-monsters",
+      "source": "stories/mother-of-monsters/story.md",
+      "sha256": "7e88636cd33cb44152ebb6c00d1ed1708834509ba1aafb984653008185606f43",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.27,
+        "Teen": 0.68,
+        "General": 0.04
+      },
+      "confidence": 0.58,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-NcnMfF6uhYYeaxZvkAqW",
+      "usage": {
+        "input_tokens": 5315,
+        "output_tokens": 46,
+        "cost": 0.00022323
+      },
+      "canon": false,
+      "title": "Mother of Monsters"
+    },
+    {
+      "slug": "never-a-mascot",
+      "source": "stories/never-a-mascot/story.md",
+      "sha256": "923b2a9bdd5b18780ba0eb833f67b6ddff464fa6a695af83e773b2e973e933b6",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.42,
+        "General": 0.04,
+        "Teen": 0.54
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-BzPno3UHwGFpHIoxbWng",
+      "usage": {
+        "input_tokens": 4578,
+        "output_tokens": 46,
+        "cost": 0.000192276
+      },
+      "canon": false,
+      "title": "The First Call"
+    },
+    {
+      "slug": "no-need-to-worry",
+      "source": "stories/no-need-to-worry/story.md",
+      "sha256": "03d3d64ccd4d9885326bb3f880d45b76f18001288a0716d2a5667573180bd645",
+      "existing_rating": "Explicit",
+      "jev_rating": "Explicit",
+      "probabilities": {
+        "Teen": 0,
+        "Explicit": 0.71,
+        "Mature": 0.29,
+        "General": 0
+      },
+      "confidence": 0.6,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-GMTXitHGgCBsJokhySbC",
+      "usage": {
+        "input_tokens": 5043,
+        "output_tokens": 46,
+        "cost": 0.000211806
+      },
+      "canon": false,
+      "title": "No Need to Worry"
+    },
+    {
+      "slug": "no-one-like-me",
+      "source": "stories/no-one-like-me/story.md",
+      "sha256": "63c6a52934d1b130688947a1f1bc8eb3b71b6baad8c146165cd66135dddbcf10",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.01,
+        "Mature": 0,
+        "General": 0.99,
+        "Explicit": 0
+      },
+      "confidence": 0.98,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-1UvpQPgesVNKueX2BI9C",
+      "usage": {
+        "input_tokens": 4638,
+        "output_tokens": 46,
+        "cost": 0.000194796
+      },
+      "canon": false,
+      "title": "No One Like Me"
+    },
+    {
+      "slug": "not-about-that",
+      "source": "stories/not-about-that/story.md",
+      "sha256": "4db3aea59a1988dc04fd5a6665641c05e44e086eac31a754bea051d32d0432ee",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.44,
+        "Explicit": 0,
+        "Mature": 0,
+        "Teen": 0.56
+      },
+      "confidence": 0.42,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-LZQfFTbC1fDOsNUimiZY",
+      "usage": {
+        "input_tokens": 4979,
+        "output_tokens": 46,
+        "cost": 0.000209118
+      },
+      "canon": false,
+      "title": "Not About That"
+    },
+    {
+      "slug": "only-eighteen",
+      "source": "stories/only-eighteen/story.md",
+      "sha256": "af1ab2981f98accb6e7a84939c770ab79176bbba2756b4fe1223490bb51aec06",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "Explicit": 0,
+        "General": 0.9,
+        "Teen": 0.09
+      },
+      "confidence": 0.86,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-XHU3DHiVDIbhdzYPfspv",
+      "usage": {
+        "input_tokens": 4809,
+        "output_tokens": 46,
+        "cost": 0.000201978
+      },
+      "canon": false,
+      "title": "Only Eighteen"
+    },
+    {
+      "slug": "pool-sovereign",
+      "source": "stories/pool-sovereign/story.md",
+      "sha256": "3c8499518efb5b8d63cd003c027a8760af237ad95f2391758a9627c036ea096b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.04,
+        "Explicit": 0,
+        "Teen": 0.04,
+        "General": 0.92
+      },
+      "confidence": 0.9,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-ZZbYQOpYdxMpnhttECMe",
+      "usage": {
+        "input_tokens": 4466,
+        "output_tokens": 46,
+        "cost": 0.000187572
+      },
+      "canon": false,
+      "title": "The Deep End"
+    },
+    {
+      "slug": "postcard-garden",
+      "source": "stories/postcard-garden/story.md",
+      "sha256": "f2e03c6ac00da7b99bed89464a82a67e4f5711236099039bc7a6cbdc8e113c50",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0,
+        "Teen": 0.01,
+        "General": 0.99,
+        "Explicit": 0
+      },
+      "confidence": 0.99,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-4D1Y1ZBIkduY3iIJoqoE",
+      "usage": {
+        "input_tokens": 4952,
+        "output_tokens": 46,
+        "cost": 0.000207984
+      },
+      "canon": false,
+      "title": "The Address of Here"
+    },
+    {
+      "slug": "realms",
+      "source": "stories/realms/05-story.md",
+      "sha256": "f9ea02e89483067920f6e0ce198f8c457d3920e89ccdcfba2b4b65658d4c973f",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.47,
+        "General": 0,
+        "Teen": 0.53,
+        "Explicit": 0
+      },
+      "confidence": 0.37,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-0HyPcrUUEubSU7QLUmSS",
+      "usage": {
+        "input_tokens": 5203,
+        "output_tokens": 46,
+        "cost": 0.000218526
+      },
+      "canon": true,
+      "title": "Realms"
+    },
+    {
+      "slug": "roads-under-impossible-stars",
+      "source": "stories/roads-under-impossible-stars/story.md",
+      "sha256": "d25236d71b661d4c31f09e3fdafeba89ccb5a371cef659883551fa6363639c42",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.54,
+        "Mature": 0.04,
+        "General": 0.42,
+        "Explicit": 0
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-L5ht7f38JjzdcUwYYAjv",
+      "usage": {
+        "input_tokens": 5513,
+        "output_tokens": 46,
+        "cost": 0.000231546
+      },
+      "canon": false,
+      "title": "Roads Under Impossible Stars"
+    },
+    {
+      "slug": "rooms-before-sunrise",
+      "source": "stories/rooms-before-sunrise/story.md",
+      "sha256": "62a00ded7c674994527a71b8841b33bcfc0d1d47df595b2be41ba14371ca9709",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.51,
+        "Mature": 0.37,
+        "General": 0.12,
+        "Explicit": 0
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-DDN3wT08HylXBT4t72lK",
+      "usage": {
+        "input_tokens": 5539,
+        "output_tokens": 46,
+        "cost": 0.000232638
+      },
+      "canon": false,
+      "title": "The Rooms the City Forgot"
+    },
+    {
+      "slug": "saint-and-demon",
+      "source": "stories/saint-and-demon/story.md",
+      "sha256": "a1edc64b3f62a1271d4ba011c7a35c5b0a4a2b3dffc2686b5d3cf19ee2226be6",
+      "existing_rating": "Mature",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Mature": 0.81,
+        "General": 0,
+        "Teen": 0.04,
+        "Explicit": 0.14
+      },
+      "confidence": 0.75,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-lPqVbIStxB6BHekBwqZm",
+      "usage": {
+        "input_tokens": 4698,
+        "output_tokens": 47,
+        "cost": 0.000197316
+      },
+      "canon": false,
+      "title": "The Beloved World"
+    },
+    {
+      "slug": "sakura-hearted",
+      "source": "stories/sakura-hearted/story.md",
+      "sha256": "1502128d310ec5a7495825e57dfd7bb93f44d28dfa6eb323f1869baabc41e1a3",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.19,
+        "Explicit": 0,
+        "General": 0.74,
+        "Mature": 0.07
+      },
+      "confidence": 0.64,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587227-lDUQpqAI0C3xtx2PA4zN",
+      "usage": {
+        "input_tokens": 4695,
+        "output_tokens": 46,
+        "cost": 0.00019719
+      },
+      "canon": false,
+      "title": "Sakura-Hearted"
+    },
+    {
+      "slug": "save-that-dragon",
+      "source": "stories/save-that-dragon/story.md",
+      "sha256": "c034be1be0826c8c750a2419f03157b76a4bccdbb1804f288a142a774dcbb4f3",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.33,
+        "General": 0.03,
+        "Teen": 0.64,
+        "Explicit": 0
+      },
+      "confidence": 0.52,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-bCb8QqBbqf2mvwQkXstq",
+      "usage": {
+        "input_tokens": 5175,
+        "output_tokens": 46,
+        "cost": 0.00021735
+      },
+      "canon": false,
+      "title": "One Night's Mercy"
+    },
+    {
+      "slug": "self-reflection",
+      "source": "stories/self-reflection/05-story.md",
+      "sha256": "6ca672d69f7a403ec1a5feae2f28a33322b1589bbcdcde851add32983bc27acf",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.53,
+        "Mature": 0.03,
+        "Explicit": 0,
+        "Teen": 0.44
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-jqzeYVtce60s8fZBpzMJ",
+      "usage": {
+        "input_tokens": 5068,
+        "output_tokens": 46,
+        "cost": 0.000212856
+      },
+      "canon": true,
+      "title": "Self-Reflection"
+    },
+    {
+      "slug": "seraph-infinite-gear",
+      "source": "stories/seraph-infinite-gear/story.md",
+      "sha256": "ba6577f4d6fbe655b27ec57d3880839af8845c0cf366919edd4fca1fbf439720",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.11,
+        "Teen": 0.36,
+        "General": 0.53,
+        "Explicit": 0
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-oPhfkyLUGjMnTonPe0O1",
+      "usage": {
+        "input_tokens": 4665,
+        "output_tokens": 46,
+        "cost": 0.00019593
+      },
+      "canon": false,
+      "title": "The Seraph of the Infinite Gear"
+    },
+    {
+      "slug": "she-literally-has-wings",
+      "source": "stories/she-literally-has-wings/story.md",
+      "sha256": "ef5cd5a5981f7a2e65a0cd85dc880647f27b31b52e5779d8e3d585a9bb7b290d",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.03,
+        "General": 0.95,
+        "Explicit": 0,
+        "Teen": 0.02
+      },
+      "confidence": 0.92,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-3EvoCJuKzu0i2hscvDWm",
+      "usage": {
+        "input_tokens": 4306,
+        "output_tokens": 46,
+        "cost": 0.000180852
+      },
+      "canon": false,
+      "title": "She Literally Has Wings"
+    },
+    {
+      "slug": "solstice-evening-bell",
+      "source": "stories/solstice-evening-bell/05-story.md",
+      "sha256": "75d42da61bd48f7b26c6b5b20952205dbeccdfcfd10f1edd92559f13928885e2",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.48,
+        "Teen": 0.51,
+        "General": 0.01
+      },
+      "confidence": 0.34,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-JPguGjxqP3wCcFOIctfi",
+      "usage": {
+        "input_tokens": 5669,
+        "output_tokens": 46,
+        "cost": 0.000238098
+      },
+      "canon": true,
+      "title": "Solstice Evening Bell"
+    },
+    {
+      "slug": "stay-out-of-my-city",
+      "source": "stories/stay-out-of-my-city/story.md",
+      "sha256": "5bc1803efab4fa840ba8a04c6f5238617eb13025e87db4bef727431478d3b7f4",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.6,
+        "Teen": 0.38,
+        "Mature": 0.02
+      },
+      "confidence": 0.47,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-L2oE4Wrc4q6v2w2PPtJ8",
+      "usage": {
+        "input_tokens": 4994,
+        "output_tokens": 46,
+        "cost": 0.000209748
+      },
+      "canon": false,
+      "title": "Stay Out of My City"
+    },
+    {
+      "slug": "still-taking-runaways",
+      "source": "stories/still-taking-runaways/story.md",
+      "sha256": "9bbb5e6480a7ac85eaaaf9f537197aee957a74efba17299e5897778fd16ea5df",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.09,
+        "General": 0.91,
+        "Mature": 0
+      },
+      "confidence": 0.88,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-NlwzZE6IHnTD4Uk0ZanB",
+      "usage": {
+        "input_tokens": 4654,
+        "output_tokens": 46,
+        "cost": 0.000195468
+      },
+      "canon": false,
+      "title": "Still Taking Runaways"
+    },
+    {
+      "slug": "storm-warning",
+      "source": "stories/storm-warning/story.md",
+      "sha256": "9d3ac5daa3de1f191611122f4912d1979fba72f96c9ae93d65c4a11421660beb",
+      "existing_rating": "Mature",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Mature": 0.92,
+        "General": 0,
+        "Teen": 0.06,
+        "Explicit": 0.02
+      },
+      "confidence": 0.89,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-zqQx9FYYtDbo7MThrITf",
+      "usage": {
+        "input_tokens": 5444,
+        "output_tokens": 47,
+        "cost": 0.000228648
+      },
+      "canon": false,
+      "title": "Storm Warning"
+    },
+    {
+      "slug": "strength-of-ten",
+      "source": "stories/strength-of-ten/05-story.md",
+      "sha256": "86732c1188737657ce52af984d8235d47024ab79c16848b62edb3d6df330cb52",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.2,
+        "Explicit": 0,
+        "General": 0.07,
+        "Teen": 0.73
+      },
+      "confidence": 0.64,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-6Yo84pFI6cYA2CqeG0ce",
+      "usage": {
+        "input_tokens": 5021,
+        "output_tokens": 46,
+        "cost": 0.000210882
+      },
+      "canon": true,
+      "title": "The Strength of Ten"
+    },
+    {
+      "slug": "tea-for-the-first-guest",
+      "source": "stories/tea-for-the-first-guest/story.md",
+      "sha256": "9ed09a249c6c9ad311e05bffee78ecd465049faaa5bb9975eda06cc037f72dfa",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.03,
+        "Teen": 0.25,
+        "General": 0.72,
+        "Explicit": 0
+      },
+      "confidence": 0.62,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-H0skqvJ8Ot9ksDYGkrlf",
+      "usage": {
+        "input_tokens": 5347,
+        "output_tokens": 46,
+        "cost": 0.000224574
+      },
+      "canon": false,
+      "title": "Tea for the First Guest"
+    },
+    {
+      "slug": "tenth-world-lesson",
+      "source": "stories/tenth-world-lesson/05-story.md",
+      "sha256": "1e2e762ef2c45f270b222f93d4f3658b462519e64462ca43de5dfa54f259961d",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.18,
+        "Explicit": 0,
+        "Mature": 0.19,
+        "Teen": 0.63
+      },
+      "confidence": 0.5,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-7XwxjeYYCJfq9y0enh9l",
+      "usage": {
+        "input_tokens": 5767,
+        "output_tokens": 46,
+        "cost": 0.000242214
+      },
+      "canon": false,
+      "title": "The Tenth World Needs No Hero"
+    },
+    {
+      "slug": "terms-at-four",
+      "source": "stories/terms-at-four/story.md",
+      "sha256": "4d3efbd66a8856dab942e68f94c4e7ecd89c4976993fe612f1444bb58af83380",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.57,
+        "Explicit": 0,
+        "General": 0.1,
+        "Mature": 0.33
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-3q9uV3p6TB6ZR8Lb3bTI",
+      "usage": {
+        "input_tokens": 5179,
+        "output_tokens": 46,
+        "cost": 0.000217518
+      },
+      "canon": false,
+      "title": "Terms at Four"
+    },
+    {
+      "slug": "the-astral-valkyrie",
+      "source": "stories/the-astral-valkyrie/story.md",
+      "sha256": "3f8438fefe6f9b91d0b125680a9a1c324a70c56676fa434eec89e3085e42183d",
+      "existing_rating": "Teen",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Teen": 0.23,
+        "Explicit": 0.01,
+        "Mature": 0.76,
+        "General": 0
+      },
+      "confidence": 0.67,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-M3s9mGjZzMCqEvmgpVDd",
+      "usage": {
+        "input_tokens": 4723,
+        "output_tokens": 47,
+        "cost": 0.000198366
+      },
+      "canon": false,
+      "title": "The Astral Valkyrie"
+    },
+    {
+      "slug": "the-attendance-ledger",
+      "source": "stories/the-attendance-ledger/05-story.md",
+      "sha256": "0075ea267ad977cf7d1f40ad8e021f1789a177b255185c8ae31ba45057817968",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.09,
+        "Explicit": 0,
+        "Mature": 0.03,
+        "Teen": 0.88
+      },
+      "confidence": 0.84,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-f0q3BiTpVxH06A9R8vDF",
+      "usage": {
+        "input_tokens": 5636,
+        "output_tokens": 46,
+        "cost": 0.000236712
+      },
+      "canon": false,
+      "title": "The Attendance Ledger"
+    },
+    {
+      "slug": "the-bat-at-the-door",
+      "source": "stories/the-bat-at-the-door/story.md",
+      "sha256": "1a3082e556471ac03f02942aa1d54e64601aab1a0d2eac854842ac71ef694ce2",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "Explicit": 0,
+        "Teen": 0.21,
+        "General": 0.78
+      },
+      "confidence": 0.72,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-IEAyATQyb0VKcdaVXlQC",
+      "usage": {
+        "input_tokens": 5350,
+        "output_tokens": 46,
+        "cost": 0.0002247
+      },
+      "canon": false,
+      "title": "By Wing and Welcome"
+    },
+    {
+      "slug": "the-body-called-one",
+      "source": "stories/the-body-called-one/story.md",
+      "sha256": "eda30250a5a628eb1ce6f2a6d91609389fb07f3e1c5ed8053d3cfab5af1a8f91",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.66,
+        "General": 0.08,
+        "Explicit": 0,
+        "Mature": 0.26
+      },
+      "confidence": 0.54,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587228-1l9gopRhgzJPFON0KaHE",
+      "usage": {
+        "input_tokens": 5625,
+        "output_tokens": 46,
+        "cost": 0.00023625
+      },
+      "canon": false,
+      "title": "The Body Called One"
+    },
+    {
+      "slug": "the-bride-who-came-back",
+      "source": "stories/the-bride-who-came-back/story.md",
+      "sha256": "ce8ef75616a229cec512fdfc04e1197e18fc554d29501ad2b508eae3b9b65030",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.68,
+        "Explicit": 0,
+        "Mature": 0.26,
+        "General": 0.06
+      },
+      "confidence": 0.56,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-PJKAqbhk3s1F6XqawiHA",
+      "usage": {
+        "input_tokens": 5024,
+        "output_tokens": 46,
+        "cost": 0.000211008
+      },
+      "canon": false,
+      "title": "The Bride Who Came Back"
+    },
+    {
+      "slug": "the-cat-who-had-enough",
+      "source": "stories/the-cat-who-had-enough/story.md",
+      "sha256": "c921b15c8725c52ff791ca6807baa96e0fc94c52685bd0e7c9aa7eab3b6d8add",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.08,
+        "General": 0.86,
+        "Mature": 0.06
+      },
+      "confidence": 0.81,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-LKxyShsUT1gedem9lsWE",
+      "usage": {
+        "input_tokens": 4325,
+        "output_tokens": 46,
+        "cost": 0.00018165
+      },
+      "canon": false,
+      "title": "Nine Lives of Excuses"
+    },
+    {
+      "slug": "the-cat-who-kept-the-door",
+      "source": "stories/the-cat-who-kept-the-door/story.md",
+      "sha256": "b14a3c43964c6d55e9ca3b545fc2e19ad98085ba9117665c1e2725ca84d80f46",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.73,
+        "General": 0.07,
+        "Explicit": 0,
+        "Mature": 0.2
+      },
+      "confidence": 0.63,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-VxxDGPxkUaETJhZWmH0I",
+      "usage": {
+        "input_tokens": 5048,
+        "output_tokens": 46,
+        "cost": 0.000212016
+      },
+      "canon": false,
+      "title": "The Cat Who Kept the Door"
+    },
+    {
+      "slug": "the-chair-at-the-back",
+      "source": "stories/the-chair-at-the-back/story.md",
+      "sha256": "0c55927f9fcf838cec2a2a13422284ccb370725410d90088ed8aa3ce82fe5d20",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.72,
+        "Explicit": 0,
+        "Mature": 0.01,
+        "Teen": 0.27
+      },
+      "confidence": 0.63,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-BihdpLWvPXODwxIU7vX1",
+      "usage": {
+        "input_tokens": 4831,
+        "output_tokens": 46,
+        "cost": 0.000202902
+      },
+      "canon": false,
+      "title": "The Chair at the Back"
+    },
+    {
+      "slug": "the-city-of-eleven-foundations",
+      "source": "stories/the-city-of-eleven-foundations/05-story.md",
+      "sha256": "fefc3578d4f875e4f33dab9de26a98c99c310faf18520fd2d9081009589bd688",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.01,
+        "Teen": 0.15,
+        "General": 0.84
+      },
+      "confidence": 0.79,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-f0QVIwYuHN7lZckhkgp3",
+      "usage": {
+        "input_tokens": 5354,
+        "output_tokens": 46,
+        "cost": 0.000224868
+      },
+      "canon": true,
+      "title": "The City of Eleven Foundations"
+    },
+    {
+      "slug": "the-closed-day",
+      "source": "stories/the-closed-day/story.md",
+      "sha256": "edef9d976ff14d6ea55a1adfdbfcf38eff33d1b7317e26a0b48bd5e62e149d03",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.39,
+        "Explicit": 0,
+        "General": 0.03,
+        "Teen": 0.58
+      },
+      "confidence": 0.44,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-y1nOaZGA9bSEfEkmaeUo",
+      "usage": {
+        "input_tokens": 4290,
+        "output_tokens": 46,
+        "cost": 0.00018018
+      },
+      "canon": false,
+      "title": "the-closed-day"
+    },
+    {
+      "slug": "the-color-that-comes-home",
+      "source": "stories/the-color-that-comes-home/story.md",
+      "sha256": "c41fe6e363a3a7c6b4589a1b1b6dceb31387c43d77e3accd48629cea2062f456",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.29,
+        "General": 0.69,
+        "Mature": 0.02
+      },
+      "confidence": 0.59,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-u9jamTcqba7W4uRWSjcD",
+      "usage": {
+        "input_tokens": 4493,
+        "output_tokens": 46,
+        "cost": 0.000188706
+      },
+      "canon": false,
+      "title": "The Last Color Through"
+    },
+    {
+      "slug": "the-count-was-131072",
+      "source": "stories/the-count-was-131072/story.md",
+      "sha256": "39b343ab3d3267f0d76c283837defc392cde900a2fbe5619c40ae06992bec0f9",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.79,
+        "Teen": 0.15,
+        "Mature": 0.06
+      },
+      "confidence": 0.72,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-d1lr6tCA4JXHu7GGRN4s",
+      "usage": {
+        "input_tokens": 5550,
+        "output_tokens": 46,
+        "cost": 0.0002331
+      },
+      "canon": false,
+      "title": "The Count Was 131,072"
+    },
+    {
+      "slug": "the-courtesy-of-blades",
+      "source": "stories/the-courtesy-of-blades/05-story.md",
+      "sha256": "f54048236a9c6ddde2539a2a27be814b7d71db8d4dcc5615ccda5c2dcaa2a138",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.22,
+        "General": 0.76,
+        "Mature": 0.02
+      },
+      "confidence": 0.68,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-rNIZVxP9wfPvrAd3HS2E",
+      "usage": {
+        "input_tokens": 5322,
+        "output_tokens": 46,
+        "cost": 0.000223524
+      },
+      "canon": true,
+      "title": "The Courtesy of Blades"
+    },
+    {
+      "slug": "the-credit-book",
+      "source": "stories/the-credit-book/story.md",
+      "sha256": "4f1827c2eb5fea809d2b9238b0e3fae3bf13116caa2ba1047da4a4539dc7cbf5",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.01,
+        "General": 0.97,
+        "Teen": 0.02
+      },
+      "confidence": 0.97,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-nITg497ZnEGBhifGUYfe",
+      "usage": {
+        "input_tokens": 4673,
+        "output_tokens": 46,
+        "cost": 0.000196266
+      },
+      "canon": false,
+      "title": "The Credit Book"
+    },
+    {
+      "slug": "the-door-in-the-ivy",
+      "source": "stories/the-door-in-the-ivy/story.md",
+      "sha256": "b5c61e077e4bf5623f3c2cc0a8b752227cf8c4def8f66af43eafbce4a5317e7b",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.09,
+        "General": 0.52,
+        "Teen": 0.39
+      },
+      "confidence": 0.36,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-v2fqBwbsdgegJVDujWw1",
+      "usage": {
+        "input_tokens": 4805,
+        "output_tokens": 46,
+        "cost": 0.00020181
+      },
+      "canon": false,
+      "title": "The Door in the Ivy"
+    },
+    {
+      "slug": "the-door-knows-home",
+      "source": "stories/the-door-knows-home/story.md",
+      "sha256": "a40a1e62a3c5663e7e514b3f5c7f9ae3d6e28385c12c3a3a101cb8ce18721ab1",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.01,
+        "General": 0.97,
+        "Mature": 0.02,
+        "Explicit": 0
+      },
+      "confidence": 0.96,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-Hazo0dC3rBO3h37b5FKh",
+      "usage": {
+        "input_tokens": 4738,
+        "output_tokens": 46,
+        "cost": 0.000198996
+      },
+      "canon": false,
+      "title": "The Door Knows Home"
+    },
+    {
+      "slug": "the-dress-they-brought-her",
+      "source": "stories/the-dress-they-brought-her/story.md",
+      "sha256": "51b4d2fb3c2025753b80d22ca1b4401626947c020f7eee673a9efd604f127dab",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.12,
+        "Teen": 0.53,
+        "Explicit": 0,
+        "General": 0.35
+      },
+      "confidence": 0.37,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-auc9AZ97ulXsrsc7HtKv",
+      "usage": {
+        "input_tokens": 3805,
+        "output_tokens": 46,
+        "cost": 0.00015981
+      },
+      "canon": false,
+      "title": "The Dress They Brought Her"
+    },
+    {
+      "slug": "the-driver-the-city-could-not-see",
+      "source": "stories/the-driver-the-city-could-not-see/story.md",
+      "sha256": "7cc97f79e39fc06e93edfe07d4713abb552a5d24ec464ac05ad3eed4d2f48328",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.66,
+        "General": 0.28,
+        "Explicit": 0,
+        "Mature": 0.06
+      },
+      "confidence": 0.55,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-3cvBaG8bp9zTs8LBvQ1k",
+      "usage": {
+        "input_tokens": 5053,
+        "output_tokens": 46,
+        "cost": 0.000212226
+      },
+      "canon": false,
+      "title": "The Driver the City Could Not See"
+    },
+    {
+      "slug": "the-emerald-relic",
+      "source": "stories/the-emerald-relic/story.md",
+      "sha256": "4bd4f68b4ffc5261f2fa8d7a09661d5ed32b32864ff23e160951818069ae6612",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.45,
+        "Explicit": 0,
+        "Mature": 0.4,
+        "General": 0.15
+      },
+      "confidence": 0.27,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-3aw8lrwHhiazi8l7MHuY",
+      "usage": {
+        "input_tokens": 4998,
+        "output_tokens": 46,
+        "cost": 0.000209916
+      },
+      "canon": false,
+      "title": "A Bargain with Anubis"
+    },
+    {
+      "slug": "the-first-kingdom-was-late-on-taxes",
+      "source": "stories/the-first-kingdom-was-late-on-taxes/story.md",
+      "sha256": "d82b51dedf313b2517c961d22716df63b9c9df2d1c1af3ffc576daa9e2bd40aa",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.67,
+        "Mature": 0.05,
+        "Teen": 0.28
+      },
+      "confidence": 0.56,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587229-Ag6v3t0eYYHhtTfgrRDw",
+      "usage": {
+        "input_tokens": 5007,
+        "output_tokens": 46,
+        "cost": 0.000210294
+      },
+      "canon": false,
+      "title": "Where the Mountain Used to Be"
+    },
+    {
+      "slug": "the-first-people",
+      "source": "stories/the-first-people/story.md",
+      "sha256": "20f8a13a4b892bee64abab1c9fd8bbf3613f3a8a64933f71e6d7b7dee51f6ba8",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.28,
+        "General": 0.08,
+        "Teen": 0.64,
+        "Explicit": 0
+      },
+      "confidence": 0.52,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-dXx01yfT1VCOdh0W4i5F",
+      "usage": {
+        "input_tokens": 5069,
+        "output_tokens": 46,
+        "cost": 0.000212898
+      },
+      "canon": false,
+      "title": "The First People"
+    },
+    {
+      "slug": "the-first-winter",
+      "source": "stories/the-first-winter/story.md",
+      "sha256": "30535b228021d43933ebd195e891413f1e37b4c1a81e6aa05373ff12e90d85fe",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.56,
+        "Mature": 0.43,
+        "Explicit": 0,
+        "General": 0.01
+      },
+      "confidence": 0.41,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-dgyjLLy0zge0lia9Siin",
+      "usage": {
+        "input_tokens": 4780,
+        "output_tokens": 46,
+        "cost": 0.00020076
+      },
+      "canon": false,
+      "title": "The First Winter"
+    },
+    {
+      "slug": "the-first-wound",
+      "source": "stories/the-first-wound/story.md",
+      "sha256": "125d76bab2d623db9ddf14aadf193eea3df82a4562830cba473d7eb6c8ccb19a",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.09,
+        "Explicit": 0,
+        "Mature": 0.4,
+        "Teen": 0.51
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-5fxHNk4MYyFkn31Pkm1A",
+      "usage": {
+        "input_tokens": 4507,
+        "output_tokens": 46,
+        "cost": 0.000189294
+      },
+      "canon": false,
+      "title": "The First Wound"
+    },
+    {
+      "slug": "the-five-minute-warranty",
+      "source": "stories/the-five-minute-warranty/05-story.md",
+      "sha256": "df1e2bcd5f1f69eae486ad6b7d10bb57f6ebe83ca9b63dbb84a81fd7aeab3c9e",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.07,
+        "Teen": 0.51,
+        "Explicit": 0,
+        "General": 0.42
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-6VCUNyPM1GGr2up8mej0",
+      "usage": {
+        "input_tokens": 4852,
+        "output_tokens": 46,
+        "cost": 0.000203784
+      },
+      "canon": true,
+      "title": "The Five-Minute Warranty"
+    },
+    {
+      "slug": "the-foundations-remember",
+      "source": "stories/the-foundations-remember/story.md",
+      "sha256": "4633df1411ee4c837d95a4625abca33cafcc685669ffa281759c441d9eb48077",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.36,
+        "General": 0.41,
+        "Mature": 0.23,
+        "Explicit": 0
+      },
+      "confidence": 0.22,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-j2MFi0qAZ6hxgpyTxXks",
+      "usage": {
+        "input_tokens": 5607,
+        "output_tokens": 46,
+        "cost": 0.000235494
+      },
+      "canon": false,
+      "title": "The Memory Under Line Zero"
+    },
+    {
+      "slug": "the-friends-i-built",
+      "source": "stories/the-friends-i-built/05-story.md",
+      "sha256": "728e2f4ec45d3d6576790efa1525765f57331a0dcac7811a83e810a9b0ae3aca",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.28,
+        "Mature": 0.02,
+        "Explicit": 0,
+        "Teen": 0.7
+      },
+      "confidence": 0.6,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-lpOPUwGdn2phRaYrQDXY",
+      "usage": {
+        "input_tokens": 5688,
+        "output_tokens": 46,
+        "cost": 0.000238896
+      },
+      "canon": true,
+      "title": "The Friends I Built"
+    },
+    {
+      "slug": "the-future-that-refused-us",
+      "source": "stories/the-future-that-refused-us/05-story.md",
+      "sha256": "de362fd3fd7455887248174ab35d6d4862ef0db5951ed35dc698c22e0091c9ea",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.37,
+        "Explicit": 0,
+        "General": 0.03,
+        "Teen": 0.6
+      },
+      "confidence": 0.47,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-DlmTSoLd4CMYMzjMVAaf",
+      "usage": {
+        "input_tokens": 5175,
+        "output_tokens": 46,
+        "cost": 0.00021735
+      },
+      "canon": true,
+      "title": "The Future That Refused Us"
+    },
+    {
+      "slug": "the-gentlest-terror",
+      "source": "stories/the-gentlest-terror/05-story.md",
+      "sha256": "c02413a3e3719c7147d9b354ff46b12661859fc6e1faa19316126cd22c354b75",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.65,
+        "Explicit": 0,
+        "Mature": 0.05,
+        "General": 0.3
+      },
+      "confidence": 0.54,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-pSMxz6y8Zqt7jjX3Pr2y",
+      "usage": {
+        "input_tokens": 5714,
+        "output_tokens": 46,
+        "cost": 0.000239988
+      },
+      "canon": false,
+      "title": "The Gentlest Terror"
+    },
+    {
+      "slug": "the-gutter-school",
+      "source": "stories/the-gutter-school/story.md",
+      "sha256": "358ca756dd5efe20defa17fd34fd935db924457a4fad6ae5d94d30ff6d2df9ff",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.26,
+        "Explicit": 0,
+        "Mature": 0,
+        "General": 0.74
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-jHWy8SiINnwopbIPt5Uh",
+      "usage": {
+        "input_tokens": 4643,
+        "output_tokens": 46,
+        "cost": 0.000195006
+      },
+      "canon": false,
+      "title": "The Gutter School"
+    },
+    {
+      "slug": "the-healers-measure",
+      "source": "stories/the-healers-measure/story.md",
+      "sha256": "ce16cd936d4bc056e0c30e576db85ab64a70f836e68e91217360af47777a3936",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.21,
+        "Teen": 0.74,
+        "General": 0.05
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-cCQCEJsykrF0YyjS6ZA6",
+      "usage": {
+        "input_tokens": 5199,
+        "output_tokens": 46,
+        "cost": 0.000218358
+      },
+      "canon": false,
+      "title": "The Witchknight’s Measure"
+    },
+    {
+      "slug": "the-help-network",
+      "source": "stories/the-help-network/story.md",
+      "sha256": "2157254ee7e04c528a0fe116f16508313ae3554298dc73092feb59b1422c31b6",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.01,
+        "General": 0.47,
+        "Teen": 0.52,
+        "Explicit": 0
+      },
+      "confidence": 0.36,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-X7hNMCLXOxgwrezZtenS",
+      "usage": {
+        "input_tokens": 4605,
+        "output_tokens": 46,
+        "cost": 0.00019341
+      },
+      "canon": false,
+      "title": "The Help Network"
+    },
+    {
+      "slug": "the-hoarders-house",
+      "source": "stories/the-hoarders-house/story.md",
+      "sha256": "9822a2b3d08de2f2fc35934ffaf08f5acc8ebd97070b4d869b6990cb962d882c",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.33,
+        "Explicit": 0,
+        "Mature": 0.02,
+        "General": 0.65
+      },
+      "confidence": 0.54,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-UfEDMukCPkQ10CpgqGLo",
+      "usage": {
+        "input_tokens": 5600,
+        "output_tokens": 46,
+        "cost": 0.0002352
+      },
+      "canon": false,
+      "title": "The House of Possible Uses"
+    },
+    {
+      "slug": "the-hollow-cask",
+      "source": "stories/the-hollow-cask/05-story.md",
+      "sha256": "68cf947e9bee90a9ca964c83d5f2c59023a26ee2b26747f3a4a76b62b21f5aec",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.4,
+        "Explicit": 0,
+        "Mature": 0.06,
+        "General": 0.54
+      },
+      "confidence": 0.39,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-cN3Eqq8pGj8m2eoigk8j",
+      "usage": {
+        "input_tokens": 4913,
+        "output_tokens": 46,
+        "cost": 0.000206346
+      },
+      "canon": true,
+      "title": "The Hollow Cask"
+    },
+    {
+      "slug": "the-house-beneath-the-horns",
+      "source": "stories/the-house-beneath-the-horns/story.md",
+      "sha256": "a6296fdd63c3a864a97c09ea26976e32faa78ca217075bb82333c42d701d22ee",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.6,
+        "Explicit": 0,
+        "Mature": 0.39,
+        "General": 0.01
+      },
+      "confidence": 0.46,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-7g3QB0Bal5JBowYIPSDd",
+      "usage": {
+        "input_tokens": 5172,
+        "output_tokens": 46,
+        "cost": 0.000217224
+      },
+      "canon": false,
+      "title": "The Last Day of the Watch"
+    },
+    {
+      "slug": "the-inheritance-remembers",
+      "source": "stories/the-inheritance-remembers/story.md",
+      "sha256": "80654cb69dd289dc5d339e02c3db351b475403a9dc6b278f665b3bf55ec8d046",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.55,
+        "Teen": 0.42,
+        "Explicit": 0,
+        "Mature": 0.03
+      },
+      "confidence": 0.4,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587230-3uuNBsDbwGdPxETawKY4",
+      "usage": {
+        "input_tokens": 5211,
+        "output_tokens": 46,
+        "cost": 0.000218862
+      },
+      "canon": false,
+      "title": "The Counted Road"
+    },
+    {
+      "slug": "the-kill-she-wouldnt-take",
+      "source": "stories/the-kill-she-wouldnt-take/story.md",
+      "sha256": "dc6770544bdb14e061e088f7b255479480620c44ad983a290cd11de5aeac1024",
+      "existing_rating": "Mature",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Teen": 0.24,
+        "Explicit": 0,
+        "Mature": 0.76,
+        "General": 0
+      },
+      "confidence": 0.67,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-7WDUPvKlwfPwOSCqOhP7",
+      "usage": {
+        "input_tokens": 5106,
+        "output_tokens": 47,
+        "cost": 0.000214452
+      },
+      "canon": false,
+      "title": "The Kill She Wouldn't Take"
+    },
+    {
+      "slug": "the-kingdom-of-later",
+      "source": "stories/the-kingdom-of-later/story.md",
+      "sha256": "4308c1e2b4b886381f6e180d2bed7b3fa00fd3776c8a8aa5c0a0ad11e5dbd648",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.66,
+        "Teen": 0.31,
+        "Mature": 0.03
+      },
+      "confidence": 0.55,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-71DzVt6LdklreS4KTfJU",
+      "usage": {
+        "input_tokens": 4625,
+        "output_tokens": 46,
+        "cost": 0.00019425
+      },
+      "canon": false,
+      "title": "The Kingdom of Later"
+    },
+    {
+      "slug": "the-kingdom-was-the-easy-part",
+      "source": "stories/the-kingdom-was-the-easy-part/story.md",
+      "sha256": "627b945856cbf9e69a93d2584164305cb3fd161288fce63acdf3a15db5dabce5",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.15,
+        "General": 0.4,
+        "Explicit": 0,
+        "Teen": 0.45
+      },
+      "confidence": 0.27,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-26ZUhmlCAoYVx7WUkbrx",
+      "usage": {
+        "input_tokens": 5705,
+        "output_tokens": 46,
+        "cost": 0.00023961
+      },
+      "canon": false,
+      "title": "The Kingdom Was the Easy Part"
+    },
+    {
+      "slug": "the-last-bus-to-briar-hill",
+      "source": "stories/the-last-bus-to-briar-hill/05-story.md",
+      "sha256": "ae7bb2f18aec60765d8a93ecba70096fb0517291c8eb63efe499029794f19079",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.57,
+        "Explicit": 0,
+        "Mature": 0.06,
+        "General": 0.37
+      },
+      "confidence": 0.42,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-KtAGgffrLWMzVU6dd7uF",
+      "usage": {
+        "input_tokens": 5475,
+        "output_tokens": 46,
+        "cost": 0.00022995
+      },
+      "canon": true,
+      "title": "The Last Bus to Briar Hill"
+    },
+    {
+      "slug": "the-last-flames",
+      "source": "stories/the-last-flames/story.md",
+      "sha256": "9a873a2a10f479ef64caabae6fea7dfde39955948b8afbec33cd98a9ba7ee76e",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.34,
+        "Explicit": 0,
+        "Mature": 0.07,
+        "General": 0.59
+      },
+      "confidence": 0.44,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-1yhn2fMTEfHuwWpfn3Rp",
+      "usage": {
+        "input_tokens": 5085,
+        "output_tokens": 46,
+        "cost": 0.00021357
+      },
+      "canon": false,
+      "title": "The Last Flames"
+    },
+    {
+      "slug": "the-last-monster",
+      "source": "stories/the-last-monster/05-story.md",
+      "sha256": "a4352af3730de3b3bb029543199b9f94d75991a4151c67eb76026a8b190e450a",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.53,
+        "Explicit": 0,
+        "Mature": 0.45,
+        "General": 0.02
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-AVaBAJCiUBIzTyDJz6i8",
+      "usage": {
+        "input_tokens": 4709,
+        "output_tokens": 46,
+        "cost": 0.000197778
+      },
+      "canon": true,
+      "title": "The Last Monster"
+    },
+    {
+      "slug": "the-last-thing-i-could-fix",
+      "source": "stories/the-last-thing-i-could-fix/05-story.md",
+      "sha256": "64991ca992661e156c01e8f2c3eb7653b2aa03163dd77f51f707e33f8f2c995a",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.18,
+        "Teen": 0.73,
+        "Mature": 0.09
+      },
+      "confidence": 0.63,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-MJb27mjAY484bm6IoUOW",
+      "usage": {
+        "input_tokens": 4682,
+        "output_tokens": 46,
+        "cost": 0.000196644
+      },
+      "canon": true,
+      "title": "The Last Thing I Could Fix"
+    },
+    {
+      "slug": "the-lights-beyond",
+      "source": "stories/the-lights-beyond/story.md",
+      "sha256": "399e4dd75275a763a42bcad8be1118b22997edc8dab7a0eb2a41d5aad9aa1ba1",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.01,
+        "Teen": 0.14,
+        "General": 0.85
+      },
+      "confidence": 0.8,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-aeXnqByvZl0hejx2gX3T",
+      "usage": {
+        "input_tokens": 5049,
+        "output_tokens": 46,
+        "cost": 0.000212058
+      },
+      "canon": false,
+      "title": "The Lights Beyond"
+    },
+    {
+      "slug": "the-lions-last-constellation",
+      "source": "stories/the-lions-last-constellation/story.md",
+      "sha256": "9d4c73bb63514a0f6ec80cd2469d2291a1d7e82f5e294fe032e5c3afa51362bc",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.68,
+        "Mature": 0.31,
+        "General": 0.01,
+        "Explicit": 0
+      },
+      "confidence": 0.57,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-8U7eFxioZTN0hURkPEXN",
+      "usage": {
+        "input_tokens": 5049,
+        "output_tokens": 46,
+        "cost": 0.000212058
+      },
+      "canon": false,
+      "title": "The Lion's Last Constellation"
+    },
+    {
+      "slug": "the-mercy-circuit",
+      "source": "stories/the-mercy-circuit/story.md",
+      "sha256": "85ed5ed48cedacc40e52d6d1a121251146dce09279fa22651c015f24e4c40bca",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.47,
+        "Mature": 0.19,
+        "Explicit": 0,
+        "General": 0.34
+      },
+      "confidence": 0.3,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-UYpWCIRW6GVtBJnLSeGs",
+      "usage": {
+        "input_tokens": 5355,
+        "output_tokens": 46,
+        "cost": 0.00022491
+      },
+      "canon": false,
+      "title": "The Mercy Circuit"
+    },
+    {
+      "slug": "the-morning-her-hand-moved",
+      "source": "stories/the-morning-her-hand-moved/story.md",
+      "sha256": "2247fd654757d968e57937c26d173bb62941f9357d9754ebff9127db35a82a09",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.06,
+        "Teen": 0.54,
+        "General": 0.4,
+        "Explicit": 0
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-0oPFkBkBbpGNWtRg3oNv",
+      "usage": {
+        "input_tokens": 5052,
+        "output_tokens": 46,
+        "cost": 0.000212184
+      },
+      "canon": false,
+      "title": "The Morning Her Hand Moved"
+    },
+    {
+      "slug": "the-name-i-kept",
+      "source": "stories/the-name-i-kept/story.md",
+      "sha256": "3936350d4b612fc3a58a3d5f31ef039e771cffd0913aa44b5ef09dd6607eb8c8",
+      "existing_rating": "Teen",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Mature": 0.49,
+        "Explicit": 0,
+        "Teen": 0.48,
+        "General": 0.03
+      },
+      "confidence": 0.32,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-DFY25p8Qt5Njx0PiUyXo",
+      "usage": {
+        "input_tokens": 5076,
+        "output_tokens": 47,
+        "cost": 0.000213192
+      },
+      "canon": false,
+      "title": "The Name I Kept"
+    },
+    {
+      "slug": "the-name-the-water-took",
+      "source": "stories/the-name-the-water-took/story.md",
+      "sha256": "791cd9cfa9c57d2cd40a6c0cd97f7a6fee18951923910bb809cf2e5baa16b258",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.06,
+        "Teen": 0.73,
+        "Mature": 0.21
+      },
+      "confidence": 0.63,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-nr8LjkTxJLhXykwCqAwH",
+      "usage": {
+        "input_tokens": 5406,
+        "output_tokens": 46,
+        "cost": 0.000227052
+      },
+      "canon": false,
+      "title": "The Name the Water Took"
+    },
+    {
+      "slug": "the-names-on-the-cups",
+      "source": "stories/the-names-on-the-cups/05-story.md",
+      "sha256": "13d073f71a524865dc4db5fadf9ee79b547b37b495eef693916935536af58054",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.89,
+        "Teen": 0.06,
+        "Mature": 0.05
+      },
+      "confidence": 0.86,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-rxp22sYyx7xGgcdyyl2H",
+      "usage": {
+        "input_tokens": 10081,
+        "output_tokens": 46,
+        "cost": 0.000423402
+      },
+      "canon": true,
+      "title": "The Names on the Cups"
+    },
+    {
+      "slug": "the-next-train",
+      "source": "stories/the-next-train/story.md",
+      "sha256": "b487864d7fabf52a5db20d41346c10eaa8ff2589bdc3f5a51c5c44932791a256",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.06,
+        "General": 0.91,
+        "Mature": 0.03
+      },
+      "confidence": 0.88,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-ZQvzp5e3MgyIeK1Dy92E",
+      "usage": {
+        "input_tokens": 4940,
+        "output_tokens": 46,
+        "cost": 0.00020748
+      },
+      "canon": false,
+      "title": "The Next Train"
+    },
+    {
+      "slug": "the-night-harvest",
+      "source": "stories/the-night-harvest/story.md",
+      "sha256": "862d6a6a7f59f6de80287fc4bf3f88d6b9b9bd014dd92d319683f397d6415738",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.45,
+        "Explicit": 0,
+        "General": 0.01,
+        "Teen": 0.54
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587231-jXlKtnQRMrg8FKdBhgsM",
+      "usage": {
+        "input_tokens": 6074,
+        "output_tokens": 46,
+        "cost": 0.000255108
+      },
+      "canon": true,
+      "title": "The Night Harvest"
+    },
+    {
+      "slug": "the-night-she-knew",
+      "source": "stories/the-night-she-knew/story.md",
+      "sha256": "bf5520033e216b12b20cc7b420fff613506749c853a61090b0136ad8ccb9ac93",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.38,
+        "Mature": 0.03,
+        "General": 0.59
+      },
+      "confidence": 0.45,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-gF18pL9Pki20Mp30yPlS",
+      "usage": {
+        "input_tokens": 5593,
+        "output_tokens": 46,
+        "cost": 0.000234906
+      },
+      "canon": false,
+      "title": "The Night She Knew"
+    },
+    {
+      "slug": "the-ninety-year-barrier",
+      "source": "stories/the-ninety-year-barrier/story.md",
+      "sha256": "ecb936317e2c31273f3725d53a9b18e2ad8f78a4ffcafed2b66a536ca4fd288b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.34,
+        "General": 0.65,
+        "Mature": 0.01,
+        "Explicit": 0
+      },
+      "confidence": 0.53,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-47NXxPmbbODFcNqhG54Y",
+      "usage": {
+        "input_tokens": 5034,
+        "output_tokens": 46,
+        "cost": 0.000211428
+      },
+      "canon": false,
+      "title": "The Ninety-Year Barrier"
+    },
+    {
+      "slug": "the-old-percentage",
+      "source": "stories/the-old-percentage/story.md",
+      "sha256": "11002e8a69107d0d85ddd9b6a76197a865ac166dc1645e5642ccfde3080f7679",
+      "existing_rating": "Mature",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Explicit": 0.04,
+        "Mature": 0.92,
+        "Teen": 0.04,
+        "General": 0
+      },
+      "confidence": 0.88,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-bXofsHibe2Cl7835TrUy",
+      "usage": {
+        "input_tokens": 5061,
+        "output_tokens": 47,
+        "cost": 0.000212562
+      },
+      "canon": false,
+      "title": "The Old Percentage"
+    },
+    {
+      "slug": "the-one-who-gets-tired",
+      "source": "stories/the-one-who-gets-tired/story.md",
+      "sha256": "c8d7041ca3bed23c726da8507498fff27fe13b9e89e918ac759a7c97cf9132aa",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.93,
+        "Mature": 0,
+        "Explicit": 0,
+        "Teen": 0.07
+      },
+      "confidence": 0.91,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-65vlGbhtQxh1HyXOXNFI",
+      "usage": {
+        "input_tokens": 4867,
+        "output_tokens": 46,
+        "cost": 0.000204414
+      },
+      "canon": false,
+      "title": "The One Who Gets Tired"
+    },
+    {
+      "slug": "the-ordinary-slime",
+      "source": "stories/the-ordinary-slime/story.md",
+      "sha256": "07aae64391b0c84a005f3feba7d4100ab73d713a0b7cc6803086615cd941fba5",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.02,
+        "Teen": 0.16,
+        "General": 0.82
+      },
+      "confidence": 0.76,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-KvPI47MSxux3pKeXYrZA",
+      "usage": {
+        "input_tokens": 5131,
+        "output_tokens": 46,
+        "cost": 0.000215502
+      },
+      "canon": false,
+      "title": "The Ordinary Slime"
+    },
+    {
+      "slug": "the-other-twin",
+      "source": "stories/the-other-twin/story.md",
+      "sha256": "cd8fbfa9b2f9f690b58189549bd622cd5ed64182e56241702aab5fd231897b9a",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.22,
+        "Mature": 0.1,
+        "Teen": 0.68,
+        "Explicit": 0
+      },
+      "confidence": 0.58,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-IeJkMIlibfb4LsKoDewc",
+      "usage": {
+        "input_tokens": 4296,
+        "output_tokens": 46,
+        "cost": 0.000180432
+      },
+      "canon": false,
+      "title": "The Other Twin"
+    },
+    {
+      "slug": "the-peace-they-could-sleep-through",
+      "source": "stories/the-peace-they-could-sleep-through/05-story.md",
+      "sha256": "7de9c0892ef4b1a87488d0379ca960aa82af9553fb60ab1dca3f6dfe72622653",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.57,
+        "Explicit": 0,
+        "Mature": 0.09,
+        "Teen": 0.34
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-BejpIfEiLUE8QjEDSMHl",
+      "usage": {
+        "input_tokens": 5348,
+        "output_tokens": 46,
+        "cost": 0.000224616
+      },
+      "canon": true,
+      "title": "The Peace They Could Sleep Through"
+    },
+    {
+      "slug": "the-place-laid-for-her",
+      "source": "stories/the-place-laid-for-her/story.md",
+      "sha256": "c3eca0a12d49c7e81cedae1ee75b5f286fdb694ccba2a5fe52cd378adc5f78d1",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.86,
+        "Teen": 0.07,
+        "Mature": 0.07
+      },
+      "confidence": 0.8,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-fOrqrmAXTP62AW4TliPt",
+      "usage": {
+        "input_tokens": 4959,
+        "output_tokens": 46,
+        "cost": 0.000208278
+      },
+      "canon": false,
+      "title": "The Place Laid for Her"
+    },
+    {
+      "slug": "the-place-we-keep",
+      "source": "stories/the-place-we-keep/story.md",
+      "sha256": "9aac253cc3b008bcd4d822029f429f4eb3669cf50c110e40031c354630859635",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.04,
+        "Teen": 0.04,
+        "Explicit": 0,
+        "General": 0.92
+      },
+      "confidence": 0.89,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-Qw3rk0C610sngwy4mF11",
+      "usage": {
+        "input_tokens": 4725,
+        "output_tokens": 46,
+        "cost": 0.00019845
+      },
+      "canon": false,
+      "title": "The Place We Keep"
+    },
+    {
+      "slug": "the-players-above",
+      "source": "stories/the-players-above/story.md",
+      "sha256": "ebafbbb5278cb66e3adb6e13cfe1f4fd392b17ba662cd47b180119b56a1ef7c6",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.37,
+        "General": 0.62,
+        "Mature": 0.01
+      },
+      "confidence": 0.49,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-80QhFU7lPBbD0j9kGhyd",
+      "usage": {
+        "input_tokens": 5083,
+        "output_tokens": 46,
+        "cost": 0.000213486
+      },
+      "canon": false,
+      "title": "The Players Above"
+    },
+    {
+      "slug": "the-red-dot",
+      "source": "stories/the-red-dot/story.md",
+      "sha256": "113c1dacc0e1add6a4685b230a8ccee5d53e065275d4b7613f2e3fbd625e48a5",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.71,
+        "Mature": 0.08,
+        "Explicit": 0,
+        "General": 0.21
+      },
+      "confidence": 0.61,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-eNViMP0sry2G272q5Zys",
+      "usage": {
+        "input_tokens": 4373,
+        "output_tokens": 46,
+        "cost": 0.000183666
+      },
+      "canon": false,
+      "title": "The Red Dot"
+    },
+    {
+      "slug": "the-ring-between-lives",
+      "source": "stories/the-ring-between-lives/story.md",
+      "sha256": "15152506149fce2de5a6bd28d701335123b51ee321725690e557f43b3950edce",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.22,
+        "General": 0.66,
+        "Mature": 0.12
+      },
+      "confidence": 0.55,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-i66SwCTeB4MjEzXvyEyM",
+      "usage": {
+        "input_tokens": 4686,
+        "output_tokens": 46,
+        "cost": 0.000196812
+      },
+      "canon": false,
+      "title": "The Ring Between Lives"
+    },
+    {
+      "slug": "the-room-that-waited",
+      "source": "stories/the-room-that-waited/story.md",
+      "sha256": "c124c952e8181d374a3cb1e59bf8f278a94dff5fbae46bfdfb2ee6d74a91cb8f",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.41,
+        "Teen": 0.58,
+        "Explicit": 0,
+        "Mature": 0.01
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-eVmNc7TPqI7masEOgUNP",
+      "usage": {
+        "input_tokens": 4597,
+        "output_tokens": 46,
+        "cost": 0.000193074
+      },
+      "canon": false,
+      "title": "The Room That Waited"
+    },
+    {
+      "slug": "the-rule-between-courses",
+      "source": "stories/the-rule-between-courses/story.md",
+      "sha256": "53eb6bf2058a614a6a6947d82a85f31408ec5084db441454995a74f0cc752691",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "Explicit": 0,
+        "General": 0.98,
+        "Teen": 0.01
+      },
+      "confidence": 0.97,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-1tJ4HUR84H6ex5W3SJSM",
+      "usage": {
+        "input_tokens": 5103,
+        "output_tokens": 46,
+        "cost": 0.000214326
+      },
+      "canon": false,
+      "title": "All the Good Things"
+    },
+    {
+      "slug": "the-second-wearing",
+      "source": "stories/the-second-wearing/story.md",
+      "sha256": "7d40ee35dddd800916b416ae10c3cc00ec080f46179987198906f39669572ea2",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.11,
+        "Explicit": 0,
+        "Mature": 0.13,
+        "General": 0.76
+      },
+      "confidence": 0.68,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-kbsllrrcfFVI9rvhWIfA",
+      "usage": {
+        "input_tokens": 4896,
+        "output_tokens": 46,
+        "cost": 0.000205632
+      },
+      "canon": false,
+      "title": "The Second Wearing"
+    },
+    {
+      "slug": "the-seventh-night",
+      "source": "stories/the-seventh-night/story.md",
+      "sha256": "f1d2b6987d2218084c160f40e4d47085bd71e993ef27e796a30fb318873937c8",
+      "existing_rating": "Mature",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.26,
+        "General": 0.08,
+        "Mature": 0.66
+      },
+      "confidence": 0.54,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587232-e8vBXdYLNRo1Pn5iCD4y",
+      "usage": {
+        "input_tokens": 4698,
+        "output_tokens": 47,
+        "cost": 0.000197316
+      },
+      "canon": false,
+      "title": "The Seventh Night"
+    },
+    {
+      "slug": "the-shadow-that-nested",
+      "source": "stories/the-shadow-that-nested/story.md",
+      "sha256": "2e6de9462145d9cef7867d46ea470ab4c86bc76fdfec0169734fa06471233676",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.81,
+        "Teen": 0.18,
+        "Explicit": 0,
+        "Mature": 0.01
+      },
+      "confidence": 0.75,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-JN6nHVwMAhuNPHqoYB9j",
+      "usage": {
+        "input_tokens": 5700,
+        "output_tokens": 46,
+        "cost": 0.0002394
+      },
+      "canon": false,
+      "title": "The Shadow That Nested"
+    },
+    {
+      "slug": "the-shape-of-mercy",
+      "source": "stories/the-shape-of-mercy/05-story.md",
+      "sha256": "4b0e04c6daa3bdb3d431e9687db41190fdf4fe84256db7441f5af5141a694c75",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.21,
+        "Teen": 0.77,
+        "General": 0.02,
+        "Explicit": 0
+      },
+      "confidence": 0.69,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-GngSCnUJiplLiA1tobUQ",
+      "usage": {
+        "input_tokens": 5351,
+        "output_tokens": 46,
+        "cost": 0.000224742
+      },
+      "canon": true,
+      "title": "The Shape of Mercy"
+    },
+    {
+      "slug": "the-sister-behind-her-smile",
+      "source": "stories/the-sister-behind-her-smile/story.md",
+      "sha256": "fe0d2a5a051ed1c1689134c5e7d0c74e5a098f251737e8bc386c96dbfc30ae76",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.36,
+        "Mature": 0.12,
+        "Teen": 0.52
+      },
+      "confidence": 0.36,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-VlKBNzbmBuMzVEo5EviC",
+      "usage": {
+        "input_tokens": 5297,
+        "output_tokens": 46,
+        "cost": 0.000222474
+      },
+      "canon": false,
+      "title": "The Sister Behind Her Smile"
+    },
+    {
+      "slug": "the-sky-remembers-us-return",
+      "source": "stories/the-sky-remembers-us-return/story.md",
+      "sha256": "170d5b9c87a91232611311150412b7c90f102f3b90e24a134cfae4bd22759f27",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.58,
+        "Explicit": 0,
+        "Mature": 0.1,
+        "General": 0.32
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-gnVFwrZYlzlCpQevtumN",
+      "usage": {
+        "input_tokens": 8275,
+        "output_tokens": 46,
+        "cost": 0.00034755
+      },
+      "canon": true,
+      "title": "The Sky Remembers Us"
+    },
+    {
+      "slug": "the-small-moon-rose-first",
+      "source": "stories/the-small-moon-rose-first/05-story.md",
+      "sha256": "e2bb35853bf31424f273252ebb5ea1efb3fae3d83647165065314548f7a3fef3",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.85,
+        "General": 0.07,
+        "Mature": 0.08,
+        "Explicit": 0
+      },
+      "confidence": 0.79,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-8h0GIG9hCPeUIGLOrO8f",
+      "usage": {
+        "input_tokens": 5011,
+        "output_tokens": 46,
+        "cost": 0.000210462
+      },
+      "canon": true,
+      "title": "The Small Moon Rose First"
+    },
+    {
+      "slug": "the-spiders-hunger",
+      "source": "stories/the-spiders-hunger/story.md",
+      "sha256": "faaaf5f54992364bbacc3e032b5c896c8ab6a9dbd9f7d792ef681b35e813fb37",
+      "existing_rating": "Teen",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Teen": 0.43,
+        "Explicit": 0,
+        "Mature": 0.52,
+        "General": 0.05
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-WSgA8piWqHLTcImhD4WG",
+      "usage": {
+        "input_tokens": 4859,
+        "output_tokens": 47,
+        "cost": 0.000204078
+      },
+      "canon": false,
+      "title": "The Spider's Hunger"
+    },
+    {
+      "slug": "the-star-that-followed-the-bells",
+      "source": "stories/the-star-that-followed-the-bells/story.md",
+      "sha256": "c226f1cf83f5d1b8b8825f3a5fba2da070f6c1c198bd8db8d2ae43d5b40d692a",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "General": 0.74,
+        "Explicit": 0,
+        "Teen": 0.25
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-16TFn2ddO5Tg4XM7yYNK",
+      "usage": {
+        "input_tokens": 4444,
+        "output_tokens": 46,
+        "cost": 0.000186648
+      },
+      "canon": false,
+      "title": "The Star That Followed the Bells"
+    },
+    {
+      "slug": "the-station-between",
+      "source": "stories/the-station-between/05-story.md",
+      "sha256": "4756e44423a908613f21b8a8d9eae82b24eb935b0f512ddfb73374f0bded605e",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.17,
+        "Teen": 0.62,
+        "Mature": 0.21
+      },
+      "confidence": 0.49,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-3SoaDjN9vhgfc9ngXIT4",
+      "usage": {
+        "input_tokens": 5305,
+        "output_tokens": 46,
+        "cost": 0.00022281
+      },
+      "canon": false,
+      "title": "The Station Between"
+    },
+    {
+      "slug": "the-sun-in-the-crowd",
+      "source": "stories/the-sun-in-the-crowd/story.md",
+      "sha256": "f127db9b3d0308709388e51ec12379fdbdf99cf698310789b097932ffdafeb7a",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.01,
+        "Explicit": 0,
+        "Mature": 0,
+        "General": 0.99
+      },
+      "confidence": 0.99,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-g8jx9cHuwSCujEuOQoHe",
+      "usage": {
+        "input_tokens": 4696,
+        "output_tokens": 46,
+        "cost": 0.000197232
+      },
+      "canon": false,
+      "title": "The Sun in the Crowd"
+    },
+    {
+      "slug": "the-ten-thousand-year-queen",
+      "source": "stories/the-ten-thousand-year-queen/story.md",
+      "sha256": "2a3830a720ce5ae964f3480499b0f908f7e8cf03a5edf6951a5bac194bf133dd",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.48,
+        "Explicit": 0,
+        "Teen": 0.34,
+        "Mature": 0.18
+      },
+      "confidence": 0.32,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-MsHTEzMXeMZLA32agSKW",
+      "usage": {
+        "input_tokens": 5256,
+        "output_tokens": 46,
+        "cost": 0.000220752
+      },
+      "canon": false,
+      "title": "The Queen After Ten Thousand Years"
+    },
+    {
+      "slug": "the-thirteenth-command",
+      "source": "stories/the-thirteenth-command/05-story.md",
+      "sha256": "5818d42eaa40985660317328bfadd43249c64fd498a28c504e34739517ab1d17",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.31,
+        "Teen": 0.65,
+        "General": 0.04,
+        "Explicit": 0
+      },
+      "confidence": 0.54,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-QuXAygVzVtXyhIaDRXJT",
+      "usage": {
+        "input_tokens": 5893,
+        "output_tokens": 46,
+        "cost": 0.000247506
+      },
+      "canon": true,
+      "title": "The Thirteenth Command"
+    },
+    {
+      "slug": "the-thousandth-fall",
+      "source": "stories/the-thousandth-fall/story.md",
+      "sha256": "7447e2c1471e4ebaf77aa8eb11d9fcd9fc9d13fd6d68264467314a3a2df791de",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.2,
+        "Explicit": 0,
+        "Mature": 0.11,
+        "Teen": 0.69
+      },
+      "confidence": 0.59,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-IXy6LCNkdNgGON2PPyqT",
+      "usage": {
+        "input_tokens": 4939,
+        "output_tokens": 46,
+        "cost": 0.000207438
+      },
+      "canon": false,
+      "title": "The Thousandth Fall"
+    },
+    {
+      "slug": "the-thread-that-held",
+      "source": "stories/the-thread-that-held/story.md",
+      "sha256": "f89d24743d074f0000e8c6b327d472d86f753f91e1449ad09d27282928aed30f",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.53,
+        "General": 0.05,
+        "Explicit": 0,
+        "Mature": 0.42
+      },
+      "confidence": 0.38,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-vfNIiRiobvmQ7TFMjuzc",
+      "usage": {
+        "input_tokens": 4975,
+        "output_tokens": 46,
+        "cost": 0.00020895
+      },
+      "canon": false,
+      "title": "The Thread That Held"
+    },
+    {
+      "slug": "the-trouble-with-tuesdays",
+      "source": "stories/the-trouble-with-tuesdays/05-story.md",
+      "sha256": "55c22aa54a89745ffdac8f58bf40e201537f45306765ef8f68f7aa522198e498",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.08,
+        "Explicit": 0,
+        "Mature": 0.4,
+        "Teen": 0.52
+      },
+      "confidence": 0.36,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-1qgeVHVOZyqF5H2p0Bmj",
+      "usage": {
+        "input_tokens": 4680,
+        "output_tokens": 46,
+        "cost": 0.00019656
+      },
+      "canon": true,
+      "title": "The Trouble With Tuesdays"
+    },
+    {
+      "slug": "the-unfinished-sunset",
+      "source": "stories/the-unfinished-sunset/story.md",
+      "sha256": "17b7512d4c4c1a59979e0bf9c5d12c627c50b487476e81a6923e78f29ac66d07",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.16,
+        "Explicit": 0,
+        "Teen": 0.67,
+        "Mature": 0.17
+      },
+      "confidence": 0.56,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-AvOGKonbmB63lDVnAbrl",
+      "usage": {
+        "input_tokens": 5356,
+        "output_tokens": 46,
+        "cost": 0.000224952
+      },
+      "canon": false,
+      "title": "The Unfinished Sunset"
+    },
+    {
+      "slug": "the-unfixed-face",
+      "source": "stories/the-unfixed-face/story.md",
+      "sha256": "44a7a8eab57b29c06ec1041301296c2a45a59b507f23abbba7143f138a986f12",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.51,
+        "Mature": 0.15,
+        "Teen": 0.34,
+        "Explicit": 0
+      },
+      "confidence": 0.33,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587233-dFHzYuZjCgdeAOwRUEMc",
+      "usage": {
+        "input_tokens": 5108,
+        "output_tokens": 46,
+        "cost": 0.000214536
+      },
+      "canon": false,
+      "title": "The Unfixed Face"
+    },
+    {
+      "slug": "the-unfixed-song",
+      "source": "stories/the-unfixed-song/story.md",
+      "sha256": "a639b4049f8d6328c670a84ce9b7b6dcbbf2b58498cca26868c1547c8f394c5c",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.42,
+        "Mature": 0.07,
+        "General": 0.51,
+        "Explicit": 0
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-5IoEQ1147nA6Zr4P0O1X",
+      "usage": {
+        "input_tokens": 5402,
+        "output_tokens": 46,
+        "cost": 0.000226884
+      },
+      "canon": false,
+      "title": "The Unfixed Song"
+    },
+    {
+      "slug": "the-unoffered-hand",
+      "source": "stories/the-unoffered-hand/story.md",
+      "sha256": "303c61af478839af69b5b3a87fee8f935b3115e154fe1279f12afbd9bc9596e4",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.04,
+        "Explicit": 0,
+        "General": 0.63,
+        "Teen": 0.33
+      },
+      "confidence": 0.51,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-F9kYzHNu5HZ5IUfXczaY",
+      "usage": {
+        "input_tokens": 4896,
+        "output_tokens": 46,
+        "cost": 0.000205632
+      },
+      "canon": false,
+      "title": "The Unoffered Hand"
+    },
+    {
+      "slug": "the-unopened-ring",
+      "source": "stories/the-unopened-ring/story.md",
+      "sha256": "1f5e116464dd986c6f289799baa75631b62090fcac10e7c4859df83d617cfa89",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.34,
+        "Explicit": 0,
+        "General": 0.53,
+        "Mature": 0.13
+      },
+      "confidence": 0.37,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-1mQwq780eA5bcdJtiCYT",
+      "usage": {
+        "input_tokens": 4445,
+        "output_tokens": 46,
+        "cost": 0.00018669
+      },
+      "canon": false,
+      "title": "The Unopened Ring"
+    },
+    {
+      "slug": "the-upward-rain",
+      "source": "stories/the-upward-rain/story.md",
+      "sha256": "98aa0c8eeee50c8991ef2664934eaea1b88545030fef0c7f4d5b79c807015de1",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.03,
+        "Teen": 0.35,
+        "General": 0.62
+      },
+      "confidence": 0.5,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-eEQBtNl76gE8f7z1QdPY",
+      "usage": {
+        "input_tokens": 5399,
+        "output_tokens": 46,
+        "cost": 0.000226758
+      },
+      "canon": false,
+      "title": "The Upward Rain"
+    },
+    {
+      "slug": "the-vacant-throne",
+      "source": "stories/the-vacant-throne/story.md",
+      "sha256": "b15caf2b9eab89131840683edb3efe8a90bcf932a47e1349d1d32cc2370267af",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.56,
+        "Mature": 0.05,
+        "Explicit": 0,
+        "Teen": 0.39
+      },
+      "confidence": 0.41,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-enQEroM8xClKAFWkoyVp",
+      "usage": {
+        "input_tokens": 4835,
+        "output_tokens": 46,
+        "cost": 0.00020307
+      },
+      "canon": false,
+      "title": "The Vacant Throne"
+    },
+    {
+      "slug": "the-villages-only-mage",
+      "source": "stories/the-villages-only-mage/story.md",
+      "sha256": "0f2c5bc4ed4a2451046b9b1b2f5cd5fde12cc4e6a0ebbd50cf5d09ba3b6bf3fe",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.39,
+        "Explicit": 0,
+        "Mature": 0.02,
+        "General": 0.59
+      },
+      "confidence": 0.45,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-s7NyaD642JNclxunkIn9",
+      "usage": {
+        "input_tokens": 5790,
+        "output_tokens": 46,
+        "cost": 0.00024318
+      },
+      "canon": false,
+      "title": "The One Who Helped Everyone"
+    },
+    {
+      "slug": "the-walls-are-thick-enough",
+      "source": "stories/the-walls-are-thick-enough/story.md",
+      "sha256": "826970e63e88619c9236a985fbac8ee37bc2abc537f2e036140314e7c1dd41f0",
+      "existing_rating": "Explicit",
+      "jev_rating": "Explicit",
+      "probabilities": {
+        "Teen": 0,
+        "General": 0,
+        "Mature": 0.08,
+        "Explicit": 0.92
+      },
+      "confidence": 0.89,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-7lJAvFbi12rgBBoTFq3E",
+      "usage": {
+        "input_tokens": 5849,
+        "output_tokens": 46,
+        "cost": 0.000245658
+      },
+      "canon": false,
+      "title": "The Walls Are Thick Enough"
+    },
+    {
+      "slug": "the-warmest-person-in-the-room",
+      "source": "stories/the-warmest-person-in-the-room/story.md",
+      "sha256": "eaf0f370a3867b04fa67aa3185f03cbf9e1c415683dd441c1ac9816404372ff2",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.47,
+        "General": 0.48,
+        "Mature": 0.05
+      },
+      "confidence": 0.31,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-wiQjKriWhawLtVsBOp9k",
+      "usage": {
+        "input_tokens": 4914,
+        "output_tokens": 46,
+        "cost": 0.000206388
+      },
+      "canon": true,
+      "title": "The Warmest Person in the Room"
+    },
+    {
+      "slug": "the-way-around",
+      "source": "stories/the-way-around/story.md",
+      "sha256": "20406ae9d8b32bae08337499c71a55515577947babad28af278c8a403df7373b",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.37,
+        "General": 0.61,
+        "Mature": 0.02,
+        "Explicit": 0
+      },
+      "confidence": 0.48,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-UdddnOO0L4GwKSk4GgbQ",
+      "usage": {
+        "input_tokens": 5758,
+        "output_tokens": 46,
+        "cost": 0.000241836
+      },
+      "canon": false,
+      "title": "The Way Around"
+    },
+    {
+      "slug": "the-weight-of-falling-up-rune-shoes",
+      "source": "stories/the-weight-of-falling-up-rune-shoes/05-story.md",
+      "sha256": "e8b40aeeb553c10fbd8cfcc1ee2a2cd36d4277ed0d9b502ce55224e8934524c9",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.52,
+        "Explicit": 0,
+        "Mature": 0.01,
+        "Teen": 0.47
+      },
+      "confidence": 0.37,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-iL5qeRVkgKTu5CRgr89C",
+      "usage": {
+        "input_tokens": 5272,
+        "output_tokens": 46,
+        "cost": 0.000221424
+      },
+      "canon": true,
+      "title": "The Weight of Falling Up"
+    },
+    {
+      "slug": "the-weight-they-never-counted",
+      "source": "stories/the-weight-they-never-counted/story.md",
+      "sha256": "d28722178e9206715ea200a434912a7c9b89a190e126125adfd8d4169bd15d1d",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.2,
+        "General": 0.77,
+        "Mature": 0.03
+      },
+      "confidence": 0.69,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-rhK0rs3lOaaIIkH9Z5aa",
+      "usage": {
+        "input_tokens": 5410,
+        "output_tokens": 46,
+        "cost": 0.00022722
+      },
+      "canon": false,
+      "title": "The Weight They Never Counted"
+    },
+    {
+      "slug": "the-wolf-in-the-mirror",
+      "source": "stories/the-wolf-in-the-mirror/story.md",
+      "sha256": "5a57882e5543869cf7a7b7ae08c5406642c46c17d191bba962f98a0a529084c6",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.52,
+        "General": 0.38,
+        "Mature": 0.1,
+        "Explicit": 0
+      },
+      "confidence": 0.35,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-mzIALOD7YFp9eJa0wGB5",
+      "usage": {
+        "input_tokens": 4989,
+        "output_tokens": 46,
+        "cost": 0.000209538
+      },
+      "canon": false,
+      "title": "The Wolf in the Mirror"
+    },
+    {
+      "slug": "the-wrong-side-of-the-part",
+      "source": "stories/the-wrong-side-of-the-part/05-story.md",
+      "sha256": "e177c2071dc4d4a649d2590a06c106aaa4985dd88be233c938f3df340e07a984",
+      "existing_rating": "Teen",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Teen": 0.28,
+        "General": 0.32,
+        "Mature": 0.4,
+        "Explicit": 0
+      },
+      "confidence": 0.2,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-tmn5kj5M139uSml71xFk",
+      "usage": {
+        "input_tokens": 4705,
+        "output_tokens": 47,
+        "cost": 0.00019761
+      },
+      "canon": true,
+      "title": "The Wrong Side of the Part"
+    },
+    {
+      "slug": "there-goes-your-name",
+      "source": "stories/there-goes-your-name/story.md",
+      "sha256": "fe85af6689d6a5b00cc5700f16650adc0719f7249e24dd95efa07a12be00f2d0",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "Explicit": 0,
+        "General": 0.57,
+        "Teen": 0.42
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-ZNze14pQlJYrqClj7zt8",
+      "usage": {
+        "input_tokens": 5211,
+        "output_tokens": 46,
+        "cost": 0.000218862
+      },
+      "canon": true,
+      "title": "There Goes Your Name"
+    },
+    {
+      "slug": "thirteen-years-borrowed",
+      "source": "stories/thirteen-years-borrowed/story.md",
+      "sha256": "501c71c24afad716d75334dd8a20dd08044229f776044a94d75a949a18429b44",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.51,
+        "Teen": 0.32,
+        "Mature": 0.17
+      },
+      "confidence": 0.34,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-kTDmKJy5cn4RCvtL7H9Z",
+      "usage": {
+        "input_tokens": 5396,
+        "output_tokens": 46,
+        "cost": 0.000226632
+      },
+      "canon": false,
+      "title": "Thirteen Years Borrowed"
+    },
+    {
+      "slug": "transitions-in-common",
+      "source": "stories/transitions-in-common/05-story.md",
+      "sha256": "2ed62225ca1df8988396a9fe6ac3837e5fedd27bad90bbba4e53b2be8040057d",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Mature": 0.01,
+        "Explicit": 0,
+        "General": 0.6900000000000001,
+        "Teen": 0.3
+      },
+      "confidence": 0.58,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587234-6LPIYRmzPCvqW6bbH2ZD",
+      "usage": {
+        "input_tokens": 5039,
+        "output_tokens": 46,
+        "cost": 0.000211638
+      },
+      "canon": true,
+      "title": "Transitions in Common"
+    },
+    {
+      "slug": "twelve-in-the-room",
+      "source": "stories/twelve-in-the-room/story.md",
+      "sha256": "ce8dc85ef9afaa6fdb448ae685a3396ec08d663bf70fbf4c39caa18fd8611fda",
+      "existing_rating": "Explicit",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "General": 0,
+        "Mature": 0.67,
+        "Explicit": 0.32,
+        "Teen": 0.01
+      },
+      "confidence": 0.56,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-ktV356poHF5AyAmCebIB",
+      "usage": {
+        "input_tokens": 4618,
+        "output_tokens": 47,
+        "cost": 0.000193956
+      },
+      "canon": false,
+      "title": "Twelve in the Room"
+    },
+    {
+      "slug": "ultimate-evil-dog",
+      "source": "stories/ultimate-evil-dog/story.md",
+      "sha256": "984e7073ef0248a50c84e2c7d169fcff1ffaf111613adf729792ae2b34314147",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "General": 0.6,
+        "Mature": 0.04,
+        "Teen": 0.36,
+        "Explicit": 0
+      },
+      "confidence": 0.47,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-u14kmv4TrCAjqZ5P4aso",
+      "usage": {
+        "input_tokens": 6031,
+        "output_tokens": 46,
+        "cost": 0.000253302
+      },
+      "canon": false,
+      "title": "A Very Good Dog"
+    },
+    {
+      "slug": "undisclosed",
+      "source": "stories/undisclosed/story.md",
+      "sha256": "61fba81f8390ec754049b9fa72600d5ff5143f5c730db3d0099800c847165195",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.6,
+        "General": 0.05,
+        "Explicit": 0,
+        "Mature": 0.35
+      },
+      "confidence": 0.46,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-NkMB7WPIPLMYRDdQfxm7",
+      "usage": {
+        "input_tokens": 4731,
+        "output_tokens": 46,
+        "cost": 0.000198702
+      },
+      "canon": false,
+      "title": "Undisclosed"
+    },
+    {
+      "slug": "voice-of-silence",
+      "source": "stories/voice-of-silence/05-story.md",
+      "sha256": "90e501ea19d605f2790ee09a275c2e2de63b7931d8a7dd2fadf16820378637c2",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Mature": 0.03,
+        "General": 0.25,
+        "Explicit": 0,
+        "Teen": 0.72
+      },
+      "confidence": 0.62,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-aHClHi5qNme4Q84TDoos",
+      "usage": {
+        "input_tokens": 4840,
+        "output_tokens": 46,
+        "cost": 0.00020328
+      },
+      "canon": true,
+      "title": "The Voice of Silence"
+    },
+    {
+      "slug": "what-i-hate-most",
+      "source": "stories/what-i-hate-most/05-story.md",
+      "sha256": "bbf6b43ffa83be76227f109156d94ea06b3219d011f15b62005c7f8938d3eacf",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "General": 0.12,
+        "Mature": 0.2,
+        "Teen": 0.68
+      },
+      "confidence": 0.57,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-R6VgV74cx8LeQBljFC2b",
+      "usage": {
+        "input_tokens": 5565,
+        "output_tokens": 46,
+        "cost": 0.00023373
+      },
+      "canon": true,
+      "title": "What I Hate Most"
+    },
+    {
+      "slug": "what-she-remembered-of-peace",
+      "source": "stories/what-she-remembered-of-peace/story.md",
+      "sha256": "1c3bd23e7e6ee132eef37dbd5f99cf51fb5f41afa083de6cf5b4cb101a16f3e8",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.6,
+        "General": 0.02,
+        "Mature": 0.38
+      },
+      "confidence": 0.47,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-wydZy8DXSMKSodE4enak",
+      "usage": {
+        "input_tokens": 5582,
+        "output_tokens": 46,
+        "cost": 0.000234444
+      },
+      "canon": false,
+      "title": "What She Remembered of Peace"
+    },
+    {
+      "slug": "what-the-gates-keep",
+      "source": "stories/what-the-gates-keep/story.md",
+      "sha256": "1ab99b138696b551e8feb81649cf8fa13e1a1d79b0f01e8e4dee0175b6e405f0",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.58,
+        "Explicit": 0,
+        "Mature": 0.38,
+        "General": 0.04
+      },
+      "confidence": 0.43,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-uaenLTbG980V192B6KTI",
+      "usage": {
+        "input_tokens": 4358,
+        "output_tokens": 46,
+        "cost": 0.000183036
+      },
+      "canon": false,
+      "title": "The Wrong Rescue"
+    },
+    {
+      "slug": "what-the-town-owed-her",
+      "source": "stories/what-the-town-owed-her/story.md",
+      "sha256": "1dc9b9cd9286a3ae8907033fa75382e785cdf743a7c1dc032950cd8fd5f8e57b",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "General": 0.35,
+        "Explicit": 0,
+        "Mature": 0.05,
+        "Teen": 0.6
+      },
+      "confidence": 0.47,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-gxob3eHWqLnHpnpkq2uM",
+      "usage": {
+        "input_tokens": 4914,
+        "output_tokens": 46,
+        "cost": 0.000206388
+      },
+      "canon": false,
+      "title": "What the Town Owed Her"
+    },
+    {
+      "slug": "what-the-wind-wanted",
+      "source": "stories/what-the-wind-wanted/story.md",
+      "sha256": "fc778e54391668cb40b0919cc094fcd2d943d45542d8b21228d4303c55a41009",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.05,
+        "General": 0.93,
+        "Mature": 0.02
+      },
+      "confidence": 0.91,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-GAxhUwGwr70cRohKroRA",
+      "usage": {
+        "input_tokens": 5312,
+        "output_tokens": 46,
+        "cost": 0.000223104
+      },
+      "canon": false,
+      "title": "What the Wind Wanted"
+    },
+    {
+      "slug": "what-turned-eighteen",
+      "source": "stories/what-turned-eighteen/story.md",
+      "sha256": "04d28d905a7eb86ba143a3fa588740f077392d8d71e2d434b69a727ab10c8d80",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.64,
+        "Explicit": 0,
+        "Mature": 0.06,
+        "General": 0.3
+      },
+      "confidence": 0.53,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-W61cDu6mmF57bGR8TEhW",
+      "usage": {
+        "input_tokens": 5724,
+        "output_tokens": 46,
+        "cost": 0.000240408
+      },
+      "canon": false,
+      "title": "What Turned Eighteen"
+    },
+    {
+      "slug": "when-the-eagle-bowed",
+      "source": "stories/when-the-eagle-bowed/story.md",
+      "sha256": "ea45de98200bf847b3f9002b26fe5f1170c9c097c1a870ec716c8fca7882e8af",
+      "existing_rating": "Teen",
+      "jev_rating": "Mature",
+      "probabilities": {
+        "Explicit": 0,
+        "Teen": 0.25,
+        "General": 0,
+        "Mature": 0.75
+      },
+      "confidence": 0.65,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-ICtUF8uacuA17NjfyhP9",
+      "usage": {
+        "input_tokens": 5712,
+        "output_tokens": 47,
+        "cost": 0.000239904
+      },
+      "canon": false,
+      "title": "When the Eagle Bowed"
+    },
+    {
+      "slug": "when-the-needle-finds-you",
+      "source": "stories/when-the-needle-finds-you/story.md",
+      "sha256": "7acbe0e416ecff7354e0a8e8b3d248d3e76896670df992b12d73e973cdf824fc",
+      "existing_rating": "Explicit",
+      "jev_rating": "Explicit",
+      "probabilities": {
+        "General": 0,
+        "Explicit": 0.91,
+        "Teen": 0,
+        "Mature": 0.09
+      },
+      "confidence": 0.88,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-VsxetbaeYpZsMNA1dxgU",
+      "usage": {
+        "input_tokens": 5880,
+        "output_tokens": 46,
+        "cost": 0.00024696
+      },
+      "canon": false,
+      "title": "When the Needle Finds You"
+    },
+    {
+      "slug": "where-it-hurts",
+      "source": "stories/where-it-hurts/story.md",
+      "sha256": "d7d8d62b8d9deae3155f1c7b5a57128f87a9c9ba71369dbe62bedf42ffb65bfe",
+      "existing_rating": "Teen",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.33,
+        "Explicit": 0,
+        "Mature": 0.11,
+        "General": 0.56
+      },
+      "confidence": 0.41,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-AGlCLljgali6Qlat1JmY",
+      "usage": {
+        "input_tokens": 4629,
+        "output_tokens": 46,
+        "cost": 0.000194418
+      },
+      "canon": false,
+      "title": "Where It Hurts"
+    },
+    {
+      "slug": "where-no-unicorn-stands",
+      "source": "stories/where-no-unicorn-stands/story.md",
+      "sha256": "a959f65f8d6abdcdc3119b2969418fe3ee27ea15bc2a585f11294a329d50b673",
+      "existing_rating": "Teen",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Teen": 0.8,
+        "Explicit": 0,
+        "Mature": 0.07,
+        "General": 0.13
+      },
+      "confidence": 0.73,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-CAuZZO5BWdT0BYsR7l1K",
+      "usage": {
+        "input_tokens": 5376,
+        "output_tokens": 46,
+        "cost": 0.000225792
+      },
+      "canon": false,
+      "title": "Where No Unicorn Stands"
+    },
+    {
+      "slug": "where-sleep-takes-you",
+      "source": "stories/where-sleep-takes-you/story.md",
+      "sha256": "5eebf145298a33770d968aeaad26f2b60c9b42939c858d8c8c15f24cd34834ac",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.05,
+        "Explicit": 0,
+        "Mature": 0.02,
+        "General": 0.93
+      },
+      "confidence": 0.91,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-OmU7AWKVBScVIGrR57gc",
+      "usage": {
+        "input_tokens": 4740,
+        "output_tokens": 46,
+        "cost": 0.00019908
+      },
+      "canon": false,
+      "title": "Where Sleep Takes You"
+    },
+    {
+      "slug": "where-the-white-elk-went",
+      "source": "stories/where-the-white-elk-went/story.md",
+      "sha256": "13db64108c171ce9a844e99142610c876bb1ed6a370f176634d24578b772c511",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.05,
+        "Explicit": 0,
+        "Mature": 0.01,
+        "General": 0.94
+      },
+      "confidence": 0.92,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587235-tspCDyEBLZcJZkAXqc7L",
+      "usage": {
+        "input_tokens": 4264,
+        "output_tokens": 46,
+        "cost": 0.000179088
+      },
+      "canon": false,
+      "title": "Where the White Elk Went"
+    },
+    {
+      "slug": "witch-cold",
+      "source": "stories/witch-cold/story.md",
+      "sha256": "3bb54bb9d0862e10b348c5c155105ccaef7eadec209ce89ebf2dd5b997809759",
+      "existing_rating": "General",
+      "jev_rating": "General",
+      "probabilities": {
+        "Teen": 0.13,
+        "General": 0.86,
+        "Explicit": 0,
+        "Mature": 0.01
+      },
+      "confidence": 0.81,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587236-udOzEjE8IeO9YW3ClOB4",
+      "usage": {
+        "input_tokens": 5413,
+        "output_tokens": 46,
+        "cost": 0.000227346
+      },
+      "canon": false,
+      "title": "Witch Cold"
+    },
+    {
+      "slug": "yavrens-return",
+      "source": "stories/yavrens-return/story.md",
+      "sha256": "9c0907b203c244aa66381a05090bfc47b9d95a225d2b9814324069b40d62e075",
+      "existing_rating": "General",
+      "jev_rating": "Teen",
+      "probabilities": {
+        "Explicit": 0,
+        "Mature": 0.26,
+        "General": 0.36,
+        "Teen": 0.38
+      },
+      "confidence": 0.17,
+      "model": "typesafe/jev-1.13-20260917",
+      "provider": "TypeSafe",
+      "request_id": "gen-dec-1790587236-CE9CaJD61CUy8sdwF9lW",
+      "usage": {
+        "input_tokens": 5015,
+        "output_tokens": 46,
+        "cost": 0.00021063
+      },
+      "canon": false,
+      "title": "Where the Eagle Lands"
+    }
+  ]
+}
