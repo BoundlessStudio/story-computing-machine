@@ -18,13 +18,13 @@ Above the lane, a broad illuminated sign hung from two arms of the market roof. 
 
 "Move back," I called.
 
-The cook beneath it looked up. A little boy in a yellow coat did not. He was turning a sugar-glass bird in his hands to catch the sign's changing colors, and the crowd had folded around him. I caught his coat and pulled him toward the cook. The fastening gave way with a crack that swallowed my shout.
+The cook beside the sign's left support looked up. A little boy in a yellow coat did not. He was turning a sugar-glass bird in his hands to catch the sign's changing colors, and the crowd had folded around him. I caught his coat and pulled him toward the cook. The fastening gave way with a crack that swallowed my shout.
 
 The boy slid from my hand into the cook's arms. I stepped after him, but someone's packing crate had rolled against my ankle. I fell in the middle of the lane. The sign came down from the right, turning on its remaining arm. Its edge filled my sight. All its beautiful colors went white.
 
 Mica sprang from my sleeve.
 
-For an instant, Mica was still small, a blue fleck between me and several hundred kilos of metal. Then their outline opened. Light streamed from them in long tails, blue at their roots and rose at their ends. Ears rose above the cook's stall. Hair like neon smoke swept across a face so dark it held the points of two star-bright eyes. Hands appeared where paws had been, five fingers spread toward the falling sign.
+For an instant, Mica was still small, a blue fleck between me and several hundred kilos of metal. Then their outline opened. They stood upright, taller than the stalls, with long legs and narrow shoulders beneath their vast ears. Light streamed from them in long tails, blue at their roots and rose at their ends. Hair like neon smoke swept across a face so dark it held the points of two star-bright eyes. Hands appeared where paws had been, five fingers spread toward the falling sign.
 
 The sign stopped a hand's breadth above my head.
 
@@ -44,7 +44,7 @@ Mica did not move the sign. Their head turned toward me, ears low. I pointed aga
 
 A blue hand reached down. Two fingers touched the inside of my wrist, without weight. The old warning. Then Mica pointed past the sign to a striped packing awning.
 
-I ducked to see beneath it. A woman's shoe stuck out from under a collapsed folding table. She had been packing away the stall when the crowd bolted. One of the table's crossbars lay across her thigh, and the far corner was under the sign's waiting edge. The place I had told Mica to drop it was not empty.
+I ducked to see beneath it. A woman's shoe stuck out from under a collapsed folding table. One of its braces had locked across her boot, and the far corner of her stall was under the sign's waiting edge. The place I had told Mica to drop it was not empty.
 
 "There's someone here," I called to the cook. He started toward us with the boy still holding his apron. "Take him away from the lane."
 
@@ -56,9 +56,9 @@ I looked at Mica. Their hands were still raised, but their elbows had begun to b
 
 Mica's eyes flashed to mine. The blue hand came between me and the awning, palm outward. I knew that gesture too: stay. I shook my head. Mica's mouth opened a little, though no sound came. Their hand returned to the sign.
 
-I went under it.
+I went back beneath the sign.
 
-The awning smelled of hot sugar and singed cloth. Its frame was light enough to lift, but a crate of glass jars held one end down. I pushed the crate over. Jars rolled against my knees. The woman's leg was caught in the table's folding brace, the hinge locked crooked across her boot. I pressed the release with my thumb and raised the crossbar. She pulled her leg free.
+The awning smelled of hot sugar and singed cloth. A crate of glass jars had fallen across the table, weighing the brace down. I pushed the crate over. Jars rolled against my knees. I pressed the brace's release with my thumb and lifted the crossbar off her boot. She pulled her leg free.
 
 Above us, the sign lurched. Mica made a sound like a breath forced through clenched teeth. Forks and wrappers that had been hanging in the air scattered across the lane.
 
@@ -70,7 +70,7 @@ We got up together. She leaned hard on my shoulder, and for three steps I could 
 
 "Clear!" I shouted.
 
-Mica looked at the woman, then at the empty packing stalls. Their hands closed. The sign's free right edge swung down on the remaining arm, slowly enough that the metal did not tear free. For a moment its reflected letters traveled backward over the roof. Then Mica lowered it across the stalls. Their frames broke under it, and the sign went dark.
+Mica looked at the woman, then at the empty packing stalls. Their hands closed. The sign's free right edge resumed its fall, swinging down on the remaining arm slowly enough that the metal did not tear free. For a moment its reflected letters traveled backward over the roof. Then Mica lowered it across the stalls. The stall frames broke under it, and the sign went dark.
 
 The loose bulbs came down at once. The air smelled of broken glass and cooking oil. Mica stood in the emptied lane, staring at the long blue fingers of their hands. Their tails thinned to ribbons. The light folded inward, and the figure was a small fox again.
 
