@@ -8,7 +8,7 @@ canon: false
 
 Onyx had been told that the sea would hold anyone who lay still enough. She lay back in a sheltered cove and went straight to the bottom.
 
-It was not far down. The water covered her face, and the stones under her shoulders were round and slick. She could see a white gull passing overhead, flattened by the wavering surface into an improbable shape. Then her lungs demanded air. She put her feet beneath her, stood, and sent the gull back into its proper sky.
+It was not far down. The water covered her face, and the stones under her shoulders were round and slick. She could see a white gull passing overhead, flattened by the wavering surface into an improbable shape. It circled twice more before her lungs demanded air. She put her feet beneath her, stood, and sent the gull back into its proper sky.
 
 On the beach, a woman with a coil of rope over one shoulder was watching her.
 
@@ -70,7 +70,7 @@ Neri looked toward the headland. Onyx followed her gaze.
 
 “Yes.”
 
-“My sister sailed on that ship.”
+“I recognized you at the beach. My sister sailed on that ship.”
 
 Onyx rested the sandpaper on the bench. “I’m sorry.”
 
@@ -118,7 +118,7 @@ Onyx looked at the two floats drying in the light. They would take her onto the 
 
 “The cabin is under a fallen deck,” she said. “I saw it when I went down for the powder. I would have to break through the prisoners’ quarters.”
 
-“Sal’s daughter wants it opened. Two of the other families who saw their people taken aboard have asked me to leave them where they are.” Neri folded her arms. “I wanted to know if you could reach it before I went back to them.”
+“Sal’s daughter wants it opened. Two of the other families who saw their people taken aboard have asked me to leave them where they are. They don’t want the prisoners’ quarters broken.” Neri folded her arms. “I wanted to know if you could reach it before I went back to them.”
 
 “I can reach it. I won’t open it on a request made only to me.”
 
@@ -136,7 +136,7 @@ Onyx rose. “And the floats?”
 
 “They’ll be ready.” Neri left the sandpaper where it lay. “I said I’d make them.”
 
-Onyx walked back to her room without putting on the armor. Its gold scales lay on the bed where she had left them, a second body that had always seemed easier for other people to look at. She sat at the little table and wrote what she had seen from the quay, where the captives stood, when she gave the order, and what the gunners had done. She wrote that she had not known their names. Twice she began a sentence about the enemy advance and crossed it out. That belonged in a fuller account, but it did not alter what she had known when she gave the signal. She wrote the sentence again without using it as an answer. Then she signed it.
+Onyx walked back to her room without putting on the armor. Its gold scales lay on the bed where she had left them, a second body that had always seemed easier for other people to look at. She sat at the little table and wrote what she had seen from the quay: captives at the rail, enemy troops advancing beyond them, gunners waiting for her signal. She wrote that she had given it after seeing the people aboard. She could not name them. Then she signed it.
 
 In the morning, Neri read the pages standing at her bench. She stopped at the line about the figures at the rail and read it a second time. Onyx waited while Neri finished, folded the pages, and put them beneath a weight so the breeze could not take them.
 
@@ -146,7 +146,9 @@ In the morning, Neri read the pages standing at her bench. She stopped at the li
 
 Neri looked at the signature. “I’ll take this to Sal’s daughter first. I won’t tell her it answers where Sal is.” She trimmed a loose end of binding from the frame. “She may come here and ask you herself. I won’t keep your room a secret.”
 
-“You shouldn’t.”
+“Tell her I’ll come to her this afternoon, after she’s read it. She can send me away. I can tell her how the cabin lies.”
+
+“I’ll tell her.”
 
 Neri handed her the finished frame. It was broad and awkward, smelling of pitch and fresh wood. She had padded the straps where they would touch the gold on Onyx’s arms.
 
