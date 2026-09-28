@@ -1,0 +1,163 @@
+---
+title: The Surface
+created: 2026-09-28
+canon: false
+---
+
+# The Surface
+
+Onyx had been told that the sea would hold anyone who lay still enough. She lay back in a sheltered cove and went straight to the bottom.
+
+It was not far down. The water covered her face, and the stones under her shoulders were round and slick. She could see a white gull passing overhead, flattened by the wavering surface into an improbable shape. Then her lungs demanded air. She put her feet beneath her, stood, and sent the gull back into its proper sky.
+
+On the beach, a woman with a coil of rope over one shoulder was watching her.
+
+“That was quick,” the woman said.
+
+Onyx pushed wet black hair from her eyes. Salt ran down the gold seam beside her ear. “I have a talent for sinking.”
+
+“I noticed.”
+
+The woman began past her toward a narrow boat drawn up above the tide. Onyx could have let her go. Instead she asked, “Do you make boats?”
+
+The woman turned. She had thick wrists, a sun-browned face, and the air of someone calculating how much of her morning a stranger would take. “I make them float.”
+
+“Could you make me float?”
+
+Her eyes traveled over Onyx’s black stone arms and the gold worked through them, then to the armor Onyx had stacked on a flat rock. Each scale of it bore a tiny stamped sun. Even out of uniform, Onyx was seldom unrecognized for long.
+
+“Maybe,” the woman said. “I’m Neri. Come to the shop when you’re dry.”
+
+Onyx looked down at the water already beading and slipping from her skin. “That may be sooner than you think.”
+
+Neri’s mouth twitched. She kept walking.
+
+For one hundred years Onyx had gone where a map sent her. She had chosen this coast herself. Her people had lived along it before the armies came; the houses were gone, but she remembered the salt grass that grew in the cracks above the beach. As a girl she had run down this shore with bare feet and a body light enough to be lifted by a wave. Now, when she had nowhere else she had been ordered to be, she wanted the sea to lift her once more. She had watched three boys laughing beyond the breakers that morning, and wanted something of their present joy, not only the return of an old sensation.
+
+She carried her armor to the room she had rented and went to Neri’s shop in plain clothes. Its door stood open to a crowded bench and two long, narrow hulls in their frames. Neri was shaving a sliver from a rib. She glanced up at Onyx’s loose shirt, then at the boots whose heels had left small dents in her floorboards.
+
+“How much do you weigh?”
+
+“More than when I last swam.”
+
+“That isn’t a number.”
+
+Onyx gave her one. Neri wrote it on a plank in chalk and stared at it for a moment. Then she drew two slim, sealed floats, a broad strap for each of Onyx’s arms, and a crosspiece that would keep them from turning under her.
+
+“You’ll have to move your own legs,” Neri said. “I can put wood under you. I can’t make it a skill.”
+
+“I did not ask you to.”
+
+“You’d be surprised what people ask.”
+
+Onyx paid for the wood and half the labor. Neri made no remark about the old gold Onyx used. Gold had entered her skin wherever a blade, a bullet, or a fall had opened it. The coins had come from her wages. She had not cut them from herself, though strangers had asked that question with varying degrees of politeness.
+
+Neri worked while Onyx watched, and after a while gave her sandpaper and a section of the crosspiece. Onyx pressed too hard. The wood roughened, then began to splinter.
+
+“Lighter,” Neri said.
+
+Onyx tried again. It had been a long time since her hands had been asked for less strength. Her people had made themselves stone rather than kneel to the conquerors who landed here. The change had kept many alive. It had not made them unbreakable. Across a century of fighting, the others had fallen, until people who had never heard her mother’s voice began calling Onyx the last daughter. She had learned to carry their refusal in her arms, as if every gentle thing might be mistaken for surrender.
+
+By dusk the floats were sealed but not yet fitted. Neri had to let the pitch cool. She set them outside on trestles, where the breeze could reach every seam.
+
+“You chose an odd place to start,” she said. “Most people learn in a pond.”
+
+“I was born here.”
+
+Neri looked toward the headland. Beyond it, at a depth too great for ordinary swimmers, lay the prison ship sunk in the last battle of the war. Onyx had not told Neri why she knew the depth.
+
+“Then you know what’s out there,” Neri said.
+
+“Yes.”
+
+“My sister sailed on that ship.”
+
+Onyx rested the sandpaper on the bench. “I’m sorry.”
+
+"I saw them take Sal aboard under guard. The record says it was carrying powder. No passengers. Her name is on a list of the missing, and the same office says there was nobody to miss." Neri drew a finger across a line in the wood, not looking up. "I thought you might be able to go down. There was a locked chest in the captain’s cabin. Sailors kept their lists there."
+
+Onyx thought of the gull distorted by water. Her stone lungs held a breath longer than human lungs could. She had been under the surface in battle, walking where others could not, dragging chains between ships. She could reach the wreck. She could also tear it open in the dark and bring up a chest that had rotted to nothing. She did not know whether Sal’s name had ever been written in it.
+
+Neri set the plane down. “You were there. At the harbor.”
+
+“I was.”
+
+“You have the wound from it. They put it on the victory coins.”
+
+Onyx touched the narrow gold line across her left shoulder. It shone through the collar of her shirt. On the coins, an artist had made it a bright slash above a burning ship, as if she had earned it while pulling people from the fire.
+
+“I saw people on board,” she said.
+
+Neri’s hand stayed on the plane. “How many?”
+
+“I don’t know.”
+
+“Was Sal one of them?”
+
+“I couldn’t see faces.”
+
+“But you saw people.”
+
+Onyx nodded. Across the bay that day, enemy troops had been moving toward the shore. The prison ship carried powder in its hold and captives above it. Her gunners had waited for her signal. She had seen the figures at the rail before she gave it. The ship burned; the advance stopped. Later the account written in her name mentioned only the powder.
+
+“I ordered the shot,” Onyx said.
+
+Neri took her hand off the plane. “You knew they were there.”
+
+“Yes.”
+
+The pitch on the floats made small cracking sounds as it cooled. Neri walked to the open door and stood with her back to Onyx. When she turned, her expression had lost the little impatient warmth it had held all afternoon.
+
+“Can you reach the captain’s cabin?”
+
+“I think so.”
+
+“Will you?”
+
+Onyx looked at the two floats drying in the light. They would take her onto the water and keep her there. The wreck would require none of them. She could walk off the beach that night, follow the floor until the world grew dark, and perhaps find the thing Neri needed. She had done harder work because strangers asked it of her. She had also made decisions in the dark for other people and called them necessary.
+
+“I won’t go down tonight,” she said. “I won’t decide for everyone who lost someone there that the ship should be opened. And I cannot promise there’s a list.”
+
+“I didn’t ask for a promise. I asked if you would go.”
+
+“I’m not willing to.” Onyx made herself leave the answer there. “I can tell you what I saw. I can put my name to it.”
+
+“That won’t tell me if Sal was aboard.”
+
+“No.”
+
+Neri went to the bench and turned Onyx’s unfinished crosspiece over so that the rough side faced up. “You can write it here tomorrow. The families will want to read it. Then they can decide what to do about the wreck.”
+
+Onyx rose. “And the floats?”
+
+“They’ll be ready.” Neri picked up the sandpaper. “I said I’d make them.”
+
+Onyx walked back to her room without putting on the armor. Its gold scales lay on the bed where she had left them, a second body that had always seemed easier for other people to look at. She sat at the little table and wrote what she had seen from the quay, where the captives stood, when she gave the order, and what the gunners had done. She wrote that she had not known their names. Twice she began a sentence about the enemy advance and crossed it out. That belonged in a fuller account, but it did not alter what she had known when she gave the signal. She wrote the sentence again without using it as an answer.
+
+In the morning, Neri read the pages standing at her bench. She stopped at the line about the figures at the rail and read it a second time. Onyx waited while Neri finished, folded the pages, and put them beneath a weight so the breeze could not take them.
+
+“I’ll show this to the families,” Neri said. “Some of them have said the ship should stay as it is. Some want everything brought up. Sal’s daughter wants a name on a stone, if nothing else.”
+
+Onyx had not known there was a daughter. She almost said so, then understood that Neri had not been withholding a useful fact. She had been deciding how much of her life to give a stranger.
+
+“If they decide to search it,” Onyx said, “they should know what I can reach. I’ll tell them the truth about that too.”
+
+“You told me already.” Neri took a small knife to the last strip of binding on the floats. “I don’t know what they’ll ask of you.”
+
+“Neither do I.”
+
+Neri handed her the finished frame. It was broad and awkward, smelling of pitch and fresh wood. She had padded the straps where they would touch the gold on Onyx’s arms.
+
+“Why did you finish it?” Onyx asked.
+
+“It was nearly finished. And you wanted to swim.” Neri met her eyes. “Both things are true.”
+
+They carried the frame to the cove. Neri checked each fastening herself and sent Onyx into water shallow enough to stand in. From the beach she gave practical instructions: loosen one strap, lean back before kicking, keep her mouth above the chop. Her voice held no softness Onyx could mistake for pardon. It held attention.
+
+Onyx took a breath and leaned backward. The floats rolled against her arms. Her feet left the stones. For an instant panic drove her to reach for the bottom, but her hand met water, and the frame steadied. She moved one leg, then the other. The shore shifted a little beside her.
+
+Neri stayed where the wet sand began. The signed account lay in a dry bag at her feet, ready for the walk to the families. Onyx could see the bag whenever a wave lowered her. She could also see the high blue part of the sky, which she had never watched from this angle as stone.
+
+“Your left float’s riding low,” Neri called. “Come in before it takes on water.”
+
+Onyx turned toward shore. She had crossed this bay under fire and believed, at the time, that reaching the other side was the whole of survival. It took several ungainly strokes to travel the few yards back. She wanted to try again tomorrow.
