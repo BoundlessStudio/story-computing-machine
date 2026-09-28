@@ -58,7 +58,7 @@ Mica's eyes flashed to mine. The blue hand came between me and the awning, palm 
 
 I went back beneath the sign.
 
-The awning smelled of hot sugar and singed cloth. A crate of glass jars had fallen across the table, weighing the brace down. I pushed the crate over. Jars rolled against my knees. I pressed the brace's release with my thumb and lifted the crossbar off her boot. She pulled her leg free.
+The awning smelled of hot sugar and singed cloth. A crate of glass jars had fallen across the table, weighing the brace down. I pushed the crate over. Jars rolled against my knees. I pressed the release with my thumb and lifted the brace off her boot. She pulled her leg free.
 
 Above us, the sign lurched. Mica made a sound like a breath forced through clenched teeth. Forks and wrappers that had been hanging in the air scattered across the lane.
 
@@ -70,7 +70,7 @@ We got up together. She leaned hard on my shoulder, and for three steps I could 
 
 "Clear!" I shouted.
 
-Mica looked at the woman, then at the empty packing stalls. Their hands closed. The sign's free right edge resumed its fall, swinging down on the remaining arm slowly enough that the metal did not tear free. For a moment its reflected letters traveled backward over the roof. Then Mica lowered it across the stalls. The stall frames broke under it, and the sign went dark.
+Mica looked at the woman, then at the empty packing stalls. Their hands closed. The sign's free right edge swung down on the remaining arm, its light sliding backward across the roof. Mica checked its fall until it reached the stalls. The stall frames broke under the weight, and the sign went dark.
 
 The loose bulbs came down at once. The air smelled of broken glass and cooking oil. Mica stood in the emptied lane, staring at the long blue fingers of their hands. Their tails thinned to ribbons. The light folded inward, and the figure was a small fox again.
 
