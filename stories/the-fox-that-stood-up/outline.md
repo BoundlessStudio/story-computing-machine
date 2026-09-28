@@ -1,0 +1,9 @@
+# Provisional direction
+
+Close first person, one night. Among the varied light animals that follow people through a neon market, the narrator's fox fits beneath a coat cuff. In ordinary sight it is absent. For years it has tapped their wrist before trouble, a small habit the narrator knows by heart. They love it and have quietly assumed that smallness tells them what it is capable of.
+
+The fox notices a failing suspended sign before any human alarm does. The narrator warns people and pulls someone clear, but the support gives way above them. With no route out, they watch the fox rise: huge ears and streaming tails in blue and rose light, a dark, star-eyed face, a person's hands. Its psychic force arrests the falling metal and the narrator's own fall. The form appears under mortal pressure, to the fox's surprise as well as the narrator's; its hold is visibly hard to sustain.
+
+The narrator gets out and urges the fox to let the sign fall in an apparently clear space. It refuses. With the old familiar wrist tap, now made by a luminous hand, it draws the narrator's attention to a vendor pinned beneath a stall in that space. The fox cannot both hold the sign and move the vendor. The narrator chooses to go back under its failing hold, frees the vendor, and calls the moment when the space is clear. The fox chooses where to lower the sign. Their disagreement and cooperation, conveyed first through action rather than an explanatory speech, carry the real change in their relationship.
+
+Afterward the fox may return to its small shape, but the narrator's old gesture of scooping it up no longer feels automatic. A quiet choice between them should close the story. The possibility to test in prose is whether the fox's new personlike presence can feel like the same lifelong companion, with an inner life the narrator had not thought to ask about, rather than a power granted for a crisis.
