@@ -6,7 +6,7 @@ canon: false
 
 # From the Middle
 
-The studio had covered its skylights for the broadcast. Vera could still see her heart in the monitors whenever a camera faced the street: an enormous, imperfect shape of colour behind the crowd, cut in half by the buildings. A silver thread ran from the thing in the sky to her physical heart. It showed through her dress as a fine, bright line just left of the buttons.
+At the afternoon camera test, the studio had covered its skylights for the broadcast. Vera could still see her heart in the monitors whenever a camera faced the street: an enormous, imperfect shape of colour behind the crowd, cut in half by the buildings. A silver thread ran from the thing in the sky to her physical heart. It showed through her dress as a fine, bright line just left of the buttons.
 
 The first time she had come to this studio, her spirit heart had floated an arm's length above her, about the size of a melon. Her mother had put one hand over the pale green she had left in it and told Vera to stand still for the photograph. Now a camera needed its own dark hood to keep Vera's heart from tinting the lens. People watched it from bridges and apartment roofs. On clear nights, someone always posted a picture with a circle around a fleck of colour: *That one's mine.*
 
@@ -14,7 +14,7 @@ It was her first song's fifteenth anniversary. The television people had made th
 
 She was going to play the whole recording tonight and put it on an anniversary edition of the song next week. She had said so in the advertisements.
 
-At the stage door, a woman stopped her with one hand raised, palm out. She kept her distance. She and the boy beside her wore blue audience passes; he gripped the strap of a schoolbag the same colour.
+At the stage door that evening, a woman stopped her with one hand raised, palm out. She kept her distance. She and the boy beside her wore blue audience passes; he gripped the strap of a schoolbag the same colour.
 
 "You can go," the guard said to Vera.
 
@@ -24,7 +24,7 @@ At the stage door, a woman stopped her with one hand raised, palm out. She kept 
 
 Vera had heard extravagant versions of this sort of story. This one had a steepness and duration she could picture. She said, "I'm glad he got home."
 
-"He's well now." The woman smiled. "He said to ask whether the girl at the beginning will be on tonight. The one who says, 'Again, from the middle.' He likes that part best."
+"He's well now." The woman smiled. "My son wanted me to ask whether the girl at the beginning will be on tonight. The one who says, 'Again, from the middle.' He likes that part best."
 
 The boy looked as if he would rather his mother had not told anyone what he liked best. Vera said, "I think you'll hear her."
 
@@ -48,7 +48,7 @@ Iona arrived wearing a raincoat damp at the shoulders. She had cut her hair much
 
 "Hello," she said.
 
-"Hi." Iona shut the door. "I saw the trailer."
+"Hi." Iona left the door ajar. "I saw the trailer."
 
 Vera touched the case. "They used the bit I sent them. Not the rest."
 
@@ -80,7 +80,7 @@ Vera had not meant to look up. A narrow strip of sky showed above the window fra
 
 Iona followed her eyes to the window. "The tape, Vera."
 
-Vera turned back. There was no anger in Iona's face that the yellow could measure. Her hands were folded on the wet raincoat; one fingernail had a dark mark at its edge. Vera did not know where she worked now, or whether she still hated getting caught in the rain. Iona had come in person to ask for a thing Vera could do.
+Vera turned back. Iona's hands were folded on the wet raincoat; one fingernail had a dark mark at its edge. Vera did not know where she worked now, or whether she still hated getting caught in the rain. Iona had come in person to ask for a thing Vera could do.
 
 "I'll tell them to cut your parts," Vera said.
 
@@ -126,9 +126,9 @@ The screen went dark. The boy from the stage door sat in the second row, his sch
 
 "You've always said such lovely things about your sister," the host said. He turned his chair toward Vera and waited for the next one.
 
-"I kept saying she made me," Vera said. The camera was close enough for her to see its red light. "That wasn't mine to say. And I promised the rest of that tape without asking her either."
+"I kept saying she made me," Vera said. The camera was close enough for her to see its red light. "That wasn't mine to say. I promised the rest of that tape. I shouldn't have."
 
-The host looked down at his cards. In her ear, someone counted the seconds until the song. Vera could have filled them with the old story or with the recording she had wanted to share. Instead the camera held on her while she had nothing more to give it. When the music began, she entered on her own first note. Several mouths in the front row made the shape of Iona's four words before she began.
+The host looked down at his cards. In her ear, someone counted the seconds until the song. Vera could have filled them with the old story or with the recording she had wanted to share. Instead the camera held on her while she had nothing more to give it. The music began without a recorded count-in; she entered on her own first note. Several mouths in the front row made the shape of Iona's four words before she began.
 
 Afterward, people waited outside under her heart. There were fans with their phones held high, and strangers who had simply stopped to watch the colours travel across the clouds. Vera stood a moment inside the doorway before the guard cleared a path. She could pick out where Iona's yellow lay, far up in the crowded light. She did not know whether Iona had stayed to hear the song, or had ridden home through it. Her phone was in her hand. She typed, *Did you get home dry?* and sent it. No answer came while she waited.
 
