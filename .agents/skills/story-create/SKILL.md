@@ -17,6 +17,8 @@ For a new `[WP]`, before drafting, have an independent Codex reader and Claude r
 
 Give a Codex writer agent ownership of the outline and prose and room to make substantive choices. The coordinator owns editorial judgment, not the sentences. The writer may use `creative-writing-craft` for a specific craft need and `dialogue`, `story-sense`, or `prose-style` to diagnose a problem. Use those references only for the problem at hand; they do not add stages or separate reports. The writer reads the complete story aloud or skeptically in mind before handoff, watching reader knowledge, scene consequences, dialogue uptake, and whether the ending earns its effect. Commit the first complete draft before review so later changes can be understood.
 
+The outline round-robin is required for a new `[WP]`: after independent first reads, the writer, Codex reader, and Claude must receive one another's actual concerns and respond before drafting. Do not substitute a bundle of separate reviews or a coordinator summary for their exchange.
+
 ## Read independently, then talk
 
 For a new complete story or a substantial rewrite of a non-canon story, obtain a cold Codex reader subagent and a cold Claude reading. If Claude cannot be used, recruit another independent reader and say what changed. Use new readers who did not join the outline talk. Start the Codex reader fresh without the coordinator's prior conversation; paste the complete prompt and current prose into its assignment, or direct it to read only those two named files in the absolute worktree. Keep that same reader available for discussion. Give each reader only those inputs, without the outline, `notes.md`, prior reviews, the writer's explanation, or the other reader's response. If a supplied original image carries a binding detail or is needed to judge the story, provide that original to both readers as well.
@@ -44,6 +46,8 @@ Save their first effects in `notes.md` before sharing opinions. Relay each fresh
 Use `notes.md` as a compact, dated memory for the next writer or editor. Keep the outline readers' first concerns, the prose readers' original effects and passages, the fresh final readers' findings, the writer's responses, the coordinator's reasoning, what changed, what rereading showed, and important unresolved disagreement. Include short before/after excerpts where Git's eventual merge style might otherwise hide the actual repair. Record decisions and lessons, not a full transcript or a form full of empty fields. A later round can correct an earlier diagnosis without erasing it.
 
 Once the prose works, check the prompt, relevant shared facts, names that might confuse readers, and internal time, space, knowledge, and object continuity. Resolve a canon conflict with the user; do not distort the story to satisfy a routine check. The coordinator states why the current version is ready, including any deliberate dissent, in `notes.md` and the pull request. No SHA-256 pin, script, test suite, or numeric review verdict certifies the story.
+
+The final whole-story round-robin is required for a new `[WP]`: the writer, fresh Codex reader, and fresh Claude session must respond to one another's actual first effects before the coordinator declares readiness. Recheck revisions at the scale described above; independent final reads alone do not complete the discussion.
 
 ## Art and handoff
 
