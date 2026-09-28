@@ -12,7 +12,7 @@ Someone in the audience screamed. Someone else began to applaud, then stopped.
 
 The Emperor stood beside his overturned chair. A shallow cut crossed his neck, just under the jaw. He touched it, looked at the blood on his fingers, and said, “Show me her face.”
 
-Orsen had pulled a custody hood from his belt and covered the woman's face when he brought her down. She fought beneath it, breathing hard. He kept his wounded hand around her wrist and raised the other.
+Orsen had pulled a custody hood from his belt and covered the woman's face once she was down. She fought beneath it, breathing hard. He kept his wounded hand around her wrist and raised the other.
 
 “A closed day, Majesty.”
 
@@ -92,7 +92,7 @@ Orsen sent Pel to the west gate to carry a warning to Dessa. He came back out of
 
 “We can take you out under the charter now,” Orsen told Iria. “I can send him from the street.”
 
-“With the roll saying only that I tried to kill him?” She held up his old notice. “I want your account beside mine.”
+“I want him to hear you say what you did to Tovin.” She held up his old notice. “Let his recorder write it beside my name.”
 
 “You won't be safe in there,” he said.
 
