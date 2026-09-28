@@ -12,7 +12,7 @@ My mother had first seen the fox on the day I was born. Some children came with 
 
 I liked knowing where to find them. In the years when everything else had changed address, Mica had kept that place.
 
-We were passing the last row of food stalls when the paw tapped twice. Mica did that before trouble. As a child I had followed its stare to a bicycle cutting across the pavement; last winter, to the loose heel of a stair. Often the trouble was nothing worse than a dropped cup. I stopped anyway.
+We were passing the last row of food stalls when the paw tapped twice. Mica did that before trouble. As a child I had followed their stare to a bicycle cutting across the pavement; last winter, to the loose heel of a stair. Often the trouble was nothing worse than a dropped cup. I stopped anyway.
 
 Above the lane, a broad illuminated sign hung from two arms of the market roof. Its letters rolled through advertisements, painting the steam from the stalls blue, then red. At the right arm, a fastening rocked loose. Metal made a thin, high sound.
 
@@ -24,7 +24,7 @@ The boy slid from my hand into the cook's arms. I stepped after him, but someone
 
 Mica sprang from my sleeve.
 
-For an instant, the fox was its old size, a blue fleck between me and several hundred kilos of metal. Then its outline opened. Light streamed from it in long tails, blue at their roots and rose at their ends. Ears rose above the cook's stall. Hair like neon smoke swept across a face so dark it held the points of two star-bright eyes. Hands appeared where paws had been, five fingers spread toward the falling sign.
+For an instant, Mica was still small, a blue fleck between me and several hundred kilos of metal. Then their outline opened. Light streamed from them in long tails, blue at their roots and rose at their ends. Ears rose above the cook's stall. Hair like neon smoke swept across a face so dark it held the points of two star-bright eyes. Hands appeared where paws had been, five fingers spread toward the falling sign.
 
 The sign stopped a hand's breadth above my head.
 
@@ -54,7 +54,7 @@ I looked at Mica. Their hands were still raised, but their elbows had begun to b
 
 "I'm coming," I said to her.
 
-Mica's eyes flashed to mine. The blue hand came between me and the awning, palm outward. I knew that gesture too: stay. They wanted the woman safe, but they wanted me out of the sign's path. I shook my head. Mica's mouth opened a little, though no sound came. Their hand returned to the sign.
+Mica's eyes flashed to mine. The blue hand came between me and the awning, palm outward. I knew that gesture too: stay. I shook my head. Mica's mouth opened a little, though no sound came. Their hand returned to the sign.
 
 I went under it.
 
@@ -76,8 +76,8 @@ The loose bulbs came down at once. The air smelled of broken glass and cooking o
 
 I hurried over. Mica sat beneath the empty roof arm, breathing fast, their fur faint around the edges. I sat on the paving beside them while the market found its voices: the cook calling for someone to bring a chair, the boy asking his mother if she had seen the fox too, the woman from the stall assuring three different people that her leg was all right.
 
-The woman came over on her own feet, her augmented lenses catching Mica's light. She knelt. "Thank you," she said to them, and held out her hand.
+The woman limped over, her augmented eyes following Mica. She crouched carefully. "Thank you," she said to Mica, and held out her hand.
 
 I had already raised my arm for Mica to climb aboard. I lowered it. Mica crossed to the woman and set one small paw against her palm. She held still until Mica stepped back.
 
-Then Mica came back to me without a signal. They climbed the familiar seam but stayed outside my cuff, facing the lane. Their paw came to rest over my pulse.
+Then Mica came back to me. They climbed the familiar seam but stayed outside my cuff, facing the lane. Their paw came to rest over my pulse.
