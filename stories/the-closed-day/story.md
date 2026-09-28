@@ -64,7 +64,7 @@ He pulled the cloak back enough for her to breathe. She was older than he'd thou
 
 “Iria Keld,” she said. “My brother was Tovin Keld.”
 
-Orsen knew the name. Not from the execution roll, which had held thirty-two names, but from a girl outside a weaving shed clutching a length of blue cloth. She had said her brother could not have known the attacker. He had been at his loom all morning. Orsen had said the order was for a street, not for accomplices. Then he had told his men to take the young man.
+Orsen knew the name. Not from the execution roll, which had held thirty-two names, but from a girl outside a weaving shed clutching a length of blue cloth. She had said her brother could not have known the attacker. He had been at his loom all morning. A younger sister had pressed a warm loaf into his hands before the guards tied them. Orsen had let him keep it, as if that were mercy. He had said the order was for a street, not for accomplices. Then he had told his men to take the young man.
 
 Iria reached into her sleeve. Pel's sword came up. She held out a folded square of paper, stained at one edge with old rain. Orsen recognized the heading before she opened it. The notices had been posted on every door of that street: *all persons of the north weaving street to be seized for examination*. His mark was at the bottom of each one.
 
@@ -80,7 +80,7 @@ From the audience chamber came the Emperor's voice, asking for a clean collar. T
 
 Orsen put his cloak back over Iria's face. “Your sister. Where is she?”
 
-“Away from our street.”
+“Dessa's at the west bakehouse. I told her I came to petition for Tovin's name to be cleared.”
 
 “That won't be far enough.”
 
@@ -214,10 +214,24 @@ She stepped up to the bar. The officer drew his sword. Pel slid the roll into th
 
 Iria went through first. She looked down the street where the rider had vanished, then back at the roll in the recorder's arms. Calen had to call her name before she went on. None of them had a horse.
 
-They reached the magistrate's table in the open court just before noon. She did not ask Orsen for his badge. Calen gave her the gate order, with its blue cord still attached, and the recorder put Iria's notice beside it. The magistrate asked Pel to read the roll aloud, while her own clerk made a second copy under the eyes of the people waiting with their ordinary quarrels. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Then the magistrate asked Iria whether she still claimed the words written there.
+They reached the magistrate's table in the open court just before noon. The table stood at the edge of the square, in sight of the west gate. She did not ask Orsen for his badge. Calen gave her the gate order, with its blue cord still attached, and the recorder put Iria's notice beside it. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Orsen signed with his uninjured hand, and Calen signed below him. Then the magistrate asked Iria whether she still claimed the words written there.
 
 “I tried to kill him,” Iria said. “I claim the rest.”
 
-The magistrate signed for custody. Iria would be tried; the order to take her brother was now entered beside the charge against her. Pel left one copy on the public table and carried another across the square to the city archive. He walked quickly, with no armor at his back.
+The magistrate asked Pel to read the account aloud, while her clerk made a second copy under the eyes of the people waiting with their ordinary quarrels. She signed for custody. Iria would be tried; the order to take her brother was now entered beside the charge against her. Pel left one copy on the public table and carried another across the square to the city archive. He walked quickly, with no armor at his back. Calen stood beside Iria while the constables took her into custody.
 
-The magistrate called Orsen forward to sign the account. He used his uninjured hand. Calen signed beneath him, then stood beside Iria while the clerk took her into custody. The closed day would end at sunset. Until then the magistrate's guards held the door, and two copies of the account lay beyond the Emperor's chamber. Outside the court, the imperial rider came back through the gate without the red cord. Iria searched his face for news of her sister, and found none.
+The rider came back across the square on foot, leading his horse. A woman walked beside him with her wrists tied in front of her. There was flour on her sleeves. Orsen recognized the younger sister who had put bread into Tovin's hands.
+
+Iria left the table. Two city constables stopped her at the edge of the court, close enough for Dessa to hear her call. The rider kept walking.
+
+Dessa turned. “You said you were going to petition.”
+
+“I lied,” Iria said.
+
+The rider led her on toward the gate. Iria faced the magistrate. “Her name is Dessa Keld. She knew nothing about my knife. Put down that he took her.”
+
+The magistrate told her clerk to write it. She made no order to release Dessa; the rider was already passing through the gate. Iria looked at Calen, who still wore her guard's badge.
+
+“Follow her,” Iria said. “Tell me where they keep her.”
+
+Calen touched the badge at her collar. Then she went after Dessa. Iria watched until Calen passed under the gate and out of sight.
