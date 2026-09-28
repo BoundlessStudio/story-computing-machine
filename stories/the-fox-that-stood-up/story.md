@@ -6,9 +6,9 @@ canon: false
 
 # The Fox That Stood Up
 
-Mica rode the night market in my sleeve. Through my augmented eyes, a blue nose showed at the cuff and a brush of pink light followed every movement of my arm. Without the augments, I would have seen an empty sleeve. Mica would still have been there.
+Mica followed me through the night market. Through my augmented eyes, a blue nose kept close to my cuff and a brush of pink light followed every movement of my arm. Without the augments, I would have seen an empty space beside me. Mica would still have been there. Above the market roof, lift cars climbed the faces of the neon towers. Augmented menus floated beside the cooking pans; the older stalls still chalked their prices for people who took their lenses off.
 
-My mother had first seen the fox on the day I was born. Some children came with brilliant horses or birds that filled the birthing room. Mica had been small enough to curl in my mother's palm, and had stayed that size for twenty-seven years. In the crowded lane, a luminous stag put its antlers through a noodle stall without disturbing a bowl. A girl's moth beat its wings around her head like a second halo. Mica kept one paw on my wrist and watched the stalls go by.
+My mother had first seen the fox on the day I was born. Some children came with brilliant horses or birds that filled the birthing room. Mica had been small enough to curl in my mother's palm, and had stayed that size for twenty-seven years. In the crowded lane, a luminous stag put its antlers through a noodle stall without disturbing a bowl. A girl's moth beat its wings around her head like a second halo. When the crowd thickened, I held out my cuff. Mica climbed in. We had done it so often I no longer watched to see if they would.
 
 I liked knowing where to find them. In the years when everything else had changed address, Mica had kept that place.
 
@@ -18,7 +18,7 @@ Above the lane, a broad illuminated sign hung from two arms of the market roof. 
 
 "Move back," I called.
 
-The cook beneath it looked up. A little boy in a yellow coat did not. He was trying to see a sugar-glass bird through a case of sweets, and the crowd had folded around him. I caught his coat and pulled him toward the cook. The fastening gave way with a crack that swallowed my shout.
+The cook beneath it looked up. A little boy in a yellow coat did not. He was turning a sugar-glass bird in his hands to catch the sign's changing colors, and the crowd had folded around him. I caught his coat and pulled him toward the cook. The fastening gave way with a crack that swallowed my shout.
 
 The boy slid from my hand into the cook's arms. I stepped after him, but someone's packing crate had rolled against my ankle. I fell in the middle of the lane. The sign came down from the right, turning on its remaining arm. Its edge filled my sight. All its beautiful colors went white.
 
@@ -34,11 +34,11 @@ Mica looked down at those new hands. Surprise crossed that familiar face before 
 
 "Get out!" the cook shouted. He had the boy behind him now.
 
-I dragged my ankle free of the crate and crawled left, away from the sign's lowered edge. Once clear, I stood and looked for Mica. People with augmented eyes stared at the huge figure under the roof. Others stared at the sign held up by nothing they could see. Mica's tails had spread across the lane like a piece of the night sky, but their light frayed at the tips.
+I dragged my ankle free of the crate and crawled left, away from the sign's lowered edge. Once clear, I stood and looked for Mica. People with augmented eyes stared at the huge figure under the roof. Others stared at the sign held up by nothing they could see. Mica's tails had spread across the lane like a piece of the night sky, but their light frayed at the tips. My cuff hung empty, and for the first time I could imagine it staying that way.
 
-"You can let it down over there," I told them. The row of packing stalls on the right looked empty. Their owners had run at the first crack. "I'm out. Put it there."
+"You can let it down over there," I told Mica. The row of packing stalls on the right looked empty. Their owners had run at the first crack. "I'm out. Put it there."
 
-Mica did not move the sign. Their head turned toward me, ears low. I pointed again, impatient with my own fear. The remaining roof arm groaned. A line of silver cracks went through the sign's face.
+Mica did not move the sign. Their head turned toward me, ears low. I pointed again, impatient with my own fear. A line of silver cracks went through the sign's face.
 
 "Mica, please."
 
@@ -54,7 +54,7 @@ I looked at Mica. Their hands were still raised, but their elbows had begun to b
 
 "I'm coming," I said to her.
 
-Mica's eyes flashed to mine. The blue hand came between me and the awning, palm outward. I knew that gesture too: stay. From my sleeve it had stopped me at kerbs and broken steps. This time I shook my head. Mica's mouth opened a little, though no sound came. Their hand returned to the sign.
+Mica's eyes flashed to mine. The blue hand came between me and the awning, palm outward. I knew that gesture too: stay. They wanted the woman safe, but they wanted me out of the sign's path. I shook my head. Mica's mouth opened a little, though no sound came. Their hand returned to the sign.
 
 I went under it.
 
@@ -70,10 +70,14 @@ We got up together. She leaned hard on my shoulder, and for three steps I could 
 
 "Clear!" I shouted.
 
-Mica looked at the woman, then at the empty packing stalls. Their hands closed. The sign turned on its remaining arm, slowly enough that the metal did not tear free. For a moment its reflected letters traveled backward over the roof. Then Mica lowered it across the stalls. Their frames broke under it, and the sign went dark.
+Mica looked at the woman, then at the empty packing stalls. Their hands closed. The sign's free right edge swung down on the remaining arm, slowly enough that the metal did not tear free. For a moment its reflected letters traveled backward over the roof. Then Mica lowered it across the stalls. Their frames broke under it, and the sign went dark.
 
 The loose bulbs came down at once. The air smelled of broken glass and cooking oil. Mica stood in the emptied lane, staring at the long blue fingers of their hands. Their tails thinned to ribbons. The light folded inward, and the figure was a small fox again.
 
-I hurried over. Mica sat beneath the empty roof arm, breathing fast, their fur faint around the edges. For once I did not reach down and lift them. I sat on the paving beside them while the market found its voices: the cook calling for someone to bring a chair, the boy asking his mother if she had seen the fox too, the woman from the stall assuring three different people that her leg was all right.
+I hurried over. Mica sat beneath the empty roof arm, breathing fast, their fur faint around the edges. I sat on the paving beside them while the market found its voices: the cook calling for someone to bring a chair, the boy asking his mother if she had seen the fox too, the woman from the stall assuring three different people that her leg was all right.
 
-After a while I held out my arm, cuff open. Mica looked at the sleeve I had always offered without asking. They stepped past my hand, then turned and climbed the familiar seam, settling against my wrist with their face toward the lane. Their paw came to rest over my pulse.
+The woman came over on her own feet, her augmented lenses catching Mica's light. She knelt. "Thank you," she said to them, and held out her hand.
+
+I had already raised my arm for Mica to climb aboard. I lowered it. Mica crossed to the woman and set one small paw against her palm. She held still until Mica stepped back.
+
+Then Mica came back to me without a signal. They climbed the familiar seam but stayed outside my cuff, facing the lane. Their paw came to rest over my pulse.
