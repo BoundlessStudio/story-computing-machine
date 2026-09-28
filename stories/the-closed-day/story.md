@@ -12,13 +12,13 @@ Someone in the audience screamed. Someone else began to applaud, then stopped.
 
 The Emperor stood beside his overturned chair. A shallow cut crossed his neck, just under the jaw. He touched it, looked at the blood on his fingers, and said, “Show me her face.”
 
-Orsen had pulled his cloak over the woman's head when he brought her down. She fought beneath it, breathing hard. He kept his wounded hand around her wrist and raised the other.
+Orsen had pulled a custody hood from his belt and covered the woman's face when he brought her down. She fought beneath it, breathing hard. He kept his wounded hand around her wrist and raised the other.
 
 “A closed day, Majesty.”
 
 The Emperor looked past the ring of swords to him. “I didn't sentence her.”
 
-“No, Majesty.”
+“No, Majesty. A face will give you her family.”
 
 “Then show me.”
 
@@ -30,7 +30,7 @@ Calen stood at his left shoulder. She had helped him take the north weaving stre
 
 The Emperor wiped his fingers on a petition and let it fall. “Take her to the inner cell. Find out who sent her. Start with her family.”
 
-The woman went still under the cloak.
+The woman went still under the hood.
 
 The Guard's charter gave them custody of a captured attacker until sunset. They had to bring that person, alive, with a written charge to the city magistrate. Three years earlier, another attacker had made that journey safely. His cousins had not. Neither had the men who rented rooms beside his, nor the boy who delivered their bread. Orsen had signed the list because the charter protected the attacker, and the Emperor's command named everyone else. He had told himself the distinction mattered. Calen had asked why the others got no day. He had told her to read the charter. He had carried the list from door to door while the man waited in the magistrate's cell.
 
@@ -40,7 +40,7 @@ Pel was the newest guard in the chamber. He lowered his sword, then glanced at t
 
 “Go,” the Emperor said. “We have all day.”
 
-Orsen kept the woman ahead of him through the side door. Pel followed. In the passage, the shouts from the chamber gave way to the small sounds of their equipment: leather shifting, Orsen's blood falling from his hand onto the tiles. The inner cell was twelve paces away. A lock and two guards would keep her alive until it was time to take her to the magistrate. Orsen had already begun counting those paces. Pel caught his hand and bound it with a strip torn from his own collar. Then the woman spoke from under the cloak.
+Orsen kept the woman ahead of him through the side door. Pel followed. In the passage, the shouts from the chamber gave way to the small sounds of their equipment: leather shifting, Orsen's blood falling from his hand onto the tiles. The inner cell was twelve paces away. A lock and two guards would keep her alive until it was time to take her to the magistrate. Orsen had already begun counting those paces. Pel caught his hand and bound it with a strip torn from his own collar. Then the woman spoke from under the hood.
 
 “Don't put me in there.”
 
@@ -58,7 +58,7 @@ Orsen stopped. Pel, behind them, made the slight movement of a man who wished he
 
 “He will.”
 
-He pulled the cloak back enough for her to breathe. She was older than he'd thought on the floor, perhaps thirty, with gray caught in the hair at her temples. She looked at his injured hand, then at his face.
+He pulled the hood back from her face. She was older than he'd thought on the floor, perhaps thirty, with gray caught in the hair at her temples. She looked at his injured hand, then at his face.
 
 “Iria Keld,” she said. “My brother was Tovin Keld.”
 
@@ -76,7 +76,7 @@ He had read the word *all* and taken it as permission to stop asking what any of
 
 From the audience chamber came the Emperor's voice, asking for a clean collar. Then another voice, lower, repeated the order to find the woman's family. There would be clerks in the chamber writing the words down. There would be a rider at the gate soon after.
 
-Orsen put his cloak back over Iria's face. “Your sister. Where is she?”
+Orsen put the hood back over Iria's face. “Your sister. Where is she?”
 
 “Dessa's at the west bakehouse. I told her I came to petition for Tovin's name to be cleared.”
 
@@ -88,7 +88,11 @@ Orsen put his cloak back over Iria's face. “Your sister. Where is she?”
 
 “They'll find it in an hour. I want him to hear yours first.”
 
-Pel looked between them. Orsen could have taken the paper. He could have shut the cell, sent a guard to look for the sister, and told himself he had done more than last time. He could not have stopped the rider without turning back into the chamber. Iria knew it too.
+Orsen sent Pel to the west gate to carry a warning to Dessa. He came back out of breath. “They barred it at the alarm. The household officer won't let me through without a sealed order.”
+
+“We can take you out under the charter now,” Orsen told Iria. “I can send him from the street.”
+
+“With the roll saying only that I tried to kill him?” She held up his old notice. “I want your account beside mine.”
 
 “You won't be safe in there,” he said.
 
@@ -96,7 +100,7 @@ Pel looked between them. Orsen could have taken the paper. He could have shut th
 
 They returned to the audience chamber by the side door. The Emperor had changed his collar. He sat again, though the petitions were still scattered and nobody had resumed the audience. A court recorder sat at the narrow table beneath the windows, trying to write around a patch of blood on the day's roll.
 
-The guard ring opened for Orsen and closed behind him. He kept Iria beside him, cloak over her head. The Emperor saw the paper in her hand.
+The guard ring opened for Orsen and closed behind him. He kept Iria beside him, hood over her head. The Emperor saw the paper in her hand.
 
 “You have the names?”
 
@@ -110,7 +114,7 @@ The recorder's pen hovered. The Emperor noticed. “Set it down.”
 
 The pen stopped.
 
-Iria pushed the cloak off herself. Orsen caught at it too late. He did not cover her again.
+Iria pulled the hood off and dropped it among the petitions. Orsen caught at it too late. He did not cover her again.
 
 “I am Iria Keld,” she said. Her voice was rough from the struggle but reached the back of the room. “I tried to kill you. Three years ago you ordered my brother taken because a man he did not know tried to kill you. Captain Orsen signed the order and took him.”
 
@@ -194,13 +198,13 @@ The Emperor pointed at Iria. “You'll give me her. The charter won't keep her s
 
 Iria gripped the edge of the recorder's table. She had chosen this route knowing what her name would cost, but Orsen saw her struggle to stay beside the paper instead of running toward the west bakehouse.
 
-The Emperor called for a household runner. Orsen heard him order the west gate shut. He gave a second order in a voice too low for Orsen to catch, and the runner left with two strips of sealed paper, one tied in blue cord and one in red.
+The Emperor called for a household runner. Orsen heard him order the west gate held against the Guard's charge. He gave a second order in a voice too low for Orsen to catch, and the runner left with two strips of sealed paper, one tied in blue cord and one in red.
 
 Calen took Iria by the arm, firmly enough to keep custody and gently enough that Iria went with her. Orsen followed without cloak or badge. Pel held the roll against his chest, and the recorder came behind them with Iria's old notice. Two guards followed with swords out. At the passage door, Calen turned them toward the throne before they backed away.
 
-The iron leaves of the west gate were barred. A household officer stood in front of them with a strip of blue cord hanging from his fist. Beyond the bars, the rider with the red cord mounted the horse he had led out before the gate closed. Iria saw him turn toward the bakehouse and pulled against Calen's hand.
+The iron leaves of the west gate were barred again. A household officer stood in front of them with a strip of blue cord hanging from his fist. Beyond the bars, the rider with the red cord mounted his horse. The officer had let him through under seal, then lowered the bar once more. Iria saw him turn toward the bakehouse and pulled against Calen's hand.
 
-“The Emperor ordered it shut,” the officer told Calen.
+“The Emperor ordered me to keep your prisoner inside,” the officer told Calen.
 
 “The charter orders us to deliver her,” Calen said. “Move.”
 
