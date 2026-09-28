@@ -100,7 +100,7 @@ Iona went to the rope rack. Fen's climbing line could span eight paces of air. I
 
 All the while she could feel the hour going by on the mountain. Fen and Tav would reach Bela sooner than she could. A crossing on one line might lift her off that shelf before Iona arrived; a second line made it much less likely that a slipping anchor would take her down the mountain. Iona was choosing the slower rescue without having asked the person who was waiting. She checked every loop again anyway, with hands that wanted to hurry.
 
-At the door, the four unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. Her hand hovered over the space for her name. She signed it.
+On her bench, the four unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. Her hand hovered over the space for her name. She signed it.
 
 The south face of the Crown was not a place for a straight line. The path doubled back under pale rock, crossed a slope of loose stones, then narrowed where the mountain dropped away. Iona followed Fen and Tav's tracks with both coils across her shoulders. She had to stop twice to ease the strain on her back. Each time, she counted how much sun had left the rock.
 
@@ -188,9 +188,9 @@ Bela looked down at the page. "Will this bring me home any faster next time?"
 
 "It won't," Fen said. "But your account puts the harm in the incident book. I can halt the clasps today. The council will have to decide what replaces them."
 
-Bela wrote slowly. Iona did not try to read over her shoulder. When Bela returned the pen, Fen turned the book toward Iona. She put her maker's mark beside the clasp entry.
+Bela wrote slowly. Iona did not try to read over her shoulder. When Bela returned the pen, Fen turned the book toward Iona. The clasp entry already carried its maker's mark from Orren's gear.
 
-Bela looked at it. "Yours?"
+Bela touched it. "Yours?"
 
 "Yes," Iona said.
 
