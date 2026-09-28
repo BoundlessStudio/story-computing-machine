@@ -20,7 +20,7 @@ Iona dropped flat and caught his wrist. Her other hand found a root wedged into 
 
 "I was indoors."
 
-He laid the coat over her anyway. His homeward clasp, a copper ring set with three small knots, hung dull against his chest. When fastened, it drew within reach the person who most wanted its wearer home if a fall was about to kill them. It had done exactly what the guild promised. Tav had survived.
+He laid the coat over her anyway. His homeward clasp, a copper ring set with three small knots, hung dull against his chest. When fastened, it could sense a fatal fall and bring the person who most wanted its wearer home within arm's reach. It had done exactly what the guild promised. Tav had survived.
 
 The guild's promise ended there. Iona and Tav still had half a mountain to climb down, and she had come without her boots.
 
@@ -68,7 +68,7 @@ Fen turned a page. Under **Guild members recovered**, Orren's name was marked in
 
 "The clasp made her one."
 
-Fen did not argue. That was more frightening than if she had. She turned back to the page, looking for a place to enter Bela's injury, and found none.
+Fen did not argue. That was more frightening than if she had. She turned back to the page, looking for a place to enter harm to someone the clasp had fetched, and found none.
 
 "I can suspend a device on a firsthand account of injury," Fen said. "Orren saw her stranded, but he doesn't know her condition. The intake clerk entered her as a witness, and the clasp as successful."
 
@@ -106,7 +106,7 @@ All the while she could feel the hour going by on the mountain. Fen and Tav woul
 
 On her bench, the four unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. It was a warning from the maker, not an account of an injury. Her hand hovered over the space for her name. She signed it.
 
-The south face of the Crown was not a place for a straight line. The path doubled back under pale rock, crossed a slope of loose stones, then narrowed where the mountain dropped away. The rescuer who had spoken of his son carried one coil up the safer lower trail. At the loose stones he gave it back and turned down toward home. Iona followed Fen and Tav's tracks with both coils across her shoulders. She had to stop twice to ease the strain on her back. Each time, she counted how much sun had left the rock.
+The south face of the Crown was not a place for a straight line. The path doubled back under pale rock, crossed a slope of loose stones, then narrowed where the mountain dropped away. The rescuer who had spoken of his son carried Iona's coil up the safer lower trail. At the loose stones he gave it back and turned down toward home. Iona followed Fen and Tav's tracks with the coil across her shoulders. She had to stop twice to ease the strain on her back. Each time, she counted how much sun had left the rock.
 
 Fen and Tav were waiting at the break. Bela stood on a shelf across a gap of perhaps eight paces, wearing a borrowed coat and boots. Fen had sent them over on the throwing cord. A fold of the mountainside had torn loose between Bela and the path. Below it was a long fall, though Iona tried not to look long enough to judge how long.
 
@@ -170,7 +170,7 @@ On the shelf, Iona checked the coat around Bela's shoulders and drew its hood ov
 
 Bela pressed the heel of one borrowed boot against the rock. "You weren't the one waiting."
 
-Iona had been snatched onto cold stone before. She had never sat on it from breakfast until afternoon with no certainty anyone was coming. She did not ask Bela to forgive the hour.
+Iona had been snatched onto cold stone before. She had never spent a whole day on it, watching rescuers across a gap and waiting for a way home. She did not ask Bela to forgive the hour.
 
 They fitted Bela into the second loop. Bela checked where it pressed against her ribs and asked Iona to shift it higher. She took the canvas she had used for warmth and wrapped it around a sharp spur of rock where the line might rub.
 
