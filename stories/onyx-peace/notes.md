@@ -1,0 +1,7 @@
+# Editorial memory
+
+2026-09-28 — The original prompt is preserved verbatim in `prompt.md`; its intended typo reading is that Onyx is tired of war and wants to retire. Image #1 is visual reference, not shared-universe authority. The story uses the broadly accessible, non-graphic content ceiling.
+
+The first Codex outline reader wanted to follow “the impossible swimming lesson: a woman who can march across a seabed must ask an ordinary boatmaker to help her float.” Their chief concern was that, since Onyx can walk to the wreck, “most readers will expect her to retrieve the names/remains and then resume the lesson”; the wreck needs a cost tied to her former command, culpability, or incompatible wishes. They wanted the boatmaker’s mistrust to cause a choice, and the final return to the water to follow from a changed relationship or price.
+
+Claude’s independent outline read identified the strongest spine as “The same fact about her body answers both wishes. She sinks.” Claude asked “Why this shore?” and what responsibility Onyx has for the wreck; the outline leaves both causal questions open. Claude also noticed that “the inheritance” of a people who would not kneel has not yet shaped Onyx’s response to yielding, help, or peace. The boatmaker remains a placeholder until her need and action are specific. Claude proposed that help at the end could persist across disagreement rather than signify absolution.

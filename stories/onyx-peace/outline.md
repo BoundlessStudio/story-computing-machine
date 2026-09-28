@@ -1,0 +1,7 @@
+# Provisional direction
+
+After a century at war, Onyx takes a room by the sea because she wants to learn to swim. Her living stone body sinks, and asking a boatmaker to help her float is more frightening than another battle: she has never had to entrust her weight to someone she could not command. She arrives still wearing the ornate armor everyone recognizes; the gold seams in her dark skin record wounds that other people keep turning into stories about courage or treasure. The water offers a pleasure with no strategic use.
+
+The boatmaker has reason to mistrust her. A wreck from Onyx's last campaign lies offshore, with the names or remains of missing people still inside. When their families learn she can walk the seabed, a request reaches her that is humane and costly to refuse. Onyx must decide what she owes the living and the dead, and what another use of her body would do to the peaceful life she is trying to begin. The boatmaker should have a need and an opinion of her own, rather than exist to absolve Onyx.
+
+Possible ending: Onyx makes a bounded choice about the wreck that does not turn into a final heroic battle or public vindication. The loss and the disagreement are allowed to remain. She returns to the shore for her first clumsy attempt to float, accepting help that she asked for, with the next day of her life belonging to her. The prose may find a better action or ending than this sketch.
