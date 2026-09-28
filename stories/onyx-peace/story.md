@@ -32,7 +32,7 @@ Onyx looked down at the water already beading and slipping from her skin. “Tha
 
 Neri’s mouth twitched. She kept walking.
 
-For one hundred years Onyx had gone where a map sent her. She had chosen this coast herself. Her people had lived along it before the armies came; the houses were gone, but she remembered the salt grass that grew in the cracks above the beach. As a girl she had run down this shore with bare feet and a body light enough to be lifted by a wave. Now, when she had nowhere else she had been ordered to be, she wanted the sea to lift her once more. She had watched three boys laughing beyond the breakers that morning, and wanted something of their present joy, not only the return of an old sensation.
+For one hundred years Onyx had gone where a map sent her. She had chosen this coast herself. Her people had lived along it before the armies came; the houses were gone, but she remembered the salt grass that grew in the cracks above the beach. Beyond the headland lay the ship she had ordered sunk in the last battle. She knew it was there when she rented her room. The bay had been her home before it was a battlefield, and she wanted to live beside it without looking away. As a girl she had run down this shore with bare feet and a body light enough to be lifted by a wave. Now, when she had nowhere else she had been ordered to be, she wanted the sea to lift her once more. She had watched three boys laughing beyond the breakers that morning, and wanted something of their present joy, not only the return of an old sensation.
 
 She carried her armor to the room she had rented and went to Neri’s shop in plain clothes. Its door stood open to a crowded bench and two long, narrow hulls in their frames. Neri was shaving a sliver from a rib. She glanced up at Onyx’s loose shirt, then at the boots whose heels had left small dents in her floorboards.
 
@@ -42,7 +42,7 @@ She carried her armor to the room she had rented and went to Neri’s shop in pl
 
 “That isn’t a number.”
 
-Onyx gave her one. Neri wrote it on a plank in chalk and stared at it for a moment. Then she drew two slim, sealed floats, a broad strap for each of Onyx’s arms, and a crosspiece that would keep them from turning under her.
+Onyx gave her one. Neri wrote it on a plank in chalk and stared at it for a moment. Then she drew two sealed floats, each half the length of her skiff, a broad strap for each of Onyx’s arms, and a crosspiece that would keep them from turning under her.
 
 “You’ll have to move your own legs,” Neri said. “I can put wood under you. I can’t make it a skill.”
 
@@ -64,7 +64,7 @@ By dusk the floats were sealed but not yet fitted. Neri had to let the pitch coo
 
 “I was born here.”
 
-Neri looked toward the headland. Beyond it, at a depth too great for ordinary swimmers, lay the prison ship sunk in the last battle of the war. Onyx had not told Neri why she knew the depth.
+Neri looked toward the headland. Beyond it, at a depth too great for ordinary swimmers, lay the prison ship sunk in the last battle of the war.
 
 “Then you know what’s out there,” Neri said.
 
@@ -74,9 +74,9 @@ Neri looked toward the headland. Beyond it, at a depth too great for ordinary sw
 
 Onyx rested the sandpaper on the bench. “I’m sorry.”
 
-"I saw them take Sal aboard under guard. The record says it was carrying powder. No passengers. Her name is on a list of the missing, and the same office says there was nobody to miss." Neri drew a finger across a line in the wood, not looking up. "I thought you might be able to go down. There was a locked chest in the captain’s cabin. Sailors kept their lists there."
+“I saw them take Sal aboard under guard. The record says it was carrying powder. No passengers. Her name is on a list of the missing, and the same office says there was nobody to miss.” Neri drew a finger across a line in the wood, not looking up. “I thought you might be able to go down. There was a locked chest in the captain’s cabin. Sailors kept their lists there.”
 
-Onyx thought of the gull distorted by water. Her stone lungs held a breath longer than human lungs could. She had been under the surface in battle, walking where others could not, dragging chains between ships. She could reach the wreck. She could also tear it open in the dark and bring up a chest that had rotted to nothing. She did not know whether Sal’s name had ever been written in it.
+Onyx thought of the gull distorted by water. Her stone lungs held a breath longer than human lungs could. She had been under the surface in battle, walking where others could not, dragging chains between ships. She could reach the wreck. She had reached it once, the day after the battle, sent to count the powder barrels that had survived. The captain’s cabin was pinned beneath a collapsed deck. She had left it closed. To enter now she would have to break through the part of the ship where the prisoners had been held. She did not know whether Sal’s name had ever been written in the chest.
 
 Neri set the plane down. “You were there. At the harbor.”
 
@@ -92,9 +92,9 @@ Neri’s hand stayed on the plane. “How many?”
 
 “I don’t know.”
 
-“Was Sal one of them?”
+“Was Sal one of them? She had a red scarf.”
 
-“I couldn’t see faces.”
+“I couldn’t see faces or clothes.”
 
 “But you saw people.”
 
@@ -114,43 +114,45 @@ The pitch on the floats made small cracking sounds as it cooled. Neri walked to 
 
 “Will you?”
 
-Onyx looked at the two floats drying in the light. They would take her onto the water and keep her there. The wreck would require none of them. She could walk off the beach that night, follow the floor until the world grew dark, and perhaps find the thing Neri needed. She had done harder work because strangers asked it of her. She had also made decisions in the dark for other people and called them necessary.
+Onyx looked at the two floats drying in the light. They would take her onto the water and keep her there. The wreck would require none of them. She could walk off the beach that night, follow the floor until the world grew dark, and break into the ship she had burned. She did not want to see the hold again. She did want Neri to have an answer. Both desires shamed her.
 
-“I won’t go down tonight,” she said. “I won’t decide for everyone who lost someone there that the ship should be opened. And I cannot promise there’s a list.”
+“The cabin is under a fallen deck,” she said. “I saw it when I went down for the powder. I would have to break through the prisoners’ quarters.”
 
-“I didn’t ask for a promise. I asked if you would go.”
+“I know. Sal’s daughter wants it opened. Two of the other families who saw their people taken aboard have asked me to leave them where they are.” Neri pressed a thumb against the bench. “I came to you first. I wanted to know you could do it before I asked them again.”
 
-“I’m not willing to.” Onyx made herself leave the answer there. “I can tell you what I saw. I can put my name to it.”
+“I can reach it. I won’t open it on a request made only to me.”
+
+“If you leave it closed, you decide something for Sal too.”
+
+Onyx had no answer that made Neri wrong. “I can tell you what I saw. I can put my name to it. Take that to the families. If they ask me together, I’ll listen. I can’t promise I’ll go.”
 
 “That won’t tell me if Sal was aboard.”
 
 “No.”
 
-Neri went to the bench and turned Onyx’s unfinished crosspiece over so that the rough side faced up. “You can write it here tomorrow. The families will want to read it. Then they can decide what to do about the wreck.”
+Neri looked at the gold seam on Onyx’s shoulder, then at the unfinished crosspiece. “You can write it here tomorrow. I need you to leave now.”
 
 Onyx rose. “And the floats?”
 
-“They’ll be ready.” Neri picked up the sandpaper. “I said I’d make them.”
+“They’ll be ready.” Neri left the sandpaper where it lay. “I said I’d make them.”
 
-Onyx walked back to her room without putting on the armor. Its gold scales lay on the bed where she had left them, a second body that had always seemed easier for other people to look at. She sat at the little table and wrote what she had seen from the quay, where the captives stood, when she gave the order, and what the gunners had done. She wrote that she had not known their names. Twice she began a sentence about the enemy advance and crossed it out. That belonged in a fuller account, but it did not alter what she had known when she gave the signal. She wrote the sentence again without using it as an answer.
+Onyx walked back to her room without putting on the armor. Its gold scales lay on the bed where she had left them, a second body that had always seemed easier for other people to look at. She sat at the little table and wrote what she had seen from the quay, where the captives stood, when she gave the order, and what the gunners had done. She wrote that she had not known their names. Twice she began a sentence about the enemy advance and crossed it out. That belonged in a fuller account, but it did not alter what she had known when she gave the signal. She wrote the sentence again without using it as an answer. Then she signed it.
 
 In the morning, Neri read the pages standing at her bench. She stopped at the line about the figures at the rail and read it a second time. Onyx waited while Neri finished, folded the pages, and put them beneath a weight so the breeze could not take them.
 
-“I’ll show this to the families,” Neri said. “Some of them have said the ship should stay as it is. Some want everything brought up. Sal’s daughter wants a name on a stone, if nothing else.”
+“You’ve written that you knew before you gave the order,” Neri said. “The last account said nobody did.”
 
-Onyx had not known there was a daughter. She almost said so, then understood that Neri had not been withholding a useful fact. She had been deciding how much of her life to give a stranger.
+“That account was mine too. I let it stand.”
 
-“If they decide to search it,” Onyx said, “they should know what I can reach. I’ll tell them the truth about that too.”
+Neri looked at the signature. “I’ll take this to Sal’s daughter first. I won’t tell her it answers where Sal is.” She trimmed a loose end of binding from the frame. “She may come here and ask you herself. I won’t keep your room a secret.”
 
-“You told me already.” Neri took a small knife to the last strip of binding on the floats. “I don’t know what they’ll ask of you.”
-
-“Neither do I.”
+“You shouldn’t.”
 
 Neri handed her the finished frame. It was broad and awkward, smelling of pitch and fresh wood. She had padded the straps where they would touch the gold on Onyx’s arms.
 
 “Why did you finish it?” Onyx asked.
 
-“It was nearly finished. And you wanted to swim.” Neri met her eyes. “Both things are true.”
+“You paid me to make it, and I said I would.” Neri met her eyes. “I’ll make sure it works. Then I have somewhere else to be.”
 
 They carried the frame to the cove. Neri checked each fastening herself and sent Onyx into water shallow enough to stand in. From the beach she gave practical instructions: loosen one strap, lean back before kicking, keep her mouth above the chop. Her voice held no softness Onyx could mistake for pardon. It held attention.
 
@@ -158,6 +160,6 @@ Onyx took a breath and leaned backward. The floats rolled against her arms. Her 
 
 Neri stayed where the wet sand began. The signed account lay in a dry bag at her feet, ready for the walk to the families. Onyx could see the bag whenever a wave lowered her. She could also see the high blue part of the sky, which she had never watched from this angle as stone.
 
-“Your left float’s riding low,” Neri called. “Come in before it takes on water.”
+“Your left float’s riding low,” Neri called. “Come in. I need to move that strap.”
 
-Onyx turned toward shore. She had crossed this bay under fire and believed, at the time, that reaching the other side was the whole of survival. It took several ungainly strokes to travel the few yards back. She wanted to try again tomorrow.
+Onyx turned toward shore. It took several ungainly strokes to travel the few yards back. She wanted to try again tomorrow.
