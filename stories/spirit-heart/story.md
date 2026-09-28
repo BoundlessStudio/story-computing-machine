@@ -128,7 +128,7 @@ The screen went dark. The boy from the stage door sat in the second row, his sch
 
 "I kept saying she made me," Vera said. The camera was close enough for her to see its red light. "That wasn't mine to say. I promised the rest of that tape. I shouldn't have."
 
-The host looked down at his cards. In her ear, someone counted the seconds until the song. Vera could have filled them with the old story or with the recording she had wanted to share. Instead the camera held on her while she had nothing more to give it. The music began without a recorded count-in; she entered on her own first note. Several mouths in the front row made the shape of Iona's four words before she began.
+The host looked down at his cards. In her ear, someone counted the seconds until the song. Vera could have filled them with the old story or with the recording she had wanted to share. Instead the camera held on her while she had nothing more to give it. The music began without a recorded count-in. Several mouths in the front row made the shape of Iona's four words. Vera entered on her own first note.
 
 Afterward, people waited outside under her heart. There were fans with their phones held high, and strangers who had simply stopped to watch the colours travel across the clouds. Vera stood a moment inside the doorway before the guard cleared a path. She could pick out where Iona's yellow lay, far up in the crowded light. She did not know whether Iona had stayed to hear the song, or had ridden home through it. Her phone was in her hand. She typed, *Did you get home dry?* and sent it. No answer came while she waited.
 
