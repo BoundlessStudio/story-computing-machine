@@ -170,7 +170,7 @@ On the shelf, Iona checked the coat around Bela's shoulders and drew its hood ov
 
 Bela pressed the heel of one borrowed boot against the rock. "You weren't the one waiting."
 
-Iona had been snatched onto cold stone before. She had never spent a whole day on it, watching rescuers across a gap and waiting for a way home. She did not ask Bela to forgive the hour.
+Iona had been snatched onto cold stone before. Bela had spent the lonely hours since breakfast on it; then she had watched rescuers across a gap, still unable to bring her home. Iona did not ask her to forgive the hour.
 
 They fitted Bela into the second loop. Bela checked where it pressed against her ribs and asked Iona to shift it higher. She took the canvas she had used for warmth and wrapped it around a sharp spur of rock where the line might rub.
 
@@ -182,7 +182,7 @@ For an instant Iona saw the whole simple, cruel answer: Tav's clasp could have d
 
 Tav's palms were red where the rope had run through them. He closed them before Iona could inspect them. She was too tired to insist.
 
-They descended by lantern light, Bela between Iona and Fen on the narrow turns. The walk took hours. Iona passed one coil to Fen when her shoulders began to shake.
+They left the lines stretched across the break. They descended by lantern light, Bela between Iona and Fen on the narrow turns. The walk took hours. Twice Bela stopped to rest her numb feet; Tav held the lantern low so she could see the next foothold.
 
 At the guildhouse, Orren was waiting on the bench where they had left him. Bela stopped just inside the door. He tried to rise; she crossed the room and sat beside him instead. She took his hand, held it a moment, and then asked why he'd let the others carry him away.
 
@@ -224,8 +224,6 @@ Iona folded the coat he had lent her yesterday. It still smelled of mountain gra
 
 "So am I."
 
-They carried the coils of rope outside together, past the new notice.
-
-At the corner where their streets divided, Tav offered her coil back. Iona left it on his shoulder.
+They went outside together, past the new notice. At the corner where their streets divided, Tav stopped.
 
 "Walk me home," she said.
