@@ -2,5 +2,5 @@
 
 Audience: General by default.
 Intensity: Accessible fantasy with non-graphic peril if needed.
-Content note: To be finalized after the story.
+Content note: Peril at heights, involuntary magical summoning, non-graphic cold injury and minor rope burns.
 Reference images: None supplied.
