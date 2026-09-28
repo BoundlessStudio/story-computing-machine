@@ -118,6 +118,8 @@ Iria pushed the cloak off herself. Orsen caught at it too late. He did not cover
 
 The Emperor's hand tightened on the arm of his chair. “Keld. A weaver's family.”
 
+He sent a household clerk through the side door for the north street register.
+
 Orsen felt Iria beside him, held still by the Emperor's recognition. The name had bought her a record if the recorder would write it. It had also given the Emperor a way to reach her sister.
 
 “Write what she said,” Orsen told the recorder.
@@ -162,7 +164,7 @@ The Emperor held out a hand for it. Pel kept the cloak folded over his arm.
 
 Calen took one step toward Iria. Orsen saw the others turn to her; with him dismissed, she was the senior guard. The recorder bent over the page, blotting one line, waiting to learn whether he would have to blot the rest.
 
-Iria took the notice from her sleeve and placed it beside the roll. The Emperor looked at Orsen's mark, then at her.
+Iria took the notice from her sleeve and placed it beside the roll. The clerk returned with a narrow register and opened it to the Keld household. The Emperor looked at a line entered in newer ink, then at her.
 
 “Your sister works at the west bakehouse,” he said. “Did she help you?”
 
