@@ -62,7 +62,7 @@ He pulled the cloak back enough for her to breathe. She was older than he'd thou
 
 “Iria Keld,” she said. “My brother was Tovin Keld.”
 
-Orsen knew the name. Not from the execution roll, which had held thirty-two names, but from a girl outside a weaving shed clutching a length of blue cloth. She had said her brother could not have known the attacker. He had been at his loom all morning. A younger sister had pressed a warm loaf into his hands before the guards tied them. Orsen had let him keep it, as if that were mercy. He had said the order was for a street, not for accomplices. Then he had told his men to take the young man.
+Orsen knew the name. Not from the execution roll, which had held thirty-two names, but from a young woman outside a weaving shed clutching a length of blue cloth. She had said her brother could not have known the attacker. He had been at his loom all morning. A younger sister had pressed a warm loaf into his hands before the guards tied them. Orsen had let him keep it, as if that were mercy. He had said the order was for a street, not for accomplices. Then he had told his men to take the young man.
 
 Iria reached into her sleeve. Pel's sword came up. She held out a folded square of paper, stained at one edge with old rain. Orsen recognized the heading before she opened it. The notices had been posted on every door of that street: *all persons of the north weaving street to be seized for examination*. His mark was at the bottom of each one.
 
@@ -154,7 +154,7 @@ Orsen had once stood close enough to the Emperor to fasten his armor before a ca
 
 The Emperor looked at the guards. “Take his badge.”
 
-Pel moved first. Orsen thought, for one bare instant, that the boy meant to arrest him. Pel stopped at his shoulder and reached for the silver clasp at his throat. His hands were careful with the blood on Orsen's palm. The cloak fell away. A captain's badge was sewn into its collar; the two came off together.
+Pel moved first. Orsen thought, for one bare instant, that the boy meant to arrest him. Pel stopped at his shoulder and unfastened the silver clasp at his throat, lifting the cloak clear of Orsen's bound hand. A captain's badge was sewn into its collar; the two came off together.
 
 The Emperor held out a hand for it. Pel kept the cloak folded over his arm.
 
@@ -180,7 +180,7 @@ Orsen looked at Calen. “Do you remember the order?”
 
 “Yes.” She lowered her sword. She did not look relieved. “The Guard has custody until sunset. Pel, take the roll. We're bringing her to the magistrate.”
 
-The Emperor stepped down from the dais. There was no sorcery in his hands, only the power to make other hands close around throats. He had never needed another kind. Orsen stood without cloak or badge between him and Iria, his injured hand hanging uselessly at his side.
+The Emperor stepped down from the dais. Orsen stood without cloak or badge between him and Iria, his injured hand hanging uselessly at his side.
 
 Pel went to the table. The recorder took his hand off the page, ready for it to be torn. Pel lifted the whole bound roll instead. His voice cracked as he told the recorder, “Come with us. You'll have to attest to it.”
 
@@ -208,13 +208,13 @@ He showed her the seal. Orsen remembered taking a posted notice to a weaving she
 
 “If you pass,” the officer said, “I have to stop you.”
 
-Calen set Iria's hand in Orsen's sound one. “I know.” Orsen opened his hand. Iria looked through the bars after the rider, then stayed beside him.
+Calen set Iria's hand in Orsen's sound one. “I know.” Iria looked through the bars after the rider.
 
-Calen stepped up to the bar. The officer drew his sword. The two guards behind her stepped to either side, their swords raised. Pel gave both the roll and the gate order to the recorder, then helped Calen lift. Wood scraped stone. Calen set the bar against the wall and pulled one iron leaf open. The officer looked from her to the two guards facing him. He lowered his sword and stood aside.
+Calen stepped up to the bar. The officer drew his sword. The two guards behind her stepped to either side, their swords raised. Pel gave both the roll and the gate order to the recorder, then helped Calen lift. Wood scraped stone. Calen set the bar against the wall and pulled one iron leaf open. The officer looked from her to the two guards facing him. He lowered his sword and stood aside. Pel took back the roll; the recorder kept the gate order with Iria's notice.
 
-Orsen passed beside Iria, keeping himself between her and the officer's sword. Beyond the gate, the road to the bakehouse ran left; the open court lay across the square to their right. The rider had vanished to the left. Iria stood between the roads, then turned right. None of them had a horse.
+Orsen passed beside Iria, keeping himself between her and the officer's sword. Beyond the gate, the road to the bakehouse ran left; the open court lay across the square to their right. The rider had vanished to the left. Orsen opened his hand. Iria stood between the roads, then turned right. None of them had a horse.
 
-They reached the magistrate's table in the open court just before noon. The table stood at the edge of the square, in sight of the west gate. The magistrate did not ask Orsen for his badge. Calen gave her the gate order, with its blue cord still attached, and the recorder put Iria's notice beside it. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Orsen signed with his uninjured hand, and Calen signed below him. Then the magistrate asked Iria whether she still claimed the words written there.
+They reached the magistrate's table in the open court just before noon. The table stood at the edge of the square, in sight of the west gate. The magistrate did not ask Orsen for his badge. The recorder gave her the gate order, with its blue cord still attached, and placed Iria's notice beside it. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Orsen signed with his uninjured hand, and Calen signed below him. Then the magistrate asked Iria whether she still claimed the words written there.
 
 “I tried to kill him,” Iria said. “I claim the rest.”
 
