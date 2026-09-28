@@ -32,7 +32,7 @@ The Emperor wiped his fingers on a petition and let it fall. “Take her to the 
 
 The woman went still under the cloak.
 
-The Guard's charter gave them custody of a captured attacker until sunset. They had to bring that person, alive, with a written charge to the city magistrate. Three years earlier, another attacker had made that journey safely. His cousins had not. Neither had the men who rented rooms beside his, nor the boy who delivered their bread. Orsen had signed the list because the charter protected the attacker, and the Emperor's command named everyone else. He had told himself the distinction mattered. He had carried the list from door to door while the man waited in the magistrate's cell.
+The Guard's charter gave them custody of a captured attacker until sunset. They had to bring that person, alive, with a written charge to the city magistrate. Three years earlier, another attacker had made that journey safely. His cousins had not. Neither had the men who rented rooms beside his, nor the boy who delivered their bread. Orsen had signed the list because the charter protected the attacker, and the Emperor's command named everyone else. He had told himself the distinction mattered. Calen had asked why the others got no day. He had told her to read the charter. He had carried the list from door to door while the man waited in the magistrate's cell.
 
 “The prisoner first,” Orsen said. He heard his own voice flatten into the tone he used on parade. “Pel, with me.”
 
@@ -40,9 +40,7 @@ Pel was the newest guard in the chamber. He lowered his sword, then glanced at t
 
 “Go,” the Emperor said. “We have all day.”
 
-Orsen kept the woman ahead of him through the side door. Pel followed. In the passage, the shouts from the chamber gave way to the small sounds of their equipment: leather shifting, Orsen's blood falling from his hand onto the tiles. The inner cell was twelve paces away. A lock and two guards would keep her alive until it was time to take her to the magistrate. He had already begun counting those paces when she spoke from under the cloak.
-
-Pel caught Orsen's hand and bound it with a strip torn from his own collar. Orsen let him finish before he answered her.
+Orsen kept the woman ahead of him through the side door. Pel followed. In the passage, the shouts from the chamber gave way to the small sounds of their equipment: leather shifting, Orsen's blood falling from his hand onto the tiles. The inner cell was twelve paces away. A lock and two guards would keep her alive until it was time to take her to the magistrate. Orsen had already begun counting those paces. Pel caught his hand and bound it with a strip torn from his own collar. Then the woman spoke from under the cloak.
 
 “Don't put me in there.”
 
@@ -98,7 +96,7 @@ Pel looked between them. Orsen could have taken the paper. He could have shut th
 
 They returned to the audience chamber by the side door. The Emperor had changed his collar. He sat again, though the petitions were still scattered and nobody had resumed the audience. A court recorder sat at the narrow table beneath the windows, trying to write around a patch of blood on the day's roll.
 
-The guard ring opened for Orsen and closed behind him. He kept Iria beside him, cloak over her head. The Emperor saw the papers in her hand.
+The guard ring opened for Orsen and closed behind him. He kept Iria beside him, cloak over her head. The Emperor saw the paper in her hand.
 
 “You have the names?”
 
@@ -164,7 +162,7 @@ The Emperor held out a hand for it. Pel kept the cloak folded over his arm.
 
 Calen took one step toward Iria. Orsen saw the others turn to her; with him dismissed, she was the senior guard. The recorder bent over the page, blotting one line, waiting to learn whether he would have to blot the rest.
 
-Iria took the notice from her sleeve and placed it beside the roll. The clerk returned with a narrow register and opened it to the Keld household. The Emperor looked at a line entered in newer ink, then at her.
+Iria placed the notice she held beside the roll. The clerk returned with a narrow register and opened it to the Keld household. The Emperor looked at a line entered in newer ink, then at her.
 
 “Your sister works at the west bakehouse,” he said. “Did she help you?”
 
@@ -200,23 +198,23 @@ The Emperor called for a household runner. Orsen heard him order the west gate s
 
 Calen took Iria by the arm, firmly enough to keep custody and gently enough that Iria went with her. Orsen followed without cloak or badge. Pel held the roll against his chest, and the recorder came behind them with Iria's old notice. Two guards followed with swords out. At the passage door, Calen turned them toward the throne before they backed away.
 
-The west gate was already barred. A household officer stood in front of it with a strip of blue cord hanging from his fist. Beyond the gate, the rider with the red cord was mounting. A narrow wicket stood open for messengers. Iria saw him turn his horse toward the bakehouse and pulled against Calen's hand.
+The iron leaves of the west gate were barred. A household officer stood in front of them with a strip of blue cord hanging from his fist. Beyond the bars, the rider with the red cord mounted the horse he had led out before the gate closed. Iria saw him turn toward the bakehouse and pulled against Calen's hand.
 
 “The Emperor ordered it shut,” the officer told Calen.
 
 “The charter orders us to deliver her,” Calen said. “Move.”
 
-He showed her the seal. Orsen remembered taking a posted notice to a weaving shed, certain the seal made the words beneath it right. Calen took the paper and read the gate order anyway. She put it into Pel's free hand to take to the magistrate.
+He showed her the seal. Orsen remembered taking a posted notice to a weaving shed, certain the seal made the words beneath it right. Calen took the paper and read the gate order anyway. She handed it to Pel to take to the magistrate.
 
 “If you pass,” the officer said, “I have to stop you.”
 
-Calen set Iria's hand in Orsen's sound one. “I know.”
+Calen set Iria's hand in Orsen's sound one. “I know.” Orsen opened his hand. Iria looked through the bars after the rider, then stayed beside him.
 
-She stepped up to the bar. The officer drew his sword. Pel slid the roll into the recorder's arms and helped her lift. Wood scraped stone. The officer's sword stayed between them and the opening. Calen raised the bar clear, passed it to him, and pushed one gate leaf open. He looked from her to the two guards behind her. Then he lowered his sword and stood aside.
+Calen stepped up to the bar. The officer drew his sword. The two guards behind her stepped to either side, their swords raised. Pel gave both the roll and the gate order to the recorder, then helped Calen lift. Wood scraped stone. Calen set the bar against the wall and pulled one iron leaf open. The officer looked from her to the two guards facing him. He lowered his sword and stood aside.
 
-Iria went through first. She looked down the street where the rider had vanished, then back at the roll in the recorder's arms. Calen had to call her name before she went on. None of them had a horse.
+Orsen passed beside Iria, keeping himself between her and the officer's sword. Beyond the gate, the road to the bakehouse ran left; the open court lay across the square to their right. The rider had vanished to the left. Iria stood between the roads, then turned right. None of them had a horse.
 
-They reached the magistrate's table in the open court just before noon. The table stood at the edge of the square, in sight of the west gate. She did not ask Orsen for his badge. Calen gave her the gate order, with its blue cord still attached, and the recorder put Iria's notice beside it. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Orsen signed with his uninjured hand, and Calen signed below him. Then the magistrate asked Iria whether she still claimed the words written there.
+They reached the magistrate's table in the open court just before noon. The table stood at the edge of the square, in sight of the west gate. The magistrate did not ask Orsen for his badge. Calen gave her the gate order, with its blue cord still attached, and the recorder put Iria's notice beside it. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Orsen signed with his uninjured hand, and Calen signed below him. Then the magistrate asked Iria whether she still claimed the words written there.
 
 “I tried to kill him,” Iria said. “I claim the rest.”
 
