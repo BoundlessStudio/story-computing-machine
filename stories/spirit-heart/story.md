@@ -14,7 +14,7 @@ It was her first song's fifteenth anniversary. The television people had made th
 
 She was going to play the whole recording tonight and put it on an anniversary edition of the song next week. She had said so in the advertisements.
 
-At the stage door, a woman stopped her with one hand raised, palm out. She kept her distance. Beside her stood a boy of about ten, gripping the strap of a blue schoolbag.
+At the stage door, a woman stopped her with one hand raised, palm out. She kept her distance. She and the boy beside her wore blue audience passes; he gripped the strap of a schoolbag the same colour.
 
 "You can go," the guard said to Vera.
 
@@ -44,7 +44,7 @@ The tape lay in her bag, inside a cracked plastic case. On its paper label Iona 
 
 After the single came out, Vera learned to laugh away from microphones. She learned how to finish a verse even when she could no longer feel its words. On the tape, before either of them knew there was a right way to be heard, she could hear herself fail and try again. She had promised that voice to the audience. She had not mentioned to Iona that most of what she loved about it happened because Iona was there.
 
-Iona arrived wearing a raincoat damp at the shoulders. She had cut her hair much shorter than in the last photograph Vera had seen. There was no camera in the room, but Vera felt the old instinct to arrange her face.
+Iona arrived wearing a raincoat damp at the shoulders. She had cut her hair much shorter than in the last photograph Vera had seen. Her spirit heart floated beneath the low ceiling lamp, the silver thread crossing one wet shoulder. There was no camera in the room, but Vera felt the old instinct to arrange her face.
 
 "Hello," she said.
 
@@ -120,7 +120,15 @@ Vera snapped the case shut. She had expected Iona to ask for it, and had been re
 
 Vera laughed once. Iona's mouth moved, almost in answer, but the floor director called Vera's name before either of them said more.
 
-Iona went out by the side door. Vera did not follow her. From the stage, she watched an assistant wheel the little radio away, leaving a bare patch on the table where the tape player had stood. The host turned the missing recording into a sentence about the surprises of live television. Three minutes of old interview clips filled its place. Vera sat and watched herself tell familiar stories with a face that knew when to smile. Later she sang the first song, entering on her own first note. Several mouths in the front row made the shape of Iona's four words before she began.
+Iona went out by the side door. Vera did not follow her. From the stage, she watched an assistant wheel the little radio away, leaving a bare patch on the table where the tape player had stood. The host turned the missing recording into a sentence about the surprises of live television. Three minutes of old interview clips filled its place. Vera sat and watched herself tell familiar stories with a face that knew when to smile. In the last clip she said, "My sister Iona made me. Everything good started with her."
+
+The screen went dark. The boy from the stage door sat in the second row, his schoolbag tucked under his feet. He looked past Vera at the empty worktable. She had told him he would hear the girl on the tape.
+
+"You've always said such lovely things about your sister," the host said. He turned his chair toward Vera and waited for the next one.
+
+"I kept saying she made me," Vera said. The camera was close enough for her to see its red light. "She never asked for that job. And I promised the rest of that tape without asking her either."
+
+The host looked down at his cards. In her ear, someone counted the seconds until the song. Vera could have filled them with the old story or with the recording she had wanted to share. Instead the camera held on her while she had nothing more to give it. When the music began, she entered on her own first note. Several mouths in the front row made the shape of Iona's four words before she began.
 
 Afterward, people waited outside under her heart. There were fans with their phones held high, and strangers who had simply stopped to watch the colours travel across the clouds. Vera stood a moment inside the doorway before the guard cleared a path. She could pick out where Iona's yellow lay, far up in the crowded light. She did not know whether Iona had stayed to hear the song, or had ridden home through it. Her phone was in her hand. She typed, *Did you get home dry?* and sent it. No answer came while she waited.
 
