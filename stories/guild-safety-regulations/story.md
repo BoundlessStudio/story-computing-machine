@@ -44,7 +44,7 @@ He stayed long enough to light the lamp over her work.
 
 The next morning Iona was examining a new batch of clasps when a woman in a wet cloak came into the workroom. Fen was the guild's safety officer. She carried a board of incident reports and had the sort of brisk step that usually meant somebody had omitted a date.
 
-"I need your seal on six," she said.
+"I need your seal on four," she said. "Tav and I have clasps. The full team needs six."
 
 "For what?"
 
@@ -68,7 +68,7 @@ Fen turned a page. Under **Guild members recovered**, Orren's name was marked in
 
 "The clasp made her one."
 
-Fen did not argue. She turned back to the page as though looking for a place to enter an injury and finding none. That was more frightening than if she had.
+Fen did not argue. That was more frightening than if she had. She turned back to the page, looking for a place to enter Bela's injury, and found none.
 
 "I can suspend a device when the book records someone it has hurt," Fen said. "The entry they sent me says the clasp worked."
 
@@ -80,23 +80,27 @@ Orren tried to stand. The splint slipped on the floor. "I told them she was ther
 
 "You did," Fen said. "The retrieval request went in before dawn. It waited behind two member casualties for approval. I took it out of the queue myself."
 
-Iona looked at the six clasps on her bench. She had made every one. Her seal meant that each knot had the required three turns and could bear the guild's test weight. The guild's trials counted a clasp successful when its wearer lived. Nobody's form asked what happened to the person it brought. She had written three reports about being summoned herself. The first had come back marked *no member injury*. She had filed the other two in her own drawer and kept sealing clasps.
+Iona looked at the four clasps on her bench. She had made every one. Her seal meant that each knot had the required three turns and could bear the guild's test weight. The guild's trials counted a clasp successful when its wearer lived. Nobody's form asked what happened to the person it brought. She had written three reports about being summoned herself. The first had come back marked *no member injury*. She had filed the other two in her own drawer and kept sealing clasps.
 
 Tav wore one. That had been reason enough, until now, to do work she no longer trusted.
 
 "I can't seal these for your party," she said.
 
-Fen glanced at Orren. "The full team can leave in ten minutes if they have them."
+Fen glanced at Orren. "The full six can leave in ten minutes if they have them."
 
-"With their own clasps. Another fall, another person fetched up there. And none of this brings Bela across the break."
+"With four more clasps. Another fall, another person fetched up there. And none of this brings Bela across the break."
 
-Fen set the six aside. "Tav and I have our own. We'll go ahead with coats, water, a climbing line, and a throwing cord. We can reach her, find the anchors, and tell her someone's coming. What will you bring to get her across?"
+Tav came in from the yard, where the other rescuers were waiting. Fen set the four clasps aside. "I'll stand the others down. Tav and I can go ahead with coats, water, a climbing line, and a throwing cord. We can reach Bela, find the anchors, and tell her someone's coming. What will you bring to get her across?"
+
+"A second line," Iona said. "Go."
+
+Fen unclipped her clasp and laid it on Iona's bench. Tav's remained at his throat. Iona watched it as he left. Her refusal had not made that one safe.
 
 Iona went to the rope rack. Fen's climbing line could span eight paces of air. It could not serve as its own backup. Iona needed a second length that could reach separate anchors, catch a fall, and haul a chilled person whose grip might fail. She checked it for frayed places, tied the load-bearing loops, and tested each with the weight Fen used for her clasps. It took nearly an hour. Orren watched her lay out a pair of boots close to her own size and told her Bela's feet were smaller. Iona found another pair and sent them after Fen and Tav with a runner.
 
 All the while she could feel the hour going by on the mountain. Fen and Tav would reach Bela sooner than she could. A crossing on one line might lift her off that shelf before Iona arrived; a second line made it much less likely that a slipping anchor would take her down the mountain. Iona was choosing the slower rescue without having asked the person who was waiting. She checked every loop again anyway, with hands that wanted to hurry.
 
-At the door, the six unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. If Fen's incident record did not bring a suspension, Iona might lose the contract for signing that reason. If it did, she would certainly lose it for a while.
+At the door, the four unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. Her hand hovered over the space for her name. She signed it.
 
 The south face of the Crown was not a place for a straight line. The path doubled back under pale rock, crossed a slope of loose stones, then narrowed where the mountain dropped away. Iona followed Fen and Tav's tracks with both coils across her shoulders. She had to stop twice to ease the strain on her back. Each time, she counted how much sun had left the rock.
 
@@ -136,8 +140,6 @@ Iona wanted, absurdly, to make him put it back. He noticed. His mouth twisted, n
 
 He put the clasp in his pocket and wound the line once around the sound rock Fen had chosen. His hands shook. Iona had watched him step into caves full of things that hissed and scrape at locked doors with the heel of a dagger. She had not often seen him afraid of his own weight.
 
-Fen unclipped her clasp as well and set it beside Tav's.
-
 "If I fall," he said, "hold the rope."
 
 "Yes."
@@ -152,7 +154,7 @@ On the shelf, Iona checked the coat around Bela's shoulders and drew its hood ov
 
 "What took so long?" Bela asked.
 
-It was a fair question. Iona told her about the approval queue, and about the rope.
+"The request waited in a queue. Fen and Tav came as soon as she took it out. I needed an hour for the second line."
 
 "An hour for rope?"
 
@@ -186,7 +188,9 @@ Bela looked down at the page. "Will this bring me home any faster next time?"
 
 "It won't," Fen said. "But your account puts the harm in the incident book. I can halt the clasps today. The council will have to decide what replaces them."
 
-Bela touched the maker's seal on one of the clasps Fen had brought. "Yours?"
+Bela wrote slowly. Iona did not try to read over her shoulder. When Bela returned the pen, Fen turned the book toward Iona. She put her maker's mark beside the clasp entry.
+
+Bela looked at it. "Yours?"
 
 "Yes," Iona said.
 
@@ -196,11 +200,9 @@ Iona thought of the reports in her drawer. "I knew it had left me behind. I kept
 
 "Put that in the book, too."
 
-Bela wrote slowly. Iona did not try to read over her shoulder.
+Iona took the pen again and recorded the two reports in her drawer and the clasps she had sealed since writing them.
 
-When Bela finished, Iona took the pen and recorded the two reports in her drawer and the clasps she had sealed since writing them.
-
-Fen posted the suspension before midnight. No homeward clasp could be issued until the guild could name a willing helper in advance and show how that person would get back. The present clasps could do neither. A knotwright from the next city might offer a new design. For now, the six unsealed clasps lay on Iona's bench, and the winter orders that would have paid her rent were stopped with them.
+Fen posted the suspension before midnight. No homeward clasp could be issued until the guild could name a willing helper in advance and show how that person would get back. The present clasps could do neither. A knotwright from the next city might offer a new design. For now, the four unsealed clasps lay on Iona's bench, and the winter orders that would have paid her rent were stopped with them.
 
 Tav came to help her close the workroom. He set his clasp on the table. Neither of them reached for it.
 
