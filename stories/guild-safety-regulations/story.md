@@ -200,7 +200,7 @@ Iona thought of the reports in her drawer. "I knew it had left me behind. I kept
 
 "Put that in the book, too."
 
-Iona took the pen again and recorded the two reports in her drawer and the clasps she had sealed since writing them.
+Iona took the pen and recorded the two reports in her drawer and the clasps she had sealed since writing them.
 
 Fen posted the suspension before midnight. No homeward clasp could be issued until the guild could name a willing helper in advance and show how that person would get back. The present clasps could do neither. A knotwright from the next city might offer a new design. For now, the four unsealed clasps lay on Iona's bench, and the winter orders that would have paid her rent were stopped with them.
 
