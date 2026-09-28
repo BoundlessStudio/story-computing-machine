@@ -40,7 +40,7 @@ Pel was the newest guard in the chamber. He lowered his sword, then glanced at t
 
 “Go,” the Emperor said. “We have all day.”
 
-Orsen kept the woman ahead of him through the side door. Pel followed. In the passage, the shouts from the chamber gave way to the small sounds of their equipment: leather shifting, Orsen's blood falling from his hand onto the tiles. The inner cell was twelve paces away. A lock and two guards would keep her alive until the closed day ended. He had already begun counting those paces when she spoke from under the cloak.
+Orsen kept the woman ahead of him through the side door. Pel followed. In the passage, the shouts from the chamber gave way to the small sounds of their equipment: leather shifting, Orsen's blood falling from his hand onto the tiles. The inner cell was twelve paces away. A lock and two guards would keep her alive until it was time to take her to the magistrate. He had already begun counting those paces when she spoke from under the cloak.
 
 Pel caught Orsen's hand and bound it with a strip torn from his own collar. Orsen let him finish before he answered her.
 
