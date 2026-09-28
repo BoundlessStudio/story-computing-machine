@@ -20,7 +20,7 @@ Iona dropped flat and caught his wrist. Her other hand found a root wedged into 
 
 "I was indoors."
 
-He laid the coat over her anyway. His homeward clasp, a copper ring set with three small knots, hung dull against his chest. When an adventurer's fall was about to kill them, the knots drew within reach the person who most wanted that adventurer home. It had done exactly what the guild promised. Tav had survived.
+He laid the coat over her anyway. His homeward clasp, a copper ring set with three small knots, hung dull against his chest. When fastened, it drew within reach the person who most wanted its wearer home if a fall was about to kill them. It had done exactly what the guild promised. Tav had survived.
 
 The guild's promise ended there. Iona and Tav still had half a mountain to climb down, and she had come without her boots.
 
@@ -70,17 +70,17 @@ Fen turned a page. Under **Guild members recovered**, Orren's name was marked in
 
 Fen did not argue. That was more frightening than if she had. She turned back to the page, looking for a place to enter Bela's injury, and found none.
 
-"I can suspend a device when the book records someone it has hurt," Fen said. "The entry they sent me says the clasp worked."
+"I can suspend a device on a firsthand account of injury," Fen said. "Orren saw her stranded, but he doesn't know her condition. The intake clerk entered her as a witness, and the clasp as successful."
 
-"I wrote about mine."
+"I filed a report when it fetched me. An intake clerk sent it back marked no member injury."
 
-"It didn't reach me."
+"It never reached me."
 
 Orren tried to stand. The splint slipped on the floor. "I told them she was there."
 
 "You did," Fen said. "The retrieval request went in before dawn. It waited behind two member casualties for approval. I took it out of the queue myself."
 
-Iona looked at the four clasps on her bench. She had made every one. Her seal meant that each knot had the required three turns and could bear the guild's test weight. The guild's trials counted a clasp successful when its wearer lived. Nobody's form asked what happened to the person it brought. She had written three reports about being summoned herself. The first had come back marked *no member injury*. She had filed the other two in her own drawer and kept sealing clasps.
+Iona looked at the four clasps on her bench. She had made every one. Her seal meant that each knot had the required three turns and could bear the guild's test weight. The guild's trials counted a clasp successful when its wearer lived. Nobody's form asked what happened to the person it brought. Her own summons had frightened and stranded her, but none had required a healer. She had written three reports. Only the first had gone to intake; the other two stayed in her drawer while she kept sealing clasps.
 
 Tav wore one. That had been reason enough, until now, to do work she no longer trusted.
 
@@ -90,7 +90,11 @@ Fen glanced at Orren. "The full six can leave in ten minutes if they have them."
 
 "With four more clasps. Another fall, another person fetched up there. And none of this brings Bela across the break."
 
-Tav came in from the yard, where the other rescuers were waiting. Fen set the four clasps aside. "I'll stand the others down. Tav and I can go ahead with coats, water, a climbing line, and a throwing cord. We can reach Bela, find the anchors, and tell her someone's coming. What will you bring to get her across?"
+Tav came in from the yard with the four waiting rescuers. Fen set their clasps aside. "Iona won't seal these. Will any of you go without one?"
+
+One of them looked toward Orren. "My son is at home. If I fall up there, nobody comes."
+
+The others did not offer. Fen nodded to them without blame. "Then Tav and I will go ahead with coats, water, a lantern, a climbing line, and a throwing cord. We can reach Bela, find the anchors, and tell her someone's coming. What will you bring to get her across?"
 
 "A second line," Iona said. "Go."
 
@@ -100,9 +104,9 @@ Iona went to the rope rack. Fen's climbing line could span eight paces of air. I
 
 All the while she could feel the hour going by on the mountain. Fen and Tav would reach Bela sooner than she could. A crossing on one line might lift her off that shelf before Iona arrived; a second line made it much less likely that a slipping anchor would take her down the mountain. Iona was choosing the slower rescue without having asked the person who was waiting. She checked every loop again anyway, with hands that wanted to hurry.
 
-On her bench, the four unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. Her hand hovered over the space for her name. She signed it.
+On her bench, the four unsealed clasps remained in their tray. Iona wrote on the order slip that she had refused them because a person summoned by one could be left in danger. It was a warning from the maker, not an account of an injury. Her hand hovered over the space for her name. She signed it.
 
-The south face of the Crown was not a place for a straight line. The path doubled back under pale rock, crossed a slope of loose stones, then narrowed where the mountain dropped away. Iona followed Fen and Tav's tracks with both coils across her shoulders. She had to stop twice to ease the strain on her back. Each time, she counted how much sun had left the rock.
+The south face of the Crown was not a place for a straight line. The path doubled back under pale rock, crossed a slope of loose stones, then narrowed where the mountain dropped away. The rescuer who had spoken of his son carried one coil up the safer lower trail. At the loose stones he gave it back and turned down toward home. Iona followed Fen and Tav's tracks with both coils across her shoulders. She had to stop twice to ease the strain on her back. Each time, she counted how much sun had left the rock.
 
 Fen and Tav were waiting at the break. Bela stood on a shelf across a gap of perhaps eight paces, wearing a borrowed coat and boots. Fen had sent them over on the throwing cord. A fold of the mountainside had torn loose between Bela and the path. Below it was a long fall, though Iona tried not to look long enough to judge how long.
 
@@ -138,7 +142,7 @@ Iona wanted, absurdly, to make him put it back. He noticed. His mouth twisted, n
 
 "I know you're here," he said. "That's why I have to take it off."
 
-He put the clasp in his pocket and wound the line once around the sound rock Fen had chosen. His hands shook. Iona had watched him step into caves full of things that hissed and scrape at locked doors with the heel of a dagger. She had not often seen him afraid of his own weight.
+He put the open ring in his pocket, where it could summon no one. Then he wound the line once around the sound rock Fen had chosen. His hands shook. Iona had watched him step into caves full of things that hissed and scrape at locked doors with the heel of a dagger. She had not often seen him afraid of his own weight.
 
 "If I fall," he said, "hold the rope."
 
@@ -166,7 +170,7 @@ On the shelf, Iona checked the coat around Bela's shoulders and drew its hood ov
 
 Bela pressed the heel of one borrowed boot against the rock. "You weren't the one waiting."
 
-Iona had been snatched onto cold stone before. She had never sat on it from dawn until afternoon with no certainty anyone was coming. She did not ask Bela to forgive the hour.
+Iona had been snatched onto cold stone before. She had never sat on it from breakfast until afternoon with no certainty anyone was coming. She did not ask Bela to forgive the hour.
 
 They fitted Bela into the second loop. Bela checked where it pressed against her ribs and asked Iona to shift it higher. She took the canvas she had used for warmth and wrapped it around a sharp spur of rock where the line might rub.
 
@@ -178,11 +182,13 @@ For an instant Iona saw the whole simple, cruel answer: Tav's clasp could have d
 
 Tav's palms were red where the rope had run through them. He closed them before Iona could inspect them. She was too tired to insist.
 
+They descended by lantern light, Bela between Iona and Fen on the narrow turns. The walk took hours. Iona passed one coil to Fen when her shoulders began to shake.
+
 At the guildhouse, Orren was waiting on the bench where they had left him. Bela stopped just inside the door. He tried to rise; she crossed the room and sat beside him instead. She took his hand, held it a moment, and then asked why he'd let the others carry him away.
 
 He began to answer. She listened. They would need more than one conversation, Iona thought, and none of it belonged in a guild report.
 
-Fen cleared a table for the incident book. She crossed out **Witnesses** and wrote **Persons placed in danger by guild equipment**. She gave Bela the pen.
+A guild healer checked Bela's numb feet and fingers and wrote *cold injury* on a slip for Fen. Fen cleared a table for the incident book. She crossed out **Witnesses** and wrote **Persons placed in danger by guild equipment**. She set the healer's slip beneath the new heading and gave Bela the pen.
 
 Bela looked down at the page. "Will this bring me home any faster next time?"
 
@@ -196,7 +202,7 @@ Bela touched it. "Yours?"
 
 "You knew it could leave someone up there?"
 
-Iona thought of the reports in her drawer. "I knew it had left me behind. I kept signing them."
+Iona thought of the reports in her drawer. "I knew it never brought me back. I kept signing them."
 
 "Put that in the book, too."
 
