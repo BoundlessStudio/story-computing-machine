@@ -1,5 +1,6 @@
 # Content rating
 
-- **Rating:** Teen
-- **Content notes:** Non-graphic combat and injury; Death and bereavement; Disaster and mass peril.
-- **Reason:** The noted material appears at moderate or non-graphic intensity.
+- **Rating:** Mature
+- **Content notes:** Bodily injury and body horror; death and bereavement; disaster and mass peril.
+- **Reason:** The story sustains large-scale violence, bodily injury, and fatal disaster despite mostly non-graphic treatment.
+- **Selection:** Jev 1.13 rated Mature at 0.79 confidence under the approved >0.60 rule.

@@ -1,5 +1,6 @@
 {
   "date": "2026-09-28",
+  "baseline": "Ratings in each story package before the subsequent >0.60 confidence adoption; see the Markdown report for applied changes and the user-approved exception.",
   "endpoint": "https://openrouter.ai/api/alpha/decisions",
   "requested_model": "typesafe/jev-1.13",
   "served_model": "typesafe/jev-1.13-20260917",

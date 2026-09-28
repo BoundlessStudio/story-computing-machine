@@ -1,6 +1,6 @@
 # One-off Jev rating comparison (2026-09-28)
 
-Jev classified the finished prose of all 196 existing stories with the four AO3 fiction ratings. The previous LLM-assisted editorial labels in `ratings.md` are the comparison baseline. This run did not change them.
+Jev classified the finished prose of all 196 existing stories with the four AO3 fiction ratings. The previous LLM-assisted editorial labels in `ratings.md` are the comparison baseline. The results below preserve that pre-adoption snapshot; a follow-up threshold decision changed ten ratings afterward.
 
 ## Method
 
@@ -91,4 +91,25 @@ Of the **34 canon stories**, 9 received a different Jev label.
 - Jev raised [The Wrong Side of the Part](../stories/the-wrong-side-of-the-part/05-story.md) from Teen to Mature with confidence 0.20. Its existing notes describe bereavement and family conflict without graphic content; that disagreement is a review candidate, not a reason to relabel it automatically.
 - Most differences sit on the General/Teen boundary (48 of 56). A prose and cover review is needed before changing any published label.
 
-The complete per-story choices, probabilities, confidence values, source hashes, request IDs, and usage are in [the machine-readable results](jev-rating-comparison-2026-09-28.json). No story package, canon marker, or content rating was modified by this comparison.
+The complete per-story choices, probabilities, confidence values, source hashes, request IDs, and usage are in [the machine-readable results](jev-rating-comparison-2026-09-28.json). Their `existing_rating` values are the pre-adoption baseline, not the current ratings for the ten changed packages.
+
+## Follow-up: apply ratings above 0.60 confidence
+
+The user chose to use Jev's rating when its reported confidence is **strictly greater than 0.60**. Eleven disagreements met that threshold. Ten `ratings.md` files now use Jev's choice and record its confidence alongside content notes and a reason. This includes one canon package, [The Courtesy of Blades](../stories/the-courtesy-of-blades/ratings.md), under the user's approval for this rating project.
+
+| Story | Prior | Current | Jev confidence |
+|---|---|---|---:|
+| [A Little Winter for Sale](../stories/a-little-winter-for-sale/ratings.md) | Teen | General | 0.65 |
+| [All Accounts Due](../stories/all-accounts-due/ratings.md) | Teen | Mature | 0.79 |
+| [Between the Colors](../stories/between-the-colors/ratings.md) | General | Teen | 0.62 |
+| [The Astral Valkyrie](../stories/the-astral-valkyrie/ratings.md) | Teen | Mature | 0.67 |
+| [The Chair at the Back](../stories/the-chair-at-the-back/ratings.md) | Teen | General | 0.63 |
+| [The Count Was 131,072](../stories/the-count-was-131072/ratings.md) | Teen | General | 0.72 |
+| [The Courtesy of Blades](../stories/the-courtesy-of-blades/ratings.md) | Teen | General | 0.68 |
+| [The Lights Beyond](../stories/the-lights-beyond/ratings.md) | Teen | General | 0.80 |
+| [The Name the Water Took](../stories/the-name-the-water-took/ratings.md) | General | Teen | 0.63 |
+| [When the Eagle Bowed](../stories/when-the-eagle-bowed/ratings.md) | Teen | Mature | 0.65 |
+
+The user explicitly kept [Nobody Spends Her Name](../stories/empire-within/ratings.md) at **Explicit** despite Jev's Mature choice at 0.77, because its graphic gunshot wounds meet the locked Explicit definition. [His Infernal Majesty Says No](../stories/his-infernal-majesty-says-no/ratings.md) and [The Friends I Built](../stories/the-friends-i-built/ratings.md) have confidence exactly 0.60 and do not meet the strict threshold. No prose, cover, or canon marker changed.
+
+After the ten updates, **150/196** current ratings match Jev and **46** differ. Current distribution: **106 General, 77 Teen, 8 Mature, 5 Explicit**.
