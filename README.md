@@ -14,6 +14,8 @@ About 3,000 words. Close third person. Melancholy but hopeful.
 
 Codex keeps your request intact. A writer makes a brief, provisional outline and independent readers challenge its story choice before drafting. New readers then read the complete draft separately, talk with the writer about what worked or failed, and read the revision. When the room thinks the prose is ready, fresh readers see the whole story without that discussion and can surface what everyone else missed. A cover normally follows once the prose is ready; extra reference or location art is made when it helps the finished story. [The story workshop skill](.agents/skills/story-create/SKILL.md) explains the practice.
 
+New stories start with a General audience target unless the prompt says otherwise. Each finished story's `ratings.md` records its reviewed General, Teen, Mature, or Explicit classification and content notes under the [shared content boundaries](universe/style-guide.md#audience-and-content-boundaries).
+
 The story's `notes.md` keeps the useful editorial memory from outline, draft, and final readings: what readers experienced, what caused a problem, what was changed, whether it worked, and which objections were deliberately left open. Git records substantial draft and revision rounds. There are no scores, file hashes, scripted approvals, or required number of rounds.
 
 ## Where things live

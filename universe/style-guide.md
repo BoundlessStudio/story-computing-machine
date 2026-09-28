@@ -59,11 +59,26 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
 ## Audience and content boundaries
 
 - Status: LOCKED
-- Summary: Default to broadly accessible, non-explicit fiction while allowing
-  the universe's wide tonal and genre range.
-- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q103)
+- Summary: Default new stories to General while allowing the universe's wide
+  tonal and genre range. Rate finished prose and its cover using the AO3 fiction
+  categories: General, Teen, Mature, or Explicit.
+- First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q103); rating update approved 2026-09-28.
 - Aliases: Content ceiling
 - Notes:
+  - General is the starting target when the user has not specified an audience
+    or intensity. It is not an automatic final rating. Assign the rating from
+    the finished story and its cover, using their most intense material. Record
+    the reason and specific content notes in `ratings.md` beside the story.
+  - General: suitable for all ages. Teen: material may be unsuitable for readers
+    under 13. Mature: adult themes or stronger violence without the detail of
+    Explicit. Explicit: detailed sexual activity, graphic violence, or similarly
+    explicit adult content. These labels describe intensity, not literary
+    quality, target readership, or permission to cross a content boundary. An
+    accurate rating of existing prose does not reopen its finished story.
+  - Keep content notes separate from the overall rating. Describe what is on
+    the page, such as strong language, non-graphic combat, graphic injury,
+    self-harm, or bereavement. A theme, identity, or relationship alone does not
+    raise a rating. Reassess the rating after a substantial revision.
   - Romance and adult intimacy may appear, but sexual content fades to black;
     intimate participants must be unambiguously adults, and minors are never
     sexualized.
@@ -76,7 +91,9 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
     story-bearing, non-instructional, and non-endorsing; explicitness cannot be
     the work's sole purpose. This exception does not loosen the sexual-content
     or minor-safety limits above.
-  - Record audience, intensity, and content notes in each `prompt.md`.
+  - Record the requested audience, intensity, and content direction in each
+    `prompt.md`; keep the user's original words. Record the finished story's
+    rating and content notes in its `ratings.md`.
   - If a passage cannot be drafted safely, narrow the narrative camera to
     implication, emotion, or aftermath rather than attempting safeguard evasion.
   - Applicable platform policy is always the floor; these project limits are
