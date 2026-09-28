@@ -4,6 +4,8 @@ try again; this time stop of outlines and lest talk it through you missing the e
 
 i want you to treat it like a outdate outline and fill in the rest; you can using "Explicit" rating for this story if we need to get messy and dark with what is being left out.
 
+i want a more modern cameras not the things from old deays that take like 2 days to expose and flim and delvop extra... its should be  more magical based.
+
 Context carried from the user's discussion: The story centers an adventurers' guild meeting and an event serious enough to require guild-wide safety regulations. Newly available cameras, introduced to verify expeditions, reveal what guild accounts omitted after parties left dungeons. The footage from more than one chapter must make the concern larger than a single local exception. This direction is provisional story material, not shared-universe canon.
 
 Audience: Adult themes permitted; final rating follows the finished prose and cover.
