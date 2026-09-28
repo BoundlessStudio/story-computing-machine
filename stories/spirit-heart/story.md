@@ -32,9 +32,9 @@ The woman thanked her again. The boy gave a quick wave without letting go of his
 
 The phrase at the beginning of the song belonged to Iona. Vera's younger sister had said it into a kitchen tape recorder when they were seventeen and fifteen, after Vera missed a note for the fourth time. Vera had kept the count-in on the demo because the next take was the one where her voice stopped sounding as though it had borrowed another singer's throat. A producer kept it on the single. By the time Iona asked her to take it off, the single was everywhere, and Vera had answered as if its success were a technical difficulty nobody could solve.
 
-For years, listeners had pictured a patient little girl directing a future star through her first song. They sent drawings of her. Some thanked Vera for letting them hear a childhood so gentle that they could live inside it for four minutes. Vera had said, in one interview, that Iona was the reason she began singing. It was an easy sentence to say aloud, and a hard one to retrieve.
+For years, listeners had pictured a patient little girl directing a future star through her first song. They sent drawings of her. Some thanked Vera for letting them hear a childhood so gentle that they could live inside it for four minutes. Vera had said in interviews that Iona was the reason she began singing. It was an easy sentence to say aloud, and a hard one to retrieve.
 
-In the dressing room, Vera set her bag on a chair. She could still see the woman and boy through the window, making their way across the square under the heart. The woman stopped once and tilted her face up. Vera tried to imagine the stairwell: the boy waiting on one step with his speaker, his grandfather reaching for the next. The bit of Iona's voice that Vera had used without asking had helped them. Both things were true, and she wanted very badly for one truth to settle the other.
+In the dressing room, Vera set her bag on a chair. She could still see the woman and boy through the window, making their way toward the audience entrance under the heart. The woman stopped once and tilted her face up. Vera tried to imagine the stairwell: the boy waiting on one step with his speaker, his grandfather reaching for the next. The bit of Iona's voice that Vera had used without asking had helped them. Both things were true, and she wanted very badly for one truth to settle the other.
 
 Her phone lit up. Iona had answered the message Vera sent three days earlier with the broadcast time. *I'm downstairs.*
 
@@ -88,7 +88,7 @@ Iona waited.
 
 Vera opened the case and saw the handwritten label again. Without Iona's directions, the pauses between Vera's attempts were only silence. Without Iona singing the line beside her, Vera's laughter had no source. The recording could be shortened, but the girl Vera wanted to show the world had not been alone in that room.
 
-"I won't play it," she said. "And not on the release."
+"I won't play it," she said. "I won't put out the anniversary edition."
 
 Iona took a breath. "Thank you."
 
@@ -100,7 +100,7 @@ The floor director knocked and put his head around the door. "Five minutes. Play
 
 "The kitchen tape?"
 
-"Yes. And the new edition can't go out with the extra voice. I'll speak to them after the show."
+"Yes. And cancel the anniversary edition. I'll speak to the label after the show."
 
 He looked from Vera to Iona, then back at his clipboard. "We announced the uncut tape in the first segment. What do you want in that slot?"
 
@@ -126,7 +126,7 @@ The screen went dark. The boy from the stage door sat in the second row, his sch
 
 "You've always said such lovely things about your sister," the host said. He turned his chair toward Vera and waited for the next one.
 
-"I kept saying she made me," Vera said. The camera was close enough for her to see its red light. "She never asked for that job. And I promised the rest of that tape without asking her either."
+"I kept saying she made me," Vera said. The camera was close enough for her to see its red light. "That wasn't mine to say. And I promised the rest of that tape without asking her either."
 
 The host looked down at his cards. In her ear, someone counted the seconds until the song. Vera could have filled them with the old story or with the recording she had wanted to share. Instead the camera held on her while she had nothing more to give it. When the music began, she entered on her own first note. Several mouths in the front row made the shape of Iona's four words before she began.
 
