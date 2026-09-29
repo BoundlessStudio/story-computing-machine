@@ -9,3 +9,5 @@ Older `PG`, `YA`, and `R+` labels in preserved prompts describe earlier directio
 Older packages keep their existing four-file or bundle layout. Their `outline.md` and `review.md` remain history; do not rewrite them just to match a new template. Add or update `notes.md` for an authorized prose change that alters meaning, action, or voice; a purely mechanical correction does not need it. Current stories mark canon in `story.md` frontmatter; bundles use `story.json`. Check the marker before editing. See [AGENTS.md](../AGENTS.md) for permissions and [story-create](../.agents/skills/story-create/SKILL.md) for the editorial practice.
 
 `NAMES.md` is older name memory. It can help avoid confusing reuse, but neither it nor an old review establishes a universe fact. Shared facts belong to [universe/](../universe/README.md).
+
+For collection visual direction and art provenance, see [universe/art.md](../universe/art.md). The [repository README](../README.md) gives a short introduction; [AGENTS.md](../AGENTS.md) governs permissions and working practice.

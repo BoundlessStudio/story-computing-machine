@@ -1,0 +1,9 @@
+# Collection art direction
+
+This is visual guidance for new, authorized character and location art. Artwork interprets a story; it does not establish shared-universe facts or change a locked story package.
+
+The collection direction is Canadian Group of Seven inspired oil painting: broad, rhythmic colour and value shapes; varied directional opaque strokes; quieter connecting passages; selective substantial impasto; simplified figures and architecture; and story-specific natural or otherwise motivated light. Keep shadows connected and allow darkness and lost edges. Avoid glossy faces or lenses, uniform bevelled strokes, theatrical rim light, and automatic orange-blue contrast.
+
+When this collection style is requested, use actual paintings such as [Apple Orchard Hillside](../stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png) and [The Stream After Ash](../stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png) as visual references. The finished story and any supplied references determine identity, clothing, setting, and light.
+
+Keep art in its story package. Preserve supplied originals under `stories/<slug>/art/references/` with their recorded names. Keep an original location painting and its selected correction as separate files; `art/selection-notes.json` identifies the selected one. Drafts and rejected candidates stay outside the story package. There is no required gallery inventory.

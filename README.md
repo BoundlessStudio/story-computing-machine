@@ -22,6 +22,7 @@ The story's `notes.md` keeps the useful editorial memory from outline, draft, an
 
 - [stories/](stories/README.md) — prompts, prose, editorial notes, and selected story art. Older packages retain their previous layout.
 - [universe/](universe/README.md) — shared facts and the small set of narrative boundaries. A story becomes canon only with your explicit approval.
+- [universe/art.md](universe/art.md) — collection visual direction and art provenance guidance.
 - [AGENTS.md](AGENTS.md) — permissions, worktree rule, and the few repository boundaries.
 
 The former GitHub Pages site, galleries, and publication captures have been retired from this repository. A separate media-only CI workflow publishes selected artwork to Cloudflare R2 for downstream use; it does not render or publish story pages. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.
@@ -31,5 +32,3 @@ The former GitHub Pages site, galleries, and publication captures have been reti
 Name the story and the change you want. Non-canon stories can be edited within that scope; a substantial revision benefits from fresh readers and discussion. A canon story must be explicitly unlocked by name before its package changes. No review or general invitation to improve the collection unlocks it.
 
 Work happens in a branch and dedicated worktree, then a pull request for your review. Nothing merges automatically.
-
-The pre-cleanup backup branch `codex/backup-main-2026-09-27` at `d9c6d293` preserves the former site, scripts, and publication snapshots for recovery.
