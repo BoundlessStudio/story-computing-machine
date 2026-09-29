@@ -34,6 +34,8 @@
 
 > check all these changes against the prose of the story.
 
+> there are only 7 plates and based on the story there should be 9 for the gods + 1 for the humans; unless i miss read.
+
 ## Working direction
 
 - Audience and intensity: no audience or intensity was specified; begin with a General audience target and classify the finished prose and cover from their actual content.
