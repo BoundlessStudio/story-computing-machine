@@ -10,7 +10,7 @@ At fourteen minutes past five, Maren put her hand on the door to the square.
 
 Sera had been watching the minute hand on the clock above the covered market. Yesterday, at that hour, she had gone out under a blue sky with a basket of bread. She had returned with an empty basket, and three people had touched the hem of her coat.
 
-They called the ancient satellite the Eyes of God. Today its glint was still above the sea.
+They called the ancient satellite the Eyes of God. By Sera's count, it was still above the sea.
 
 “Wait,” Sera said.
 
@@ -88,7 +88,7 @@ Maren folded the note once more. It was already small enough.
 
 “I didn't stay because you were fearless,” she said. “I stayed because I thought you would tell me when to be afraid.”
 
-The red point made its slow climb across the white plaster. Sera remembered the day the beam came down: not the column of light, which she had seen only after she was safely beneath the arcade, but Maren as a girl pressing both hands over her father's empty sleeve so he would not look at it. He had tried to cross for flour. He had waited for a cloud to cover the Eye, thinking that meant the Eye could not see him. In the years since, Sera had walked out beneath clear skies, and he had called that pride. She had never gone to his door with her marks.
+The red point made its slow climb across the white plaster. Sera remembered the day the beam came down: not the column of light, which she had seen only after she was safely beneath the arcade, but Maren pressing both hands over her father's empty sleeve so he would not look at it. He had tried to cross for flour. He had waited for a cloud to cover the Eye, thinking that meant the Eye could not see him. In the years since, Sera had walked out beneath clear skies, and he had called that pride. She had never gone to his door with her marks.
 
 When Sera's watch reached five sixteen, the light touched the black fleck.
 
@@ -116,10 +116,10 @@ They waited until the watch reached five eighteen. Maren went to the door. Sera 
 
 Maren stepped into the square. She did not run. At the place where the old canvas rings had melted, she stopped and looked upward. Sera could not tell whether she was checking the sky or offering it a prayer. Then Maren crossed the remaining stones and entered the opposite shelter, carrying her father's note in one hand and the charcoal in the other.
 
-Behind Sera, someone in the market whispered that Maren had learned to test her faith too.
+Behind Sera, a woman in the market whispered that Maren had learned to test her faith too.
 
 “She waited for it to set,” Sera said.
 
 Across the square, Maren's father opened his door. Sera could see only his empty sleeve and the space he made for her. Maren stepped inside, still carrying the charcoal.
 
-The neighbor came to the counting room door and looked at the marks. Sera showed her the last one. She could tell the neighbor where to stand tomorrow, if the sky was clear.
+Sera led the woman into the counting room and showed her the last mark. She could tell her where to stand tomorrow, if the sky was clear.
