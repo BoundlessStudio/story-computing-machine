@@ -1,0 +1,6 @@
+{
+  "location": "Hearth Nine hall",
+  "original": "interiors/01-hearth-nine-hall-original.png",
+  "selected": "interiors/02-hearth-nine-hall-selected.png",
+  "reason": "The selected correction replaces an unsupported mountain view through the high arches with the cold star field and pale river of light described in the story."
+}
