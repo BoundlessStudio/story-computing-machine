@@ -24,7 +24,7 @@ It was 23:50. The last northbound train began boarding at midnight.
 
 The sender was waiting in a workshop no larger than a train compartment, among clocks that each disagreed with the others. He held a bird made of folded silver, not much bigger than Button’s paw. A tiny key protruded beneath one wing. An open glass case waited on the bench.
 
-“She’s going tonight,” the man said. He was out of breath, though he had only crossed the room. “I got the wings working again.”
+“My daughter’s going tonight,” the man said. He was out of breath, though he had only crossed the room. “I got the wings working again.”
 
 He gave the key two turns and set the bird under the glass. It twitched once against the restraint. On its brass base, someone had cut a child’s name into the metal. The letters had been worn smooth by a thumb. He pressed the case into Sena’s hands.
 
@@ -78,7 +78,7 @@ Button knew where it had gone.
 
 Sena turned off the broad roof.
 
-She slipped sideways through the gap, one shoulder scraping a warm panel. At the far end she could see Button’s white tail above her, tucked behind the blue advertisement. He had stopped. Whatever he saw was holding him so still that even his tail did not move.
+She dropped to a lower walkway and slipped sideways through the gap, one shoulder scraping a warm panel. At the far end she could see Button’s white tail above her, tucked behind the blue advertisement. He had stopped. Whatever he saw was holding him so still that even his tail did not move.
 
 Sena pulled off her headphones. The city came at her in a hundred separate sounds: pans striking metal, vendors calling, a train humming on the distant curve. Under them was a tiny, diminishing tick. She followed it with her eyes and found the brass point of the bird’s beak on a ledge behind the sign. Button crouched two handspans away.
 
@@ -130,7 +130,7 @@ The woman looked up. Sena opened the cloth. The silver bird lay still in her pal
 
 Ina took it with both hands. Far down the track, the northbound train began to round the curve. The platform clock changed to **23:59:53**. Sena’s wrist marked the delivery as the bird passed into Ina’s hands.
 
-Ina turned the little key beneath its wing. The bird’s beak opened. Four clear notes came out, then a gap where the fifth should have been, then the rest of the tune.
+Ina turned the little key beneath its wing. The bird’s wings beat softly against her cupped hands. Its beak opened. Four clear notes came out, then a gap where the fifth should have been, then the rest of the tune.
 
 Sena’s stomach tightened. She thought of the landing, the opened case, the scuff on the wing. Ina wound the key once more. Again the fourth note was followed by silence.
 
