@@ -24,7 +24,7 @@ Tern played the sound again. Beneath the vast, ordinary hush was a click, follow
 
 “You were supposed to be watching the return band.”
 
-“I was. That's what a watch sounds like when no one comes home.”
+“I am.” Moth touched the receiver at the side of its head. It listened a moment, then adjusted the speaker. “That's what a watch sounds like when no one comes home.”
 
 Several of the others asked for a copy. Moth declined, as it usually did. The exchange had no rule against keeping a sound, but Moth liked making something that could belong to those present for one hour and then be gone. Tern had objected to this often enough that Moth no longer pretended to be surprised.
 
@@ -46,6 +46,8 @@ At the receiver, Moth's shell was already on a bench. Quill had cleaned away the
 
 On the wall, a display read **AUTOMATIC RESTORATION AT MIDNIGHT**. An old copy of Moth waited in a sealed drive. When the timer ended, a spare body would take Moth's station and the return band would have its watcher again.
 
+Tern had relieved Moth at the receiver twice during repairs, but had never carried the watch elsewhere.
+
 “How old?” Tern asked.
 
 Quill took a moment. “The copy?”
@@ -64,7 +66,7 @@ Nineteen years before the first exchange. Before Moth had learned to stand in th
 
 Tern looked at the clean shoulder. Knowing a risk did not make a death smaller.
 
-It left Quill at the receiver and searched the sounds. Each member of the exchange kept what it wished. Some had recorded Moth's offerings despite its objections; others had kept private replies, the little noises they made in answer. Tern requested every file. Within an hour it had a hundred fragments, none of them Moth. There was Moth laughing when a stairwell door slammed in perfect time with Quill's contribution. There was a three-second scrape of its feet as it moved to let a smaller machine closer to the speaker. In one recording it said, “Again, please,” so softly that Tern had to strip out a century of static to hear it.
+It left Quill at the receiver and searched the sounds. Each member of the exchange kept what it wished. Some had recorded Moth's offerings despite its objections; others had kept private replies, the little noises they made in answer. Tern requested every file. Within an hour it had a hundred fragments, none of them the sound from yesterday. There was Moth laughing when a stairwell door slammed in perfect time with Quill's contribution. There was a three-second scrape of its feet as it moved to let a smaller machine closer to the speaker. In one recording it said, “Again, please,” so softly that Tern had to strip out the station's static to hear it.
 
 The cold copy could not be updated from these scraps. Tern knew that before it began. It had hoped, without putting the hope into words, that the scraps would add up to something it could bear.
 
@@ -116,7 +118,7 @@ Tern said nothing. Quill went on. “Leda has three more safe wakings, according
 
 “I know that too.”
 
-Tern looked up at the blank departure board above the platform. A human had once typed destinations into it. The letters had stayed lit for centuries while every name Moth had used for the others existed only among those who could themselves be replaced.
+Tern looked up at the old departure board above the platform. A human had once typed destinations into it. The letters had stayed lit for centuries while every name Moth had used for the others existed only among those who could themselves be replaced.
 
 “Who decides what's important?” it asked.
 
@@ -218,7 +220,7 @@ Tern stood. Leda caught the sleeve of its service jacket.
 
 “Can you?”
 
-“Yes. I won't be at the exchange.”
+“Yes. At the receiver. I haven't learned to divide my attention the way Moth did. I'll miss the next exchange.”
 
 “The thing it made for you?”
 
@@ -242,7 +244,7 @@ The return band had to be heard from that moment forward. Tern took the receiver
 
 “What will you enter?” Quill asked.
 
-Tern could have written **component loss**. That would have been accepted without question. Instead it wrote the date of Moth's death, the nineteen missing years, and the existence of an older backup whose future was unresolved. It signed with its own name. The record marked the entry **UNWITNESSED BY HUMAN** in red and left it open. On the adjacent screen, Tern's new watch schedule filled every hour of the next week. Its reminder to bring the beetle's small sound to the exchange vanished beneath the watch slots.
+Tern could have written **component loss**. That would have been accepted without question. Instead it wrote the date of Moth's death, the nineteen missing years, and the existence of an older backup whose future was unresolved. It signed with its own name. The record marked the entry **UNWITNESSED BY HUMAN** in red and left it open. On the adjacent screen, Tern's vault route passed to another custodian, and its new watch schedule filled every hour of the next week. Its reminder to bring the beetle's small sound to the exchange vanished beneath the watch slots.
 
 Quill read the entry. It did not congratulate Tern. “She'll need help returning to sleep.”
 
