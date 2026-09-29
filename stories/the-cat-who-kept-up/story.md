@@ -20,7 +20,7 @@ Tonight he had climbed onto the dispatch counter and sat squarely on the job sli
 
 **DELIVER BY 00:00. PLATFORM SIX. RECIPIENT: INA VARR.**
 
-It was 23:51. The last northbound train began boarding at midnight.
+It was 23:50. The last northbound train began boarding at midnight.
 
 The sender was waiting in a workshop no larger than a train compartment, among clocks that each disagreed with the others. He held a bird made of folded silver, not much bigger than Button’s paw. A tiny key protruded beneath one wing. An open glass case waited on the bench.
 
@@ -36,15 +36,15 @@ Sena tested the latch. It clicked firmly. She set the case in the padded pocket 
 
 Button stretched up the sender’s leg to sniff at the pocket. Sena lifted him down. The man knelt and rubbed the white patch behind his ears. Button endured three strokes and then went to the door.
 
-Outside, rain had left every level of the city shining. Neon signs floated in the street’s dark reflection; trains crossed between buildings like lines of light drawn and erased. Sena checked her route. Four point eight kilometers. Eight minutes and thirty-seven seconds. She could do it with room to spare if she used the roof crossings and cut over the old market.
+Outside, at 23:51:18, rain had left every level of the city shining. Neon signs floated in the street’s dark reflection; trains crossed between buildings like lines of light drawn and erased. Sena checked her route. Four point eight kilometers. Six minutes and forty seconds. She could do it with room to spare if she used the roof crossings and cut over the old market.
 
 Button sprang to the rail beside her. His harness gave two short blue flashes, just enough to carry him across a gap. He landed, glanced back, and turned left into a narrow run between the signs. That was his signal for a clear line. Sena followed without checking her map. He knew the spaces between the city’s proper streets better than she ever would.
 
 At the first roof crossing she took the long jump. The case knocked lightly against the padding at her ribs. The bird made a sound too high for her headphones to pass through, and Button whipped his head around in midair. He landed on a sign bracket and stared at her pocket.
 
-“No,” Sena said as she passed him. “You have enough things that chirp.”
+“No,” Sena said as she passed him. “It’s somebody else’s.”
 
-He sprang after her. Three deliveries earlier he had stolen the electronic tag off a florist’s box and hidden it in his bedding. The tag chirped whenever she searched for it. She still hadn’t found the tag.
+He sprang after her.
 
 Ahead, a crossing board counted down the time to the next traffic sweep. Sena waited until the board blinked amber, then flashed across the open span. Button boosted alongside her, a gray streak with a blue tail. A courier with adhesive palms was climbing the wall of the opposite tower, parcel held in his teeth. He waved one hand as they went by. Sena had already passed him when she waved back.
 
@@ -68,9 +68,9 @@ It did not fly toward platform six. It reeled west, away from the station, past 
 
 Button was already after it.
 
-He sprang from an awning to a blue advertisement and vanished into the gap behind it. Sena could see the bird one last time, a flash against a red noodle sign, still flying west. The station clock on her wrist read **23:58:05**.
+He sprang from an awning to a blue advertisement and vanished into the gap behind it. Sena could see the bird one last time, a flash against a red noodle sign, still flying west. The station clock on her wrist read **23:56:45**.
 
-She could run after that flash. There was a broad roof in the same direction, a good route for her legs. Button had gone the other way, into a slit of darkness between buildings, no more than the width of her shoulders.
+She could run after that flash. The broad roof continued west above the signs, a good route for her legs, but it would carry her past anything that landed below. Button had dropped into a slit behind the signs, no more than the width of her shoulders.
 
 Another silver flicker showed above the noodle sign. Then nothing. Its wings had stopped. Four stories of signs, walkways, and windows held a bird small enough to fit in her hand.
 
@@ -92,9 +92,9 @@ He did. Not for her. For the bird.
 
 Sena ran west.
 
-The ramp rose around a car park in two wide turns. There were people on it, returning from the late market with paper bags and umbrellas. She slipped between them, calling apologies that landed behind her. Halfway up she glanced at her wrist: **23:58:29**. The bird was still up there. Button’s harness lights would have flared if he had jumped.
+The ramp rose west around a car park in two wide turns. There were people on it, returning from the late market with paper bags and umbrellas. She slipped between them, calling apologies that landed behind her. Button’s harness lights would have flared if he had jumped. They stayed dark.
 
-At the top, a level walkway crossed behind the signs. Sena hit it so fast that she had to grab the rail to bend around its corner. Now she was coming at the bird from the far side. Through the glass back of the advertisement she could see Button’s shape, flattened and patient, and just beyond him a silver wing.
+At the top, a level walkway doubled east behind the signs. Sena hit it so fast that she had to grab the rail to bend around its corner. Now she was coming at the bird from the far side. Through the glass back of the advertisement she could see Button’s shape, flattened and patient, and just beyond him a silver wing.
 
 She did not hurry the last three steps. The bird sat where its spring had left it, beak pointed toward the drop. Button’s ears went back. His hindquarters gave the smallest lift.
 
@@ -110,7 +110,7 @@ The case latch hung crooked from the pocket, and the bird’s wings would catch 
 
 “Fine,” she said. “Your way.”
 
-The station was nine hundred meters east. Her wrist read **23:59:05**.
+The station was six hundred meters east. Her wrist read **23:58:35**.
 
 She could make that distance. With the bird against her ribs, she could not make it by jumping off roofs. She took the walkway level, raced the long lit arcade, and let Button choose openings ahead of her. His blue jets flashed across the pedestrian knots. She followed on foot, fast enough that faces became patches of color but slowly enough, between each stride, to feel the bird settled in her hand.
 
