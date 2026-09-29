@@ -22,6 +22,7 @@ The story's `notes.md` keeps the useful editorial memory from outline, draft, an
 
 - [stories/](stories/README.md) — prompts, prose, editorial notes, and selected story art. Older packages retain their previous layout.
 - [universe/](universe/README.md) — shared facts and the small set of narrative boundaries. A story becomes canon only with your explicit approval.
+- [universe/art.md](universe/art.md) — collection visual direction and art provenance guidance.
 - [AGENTS.md](AGENTS.md) — permissions, worktree rule, and the few repository boundaries.
 
 The former GitHub Pages site, galleries, and publication captures have been retired from this repository. A separate media-only CI workflow publishes selected artwork to Cloudflare R2 for downstream use; it does not render or publish story pages. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.

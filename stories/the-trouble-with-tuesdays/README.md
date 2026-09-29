@@ -1,5 +1,11 @@
 # The Trouble With Tuesdays — production record
 
+## File guide
+
+Read the [finished story](05-story.md), [original prompt](00-prompt.md), [current rating](ratings.md), and [cover](title-image.jpg). [story.json](story.json) is the authoritative current canon marker; the `Canon` field and checklist below record an earlier production workflow.
+
+The [canon brief](01-canon-brief.md), [plan](02-story-plan.md), [draft](03-draft.md), [review](04-review.md), [canon delta](06-canon-delta.md), and [release record](release.json) remain as history. For current editing practice, see [stories/README.md](../README.md), [AGENTS.md](../../AGENTS.md), and the [universe guide](../../universe/README.md). [Art direction](../../universe/art.md) guides authorized new artwork.
+
 - Slug: `the-trouble-with-tuesdays`
 - Created: 2026-07-22
 - Current stage: final

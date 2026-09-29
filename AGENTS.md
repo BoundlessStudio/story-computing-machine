@@ -2,6 +2,8 @@
 
 This repository exists to turn `[WP]` prompts into memorable short stories. The story is the product. Use tools, agents, art, and continuity only when they help the story or protect a real boundary. Give writers room to discover a better story than their first plan.
 
+For a reader-facing introduction, see [README.md](README.md). [stories/README.md](stories/README.md) explains current story packages and older bundles; [universe/README.md](universe/README.md) locates shared facts and guidance. This file governs permissions and working practice.
+
 ## Authority and permission
 
 - Preserve the user's request verbatim in `prompt.md`. It controls what the story must deliver. An outline or an agent's preference does not.
@@ -21,9 +23,11 @@ For a new story, keep `stories/<slug>/` small:
 - `story.md` — the reader-facing story, with `title`, `created`, and `canon: false` frontmatter.
 - `notes.md` — concise editorial memory in the spirit of the one-paragraph template. Preserve the reader effects, reasoning, repairs, and any useful dissent without making a scorecard or transcript.
 - `ratings.md` — the reviewed General, Teen, Mature, or Explicit rating for the finished prose and its cover, with a brief reason and specific content notes. General is the starting target for a new story without a requested audience, not an automatic final classification.
-- A `title-image.jpg` cover follows a new `[WP]` story by default after its prose is ready, unless the user asks for prose only. Additional accepted character and location art lives under the same story's `art/` directory. Drafts and rejected image candidates stay outside the package.
+- A `title-image.jpg` cover follows a new `[WP]` story by default after its prose is ready, unless the user asks for prose only. Additional accepted character and location art lives under the same story's `art/` directory. Keep an original location painting and its selected correction as separate files; `art/selection-notes.json` identifies the selected one. Drafts and rejected image candidates stay outside the package.
 
 Older four-file current packages and `05-story.md` bundles may stay as they are. Their old reviews, profiles, and extra historical files are records, not instructions to recreate the retired process. For an authorized edit, preserve the layout and scope; use `notes.md` for new editorial decisions without rewriting old `review.md`. Git commits for the first complete draft and each substantial revision preserve the actual prose changes; `notes.md` preserves the reasoning even if a pull request is squash-merged. No hashes, PASS tokens, or generated process records are needed.
+
+Read a bundle's `README.md` for its historical file map, then use [stories/README.md](stories/README.md) for current file roles. Its `story.json` is authoritative for current canon status even when the historical README records an earlier status.
 
 ## The editorial work
 
@@ -37,4 +41,6 @@ A localized edit should remain local unless reading exposes a structural problem
 
 Make art after the prose is strong. A cover or reference image must match the finished story and any supplied reference; inspect its actual pixels. There is no mandatory gallery inventory. Existing story art is a creative asset, not canon. Do not add files to a locked package without an explicit user ruling. The user's one-time approval to relocate pre-lock art into canon story directories in PR #358 did not unlock those packages or authorize later art changes.
 
-The former site and page-publication processes are retired. The separate `media/` CI workflow exports story covers and accepted character and location art to R2 for downstream use; it does not publish story pages. Any new edition or page-publication method is a separate, explicit project.
+[universe/art.md](universe/art.md) preserves the collection's visual direction and art provenance guidance. It guides authorized new art without establishing in-world facts.
+
+`illustrated/` and `graphic-novels/` contain existing editions. Keep them as authored artifacts; neither changes the source story or establishes canon. The former site and page-publication processes are retired. The separate `media/` CI workflow exports selected final art to R2 for downstream use; it does not publish story pages. Any new edition or page-publication method is a separate, explicit project.
