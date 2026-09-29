@@ -1,0 +1,7 @@
+# Provisional direction
+
+In a city where a licensed courier gets one enhancement, a young runner spent hers on speed and fitted her gray cat with a little thrust harness so he could choose to come along. They are famous for impossible deadlines. Tonight's parcel is a palm-sized mechanical songbird, to be put in the hands of its maker's daughter before she boards the last train out. The sender will say only that the bird knows a song the daughter has not heard in years.
+
+The shortest route is a string of violent leaps across traffic and roofs. The cat keeps balking at the parcel, drawn to a high, uneven ticking the runner cannot hear. She first thinks he wants to play with the bird and pushes on. A hard landing makes the ticking stop. With minutes left, she finally follows the cat into a quieter route through the city's crowded, lived-in spaces, where they can carry the bird without breaking it further. The cat's senses and independent route-finding matter as much as her speed; neither can complete this run alone.
+
+At the station, the bird is delivered before departure, but the daughter has to wind it herself. It sings imperfectly. The runner cannot know what the song means to her, and the scene need not explain it. The possible last image is the courier and cat racing the departing train for the pleasure of it, with the girl letting the cat choose the way home.
