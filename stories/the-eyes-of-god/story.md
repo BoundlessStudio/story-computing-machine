@@ -98,7 +98,7 @@ Maren saw it. Her face did not clear. Sera had given her a fact at the cost of e
 
 “Past the edge of the sea. I'll wait another few breaths to be sure.”
 
-Maren took a piece of charcoal from the sill. Beneath Sera's *seventeen*, she wrote *tomorrow?*
+Maren took a piece of charcoal from the sill. Beneath Sera's line, she wrote *tomorrow?*
 
 “Don't just add four,” Sera said. “See where it comes through the hole. On cloudy days you can't.”
 
