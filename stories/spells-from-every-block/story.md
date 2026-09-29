@@ -120,11 +120,11 @@ For a moment Kemi saw herself carrying it down the stairs. Her mother would clim
 
 “I painted your wall. I painted that hem.”
 
-“Jessa's stairs weren't yours.” Orli looked at his cut cheek, then at the reel. “You didn't make their calls.”
+“You painted places for those two spells to answer,” Orli said. “Jessa's stairs weren't yours. None of the calls were.”
 
 Saye put the amber strip back on the wheel. “Then come take it.”
 
-Orli had already marked an angle along the table leg. Kemi swept a ring around the spinning wheel. It held for three breaths, long enough for Orli to turn the loose strip toward her instead of toward Saye's hands. Kemi caught a fistful. Blue and pale replies lay in that loose tail; the amber and copper marks were still wound near the hub. The wheel pulled against her ring; sweat ran down her back.
+Orli had already marked an angle along the table leg. Kemi swept a ring around the spinning wheel. It would hold for three breaths, long enough for Orli to turn the loose strip toward her instead of toward Saye's hands. Kemi caught a fistful. Blue and pale replies lay in that loose tail; the amber and copper marks were still wound near the hub. The wheel pulled against her ring; sweat ran down her back.
 
 Saye slapped both palms onto the strip and threw a stronger flare at Kemi's face. She squeezed her eyes shut without opening her ring. His pulse lit every reply on it. The flare threw their school colors over the rooftops, gorgeous and useless. It also ran hot. At Drumstep he had been able to smother one smoking length against his sleeve. Here the whole wheel was shining.
 
@@ -138,7 +138,7 @@ Orli was one stride from the damp sheet. If Kemi held the wheel, Orli could smot
 
 She closed her ring around him.
 
-He hung beyond the roof lip, level with it, beside the sign frame's jutting elbow. The reel spun on the tar behind Kemi. The amber awning mark came around the wheel, still untouched by fire.
+He hung beyond the roof lip, just above it, beside the sign frame's jutting elbow. The reel spun on the tar behind Kemi. The amber awning mark came around the wheel, still untouched by fire.
 
 “Three breaths,” Kemi said. Her voice was thin.
 
