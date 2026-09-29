@@ -20,6 +20,20 @@
 
 > so you should include that part of the search in the stories.
 
+## Later cover direction from the user
+
+> now to the cover image the straight table dose not make sense compared to round seats; fix it.
+
+> now the table is not aligned correctly with the chairs...
+
+> ok remove the table and people and put the "doors" behind each chair; if that dose notr work with the story prose that rewrite story prose so it fits.
+
+> remove the banners keep opening arches to cosmic background.
+
+> now add a round table to center of the image
+
+> check all these changes against the prose of the story.
+
 ## Working direction
 
 - Audience and intensity: no audience or intensity was specified; begin with a General audience target and classify the finished prose and cover from their actual content.

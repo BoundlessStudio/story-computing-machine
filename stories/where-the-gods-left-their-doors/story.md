@@ -54,11 +54,11 @@ Behind her, a child began to cough. Talia looked back. The others were bent arou
 
 Talia told the neighbors to keep close to the stone wall and wait. Then she ducked through.
 
-The passage was two steps deep. On the third, the ceiling lifted away from her. She came out beside a table so long that its far end dwindled in gray air. Nine great seats stood behind it. The backs were carved into different shapes: an open palm, a seed split down its middle, a pair of faces looking away from each other. Small benches for mortal visitors ran along the opposite side.
+The passage was two steps deep. On the third, the ceiling lifted away from her. She came out beside a broad round table of stone. Nine great seats followed its far curve. Their backs carried different marks: a crescent, a branching tree, a bird with its wings spread. Behind each seat stood a closed door bearing the same mark. Dust lay unbroken along all nine thresholds. Small benches for mortal visitors followed the near curve.
 
-The table was laid with plates of pale stone. Dust had settled into the shallow hollows where the food would have gone. At its center stood a hearth tall enough for Talia to walk into without lowering her head. Its logs were still stacked, but every piece was cold and furred with ash.
+The table was laid with plates of pale stone. Dust had settled into the shallow hollows where the food would have gone. At one side of the hall stood a hearth tall enough for Talia to walk into without lowering her head. Its logs were still stacked, but every piece was cold and furred with ash.
 
-There was a tenth place at the table's near end, small enough for a human hand. Its plate had been turned upside down to keep the dust out. Talia righted it. On the underside someone had scratched a row of dates, each beside a visitor's name. The last date was from the year the Nine departed.
+There was a tenth place along the table's near curve, small enough for a human hand. Its plate had been turned upside down to keep the dust out. Talia righted it. On the underside someone had scratched a row of dates, each beside a visitor's name. The last date was from the year the Nine departed.
 
 Her mother came through behind her. For a moment she looked exactly as she used to at the temple entrance, counting what a guest had brought and whether there was room at the table. Then she looked at the empty seats.
 
@@ -72,7 +72,7 @@ Talia looked toward the distant end of the hall. “Did they build all this?”
 
 “I watched one of them pull that wall farther away to fit the winter guests. We carried the benches across the new floor.” Her mother put her hand on the table. “It was still here the next morning.”
 
-Talia went to the hearth. No heat waited beneath the ash. Across the hall, wide windows showed a sky the color of old linen, without sun or cloud. The place was dry, but the stone had kept a long cold. She could feel it through her boots.
+Talia went to the hearth. No heat waited beneath the ash. Above the nine doors, high arches opened onto a sky scattered with cold stars and a pale river of light. No wind came through them. The place was dry, but the stone had kept a long cold. She could feel it through her boots.
 
 “They could fit everyone here,” she said.
 
