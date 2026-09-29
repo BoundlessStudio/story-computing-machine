@@ -28,7 +28,7 @@ Then he kept pedalling. Seventh angles turned things; they did not stop them. He
 
 The girl in white swore once, quietly, as if saving the rest for later. Her brown skin caught the blue light dying beneath her trainer. Platinum hair rose in a tall wrapped column, held with narrow gold bands.
 
-“Orli,” Kemi said. They had stood across enough school courts to know each other's names. “You turned him toward a getaway.”
+“Orli,” Kemi said. They had stood across enough school courts to know each other's names. “You turned him toward those vans.”
 
 “You nearly had him,” Orli said. “Why didn't you close a ring?”
 
@@ -60,7 +60,7 @@ The tailor was bending over a torn sleeve when the man in silver came out of the
 
 The tailor looked up on the fourth beat. Her needle made its last small arc. The man in silver set the blade to the wall. A copper stitch lifted and ran, glowing, onto his strip. The seam sprang apart under the needle. A row of customers gasped; the tailor only seized the cloth before it slipped from her lap.
 
-Kemi lunged for the strip, but it whipped out of reach. He sent a pulse through it. Every stolen reply flared at once: a glimpse of the market awning, a blue bend, a line of impossible stitches. None held anything. The strip smoked. He hissed and pressed it against his wet sleeve until the glow shrank.
+Kemi lunged for the strip, but it whipped out of reach. He fired a pulse through it toward her eyes. Every stolen reply flared at once: a glimpse of the market awning, a blue bend, a line of impossible stitches. Kemi lost him for a beat. None of the echoes held anything. The strip smoked. He hissed and pressed it against his wet sleeve until the glow shrank.
 
 Orli had watched his bicycle, not the lights. She marked the corner of the lane with her heel and turned his front wheel into a parked handcart. He jumped the bar before impact, landed badly, and ran. Kemi started after him, but the cart was rolling backward toward the laundrette's open glass door. Her one ring caught its axle. Orli got three strides closer to the man; he vaulted a low fence and was gone.
 
@@ -96,7 +96,7 @@ Orli was already moving. She drew an angle on the lowest painted corner, but Say
 
 “Good.” Orli ran after him.
 
-The roof above the night market belonged to no school. It had once been a cinema and now hosted whatever music could gather enough listeners to climb four flights. Saye had fastened a show gantry to its old sign frame, beyond the roof's low stone lip. Lamps faced the roofs all the way to Seventh. A hand-painted banner hung above them: **SAYE / ALL THE CITY IN ONE HAND**.
+The roof above the night market belonged to no school. It had once been a cinema and now hosted whatever music could gather enough listeners to climb four flights. Saye had fastened a show gantry to its old sign frame, whose steel elbow jutted beyond the roof's low stone lip. Lamps faced the roofs all the way to Seventh. A hand-painted banner hung above them: **SAYE / ALL THE CITY IN ONE HAND**.
 
 On a table beneath it sat the reel, with a damp stage sheet hanging over one end. The strip ran through his fingers and back around the wheel. Amber, blue, copper, and colors Kemi could not name passed under his thumb. She counted more marks than she had seen stolen tonight.
 
@@ -118,35 +118,35 @@ For a moment Kemi saw herself carrying it down the stairs. Her mother would clim
 
 “That hem,” she said. “Those stairs. You took things people use.”
 
-“Things I painted.”
+“I painted your wall. I painted that hem.”
 
-“You painted a place for people to answer,” Orli said. She did not sound triumphant. She looked at his cut cheek, then at the reel. “You didn't make their calls.”
+“Jessa's stairs weren't yours.” Orli looked at his cut cheek, then at the reel. “You didn't make their calls.”
 
 Saye put the amber strip back on the wheel. “Then come take it.”
 
 Orli had already marked an angle along the table leg. Kemi swept a ring around the spinning wheel. It held for three breaths, long enough for Orli to turn the loose strip toward her instead of toward Saye's hands. Kemi caught a fistful. Blue and pale replies lay in that loose tail; the amber and copper marks were still wound near the hub. The wheel pulled against her ring; sweat ran down her back.
 
-Saye slapped both palms onto the strip. His pulse lit every reply on it. The flare threw their school colors over the rooftops, gorgeous and useless. It also ran hot. At Drumstep he had been able to smother one smoking length against his sleeve. Here the whole wheel was shining.
+Saye slapped both palms onto the strip and threw a stronger flare at Kemi's face. She squeezed her eyes shut without opening her ring. His pulse lit every reply on it. The flare threw their school colors over the rooftops, gorgeous and useless. It also ran hot. At Drumstep he had been able to smother one smoking length against his sleeve. Here the whole wheel was shining.
 
 “Let go,” Kemi said.
 
 He did, to snatch a wet cloth from the table. The strip caught fire before he could cover it.
 
-Kemi's three breaths were over. The reel spun free. Its stand toppled; the wheel bounced off the table toward the gantry. As it turned, the burning length wound through fresh coils. Saye dropped his cloth, lunged after it, and caught the wheel at the roof lip. The old sign frame bent under his weight. He dropped the reel behind him onto the tar to grab the frame; it kept spinning. The frame gave and he went over the edge.
+Kemi's three breaths were over. The reel spun free. Its stand toppled; the wheel bounced off the table toward the gantry. As it turned, the burning length wound through fresh coils. Saye dropped his cloth, lunged after it, and caught the wheel at the roof lip. The old sign frame bent under his weight. He dropped the reel behind him onto the tar to grab the frame; it kept spinning. The frame bowed, his wet hand slipped, and he went over the edge.
 
 Orli was one stride from the damp sheet. If Kemi held the wheel, Orli could smother it. Beyond the low roof lip, Saye was falling into the market.
 
 She closed her ring around him.
 
-He hung beyond the roof lip, level with it, eyes wide, one hand open. The reel spun on the tar behind Kemi. The amber awning mark came around the wheel, still untouched by fire.
+He hung beyond the roof lip, level with it, beside the sign frame's jutting elbow. The reel spun on the tar behind Kemi. The amber awning mark came around the wheel, still untouched by fire.
 
 “Three breaths,” Kemi said. Her voice was thin.
 
-Orli left the sheet. She had to mark the outer corner of the low stone lip, where Saye would pass when Kemi released him. Her heel could not reach it; she leaned over and drew blue with her hand. One breath. The amber went into the fire. Two. The paint resisted where the stone had broken away. The copper hem caught. At the third breath Orli set her angle.
+Orli left the sheet. The frame's steel elbow crossed the line of Saye's fall while he was still above the roof lip. Her heel could not reach it; she leaned over and drew blue on the metal with her hand. One breath. The amber went into the fire. Two. Her line broke over a rust pit; she joined it again. The copper hem caught. At the third breath Orli set her angle.
 
 “Release.”
 
-Kemi opened her fingers. Saye crossed blue at the outer top corner and turned inward, clearing the low lip. He hit the flat roof hard and slid into the table legs. Orli caught his jacket before he could slide back. Kemi had both arms around him a moment later. He was breathing. Across the roof, the reel burned.
+Kemi opened her fingers. Saye crossed the blue corner before dropping below the lip. The angle turned his fall inward; he skimmed the tar, rolled, and struck the table legs. Orli caught his jacket before he could slide back. Kemi had both arms around him a moment later. He was breathing. Across the roof, the reel burned.
 
 Orli threw the damp sheet over the wheel and stopped its turning. Kemi dragged the loose tail clear. The blue crossing-turn and a fistful of pale stair light had stayed away from the burning hub; she wound them carefully around Orli's arm. Between them lay blackened scraps. Twenty-Third's awning-hold and the tailor's hem were gone. Other colors had burned with them.
 
