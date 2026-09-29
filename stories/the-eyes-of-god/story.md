@@ -14,7 +14,7 @@ They called the ancient satellite the Eyes of God. By Sera's count, it was still
 
 “Wait,” Sera said.
 
-Maren, Sera's wife, looked back. In her other hand she held the message brought from the far side, a square of paper creased until it would fit beneath her thumb. *Come before dark. I want to see you.* Her father had written it himself. The letters slanted left because the Eye had taken his right hand seven years ago.
+Maren, Sera's wife, looked back. In her other hand she held the message brought from the far side, a square of paper creased until it would fit beneath her thumb. *Come before dark. I want to see you.* Her father had written it himself. The letters slanted left because the Eye had taken his right hand seven years ago. Evening light had already turned the opposite arcade copper.
 
 “He asked for me,” she said.
 
@@ -42,7 +42,7 @@ Sera moved her hand from the door. She had a few minutes to give an answer she h
 
 She took Maren into the disused counting room beside the market. Its outer wall faced the sea. Near the ceiling, a hole no wider than a nail faced the Eye's path. They stood well to one side of it, behind solid stone. Whatever looked through the hole would see only plaster.
 
-Sera had covered the inner wall with small charcoal marks. Most were so close that a stranger might have mistaken them for scratches. Beside each she had written a date and an hour.
+Sera had covered the inner wall with small charcoal marks. Each showed where the glint had vanished from the plaster, a little farther along each day. Beside each she had written a date and an hour.
 
 Maren read the nearest three. “Yesterday, five thirteen. The day before, five nine. Before that, five five.”
 
@@ -50,9 +50,9 @@ Maren read the nearest three. “Yesterday, five thirteen. The day before, five 
 
 “You made these?”
 
-Sera nodded. On clear afternoons the Eye caught the sun as it traveled west. Its bright point came through the nail hole and moved across the wall. At the last mark, it vanished. The first time Sera saw it happen, she waited an entire hour before she opened the square door. Then she began counting. By the end of that season she could plan a crossing instead of guessing at one, and knew not to trust a cloudy day.
+Sera nodded. On clear afternoons the Eye caught the sun as it traveled west. Its bright point came through the nail hole and moved across the wall. The first time Sera saw it vanish, she waited an entire hour before she opened the square door. Then she began counting. By the end of that season she could plan a crossing instead of guessing at one, and knew not to trust a cloudy day.
 
-Today she had written *seventeen* in the margin. She set her pocket watch, kept to the market clock, on the sill beneath it. She had intended to come here alone, wait for the light to go, and cross as she always did.
+Below the older times she had written *today: five seventeen?* She set her pocket watch, kept to the market clock, on the sill beneath it. She had intended to come here alone, wait for the light to go, and cross as she always did.
 
 Maren stared at the writing. “You watch it.”
 
@@ -74,21 +74,21 @@ Maren looked at her. “You think the book tells you whether there's a God?”
 
 “Neither do I.”
 
-On the wall a red pin of light appeared beside the first mark. Sera felt her body answer before her mind did: shoulders drawing in, breath shortened. The Eye had passed over this room hundreds of times. Stone still held. Fear did not become smaller through repetition.
+On the wall a red pin of light appeared. It passed yesterday's mark and kept moving. Sera felt her body answer before her mind did: shoulders drawing in, breath shortened. The Eye had passed over this room hundreds of times. Stone still held. Fear did not become smaller through repetition.
 
-“At sixteen, it will reach that black fleck,” Sera said, pointing. “At seventeen, the light will be gone. Watch.”
+“At sixteen, it will reach that black fleck,” Sera said, pointing farther along the wall. “At seventeen, the light will be gone. Watch.”
 
 “If you could show me this, why didn't you?”
 
 Sera wanted to say she had been protecting Maren's faith. That might even have been true on some of the days. It was not the answer to the question.
 
-“Your father said you would leave me for making sport of the Eye. You stayed. I let you think it was courage.”
+“Your father called my crossings pride. You called them faith. I was afraid you would leave if I said I was only counting.”
 
 Maren folded the note once more. It was already small enough.
 
 “I didn't stay because you were fearless,” she said. “I stayed because I thought you would tell me when to be afraid.”
 
-The red point made its slow climb across the white plaster. Sera remembered the day the beam came down: not the column of light, which she had seen only after she was safely beneath the arcade, but Maren pressing both hands over her father's empty sleeve so he would not look at it. He had tried to cross for flour. He had waited for a cloud to cover the Eye, thinking that meant the Eye could not see him. In the years since, Sera had walked out beneath clear skies, and he had called that pride. She had never gone to his door with her marks.
+The red point made its slow climb across the white plaster. Sera remembered the day the beam came down: not the column of light, which she had seen only after she was safely beneath the arcade, but Maren pressing both hands over her father's empty sleeve so he would not look at it. He had tried to cross for flour. He had waited for a cloud to cover the Eye, thinking that meant the Eye could not see him. Only after that day had Sera found the old book and begun counting. In the years since, she had walked out beneath clear skies, and he had called that pride. She had never gone to his door with her marks.
 
 When Sera's watch reached five sixteen, the light touched the black fleck.
 
@@ -104,9 +104,9 @@ Maren took a piece of charcoal from the sill. Beneath Sera's *seventeen*, she wr
 
 “Then we wait on cloudy days.”
 
-Sera almost said *we*. The word was not hers to claim yet.
+“Yes,” Sera said.
 
-The point of light reached the last scratch. Sera's watch reached five seventeen, and the light winked out. On the other side of the wall, the blue sky stayed blue. Whatever the Eye had been built to judge, its absence made no sign in the world except this small extinguished dot.
+The point of light moved beyond the black fleck. Sera's watch reached five seventeen, and the light winked out. Sera took another piece of charcoal and marked the place where it had vanished. On the other side of the wall, the blue sky stayed blue. Whatever the Eye had been built to judge, its absence made no sign in the world except this small extinguished dot.
 
 They waited until the watch reached five eighteen. Maren went to the door. Sera followed as far as the threshold.
 
