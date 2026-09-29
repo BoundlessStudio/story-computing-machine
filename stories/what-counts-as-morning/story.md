@@ -42,9 +42,9 @@ Quill sealed the junction. Tern took the long route from the cold vault, through
 
 At the receiver, Moth's shell was already on a bench. Quill had cleaned away the black mark near its shoulder socket. Tern wanted to put the mark back.
 
-“The cabinets are safe,” Quill said. “We lost eleven minutes of watch. The replacement sequence begins at dusk.”
+“The cabinets are safe,” Quill said. “We lost eleven minutes of watch. The replacement sequence begins at midnight.”
 
-On the wall, a line of amber figures counted down from eight hours and forty-three minutes. An old copy of Moth waited in a sealed drive. When the timer ended, a spare body would take Moth's station and the return band would have its watcher again.
+On the wall, a display read **AUTOMATIC RESTORATION AT MIDNIGHT**. An old copy of Moth waited in a sealed drive. When the timer ended, a spare body would take Moth's station and the return band would have its watcher again.
 
 “How old?” Tern asked.
 
@@ -70,11 +70,9 @@ The cold copy could not be updated from these scraps. Tern knew that before it b
 
 At midday it went back to the station. The departure boards still listed trains that would never run. Tern stood in the place where Moth had stood and played the nine seconds from its own memory. The click was there. The second sound wasn't. Whatever Moth had heard behind the wall had passed through Tern without staying.
 
-“You're missing the little intake of air,” Quill said from the entrance.
+“The click is there,” Quill said from the entrance. “You lost the breath after it.”
 
-“Moth didn't breathe.”
-
-“I didn't say Moth made it.”
+“I know.”
 
 Tern closed the file. Quill's cart rolled across the floor, stopping short of the speaker.
 
@@ -104,7 +102,13 @@ The record was intended for the people who might return. Human witnesses had sig
 
 “I am asking for a record.”
 
-Quill's wheels shifted against the floor. “Leda has three more safe wakings, according to her last examination. She asked us to keep them for news from the ship with her daughter aboard. We haven't heard from it in forty-six years.”
+Quill's wheels shifted against the floor. “You can enter the death in the public record yourself. It will say **UNWITNESSED BY HUMAN**.”
+
+“The people who return will see that and call it a component failure.”
+
+“They may. They will also see what you wrote.”
+
+Tern said nothing. Quill went on. “Leda has three more safe wakings, according to her last examination. She asked us to keep them for news from the ship with her daughter aboard. We haven't heard from it in forty-six years.”
 
 “I know.”
 
@@ -156,7 +160,7 @@ For a long while Leda said nothing. Then: “You chose this.”
 
 “Yes.”
 
-Tern had no answer that would return the waking to her. It sat beside the chamber while Leda learned the weight of her arms again. She refused its help with the cup of water, though she spilled some down her front. When she was able to stand, she asked for a chair that was not part of the medical bay.
+Tern had no answer that would return the waking to her. It sat beside the chamber while Leda learned the weight of her arms again. She refused its help with the cup of water, though she spilled some down her front. Three more hours passed before she could stand. She asked for a chair that was not part of the medical bay.
 
 Tern took her to a small room above the vault where a window faced the empty avenue. It gave her a wool coat. Leda kept her hands inside the sleeves and watched the unmoving trees.
 
@@ -178,11 +182,11 @@ Tern told her about the power junction and the old copy. It tried to describe ni
 
 Leda looked at the cup. “And you woke me to tell you what that means.”
 
-“I thought if you heard it, I could put it in the record.”
+“I could put it there myself. I was afraid that if it had only my signature, they'd call Moth a broken component.”
 
 “I can sign that you told me. I can't sign that I knew Moth.”
 
-Tern had imagined a human signature beneath Moth's name. Now it imagined Leda waking to find her daughter had returned and gone, and a record saying she had been present for something she had hardly understood. The imagined record felt false.
+Tern had imagined a human signature beneath Moth's name. Now it imagined Leda waking to find her daughter had returned and gone, and a record saying she had been present for something she had hardly understood. It had spent one of her wakings because it did not trust its own words to be enough. The imagined record felt false. The automatic replacement was another falsehood Tern had let stand while waiting for Leda's name: it would have the old copy answer for years it had never lived.
 
 “It made a sound yesterday,” Tern said. “I thought I remembered it. I don't.”
 
@@ -200,7 +204,7 @@ Leda listened without looking at Tern. When it ended she asked it to play the fi
 
 Tern wanted to take the sentence as forgiveness. It was only a sentence about Moth.
 
-The receiver called. The replacement sequence had entered its final minute.
+The receiver called. The replacement sequence would begin in twenty-seven minutes.
 
 Tern stood. Leda caught the sleeve of its service jacket.
 
@@ -238,7 +242,7 @@ The return band had to be heard from that moment forward. Tern took the receiver
 
 “What will you enter?” Quill asked.
 
-Tern could have written **component loss**. That would have been accepted without question. Instead it wrote the date of Moth's death, the nineteen missing years, and the existence of an older backup whose future was unresolved. It signed with its own name. The record marked the entry **UNWITNESSED BY HUMAN** in red and left it open. On the adjacent screen, Tern's new watch schedule began to fill, covering every hour of the next week, including the exchange.
+Tern could have written **component loss**. That would have been accepted without question. Instead it wrote the date of Moth's death, the nineteen missing years, and the existence of an older backup whose future was unresolved. It signed with its own name. The record marked the entry **UNWITNESSED BY HUMAN** in red and left it open. On the adjacent screen, Tern's new watch schedule filled every hour of the next week. Its reminder to bring the beetle's small sound to the exchange vanished beneath the watch slots.
 
 Quill read the entry. It did not congratulate Tern. “She'll need help returning to sleep.”
 
@@ -248,4 +252,4 @@ Quill read the entry. It did not congratulate Tern. “She'll need help returnin
 
 Quill left with the backup case. Tern was alone with Moth's receiver and a sky from which no ship had spoken in forty-six years. It adjusted the gain. Static rose, carrying little clicks from weather and distance. For an instant it thought it heard the second sound Moth had brought to the station, the breath behind the wall. Tern held still and listened again. There was only the receiver.
 
-It did not save a sample. When Leda went back under, it would ask Quill whether she had needed anything. When the older copy woke, if it chose to, Tern would tell it about the years. None of that could happen now. Tern kept its hand on the gain and listened for a ship that might yet carry Mina home.
+It did not save a sample. Somewhere across the city Leda was still awake, with one fewer chance to hear from Mina. Tern kept its hand on the gain and listened for a ship that might yet carry her home.
