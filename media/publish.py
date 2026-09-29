@@ -7,15 +7,15 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
 import json
 import os
-from pathlib import Path, PurePosixPath
+from pathlib import Path
 import re
 import time
 from urllib.error import URLError
-from urllib.parse import quote, urlsplit
+from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
 from .assets import CONTENT_TYPES, IMMUTABLE_CACHE, INDEX_KEY, base_url, object_key, public_url, sha256, source_file
-from .manifest import ROOT, selected_paths, selection_notes, tracked_paths
+from .manifest import ROOT, selected_paths, tracked_paths
 
 
 MAX_CACHE_AGE = 7 * 24 * 60 * 60
@@ -34,8 +34,7 @@ def load_manifest(path: Path, root: Path) -> tuple[dict, list[dict]]:
     if manifest["indexUrl"] != public_url(origin, INDEX_KEY):
         raise ValueError("Invalid public index URL")
     tracked = tracked_paths(root)
-    excluded, corrections = selection_notes(root, tracked)
-    expected_paths = selected_paths(tracked, excluded, corrections)
+    expected_paths = selected_paths(tracked)
     seen = set()
     unique = {}
     for entry in manifest["assets"]:
@@ -60,17 +59,10 @@ def load_manifest(path: Path, root: Path) -> tuple[dict, list[dict]]:
 
 
 def object_headers(entry: dict) -> dict:
-    headers = {
+    return {
         "ContentType": entry["contentType"], "CacheControl": IMMUTABLE_CACHE,
         "Metadata": {"sha256": entry["sha256"]},
     }
-    if entry["contentType"] == "application/pdf":
-        name = PurePosixPath(entry["key"]).name
-        fallback = re.sub(r"[^a-zA-Z0-9._-]", "_", name)
-        headers["ContentDisposition"] = (
-            f'attachment; filename="{fallback}"; filename*=UTF-8\'\'{quote(name, safe="")}'
-        )
-    return headers
 
 
 def head_object(client, bucket: str, key: str):
@@ -115,8 +107,6 @@ def verify_public(entry: dict, attempts: int = 5) -> None:
                     "Content-Length": str(entry["size"]),
                     "Cache-Control": IMMUTABLE_CACHE,
                 }
-                if entry["contentType"] == "application/pdf":
-                    expected["Content-Disposition"] = object_headers(entry)["ContentDisposition"]
                 if response.status != 200 or any(response.headers.get(k) != v for k, v in expected.items()):
                     raise ValueError("Public asset headers differ from R2")
             return

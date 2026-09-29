@@ -12,7 +12,7 @@ from .assets import CONTENT_TYPES, INDEX_KEY, base_url, object_key, public_url, 
 
 
 ROOT = Path(__file__).resolve().parents[1]
-IMAGE_TYPES = {suffix for suffix in CONTENT_TYPES if suffix != ".pdf"}
+IMAGE_TYPES = set(CONTENT_TYPES)
 
 
 def tracked_paths(root: Path) -> set[str]:
@@ -20,34 +20,7 @@ def tracked_paths(root: Path) -> set[str]:
     return {path for path in output.decode("utf-8").split("\0") if path}
 
 
-def selection_notes(root: Path, tracked: set[str]) -> tuple[set[str], dict[str, str]]:
-    notes = json.loads((root / "art" / "selection-notes.json").read_text(encoding="utf-8"))
-    if not isinstance(notes, dict) or set(notes) != {"excluded", "selectedCorrections"}:
-        raise ValueError("Invalid art selection notes")
-    excluded = set()
-    corrections = {}
-    selected_targets = set()
-    for item in notes["excluded"]:
-        path = item["file"]
-        if path in excluded or path not in tracked:
-            raise ValueError(f"Duplicate or missing excluded artwork: {path}")
-        excluded.add(path)
-    for item in notes["selectedCorrections"]:
-        original, selected = item["original"], item["selected"]
-        original_parts, selected_parts = PurePosixPath(original).parts, PurePosixPath(selected).parts
-        if (original in corrections or selected in selected_targets or original not in tracked
-                or selected not in tracked or len(original_parts) != 5 or len(selected_parts) != 6
-                or original_parts[:4] != selected_parts[:4]
-                or selected_parts[4] != "selected" or original_parts[4] != selected_parts[5]
-                or original_parts[3] not in {"landscapes", "interiors"}):
-            raise ValueError(f"Invalid selected correction: {original} -> {selected}")
-        corrections[original] = selected
-        selected_targets.add(selected)
-    return excluded, corrections
-
-
-def selected_paths(tracked: set[str], excluded: set[str], corrections: dict[str, str]) -> list[str]:
-    selected_targets = set(corrections.values())
+def selected_paths(tracked: set[str]) -> list[str]:
     chosen = []
     for path in sorted(tracked):
         parts = PurePosixPath(path).parts
@@ -56,24 +29,10 @@ def selected_paths(tracked: set[str], excluded: set[str], corrections: dict[str,
             chosen.append(path)
         elif len(parts) >= 5 and parts[0] == "stories" and parts[2] == "art":
             collection = parts[3]
-            if collection == "characters" and len(parts) == 5 and suffix in IMAGE_TYPES:
-                if path not in excluded:
-                    chosen.append(path)
-            elif collection in {"landscapes", "interiors"} and suffix in IMAGE_TYPES:
-                if len(parts) == 5 and path not in excluded and path not in corrections:
-                    chosen.append(path)
-                elif len(parts) == 6 and path in selected_targets:
-                    chosen.append(path)
-        elif len(parts) == 3 and parts[0] == "illustrated" and parts[2] in {"cover.jpg", "edition.pdf"}:
-            chosen.append(path)
-        elif len(parts) == 4 and parts[0] == "illustrated" and parts[2] == "illustrations" and suffix in IMAGE_TYPES:
-            chosen.append(path)
-        elif len(parts) == 3 and parts[0] == "graphic-novels" and parts[2] in {"cover.png", "edition.pdf"}:
-            chosen.append(path)
-        elif len(parts) == 4 and parts[0] == "graphic-novels" and parts[2] == "pages" and suffix in IMAGE_TYPES:
-            chosen.append(path)
-    if not chosen or not selected_targets.issubset(chosen):
-        raise ValueError("Selected artwork is missing from the public media set")
+            if collection in {"characters", "landscapes", "interiors"} and len(parts) == 5 and suffix in IMAGE_TYPES:
+                chosen.append(path)
+    if not chosen:
+        raise ValueError("No story art found for the public media set")
     return chosen
 
 
@@ -81,8 +40,7 @@ def build(root: Path, origin: str, tracked: set[str] | None = None, commit: str 
     root = root.resolve()
     origin = base_url(origin)
     tracked = tracked_paths(root) if tracked is None else tracked
-    excluded, corrections = selection_notes(root, tracked)
-    paths = selected_paths(tracked, excluded, corrections)
+    paths = selected_paths(tracked)
     if commit is None:
         commit = subprocess.check_output(["git", "-C", str(root), "rev-parse", "HEAD"], text=True).strip()
     assets = []

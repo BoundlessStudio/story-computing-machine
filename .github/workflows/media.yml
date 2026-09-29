@@ -8,17 +8,10 @@ on:
     paths:
       - .github/workflows/media.yml
       - media/**
-      - art/selection-notes.json
       - stories/**/title-image.jpg
       - stories/**/art/characters/**
       - stories/**/art/landscapes/**
       - stories/**/art/interiors/**
-      - illustrated/**/cover.jpg
-      - illustrated/**/edition.pdf
-      - illustrated/**/illustrations/**
-      - graphic-novels/**/cover.png
-      - graphic-novels/**/edition.pdf
-      - graphic-novels/**/pages/**
   workflow_dispatch:
     inputs:
       verify_all_media:
@@ -50,21 +43,13 @@ jobs:
           git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_REF"
           git sparse-checkout set --no-cone -- \
             '/media/' \
-            '/art/selection-notes.json' \
             '/stories/*/title-image.jpg' \
             '/stories/*/art/characters/' \
             '/stories/*/art/landscapes/' \
-            '/stories/*/art/interiors/' \
-            '/illustrated/*/cover.jpg' \
-            '/illustrated/*/edition.pdf' \
-            '/illustrated/*/illustrations/' \
-            '/graphic-novels/*/cover.png' \
-            '/graphic-novels/*/edition.pdf' \
-            '/graphic-novels/*/pages/'
+            '/stories/*/art/interiors/'
           git checkout --detach FETCH_HEAD
           test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
           test -f media/manifest.py
-          test -f art/selection-notes.json
 
       - uses: actions/setup-python@v5
         with:

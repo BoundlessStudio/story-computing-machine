@@ -9,7 +9,7 @@ from urllib.parse import quote, urlsplit
 
 CONTENT_TYPES = {
     ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png",
-    ".webp": "image/webp", ".pdf": "application/pdf",
+    ".webp": "image/webp",
 }
 IMMUTABLE_CACHE = "public, max-age=31536000, immutable"
 INDEX_KEY = "manifests/story-computing-machine-art-v1.json"
