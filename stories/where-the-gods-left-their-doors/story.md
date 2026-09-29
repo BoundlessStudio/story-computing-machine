@@ -10,7 +10,7 @@ Talia carried her mother's stool out of the fire because her mother was trying t
 
 It had three legs and a worn crescent in the seat. It was not worth a house. Talia got the stool under one arm, took her mother's wrist with the other hand, and pulled her away as the roof of their lane went down in sparks.
 
-They reached the old temple with eight neighbors. One had a blanket around two children. Another carried a loaf blackened on one side. The temple had stood through worse fires when the Hearth Nine lived there, and its stone walls held now. The vestibule had no door left, though. Wind came through the opening and gathered the smoke around their feet.
+They reached the old temple with eight neighbors, including two children. The children's father had wrapped them both in a blanket. Another neighbor carried a loaf blackened on one side. The temple had stood through worse fires when the Hearth Nine lived there, and its stone walls held now. The vestibule had no door left, though. Wind came through the opening and gathered the smoke around their feet.
 
 “The inner rooms?” one of the neighbors asked.
 
@@ -42,7 +42,7 @@ Talia laid her palm against the ribs. They tightened around the heel of her hand
 
 Her mother caught her sleeve. “It opened. That doesn't mean anyone invited us.”
 
-Outside the temple, a child began to cough. Talia looked back. The others were bent around their small bundles, waiting for her to decide whether the space behind the wall was large enough to help.
+Behind her, a child began to cough. Talia looked back. The others were bent around their small bundles, waiting for her to decide whether the space behind the wall was large enough to help.
 
 “I'll find out what's there,” she said.
 
@@ -90,7 +90,7 @@ Her mother walked to the far end of the hall. Talia followed past every empty se
 
 “They visited,” her mother said. “They had to agree which court hosted the winter guests.”
 
-The arch led into a passage with small doors along both sides and a larger one at its end. The larger door was open. Beyond it stood three thrones on a height of black stone. The Storm Three had sat there when the yearly treaty was renewed; there were paintings, receipts, and the rain-signed parchment to prove it. Past the thrones ran a covered arcade, the way Talia's mother remembered to the guest annex. Now clouds hung close under the ceiling, translucent and hard-edged as cut glass. Their shadows moved over the thrones though nothing sat in them.
+The arch led into a passage with small doors along both sides and a larger one at its end. The larger door was open. Beyond it stood three thrones on a height of black stone. The Storm Three had sat there when the yearly treaty was renewed; there were paintings, receipts, and the rain-signed parchment to prove it. Past the thrones ran a covered arcade; her mother remembered following it through a brick court to the guest annex. Now clouds hung close under the ceiling, translucent and hard-edged as cut glass. Their shadows moved over the thrones though nothing sat in them.
 
 Talia took a step onto the black floor. A clear pellet struck beside her boot and broke into shards. Another struck the empty middle throne, then a scatter of them rattled down the steps. Her mother pulled her back under the arch. A thin piece cut through the outer layer of Talia's sleeve and stopped against her skin.
 
@@ -120,7 +120,7 @@ Warm air moved through the opening. For one breath she thought of bringing every
 
 Her mother had seen it too. She stood with her hand braced against the passage wall, looking toward the frame as if expecting its forest to show through the black stone again.
 
-The next small door opened at Talia's push. Red grass bent away from a white road. Seven-spoked wheels were cut into its verge stones, the mark of the Road Seven, whose shrines in Talia's city had been empty since before her mother was born. Overhead, doors drifted through a blue sky, some no larger than a palm and one wider than the temple roof. Far down the road a sleeping creature carried a city on its plated back. Copper towers and crooked awnings rose and fell with each breath. Among them stood an old stone shrine with the same wheel cut above its entrance. Copper braces held its cracked walls together; someone had built a stall against the side.
+The next small door opened at Talia's push. Red grass bent away from a white road. Seven-spoked seams ran through its stone and out across patches of bare ground. Talia had studied the city's survey made when witnesses saw the Road Seven roll this plain across what had been empty sky. Their shrines had stood empty since before her mother was born. Overhead, doors drifted through a blue sky, some no larger than a palm and one wider than the temple roof. Far down the road a sleeping creature carried a city on its plated back. Copper towers and crooked awnings rose and fell with each breath. Among them stood an old stone shrine with the same wheel cut above its entrance. Copper braces held its cracked walls together; someone had built a stall against the side.
 
 “They live there,” Talia said.
 
@@ -132,9 +132,9 @@ A figure moved under one of the awnings. Smoke gathered across the road near a g
 
 “Both.”
 
-One plain door remained in the passage. It had no handle Talia could find. Her mother knelt beside it and rubbed dust from an open hand carved near the floor.
+One plain door remained in the passage. Twin wheel tracks ran beneath it. Her mother knelt beside an open hand carved near the floor.
 
-“I know this mark. The servants brought extra beds this way.” She felt along the edge until her fingers found a recessed catch. “We were told to leave it shut. I thought they'd sealed it with the rest.”
+“I know this mark. The servants brought extra beds this way. We were told to leave it shut.” She put her palm against the door and pushed.
 
 The door swung inward. On the other side was a room with narrow windows and a pale stripe of afternoon along one wall. Shelves stood empty between low niches. There was space along both walls for ten bedrolls, perhaps more, but the middle of the floor bore the polished tracks of wheels. Warm air came from an open arch at the far end, taking the bite off the stones.
 
@@ -188,7 +188,7 @@ Talia had wanted a shut room with no other claims in it. She pictured the great 
 
 She rolled between them. Talia and her mother stepped back into a niche until the last bowl cleared. Then they retraced the passage, leaving the warm room waiting.
 
-At the great hall her mother stopped beside the small bench where she had once stood to count plates. Talia did not ask whether she was reconsidering. The mother put her fingers against its dusty edge, then walked on.
+At the great hall her mother stopped beside the small bench where she had once stood to count plates. Talia did not ask whether she was reconsidering. Her mother put her fingers against its dusty edge, then walked on.
 
 The living gate opened when Talia set her palm to it from inside. In the temple vestibule, the neighbors had piled blankets against the wind. One child was asleep upright against her father's shoulder. The burned loaf had been cut into ten thin pieces. When Talia said there was room, nobody asked which god had granted it. They gathered the bread, lifted the child, and followed her through.
 
@@ -200,7 +200,7 @@ Talia went back for the three-legged stool. She had left it against the temple w
 
 “You used to sit by the temple entrance,” Talia said.
 
-“The living gate opens for you.” Her mother sat, tested the stool's legs on the stone, and moved it an inch to clear the carved walk line. “This doorway needs watching.”
+“The living gate opens for you.” Her mother sat, tested the stool's legs on the stone, and moved it an inch to clear the carved walk line. “This one has people coming through.”
 
 From the kiln court the worker called that she had another load. Talia lifted the end of a neighbor's blanket back from the line. Her mother gave the worker room to pass, then turned to the child who had woken and was standing in the aisle with his piece of bread.
 
