@@ -1,2 +1,4 @@
+# Repository policy is in AGENTS.md; the README files map story and universe content.
+# Role-specific instructions are in .codex/agents/.
 [agents]
 enabled = true
