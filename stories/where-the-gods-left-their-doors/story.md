@@ -8,13 +8,13 @@ canon: false
 
 Talia carried her mother's stool out of the fire because her mother was trying to go back for it.
 
-It had three legs and a worn crescent in the seat. It was not worth a house, and neither was the little brass tally box her mother had already saved. Talia got the stool under one arm, took her mother's wrist with the other hand, and pulled her away as the roof of their lane went down in sparks.
+It had three legs and a worn crescent in the seat. It was not worth a house. Talia got the stool under one arm, took her mother's wrist with the other hand, and pulled her away as the roof of their lane went down in sparks.
 
 They reached the old temple with eight neighbors. One had a blanket around two children. Another carried a loaf blackened on one side. The temple had stood through worse fires when the Hearth Nine lived there, and its stone walls held now. The vestibule had no door left, though. Wind came through the opening and gathered the smoke around their feet.
 
 “The inner rooms?” one of the neighbors asked.
 
-Talia's mother took the tally box from under her coat. “Sealed.”
+Talia's mother shook her head. “Sealed.”
 
 “We could sleep in the hall.”
 
@@ -30,7 +30,7 @@ Behind it lay something pink and ribbed. It withdrew from the cold air, then pre
 
 “Mother.”
 
-Her mother set down the tally box. She pushed Talia's hand aside, held two fingers close to the living surface, and spoke the old three-note summons. Talia remembered hearing it at bedtime when she was small. In those days it meant a visitor inside wanted the human door opened for them. Her mother sounded every note correctly. Nothing moved.
+Her mother pushed Talia's hand aside, held two fingers close to the living surface, and spoke the old three-note summons. Talia remembered hearing it at bedtime when she was small. In those days it meant a visitor inside wanted the human door opened for them. Her mother sounded every note correctly. Nothing moved.
 
 She tried once more, softer. The growth kept its slow pulse.
 
@@ -58,9 +58,9 @@ The passage was two steps deep. On the third, the ceiling lifted away from her. 
 
 The table was laid with plates of pale stone. Dust had settled into the shallow hollows where the food would have gone. At its center stood a hearth tall enough for Talia to walk into without lowering her head. Its logs were still stacked, but every piece was cold and furred with ash.
 
-There was a tenth place at the table's near end, small enough for a human hand. Its plate had been turned upside down to keep the dust out. Talia righted it. On the underside someone had scratched a row of dates, each beside a visitor's name. The last date was from the year the Nine departed. There was room below it for more.
+There was a tenth place at the table's near end, small enough for a human hand. Its plate had been turned upside down to keep the dust out. Talia righted it. On the underside someone had scratched a row of dates, each beside a visitor's name. The last date was from the year the Nine departed.
 
-Her mother came through behind her. For a moment she looked exactly as she used to at the temple entrance, counting what a guest had brought and whether there was room at the table. Then she looked at the empty seats and put one hand over the tally box.
+Her mother came through behind her. For a moment she looked exactly as she used to at the temple entrance, counting what a guest had brought and whether there was room at the table. Then she looked at the empty seats.
 
 “I used to stand there,” she said, pointing to the smallest bench. “If the Nine ran out of plates, I had to fetch more. They didn't run out often.”
 
@@ -84,21 +84,23 @@ Talia went to the hearth. No heat waited beneath the ash. Across the hall, wide 
 
 Talia thought of the loaf outside, its burned crust and sound middle. She had wanted to find a room, not a banquet, but the bare plates made her hungry anyway.
 
+“There was a guest annex beyond the Storm Three's court,” her mother said. “People slept there when the treaties ran late. I haven't walked there since the house was sealed, but I can try to find it.”
+
 Her mother walked to the far end of the hall. Talia followed past every empty seat. None had been pushed back as if its owner had only risen for a moment. Dust lay undisturbed on the arms. At the end was a narrower arch. Above it, two carved hands met without joining. One bore the Nine's hearth mark; the other held the forked crown of the Storm Three.
 
 “They visited,” her mother said. “They had to agree which court hosted the winter guests.”
 
-The arch led into a passage with small doors along both sides and a larger one at its end. The larger door was open. Beyond it stood three thrones on a height of black stone. The Storm Three had sat there when the yearly treaty was renewed; there were paintings, receipts, and the rain-signed parchment to prove it. Now clouds hung close under the ceiling, translucent and hard-edged as cut glass. Their shadows moved over the thrones though nothing sat in them.
+The arch led into a passage with small doors along both sides and a larger one at its end. The larger door was open. Beyond it stood three thrones on a height of black stone. The Storm Three had sat there when the yearly treaty was renewed; there were paintings, receipts, and the rain-signed parchment to prove it. Past the thrones ran a covered arcade, the way Talia's mother remembered to the guest annex. Now clouds hung close under the ceiling, translucent and hard-edged as cut glass. Their shadows moved over the thrones though nothing sat in them.
 
 Talia took a step onto the black floor. A clear pellet struck beside her boot and broke into shards. Another struck the empty middle throne, then a scatter of them rattled down the steps. Her mother pulled her back under the arch. A thin piece cut through the outer layer of Talia's sleeve and stopped against her skin.
 
-Three tall standards stood behind the thrones. Their fabric had fallen away, leaving bare poles and bronze catches. Hail struck the catches in irregular bright notes. Beneath them lay strips of colorless cloth stiff with old mineral deposits. Talia waited for the fall to slacken so she could cross to the sheltered side. It grew heavier instead, covering the first step until its edge could no longer be seen.
+Three tall standards stood behind the thrones. Their fabric had fallen away, leaving bare poles and bronze catches. Hail struck the catches in irregular bright notes. Beneath them lay strips of colorless cloth stiff with old mineral deposits. Talia waited for the fall to slacken so they could cross to the arcade. It grew heavier instead, covering the first step until its edge could no longer be seen.
 
 “Was it like this when they lived here?” Talia asked.
 
 “No.” Her mother watched the hail strike the thrones. “When they wanted rain, they went outside.”
 
-The three seats remained empty while the weather worked above them. Talia had wondered, as she crossed the great hall, whether the Nine might still be somewhere in their house, too distant to hear. She looked at the storm court until the hail filled the steps with glittering chips. There was nowhere to call for anyone. Her mother had already turned down the passage, searching its smaller doors.
+The three seats remained empty while the weather worked above them. Talia had wondered, as she crossed the great hall, whether the Nine might still be somewhere in their house, too distant to hear. She looked at the storm court until the hail filled the steps with glittering chips. There was nowhere to call for anyone. Her mother had already turned down the passage, searching its smaller doors for another way to the annex.
 
 One of them had no handle, only a black frame set by itself in a recess. Color flowed along the floor toward it in narrow living streams. Red curled up one side, blue over the lintel, green along the other side, with darker strands passing beneath. The currents divided around Talia's boots and joined again. Her mother lifted her hem clear.
 
@@ -118,11 +120,11 @@ Warm air moved through the opening. For one breath she thought of bringing every
 
 Her mother had seen it too. She stood with her hand braced against the passage wall, looking toward the frame as if expecting its forest to show through the black stone again.
 
-The next small door opened at Talia's push. Red grass bent away from a white road. Overhead, doors drifted through a blue sky, some no larger than a palm and one wider than the temple roof. Far down the road a sleeping creature carried a city on its plated back. Copper towers and crooked awnings rose and fell with each breath. Among them stood an old stone shrine with the Storm Three's forked crown on its face. Copper braces held its cracked walls together; someone had built a stall against the side.
+The next small door opened at Talia's push. Red grass bent away from a white road. Seven-spoked wheels were cut into its verge stones, the mark of the Road Seven, whose shrines in Talia's city had been empty since before her mother was born. Overhead, doors drifted through a blue sky, some no larger than a palm and one wider than the temple roof. Far down the road a sleeping creature carried a city on its plated back. Copper towers and crooked awnings rose and fell with each breath. Among them stood an old stone shrine with the same wheel cut above its entrance. Copper braces held its cracked walls together; someone had built a stall against the side.
 
 “They live there,” Talia said.
 
-A figure moved under one of the awnings. Smoke gathered across the road near a gate and took a shape she could not read from this distance. The grass before the threshold would give no shelter from the night air behind them, and the sleeping creature already carried a city's worth of people. Talia closed the door carefully. Her mother touched the old crown carved above the frame before moving on.
+A figure moved under one of the awnings. Smoke gathered across the road near a gate and took a shape she could not read from this distance. The grass before the threshold would give no shelter from the night air behind them, and the sleeping creature already carried a city's worth of people. Talia closed the door carefully. Her mother touched one of the wheels cut into the frame before moving on.
 
 “They kept the shrine,” she said.
 
@@ -130,41 +132,41 @@ A figure moved under one of the awnings. Smoke gathered across the road near a g
 
 “Both.”
 
-Heat met them at the next arch. Beyond it lay brick galleries and firing pits. People with horns worked among racks of glazed bowls, passing boards of wet ware hand to hand. An old relief rose along one wall: a god with three arms holding a vessel over a kneeling visitor. The vessel's rim now supported the end of a kiln shelf. The workers had packed clay around it, not scraped it away. A white goose pursued a child between the racks until an adult scooped the child onto her hip.
+One plain door remained in the passage. It had no handle Talia could find. Her mother knelt beside it and rubbed dust from an open hand carved near the floor.
 
-Talia had been looking for an empty room. She was still looking when a worker stepped through the arch into the passage carrying six newly glazed bowls on a flat board.
+“I know this mark. The servants brought extra beds this way.” She felt along the edge until her fingers found a recessed catch. “We were told to leave it shut. I thought they'd sealed it with the rest.”
+
+The door swung inward. On the other side was a room with narrow windows and a pale stripe of afternoon along one wall. Shelves stood empty between low niches. There was space along both walls for ten bedrolls, perhaps more, but the middle of the floor bore the polished tracks of wheels. Warm air came from an open arch at the far end, taking the bite off the stones.
+
+Beyond the arch lay brick galleries and firing pits. People with horns worked among racks of glazed bowls, passing boards of wet ware hand to hand. An old relief rose along one wall: a god with three arms holding a vessel over a kneeling visitor. The vessel's rim now supported the end of a kiln shelf. The workers had packed clay around it, not scraped it away. A white goose pursued a child between the racks until an adult scooped the child onto her hip.
+
+Talia had found the room her mother remembered. She was still deciding how many could sleep there when a worker came through the hot arch with six newly glazed bowls on a flat board. Her horns had brass caps. She lowered the board onto a trolley in the center of the annex.
 
 “Stand back,” the worker said. “Glaze is wet.”
 
-Talia moved. The worker passed her and turned into an unlit doorway opposite. Her horns had brass caps. A cloth over one shoulder kept the board from smearing her coat.
+Talia moved. The worker turned the trolley toward the door they had just opened.
 
-Talia waited for her to come back. “What room is that?”
+“You carry these through the guest passage?” Talia asked.
 
-“The guest annex.” The worker lowered the board onto a trolley inside and wiped a thumb against her apron. “Why?”
-
-“We need a place to sleep.”
-
-The worker looked from Talia to her mother, then toward the living gate far behind them. “You came through the old house?”
+“To the red-grass road. Market takes our ware.” The worker looked from Talia to her mother, then toward the open service door. “You came through the old house?”
 
 “From the temple,” Talia said.
 
-“I thought that side had died.” She glanced at Talia's soot-black sleeve. “How many?”
+“I thought the temple side had died.” She glanced at Talia's soot-black sleeve. “How many?”
 
-“Ten. Two are children.”
+“Ten. Two are children. We need a place to sleep.”
 
-“Not in the center.” The worker pointed into the annex. “We carry through here.”
-
-Talia stepped past the trolley. The room had narrow windows. A pale stripe of afternoon lay along one wall, and warm air from the kiln court took the bite off the stones. Shelves stood empty between low niches. There was space along both walls for ten bedrolls, perhaps more, but the middle of the floor bore the polished tracks of wheels. At the far end another door stood open onto the passage.
+“Not in the center.” The worker pointed down the wheel tracks. “We carry through here.”
 
 It was almost exactly what Talia had hoped to find. It was also clearly in use.
 
 “We'd leave a path,” she said.
 
-“People say that before they're asleep.” The worker tipped the trolley to show how far its handles swept. “We move ware before dawn. If I have to wake your children to pass, the bowls will break and they'll be frightened. Then everyone is angry at me.”
+“People say that before they're asleep.” The worker spread her arms to show how far the trolley's handles swept. “We move ware before dawn. If I have to wake your children to pass, the bowls will break and they'll be frightened. Then everyone is angry at me.”
 
 Talia looked at the room's width again. A blanket laid close against each wall would leave the wheel tracks clear. The doors at both ends would need space too. The people waiting in the temple had no other dry floor she knew of. But the worker's trolley was here now, not in a tale about the gods' return. She could not ask the woman to vanish from her own work.
 
-Her mother knelt beside one of the niches. She brushed soot from a line carved at knee height: a small open hand, then a measure marked in finger widths.
+Her mother knelt beside one of the niches. She brushed dust from a line carved at knee height: a small open hand, then a measure marked in finger widths.
 
 “Mortal guests slept here,” she said. “The beds were kept back to this line.” She touched a second line nearer the wheel tracks. “The center was a walk. We used to leave it clear for the Nine's visitors.”
 
@@ -192,13 +194,13 @@ The living gate opened when Talia set her palm to it from inside. In the temple 
 
 The crossing frightened them. The great hall stopped them all. Talia let them look at the empty seats and the cold hearth. Her mother told the children which side of the table had belonged to mortal guests and guided them onward before they could sit on the stone and freeze.
 
-In the annex, Talia laid the first blanket along the marked wall. A neighbor laid another beside it. The man with the loaf passed the remaining pieces around while the children chose niches and disputed which one was warmest. Through the open doorway came the clack of trolley wheels and a goose's distant outrage. No one had yet slept, but their shoulders had begun to lower.
+In the annex, Talia laid the first blanket along the marked wall. A neighbor laid another beside it. The man with the loaf passed the remaining pieces around while the children chose niches and disputed which one was warmest. From the guest passage came the clack of trolley wheels; from the kiln court, a goose's distant outrage. No one had yet slept, but their shoulders had begun to lower.
 
-Talia went back for the three-legged stool. She had left it against the temple wall in her hurry. Her mother took it at the gate and carried it past the great table, the storm arch, and the black frame with its restless colors. She placed it just inside the annex doorway facing the guest passage, beyond the sweep of the worker's trolley.
+Talia went back for the three-legged stool. She had left it against the temple wall in her hurry. She carried it through the living gate, past the great table, the storm arch, and the black frame with its restless colors. Her mother took it at the annex doorway and placed it just inside, beyond the sweep of the worker's trolley.
 
-“Your seat was by the other door,” Talia said.
+“You used to sit by the temple entrance,” Talia said.
 
-“That door has found someone to open it.” Her mother sat, tested the stool's legs on the stone, and moved it an inch to clear the carved walk line. “This one has people coming through.”
+“The living gate opens for you.” Her mother sat, tested the stool's legs on the stone, and moved it an inch to clear the carved walk line. “This doorway needs watching.”
 
 From the kiln court the worker called that she had another load. Talia lifted the end of a neighbor's blanket back from the line. Her mother gave the worker room to pass, then turned to the child who had woken and was standing in the aisle with his piece of bread.
 
