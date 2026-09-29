@@ -182,11 +182,11 @@ Tern told her about the power junction and the old copy. It tried to describe ni
 
 Leda looked at the cup. “And you woke me to tell you what that means.”
 
-“I could put it there myself. I was afraid that if it had only my signature, they'd call Moth a broken component.”
+“I could put it in the public record myself. I was afraid that if it had only my signature, they'd call Moth a broken component.”
 
 “I can sign that you told me. I can't sign that I knew Moth.”
 
-Tern had imagined a human signature beneath Moth's name. Now it imagined Leda waking to find her daughter had returned and gone, and a record saying she had been present for something she had hardly understood. It had spent one of her wakings because it did not trust its own words to be enough. The imagined record felt false. The automatic replacement was another falsehood Tern had let stand while waiting for Leda's name: it would have the old copy answer for years it had never lived.
+Tern had imagined a human signature beneath Moth's name. Now it imagined Leda waking to find her daughter had returned and gone, and a record saying she had been present for something she had hardly understood. The imagined record felt false. Tern had also let the automatic replacement stand while it waited for Leda's name; that sequence would make the old copy answer for years it had never lived.
 
 “It made a sound yesterday,” Tern said. “I thought I remembered it. I don't.”
 
@@ -247,8 +247,6 @@ Tern could have written **component loss**. That would have been accepted withou
 Quill read the entry. It did not congratulate Tern. “She'll need help returning to sleep.”
 
 “Please go to her,” Tern said.
-
-“You can still call.”
 
 Quill left with the backup case. Tern was alone with Moth's receiver and a sky from which no ship had spoken in forty-six years. It adjusted the gain. Static rose, carrying little clicks from weather and distance. For an instant it thought it heard the second sound Moth had brought to the station, the breath behind the wall. Tern held still and listened again. There was only the receiver.
 
