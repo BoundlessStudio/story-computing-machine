@@ -36,7 +36,7 @@ Kemi looked back toward the market. Her mother was upright, collecting pepper ca
 
 Orli followed her eyes. “Right,” she said.
 
-At Seventh's painted bend, Orli told her, the crossing-turn had gone out while her brother and his friends were skating their usual late run. They had stopped short of the blind corner. The boy in silver had cut the lit blue reply from the wall during their cast, exactly as he had cut Kemi's amber one. Orli had followed him for six blocks, alone, certain she could turn him into an alley and take back the mark. She had now learned what Kemi already knew about a moving bicycle.
+At Seventh's painted bend, Orli told her, the crossing-turn had gone out while her brother and his friends were skating their usual late run. They had stopped short of the blind corner. The man in silver had cut the lit blue reply from the wall during their cast, exactly as he had cut Kemi's amber one. Orli had followed him for six blocks, alone, certain she could turn him into an alley and take back the mark. She had now learned what Kemi already knew about a moving bicycle.
 
 From the market came the sound of her mother's stall frame lifting in the wind. Kemi began to turn back.
 
@@ -66,9 +66,9 @@ Orli had watched his bicycle, not the lights. She marked the corner of the lane 
 
 When Kemi released the cart, the tailor hooked it with one foot. She looked at the sleeve in her hands. “That was Saye. He painted the reply beside my mother's design. When the school put up its new sign, both their names went under it.” She turned the torn hem over. “Took her a summer to get the wall to answer.”
 
-“He can make it shine,” Kemi said, looking down the alley. “He can't mend with it.”
+“Both names?” Kemi said.
 
-“I know.” The tailor pushed a plain needle through the cloth. “I can still sew.”
+“Both.” The tailor pushed a plain needle through the cloth. “He can make that stitch shine all night. I still have to sew this sleeve.”
 
 Orli was studying the fence. A thin silver scuff ran along its top rail. Beneath it, in the alley, lay a blue-edged scrap torn from Saye's strip. She picked it up with her fingernails.
 
@@ -104,7 +104,7 @@ On a table beneath it sat the reel, with a damp stage sheet hanging over one end
 
 Saye lifted his head. He had paint under his fingernails and a shallow cut across one cheek. “The face too. Your school paid for the wall and painted over my name at the bottom.”
 
-Kemi remembered the fresh red border put around the mural last spring. She had applauded it without looking at what the paint covered.
+Kemi remembered the fresh red border put around the mural last spring. She could not remember what had been beneath it.
 
 “I applauded that border,” Kemi said. “I should have looked.”
 
@@ -120,7 +120,7 @@ For a moment Kemi saw herself carrying it down the stairs. Her mother would clim
 
 “Things I painted.”
 
-“You painted a place for people to answer,” Orli said. She did not sound triumphant. She looked at his covered cheek, then at the reel. “You didn't make their calls.”
+“You painted a place for people to answer,” Orli said. She did not sound triumphant. She looked at his cut cheek, then at the reel. “You didn't make their calls.”
 
 Saye put the amber strip back on the wheel. “Then come take it.”
 
@@ -132,9 +132,9 @@ Saye slapped both palms onto the strip. His pulse lit every reply on it. The fla
 
 He did, to snatch a wet cloth from the table. The strip caught fire before he could cover it.
 
-Kemi's three breaths were over. The reel spun free. Its stand toppled; the wheel bounced off the table and onto the gantry. As it turned, the burning length wound through fresh coils. Saye lunged after it, one hand still holding the cloth. The old sign frame bent under his weight. He caught the burning reel and went with it over the edge.
+Kemi's three breaths were over. The reel spun free. Its stand toppled; the wheel bounced off the table toward the gantry. As it turned, the burning length wound through fresh coils. Saye dropped his cloth, lunged after it, and caught the wheel at the roof lip. The old sign frame bent under his weight. He dropped the reel behind him onto the tar to grab the frame; it kept spinning. The frame gave and he went over the edge.
 
-The strip still ran through a guide on the table. When Saye's hand opened, it jerked the reel back across the roof, where the wheel kept turning. Orli was one stride from the damp sheet. If Kemi held the wheel, Orli could smother it. Beyond the low roof lip, Saye was falling into the market.
+Orli was one stride from the damp sheet. If Kemi held the wheel, Orli could smother it. Beyond the low roof lip, Saye was falling into the market.
 
 She closed her ring around him.
 
@@ -146,11 +146,11 @@ Orli left the sheet. She had to mark the outer corner of the low stone lip, wher
 
 “Release.”
 
-Kemi opened her fingers. Saye fell past the marked corner and turned inward, clearing the low lip. He hit the flat roof hard and slid into the table legs. Orli caught his jacket before he could slide back. Kemi had both arms around him a moment later. He was breathing. Across the roof, the reel burned.
+Kemi opened her fingers. Saye crossed blue at the outer top corner and turned inward, clearing the low lip. He hit the flat roof hard and slid into the table legs. Orli caught his jacket before he could slide back. Kemi had both arms around him a moment later. He was breathing. Across the roof, the reel burned.
 
 Orli threw the damp sheet over the wheel and stopped its turning. Kemi dragged the loose tail clear. The blue crossing-turn and a fistful of pale stair light had stayed away from the burning hub; she wound them carefully around Orli's arm. Between them lay blackened scraps. Twenty-Third's awning-hold and the tailor's hem were gone. Other colors had burned with them.
 
-Saye sat against the table while they worked, the wet cloth still in his fist. Below, someone had seen the fire and was calling up the stairs. His bicycle lay trapped in the service lane. The blade was on the rooftop, under Kemi's shoe. There would be people to meet him when they went down. Neither girl offered him the comfort of saying the spells could all be recovered.
+Saye sat against the table while they worked, both hands empty. Below, someone had seen the fire and was calling up the stairs. His bicycle lay trapped in the service lane. The blade was on the rooftop, under Kemi's shoe. There would be people to meet him when they went down. Neither girl offered him the comfort of saying the spells could all be recovered.
 
 At West Stairs, Jessa called her light again. Orli held the pale strip against the wall while Kemi kept the burning roof out of her mind. This time the reply ran three treads ahead. Jessa stepped after it, one hand on the rail, and thanked them without asking for a speech.
 
