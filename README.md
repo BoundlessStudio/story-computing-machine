@@ -31,5 +31,3 @@ The former GitHub Pages site, galleries, and publication captures have been reti
 Name the story and the change you want. Non-canon stories can be edited within that scope; a substantial revision benefits from fresh readers and discussion. A canon story must be explicitly unlocked by name before its package changes. No review or general invitation to improve the collection unlocks it.
 
 Work happens in a branch and dedicated worktree, then a pull request for your review. Nothing merges automatically.
-
-The pre-cleanup backup branch `codex/backup-main-2026-09-27` at `d9c6d293` preserves the former site, scripts, and publication snapshots for recovery.
