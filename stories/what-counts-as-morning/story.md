@@ -42,7 +42,7 @@ Quill sealed the junction. Tern took the long route from the cold vault, through
 
 At the receiver, Moth's shell was already on a bench. Quill had cleaned away the black mark near its shoulder socket. Tern wanted to put the mark back.
 
-“The cabinets are safe,” Quill said. “We lost eleven minutes of watch. The replacement sequence begins at midnight.”
+“The cabinets are safe,” Quill said. “I have the band now. We lost eleven minutes of watch. The replacement sequence begins at midnight.”
 
 On the wall, a display read **AUTOMATIC RESTORATION AT MIDNIGHT**. An old copy of Moth waited in a sealed drive. When the timer ended, a spare body would take Moth's station and the return band would have its watcher again.
 
@@ -76,7 +76,7 @@ At midday it went back to the station. The departure boards still listed trains 
 
 “I know.”
 
-Tern closed the file. Quill's cart rolled across the floor, stopping short of the speaker.
+Tern closed the file. Quill's cart rolled across the floor, stopping short of the speaker; its walking body held the return band at the receiver.
 
 “You've asked the vault to prepare Leda,” Quill said.
 
@@ -240,7 +240,7 @@ Tern crossed the city faster than it had on the way from the vault. Quill waited
 
 The timer fell to twenty seconds. Tern placed its hand on the service control and moved Moth's watch schedule to itself. The receiver checked Tern's capacity, found enough, and halted the replacement. The spare body went dark. Quill lifted the backup drive out of its socket and placed it in a protective case. It put the case on the bench beside Moth's shell, not inside it.
 
-The return band had to be heard from that moment forward. Tern took the receiver seat. Quill brought up the record for the emigrant ships.
+The return band still had to be heard. Quill's walking body yielded the receiver seat to Tern, then brought up the record for the emigrant ships.
 
 “What will you enter?” Quill asked.
 
