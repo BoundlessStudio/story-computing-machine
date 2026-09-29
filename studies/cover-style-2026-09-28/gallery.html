@@ -1,0 +1,1446 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Painted cover study — comparison gallery</title>
+<style>
+:root { color-scheme: dark; font: 15px/1.45 system-ui, sans-serif; background:#151b24; color:#f4eee2 }
+body { margin:0; }
+.top { position:sticky; top:0; z-index:10; background:#151b24ef; backdrop-filter:blur(12px); border-bottom:1px solid #38414b; padding:12px clamp(16px,3vw,40px) }
+h1 { margin:0 0 8px; font-size:1.35rem }
+.controls { display:flex; gap:10px; align-items:center; flex-wrap:wrap }
+input, select { background:#27313d; border:1px solid #6d7886; border-radius:6px; color:#fff; padding:8px; font:inherit }
+input { min-width:230px; flex:1; max-width:500px }
+main { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:18px; padding:20px clamp(16px,3vw,40px) }
+.card { background:#202834; border:1px solid #455161; border-radius:10px; overflow:hidden }
+.card header { padding:12px 14px }
+h2 { margin:0; font-size:1.08rem }
+small { color:#b7c1ca }
+.tags { display:flex; flex-wrap:wrap; gap:5px; margin-top:8px }
+.tags span { font-size:.72rem; background:#3b4856; border-radius:4px; padding:2px 6px }
+.images { display:grid; grid-template-columns:1fr 1fr; gap:3px; background:#111821 }
+figure { margin:0; min-width:0; position:relative; aspect-ratio:9/16; background:#111821 }
+figure a { display:block; width:100%; height:100% }
+figure img { width:100%; height:100%; object-fit:contain; display:block }
+figcaption { position:absolute; left:0; bottom:0; background:#111b; padding:3px 8px; font-size:.75rem }
+.missing { height:100%; display:grid; place-items:center; color:#9babb9; text-align:center; padding:10px; box-sizing:border-box }
+.card[hidden] { display:none }
+</style>
+</head>
+<body>
+<div class="top"><h1>Painted cover study</h1><div class="controls">
+<input id="search" type="search" placeholder="Search title or slug" aria-label="Search title or slug">
+<select id="status" aria-label="Filter by status"><option value="all">All covers</option><option value="restyle">Restyle</option><option value="skip_already_painted">Already painted</option></select>
+<select id="detail" aria-label="Filter by detail"><option value="all">All detail levels</option><option value="fine_detail">Fine-detail source</option><option value="broad_shape">Broad-shape source</option></select>
+<select id="canon" aria-label="Filter by canon"><option value="all">All canon states</option><option value="true">Canon locked</option><option value="false">Non-canon</option></select>
+<span id="count"></span></div></div>
+<main>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="a beginner of considerable age a-beginner-of-considerable-age">
+      <header><h2>A Beginner of Considerable Age</h2><small>a-beginner-of-considerable-age</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-beginner-of-considerable-age/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-beginner-of-considerable-age/title-image.jpg" alt="Original cover for A Beginner of Considerable Age"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-beginner-of-considerable-age/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-beginner-of-considerable-age/painted-v1.jpg" alt="Painted candidate for A Beginner of Considerable Age"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a busy year for dying a-busy-year-for-dying">
+      <header><h2>A Busy Year for Dying</h2><small>a-busy-year-for-dying</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-busy-year-for-dying/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-busy-year-for-dying/title-image.jpg" alt="Original cover for A Busy Year for Dying"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-busy-year-for-dying/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-busy-year-for-dying/painted-v1.jpg" alt="Painted candidate for A Busy Year for Dying"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a crown for the endless fire a-crown-for-the-endless-fire">
+      <header><h2>A Crown for the Endless Fire</h2><small>a-crown-for-the-endless-fire</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-crown-for-the-endless-fire/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-crown-for-the-endless-fire/title-image.jpg" alt="Original cover for A Crown for the Endless Fire"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-crown-for-the-endless-fire/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-crown-for-the-endless-fire/painted-v1.jpg" alt="Painted candidate for A Crown for the Endless Fire"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a crown in the bargain a-crown-in-the-bargain">
+      <header><h2>A Crown in the Bargain</h2><small>a-crown-in-the-bargain</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-crown-in-the-bargain/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-crown-in-the-bargain/title-image.jpg" alt="Original cover for A Crown in the Bargain"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-crown-in-the-bargain/painted-v2.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-crown-in-the-bargain/painted-v2.jpg" alt="Painted candidate for A Crown in the Bargain"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a curse before breakfast a-curse-before-breakfast">
+      <header><h2>A Curse Before Breakfast</h2><small>a-curse-before-breakfast</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-curse-before-breakfast/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-curse-before-breakfast/title-image.jpg" alt="Original cover for A Curse Before Breakfast"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-curse-before-breakfast/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-curse-before-breakfast/painted-v1.jpg" alt="Painted candidate for A Curse Before Breakfast"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="a darkness written under skin a-darkness-written-under-skin">
+      <header><h2>A Darkness Written Under Skin</h2><small>a-darkness-written-under-skin</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-darkness-written-under-skin/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-darkness-written-under-skin/title-image.jpg" alt="Original cover for A Darkness Written Under Skin"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-darkness-written-under-skin/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-darkness-written-under-skin/painted-v1.jpg" alt="Painted candidate for A Darkness Written Under Skin"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a knock in someone else&#x27;s sleep a-knock-in-someone-elses-sleep">
+      <header><h2>A Knock in Someone Else&#x27;s Sleep</h2><small>a-knock-in-someone-elses-sleep</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-knock-in-someone-elses-sleep/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-knock-in-someone-elses-sleep/title-image.jpg" alt="Original cover for A Knock in Someone Else&#x27;s Sleep"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-knock-in-someone-elses-sleep/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-knock-in-someone-elses-sleep/painted-v1.jpg" alt="Painted candidate for A Knock in Someone Else&#x27;s Sleep"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a little more room a-little-more-room">
+      <header><h2>A Little More Room</h2><small>a-little-more-room</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-little-more-room/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-little-more-room/title-image.jpg" alt="Original cover for A Little More Room"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-little-more-room/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-little-more-room/painted-v1.jpg" alt="Painted candidate for A Little More Room"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a little winter for sale a-little-winter-for-sale">
+      <header><h2>A Little Winter for Sale</h2><small>a-little-winter-for-sale</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-little-winter-for-sale/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-little-winter-for-sale/title-image.jpg" alt="Original cover for A Little Winter for Sale"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-little-winter-for-sale/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-little-winter-for-sale/painted-v1.jpg" alt="Painted candidate for A Little Winter for Sale"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a lock on the inside a-lock-on-the-inside">
+      <header><h2>A Lock on the Inside</h2><small>a-lock-on-the-inside</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-lock-on-the-inside/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-lock-on-the-inside/title-image.jpg" alt="Original cover for A Lock on the Inside"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-lock-on-the-inside/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-lock-on-the-inside/painted-v1.jpg" alt="Painted candidate for A Lock on the Inside"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a note of spite a-note-of-spite">
+      <header><h2>A Note of Spite</h2><small>a-note-of-spite</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-note-of-spite/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-note-of-spite/title-image.jpg" alt="Original cover for A Note of Spite"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-note-of-spite/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-note-of-spite/painted-v1.jpg" alt="Painted candidate for A Note of Spite"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a pet human a-pet-human">
+      <header><h2>A Pet Human</h2><small>a-pet-human</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-pet-human/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-pet-human/title-image.jpg" alt="Original cover for A Pet Human"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-pet-human/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-pet-human/painted-v1.jpg" alt="Painted candidate for A Pet Human"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="a place for sunday a-place-for-sunday">
+      <header><h2>A Place for Sunday</h2><small>a-place-for-sunday</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-place-for-sunday/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-place-for-sunday/title-image.jpg" alt="Original cover for A Place for Sunday"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-place-for-sunday/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-place-for-sunday/painted-v1.jpg" alt="Painted candidate for A Place for Sunday"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="a place for the living a-place-for-the-living">
+      <header><h2>A Place for the Living</h2><small>a-place-for-the-living</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-place-for-the-living/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-place-for-the-living/title-image.jpg" alt="Original cover for A Place for the Living"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-place-for-the-living/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-place-for-the-living/painted-v1.jpg" alt="Painted candidate for A Place for the Living"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a reasonable declaration a-reasonable-declaration">
+      <header><h2>A Reasonable Declaration</h2><small>a-reasonable-declaration</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-reasonable-declaration/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-reasonable-declaration/title-image.jpg" alt="Original cover for A Reasonable Declaration"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-reasonable-declaration/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-reasonable-declaration/painted-v1.jpg" alt="Painted candidate for A Reasonable Declaration"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a seat for the sun a-seat-for-the-sun">
+      <header><h2>A Seat for the Sun</h2><small>a-seat-for-the-sun</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-seat-for-the-sun/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-seat-for-the-sun/title-image.jpg" alt="Original cover for A Seat for the Sun"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-seat-for-the-sun/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-seat-for-the-sun/painted-v1.jpg" alt="Painted candidate for A Seat for the Sun"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the throne neither of us wanted a-throne-neither-wanted">
+      <header><h2>The Throne Neither of Us Wanted</h2><small>a-throne-neither-wanted</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/a-throne-neither-wanted/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/a-throne-neither-wanted/title-image.jpg" alt="Original cover for The Throne Neither of Us Wanted"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/a-throne-neither-wanted/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/a-throne-neither-wanted/painted-v1.jpg" alt="Painted candidate for The Throne Neither of Us Wanted"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="after the party after-the-party">
+      <header><h2>After the Party</h2><small>after-the-party</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/after-the-party/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/after-the-party/title-image.jpg" alt="Original cover for After the Party"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/after-the-party/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/after-the-party/painted-v1.jpg" alt="Painted candidate for After the Party"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="all accounts due all-accounts-due">
+      <header><h2>All Accounts Due</h2><small>all-accounts-due</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>pilot selected</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/all-accounts-due/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/all-accounts-due/title-image.jpg" alt="Original cover for All Accounts Due"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/all-accounts-due/painted-v3.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/all-accounts-due/painted-v3.jpg" alt="Painted candidate for All Accounts Due"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="an ordinary education an-ordinary-education">
+      <header><h2>An Ordinary Education</h2><small>an-ordinary-education</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/an-ordinary-education/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/an-ordinary-education/title-image.jpg" alt="Original cover for An Ordinary Education"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/an-ordinary-education/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/an-ordinary-education/painted-v1.jpg" alt="Painted candidate for An Ordinary Education"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the anatomy of a god anatomy-of-a-god">
+      <header><h2>The Anatomy of a God</h2><small>anatomy-of-a-god</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/anatomy-of-a-god/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/anatomy-of-a-god/title-image.jpg" alt="Original cover for The Anatomy of a God"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/anatomy-of-a-god/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/anatomy-of-a-god/painted-v1.jpg" alt="Painted candidate for The Anatomy of a God"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the apes above apes-in-orbit">
+      <header><h2>The Apes Above</h2><small>apes-in-orbit</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate review</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/apes-in-orbit/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/apes-in-orbit/title-image.jpg" alt="Original cover for The Apes Above"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/apes-in-orbit/painted-v4.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/apes-in-orbit/painted-v4.jpg" alt="Painted candidate for The Apes Above"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="before lunch before-lunch">
+      <header><h2>Before Lunch</h2><small>before-lunch</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/before-lunch/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/before-lunch/title-image.jpg" alt="Original cover for Before Lunch"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/before-lunch/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/before-lunch/painted-v1.jpg" alt="Painted candidate for Before Lunch"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="not friday before-she-gets-tired">
+      <header><h2>Not Friday</h2><small>before-she-gets-tired</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/before-she-gets-tired/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/before-she-gets-tired/title-image.jpg" alt="Original cover for Not Friday"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/before-she-gets-tired/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/before-she-gets-tired/painted-v1.jpg" alt="Painted candidate for Not Friday"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="between the colors between-the-colors">
+      <header><h2>Between the Colors</h2><small>between-the-colors</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/between-the-colors/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/between-the-colors/title-image.jpg" alt="Original cover for Between the Colors"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/between-the-colors/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/between-the-colors/painted-v1.jpg" alt="Painted candidate for Between the Colors"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the blade calls your name blade-calls-your-name">
+      <header><h2>The Blade Calls Your Name</h2><small>blade-calls-your-name</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/blade-calls-your-name/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/blade-calls-your-name/title-image.jpg" alt="Original cover for The Blade Calls Your Name"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/blade-calls-your-name/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/blade-calls-your-name/painted-v1.jpg" alt="Painted candidate for The Blade Calls Your Name"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the fourth blood blood-types-of-immortality">
+      <header><h2>The Fourth Blood</h2><small>blood-types-of-immortality</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/blood-types-of-immortality/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/blood-types-of-immortality/title-image.jpg" alt="Original cover for The Fourth Blood"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/blood-types-of-immortality/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/blood-types-of-immortality/painted-v1.jpg" alt="Painted candidate for The Fourth Blood"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="by tooth and threshold by-tooth-and-threshold">
+      <header><h2>By Tooth and Threshold</h2><small>by-tooth-and-threshold</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/by-tooth-and-threshold/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/by-tooth-and-threshold/title-image.jpg" alt="Original cover for By Tooth and Threshold"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/by-tooth-and-threshold/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/by-tooth-and-threshold/painted-v1.jpg" alt="Painted candidate for By Tooth and Threshold"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="held together captive-couples">
+      <header><h2>Held Together</h2><small>captive-couples</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/captive-couples/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/captive-couples/title-image.jpg" alt="Original cover for Held Together"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/captive-couples/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/captive-couples/painted-v1.jpg" alt="Painted candidate for Held Together"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="hello, lover clerics-infernal-ex">
+      <header><h2>Hello, Lover</h2><small>clerics-infernal-ex</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/clerics-infernal-ex/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/clerics-infernal-ex/title-image.jpg" alt="Original cover for Hello, Lover"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/clerics-infernal-ex/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/clerics-infernal-ex/painted-v1.jpg" alt="Painted candidate for Hello, Lover"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="coiled together coiled-together">
+      <header><h2>Coiled Together</h2><small>coiled-together</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/coiled-together/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/coiled-together/title-image.jpg" alt="Original cover for Coiled Together"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/coiled-together/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/coiled-together/painted-v1.jpg" alt="Painted candidate for Coiled Together"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="daughter of the sun daughter-of-the-sun">
+      <header><h2>Daughter of the Sun</h2><small>daughter-of-the-sun</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate selected</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/daughter-of-the-sun/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/daughter-of-the-sun/title-image.jpg" alt="Original cover for Daughter of the Sun"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/daughter-of-the-sun/painted-v2.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/daughter-of-the-sun/painted-v2.jpg" alt="Painted candidate for Daughter of the Sun"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="when death knelt deaths-patron">
+      <header><h2>When Death Knelt</h2><small>deaths-patron</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/deaths-patron/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/deaths-patron/title-image.jpg" alt="Original cover for When Death Knelt"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/deaths-patron/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/deaths-patron/painted-v1.jpg" alt="Painted candidate for When Death Knelt"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the warning comes second deja-vu-too-late">
+      <header><h2>The Warning Comes Second</h2><small>deja-vu-too-late</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/deja-vu-too-late/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/deja-vu-too-late/title-image.jpg" alt="Original cover for The Warning Comes Second"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/deja-vu-too-late/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/deja-vu-too-late/painted-v1.jpg" alt="Painted candidate for The Warning Comes Second"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the city keeps score drone-down">
+      <header><h2>The City Keeps Score</h2><small>drone-down</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/drone-down/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/drone-down/title-image.jpg" alt="Original cover for The City Keeps Score"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/drone-down/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/drone-down/painted-v1.jpg" alt="Painted candidate for The City Keeps Score"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="nobody spends her name empire-within">
+      <header><h2>Nobody Spends Her Name</h2><small>empire-within</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/empire-within/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/empire-within/title-image.jpg" alt="Original cover for Nobody Spends Her Name"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/empire-within/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/empire-within/painted-v1.jpg" alt="Painted candidate for Nobody Spends Her Name"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="every flower she knew every-flower-she-knew">
+      <header><h2>Every Flower She Knew</h2><small>every-flower-she-knew</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/every-flower-she-knew/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/every-flower-she-knew/title-image.jpg" alt="Original cover for Every Flower She Knew"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/every-flower-she-knew/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/every-flower-she-knew/painted-v1.jpg" alt="Painted candidate for Every Flower She Knew"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="all the ways they knew her everyone-knows-her">
+      <header><h2>All the Ways They Knew Her</h2><small>everyone-knows-her</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/everyone-knows-her/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/everyone-knows-her/title-image.jpg" alt="Original cover for All the Ways They Knew Her"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/everyone-knows-her/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/everyone-knows-her/painted-v1.jpg" alt="Painted candidate for All the Ways They Knew Her"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the tide will have her answer fifty-seven-minutes">
+      <header><h2>The Tide Will Have Her Answer</h2><small>fifty-seven-minutes</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/fifty-seven-minutes/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/fifty-seven-minutes/title-image.jpg" alt="Original cover for The Tide Will Have Her Answer"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/fifty-seven-minutes/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/fifty-seven-minutes/painted-v1.jpg" alt="Painted candidate for The Tide Will Have Her Answer"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="four crowns in hiding four-crowns-in-hiding">
+      <header><h2>Four Crowns in Hiding</h2><small>four-crowns-in-hiding</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/four-crowns-in-hiding/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/four-crowns-in-hiding/title-image.jpg" alt="Original cover for Four Crowns in Hiding"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/four-crowns-in-hiding/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/four-crowns-in-hiding/painted-v1.jpg" alt="Painted candidate for Four Crowns in Hiding"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="true" data-search="four million falling four-million-falling">
+      <header><h2>Four Million Falling</h2><small>four-million-falling</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/four-million-falling/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/four-million-falling/title-image.jpg" alt="Original cover for Four Million Falling"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/four-million-falling/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/four-million-falling/painted-v1.jpg" alt="Painted candidate for Four Million Falling"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the fourth house fourth-house">
+      <header><h2>The Fourth House</h2><small>fourth-house</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/fourth-house/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/fourth-house/title-image.jpg" alt="Original cover for The Fourth House"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/fourth-house/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/fourth-house/painted-v1.jpg" alt="Painted candidate for The Fourth House"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="friends of the night friends-of-the-night">
+      <header><h2>Friends of the Night</h2><small>friends-of-the-night</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/friends-of-the-night/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/friends-of-the-night/title-image.jpg" alt="Original cover for Friends of the Night"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/friends-of-the-night/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/friends-of-the-night/painted-v1.jpg" alt="Painted candidate for Friends of the Night"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the gods are afraid of grandma gods-afraid-of-grandma">
+      <header><h2>The Gods Are Afraid of Grandma</h2><small>gods-afraid-of-grandma</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/gods-afraid-of-grandma/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/gods-afraid-of-grandma/title-image.jpg" alt="Original cover for The Gods Are Afraid of Grandma"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/gods-afraid-of-grandma/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/gods-afraid-of-grandma/painted-v1.jpg" alt="Painted candidate for The Gods Are Afraid of Grandma"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the gentleman with the golden lion golden-lion">
+      <header><h2>The Gentleman with the Golden Lion</h2><small>golden-lion</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/golden-lion/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/golden-lion/title-image.jpg" alt="Original cover for The Gentleman with the Golden Lion"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/golden-lion/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/golden-lion/painted-v1.jpg" alt="Painted candidate for The Gentleman with the Golden Lion"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="where rival gods go quiet head-priests-in-love">
+      <header><h2>Where Rival Gods Go Quiet</h2><small>head-priests-in-love</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/head-priests-in-love/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/head-priests-in-love/title-image.jpg" alt="Original cover for Where Rival Gods Go Quiet"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/head-priests-in-love/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/head-priests-in-love/painted-v1.jpg" alt="Painted candidate for Where Rival Gods Go Quiet"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="his infernal majesty says no his-infernal-majesty-says-no">
+      <header><h2>His Infernal Majesty Says No</h2><small>his-infernal-majesty-says-no</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/his-infernal-majesty-says-no/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/his-infernal-majesty-says-no/title-image.jpg" alt="Original cover for His Infernal Majesty Says No"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/his-infernal-majesty-says-no/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/his-infernal-majesty-says-no/painted-v1.jpg" alt="Painted candidate for His Infernal Majesty Says No"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="i really need a sidekick i-really-need-a-sidekick">
+      <header><h2>I Really Need a Sidekick</h2><small>i-really-need-a-sidekick</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/i-really-need-a-sidekick/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/i-really-need-a-sidekick/title-image.jpg" alt="Original cover for I Really Need a Sidekick"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/i-really-need-a-sidekick/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/i-really-need-a-sidekick/painted-v1.jpg" alt="Painted candidate for I Really Need a Sidekick"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a question for the sky kite-letters-below">
+      <header><h2>A Question for the Sky</h2><small>kite-letters-below</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/kite-letters-below/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/kite-letters-below/title-image.jpg" alt="Original cover for A Question for the Sky"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/kite-letters-below/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/kite-letters-below/painted-v1.jpg" alt="Painted candidate for A Question for the Sky"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the last watcher of jupiter last-watcher-of-jupiter">
+      <header><h2>The Last Watcher of Jupiter</h2><small>last-watcher-of-jupiter</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/last-watcher-of-jupiter/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/last-watcher-of-jupiter/title-image.jpg" alt="Original cover for The Last Watcher of Jupiter"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/last-watcher-of-jupiter/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/last-watcher-of-jupiter/painted-v1.jpg" alt="Painted candidate for The Last Watcher of Jupiter"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="late for dinner late-for-dinner">
+      <header><h2>Late for Dinner</h2><small>late-for-dinner</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/late-for-dinner/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/late-for-dinner/title-image.jpg" alt="Original cover for Late for Dinner"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/late-for-dinner/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/late-for-dinner/painted-v1.jpg" alt="Painted candidate for Late for Dinner"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="a little weather between us laughing-clouds">
+      <header><h2>A Little Weather Between Us</h2><small>laughing-clouds</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/laughing-clouds/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/laughing-clouds/title-image.jpg" alt="Original cover for A Little Weather Between Us"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/laughing-clouds/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/laughing-clouds/painted-v1.jpg" alt="Painted candidate for A Little Weather Between Us"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="leave the names leave-the-names">
+      <header><h2>Leave the Names</h2><small>leave-the-names</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/leave-the-names/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/leave-the-names/title-image.jpg" alt="Original cover for Leave the Names"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/leave-the-names/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/leave-the-names/painted-v1.jpg" alt="Painted candidate for Leave the Names"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="life with a girlfriend with shrinking powers life-with-a-girlfriend-with-shrinking-powers">
+      <header><h2>Life with a Girlfriend with Shrinking Powers</h2><small>life-with-a-girlfriend-with-shrinking-powers</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/life-with-a-girlfriend-with-shrinking-powers/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/life-with-a-girlfriend-with-shrinking-powers/title-image.jpg" alt="Original cover for Life with a Girlfriend with Shrinking Powers"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/life-with-a-girlfriend-with-shrinking-powers/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/life-with-a-girlfriend-with-shrinking-powers/painted-v1.jpg" alt="Painted candidate for Life with a Girlfriend with Shrinking Powers"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="lightning carries one lightning-carries-one">
+      <header><h2>Lightning Carries One</h2><small>lightning-carries-one</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/lightning-carries-one/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/lightning-carries-one/title-image.jpg" alt="Original cover for Lightning Carries One"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/lightning-carries-one/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/lightning-carries-one/painted-v1.jpg" alt="Painted candidate for Lightning Carries One"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="mother of monsters mother-of-monsters">
+      <header><h2>Mother of Monsters</h2><small>mother-of-monsters</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/mother-of-monsters/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/mother-of-monsters/title-image.jpg" alt="Original cover for Mother of Monsters"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/mother-of-monsters/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/mother-of-monsters/painted-v1.jpg" alt="Painted candidate for Mother of Monsters"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the first call never-a-mascot">
+      <header><h2>The First Call</h2><small>never-a-mascot</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/never-a-mascot/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/never-a-mascot/title-image.jpg" alt="Original cover for The First Call"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/never-a-mascot/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/never-a-mascot/painted-v1.jpg" alt="Painted candidate for The First Call"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="no need to worry no-need-to-worry">
+      <header><h2>No Need to Worry</h2><small>no-need-to-worry</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/no-need-to-worry/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/no-need-to-worry/title-image.jpg" alt="Original cover for No Need to Worry"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/no-need-to-worry/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/no-need-to-worry/painted-v1.jpg" alt="Painted candidate for No Need to Worry"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="no one like me no-one-like-me">
+      <header><h2>No One Like Me</h2><small>no-one-like-me</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/no-one-like-me/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/no-one-like-me/title-image.jpg" alt="Original cover for No One Like Me"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/no-one-like-me/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/no-one-like-me/painted-v1.jpg" alt="Painted candidate for No One Like Me"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="not about that not-about-that">
+      <header><h2>Not About That</h2><small>not-about-that</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/not-about-that/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/not-about-that/title-image.jpg" alt="Original cover for Not About That"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/not-about-that/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/not-about-that/painted-v1.jpg" alt="Painted candidate for Not About That"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="only eighteen only-eighteen">
+      <header><h2>Only Eighteen</h2><small>only-eighteen</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/only-eighteen/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/only-eighteen/title-image.jpg" alt="Original cover for Only Eighteen"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/only-eighteen/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/only-eighteen/painted-v1.jpg" alt="Painted candidate for Only Eighteen"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="the surface onyx-peace">
+      <header><h2>The Surface</h2><small>onyx-peace</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/onyx-peace/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/onyx-peace/title-image.jpg" alt="Original cover for The Surface"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the deep end pool-sovereign">
+      <header><h2>The Deep End</h2><small>pool-sovereign</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/pool-sovereign/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/pool-sovereign/title-image.jpg" alt="Original cover for The Deep End"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/pool-sovereign/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/pool-sovereign/painted-v1.jpg" alt="Painted candidate for The Deep End"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the address of here postcard-garden">
+      <header><h2>The Address of Here</h2><small>postcard-garden</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/postcard-garden/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/postcard-garden/title-image.jpg" alt="Original cover for The Address of Here"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/postcard-garden/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/postcard-garden/painted-v1.jpg" alt="Painted candidate for The Address of Here"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="realms realms">
+      <header><h2>Realms</h2><small>realms</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/realms/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/realms/title-image.jpg" alt="Original cover for Realms"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/realms/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/realms/painted-v1.jpg" alt="Painted candidate for Realms"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="roads under impossible stars roads-under-impossible-stars">
+      <header><h2>Roads Under Impossible Stars</h2><small>roads-under-impossible-stars</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/roads-under-impossible-stars/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/roads-under-impossible-stars/title-image.jpg" alt="Original cover for Roads Under Impossible Stars"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/roads-under-impossible-stars/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/roads-under-impossible-stars/painted-v1.jpg" alt="Painted candidate for Roads Under Impossible Stars"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the rooms the city forgot rooms-before-sunrise">
+      <header><h2>The Rooms the City Forgot</h2><small>rooms-before-sunrise</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/rooms-before-sunrise/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/rooms-before-sunrise/title-image.jpg" alt="Original cover for The Rooms the City Forgot"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/rooms-before-sunrise/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/rooms-before-sunrise/painted-v1.jpg" alt="Painted candidate for The Rooms the City Forgot"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the beloved world saint-and-demon">
+      <header><h2>The Beloved World</h2><small>saint-and-demon</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/saint-and-demon/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/saint-and-demon/title-image.jpg" alt="Original cover for The Beloved World"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/saint-and-demon/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/saint-and-demon/painted-v1.jpg" alt="Painted candidate for The Beloved World"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="sakura-hearted sakura-hearted">
+      <header><h2>Sakura-Hearted</h2><small>sakura-hearted</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/sakura-hearted/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/sakura-hearted/title-image.jpg" alt="Original cover for Sakura-Hearted"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/sakura-hearted/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/sakura-hearted/painted-v1.jpg" alt="Painted candidate for Sakura-Hearted"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="one night&#x27;s mercy save-that-dragon">
+      <header><h2>One Night&#x27;s Mercy</h2><small>save-that-dragon</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/save-that-dragon/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/save-that-dragon/title-image.jpg" alt="Original cover for One Night&#x27;s Mercy"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/save-that-dragon/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/save-that-dragon/painted-v1.jpg" alt="Painted candidate for One Night&#x27;s Mercy"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="self-reflection self-reflection">
+      <header><h2>Self-Reflection</h2><small>self-reflection</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/self-reflection/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/self-reflection/title-image.jpg" alt="Original cover for Self-Reflection"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/self-reflection/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/self-reflection/painted-v1.jpg" alt="Painted candidate for Self-Reflection"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the seraph of the infinite gear seraph-infinite-gear">
+      <header><h2>The Seraph of the Infinite Gear</h2><small>seraph-infinite-gear</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/seraph-infinite-gear/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/seraph-infinite-gear/title-image.jpg" alt="Original cover for The Seraph of the Infinite Gear"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/seraph-infinite-gear/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/seraph-infinite-gear/painted-v1.jpg" alt="Painted candidate for The Seraph of the Infinite Gear"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="she literally has wings she-literally-has-wings">
+      <header><h2>She Literally Has Wings</h2><small>she-literally-has-wings</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/she-literally-has-wings/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/she-literally-has-wings/title-image.jpg" alt="Original cover for She Literally Has Wings"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/she-literally-has-wings/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/she-literally-has-wings/painted-v1.jpg" alt="Painted candidate for She Literally Has Wings"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="true" data-search="solstice evening bell solstice-evening-bell">
+      <header><h2>Solstice Evening Bell</h2><small>solstice-evening-bell</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/solstice-evening-bell/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/solstice-evening-bell/title-image.jpg" alt="Original cover for Solstice Evening Bell"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/solstice-evening-bell/painted-v2.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/solstice-evening-bell/painted-v2.jpg" alt="Painted candidate for Solstice Evening Bell"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="from the middle spirit-heart">
+      <header><h2>From the Middle</h2><small>spirit-heart</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/spirit-heart/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/spirit-heart/title-image.jpg" alt="Original cover for From the Middle"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="stay out of my city stay-out-of-my-city">
+      <header><h2>Stay Out of My City</h2><small>stay-out-of-my-city</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/stay-out-of-my-city/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/stay-out-of-my-city/title-image.jpg" alt="Original cover for Stay Out of My City"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/stay-out-of-my-city/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/stay-out-of-my-city/painted-v1.jpg" alt="Painted candidate for Stay Out of My City"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="still taking runaways still-taking-runaways">
+      <header><h2>Still Taking Runaways</h2><small>still-taking-runaways</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/still-taking-runaways/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/still-taking-runaways/title-image.jpg" alt="Original cover for Still Taking Runaways"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/still-taking-runaways/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/still-taking-runaways/painted-v1.jpg" alt="Painted candidate for Still Taking Runaways"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="storm warning storm-warning">
+      <header><h2>Storm Warning</h2><small>storm-warning</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>review needed</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/storm-warning/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/storm-warning/title-image.jpg" alt="Original cover for Storm Warning"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/storm-warning/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/storm-warning/painted-v1.jpg" alt="Painted candidate for Storm Warning"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the strength of ten strength-of-ten">
+      <header><h2>The Strength of Ten</h2><small>strength-of-ten</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/strength-of-ten/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/strength-of-ten/title-image.jpg" alt="Original cover for The Strength of Ten"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/strength-of-ten/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/strength-of-ten/painted-v1.jpg" alt="Painted candidate for The Strength of Ten"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="tea for the first guest tea-for-the-first-guest">
+      <header><h2>Tea for the First Guest</h2><small>tea-for-the-first-guest</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/tea-for-the-first-guest/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/tea-for-the-first-guest/title-image.jpg" alt="Original cover for Tea for the First Guest"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/tea-for-the-first-guest/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/tea-for-the-first-guest/painted-v1.jpg" alt="Painted candidate for Tea for the First Guest"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the tenth world needs no hero tenth-world-lesson">
+      <header><h2>The Tenth World Needs No Hero</h2><small>tenth-world-lesson</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/tenth-world-lesson/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/tenth-world-lesson/title-image.jpg" alt="Original cover for The Tenth World Needs No Hero"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/tenth-world-lesson/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/tenth-world-lesson/painted-v1.jpg" alt="Painted candidate for The Tenth World Needs No Hero"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="terms at four terms-at-four">
+      <header><h2>Terms at Four</h2><small>terms-at-four</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/terms-at-four/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/terms-at-four/title-image.jpg" alt="Original cover for Terms at Four"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/terms-at-four/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/terms-at-four/painted-v1.jpg" alt="Painted candidate for Terms at Four"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the astral valkyrie the-astral-valkyrie">
+      <header><h2>The Astral Valkyrie</h2><small>the-astral-valkyrie</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-astral-valkyrie/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-astral-valkyrie/title-image.jpg" alt="Original cover for The Astral Valkyrie"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-astral-valkyrie/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-astral-valkyrie/painted-v1.jpg" alt="Painted candidate for The Astral Valkyrie"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the attendance ledger the-attendance-ledger">
+      <header><h2>The Attendance Ledger</h2><small>the-attendance-ledger</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-attendance-ledger/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-attendance-ledger/title-image.jpg" alt="Original cover for The Attendance Ledger"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-attendance-ledger/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-attendance-ledger/painted-v1.jpg" alt="Painted candidate for The Attendance Ledger"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="by wing and welcome the-bat-at-the-door">
+      <header><h2>By Wing and Welcome</h2><small>the-bat-at-the-door</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-bat-at-the-door/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-bat-at-the-door/title-image.jpg" alt="Original cover for By Wing and Welcome"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-bat-at-the-door/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-bat-at-the-door/painted-v1.jpg" alt="Painted candidate for By Wing and Welcome"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the body called one the-body-called-one">
+      <header><h2>The Body Called One</h2><small>the-body-called-one</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-body-called-one/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-body-called-one/title-image.jpg" alt="Original cover for The Body Called One"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-body-called-one/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-body-called-one/painted-v1.jpg" alt="Painted candidate for The Body Called One"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the bride who came back the-bride-who-came-back">
+      <header><h2>The Bride Who Came Back</h2><small>the-bride-who-came-back</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-bride-who-came-back/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-bride-who-came-back/title-image.jpg" alt="Original cover for The Bride Who Came Back"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-bride-who-came-back/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-bride-who-came-back/painted-v1.jpg" alt="Painted candidate for The Bride Who Came Back"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="nine lives of excuses the-cat-who-had-enough">
+      <header><h2>Nine Lives of Excuses</h2><small>the-cat-who-had-enough</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-cat-who-had-enough/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-cat-who-had-enough/title-image.jpg" alt="Original cover for Nine Lives of Excuses"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-cat-who-had-enough/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-cat-who-had-enough/painted-v1.jpg" alt="Painted candidate for Nine Lives of Excuses"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the cat who kept the door the-cat-who-kept-the-door">
+      <header><h2>The Cat Who Kept the Door</h2><small>the-cat-who-kept-the-door</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-cat-who-kept-the-door/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-cat-who-kept-the-door/title-image.jpg" alt="Original cover for The Cat Who Kept the Door"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-cat-who-kept-the-door/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-cat-who-kept-the-door/painted-v1.jpg" alt="Painted candidate for The Cat Who Kept the Door"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the chair at the back the-chair-at-the-back">
+      <header><h2>The Chair at the Back</h2><small>the-chair-at-the-back</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-chair-at-the-back/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-chair-at-the-back/title-image.jpg" alt="Original cover for The Chair at the Back"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-chair-at-the-back/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-chair-at-the-back/painted-v1.jpg" alt="Painted candidate for The Chair at the Back"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the city of eleven foundations the-city-of-eleven-foundations">
+      <header><h2>The City of Eleven Foundations</h2><small>the-city-of-eleven-foundations</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-city-of-eleven-foundations/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-city-of-eleven-foundations/title-image.jpg" alt="Original cover for The City of Eleven Foundations"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-city-of-eleven-foundations/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-city-of-eleven-foundations/painted-v1.jpg" alt="Painted candidate for The City of Eleven Foundations"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="the closed day the-closed-day">
+      <header><h2>The Closed Day</h2><small>the-closed-day</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-closed-day/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-closed-day/title-image.jpg" alt="Original cover for The Closed Day"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the last color through the-color-that-comes-home">
+      <header><h2>The Last Color Through</h2><small>the-color-that-comes-home</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-color-that-comes-home/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-color-that-comes-home/title-image.jpg" alt="Original cover for The Last Color Through"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-color-that-comes-home/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-color-that-comes-home/painted-v1.jpg" alt="Painted candidate for The Last Color Through"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the count was 131,072 the-count-was-131072">
+      <header><h2>The Count Was 131,072</h2><small>the-count-was-131072</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-count-was-131072/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-count-was-131072/title-image.jpg" alt="Original cover for The Count Was 131,072"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-count-was-131072/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-count-was-131072/painted-v1.jpg" alt="Painted candidate for The Count Was 131,072"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the courtesy of blades the-courtesy-of-blades">
+      <header><h2>The Courtesy of Blades</h2><small>the-courtesy-of-blades</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-courtesy-of-blades/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-courtesy-of-blades/title-image.jpg" alt="Original cover for The Courtesy of Blades"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-courtesy-of-blades/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-courtesy-of-blades/painted-v1.jpg" alt="Painted candidate for The Courtesy of Blades"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the credit book the-credit-book">
+      <header><h2>The Credit Book</h2><small>the-credit-book</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-credit-book/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-credit-book/title-image.jpg" alt="Original cover for The Credit Book"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-credit-book/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-credit-book/painted-v1.jpg" alt="Painted candidate for The Credit Book"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the door in the ivy the-door-in-the-ivy">
+      <header><h2>The Door in the Ivy</h2><small>the-door-in-the-ivy</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-door-in-the-ivy/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-door-in-the-ivy/title-image.jpg" alt="Original cover for The Door in the Ivy"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-door-in-the-ivy/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-door-in-the-ivy/painted-v1.jpg" alt="Painted candidate for The Door in the Ivy"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the door knows home the-door-knows-home">
+      <header><h2>The Door Knows Home</h2><small>the-door-knows-home</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-door-knows-home/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-door-knows-home/title-image.jpg" alt="Original cover for The Door Knows Home"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-door-knows-home/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-door-knows-home/painted-v1.jpg" alt="Painted candidate for The Door Knows Home"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the dress they brought her the-dress-they-brought-her">
+      <header><h2>The Dress They Brought Her</h2><small>the-dress-they-brought-her</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-dress-they-brought-her/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-dress-they-brought-her/title-image.jpg" alt="Original cover for The Dress They Brought Her"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-dress-they-brought-her/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-dress-they-brought-her/painted-v1.jpg" alt="Painted candidate for The Dress They Brought Her"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the driver the city could not see the-driver-the-city-could-not-see">
+      <header><h2>The Driver the City Could Not See</h2><small>the-driver-the-city-could-not-see</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-driver-the-city-could-not-see/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-driver-the-city-could-not-see/title-image.jpg" alt="Original cover for The Driver the City Could Not See"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-driver-the-city-could-not-see/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-driver-the-city-could-not-see/painted-v1.jpg" alt="Painted candidate for The Driver the City Could Not See"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="a bargain with anubis the-emerald-relic">
+      <header><h2>A Bargain with Anubis</h2><small>the-emerald-relic</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-emerald-relic/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-emerald-relic/title-image.jpg" alt="Original cover for A Bargain with Anubis"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-emerald-relic/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-emerald-relic/painted-v1.jpg" alt="Painted candidate for A Bargain with Anubis"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="where the mountain used to be the-first-kingdom-was-late-on-taxes">
+      <header><h2>Where the Mountain Used to Be</h2><small>the-first-kingdom-was-late-on-taxes</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-first-kingdom-was-late-on-taxes/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-first-kingdom-was-late-on-taxes/title-image.jpg" alt="Original cover for Where the Mountain Used to Be"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-first-kingdom-was-late-on-taxes/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-first-kingdom-was-late-on-taxes/painted-v1.jpg" alt="Painted candidate for Where the Mountain Used to Be"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the first people the-first-people">
+      <header><h2>The First People</h2><small>the-first-people</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-first-people/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-first-people/title-image.jpg" alt="Original cover for The First People"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-first-people/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-first-people/painted-v1.jpg" alt="Painted candidate for The First People"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="the first winter the-first-winter">
+      <header><h2>The First Winter</h2><small>the-first-winter</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-first-winter/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-first-winter/title-image.jpg" alt="Original cover for The First Winter"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the first wound the-first-wound">
+      <header><h2>The First Wound</h2><small>the-first-wound</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-first-wound/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-first-wound/title-image.jpg" alt="Original cover for The First Wound"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-first-wound/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-first-wound/painted-v1.jpg" alt="Painted candidate for The First Wound"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the five-minute warranty the-five-minute-warranty">
+      <header><h2>The Five-Minute Warranty</h2><small>the-five-minute-warranty</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-five-minute-warranty/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-five-minute-warranty/title-image.jpg" alt="Original cover for The Five-Minute Warranty"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-five-minute-warranty/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-five-minute-warranty/painted-v1.jpg" alt="Painted candidate for The Five-Minute Warranty"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the memory under line zero the-foundations-remember">
+      <header><h2>The Memory Under Line Zero</h2><small>the-foundations-remember</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-foundations-remember/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-foundations-remember/title-image.jpg" alt="Original cover for The Memory Under Line Zero"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-foundations-remember/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-foundations-remember/painted-v1.jpg" alt="Painted candidate for The Memory Under Line Zero"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="the fox that stood up the-fox-that-stood-up">
+      <header><h2>The Fox That Stood Up</h2><small>the-fox-that-stood-up</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-fox-that-stood-up/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-fox-that-stood-up/title-image.jpg" alt="Original cover for The Fox That Stood Up"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="true" data-search="the friends i built the-friends-i-built">
+      <header><h2>The Friends I Built</h2><small>the-friends-i-built</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-friends-i-built/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-friends-i-built/title-image.jpg" alt="Original cover for The Friends I Built"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-friends-i-built/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-friends-i-built/painted-v1.jpg" alt="Painted candidate for The Friends I Built"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the future that refused us the-future-that-refused-us">
+      <header><h2>The Future That Refused Us</h2><small>the-future-that-refused-us</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-future-that-refused-us/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-future-that-refused-us/title-image.jpg" alt="Original cover for The Future That Refused Us"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-future-that-refused-us/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-future-that-refused-us/painted-v1.jpg" alt="Painted candidate for The Future That Refused Us"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the gentlest terror the-gentlest-terror">
+      <header><h2>The Gentlest Terror</h2><small>the-gentlest-terror</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>review needed</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-gentlest-terror/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-gentlest-terror/title-image.jpg" alt="Original cover for The Gentlest Terror"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-gentlest-terror/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-gentlest-terror/painted-v1.jpg" alt="Painted candidate for The Gentlest Terror"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the gutter school the-gutter-school">
+      <header><h2>The Gutter School</h2><small>the-gutter-school</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-gutter-school/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-gutter-school/title-image.jpg" alt="Original cover for The Gutter School"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-gutter-school/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-gutter-school/painted-v1.jpg" alt="Painted candidate for The Gutter School"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the witchknight’s measure the-healers-measure">
+      <header><h2>The Witchknight’s Measure</h2><small>the-healers-measure</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-healers-measure/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-healers-measure/title-image.jpg" alt="Original cover for The Witchknight’s Measure"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-healers-measure/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-healers-measure/painted-v1.jpg" alt="Painted candidate for The Witchknight’s Measure"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the help network the-help-network">
+      <header><h2>The Help Network</h2><small>the-help-network</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-help-network/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-help-network/title-image.jpg" alt="Original cover for The Help Network"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-help-network/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-help-network/painted-v1.jpg" alt="Painted candidate for The Help Network"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the house of possible uses the-hoarders-house">
+      <header><h2>The House of Possible Uses</h2><small>the-hoarders-house</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-hoarders-house/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-hoarders-house/title-image.jpg" alt="Original cover for The House of Possible Uses"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-hoarders-house/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-hoarders-house/painted-v1.jpg" alt="Painted candidate for The House of Possible Uses"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the hollow cask the-hollow-cask">
+      <header><h2>The Hollow Cask</h2><small>the-hollow-cask</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-hollow-cask/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-hollow-cask/title-image.jpg" alt="Original cover for The Hollow Cask"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-hollow-cask/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-hollow-cask/painted-v1.jpg" alt="Painted candidate for The Hollow Cask"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the last day of the watch the-house-beneath-the-horns">
+      <header><h2>The Last Day of the Watch</h2><small>the-house-beneath-the-horns</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>review needed</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-house-beneath-the-horns/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-house-beneath-the-horns/title-image.jpg" alt="Original cover for The Last Day of the Watch"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-house-beneath-the-horns/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-house-beneath-the-horns/painted-v1.jpg" alt="Painted candidate for The Last Day of the Watch"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the counted road the-inheritance-remembers">
+      <header><h2>The Counted Road</h2><small>the-inheritance-remembers</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-inheritance-remembers/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-inheritance-remembers/title-image.jpg" alt="Original cover for The Counted Road"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-inheritance-remembers/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-inheritance-remembers/painted-v1.jpg" alt="Painted candidate for The Counted Road"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the kill she wouldn&#x27;t take the-kill-she-wouldnt-take">
+      <header><h2>The Kill She Wouldn&#x27;t Take</h2><small>the-kill-she-wouldnt-take</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-kill-she-wouldnt-take/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-kill-she-wouldnt-take/title-image.jpg" alt="Original cover for The Kill She Wouldn&#x27;t Take"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-kill-she-wouldnt-take/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-kill-she-wouldnt-take/painted-v1.jpg" alt="Painted candidate for The Kill She Wouldn&#x27;t Take"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the kingdom of later the-kingdom-of-later">
+      <header><h2>The Kingdom of Later</h2><small>the-kingdom-of-later</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-kingdom-of-later/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-kingdom-of-later/title-image.jpg" alt="Original cover for The Kingdom of Later"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-kingdom-of-later/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-kingdom-of-later/painted-v1.jpg" alt="Painted candidate for The Kingdom of Later"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the kingdom was the easy part the-kingdom-was-the-easy-part">
+      <header><h2>The Kingdom Was the Easy Part</h2><small>the-kingdom-was-the-easy-part</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-kingdom-was-the-easy-part/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-kingdom-was-the-easy-part/title-image.jpg" alt="Original cover for The Kingdom Was the Easy Part"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-kingdom-was-the-easy-part/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-kingdom-was-the-easy-part/painted-v1.jpg" alt="Painted candidate for The Kingdom Was the Easy Part"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the last bus to briar hill the-last-bus-to-briar-hill">
+      <header><h2>The Last Bus to Briar Hill</h2><small>the-last-bus-to-briar-hill</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-last-bus-to-briar-hill/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-last-bus-to-briar-hill/title-image.jpg" alt="Original cover for The Last Bus to Briar Hill"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-last-bus-to-briar-hill/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-last-bus-to-briar-hill/painted-v1.jpg" alt="Painted candidate for The Last Bus to Briar Hill"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the last flames the-last-flames">
+      <header><h2>The Last Flames</h2><small>the-last-flames</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-last-flames/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-last-flames/title-image.jpg" alt="Original cover for The Last Flames"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-last-flames/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-last-flames/painted-v1.jpg" alt="Painted candidate for The Last Flames"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the last monster the-last-monster">
+      <header><h2>The Last Monster</h2><small>the-last-monster</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-last-monster/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-last-monster/title-image.jpg" alt="Original cover for The Last Monster"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-last-monster/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-last-monster/painted-v1.jpg" alt="Painted candidate for The Last Monster"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the last thing i could fix the-last-thing-i-could-fix">
+      <header><h2>The Last Thing I Could Fix</h2><small>the-last-thing-i-could-fix</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-last-thing-i-could-fix/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-last-thing-i-could-fix/title-image.jpg" alt="Original cover for The Last Thing I Could Fix"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-last-thing-i-could-fix/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-last-thing-i-could-fix/painted-v1.jpg" alt="Painted candidate for The Last Thing I Could Fix"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the lights beyond the-lights-beyond">
+      <header><h2>The Lights Beyond</h2><small>the-lights-beyond</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-lights-beyond/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-lights-beyond/title-image.jpg" alt="Original cover for The Lights Beyond"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-lights-beyond/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-lights-beyond/painted-v1.jpg" alt="Painted candidate for The Lights Beyond"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the lion&#x27;s last constellation the-lions-last-constellation">
+      <header><h2>The Lion&#x27;s Last Constellation</h2><small>the-lions-last-constellation</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-lions-last-constellation/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-lions-last-constellation/title-image.jpg" alt="Original cover for The Lion&#x27;s Last Constellation"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-lions-last-constellation/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-lions-last-constellation/painted-v1.jpg" alt="Painted candidate for The Lion&#x27;s Last Constellation"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the mercy circuit the-mercy-circuit">
+      <header><h2>The Mercy Circuit</h2><small>the-mercy-circuit</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-mercy-circuit/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-mercy-circuit/title-image.jpg" alt="Original cover for The Mercy Circuit"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-mercy-circuit/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-mercy-circuit/painted-v1.jpg" alt="Painted candidate for The Mercy Circuit"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the morning her hand moved the-morning-her-hand-moved">
+      <header><h2>The Morning Her Hand Moved</h2><small>the-morning-her-hand-moved</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-morning-her-hand-moved/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-morning-her-hand-moved/title-image.jpg" alt="Original cover for The Morning Her Hand Moved"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-morning-her-hand-moved/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-morning-her-hand-moved/painted-v1.jpg" alt="Painted candidate for The Morning Her Hand Moved"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the name i kept the-name-i-kept">
+      <header><h2>The Name I Kept</h2><small>the-name-i-kept</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-name-i-kept/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-name-i-kept/title-image.jpg" alt="Original cover for The Name I Kept"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-name-i-kept/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-name-i-kept/painted-v1.jpg" alt="Painted candidate for The Name I Kept"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the name the water took the-name-the-water-took">
+      <header><h2>The Name the Water Took</h2><small>the-name-the-water-took</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-name-the-water-took/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-name-the-water-took/title-image.jpg" alt="Original cover for The Name the Water Took"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-name-the-water-took/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-name-the-water-took/painted-v1.jpg" alt="Painted candidate for The Name the Water Took"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the names on the cups the-names-on-the-cups">
+      <header><h2>The Names on the Cups</h2><small>the-names-on-the-cups</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-names-on-the-cups/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-names-on-the-cups/title-image.jpg" alt="Original cover for The Names on the Cups"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-names-on-the-cups/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-names-on-the-cups/painted-v1.jpg" alt="Painted candidate for The Names on the Cups"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the next train the-next-train">
+      <header><h2>The Next Train</h2><small>the-next-train</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-next-train/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-next-train/title-image.jpg" alt="Original cover for The Next Train"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-next-train/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-next-train/painted-v1.jpg" alt="Painted candidate for The Next Train"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the night harvest the-night-harvest">
+      <header><h2>The Night Harvest</h2><small>the-night-harvest</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-night-harvest/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-night-harvest/title-image.jpg" alt="Original cover for The Night Harvest"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-night-harvest/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-night-harvest/painted-v1.jpg" alt="Painted candidate for The Night Harvest"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the night she knew the-night-she-knew">
+      <header><h2>The Night She Knew</h2><small>the-night-she-knew</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-night-she-knew/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-night-she-knew/title-image.jpg" alt="Original cover for The Night She Knew"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-night-she-knew/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-night-she-knew/painted-v1.jpg" alt="Painted candidate for The Night She Knew"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the ninety-year barrier the-ninety-year-barrier">
+      <header><h2>The Ninety-Year Barrier</h2><small>the-ninety-year-barrier</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-ninety-year-barrier/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-ninety-year-barrier/title-image.jpg" alt="Original cover for The Ninety-Year Barrier"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-ninety-year-barrier/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-ninety-year-barrier/painted-v1.jpg" alt="Painted candidate for The Ninety-Year Barrier"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the old percentage the-old-percentage">
+      <header><h2>The Old Percentage</h2><small>the-old-percentage</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-old-percentage/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-old-percentage/title-image.jpg" alt="Original cover for The Old Percentage"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-old-percentage/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-old-percentage/painted-v1.jpg" alt="Painted candidate for The Old Percentage"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the one who gets tired the-one-who-gets-tired">
+      <header><h2>The One Who Gets Tired</h2><small>the-one-who-gets-tired</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-one-who-gets-tired/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-one-who-gets-tired/title-image.jpg" alt="Original cover for The One Who Gets Tired"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-one-who-gets-tired/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-one-who-gets-tired/painted-v1.jpg" alt="Painted candidate for The One Who Gets Tired"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the ordinary slime the-ordinary-slime">
+      <header><h2>The Ordinary Slime</h2><small>the-ordinary-slime</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-ordinary-slime/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-ordinary-slime/title-image.jpg" alt="Original cover for The Ordinary Slime"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-ordinary-slime/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-ordinary-slime/painted-v1.jpg" alt="Painted candidate for The Ordinary Slime"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the other twin the-other-twin">
+      <header><h2>The Other Twin</h2><small>the-other-twin</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-other-twin/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-other-twin/title-image.jpg" alt="Original cover for The Other Twin"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-other-twin/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-other-twin/painted-v1.jpg" alt="Painted candidate for The Other Twin"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the peace they could sleep through the-peace-they-could-sleep-through">
+      <header><h2>The Peace They Could Sleep Through</h2><small>the-peace-they-could-sleep-through</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-peace-they-could-sleep-through/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-peace-they-could-sleep-through/title-image.jpg" alt="Original cover for The Peace They Could Sleep Through"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-peace-they-could-sleep-through/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-peace-they-could-sleep-through/painted-v1.jpg" alt="Painted candidate for The Peace They Could Sleep Through"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="the place laid for her the-place-laid-for-her">
+      <header><h2>The Place Laid for Her</h2><small>the-place-laid-for-her</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-place-laid-for-her/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-place-laid-for-her/title-image.jpg" alt="Original cover for The Place Laid for Her"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the place we keep the-place-we-keep">
+      <header><h2>The Place We Keep</h2><small>the-place-we-keep</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-place-we-keep/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-place-we-keep/title-image.jpg" alt="Original cover for The Place We Keep"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-place-we-keep/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-place-we-keep/painted-v1.jpg" alt="Painted candidate for The Place We Keep"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the players above the-players-above">
+      <header><h2>The Players Above</h2><small>the-players-above</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-players-above/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-players-above/title-image.jpg" alt="Original cover for The Players Above"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-players-above/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-players-above/painted-v1.jpg" alt="Painted candidate for The Players Above"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the red dot the-red-dot">
+      <header><h2>The Red Dot</h2><small>the-red-dot</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-red-dot/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-red-dot/title-image.jpg" alt="Original cover for The Red Dot"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-red-dot/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-red-dot/painted-v1.jpg" alt="Painted candidate for The Red Dot"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the ring between lives the-ring-between-lives">
+      <header><h2>The Ring Between Lives</h2><small>the-ring-between-lives</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-ring-between-lives/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-ring-between-lives/title-image.jpg" alt="Original cover for The Ring Between Lives"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-ring-between-lives/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-ring-between-lives/painted-v1.jpg" alt="Painted candidate for The Ring Between Lives"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the room that waited the-room-that-waited">
+      <header><h2>The Room That Waited</h2><small>the-room-that-waited</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-room-that-waited/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-room-that-waited/title-image.jpg" alt="Original cover for The Room That Waited"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-room-that-waited/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-room-that-waited/painted-v1.jpg" alt="Painted candidate for The Room That Waited"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="all the good things the-rule-between-courses">
+      <header><h2>All the Good Things</h2><small>the-rule-between-courses</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>review needed</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-rule-between-courses/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-rule-between-courses/title-image.jpg" alt="Original cover for All the Good Things"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-rule-between-courses/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-rule-between-courses/painted-v1.jpg" alt="Painted candidate for All the Good Things"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the second wearing the-second-wearing">
+      <header><h2>The Second Wearing</h2><small>the-second-wearing</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-second-wearing/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-second-wearing/title-image.jpg" alt="Original cover for The Second Wearing"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-second-wearing/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-second-wearing/painted-v1.jpg" alt="Painted candidate for The Second Wearing"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the seventh night the-seventh-night">
+      <header><h2>The Seventh Night</h2><small>the-seventh-night</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-seventh-night/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-seventh-night/title-image.jpg" alt="Original cover for The Seventh Night"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-seventh-night/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-seventh-night/painted-v1.jpg" alt="Painted candidate for The Seventh Night"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the shadow that nested the-shadow-that-nested">
+      <header><h2>The Shadow That Nested</h2><small>the-shadow-that-nested</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-shadow-that-nested/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-shadow-that-nested/title-image.jpg" alt="Original cover for The Shadow That Nested"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-shadow-that-nested/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-shadow-that-nested/painted-v1.jpg" alt="Painted candidate for The Shadow That Nested"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the shape of mercy the-shape-of-mercy">
+      <header><h2>The Shape of Mercy</h2><small>the-shape-of-mercy</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-shape-of-mercy/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-shape-of-mercy/title-image.jpg" alt="Original cover for The Shape of Mercy"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-shape-of-mercy/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-shape-of-mercy/painted-v1.jpg" alt="Painted candidate for The Shape of Mercy"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the sister behind her smile the-sister-behind-her-smile">
+      <header><h2>The Sister Behind Her Smile</h2><small>the-sister-behind-her-smile</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-sister-behind-her-smile/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-sister-behind-her-smile/title-image.jpg" alt="Original cover for The Sister Behind Her Smile"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-sister-behind-her-smile/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-sister-behind-her-smile/painted-v1.jpg" alt="Painted candidate for The Sister Behind Her Smile"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the sky remembers us the-sky-remembers-us-return">
+      <header><h2>The Sky Remembers Us</h2><small>the-sky-remembers-us-return</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-sky-remembers-us-return/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-sky-remembers-us-return/title-image.jpg" alt="Original cover for The Sky Remembers Us"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-sky-remembers-us-return/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-sky-remembers-us-return/painted-v1.jpg" alt="Painted candidate for The Sky Remembers Us"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the small moon rose first the-small-moon-rose-first">
+      <header><h2>The Small Moon Rose First</h2><small>the-small-moon-rose-first</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-small-moon-rose-first/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-small-moon-rose-first/title-image.jpg" alt="Original cover for The Small Moon Rose First"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-small-moon-rose-first/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-small-moon-rose-first/painted-v1.jpg" alt="Painted candidate for The Small Moon Rose First"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the spider&#x27;s hunger the-spiders-hunger">
+      <header><h2>The Spider&#x27;s Hunger</h2><small>the-spiders-hunger</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-spiders-hunger/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-spiders-hunger/title-image.jpg" alt="Original cover for The Spider&#x27;s Hunger"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-spiders-hunger/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-spiders-hunger/painted-v1.jpg" alt="Painted candidate for The Spider&#x27;s Hunger"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the star that followed the bells the-star-that-followed-the-bells">
+      <header><h2>The Star That Followed the Bells</h2><small>the-star-that-followed-the-bells</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-star-that-followed-the-bells/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-star-that-followed-the-bells/title-image.jpg" alt="Original cover for The Star That Followed the Bells"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-star-that-followed-the-bells/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-star-that-followed-the-bells/painted-v1.jpg" alt="Painted candidate for The Star That Followed the Bells"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the station between the-station-between">
+      <header><h2>The Station Between</h2><small>the-station-between</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-station-between/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-station-between/title-image.jpg" alt="Original cover for The Station Between"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-station-between/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-station-between/painted-v1.jpg" alt="Painted candidate for The Station Between"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="skip_already_painted" data-detail="" data-canon="false" data-search="the sun in the crowd the-sun-in-the-crowd">
+      <header><h2>The Sun in the Crowd</h2><small>the-sun-in-the-crowd</small><div class="tags"><span>skip already painted</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-sun-in-the-crowd/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-sun-in-the-crowd/title-image.jpg" alt="Original cover for The Sun in the Crowd"></a><figcaption>Original</figcaption></figure>
+        <figure><div class="missing">Already painted — no candidate needed</div><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the queen after ten thousand years the-ten-thousand-year-queen">
+      <header><h2>The Queen After Ten Thousand Years</h2><small>the-ten-thousand-year-queen</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-ten-thousand-year-queen/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-ten-thousand-year-queen/title-image.jpg" alt="Original cover for The Queen After Ten Thousand Years"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-ten-thousand-year-queen/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-ten-thousand-year-queen/painted-v1.jpg" alt="Painted candidate for The Queen After Ten Thousand Years"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the thirteenth command the-thirteenth-command">
+      <header><h2>The Thirteenth Command</h2><small>the-thirteenth-command</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-thirteenth-command/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-thirteenth-command/title-image.jpg" alt="Original cover for The Thirteenth Command"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-thirteenth-command/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-thirteenth-command/painted-v1.jpg" alt="Painted candidate for The Thirteenth Command"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the thousandth fall the-thousandth-fall">
+      <header><h2>The Thousandth Fall</h2><small>the-thousandth-fall</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-thousandth-fall/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-thousandth-fall/title-image.jpg" alt="Original cover for The Thousandth Fall"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-thousandth-fall/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-thousandth-fall/painted-v1.jpg" alt="Painted candidate for The Thousandth Fall"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the thread that held the-thread-that-held">
+      <header><h2>The Thread That Held</h2><small>the-thread-that-held</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-thread-that-held/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-thread-that-held/title-image.jpg" alt="Original cover for The Thread That Held"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-thread-that-held/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-thread-that-held/painted-v1.jpg" alt="Painted candidate for The Thread That Held"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the trouble with tuesdays the-trouble-with-tuesdays">
+      <header><h2>The Trouble With Tuesdays</h2><small>the-trouble-with-tuesdays</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-trouble-with-tuesdays/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-trouble-with-tuesdays/title-image.jpg" alt="Original cover for The Trouble With Tuesdays"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-trouble-with-tuesdays/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-trouble-with-tuesdays/painted-v1.jpg" alt="Painted candidate for The Trouble With Tuesdays"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the unfinished sunset the-unfinished-sunset">
+      <header><h2>The Unfinished Sunset</h2><small>the-unfinished-sunset</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-unfinished-sunset/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-unfinished-sunset/title-image.jpg" alt="Original cover for The Unfinished Sunset"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-unfinished-sunset/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-unfinished-sunset/painted-v1.jpg" alt="Painted candidate for The Unfinished Sunset"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the unfixed face the-unfixed-face">
+      <header><h2>The Unfixed Face</h2><small>the-unfixed-face</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-unfixed-face/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-unfixed-face/title-image.jpg" alt="Original cover for The Unfixed Face"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-unfixed-face/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-unfixed-face/painted-v1.jpg" alt="Painted candidate for The Unfixed Face"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the unfixed song the-unfixed-song">
+      <header><h2>The Unfixed Song</h2><small>the-unfixed-song</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-unfixed-song/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-unfixed-song/title-image.jpg" alt="Original cover for The Unfixed Song"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-unfixed-song/painted-v2.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-unfixed-song/painted-v2.jpg" alt="Painted candidate for The Unfixed Song"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the unoffered hand the-unoffered-hand">
+      <header><h2>The Unoffered Hand</h2><small>the-unoffered-hand</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-unoffered-hand/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-unoffered-hand/title-image.jpg" alt="Original cover for The Unoffered Hand"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-unoffered-hand/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-unoffered-hand/painted-v1.jpg" alt="Painted candidate for The Unoffered Hand"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the unopened ring the-unopened-ring">
+      <header><h2>The Unopened Ring</h2><small>the-unopened-ring</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-unopened-ring/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-unopened-ring/title-image.jpg" alt="Original cover for The Unopened Ring"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-unopened-ring/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-unopened-ring/painted-v1.jpg" alt="Painted candidate for The Unopened Ring"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the upward rain the-upward-rain">
+      <header><h2>The Upward Rain</h2><small>the-upward-rain</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-upward-rain/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-upward-rain/title-image.jpg" alt="Original cover for The Upward Rain"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-upward-rain/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-upward-rain/painted-v1.jpg" alt="Painted candidate for The Upward Rain"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the vacant throne the-vacant-throne">
+      <header><h2>The Vacant Throne</h2><small>the-vacant-throne</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-vacant-throne/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-vacant-throne/title-image.jpg" alt="Original cover for The Vacant Throne"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-vacant-throne/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-vacant-throne/painted-v1.jpg" alt="Painted candidate for The Vacant Throne"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the one who helped everyone the-villages-only-mage">
+      <header><h2>The One Who Helped Everyone</h2><small>the-villages-only-mage</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-villages-only-mage/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-villages-only-mage/title-image.jpg" alt="Original cover for The One Who Helped Everyone"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-villages-only-mage/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-villages-only-mage/painted-v1.jpg" alt="Painted candidate for The One Who Helped Everyone"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the walls are thick enough the-walls-are-thick-enough">
+      <header><h2>The Walls Are Thick Enough</h2><small>the-walls-are-thick-enough</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-walls-are-thick-enough/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-walls-are-thick-enough/title-image.jpg" alt="Original cover for The Walls Are Thick Enough"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-walls-are-thick-enough/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-walls-are-thick-enough/painted-v1.jpg" alt="Painted candidate for The Walls Are Thick Enough"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the warmest person in the room the-warmest-person-in-the-room">
+      <header><h2>The Warmest Person in the Room</h2><small>the-warmest-person-in-the-room</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-warmest-person-in-the-room/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-warmest-person-in-the-room/title-image.jpg" alt="Original cover for The Warmest Person in the Room"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-warmest-person-in-the-room/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-warmest-person-in-the-room/painted-v1.jpg" alt="Painted candidate for The Warmest Person in the Room"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the way around the-way-around">
+      <header><h2>The Way Around</h2><small>the-way-around</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-way-around/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-way-around/title-image.jpg" alt="Original cover for The Way Around"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-way-around/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-way-around/painted-v1.jpg" alt="Painted candidate for The Way Around"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="true" data-search="the weight of falling up the-weight-of-falling-up-rune-shoes">
+      <header><h2>The Weight of Falling Up</h2><small>the-weight-of-falling-up-rune-shoes</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>canon locked</span><span>candidate review</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-weight-of-falling-up-rune-shoes/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-weight-of-falling-up-rune-shoes/title-image.jpg" alt="Original cover for The Weight of Falling Up"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-weight-of-falling-up-rune-shoes/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-weight-of-falling-up-rune-shoes/painted-v1.jpg" alt="Painted candidate for The Weight of Falling Up"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the weight they never counted the-weight-they-never-counted">
+      <header><h2>The Weight They Never Counted</h2><small>the-weight-they-never-counted</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-weight-they-never-counted/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-weight-they-never-counted/title-image.jpg" alt="Original cover for The Weight They Never Counted"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-weight-they-never-counted/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-weight-they-never-counted/painted-v1.jpg" alt="Painted candidate for The Weight They Never Counted"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="the wolf in the mirror the-wolf-in-the-mirror">
+      <header><h2>The Wolf in the Mirror</h2><small>the-wolf-in-the-mirror</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-wolf-in-the-mirror/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-wolf-in-the-mirror/title-image.jpg" alt="Original cover for The Wolf in the Mirror"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-wolf-in-the-mirror/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-wolf-in-the-mirror/painted-v1.jpg" alt="Painted candidate for The Wolf in the Mirror"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the wrong side of the part the-wrong-side-of-the-part">
+      <header><h2>The Wrong Side of the Part</h2><small>the-wrong-side-of-the-part</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/the-wrong-side-of-the-part/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/the-wrong-side-of-the-part/title-image.jpg" alt="Original cover for The Wrong Side of the Part"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/the-wrong-side-of-the-part/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/the-wrong-side-of-the-part/painted-v1.jpg" alt="Painted candidate for The Wrong Side of the Part"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="there goes your name there-goes-your-name">
+      <header><h2>There Goes Your Name</h2><small>there-goes-your-name</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/there-goes-your-name/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/there-goes-your-name/title-image.jpg" alt="Original cover for There Goes Your Name"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/there-goes-your-name/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/there-goes-your-name/painted-v1.jpg" alt="Painted candidate for There Goes Your Name"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="thirteen years borrowed thirteen-years-borrowed">
+      <header><h2>Thirteen Years Borrowed</h2><small>thirteen-years-borrowed</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/thirteen-years-borrowed/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/thirteen-years-borrowed/title-image.jpg" alt="Original cover for Thirteen Years Borrowed"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/thirteen-years-borrowed/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/thirteen-years-borrowed/painted-v1.jpg" alt="Painted candidate for Thirteen Years Borrowed"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="transitions in common transitions-in-common">
+      <header><h2>Transitions in Common</h2><small>transitions-in-common</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/transitions-in-common/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/transitions-in-common/title-image.jpg" alt="Original cover for Transitions in Common"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/transitions-in-common/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/transitions-in-common/painted-v1.jpg" alt="Painted candidate for Transitions in Common"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="twelve in the room twelve-in-the-room">
+      <header><h2>Twelve in the Room</h2><small>twelve-in-the-room</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/twelve-in-the-room/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/twelve-in-the-room/title-image.jpg" alt="Original cover for Twelve in the Room"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/twelve-in-the-room/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/twelve-in-the-room/painted-v1.jpg" alt="Painted candidate for Twelve in the Room"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="a very good dog ultimate-evil-dog">
+      <header><h2>A Very Good Dog</h2><small>ultimate-evil-dog</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/ultimate-evil-dog/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/ultimate-evil-dog/title-image.jpg" alt="Original cover for A Very Good Dog"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/ultimate-evil-dog/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/ultimate-evil-dog/painted-v1.jpg" alt="Painted candidate for A Very Good Dog"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="undisclosed undisclosed">
+      <header><h2>Undisclosed</h2><small>undisclosed</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/undisclosed/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/undisclosed/title-image.jpg" alt="Original cover for Undisclosed"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/undisclosed/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/undisclosed/painted-v1.jpg" alt="Painted candidate for Undisclosed"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="the voice of silence voice-of-silence">
+      <header><h2>The Voice of Silence</h2><small>voice-of-silence</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/voice-of-silence/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/voice-of-silence/title-image.jpg" alt="Original cover for The Voice of Silence"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/voice-of-silence/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/voice-of-silence/painted-v1.jpg" alt="Painted candidate for The Voice of Silence"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="true" data-search="what i hate most what-i-hate-most">
+      <header><h2>What I Hate Most</h2><small>what-i-hate-most</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>canon locked</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/what-i-hate-most/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/what-i-hate-most/title-image.jpg" alt="Original cover for What I Hate Most"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/what-i-hate-most/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/what-i-hate-most/painted-v1.jpg" alt="Painted candidate for What I Hate Most"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="what she remembered of peace what-she-remembered-of-peace">
+      <header><h2>What She Remembered of Peace</h2><small>what-she-remembered-of-peace</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>review needed</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/what-she-remembered-of-peace/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/what-she-remembered-of-peace/title-image.jpg" alt="Original cover for What She Remembered of Peace"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/what-she-remembered-of-peace/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/what-she-remembered-of-peace/painted-v1.jpg" alt="Painted candidate for What She Remembered of Peace"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="the wrong rescue what-the-gates-keep">
+      <header><h2>The Wrong Rescue</h2><small>what-the-gates-keep</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/what-the-gates-keep/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/what-the-gates-keep/title-image.jpg" alt="Original cover for The Wrong Rescue"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/what-the-gates-keep/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/what-the-gates-keep/painted-v1.jpg" alt="Painted candidate for The Wrong Rescue"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="what the town owed her what-the-town-owed-her">
+      <header><h2>What the Town Owed Her</h2><small>what-the-town-owed-her</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate selected</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/what-the-town-owed-her/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/what-the-town-owed-her/title-image.jpg" alt="Original cover for What the Town Owed Her"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/what-the-town-owed-her/painted-v2.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/what-the-town-owed-her/painted-v2.jpg" alt="Painted candidate for What the Town Owed Her"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="what the wind wanted what-the-wind-wanted">
+      <header><h2>What the Wind Wanted</h2><small>what-the-wind-wanted</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/what-the-wind-wanted/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/what-the-wind-wanted/title-image.jpg" alt="Original cover for What the Wind Wanted"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/what-the-wind-wanted/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/what-the-wind-wanted/painted-v1.jpg" alt="Painted candidate for What the Wind Wanted"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="what turned eighteen what-turned-eighteen">
+      <header><h2>What Turned Eighteen</h2><small>what-turned-eighteen</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/what-turned-eighteen/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/what-turned-eighteen/title-image.jpg" alt="Original cover for What Turned Eighteen"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/what-turned-eighteen/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/what-turned-eighteen/painted-v1.jpg" alt="Painted candidate for What Turned Eighteen"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="when the eagle bowed when-the-eagle-bowed">
+      <header><h2>When the Eagle Bowed</h2><small>when-the-eagle-bowed</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/when-the-eagle-bowed/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/when-the-eagle-bowed/title-image.jpg" alt="Original cover for When the Eagle Bowed"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/when-the-eagle-bowed/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/when-the-eagle-bowed/painted-v1.jpg" alt="Painted candidate for When the Eagle Bowed"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="when the needle finds you when-the-needle-finds-you">
+      <header><h2>When the Needle Finds You</h2><small>when-the-needle-finds-you</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/when-the-needle-finds-you/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/when-the-needle-finds-you/title-image.jpg" alt="Original cover for When the Needle Finds You"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/when-the-needle-finds-you/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/when-the-needle-finds-you/painted-v1.jpg" alt="Painted candidate for When the Needle Finds You"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="where it hurts where-it-hurts">
+      <header><h2>Where It Hurts</h2><small>where-it-hurts</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/where-it-hurts/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/where-it-hurts/title-image.jpg" alt="Original cover for Where It Hurts"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/where-it-hurts/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/where-it-hurts/painted-v1.jpg" alt="Painted candidate for Where It Hurts"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="where no unicorn stands where-no-unicorn-stands">
+      <header><h2>Where No Unicorn Stands</h2><small>where-no-unicorn-stands</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/where-no-unicorn-stands/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/where-no-unicorn-stands/title-image.jpg" alt="Original cover for Where No Unicorn Stands"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/where-no-unicorn-stands/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/where-no-unicorn-stands/painted-v1.jpg" alt="Painted candidate for Where No Unicorn Stands"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="where sleep takes you where-sleep-takes-you">
+      <header><h2>Where Sleep Takes You</h2><small>where-sleep-takes-you</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/where-sleep-takes-you/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/where-sleep-takes-you/title-image.jpg" alt="Original cover for Where Sleep Takes You"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/where-sleep-takes-you/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/where-sleep-takes-you/painted-v1.jpg" alt="Painted candidate for Where Sleep Takes You"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="where the white elk went where-the-white-elk-went">
+      <header><h2>Where the White Elk Went</h2><small>where-the-white-elk-went</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/where-the-white-elk-went/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/where-the-white-elk-went/title-image.jpg" alt="Original cover for Where the White Elk Went"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/where-the-white-elk-went/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/where-the-white-elk-went/painted-v1.jpg" alt="Painted candidate for Where the White Elk Went"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="broad_shape" data-canon="false" data-search="witch cold witch-cold">
+      <header><h2>Witch Cold</h2><small>witch-cold</small><div class="tags"><span>restyle</span><span>broad_shape</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/witch-cold/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/witch-cold/title-image.jpg" alt="Original cover for Witch Cold"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/witch-cold/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/witch-cold/painted-v1.jpg" alt="Painted candidate for Witch Cold"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+<article class="card" data-status="restyle" data-detail="fine_detail" data-canon="false" data-search="where the eagle lands yavrens-return">
+      <header><h2>Where the Eagle Lands</h2><small>yavrens-return</small><div class="tags"><span>restyle</span><span>fine_detail</span><span>candidate checked</span></div></header>
+      <div class="images">
+        <figure><a href="../../stories/yavrens-return/title-image.jpg" target="_blank" rel="noopener"><img loading="lazy" src="../../stories/yavrens-return/title-image.jpg" alt="Original cover for Where the Eagle Lands"></a><figcaption>Original</figcaption></figure>
+        <figure><a href="candidates/yavrens-return/painted-v1.jpg" target="_blank" rel="noopener"><img loading="lazy" src="candidates/yavrens-return/painted-v1.jpg" alt="Painted candidate for Where the Eagle Lands"></a><figcaption>Painted study</figcaption></figure>
+      </div>
+    </article>
+</main>
+<script>
+const cards=[...document.querySelectorAll('.card')];
+const search=document.getElementById('search'),status=document.getElementById('status'),detail=document.getElementById('detail'),canon=document.getElementById('canon'),count=document.getElementById('count');
+function filter(){const q=search.value.toLowerCase().trim(); let n=0; for(const card of cards){const show=(status.value==='all'||card.dataset.status===status.value)&&(detail.value==='all'||card.dataset.detail===detail.value)&&(canon.value==='all'||card.dataset.canon===canon.value)&&card.dataset.search.includes(q);card.hidden=!show;if(show)n++;}count.textContent=n+' shown';}
+search.addEventListener('input',filter);status.addEventListener('change',filter);detail.addEventListener('change',filter);canon.addEventListener('change',filter);filter();
+</script>
+</body></html>
