@@ -1,0 +1,7 @@
+{
+  "location": "chapel belfry",
+  "original": "interiors/belfry-original.webp",
+  "selected": "interiors/belfry-corrected.webp",
+  "selection_reason": "The correction places the bell over the opened floor and shows a low padded receiving cradle between the pews below. The original's receiving structure read as large rolls immediately beneath the belfry.",
+  "visual_note": "The selected cradle is small at this viewing distance; its timber and canvas are clearest at full resolution."
+}
