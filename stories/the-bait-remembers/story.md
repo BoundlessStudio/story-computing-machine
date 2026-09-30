@@ -98,9 +98,9 @@ The man took a step away from the desk, still near the street door.
 
 “I didn't ask you to read her.” I nodded toward the woman with the envelope. She was watching him, her parcel still tight against her side. “Or me.”
 
-He looked at her, and for a second I thought he would go over and apologize again. Then he turned toward the street door. Innes moved past the father. The queue had shifted while I was gone; the counter was free. I went to it and set the address side of the card where Innes could see it, beside my coins. My hand was shaking enough that the three coins fell out separately.
+He looked at her, and for a second I thought he would go over and apologize again. Then he turned toward the street door. Innes moved past the father. The counter was free. I went to it and put the card beside my coins, the bird showing. My hand was shaking enough that the three coins fell out separately.
 
-“One stamp,” I said. Innes turned. The clerk, a woman with a gray pencil tucked above one ear, looked from me to the coins. Across the floor, the man in the scarf reached the street door. He had to hold its frame for a moment before he could walk properly, but he went.
+“One stamp,” I said. Innes turned and crossed back toward me. The clerk, a woman with a gray pencil tucked above one ear, looked from me to the coins. Across the floor, the man in the scarf reached the street door. He had to hold its frame for a moment before he could walk properly, but he went.
 
 Innes closed his hand around my wrist and put his other hand over the card before the clerk could take it. He smiled at her. “She isn't well. I'll look after that.”
 
