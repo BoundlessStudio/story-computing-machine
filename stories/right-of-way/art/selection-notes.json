@@ -1,0 +1,93 @@
+{
+  "story": "Right of Way",
+  "created": "2026-09-30",
+  "tool": "Built-in image_gen.imagegen; no CLI/API billing",
+  "visual_direction": "Canadian Group of Seven inspired oils: broad varied opaque strokes, motivated late-afternoon light, connected shadows and selective impasto.",
+  "supplied_references": [],
+  "collection_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Paint, brushwork and value-shape reference; its orchard was not imported."
+    },
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.webp",
+      "role": "Multi-view sheet layout reference only; no character, clothing or props reused."
+    }
+  ],
+  "selected_location": "landscapes/ridge-over-town-selected.webp",
+  "assets": [
+    {
+      "path": "../title-image.jpg",
+      "role": "Selected cover",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "format": "JPEG",
+      "prompts": [
+        "cover",
+        "cover_signal_correction"
+      ],
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a0f342-4c2e-7ca2-976b-dee44003e712\\exec-c13b4529-d071-49be-8a5e-3562e4608471.png",
+      "references": [
+        "characters/maud-flax.webp",
+        "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png"
+      ],
+      "postprocessing": "RGB conversion and Lanczos resample from 941x1672 to 864x1536; JPEG quality 96, chroma subsampling disabled. Title was generated in the image and never added afterward.",
+      "review": "Exact title once and readable; four coherent rear-view riders and separate brooms; Maud identity/clothing match sheet, left bent-elbow signal and wrist clear; narrator face unseen and narrator alone carries cake; Hesta black cloak with rusty red lining, Minta hat. Original cover candidate remains outside package."
+    },
+    {
+      "path": "characters/maud-flax.webp",
+      "role": "Selected character sheet",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "prompts": [
+        "maud_sheet"
+      ],
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a0f342-4c2e-7ca2-976b-dee44003e712\\exec-57f49195-b10f-4de0-9d7a-8cce8e95e3e7.png",
+      "postprocessing": "RGB conversion; WebP quality 96, method 6; no resampling.",
+      "review": "Readable Maud Flax and Right of Way labels; same elderly lined face, silver plait, practical coat/skirt/boots across front, side, rear, mounted pose and two expressions; crooked hornbeam broom and separate practice cake bag."
+    },
+    {
+      "path": "landscapes/ridge-over-town-original.png",
+      "role": "Preserved original location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "prompts": [
+        "ridge_original"
+      ],
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a0f342-4c2e-7ca2-976b-dee44003e712\\exec-aa1280a4-306f-4215-8d52-433130565120.png",
+      "postprocessing": "Original generated PNG copied unchanged.",
+      "review": "Grass/rock ridge and close landing stones, town market and clock tower, cover-consistent setting. Original distant traffic read as a high skyline procession, motivating the selected correction."
+    },
+    {
+      "path": "landscapes/ridge-over-town-selected.webp",
+      "role": "Selected corrected location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "prompts": [
+        "ridge_original",
+        "ridge_traffic_correction"
+      ],
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a0f342-4c2e-7ca2-976b-dee44003e712\\exec-2a532323-2571-48c9-91ac-ffb321430476.png",
+      "postprocessing": "RGB conversion; WebP quality 96, method 6; no resampling.",
+      "review": "Traffic moved into lower town airspace around the market and clock tower, with smaller distant riders. Ridge stones, grass/rock, architecture, light and composition remain consistent with original; no orchard, text or invented flight infrastructure."
+    }
+  ],
+  "prompts": {
+    "maud_sheet": "Use case: illustration-story\nAsset type: multi-view character reference sheet for the finished short story Right of Way.\nCreate a 1536 x 1024 landscape oil-painted character sheet on a quiet warm ivory background, labeled with the exact texts \"Maud Flax\" and \"Right of Way\" at the upper left, both readable, each once. No additional labels are necessary.\nInput images: image 1, Apple Orchard Hillside, is a painting-medium and brushwork reference only. Image 2, Melicent, is a sheet-layout reference only; do not reuse its character, armor, sword or red cape.\nSubject: the SAME Maud Flax across every view, a capable 104-year-old witch and grandmother, visibly elderly rather than magically young. Slightly angular, deeply lined pale face, prominent straight nose, alert gray eyes, thin mouth with a dry practical expression; medium height and sturdy ordinary build. Silver-gray hair in one long plait. No pointed hat. A practical charcoal-green wool riding coat, long dark brown wool skirt, and worn black ankle boots. Simple modest everyday clothes, no ornaments, no armor. Her coat sleeves allow her elbow and wrist to be visible when signaling. The hair, face, coat, skirt and boots must agree across every panel.\nComposition: three full-length standing studies across the left half, front, true side, and rear, with each entire figure including boots visible. On the right, one smaller full-body three-quarter riding pose, Maud sitting astride her crooked hornbeam broom with knees bent naturally and both hands gripping the wooden handle. Above or beside it, two close face expression studies, stubborn concentration and contained amusement. Separate small prop study of her crooked hornbeam broom, a worn pale-brown bent wooden handle with brush bristles at the rear, and a flat canvas bag with fastening straps used to carry a cake tin. Do not attach the bag to every pose. The plait may be tucked into her collar in one riding view but its identity must stay consistent.\nStyle/medium: Canadian Group of Seven inspired oils as in image 1. Broad rhythmic color and value masses, varied directional opaque brushstrokes, quieter connecting passages, selective substantial impasto. Keep facial structure legible while genuinely painted. Connected dark shadows, lost edges, no glossy skin, no uniform beveled strokes or polygonal facets. Clear flat sheet organization like image 2, but subdued workaday witch clothing and natural soft daylight rather than theatrical lighting.\nConstraints: exactly one character shown repeatedly. Coherent human anatomy with two arms, two legs, five fingers where visible. Each figure stands or sits naturally, broom props are single unbroken objects. Readable exact title and character name. No magical glow, sparkles, rim light, digital 3D finish, watermark, vehicles or scenic background.",
+    "cover": "Use case: illustration-story\nAsset type: finished literary short-story cover, portrait 9:16, 864 x 1536 pixels.\nPrimary request: one warm, spirited, believable moment from the Sunday birthday flight at the end of Right of Way. This is a family who fly brooms as ordinary skilled transportation; affectionate dry wit, no peril or magical spectacle.\nInput images: image 1, Maud Flax character sheet, fixes Grandma Maud's identity, silver-gray plait, charcoal-green practical coat, long brown skirt, boots, crooked hornbeam broom. Use only those character details; do not copy the sheet layout or its typography. Image 2, Apple Orchard Hillside, guides broad Group of Seven oil paint and varied brushwork only; do not import the orchard.\nScene/backdrop: looking from behind and slightly below four riders flying from their town toward the ridge under low late-afternoon sunlight. Ordinary clustered town roofs, a market square, one clock tower and low rocky hills below, generous evening sky above. No orchard around the airborne family.\nSubject/composition: exactly FOUR separate riders on FOUR separate brooms, each in a coherent full or nearly full body seated astride a single broom, rear bristles and forward wooden handle visible, bent knees naturally straddling the handle; no other foreground people. At the forward point of the group is Grandma Maud, visibly elderly, silver plait out of her coat collar lifting in the wind, charcoal-green coat and brown skirt as in image 1. She begins a right turn signal: her LEFT upper arm extends sideways from her shoulder, elbow clearly bent upward, fist up, wrist visible and coat sleeve clear of elbow. Two arms only, right hand still grips her own broom. She leads with no bag. Behind her in the center is the younger adult grandchild narrator in an ordinary narrow-sleeved work coat, face unseen from this rear view, following on a separate broom and carrying a small securely strapped cake bag beneath its handle. To the narrator's left flies elderly Aunt Hesta in a black cloak with rusty-red wool lining visible in one folded edge; her broom has copper binding at its bristles. To the narrator's right flies elderly Aunt Minta in a modest old-fashioned hat and practical coat, holding her broom steady. Riders separated with breathing room; Maud leads and each rider follows the same general direction toward the hills. No bags on Maud, no birthday balloons, no license cards or bureaucratic montage.\nText (verbatim): \"Right of Way\", exactly ONCE, large readable restrained ivory serif lettering in the upper quiet sky, integrated into the cover by the image generation. It may use two balanced lines but preserve those exact words and capitalization. No author name, subtitle or other text.\nStyle/medium: Canadian Group of Seven inspired opaque oil painting as image 2. Broad rhythmic masses, visibly varied directional strokes, quiet passages, selective substantial impasto, simplified architecture and figures yet coherent human/broom anatomy. Connected dark shadows and lost edges in coats and town, natural low sun catching only appropriate surfaces including Maud's silver braid. Restrained late-afternoon earth greens, muted gray-blue sky and warm lit stone, no automatic orange-blue contrast.\nConstraints: composition reads at thumbnail size and invites a humorous humane story of elderly witches learning shared flight rules. Title fully within edges with comfortable margins. Exactly four riders and four broom handles, one cake bag belonging to the rear-view narrator. No wings, magic trails, sparkle, theatrical rim light, glossy faces, digital 3D finish, uniform beveled strokes, collage or watermark.",
+    "cover_signal_correction": "Use case: precise-object-edit\nAsset type: selected cover correction for Right of Way.\nInput image 1 is the edit target. Preserve the entire cover composition, exact readable title \"Right of Way\" exactly once, four riders and their individual identities, Maud's silver plait and charcoal-green coat, the cake bag only on the central following narrator, three following riders, broom shapes, town, clock tower, hills, lighting, oil paint and 9:16 framing.\nChange ONLY Grandma Maud's arms and nearby sleeve paint in the upper-right leading rider. Her visible upper body is seen from behind. Make the traffic signal clearly use her LEFT arm: her left shoulder at the viewer-left of her back, left upper arm stretching horizontally toward the viewer-left, elbow clearly bent upward, forearm vertical with closed fist above it, wrist exposed above the sleeve. Her right arm remains low and reaches forward to grip the hornbeam broom handle. She has exactly two arms and two hands. Remove the existing raised arm on the viewer-right and paint its old position as the same sky behind her. Do not place the new raised arm or fist over the title, and do not change her head, plait, lower body, seat or broom position. Natural coherent elbows/shoulders, unambiguous bent-left-arm signal from this rear view.\nEverything else stays unchanged. Maintain Canadian Group of Seven inspired oil brushwork, connected dark shadows and motivated low sunlight. No added text, riders, objects or magical glow.",
+    "ridge_original": "Use case: illustration-story\nAsset type: original location reference painting for the finished short story Right of Way; landscape 1536 x 1024.\nInput images: image 1, Apple Orchard Hillside, is the paint/brushwork and value-shape reference only, do not copy its orchard. Image 2, selected Right of Way cover, establishes the appearance of the ordinary clustered stone town, market square, slate roofs and its clock tower; use its town architecture only, not the family, title or exact framing.\nScene: the low rocky ridge above town where Maud, Hesta, Minta and their grandchild fly to eat birthday cake. View from the ridge down over the town in late afternoon. A modest sheltered grassy landing spot in the near foreground, two low gray stones close together with only about a boot-width gap, beneath the distant skyline. Worn low grass, exposed rock and gently uneven ground, no orchard and no planted rows. The ridge opens onto a broad view of the town below: slate-roofed houses clustered around market stalls, one square stone clock tower with a pitched roof and a plain round clock face, same town character as image 2. Low hills beyond. Air above the square is used by ordinary broom commuters; show about twelve very small separate distant rider-and-broom silhouettes with varied headings and generous safe separation, several much smaller than others for depth, no foreground figures. No traffic symbols, no magical buildings, no invented infrastructure.\nComposition: standing eye level at the ridge, a readable narrow pair of landing stones in the lower foreground; town and clock tower in the middle distance, open sky and broad rolling hills beyond. Connected dark foreground values frame the town. A coherent actual location rather than a montage, detailed enough to orient later illustrations but simplified as painted forms. No cake, license cards, close characters or broom props on the ground.\nStyle/medium: Canadian Group of Seven inspired oil painting matching image 1, broad rhythmic masses of muted green, stone gray, ochre and restrained gray-blue. Varied directional opaque brushstrokes, quiet connecting passages, selective substantial impasto. Allow deep connected shadows beneath rocks and between roofs, lost edges in the hillside, no uniform bevels. Late-afternoon sunlight comes naturally from one side, catches selected stone and grass surfaces and town roofs, no theatrical rim light, no automatic orange-blue contrast. Do not brighten every surface.\nConstraints: foreground ridge is grass and rock, not an orchard. Two CLOSE low landing stones, one clock tower, ordinary town. Distant traffic is small and coherent, no enormous airborne people. No text whatsoever, no title, labels, watermark, magic glow or digital 3D finish.",
+    "ridge_traffic_correction": "Use case: precise-object-edit\nAsset type: selected location correction for Right of Way, landscape 1536 x 1024.\nInput image 1 is the edit target, the original ridge-over-town painting. Change ONLY the little airborne broom traffic, its size and placement. The current riders high across the skyline read like a procession; make them ordinary commuters using the air over the market square and around the clock tower.\nRemove the existing high-sky rider silhouettes, restoring exactly the surrounding sky/cloud oil paint. Repaint about twelve SMALL separate rider-and-broom silhouettes in varied headings, most substantially LOWER in the town's airspace just above the market roofs and to either side of the clock tower, with some dark silhouettes naturally picked out against distant fields and a few lighter subtle silhouettes against the roofs. A few much smaller farther riders may remain near the hills beyond town. Show separate horizontal broom handles, seated tiny figures, rear bristles; restrained painterly marks, not a coven parade, many without pointed hats. Some slightly angled ascending/descending, others level. At most two may carry a tiny long package below them. Keep generous coherent space between silhouettes, do not overlap the tower clock face or form rows. The largest airborne commuter is still very small, no foreground people.\nInvariants: preserve the close pair of low landing stones, ALL ridge grass and rock shapes, every building and town street, the market square, the single clock tower and readable round clock face, all hills and clouds, composition, perspective and natural late-afternoon light. Do not add an orchard, route markings, infrastructure or anything else. Preserve Canadian Group of Seven inspired broad varied oil strokes, connected dark shadows and lost edges. No text, title, magic glow, watermark or digital finish."
+  }
+}
