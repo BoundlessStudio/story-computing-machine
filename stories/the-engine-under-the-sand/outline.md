@@ -1,4 +1,4 @@
-# What the Iron Takes
+# Good Iron
 
 Provisional direction: close third person through Sivet, a veteran scavenger; roughly 3,500 words over one day. Her adult daughter Anka has bought passage on a trading caravan. Sivet is supposedly repairing Anka's handcart but has quietly removed its axle, obstructing departure with Anka's possessions without admitting she wants Anka to stay. Anka has plans and salvage skill of her own, and suspects the delay.
 

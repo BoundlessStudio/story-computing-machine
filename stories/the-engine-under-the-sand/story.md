@@ -1,5 +1,5 @@
 ---
-title: What the Iron Takes
+title: Good Iron
 created: 2026-09-30
 canon: false
 ---

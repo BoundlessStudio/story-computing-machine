@@ -13,3 +13,9 @@ The originals are preserved under their supplied filenames in `art/references/`.
 ## Audience and direction
 
 No audience or intensity was specified. General is the starting target; assign the final AO3 rating from the finished prose and selected cover. The request calls for a speculative short story about a waking buried engine in a desert of salvaged machines from a forgotten war. No further plot or ending constraints were supplied.
+
+## Later user direction
+
+change the tile its falling in a pattern with the others.
+
+Interpreted as a request to change the story title. The coordinator selected **Good Iron**, a compact title drawn from the material Sivet values and relinquishes; update the prose title and both labeled artworks together.
