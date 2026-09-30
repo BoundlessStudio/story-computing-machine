@@ -268,9 +268,9 @@ Grandma watched the point move across the margin.
 
 “You could. But then you'd be answerable for breaking a rule you'd had to show you knew. Same as him.”
 
-Hesta touched the pin gathering her sleeve.
+Hesta touched the pin gathering her sleeve and looked at Grandma.
 
-“I had the page open, Maud. Somebody still had to stand behind me.”
+“I did it just like the picture. Somebody still had to stand behind me.”
 
 Grandma worked a stiff buckle with both thumbs. I reached for it and she let me finish.
 
