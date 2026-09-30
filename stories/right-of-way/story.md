@@ -24,7 +24,7 @@ Grandma pushed a plate of seed cake toward me. She had cut it into four pieces, 
 
 She took three applications from under the plate.
 
-In the space headed *Evidence of competence*, she had written *Maud Flax* and underlined it twice. The others were blank.
+In the space headed *Evidence of competence*, she had written her own name, *Maud Flax*, and underlined it twice. The others were blank.
 
 “Grandma.”
 
@@ -144,11 +144,11 @@ Outside, Aunt Hesta sat astride her broom with one foot on the garden bench. Her
 
 “I am showing you.”
 
-“Your arm's down.”
+“I can see your fist. Where's your elbow?”
 
 “Come round here.”
 
-From the front I could see her left elbow raised and her forearm upright, fist closed, exactly like the illustration. From behind, the hanging sleeve concealed both.
+From the front I could see her left arm stretched sideways from the shoulder and bent upward at the elbow, fist closed, exactly like the illustration. From behind, her fist stuck out above a fold of black wool. The shape of her bent arm was lost in the rest of the cloak.
 
 The illustration showed a man in a close-fitting jacket. He had no broom beneath him; they had removed the handlebars from an old motoring picture.
 
@@ -156,7 +156,7 @@ The illustration showed a man in a close-fitting jacket. He had no broom beneath
 
 “Why? This one keeps my knees warm.”
 
-I went behind her again. She repeated the signal, and the sleeve repeated its silent refusal to tell me anything.
+I went behind her again. She repeated the signal, and the sleeve repeated its silent refusal to tell me which way she meant to turn.
 
 “You're right,” I said. “They need a picture from the back. And someone in riding clothes.”
 
@@ -172,9 +172,9 @@ She unfastened the small brass pin at her throat and used it to gather the loose
 
 My new work coat had narrow sleeves. I made the signal with more confidence than I should have.
 
-“Can't see your wrist,” said Hesta.
+“Can't see your hand,” said Hesta.
 
-I lowered my elbow a little.
+I'd tucked my elbow in, putting my fist behind my head. I moved it out.
 
 “There.”
 
@@ -266,7 +266,7 @@ Grandma watched the point move across the margin.
 
 “I could have read it and ignored it.”
 
-“You could. But then you'd be answerable for breaking a rule you'd had to show you knew. Same as him.”
+“You could. A license can't make you considerate.”
 
 Hesta touched the pin gathering her sleeve and looked at Grandma.
 
