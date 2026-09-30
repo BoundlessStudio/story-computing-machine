@@ -36,7 +36,7 @@ In the space headed *Evidence of competence*, she had written *Maud Flax* and un
 
 Aunt Hesta made a noncommittal sound. Aunt Minta, who was a hundred and one and still answered to *girls*, said she had told everyone at the bakery.
 
-I had been at the Department of Moving Vehicles for six weeks. I processed registrations, took photographs, and explained to motorists that an appointment at ten did not mean they could arrive at eleven and argue backward. My relatives had been proud of me until the council voted to require a license from every broom rider in the district.
+I had been at the Department of Moving Vehicles for six weeks. I processed registrations, took photographs, and explained to motorists that an appointment at ten did not mean they could arrive at eleven and argue backward. My relatives had been proud of me until the town voted to require a license from every broom rider in the district.
 
 The grace period ended Friday. Grandma's hundred and fourth birthday was Sunday.
 
@@ -222,7 +222,7 @@ Grandma kept descending. He kept coming.
 
 Then both of them slowed. Grandma leveled her broom. The man stopped several broom lengths away, his toes pointed toward the crossing. Hesta and Minta spread out behind us, giving everyone room.
 
-Grandma lifted her chin toward the roofs beyond him. He pointed toward the roof beyond her.
+Grandma pointed down her route. He pointed along his, which ran across it.
 
 Neither went.
 
@@ -236,11 +236,11 @@ Neither went.
 
 His shopping bags swung gently. He steadied them with his heels. He wasn't frightened or rude; he looked as though he had arrived at the correct answer and then found somebody else's answer occupying it.
 
-“They do have to come from somewhere,” Minta murmured behind me.
+“He's trying to get home too,” Minta murmured behind me.
 
 Grandma glanced back. I had the booklet tucked inside my coat, and for a moment I thought she would ask me to produce it.
 
-Instead, she raised her left hand, palm toward the man, clear of her shoulder. I recognized the new yielding signal from the page we had practiced. She held it until he saw it, then lowered her broom a little to open the crossing.
+Instead, she raised her left hand, palm toward the man, clear of her shoulder. I recognized the booklet's yielding signal from the page we had practiced. She held it until he saw it, keeping her broom level and short of the crossing.
 
 He nodded, pointed along his course, and went through.
 
@@ -268,7 +268,11 @@ Grandma watched the point move across the margin.
 
 “You could. But then you'd be answerable for breaking a rule you'd had to show you knew. Same as him.”
 
-She worked a stiff buckle with both thumbs. I reached for it and she let me finish.
+Hesta touched the pin gathering her sleeve.
+
+“I had the page open, Maud. Somebody still had to stand behind me.”
+
+Grandma worked a stiff buckle with both thumbs. I reached for it and she let me finish.
 
 “I don't like that right-hand rule for a steep climb.”
 
