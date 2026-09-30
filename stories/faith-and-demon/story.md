@@ -72,7 +72,7 @@ Mikkel stared at the new pale scar in the bronze. “I thought I could keep it o
 
 “You didn't need to.” Anwen crouched to check the west guide. It had not frayed. “We can raise it a little and reset. Once I see whether the lip will clear.”
 
-Behind her, Mikkel said, “Come to the evening service with me when we finish. You can hear what we believe and leave if you want. But after this, I can't stand by and say nothing.”
+Behind her, Mikkel said, “When the floor shook, I thought we'd both fall. I thought about what comes after.” He glanced at the red cord at her wrist. “Come to the evening service with me when we finish. You can hear what we believe and leave if you want.”
 
 The invitation might have been bearable on another day, after another accident. Here it followed her answer of that morning and the one before it, and the one on the quarry job when he had offered to bring her to a meeting, and the one in the wagon afterward. He could name the lines and their loads. He remembered the steward's instructions about the chapel door. It was only her refusal that fell out of him as soon as he heard it.
 
@@ -102,7 +102,7 @@ The visitor turned to Mikkel. His heels left the floor. He gripped a timber post
 
 “Do you ask me to take him?” it said.
 
-Mikkel did not speak. Anwen had wanted him to believe her. She had not pictured his empty hands, with rope burns across the fingers, grasping wood while the bell waited above an open floor. In her father's stories, a witness never supplied the words you had failed to find for yourself.
+Mikkel did not speak. Anwen had wanted him to believe her. She had not pictured his empty hands, with rope burns across the fingers, grasping wood while the bell waited above an open floor.
 
 “No,” she said. “I asked you to hear me say that I could.”
 
@@ -142,7 +142,7 @@ He rubbed at the marks the post had left on his palms. “I think it was evil.�
 
 She had no wish to try to settle that while its ash might still be on the stairs. “You can think that.”
 
-“I still believe what I told you.” He looked at her then, not at the cord under her sleeve. “I won't keep at you about your faith.”
+“I still believe what I told you.” He looked at her then, not at the cord under her sleeve. “You told me this morning. I understood. I asked anyway. I won't keep at you about your faith.”
 
 Anwen let out the breath she'd been holding. “All right.”
 
