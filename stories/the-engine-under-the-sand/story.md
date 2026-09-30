@@ -32,7 +32,7 @@ Anka looked up at the ceiling. Not quite in the right place. Then she untied her
 
 Sivet took her mallet from beside the door. It had belonged to her mother, its pale head worn shallow in the middle. She could swing it all morning with either hand. Her left knee troubled her on slopes, and lately she needed Anka to go into narrow places, but there were still jobs in the waste nobody did as well as she did.
 
-Outside, the first sun lay along the rims of the wrecks. The settlement's houses occupied a shelf of rock above a broad basin. People had built there because its nearest machine gave shade before noon, and because three generations had been able to walk to work. Their walls were stone and their roofs were canvas stretched over scavenged ribs. Farther off, wheel rims stood like wells without bottoms. A long gun on the western heights had kept its shape after the body beneath it collapsed. Children used it to tell one part of the waste from another. No one could have said which way it had been meant to fire.
+Outside, the first sun lay along the rims of the wrecks. The settlement's houses occupied a shelf of rock above a broad basin. People had built there because its nearest machine gave shade before noon, and because three generations had been able to walk to work. Their walls were stone and their roofs were canvas stretched over scavenged ribs. Farther off, wheel rims stood on edge, their open centres framing the distant cliffs. A long gun on the western heights had kept its shape after the body beneath it collapsed. Children used it to tell one part of the waste from another. No one could have said which way it had been meant to fire.
 
 The Big Sleeper lay below the shelf, sunk to its belly. Its near wheel was taller than Sivet's house. The upper hull continued under a dune and emerged farther away as a row of bent towers. On the other side of the basin an overturned machine showed four wheels to the sky. A cable thick as Anka's waist crossed between them, most of it buried.
 
@@ -256,7 +256,7 @@ The wheel turned against the wedge. The timber groaned and bit into the sand. Th
 
 Anka looked at Sivet.
 
-“Go.”
+“Go,” Sivet said.
 
 Anka picked up the drift and mallet and ran along the cable toward the overturned wreck. Sivet stayed beside the wedge. Loose iron was moving past, rattling against the sleeper's flank. A hinge struck the rock by her head. She tucked her chin and pressed her shoulder into the timber's exposed end.
 
