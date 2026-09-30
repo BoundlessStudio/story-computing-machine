@@ -1,6 +1,6 @@
 # What the Iron Takes
 
-Provisional direction: close third person through Sivet, a veteran scavenger; roughly 3,500 words over one day. Her adult daughter Anka has bought passage on a trading caravan. Sivet is supposedly repairing Anka's handcart but has quietly removed its axle, making the promised departure impossible without admitting she wants Anka to stay. Anka has plans and salvage skill of her own, and suspects the delay.
+Provisional direction: close third person through Sivet, a veteran scavenger; roughly 3,500 words over one day. Her adult daughter Anka has bought passage on a trading caravan. Sivet is supposedly repairing Anka's handcart but has quietly removed its axle, obstructing departure with Anka's possessions without admitting she wants Anka to stay. Anka has plans and salvage skill of her own, and suspects the delay.
 
 At dawn, while the two strip a buried wheel housing for a saleable bronze part, an inner engine begins turning. A concealed source of power remains unexplained, but its immediate action is visible: a great magnetic rotor gathers speed and pulls ferrous metal toward it. Bronze, wood and flesh are unaffected; iron objects tremble before they slide or fly. The pull comes in pulses, increasingly strong and close together. During the early lulls, iron drops within reach of the hulk. Their generation has made its ordinary life from this iron. The field drags the concealed axle out of Sivet's roof before it takes the roof ties, exposing her lie without a confession scene. It cannot distinguish a cherished object from scrap.
 
