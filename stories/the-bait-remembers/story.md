@@ -10,23 +10,23 @@ I had three coins, an unstamped birthday card, and an assignment to stand in a p
 
 The card was for my sister. Innes did not know about it. He had searched my coat before we left, but the card was thin enough to lie against the cardboard in my shoe. When we got inside, I moved it to my sleeve. I had written the address from memory. Orla might not live above the bakery anymore. For three years I had been permitted to know almost nothing about her, and it seemed better to risk a returned card than to let another birthday pass without one.
 
-Innes stood three places behind me in the queue. His coat was damp at the shoulders. People trying to keep their parcels dry had crowded toward the counter, leaving the wide floor by the writing desks almost empty. He had chosen the hour because the queue would hold me still and give him a view of everyone else.
+Innes stood three places behind me in the queue. His coat was damp at the shoulders. People trying to keep their parcels dry had crowded toward the counter. Across the open floor, the writing desks stood between us and the street door. He had chosen the hour because the queue would hold me still and give him a view of everyone else.
 
 “Blue forms,” he said when I glanced at the card tucked in my sleeve. “Keep your eyes on the blue forms.”
 
-He meant the stack on the counter, an ordinary place to rest my gaze. I looked at them. A man ahead of me was arguing about the cost of sending a parcel to his son. The clerk took his complaint seriously enough to weigh the box a second time. Beside the writing desks, a little girl in a raincoat drew a circle around each stamp on a sheet while her father addressed envelopes. Nothing about the room would help Innes explain what he had brought into it.
+He meant the stack on the counter, an ordinary place to rest my gaze. I looked at them. A man ahead of me was arguing about the cost of sending a parcel to his son. The clerk took his complaint seriously enough to weigh the box a second time. Beside the writing desks, a little girl in a raincoat drew a circle around each stamp on a sheet while her father addressed envelopes.
 
-At the back, the door shut hard. For an instant I smelled the old room.
+Across the floor, the street door shut hard. For an instant I smelled the old room.
 
 Not the post office's wet wool and ink, but wallpaper warmed too long by a bulb with no shade. I knew where the memory would go. The narrow bed. The line of light under the door. Then the scrape of a key in the lock.
 
 My thumbnail found the center of my palm. Four-one-six, I thought. Four-one-six. The wallpaper went away. I could see the clerk's blue forms again, and Innes nodded almost imperceptibly.
 
-He had taught me that movement in a room very different from this one. The key's scrape was the cut. Thumb into palm, number in the mind, as soon as it came. At first I had refused because I thought he was trying to make me forget. He wasn't. He needed me to remember exactly as far as the key, over and over, and never go through the door.
+He had taught me the thumb-and-number drill in a room very different from this one. The key's scrape was the cut. Thumb into palm, number in the mind, as soon as it came. At first I had refused because I thought he was trying to make me forget. He wasn't. He needed me to remember exactly as far as the key, over and over, and never go through the door.
 
 Before I knew him, the memory sometimes ran on. The door opened. There was the corridor, the morning street, and the bus I rode without a ticket because I could not make my hands find my money. Then I came back to whatever room I was actually in. Going all the way through had never made it easier. I had learned to fear the end of it as much as the beginning.
 
-Now the route out belonged to Innes. If somebody reading me followed the memory, my practiced jump at the scrape left that person among the same few minutes. They lost their hold on the room around their body. Innes had time to see which stranger stopped answering the world.
+Now the route out belonged to Innes. If somebody reading me followed the memory, my jump to the number at the scrape left them at the locked door. With no later moment of mine to follow, they heard the key scrape again. Their body stood unanswering while Innes looked for it.
 
 I had watched him take two. The first was a man who had been picking names out of a doctor's waiting room. The second was a woman who said afterward that she had only wanted to know why I was frightened. I had not seen what was done with either of them. The woman had looked at me as Innes led her away, confused by the fact that I was walking while she could hardly stand.
 
@@ -44,7 +44,7 @@ The woman gripped her envelope under her arm. “Ask them, then.”
 
 He looked across the queue. I felt something brush the outside of a thought, so slight that I might have mistaken it for dread if I had not spent three years learning the difference.
 
-The plea he had heard was mine. It had escaped while I was remembering the old room. I had not formed the words on purpose; they came out of the same place as the smell of wallpaper. *Please don't leave me there.* Innes counted on thoughts like that traveling farther than the rest of us could. A psychic might hear one without choosing to. Finding its owner among strangers required another choice.
+The plea he had heard was mine. It had escaped while I was remembering the old room. I had not formed the words on purpose; they came out of the same place as the smell of wallpaper. *Please don't leave me there.* Innes counted on a thought like that carrying. A psychic might hear it without choosing to. Finding its owner among strangers required another choice.
 
 The man in the scarf looked at the father by the stamp sheets, then at the woman with the envelope again. He was searching. She moved away from him, and he let her go, but his eyes kept moving down the line.
 
@@ -68,7 +68,7 @@ Someone said, “Is she all right?” Another person answered that I was next in
 
 *I can't get out,* he said from the old room. The key scraped in his voice.
 
-It was an astonishing thing for him to ask of me. He had entered without permission, seen Orla's name and address, and touched the memory I had spent years trying to survive. His apology could not put those things back. Yet Innes was crossing the floor, and the man's body would soon betray him.
+It was an astonishing thing for him to ask of me. He had entered without permission, seen Orla's name and address, and touched the memory I had spent years trying to survive. His apology could not put those things back. Yet Innes was searching the faces beyond me, and the man's stillness would soon betray him.
 
 I could still feel the key at the edge of my attention. I let it pull me back. I was in the wallpaper room again, with the man close behind me and the key scraping for the second time. My thumb moved toward my palm. I held my hand open around the folded card.
 
@@ -88,7 +88,7 @@ In the post office, the blue forms swam into focus. The card had folded across t
 
 The man in the gray scarf was at the writing desk, one hand braced on its edge. He met my eyes. He understood that I had left him there for a little while, and that I had come back for him. Both were true.
 
-Innes saw me looking. His gaze went to the writing desks, then back to my open hand. I had stopped the movement. He knew it.
+Innes saw me looking. His gaze went to the writing desks, then back to my open hand. I had stopped the drill. He knew it.
 
 The man started toward us.
 
@@ -98,13 +98,11 @@ The man started toward us.
 
 “I didn't ask you to read her.” I nodded toward the woman with the envelope. She was watching him, her parcel still tight against her side. “Or me.”
 
-He looked at her, and for a second I thought he would go over and apologize again. Innes took two steps toward the desk. The man went out through the front door instead. He had to hold the frame for a moment before he could walk properly, but he went. Innes could have followed him. He stayed with me.
+He looked at her, and for a second I thought he would go over and apologize again. Innes took two steps toward the writing desks. The queue had shifted while I was gone; the counter was free. Before Innes could cross the floor, I went to it and put down the card and my coins. My hand was shaking enough that the three coins fell out separately.
 
-The queue had shifted. I stood at the counter. The clerk, a woman with a gray pencil tucked above one ear, waited with her hand near the stamp tray. She had seen only a customer go pale and another leave in a hurry.
+“One stamp,” I said. Innes turned. The clerk, a woman with a gray pencil tucked above one ear, looked from me to the coins. Across the floor, the man in the scarf reached the street door. He had to hold its frame for a moment before he could walk properly, but he went.
 
-“One stamp,” I said. I set the card down. My hand was shaking enough that the three coins fell out separately.
-
-Innes put his hand over the card before the clerk could take it. He smiled at her. “She isn't well. I'll look after that.”
+Innes closed his hand around my wrist and put his other hand over the card before the clerk could take it. He smiled at her. “She isn't well. I'll look after that.”
 
 The clerk left the stamp tray where it was. “Does she want to send it?” she asked me.
 
@@ -112,10 +110,10 @@ I could have told her what I was. She might not have believed it. Innes might ha
 
 “Yes,” I said.
 
-For the first time since we entered, Innes had to look like a man taking a birthday card away from another adult in front of witnesses. He lifted his hand. The clerk counted my coins and turned the card over to read the address. She smoothed the bent corner with her thumb and pressed a stamp beside Orla's name.
+For the first time since we entered, Innes had to look like a man taking a birthday card away from another adult in front of witnesses. He let go of my wrist, then lifted his hand from the card. The clerk counted my coins and turned the card over to read the address. She smoothed the bent corner with her thumb and pressed a stamp beside Orla's name.
 
 “Collection at five,” she said. She put it through the slot behind her.
 
-Innes watched where it fell. He might know someone who could find it in the sack. He would certainly decide what to do with me. My legs were weak, and the old room had not gone far; a door shutting at the back of the post office could still send me toward it. I kept my hands open on the counter until I was ready to move.
+Innes watched where it fell. He might know someone who could find it in the sack. He would certainly decide what to do with me. My legs were weak, and the old room had not gone far; the street door shutting again could still send me toward it. I kept my hands open on the counter until I was ready to move.
 
 The clerk gave me my receipt for the stamp. It recorded the price and the time of day. I folded it carefully and put it in my pocket.
