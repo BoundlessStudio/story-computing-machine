@@ -1,0 +1,18 @@
+{
+  "story_title": "Good Iron",
+  "selected_location": "landscapes/02-big-sleeper-basin-selected.png",
+  "original_location": "landscapes/01-big-sleeper-basin-original.png",
+  "selection_reason": "The original painted a linked chain. The selected correction replaces only that connector with the story's continuous stranded wire cable and anchor eye, preserving the two hulks, four upturned wheels, shelf homes and basin composition.",
+  "character_sheet": "characters/sivet.webp",
+  "cover": "../title-image.jpg",
+  "generator": "Built-in imagegen",
+  "style": "Canadian Group of Seven inspired oil painting; supplied originals guide machinery and desert scale, existing collection paintings guide brushwork.",
+  "visual_interpretation": "Sivet's gray braid, weathered complexion, slate shirt and sand trousers are art interpretations, consistent across the cover and sheet. They add no shared canon.",
+  "inspection": "Final cover has the exact title once and preserves both adult figures, wooden mallet and copper pan. Sheet has consistent front, side and back views, two expression studies, readable labels, and wooden mallet/bronze drift. Selected landscape preserves machine scale, the four-wheel overturned anchor and the continuous cable.",
+  "final_prompt_set": {
+    "cover": "Portrait 9:16 oil-painted literary cover titled Good Iron once in dark umber serif lettering. Vast rusted wheeled hulk in red desert below shelf homes, two tiny adult women, older Sivet with gray braid and slate shirt carrying wooden mallet, Anka with rust scarf, bedding and copper pan. Broad Group of Seven inspired strokes, connected shadows and natural light.",
+    "character": "Landscape 1536x1024 painterly character sheet labeled Sivet and Good Iron. Same mature scavenger in front, side, back and two facial studies; gray braid, slate shirt, sand trousers, worn boots. Pale all-wooden mallet and straight bronze drift in tools panel. Preserve consistent identity and readable labels.",
+    "location": "Landscape 1536x1024 oil painting of Big Sleeper basin: half-buried giant near wheel below stone/canvas shelf homes, dune and bent towers; separate overturned four-wheel wreck across basin; continuous waist-thick stranded cable with eye and fork connects them. Red cliffs, old hard route, pale daylight, no text.",
+    "corrections": "Replace the sheet's jagged scrap with a straight bronze drift; replace landscape chain links with continuous stranded wire cable; replace former cover and sheet title lettering with Good Iron while preserving compositions."
+  }
+}
