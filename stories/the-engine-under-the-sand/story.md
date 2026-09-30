@@ -6,7 +6,7 @@ canon: false
 
 There had been nothing wrong with Anka's axle until Sivet took it out.
 
-She had wrapped it in sacking and laid it above the ceiling poles, where she kept long pieces that might come in useful. Then she had put a split shaft through the handcart's wheels. A child could have seen the flaw. Anka was twenty-seven and had helped build the cart, but Sivet had told her to leave it alone while she found a replacement.
+She had wrapped it in sacking and laid it above the ceiling poles, where she kept long pieces that might come in useful. Then she had put a split shaft through the handcart's wheels. A child could have seen the flaw. Her daughter was twenty-seven and had helped build the cart, but Sivet had told her to leave it alone while she found a replacement.
 
 Now Anka stood beside it with her bedding tied up and her good copper pan in a bag.
 
@@ -50,7 +50,7 @@ They kept still. Loose sand ticked down the inner wall.
 
 “You hit it?” Sivet asked.
 
-Anka showed her the mallet, still in Sivet's hand.
+Anka looked at the mallet, still in Sivet's hand.
 
 The second knock had a longer sound beneath it. Sivet felt that sound through her boots. A strip of iron beside Anka's knee rose on one end, fell, and rose again.
 
@@ -248,11 +248,11 @@ They waited for the wheel to roll back. Sivet held the timber against the sand w
 
 “Again,” Sivet said.
 
-Anka hit it until the pale timber disappeared under the iron. Sivet's knee hurt. She shifted her foot, felt the timber try to yaw, and leaned harder. There was no keeping hold of it from behind the rock.
+Anka hit it until the rim climbed onto the sloping face. Sivet's knee hurt. A jagged edge of the turning rim nudged the timber's exposed end sideways. She shifted her foot and leaned harder, keeping the wedge straight beneath the wheel. There was no doing that from behind the rock.
 
 The first knock came before Anka could put the mallet down.
 
-The wheel turned against the wedge. The timber groaned and bit into the sand. The hull lifted on its springs, but it did not advance. Across the basin the cable rose an arm's length, then dropped again, still curved. Its load had come onto the wheel and the buried timber.
+The wheel turned against the wedge. The timber groaned and bit into the sand. The hull lifted on its springs, but it did not advance far enough to take up the cable. Across the basin the cable rose an arm's length, then dropped again, still curved.
 
 Anka looked at Sivet.
 
@@ -270,7 +270,7 @@ The wheel chewed down into it. Sivet scrambled back onto her knees. The hull adv
 
 “Out!” Sivet shouted.
 
-Anka gave one more blow. The keeper fell, the cable eye dropped from the fork, and she hurled herself away from it. The freed cable slid across the sand toward Sivet, sweeping a low ridge ahead of it.
+Anka gave one more blow. The keeper fell, the cable eye dropped from the fork, and she hurled herself away from it. Her boot caught the torn edge of a plate as she landed. The freed cable slid across the sand toward Sivet, sweeping a low ridge ahead of it.
 
 Sivet got behind the rock as the wheel crushed the timber.
 
