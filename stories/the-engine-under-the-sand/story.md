@@ -242,7 +242,7 @@ If she carried the load uphill now, Anka would have to wait. Another delay that 
 
 The first knock sounded.
 
-At the highest house on the shelf, a stovepipe began shaking against the sky. Nothing up there had moved during the earlier pulls.
+At the highest house on the shelf, a stovepipe began shaking against the sky. Nothing that high had moved during the earlier pulls.
 
 She put down the chain and moved behind the rock. At the third knock, the tongs jerked clear and hit the axle. She could have retrieved them when the hum fell. Instead she ran to Anka.
 
