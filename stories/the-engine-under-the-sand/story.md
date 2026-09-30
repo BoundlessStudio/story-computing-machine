@@ -242,17 +242,19 @@ If she carried the load uphill now, Anka would have to wait. Another delay that 
 
 The first knock sounded.
 
+At the highest house on the shelf, a stovepipe began shaking against the sky. Nothing up there had moved during the earlier pulls.
+
 She put down the chain and moved behind the rock. At the third knock, the tongs jerked clear and hit the axle. She could have retrieved them when the hum fell. Instead she ran to Anka.
 
-They waited for the wheel to roll back. Sivet held the timber against the sand with her shoulder. Anka swung the mallet, driving its thick end. The sloping face slid under the rim.
+They waited for the wheel to roll back. Sivet held the timber against the sand with her shoulder. Anka swung the mallet, driving its thick end. The thin end nosed under the rim.
 
 “Again,” Sivet said.
 
-Anka hit it until the rim climbed onto the sloping face. Sivet's knee hurt. A jagged edge of the turning rim nudged the timber's exposed end sideways. She shifted her foot and leaned harder, keeping the wedge straight beneath the wheel. There was no doing that from behind the rock.
+Anka struck twice more. Sivet's knee hurt. A jagged edge of the rolling rim nudged the timber's exposed end sideways. She shifted her foot and leaned harder, keeping the wedge straight beneath the wheel. There was no doing that from behind the rock.
 
 The first knock came before Anka could put the mallet down.
 
-The wheel turned against the wedge. The timber groaned and bit into the sand. The hull lifted on its springs, but it did not advance far enough to take up the cable. Across the basin the cable rose an arm's length, then dropped again, still curved.
+The powered wheel turned and climbed onto the timber's sloping face. The timber groaned and bit into the sand. The hull lifted on its springs, but it did not advance far enough to take up the cable. Across the basin the cable rose an arm's length, then dropped again, still curved.
 
 Anka looked at Sivet.
 
