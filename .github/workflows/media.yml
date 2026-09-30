@@ -87,3 +87,16 @@ jobs:
           if [[ "$VERIFY_ALL_MEDIA" == 'true' ]]; then flags+=(--verify-all); fi
           if [[ "$GITHUB_REF" == 'refs/heads/main' ]]; then flags+=(--publish-index); fi
           python -m media.publish "${flags[@]}"
+      - name: Notify story website after index publication
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ secrets.STORY_SITE_DISPATCH_TOKEN }}
+        shell: bash
+        run: |
+          if [[ -z "$GH_TOKEN" ]]; then
+            echo 'STORY_SITE_DISPATCH_TOKEN is unset; the website schedule will check the index.'
+            exit 0
+          fi
+          jq -nc --arg sha "$GITHUB_SHA" \
+            '{event_type:"story-art-published", client_payload:{source_commit:$sha}}' |
+            gh api --method POST repos/BoundlessStudio/storytelling-machine/dispatches --input -

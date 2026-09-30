@@ -27,6 +27,8 @@ The story's `notes.md` keeps the useful editorial memory from outline, draft, an
 
 The former GitHub Pages site, galleries, and publication captures have been retired from this repository. A separate media-only CI workflow publishes selected artwork to Cloudflare R2 for downstream use; it does not render or publish story pages. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.
 
+After `media.yml` verifies the public R2 index on `main`, it can notify the separate story website to import newly covered stories into a review PR. Set the Actions secret `STORY_SITE_DISPATCH_TOKEN` to a fine-grained token with **Contents: write** access to `BoundlessStudio/storytelling-machine` to enable the immediate notification. The website also checks the index every three hours, so imports continue if this token is absent or a dispatch is missed.
+
 ## Revising a story
 
 Name the story and the change you want. Non-canon stories can be edited within that scope; a substantial revision benefits from fresh readers and discussion. A canon story must be explicitly unlocked by name before its package changes. No review or general invitation to improve the collection unlocks it.
