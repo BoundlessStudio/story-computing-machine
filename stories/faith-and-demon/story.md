@@ -48,7 +48,7 @@ The bell's mouth reached the level of the floor. Mikkel eased his line.
 
 “Hold it,” Anwen said.
 
-“It's touching the board. If I give it room—”
+“The cracked lip's too close to the east stone. If I give it room—”
 
 “It hasn't cleared the west edge. Hold it.”
 
@@ -66,7 +66,7 @@ He let out one breath, then one hand's width of rope. The bell stopped moving. D
 
 Mikkel stared at the new pale scar in the bronze. “I thought I could keep it off the stone.”
 
-“You thought I hadn't seen where the sill was.”
+“You thought I hadn't seen where the stone was.”
 
 “I didn't say that.”
 
@@ -110,7 +110,7 @@ The visitor held her gaze. Anwen felt the plain ugliness of that answer. She had
 
 “You can take him,” she said. “I do not want you to.”
 
-Mikkel's heels settled on the boards. The distance beneath him closed. The visitor regarded the two of them, the bell, the gouge in the sill. Then it walked to the stairwell. At the top step it brushed ash from its sleeve. The ash fell through the boards and was gone before it reached the pews.
+Mikkel's heels settled on the boards. The distance beneath him closed. The visitor regarded the two of them, the bell, the gouge in the east stone. Then it walked to the stairwell. At the top step it brushed ash from its sleeve. The ash fell through the boards and was gone before it reached the pews.
 
 Anwen waited until the stairwell was only a stairwell. She unwound the cord and put it away. Mikkel still held the post. When he let go, the grain of the wood had left pale ridges across his palms. He watched the bell.
 
@@ -130,9 +130,9 @@ She took the west guide to its mark. “Up.”
 
 One click. The bell shifted, and Mikkel's free hand moved toward the east line. He stopped it on his own knee. Two clicks. At the third, the bronze cleared the torn board. He held the brake where it was.
 
-Anwen pulled out the damaged plank. She laid a pad of folded canvas on the east sill, then moved to the guide line beside him. “Now give it slack. Slowly.”
+Anwen pulled out the damaged plank. She laid a pad of folded canvas on the east edge, then moved to the guide line beside him. “Now give it slack. Slowly.”
 
-He did. The bell turned away from the stone. They lowered it through the floor with only the small sounds of chain and rope. When the cradle took its weight, the cracked lip touched the padding without a note.
+He did. The bell turned away from the stone. They lowered it through the floor with only the small sounds of chain and rope. When the cradle took its weight, the cracked lip touched its padding without a note.
 
 Mikkel kept his hands on the rope after the chain went slack. “I can still feel where the floor went away.”
 
@@ -142,7 +142,7 @@ He rubbed at the marks the post had left on his palms. “I think it was evil.�
 
 She had no wish to try to settle that while its ash might still be on the stairs. “You can think that.”
 
-“I still believe what I told you.” He looked at her then, not at the cord under her sleeve. “I won't ask you to come to a service again.”
+“I still believe what I told you.” He looked at her then, not at the cord under her sleeve. “I won't keep at you about your faith.”
 
 Anwen let out the breath she'd been holding. “All right.”
 
