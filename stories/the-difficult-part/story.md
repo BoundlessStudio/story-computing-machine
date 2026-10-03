@@ -154,7 +154,7 @@ The keeper lifted their head. This was no journey they had watched her make befo
 
 They could still preserve her. She would never know what had been interrupted. The keeper watched until the red coat disappeared behind the bluff, and then worked their hands farther beneath the glass.
 
-They lifted it together.
+They lifted it.
 
 ***
 
@@ -180,7 +180,7 @@ Before sleep, she sang Linet's long note. It went nowhere in particular.
 
 ***
 
-The keeper crossed the sloping rubble sideways, the sphere supported between palms and forearms. When a hand shook, they stopped against a slab and let the tremor run through their body. Along the higher part of the slope, a slab leaned out above them. Its shadow lay across the uncovered glass. The glass was never still enough to leave the inward sky alone. Winds moved along the coast. The keeper saw the woman crouch on a ledge and wait.
+The keeper crossed the sloping rubble sideways, the sphere supported between palms and forearms. When a hand shook, they stopped against a slab and let the tremor run through their body. Higher up the slope, an overhang cast its shadow across the uncovered glass. The glass was never still enough to leave the inward sky alone. Winds moved along the coast. The keeper saw the woman crouch on a ledge and wait.
 
 They waited too. They did not pull the hood around the sphere again.
 
