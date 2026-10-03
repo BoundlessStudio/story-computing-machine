@@ -100,13 +100,13 @@ When the keeper stumbled, they caught the sphere against their chest. It did not
 
 They brought their other hand up. A shard spun loose from the ridge above, struck their shoulder, and glanced away. They drew the sphere beneath the rose lining of the cyan hood.
 
-The glass warmed against their throat. Through a gap in the cloth, they saw the white curl thicken. Clouds gathered on the woman’s coast. The lining clung to the sphere and hid her altogether.
+The glass warmed against their throat. Through a gap in the cloth, they saw the white curl thicken and turn grey. A dark seam widened in the bay ice. The lining clung to the sphere and hid her altogether.
 
 They could not see enough to know what shelter had done.
 
 Slowly, they uncovered the glass. They braced it between both palms and their breast, keeping their elbows tight. Snow still moved inside. The woman came into view beside a dark speck of rock.
 
-The keeper stood without taking another step until she got up.
+The keeper stood without taking another step until she got up. Then, still watching, they turned back toward the hollow.
 
 ***
 
@@ -180,7 +180,7 @@ Before sleep, she sang Linet's long note. It went nowhere in particular.
 
 ***
 
-The keeper crossed the sloping rubble sideways, the sphere supported between palms and forearms. When a hand shook, they stopped against a slab and let the tremor run through their body. The glass was never still enough to leave the inward sky alone. Winds moved along the coast. The keeper saw the woman crouch on a ledge and wait.
+The keeper crossed the sloping rubble sideways, the sphere supported between palms and forearms. When a hand shook, they stopped against a slab and let the tremor run through their body. Along the higher part of the slope, a slab leaned out above them. Its shadow lay across the uncovered glass. The glass was never still enough to leave the inward sky alone. Winds moved along the coast. The keeper saw the woman crouch on a ledge and wait.
 
 They waited too. They did not pull the hood around the sphere again.
 
