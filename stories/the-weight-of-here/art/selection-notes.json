@@ -1,0 +1,124 @@
+{
+  "story": "The Weight of Here",
+  "created": "2026-10-03",
+  "tool": "Built-in image_gen.imagegen",
+  "visual_direction": "Canadian Group of Seven inspired oils, using inspected collection paint and sheet references.",
+  "supplied_references": [],
+  "collection_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Paint, brushwork and connected value shapes."
+    },
+    {
+      "path": "stories/friends-of-the-night/art/characters/tavik.webp",
+      "role": "Multi-view sheet layout; not character identity."
+    }
+  ],
+  "selected_location": "landscapes/den-selected.webp",
+  "assets": [
+    {
+      "path": "../title-image.jpg",
+      "role": "Selected cover",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "format": "JPEG",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-0f0b8679-83a3-41b0-b685-710ab1b92629.png",
+      "prompts": [
+        "cover",
+        "cover_selected"
+      ],
+      "postprocessing": "RGB conversion and Lanczos resample from 941x1672 to 864x1536; JPEG quality 96, subsampling 0. Title generated in the image, not added afterward.",
+      "review": "Exact title once and readable. Adult Osa matches the sheet, with grey coat, left-cuff green paint and brushes. Mother's whiskered muzzle, broken antler stumps and one visible forefoot match the prose; other limbs are hidden in the den. Calm company, heavy lintel, firs, meadow and road; no injury. Distant water in the original cover candidate was replaced with the accepted meadow geography."
+    },
+    {
+      "path": "characters/osa.webp",
+      "role": "Selected character reference sheet",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-79116cc8-ea7a-4310-b61a-421b3dc71186.png",
+      "prompts": [
+        "osa_sheet",
+        "osa_sheet_selected"
+      ],
+      "postprocessing": "RGB conversion and WebP encoding, quality 96, method 6; no resampling.",
+      "review": "Readable Osa/story labels, full front/side/back views, working crouch, two face studies and cloth brush-roll detail. Consistent adult identity and clothes. Rear-view paint mark corrected to the left cuff; no weapon or injury. Unspecified face and hair are visual interpretation."
+    },
+    {
+      "path": "landscapes/den-original.png",
+      "role": "Preserved original location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-ac004979-3400-4298-8685-4a22dee56262.png",
+      "prompts": [
+        "den_original"
+      ],
+      "postprocessing": "Original PNG copied unchanged.",
+      "review": "Low black entrance, single lintel, stone jambs, shale hillside, valley and path. Foreground foliage read as deciduous, prompting the selected correction."
+    },
+    {
+      "path": "landscapes/den-selected.webp",
+      "role": "Selected corrected location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-f589e8f5-5b27-4994-97f2-a212cffbfb3f.png",
+      "prompts": [
+        "den_original",
+        "den_selected"
+      ],
+      "postprocessing": "RGB conversion and WebP encoding, quality 96, method 6; no resampling.",
+      "review": "Foreground trees now read as firs with needle litter. Den geometry, shale, meadow, path and motivated afternoon light preserved. Original kept separately."
+    }
+  ],
+  "prompts": {
+    "osa_sheet": {
+      "text": "Use case: illustration-story. Create a landscape 1536x1024 character reference SHEET, not a single portrait, for adult Osa in the finished short story \"The Weight of Here\". Reference image 1 is ONLY oil brushwork and value-shape style; do not import its orchard. Reference image 2 is ONLY multi-view sheet format; do not reuse that man, cap or costume. Canadian Group of Seven inspired oil treatment: broad varied opaque directional strokes, connected shadows, quieter passages, selective impasto, natural diffuse light, no glossy faces.\nOsa is a human adult woman about 25, a practical travelling theatre scene painter. Choose one consistent recognizable face: warm brown skin, short dark wavy hair tucked behind ears, strong nose, brown eyes, ordinary sturdy proportions. This visual interpretation must stay identical across every view. Clothing from story: knee-length worn grey coat, a dab of green paint on one cuff, plain cream shirt, dark practical trousers, scuffed leather boots. A compact roll of paintbrushes wrapped in cloth is tied at her hip, NOT a sword or weapon.\nOn a quiet warm grey ground arrange three complete full-body views (front, left profile, rear), one complete crouched working pose with coat removed but same shirt/trousers/boots, and two larger face studies (dry amusement; effort and concentration). Include a separate small detail of the cloth brush roll. Every full-body view must show both hands and feet coherently. No extra characters, monster anatomy, cap, armour or modern equipment. Keep panels clear, with hand-painted labels \"Front\", \"Side\", \"Back\", \"Working\", \"Amusement\", \"Effort\", \"Brush roll\". At top render exact readable character name \"Osa\" and exact story title \"The Weight of Here\". No other titles or watermark. Osa is unambiguously adult. No injury or blood.",
+      "references": [
+        "D:\\.codex\\worktrees\\a093\\story-computing-machine\\stories\\a-beginner-of-considerable-age\\art\\landscapes\\01-apple-orchard-hillside.png",
+        "D:\\.codex\\worktrees\\a093\\story-computing-machine\\stories\\friends-of-the-night\\art\\characters\\tavik.webp"
+      ]
+    },
+    "den_original": {
+      "text": "Use case: illustration-story. Create a landscape 1536x1024 location reference painting of the den BEFORE the crisis in the finished story \"The Weight of Here\". Attached reference is paint style only; do not copy its orchard. Canadian Group of Seven inspired oils: broad rhythmic connected value shapes, varied opaque directional brushwork, dark lost edges, selective impasto, unglossy natural spring afternoon light.\nThe place is a modest low monster den in a grey shale hillside in a remote valley. Seen at eye height from just outside and slightly oblique, one SINGLE long heavy natural stone lintel rests on two rough dry-stacked stone jambs. Show the entrance clearly as a LOW NARROW aperture with deep interior shadow: adult humans must crouch to pass it. Layered flaky hillside shale rests heavily above the lintel. The left supporting jamb shows an old small chip/crack, but it is still standing. There are no doors, plaques, lettering, runes, carvings or glowing stones. A short ordinary footpath passes nearby; dark firs and their needle litter stand beside the mouth; muted pale spring grass and scattered rock continue toward an open valley meadow with distant hills. The den feels lived-in and lovingly kept, not an evil fortress or public engineering work. Gentle pale sunlight touches stone edges and fir branches; keep the shadow inside nearly black and coherent. No figures, antlers, vehicles, machinery, pipelines, waterways, orchard, magical effects or text. Compose this as a place painting, with enough surrounding hillside to show the shelter's heavy burden.",
+      "references": [
+        "D:\\.codex\\worktrees\\a093\\story-computing-machine\\stories\\a-beginner-of-considerable-age\\art\\landscapes\\01-apple-orchard-hillside.png"
+      ]
+    },
+    "osa_sheet_selected": {
+      "text": "Use case: precise-object-edit. Edit the supplied Osa reference sheet with one continuity correction ONLY. In the BACK full-body view (the central standing figure facing away), remove the GREEN paint dab from the cuff on the viewer's RIGHT, restoring the same grey coat fabric there. Add that same modest green paint dab to the cuff on the viewer's LEFT in this BACK view. This makes the mark consistently the character's LEFT cuff, matching the FRONT and SIDE views. Keep every other pixel/detail as close as possible: same adult woman's identity, hair, face studies, all poses, anatomy, grey coat, cream shirt, trousers, boots, cloth brush roll, background, broad oil brushwork. Preserve ALL exact readable labels including \"Osa\" and \"The Weight of Here\", and 1536x1024 landscape sheet. No other changes.",
+      "references": [
+        "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-1c624327-c95b-44f6-9460-06067a4be5c2.png"
+      ]
+    },
+    "den_selected": {
+      "text": "Use case: precise-object-edit. Edit this location oil painting in one story-specific respect ONLY: convert the leafy foreground trees immediately beside and above the den entrance into mature FIR trees. Keep their existing trunk positions and framing, but give the foliage recognizable dark drooping fir boughs and dense needle sprays rather than broad deciduous leaves. Change the small ground area under them to subtle brown fir needle litter where appropriate. Preserve the ENTIRE den, its single long heavy stone lintel, both stone jambs, low narrow black entrance, layered shale hillside, all rocks, path, surrounding grass, valley meadow, distant hills, sky, afternoon light and overall composition exactly. Keep Canadian Group of Seven inspired broad varied opaque oil strokes, coherent connected shadows, dark lost edges, selective impasto. Maintain 1536x1024 landscape. No figures, text, symbols, glow, doors or new objects. This is the selected story-faithful correction; the original will remain preserved separately.",
+      "references": [
+        "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-ac004979-3400-4298-8685-4a22dee56262.png"
+      ]
+    },
+    "cover": {
+      "text": "Use case: illustration-story. Paint a novel cover for the finished short story, exact title \"The Weight of Here\". Output a PORTRAIT 9:16 composition, ideally 864x1536. Render that exact title ONCE, beautifully legible, in dark classic serif lettering across a quiet pale-sky area in the upper quarter, part of the generated cover. No author, subtitle, additional words, labels, letters on stones, or watermark.\nReference 1 is Osa's accepted sheet: use EXACT same adult woman, facial identity, warm brown skin, short dark wavy hair, worn grey coat with green paint on her LEFT cuff, cream shirt, dark trousers, scuffed boots, compact cloth-wrapped brushes at her hip. Do not copy sheet panels or labels. Reference 2 is the accepted den location: single heavy stone lintel over a low dark opening, two rough stone jambs, layered shale burden, nearby firs and open valley. Reference 3 is only Canadian Group of Seven inspired paint handling.\nCompose a quiet, intimate novel cover rather than a rescue diagram or plot summary. Low in the frame Osa sits on an ordinary rock outside the den, body angled into the valley, turning her face towards the opening in patient conversation. One hand rests naturally on her knee; brush roll at hip, other hand relaxed. In the deep entrance shadow, the monster mother's broad whiskered grey-furred muzzle and calm watchful eyes are visible, with old broken antler STUMPS. A single large forefoot rests gently on the threshold; the rest of her six-legged body is hidden inside the den. She looks like a loving strange animal person, not a snarling demon. No full rack of antlers, no extra visible limbs, no human horns, no magic glow, injury or weapons.\nThe massive quiet hillside occupies the middle of the tall composition, fir boughs frame it, with a sliver of valley and a road disappearing toward distant hills. Emphasize the contrast of burden, ordinary human company, and space beyond home. Broad rhythmic opaque oil strokes, varied directional paint, connected deep shadows and lost edges, selective impasto, subdued grey-green firs and stone with pale spring afternoon light. No glossy faces, theatrical rim light, orange-blue grading, digital fantasy sheen, decorative filigree or fake aged book borders. Preserve character identity and story-specific clothes. The mood is tender, wry, wistful and quietly impossible; suitable for all ages.",
+      "references": [
+        "D:\\.codex\\worktrees\\a093\\story-computing-machine\\stories\\the-weight-of-here\\art\\characters\\osa.webp",
+        "D:\\.codex\\worktrees\\a093\\story-computing-machine\\stories\\the-weight-of-here\\art\\landscapes\\den-selected.webp",
+        "D:\\.codex\\worktrees\\a093\\story-computing-machine\\stories\\a-beginner-of-considerable-age\\art\\landscapes\\01-apple-orchard-hillside.png"
+      ]
+    },
+    "cover_selected": {
+      "text": "Use case: precise-object-edit. Correct ONE background detail of this novel cover. The pale blue horizontal water/lake/river shapes in the distant valley, behind the foreground figures and firs and below the hills, must become ordinary pale spring MEADOW and a slender EARTH ROAD, consistent with the story's accepted valley landscape. Keep the same area and depth, but replace all distant water with muted green-gold grassy land, scattered dark fir stands, and one small earth-coloured winding road. No lakes, rivers or new waterways.\nPreserve everything else exactly: exact title \"The Weight of Here\" rendered once, typography, sky and all clouds, hills, foreground shale, SINGLE stone lintel and two jambs, low cave aperture, monster mother's calm grey-furred whiskered muzzle and BROKEN antler stumps and single visible forefoot, adult Osa's exact face/hair/body/pose/clothes, green paint on her LEFT cuff, hands, cloth brush roll, boots, all nearby firs, natural afternoon lighting and varied opaque oil strokes. Same portrait 9:16 dimensions. Do not enlarge or reshape the den, move figures, alter title, add labels, injury, glow or any other object.",
+      "references": [
+        "C:\\Users\\jamie\\.codex\\generated_images\\01a102f1-3166-7043-9d47-474cbc1e75ca\\exec-a6beb746-e724-4f11-b2f3-bab1ab9c7475.png"
+      ]
+    }
+  }
+}
