@@ -1,239 +1,280 @@
 ---
-title: The Difficult Part
+title: The Unspent Star
 created: 2026-10-03
 canon: false
 ---
 
-# The Difficult Part
+# The Unspent Star
 
-Linet came in too early, as usual.
+The rose star had learned a new trick.
 
-Meret lifted the needle off the record. In the sudden quiet, she could hear a biscuit cooling on the tray, its crust making small, dry clicks.
+It slipped between the streamers of Orya's mantle, stayed out of sight while she turned, and appeared beside her other shoulder. When she put out her hand, it drifted just beyond her fingers.
 
-“I haven't finished,” she told the brass horn.
+She let it. She liked a thing that could surprise her.
 
-She lowered the needle again. Linet drew breath, sang her long low note, and laughed halfway through it. Meret fitted the quicker notes above hers. At the end of the phrase, where their voices should have met, the scratch took Linet away.
+Below her bare feet, pink rings circled a dark world. They were narrow enough to make a path, although she seldom touched them. Their pull held her a little above the dust. She went around the largest, letting its slow tilt bring the stars into different arrangements overhead.
 
-*You do the difficult part,* the record said. Then three soft knocks, the sound of Linet's knuckle on the table. The needle entered the damaged groove and stayed there.
+A cluster was rising beneath the dark skin of her left wrist. She felt the tiny pressure of its lights. One would emerge when she slept; the others might remain there for many turnings. Her body held such unfinished lights everywhere: a blue knot beneath her ribs, a scatter along one thigh, two gold points that had been traveling toward her fingers for so long she had stopped expecting them.
 
-Meret stopped the player. She ate the biscuit standing up, burned her tongue on its soft middle, and ate another. There would be no fresh bread at the singing cleft. She meant to carry enough to make up for that.
+The rose star had come from her shoulder. Since then it had grown, changed its habits, and acquired a pale trailing edge. She had kept it through more turnings than she could count.
 
-The guidebook lay open beside her pack. Its cover showed the twin rose suns setting behind a cleft in white stone. A woman in an absurdly clean coat stood at the mouth with one hand raised. Beneath her, blue letters promised: *THE WHOLE MOUNTAIN SINGS WITH YOU.*
+It darted under her hood.
 
-“It had better.”
+“That's mine,” she said, pulling the rose cloth forward.
 
-Outside, the little third sun was climbing through a band of green stars. Its light silvered the winter ice across the bay. Meret had watched that ice for weeks: dark seams closing, drift snow melting off, old ridges settling. Yesterday she had walked a mile onto it with her sounding pole. It still carried her. The high thaw would come soon, but there was time for an outward crossing, a night at the cleft, and a return.
+There was no face behind the hood for it to illuminate. The light fell into a darkness continuous with her body, then came back through the cyan lining. Orya could feel the brightness against her. She lifted the hem, and the star escaped.
 
-There had been time before. There had been thirteen years of time.
+Farther along the ring, a little blue dream-light had begun to fade. She caught it before it could go.
 
-Once, going had meant bargaining over days off, weather, which sister would carry the tent. Then Linet had been ill. Then the last carrier had crossed the closing passage above the rose suns, taking everyone who still intended to leave. Linet would not be moved again. Meret had stayed, and after the burial there had been nobody to bargain with.
+Perhaps a small world. She wanted something cool beneath her feet, with a rough edge that would catch the trailing threads of her mantle. Everything on this side of the rings was too smooth.
 
-The singing cleft remained in the book. She had left it there until this winter, when she found herself listening for the scratch more than the song.
+She took one thread from the hem and looped it around the light. Closing the loop made the blue glow gather. It thickened, darkened at its center, and settled into a round grain of matter. Dust moved toward it. A fine ring formed, trembled, and held.
 
-She packed the biscuits, a flask, the folded tent, a blanket and a pair of spare stockings. The record stayed in its sleeve. She put it in the cupboard away from the sun.
+Orya opened her hands. The new world dropped into its orbit. Its pull brushed her soles.
 
-Her rust-red coat had faded orange across the shoulders. She buttoned it over her charcoal trousers, pinned back the short grey-streaked black hair that kept escaping the comb, and pulled on her mittens. At the door she checked for the key, although there was nobody who might get in without it.
+She tried it, turning the little world with her toes until she found the rough place. It was satisfactory.
 
-Then she went back for another biscuit.
+The thread had left a hole in her mantle. She ran her thumb along its edge. Making cost something. She could have a light still able to become many things, or the particular thing she made from it. She had never found a way to have both.
 
-***
+The rose star hovered beside the new ring. She offered it the empty loop between her fingers, without closing it.
 
-The keeper knew this movement: the small figure leaving the house, turning, going inside again.
-
-Usually she returned with a tool. Sometimes with nothing the keeper could distinguish. They had watched her come back for things for thirteen years, each of her days taking a day from them as well.
-
-Now she emerged with a burden on her back and went past the garden.
-
-The keeper held the sphere closer to the black opening of their hood. Through the glass, the bay was a silver crescent beside her world. Looking along its edge brought the woman into view. There was her red coat; there were the dark squares of the windows, her small footprints among the dunes.
-
-Nothing could be heard. The glass kept every voice, every footfall, every wave inside.
-
-They had closed it around this world and the last surviving lights of its heavens after the carriers had escaped. The passage had folded shut behind them. Beyond it, the old region was coming apart. The keeper had gathered what remained, sealed it, and carried it away. The woman had seen the strange stars continue to rise. She had never seen the hands beneath them.
-
-One of those hands began to shake.
-
-The keeper lowered the sphere against their breast until the tremor passed. Beneath their dark skin, a cluster of lights at the wrist had gone out. It had been fading for months. Another, below the thumb, was dimmer than yesterday.
-
-Sleep did not bring those lights back. Neither did rest.
-
-There was a hollow nearby, smooth enough to receive the glass. If they set it down and withdrew their warmth, everything within would stop: stars midway through burning, a falling biscuit crumb, the woman with her foot above the ice. She would feel no cold and suffer no waiting. Nothing would happen to her again unless someone found the sphere and warmed it.
-
-No other footsteps had crossed this waste during all the keeper's years upon it.
-
-Across the broken black ridge, a rose ember burned in a bowl of stone. The keeper had come a long way toward it. Close to the ember, the glass could take heat without their touch and the little universe could go on. But the radiance there would burn the keeper's living skin. They could not remain beside it, looking in.
-
-Between the hollow and the ember lay sharp-edged slabs, gaps, and a sloping face of rubble. A fall could break the glass, and the world inside would break with it. The keeper could preserve the woman here, safely, or carry her farther with hands that were failing.
-
-They watched the red coat move onto the ice.
+It wandered away.
 
 ***
 
-Meret sang as she walked, chiefly to test whether she still had breath to spare.
+Outside her sky, the keeper turned the glass sphere between two hands.
 
-She had forgotten how much light came off a bay in winter. It found its way under her lashes and made the snow crust purple when she blinked. The little sun burned blue through its own faint rings. Beyond it, the green stars were slowly disappearing, but the pair of rose suns remained bright enough to cast two shadows of her pole.
+A dark world had just appeared inside, surrounded by a pink ring. The woman lowered one foot toward it. Her perforated mantle flowed behind her in rose and cyan.
 
-At noon she ate a biscuit beside a ridge of piled ice. The white cleft looked close enough to reach before evening. The guidebook had given the journey six hours; presumably its author had been younger and had not stopped to look at every bubble caught underfoot.
+She had used another possibility.
 
-In one clear patch, a shoal of silver, many-finned things hung below her boots. When she tapped the pole, they turned together and vanished.
+The keeper watched the light leave that part of the sphere. They had learned to recognize the moment when it became useless to them. Once a dream had settled into matter, no question could be read in it.
 
-Linet would have hated this part. She liked looking at wildlife from windows.
+At their wrist, the message bead flashed again. Within its pale surface, a narrow vessel hung beside a blue star. The star's outer light was breaking into great uneven bands. One passage led beyond the bands; another cut between them. Their daughter had enough power for one attempt.
 
-Meret stood, settled the pack, and went on.
+Her last message repeated.
 
-The wind changed before the sky did. It struck her from the side, hard enough to lift the edge of her coat. She planted the pole. A second gust dragged loose snow across the ice in a sheet that erased her shadows.
+*One more turning. Then I have to choose.*
 
-The green stars brightened again.
+The keeper folded the edge of their cyan hood away from the sphere. Rose light from its lining crossed the glass. Inside, a brighter rose light moved beside the woman.
 
-“Oh, don't,” she said.
+They needed that one.
 
-The weather did not take her advice. A long cloud unfurled from the horizon and blotted out both rose suns. Snow beat into her face, warm and wet.
+It had been kept unspent long enough to hold an immense branching pattern. Smaller lights could answer whether a seed would grow, which enemy would arrive first, where a storm would break. Their daughter's vessel was already inside a failing star's reach. Finding a way out required a light with room for many more consequences.
 
-She made for a low rock that protruded through the bay ice. Behind it she unfolded the tent, got one peg in, then another. The third gust tore the fabric out of her hands. A seam opened from corner to corner. She caught the trailing cord, hauled the ruin back, and wrapped herself in it against the rock.
+Across the keeper's people, living readers waited with their hands above dark bowls. Every gift of sight their houses claimed had come through this glass. The keeper had supplied light for harvests, marriages, battles, births. Questions had become harder. The readers kept coming back.
 
-Her brown fingers were clumsy even inside the mittens. She pressed them under her arms. Somewhere below the wind came a report like a door being slammed in a very large house.
+The keeper knew what lived inside the sphere.
 
-The bay ice had cracked.
+They had seen Orya make worlds. They had watched her sleep above the rings with her hands folded under her hood. They had enclosed her horizon while she slept, bending the distant reach of her universe into glass until they could hold its whole night between their palms. When she woke, the stars still rose. There had been no visible wall for her to distrust.
 
-***
+Unspent possibilities were readable through that closed curvature. Each light's branching paths lay open at once. With their pulse against the glass, the keeper could draw a question through those paths and take its answer out.
 
-When the keeper stumbled, they caught the sphere against their chest. It did not strike the stone. But the tilt had swept a white curl across the little bay, and the woman had disappeared inside it.
+They had told themselves they took nothing she had made. Most dreams were never used. A possible world left unmade could instead save an existing one.
 
-They brought their other hand up. A shard spun loose from the ridge above, struck their shoulder, and glanced away. They drew the sphere beneath the rose lining of the cyan hood.
+The rose light passed close to Orya's wrist.
 
-The glass warmed against their throat. Through a gap in the cloth, they saw the white curl thicken and turn grey. A dark seam widened in the bay ice. The lining clung to the sphere and hid her altogether.
+The keeper placed two fingertips against the glass.
 
-They could not see enough to know what shelter had done.
-
-Slowly, they uncovered the glass. They braced it between both palms and their breast, keeping their elbows tight. Snow still moved inside. The woman came into view beside a dark speck of rock.
-
-The keeper stood without taking another step until she got up. Then, still watching, they turned back toward the hollow.
+Show me the passage on which her vessel comes through.
 
 ***
 
-By late afternoon the storm had passed. Meret was soaked from the knees down, one tent peg was gone, and the bay had become a different country.
+The rose star stopped moving.
 
-The crack she had heard ran across her route. Beyond it, a channel of dark water widened between floes. The great winter bridge to the cleft had broken into slabs; she watched one turn slowly, grinding against its neighbor. Warm rain ticked on the pole.
+Orya was still turning with the ring, but the star held in one place. A fine strand drew out of it toward an empty part of the sky.
 
-A night frost might skim the channels over. It would not join those slabs strongly enough to carry her. The deep freeze was months away.
+She caught the strand.
 
-She felt a fierce, brief desire to throw the guidebook into the water. Instead she put it back in the pack. There might be a blank page she could use.
+A thread in her mantle tightened too.
 
-Returning took longer. She followed her own morning tracks until they vanished, then followed the coast. On the landward side, above the dunes, a black bluff showed a row of shallow hollows. Wind passing through them made a low, uncertain noise. She stopped to listen, but it broke apart before she could decide whether it was a note.
+She knew this pull. Sometimes she woke with a light missing and a new tear among the old perforations. Sometimes it happened while she was awake: a star stretched, narrowed, vanished. She had thought the sky needed some of its lights back. She had never liked how it chose.
 
-By the time she reached home, her right knee would hardly bend.
+“Leave this one.”
 
-She lit the stove, hung the torn tent over two chairs, and sat at the window with her wet feet on a towel. Across the bay, the white cleft glimmered between clouds.
+The strand pulled harder. Her mantle drew tight across her shoulder. Below, the small world turned past the place where she could have put her foot.
 
-“Next year,” she said aloud, testing it.
+She wound a loose streamer around her wrist and let the pull carry her beyond the rings. The star traveled ahead, held at the end of its narrowing ray. She followed with one hand closed around that ray.
 
-There was nothing foolish about next year. She could mend the tent, build up her walking, watch the ice more carefully. She could make the trip just as she and Linet had meant to make it.
+Her other palm struck something smooth.
 
-The stove settled with a clang. Meret looked away from the cleft and down at the torn canvas. She had spent the day outdoors and every inch of her hurt. The biscuit crumbs in her pocket tasted of salt. For all the rain, she had liked the little creatures under the ice. She wanted to see where the bluff's hollows went.
+There had never been anything here.
 
-She hauled herself upstairs to find her old climbing rope.
+She spread her fingers. The surface curved away beneath them. The star's ray ran straight into it.
 
-***
+Then a vast blue shape moved on the far side.
 
-The keeper returned to the hollow after the woman's window brightened.
+Orya recoiled. Her mantle swept across the rose star. Under a fold of intact cyan lining, its ray went slack.
 
-They knelt and eased the sphere onto the smooth stone, keeping their hands beneath and around it. For the first time in many days, its weight was supported. Warmth still passed from their palms. In the house, the woman moved two chairs, then sat down.
+She clutched it to her.
 
-The keeper knew that window. They had watched her there with a bowl, a book, her feet tucked under her. They could not know whether sitting brought her peace. But they had come to depend upon the sight of her returning.
+The surface remained. Beyond it, something enormous withdrew.
 
-With the glass safe against the stone, they rested their head above it. A few hours passed. The woman slept. Small pale lights went out along the keeper's forearm.
+For a while she stayed there, with the hidden light warming the fold against her wrist. She could see the rings far below. They looked smaller from here, but they were all there: the old broad one, the three she had made together, the broken ring she had never managed to join.
 
-They could withdraw their hands. In the morning, there would be no need to lift the sphere over the broken ridge. There would be no chance of dropping it. She would remain asleep in her house while they lay down beside her world.
+She eased the lining aside to look at the rose star.
 
-They waited until morning.
+Its pale edge lifted. The ray drew out again. Across the curved surface, a dark fingertip settled exactly where it ended.
 
-The woman crossed the kitchen. She ate, moving one leg stiffly. She put a coil onto her back and fastened something long and narrow to its side. At the doorway she bent over her boots.
+Orya wrapped the star up.
 
-In the morning light, dark channels ran between ice plates where she had walked yesterday.
+The pull stopped.
 
-Then she went north, away from the bay.
-
-The keeper lifted their head. Her house diminished behind her, its window dark.
-
-They could still preserve her. She would never know what had been interrupted. The keeper watched until the red coat disappeared behind the bluff, and then worked their hands farther beneath the glass.
-
-They lifted it.
+She kept the fold closed, with both hands over it.
 
 ***
 
-Meret had forgotten the smell of the climbing rope: wool grease, dust, something peppery that came out when it was wet. Her father had used it before she did. She tested each span, pulled hard at the splices, and chose a way up the bluff that kept a broad ledge beneath her.
+The answer dissolved before the keeper could read it.
 
-The narrow thing lashed to her pack was a broken tent pole. It made a tolerable walking stick. She had cut an intact corner from the tent and tied it over her food.
+They had glimpsed two passages, then a third opening beyond the star's falling light. The routes broke apart when Orya covered the source.
 
-From the top she could see the ruined ice bridge. She could also see the cleft, small and white in the distance. There were no blue letters over it. It was only stone.
+They turned the sphere. The intact fold of her lining moved with her, keeping the rose light hidden.
 
-The hollows she had glimpsed from below opened along the bluff's eastern face. Some were no deeper than cupboards. Others bent out of sight. She spent the afternoon finding a way among them, testing footholds and marking the turnings in the guidebook's back pages. Twice the wind forced her to sit down and wait. Once, a violent gust threw her hood across her eyes.
+The message bead flickered. The vessel had begun to drift toward the bands.
 
-“Yes, yes. I know.”
-
-She took the hood down and crawled past the exposed corner with the rope looped around a knob of stone behind her.
-
-At dusk, in a cave with a dry floor, she ate cold biscuits and a strip of apple. When she sang, the sound came straight back, flat and close. She tried a higher note. The cave returned it equally badly.
-
-She laughed once and discovered a new ache in her ribs.
-
-Outside, the stars had shifted behind an immense dimness. She had seen such dark tides in the heavens before. Nobody had ever given her a useful explanation for them. She watched until a green star emerged, then wrapped herself in the blanket and lay down with the pack beneath her head.
-
-Before sleep, she sang Linet's long note. It went nowhere in particular.
+The keeper tried two smaller lights near the opposite curve. Together, perhaps, they might show part of the route. They pressed their pulse into the glass again.
 
 ***
 
-The keeper crossed the sloping rubble sideways, the sphere supported between palms and forearms. When a hand shook, they stopped against a slab and let the tremor run through their body. Higher up the slope, an overhang cast its shadow across the uncovered glass. The glass was never still enough to leave the inward sky alone. Winds moved along the coast. The keeper saw the woman crouch on a ledge and wait.
+A blue light below Orya stretched.
 
-They waited too. They did not pull the hood around the sphere again.
+She turned toward it, still holding the rose star under her mantle. Its ray reached another place in the curved surface. A second dark finger waited there.
 
-Late in the night they reached the last steep rise. They could not climb it on their feet. There was a groove broad enough to hold the sphere. They laid a corner of the cloak beneath the glass, slid it a little way upward, crawled after it, and brought their hands around it again. They did this until the groove ended and the warmth reached them.
+The blue light narrowed to a point. As it vanished, a thread came loose from her hip and passed through a hole in the cloth. She felt it go.
 
-The rose ember shone beyond the rise. Its radiance found the keeper's knuckles. Skin that had lived in the dark all these years began to blister.
+On the other side, the finger brightened.
 
-They turned their wrists, bringing fresh skin into the light, and carried the sphere down. They worked their way among the slabs while the sphere's little suns began to rise.
+Orya looked down at her mantle.
 
-***
+She remembered where she had taken the thread for the rough little world. She remembered which loose ends had become the great pink rings. There were other holes she could not account for. Now she watched one of them widen.
 
-On the third morning, Meret found a hollow with a sloping mouth and a narrow throat. She had to lie on her stomach to look inside. The wind made three uneven sounds there: two short, one long, then a silence that might last a breath or half a minute.
+She pulled the mantle across the blue light beside it. The cloth spread into a broad rose sheet, cyan beneath, with loops and ragged openings all through it.
 
-She sat back, annoyed. She had wanted a whole mountain, and had come to a place that could not count.
+Light shone through an opening.
 
-She sang the quick part anyway.
+The waiting finger moved.
 
-The stone clipped it. Her first notes returned together in a thin jumble; the last came back late. Beneath them, the wind kept stumbling through its three sounds.
+She folded the cloth again, trying to cover that place, and exposed another. The mantle had too little left in it. Her own creations had used some; something beyond the sky had taken the rest.
 
-She tried again, louder. The throat made a whistling noise and gave her nothing.
+It was still taking.
 
-“You're worse than she was.”
+Orya pressed her hand against the smooth curve. On the far side, a palm opened.
 
-A hard gust blew grit onto her teeth. She spat, wiped her mouth, and waited with one mittened hand pressed over the throat. When the wind eased, she took her hand away.
+It had five fingers. Its shape was hers, enlarged beyond any world she had made. Beyond it rose a cyan hood with a dark hollow where a face might have been.
 
-Two short sounds. One long.
+Another person.
 
-This time she gave it a long low note, the easy part. She held it until she needed another breath. For a moment, the wind's broken sounds ran above her voice. Then they fell apart again.
+The sphere turned slightly. Orya's worlds swung beneath her.
 
-She had heard them fit, though. She waited to see whether they would do it twice.
+A second hand came up on the other side. Together they held the curve that enclosed every ring, every alien star, all the distances she had thought were hers to cross.
 
-***
+She put both palms against the glass.
 
-The keeper found a shallow socket in the ember's bowl and lowered the sphere onto it. Both hands remained around the glass while the warmth entered. Inside, the third sun cleared the woman's coast. Clouds went on moving when the keeper eased one palm away.
-
-They withdrew the other. The last lights in their fingers went out. When they tried to bend them, nothing moved.
-
-For a while they knelt there, holding their ruined hands apart. Through the glass they could still see the red coat beside a black opening in the rock. The woman tipped her head back. Her mouth opened.
-
-The keeper could not hear her.
-
-Heat was climbing beneath the hood. They turned and crawled uphill, keeping their hands lifted off the stone. At the rim, they looked back. The sphere shone rose and blue in its bed of light. From here, they could no longer find the house, the bluff, or the woman.
-
-They went over the rim into the cold.
+The keeper looked in at her.
 
 ***
 
-Meret managed it three times before the wind changed.
+They knew she could see them.
 
-The third was the best. She missed the beginning, caught up, and held her note so long that her voice cracked. Something high and ridiculous came out of the stone above it. She laughed into her sleeve.
+Her head followed their hand. When they moved a finger toward the rose light, her hands closed over it. When they moved toward another light, she spread her torn mantle across its path.
 
-Then she ate the last biscuit, brushed the crumbs off her trousers, and took out the guidebook. Beside her sketch of the hollow she wrote, *Doesn't do requests. Try the low part.*
+The message bead burned blue at the keeper's wrist.
 
-There was still most of a morning left. She tied the book shut, tested her knee, and went to see what the next opening would give her.
+“I need it,” they said.
+
+Nothing of their voice entered the sphere. The woman stayed against the glass, her own hands making a small dark shape inside the larger one.
+
+They could turn her universe, carry it, draw exposed light through its closed lens. To reach into the cloth she held against her body, they would have to open the seal. The branching paths would lose their focus. Whatever they took then would be light.
+
+The keeper held the sphere still.
+
+The rose star glimmered briefly between Orya's fingers. She looked down at it.
+
+***
+
+She could keep it hidden.
+
+She could hold it against her for as many turnings as she liked, while the rest of her sky emptied through the holes. She could make it a world and keep that world. Its motion would then be the motion she gave it, following an orbit she chose.
+
+She drew the fold back a little.
+
+The star slid across her palm. Its pale edge swept her thumb. It had become larger while she kept it, rich enough to make a world far greater than the one with the rough edge.
+
+She had wanted to see what it would do next.
+
+Above her, the huge hand moved toward its light.
+
+Orya closed the cloth again. Through a hole beside her shoulder, a gold point stretched toward the glass.
+
+She caught that point in an intact corner of the mantle. There was almost nowhere left to fold.
+
+Below her, the rings kept turning. The rough little world moved faithfully along the course she had made for it.
+
+Orya took a long thread from the lower hem.
+
+She laid its end against the curved surface. Her familiar making-loop had given small worlds their shores. Here the glass already offered a closed shape, around the whole of her sky.
+
+The keeper's hand remained beyond it.
+
+She touched one finger to the star beneath the lining, and felt its wandering light.
+
+Then she pressed it into the loop against the glass.
+
+For an instant the rose light spread everywhere. It ran across her dark wrists, along the lights beneath her skin, up into the empty face of her hood. She kept the thread against the curve.
+
+The first grain of matter darkened beside her fingers.
+
+It spread thinly along the glass. Dust caught in it. Orya fed more thread from the mantle, following the curve with her hands. The forming surface took the glass's shape, closing around the stars within.
+
+The keeper's fingertips disappeared behind it.
+
+She followed the growing edge. Where it reached a distant blue light, she drew the light inward before the matter closed. She gathered the gold point, then the small scatter she had always watched above the oldest rings.
+
+One side of the sky was complete.
+
+The keeper turned the sphere. A remaining clear reach opened beyond Orya's shoulder. She carried the thread to it. Rose brightness still trembled in the new matter, all that remained of the moving star. She let it spread into the last uncovered curve.
+
+The edges met.
+
+Orya lifted her hands.
+
+She could still see every surviving light. Beyond them, her new world had a dark inner surface, smooth enough to hold the shine of the rings.
+
+No light passed out.
+
+***
+
+The keeper held a dark sphere between two hands.
+
+They moved it until the message bead's blue glow fell across the glass. Nothing of the inside appeared.
+
+To reach the lights now, they would have to open the vessel and pierce the surrounding world Orya had made. The closed lens would be gone before a single path could be read. All the hands waiting over all the distant bowls had nothing to receive.
+
+Their daughter called again.
+
+This time the keeper answered.
+
+“I don't know.”
+
+They could feel the sphere's weight. Their palms could still turn it. It gave them no sign of where the woman stood, or what she would do.
+
+***
+
+Orya went back to the oldest ring.
+
+The last thread she had used left a long opening in the rose mantle. She drew what remained around her shoulders and tucked its cyan edge beneath the clasp.
+
+Her dark feet hovered above the pink dust. Lights moved slowly under the skin of her legs. The little rough world came past; she let her toes brush its ring.
+
+She put a hand out beside her shoulder.
+
+Nothing darted beyond it.
+
+She held the hand there for a while.
+
+Far above, the inner world was smooth and black. She knew another person stood beyond it, holding the glass. She could not see whether their fingers were still waiting.
+
+The universe tilted.
+
+Orya lowered herself toward the ring until its pull steadied her. She waited for the turning to finish, then opened both hands beneath the stars that remained.
+
