@@ -222,7 +222,7 @@ I told the smaller ones to go through the gap. The youngest would not. It had he
 
 Osa pushed the coat ahead of the youngest. It caught the cuff and crawled after it. The others followed, dragging the rolled brushes and my oldest's bag. From outside came a quarrel over who could keep the coat, and I heard each of them in it.
 
-Osa stood beside my child's shoulder, on the den side of the lintel. The stone was barely higher than her head. She fitted her shoulder beneath it, bent her knees, then straightened until the stone pressed against her.
+Osa crouched beside my child's shoulder, on the den side of the lintel. She shifted until her shoulder was beneath the stone, then pushed up from her bent knees.
 
 “Let some of it come,” she said.
 
@@ -258,11 +258,11 @@ My child moved its eyes towards her. It could not turn its head.
 
 I let go of Here. Its pull left me, and the lintel sank against Osa's shoulder. For an instant she sagged with it. Then her legs stiffened.
 
-Under the dust on Osa's neck, a small brightness moved. I knew the feel of a naming. I knew her mother had spent one. I could see no connection between that sleepy baby and the thing this grown woman was doing with her shoulders.
+Under the dust on Osa's neck, a small brightness moved. I knew the feel of a naming. I knew her mother had spent one. I could not see how that sleepy baby had grown into someone who could hold a hillside.
 
 The relief nearly folded me onto the floor. I caught myself, hooked my front claws into the damaged left jamb, and pulled.
 
-A slab came free. My child's antler lurched downward.
+A slab came free. The lintel tilted towards the opening, and more shale settled onto it. Osa's back bowed. She pressed upward until the stone was level again. My child's antler lurched downward.
 
 “Again,” Osa said.
 
@@ -270,7 +270,7 @@ I tore out the next stone. There was room now to swing the caught fork towards t
 
 Osa made a sound I had never heard from her.
 
-I shoved my child into daylight and followed. My youngest had let go of the coat. I spread my body over the brood and shouted Osa's name.
+I shoved my child sideways through the opening where the left jamb had stood, folded my legs, and followed. The little ones huddled against the hillside directly beside the mouth. I crouched over them, facing the entrance, and shouted Osa's name.
 
 She ducked. The stone came down as she flung herself through the widened entrance. I caught her wrist and dragged her clear. Shale poured after her, covering the threshold, the place where I had sewn her boot, and the hollows where the children slept.
 
