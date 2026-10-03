@@ -180,7 +180,7 @@ I turned towards my child. It very seldom used the human word.
 
 “I've turned my head all winter. I've tried every way.”
 
-I could see its face through the entrance. I could touch it, if I reached.
+It looked back at me, then through the entrance at Osa. I could touch it, if I reached.
 
 “Then we must be patient.”
 
@@ -222,7 +222,7 @@ I told the smaller ones to go through the gap. The youngest would not. It had he
 
 Osa pushed the coat ahead of the youngest. It caught the cuff and crawled after it. The others followed, dragging the rolled brushes and my oldest's bag. From outside came a quarrel over who could keep the coat, and I heard each of them in it.
 
-Osa stood behind the trapped antlers. The lintel was barely higher than her head. She fitted her shoulder beneath it, bent her knees, then straightened until the stone pressed against her.
+Osa stood beside my child's shoulder, on the den side of the lintel. The stone was barely higher than her head. She fitted her shoulder beneath it, bent her knees, then straightened until the stone pressed against her.
 
 “Let some of it come,” she said.
 
@@ -256,11 +256,11 @@ My child moved its eyes towards her. It could not turn its head.
 
 “Do it,” my child said to me.
 
-I gave up the last of the weight.
+I stopped sustaining Here. Its pull left me, and the lintel sank against Osa's shoulder. For an instant she sagged with it. Then her legs stiffened.
 
 Under the dust on Osa's neck, a small brightness moved. I knew the feel of a naming. I knew her mother had spent one. I could see no connection between that sleepy baby and the thing this grown woman was doing with her shoulders.
 
-The relief nearly folded me onto the floor. I caught myself, hooked my front claws into the damaged jamb, and pulled.
+The relief nearly folded me onto the floor. I caught myself, hooked my front claws into the damaged left jamb, and pulled.
 
 A slab came free. My child's antler lurched downward.
 
