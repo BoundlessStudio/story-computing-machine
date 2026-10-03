@@ -232,6 +232,8 @@ She followed the growing edge. Where it reached a distant blue light, she drew t
 
 One side of the sky was complete.
 
+At the keeper's wrist, a band of blue light swept across the vessel.
+
 The keeper turned the sphere, bringing a finger toward a still-exposed light. A remaining clear reach opened beyond Orya's shoulder. She carried the thread to it. Rose brightness still trembled in the new matter, all that remained of the moving star. She let it spread into the last uncovered curve.
 
 The edges met.
@@ -248,7 +250,7 @@ The keeper held a dark sphere between two hands.
 
 They moved it until the message bead's blue glow fell across the glass. Nothing of the inside appeared.
 
-To reach the lights now, they would have to open the vessel and pierce the surrounding world Orya had made. The closed lens would be gone before a single path could be read. All the hands waiting over all the distant bowls had nothing to receive.
+To reach the lights now, they would have to open the seal and pierce the surrounding world Orya had made. The closed lens would be gone before a single path could be read. All the hands waiting over all the distant bowls had nothing to receive.
 
 Their daughter called again.
 
