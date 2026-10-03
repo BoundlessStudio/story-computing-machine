@@ -70,7 +70,7 @@ They watched the red coat move onto the ice.
 
 Meret sang as she walked, chiefly to test whether she still had breath to spare.
 
-She had forgotten how much light came off a bay in winter. It found its way under her lashes and made the snow crust purple when she blinked. The little sun burned blue through its own faint rings. Beyond it, the green stars were slowly disappearing, but the pair of red ones remained bright enough to cast two shadows of her pole.
+She had forgotten how much light came off a bay in winter. It found its way under her lashes and made the snow crust purple when she blinked. The little sun burned blue through its own faint rings. Beyond it, the green stars were slowly disappearing, but the pair of rose suns remained bright enough to cast two shadows of her pole.
 
 At noon she ate a biscuit beside a ridge of piled ice. The white cleft looked close enough to reach before evening. The guidebook had given the journey six hours; presumably its author had been younger and had not stopped to look at every bubble caught underfoot.
 
@@ -86,7 +86,7 @@ The green stars brightened again.
 
 “Oh, don't,” she said.
 
-The weather did not take her advice. A long cloud unfurled from the horizon and blotted out both red suns. Snow beat into her face, warm and wet.
+The weather did not take her advice. A long cloud unfurled from the horizon and blotted out both rose suns. Snow beat into her face, warm and wet.
 
 She made for a low rock that protruded through the bay ice. Behind it she unfolded the tent, got one peg in, then another. The third gust tore the fabric out of her hands. A seam opened from corner to corner. She caught the trailing cord, hauled the ruin back, and wrapped herself in it against the rock.
 
@@ -148,9 +148,11 @@ They waited until morning.
 
 The woman crossed the kitchen. She ate, moving one leg stiffly. She put a coil onto her back and fastened something long and narrow to its side. At the doorway she bent over her boots.
 
+In the morning light, dark channels ran between ice plates where she had walked yesterday.
+
 Then she went north, away from the bay.
 
-The keeper lifted their head. This was no journey they had watched her make before. Her house diminished behind her, its window dark.
+The keeper lifted their head. Her house diminished behind her, its window dark.
 
 They could still preserve her. She would never know what had been interrupted. The keeper watched until the red coat disappeared behind the bluff, and then worked their hands farther beneath the glass.
 
