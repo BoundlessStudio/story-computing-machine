@@ -28,11 +28,11 @@ Farther along the ring, a little blue dream-light had begun to fade. She caught 
 
 Perhaps a small world. She wanted something cool beneath her feet, with a rough edge that would catch the trailing threads of her mantle. Everything on this side of the rings was too smooth.
 
-She took one thread from the hem and looped it around the light. Closing the loop made the blue glow gather. It thickened, darkened at its center, and settled into a round grain of matter. Dust moved toward it. A fine ring formed, trembled, and held.
+She took one thread from the hem and looped it around the light. Closing the loop made the blue glow gather. It thickened, darkened at its center, and settled into a round grain of matter. She pressed her thumb into it. When she lifted her hand, the little world kept the curve, with a rough ridge where the matter had risen around her. Dust moved toward it. A fine ring formed, trembled, and held.
 
 Orya opened her hands. The new world dropped into its orbit. Its pull brushed her soles.
 
-She tried it, turning the little world with her toes until she found the rough place. It was satisfactory.
+She tried it, turning the little world with her toes until the ridge came underfoot. It was satisfactory.
 
 The thread had left a hole in her mantle. She ran her thumb along its edge. Making cost something. She could have a light still able to become many things, or the particular thing she made from it. She had never found a way to have both.
 
@@ -52,9 +52,9 @@ The keeper watched the light leave that part of the sphere. They had learned to 
 
 At their wrist, the message bead flashed again. Within its pale surface, a narrow vessel hung beside a blue star. The star's outer light was breaking into great uneven bands. One passage led beyond the bands; another cut between them. Their daughter had enough power for one attempt.
 
-Her last message repeated.
+Her last message repeated. Their daughter's voice stopped after the first word. They heard her take a breath and begin again.
 
-*One more turning. Then I have to choose.*
+*One more orbit. Then I have to choose.*
 
 The keeper folded the edge of their cyan hood away from the sphere. Rose light from its lining crossed the glass. Inside, a brighter rose light moved beside the woman.
 
@@ -184,7 +184,7 @@ The message bead burned blue at the keeper's wrist.
 
 Nothing of their voice entered the sphere. The woman stayed against the glass, her own hands making a small dark shape inside the larger one.
 
-They could turn her universe, carry it, draw exposed light through its closed lens. To reach into the cloth she held against her body, they would have to open the seal. The branching paths would lose their focus. Whatever they took then would be light.
+They could turn her universe, carry it, draw exposed light through its closed lens. To reach into the cloth she held against her body, they would have to open the seal. The branching paths would lose their focus. Whatever they took then would be only light.
 
 The keeper held the sphere still.
 
@@ -232,7 +232,7 @@ She followed the growing edge. Where it reached a distant blue light, she drew t
 
 One side of the sky was complete.
 
-The keeper turned the sphere. A remaining clear reach opened beyond Orya's shoulder. She carried the thread to it. Rose brightness still trembled in the new matter, all that remained of the moving star. She let it spread into the last uncovered curve.
+The keeper turned the sphere, bringing a finger toward a still-exposed light. A remaining clear reach opened beyond Orya's shoulder. She carried the thread to it. Rose brightness still trembled in the new matter, all that remained of the moving star. She let it spread into the last uncovered curve.
 
 The edges met.
 
