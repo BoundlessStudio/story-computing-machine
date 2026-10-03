@@ -262,7 +262,7 @@ Under the dust on Osa's neck, a small brightness moved. I knew the feel of a nam
 
 The relief nearly folded me onto the floor. I caught myself, hooked my front claws into the damaged left jamb, and pulled.
 
-A slab came free. The lintel tilted towards the opening, and more shale settled onto it. Osa's back bowed. She pressed upward until the stone was level again. My child's antler lurched downward.
+A slab came free. My child's antler lurched downward. The lintel tilted towards the opening, and more shale settled onto it. Osa's back bowed. She pressed upward until the stone was level again.
 
 “Again,” Osa said.
 
