@@ -28,7 +28,7 @@ Farther along the ring, a little blue dream-light had begun to fade. She caught 
 
 Perhaps a small world. She wanted something cool beneath her feet, with a rough edge that would catch the trailing threads of her mantle. Everything on this side of the rings was too smooth.
 
-She took one thread from the hem and looped it around the light. Closing the loop made the blue glow gather. It thickened, darkened at its center, and settled into a round grain of matter. She pressed her thumb into it. When she lifted her hand, the little world kept the curve, with a rough ridge where the matter had risen around her. Dust moved toward it. A fine ring formed, trembled, and held.
+She took one thread from the hem and looped it around the light. Closing the loop made the blue glow gather. It thickened, darkened at its center, and settled into a round grain of matter. She pressed her thumb into it. When she lifted her hand, the little world kept the curve, with a rough ridge where the matter had risen around her thumb. Dust moved toward it. A fine ring formed, trembled, and held.
 
 Orya opened her hands. The new world dropped into its orbit. Its pull brushed her soles.
 
