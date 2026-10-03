@@ -256,7 +256,7 @@ My child moved its eyes towards her. It could not turn its head.
 
 “Do it,” my child said to me.
 
-I stopped sustaining Here. Its pull left me, and the lintel sank against Osa's shoulder. For an instant she sagged with it. Then her legs stiffened.
+I let go of Here. Its pull left me, and the lintel sank against Osa's shoulder. For an instant she sagged with it. Then her legs stiffened.
 
 Under the dust on Osa's neck, a small brightness moved. I knew the feel of a naming. I knew her mother had spent one. I could see no connection between that sleepy baby and the thing this grown woman was doing with her shoulders.
 
