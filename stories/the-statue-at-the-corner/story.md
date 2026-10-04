@@ -18,7 +18,7 @@ Then it shifted on its plinth. Stone scraped against stone, a harsh little sound
 
 “Now look,” it said. “I've forgotten.”
 
-Iona pressed both hands over her nose. The statue had a marble bob of hair, a marble skirt, and toes sticking out below its hem. It stood on a round slab of its own, on top of the shop's low stone ledge. White marks curved across the darker stone around it. The ledge ran beneath both windows and around the corner, like a bench nobody sat on because the stone child was there.
+Iona pressed both hands over her nose. The statue had a marble bob of hair, a marble skirt, and toes sticking out below its hem. It stood on a round slab of its own, exactly where the shop's low stone ledge turned the corner. One short arm of the ledge ran beneath the window Iona had just passed. The other ran beneath the second window and ended beside her doorway. White marks curved across the darker stone. It was like a bench nobody sat on because the stone child was there.
 
 Its mouth was moving.
 
@@ -76,7 +76,7 @@ She regretted it when the statue put its hands carefully against its skirt. It m
 
 There were footsteps on the other street, coming toward the doorway.
 
-Iona squeezed between the statue and the window, crouched, and pulled her skirt over her knees. The ledge was only as high as her shins. It wasn't much of a hiding place, but if her sister came around the corner quickly enough, perhaps she would look straight over her.
+Iona scrambled onto the ledge, squeezed between the statue and the first window, and crouched with her skirt pulled over her knees. The ledge was only as high as her shins. It wasn't much of a hiding place, but if her sister came around the corner quickly enough, perhaps she would look straight over her.
 
 The statue bent at its waist, peering.
 
@@ -104,7 +104,7 @@ Her sister took a step closer. Iona had never seen her approach anything so slow
 
 “Can you do it again?”
 
-“Don't,” Iona said. Her nose still hurt when she spoke loudly.
+“It already moved,” Iona said. “That's why you found me.” Her nose still hurt when she spoke loudly.
 
 “But it—”
 
@@ -112,7 +112,7 @@ The statue turned its head. There was a dry rubbing sound beneath its chin.
 
 Her sister's hand went to her own chin.
 
-“Oh,” she said.
+“Oh. You really can,” she said.
 
 One of her friends called from the square. He wanted to know whether Iona was found, and whether that meant it was safe to come out.
 
@@ -143,6 +143,8 @@ Her sister leaned around it to inspect the little recess. “You won't fit.”
 “I know.”
 
 Iona looked back toward the square. The other two had come out. One was balancing along the low wall, and the other was knocking seed pods off his socks. They would get to hide while she counted. She knew where they would go: behind the bakery steps, behind the wall, up the tree if her sister didn't remind them that climbing wasn't allowed. She could find them all quickly. She wouldn't have to be the one who was always caught.
+
+Iona stepped down from the ledge toward the square.
 
 The statue put its hands over its eyes again. It wasn't counting this time.
 
@@ -204,13 +206,13 @@ It straightened, bringing its hands down slowly. One palm had acquired a streak 
 
 Iona had been behind that tree with her yellow skirt outside it. She didn't want to be told it looked just like that, but it did.
 
-“The wall,” she said. “You could go behind the wall.”
+“Round the shop corner,” she said. “You could hide there.”
 
-The statue turned to the bricks and put both palms against them.
+The statue looked past her, along the street.
 
-“Not through it. Around. Look, the ledge goes round too.”
+“Look. The ledge goes round too. I could stand here and you could go on the other side.”
 
-There were old white scuffs all along the stone. She had thought they were bird droppings. At the far end, beneath the second window, the ledge stopped in a square edge; there was room before it for the statue and its slab. From beside the first window she couldn't see that end at all.
+There were old white scuffs all along the stone. She had thought they were bird droppings. The second arm ended beside the doorway in a square edge, with room for the statue and its slab between the window and the edge. From beside the first window she couldn't see that end at all.
 
 “Do you go round there?”
 
@@ -228,7 +230,7 @@ This time she counted in the solemn way the statue had counted, leaving a great 
 
 She walked toward it. The edge vanished with a scrape.
 
-Around the corner, the ledge was empty. She hurried past the second window and looked toward the square end. Nothing. On the other side of the wall came another scrape.
+Around the shop corner, the second arm was empty. She hurried past its window and looked toward the square edge beside the doorway. Nothing. A scrape came from the first arm, where she had been standing.
 
 Iona doubled back. A marble elbow drew out of sight.
 
@@ -240,7 +242,7 @@ She hadn't. She had moved from behind the tree when the boy with the green cap b
 
 “Well, I can hear you.”
 
-There was no answer. The statue might have been any still thing on the other side of the building.
+There was no answer. The statue might have been any still thing around the shop corner.
 
 Iona took off her shoes and set them together beneath the window. The pavement was warm through her socks. She crept to the corner, avoiding the gritty bits, and leaned her head around it.
 
@@ -262,7 +264,7 @@ The rubbing stopped.
 
 “I've found a bun. It's a very big bun. It's got toes.”
 
-There was a small, choked noise on the other side of the wall.
+There was a small, choked noise around the corner.
 
 “And a skirt. I think I'll eat it.”
 
