@@ -236,7 +236,7 @@ You go to the office door and tell Mr Coyle it no longer comes with the room. He
 
 Leonie presses the clock. You sit down to save your king.
 
-For four moves you cannot see how to do it without losing a rook. You bring your queen back to protect your king. From there she could reach the long diagonal towards Leonie's king, but one of Leonie's pawns blocks the route. Leonie puts her head on one side, following the retreat.
+For four moves you cannot see how to do it without losing a rook. You bring your queen back to protect your king. From there your queen could reach the long diagonal towards Leonie's king, but one of Leonie's pawns blocks the route. Leonie puts her head on one side, following the retreat.
 
 Then she advances that pawn, clearing a square for her knight.
 
