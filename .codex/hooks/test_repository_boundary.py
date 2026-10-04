@@ -142,14 +142,18 @@ class RepositoryBoundaryTests(unittest.TestCase):
             with self.subTest(field=field):
                 self.denied(self.event("Bash", {"command": "pwd", field: "../"}))
 
-    def test_shell_bypass_and_escalation_denied(self):
-        self.denied(self.event("Bash", {"command": "pwd"},
-                               permission_mode="bypassPermissions"))
-        self.denied(self.event("Bash", {"command": "pwd",
-                                       "sandbox_permissions": "require_escalated"}))
+    def test_shell_permissions_are_managed_by_codex(self):
+        for mode in ("default", "bypassPermissions"):
+            with self.subTest(mode=mode):
+                self.allowed(self.event("Bash", {"command": "pwd"},
+                                        permission_mode=mode))
+                self.denied(self.event("Bash", {"command": "pwd", "workdir": "../"},
+                                       permission_mode=mode))
+
+    def test_shell_missing_command_denied(self):
         self.denied(self.event("Bash", {}))
 
-    def test_shell_paths_are_left_to_os_sandbox(self):
+    def test_shell_command_text_is_not_a_path_check(self):
         # A hook cannot prove arbitrary program writes safe by inspecting text.
         self.allowed(self.event("Bash", {"command": "python program.py"}))
 
@@ -219,14 +223,11 @@ class RepositoryBoundaryTests(unittest.TestCase):
                          "deny")
 
     @unittest.skipUnless(tomllib, "Configuration checks require Python 3.11+")
-    def test_project_sandbox_configuration(self):
+    def test_project_defers_permissions_to_codex(self):
         config = tomllib.loads((REPO / ".codex/config.toml").read_text(encoding="utf-8"))
-        self.assertEqual(config["sandbox_mode"], "workspace-write")
-        self.assertEqual(config["approval_policy"], "never")
-        sandbox = config["sandbox_workspace_write"]
-        self.assertEqual(sandbox["writable_roots"], [])
-        self.assertTrue(sandbox["exclude_slash_tmp"])
-        self.assertTrue(sandbox["exclude_tmpdir_env_var"])
+        self.assertNotIn("sandbox_mode", config)
+        self.assertNotIn("approval_policy", config)
+        self.assertNotIn("sandbox_workspace_write", config)
 
     def test_configured_launcher_from_root_and_subdirectory(self):
         config = json.loads((REPO / ".codex/hooks.json").read_text(encoding="utf-8"))
