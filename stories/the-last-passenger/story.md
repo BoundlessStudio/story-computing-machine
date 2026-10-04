@@ -6,7 +6,7 @@ canon: false
 
 “Attention all heroes, attention all heroes: Switch from subject containment to evacuation. I repeat, evacuate all civilians immediately. Captain Incredible is en route and he is extremely pissed off.”
 
-Copperjack took his hands off the armoured man's shoulders.
+Copperjack took his hands off Vane's armoured shoulders.
 
 He had spent twelve minutes getting them there. The studio floor was littered with copper scales, broken clasps, one whole sleeve of Copperjack's suit. Now he backed out through the hole where the control-room window had been and pressed his earpiece.
 
@@ -18,7 +18,7 @@ I couldn't hear the answer. Whatever it was made him look up.
 
 “Two staff. The man in the kitchen, and her.”
 
-The woman beside me had taken off her shoes. One foot was swelling so quickly you could watch it happen. She held both shoes by their straps and stared into the studio.
+I stood in the control room with a woman who had taken off her shoes. One foot was swelling so quickly you could watch it happen. She held both shoes by their straps and stared through the broken window into the studio.
 
 “Mal's in there,” she said.
 
@@ -28,7 +28,7 @@ I shook my head.
 
 The armoured man sat against the far wall with his legs straight out. Copperjack had folded the suit's knee joints backwards. Its helmet was on the floor, and without it the man looked almost bored, except that he couldn't stop wetting his lips.
 
-Behind him, beneath the broadcasting desk, lay Mr Davitt. Mal to the woman with the shoes. Captain Incredible's father to everyone who would be talking about this tomorrow.
+Behind him, beneath the broadcasting desk, Mr Davitt lay dead. Mal to the woman with the shoes. Captain Incredible's father to everyone who would be talking about this tomorrow.
 
 “The living first,” Copperjack said. His voice had gone thin. “I'll get the kitchen man. How's the route?”
 
@@ -36,7 +36,7 @@ Behind him, beneath the broadcasting desk, lay Mr Davitt. Mal to the woman with 
 
 “Finish up. Don't come back.”
 
-He left us. I heard him force the kitchen door, heard someone cry out, and then the glass doors onto the roof burst apart. Copperjack ran for the parapet with a man over his shoulder. He jumped, and a moment later his remaining plates clattered on the roof across the avenue.
+He left us. I heard him force the kitchen door, heard someone cry out, and then the glass doors onto the roof flew open. Copperjack ran for the parapet with a man over his shoulder. He jumped, and a moment later his remaining plates clattered on the roof across the avenue.
 
 “Arm round my shoulder,” I told the woman.
 
@@ -62,7 +62,7 @@ The examiner had said, “You mustn't rely on that.”
 
 The Captain had given me a little shake, still in his arms. “Next time, let go of the sand.”
 
-I had wanted him to laugh at something I'd said for months afterward.
+For months afterward, I had wanted him to laugh at something I'd said.
 
 I set the woman down on the furniture-shop roof. A medic with a shaved head took her elbow, and she swung away from me into the doorway, shoes still dangling. From below came the scrape of a stretcher being loaded.
 
@@ -128,7 +128,9 @@ She didn't smile. Neither did I.
 
 “Skylark.”
 
-I stepped off the roof before he could say anything else.
+Someone called up the stairs for help with the stretcher. The medic looked at me. “We'll be in the yard,” she said, and went downstairs.
+
+I stepped off the roof before Copperjack could say anything else.
 
 The crossing back took too long. Empty arms didn't help much now. My right shoulder ached deep in the joint, and I had to think about flying instead of just doing it.
 
@@ -238,7 +240,7 @@ We fell out of the Captain's grasp. Vane's vest tore at the collar, and he cried
 
 The Captain was above us, his hand still closed on a scrap of grey cloth.
 
-I had dropped the sand. The examiner had explained it again, and I had dropped it on every drill afterward.
+I had let go of the sand. The examiner had explained it again, and I had let go on every drill afterward.
 
 Vane was looking at the street with his mouth open.
 
@@ -302,7 +304,7 @@ Vane edged sideways along the parapet. His torn collar hung open down his chest.
 
 The Captain could have stopped him with a finger.
 
-Vane reached me. I caught the back of his vest with my left hand and steered him at the door. He tried to push past, but the sleeve caught on the handle. He turned wildly to see if the Captain had him.
+Vane reached me. I caught the back of his vest with my left hand and steered him at the door. He tried to push past, but the hem caught on the handle. He turned wildly to see if the Captain had him.
 
 “Stop pulling,” I said.
 
