@@ -64,6 +64,8 @@ You lift the board from the tray on the desk. It folds shut, with the pieces hel
 
 The tray also holds your spare pens, the stapler which only you know how to open, and a set of labelled keys. Beneath it is the typed sheet for the new attendant. Princess Snapdragon's name appears halfway down the page.
 
+You mean to leave all of it behind when you retire at five.
+
 Leonie puts her clock on the desk.
 
 “Fifteen minutes each.”
@@ -72,7 +74,7 @@ You look at the display. “You bought this?”
 
 “I want you to make a decision before the heat death of the universe.”
 
-“Dying twice in the course of a game doesn't make me slow.”
+“You've held up a game by dying twice. And you call me slow.”
 
 “Once. The other time I had a concussion.”
 
@@ -113,10 +115,6 @@ She puts a bishop where it cannot possibly be comfortable.
 If you take it, her knight comes in with check. If you leave it, her queen follows it down towards your king. You examine a third possibility, advancing the pawn in front of your rook. Six moves later in your head, it ends badly.
 
 Leonie watches you count.
-
-“The other bishop,” you say.
-
-“What about it?”
 
 You push your bishop between hers and your king, offering an exchange.
 
@@ -178,7 +176,7 @@ You put on your coat. Your name badge is in the tray now, face down beneath the 
 
 He takes the tray into the little office. A moment later you hear him testing the stapler.
 
-Leonie rests her thumb on your clock button.
+Leonie picks at the loose flower on her cuff. The last thread parts. She rests her thumb on your clock button.
 
 “So this is your last day.”
 
@@ -238,13 +236,11 @@ You go to the office door and tell Mr Coyle it no longer comes with the room. He
 
 Leonie presses the clock. You sit down to save your king.
 
-For four moves you cannot see how to do it without losing a rook. You turn your queen back from the attack you have been trying to make and give her the protection job instead. Leonie puts her head on one side, following the retreat.
+For four moves you cannot see how to do it without losing a rook. You bring your queen back to protect your king. From there she could reach the long diagonal towards Leonie's king, but one of Leonie's pawns blocks the route. Leonie puts her head on one side, following the retreat.
 
-Then she moves her pawn.
+Then she advances that pawn, clearing a square for her knight.
 
-The diagonal opens.
-
-You look at her king. You look back at your queen. You make yourself check the whole route before you touch the piece.
+You check the route again, then move your queen onto the diagonal.
 
 She sees what you saw as soon as you move. Her hand comes forward, hovers over the pawn, and stops.
 
@@ -252,7 +248,7 @@ She sees what you saw as soon as you move. Her hand comes forward, hovers over t
 
 “I know.”
 
-She gets her bishop across in time to block the check. You take it with your queen; she has to move her king, and your rook finally comes out from behind its pawns. There is no longer time for her attack. She makes you play another eight moves anyway. One of them nearly costs you the queen.
+She blocks the check with her bishop. Your queen takes it with another check. With her king exposed, you have time to work your rook free. She makes you play another eight moves anyway. One of them nearly costs you the queen.
 
 At five fourteen she tips her king on its side, stops the clock, and lies face down on the empty slab.
 
