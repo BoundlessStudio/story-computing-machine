@@ -30,7 +30,7 @@ The manager was shaking powdered sugar over a tray of rolls. A strip of tape cov
 
 "You can dodge with an answer."
 
-Marnie opened *A Room in February* to the scene. Vera had been home for less than an hour. Her mother had already measured her against the doorframe, remarked on her hair, and moved her suitcase from beside the chair to beside the stairs. Then came the question. Then the maddening tour of the room: a chipped bowl, a lamp, the wool of a coat sleeve. Marnie liked the book so much that she resented this bit of it.
+Marnie opened *A Room in February* to the scene. Vera had been home for less than an hour. Her mother had already measured her against the doorframe, remarked on her hair, and moved her suitcase from beside the chair to beside the stairs. Then came the question. Then the maddening tour of the room: a chipped bowl, a lamp, the wool of her mother's coat sleeve. Marnie liked the book so much that she resented this bit of it.
 
 "She knows what she means," Marnie said. "Everyone has to stand there while she enjoys not saying it."
 
@@ -164,11 +164,11 @@ Knight took her teapot down from the shelf. "Could you wait until eight?"
 
 "Who's Rafa?"
 
-He looked down at the book between them. "The one you spoke to about it."
+He looked down at the book between them. "He started the argument. He'll be here at eight."
 
 Marnie had her finger under the line. She could point to it. She could point to his hands, ask about the watch, get all the questions out before he had time to choose better answers.
 
-"And you're not?"
+"And you're not Rafa?"
 
 "No."
 
@@ -190,7 +190,7 @@ The man with the blue cup looked at him.
 
 "I've asked her to wait."
 
-The red watch moved towards the till. Its wearer smiled. "For the next thrilling instalment of whether Vera should be allowed to have a cup of tea?"
+The arriving man moved towards the till, the red strap showing below his black cuff. He smiled. "For the next thrilling instalment of whether Vera should be allowed to have a cup of tea?"
 
 "Raf."
 
@@ -246,7 +246,7 @@ Raf glanced at Bram, who lifted one shoulder.
 
 Raf picked up the phone. A minute later Gil came downstairs with a green pencil tucked behind his ear and his sweatshirt on inside out. The neck label sat beneath his chin. He was carrying a banana.
 
-"Who can't find what?"
+"What's happened?"
 
 He saw his brothers sitting at Marnie's table and stopped chewing.
 
@@ -268,13 +268,13 @@ Marnie sat very still while the table became crowded. She recognized Gil's parti
 
 "Most customers come at the same time every day," Raf said. "They don't need an explanation."
 
-"You don't," Bram told her.
+"You come at all hours," Bram told her.
 
-"No."
+"I do," Marnie said.
 
 "It used to be everyone asking to get all three of us out," Gil said. "Then a photo. Then which one was the clever one."
 
-"We could tell them now," said Bram.
+"It wasn't you," Bram told Gil.
 
 Gil nudged his chair with his foot.
 
@@ -312,7 +312,19 @@ She described it.
 
 Raf came back with the student's money still in his hand. He looked at it, swore softly, and went to the till.
 
-Marnie drew her book closer. Some visits were beginning to separate: the green pencil, the hot tray, the cup full of teaspoons. Others wouldn't. She had wanted to ask Knight what he'd meant, and now all three of them were here, with none of them quite containing the conversation she'd brought back.
+When Raf came back, Marnie drew her book closer. Some visits were beginning to separate: the green pencil, the hot tray, the cup full of teaspoons. Others wouldn't. She had wanted to ask Knight what he'd meant, and now all three of them were here, with none of them quite containing the conversation she'd brought back.
+
+"I'd thought I was coming back to the same person," she said.
+
+"We let you," Raf said. He put Gil's pencil on the table.
+
+"Next time, will you tell me which one you are?"
+
+"Yes," Raf said.
+
+"I can do that," said Gil.
+
+Bram nodded. "Me too."
 
 "Do you write the reviews together?" she asked.
 
@@ -324,7 +336,7 @@ Marnie drew her book closer. Some visits were beginning to separate: the green p
 
 Marnie smiled at him before she remembered to look for his name. It was the same smile she'd had for Knight. This time Bram was the one who received it.
 
-Raf returned, opened the shop's book, and laid it beside hers.
+Raf opened the shop's book and laid it beside hers.
 
 "I still think she gets to take her time," he said.
 
