@@ -112,7 +112,7 @@ Laureth smiled. It was a lovely smile, if one did not know her.
 
 The payment was enough for beds, supper, repairs, and another expedition. Enough for a party to become something that kept going.
 
-On the carter's sketch, a fat black line crossed the great gate. Beside it was a much smaller opening.
+On the carter's sketch, a fat black line crossed the great gate. Above it he had drawn an iron grille; beside it was a much smaller opening.
 
 "Porter's hatch," the registrar said. "The gate's barred inside. He got out through that when they were drunk."
 
@@ -222,7 +222,7 @@ Vorrick took his finger out of the book. "I would quite like us all to see this 
 
 "So would I," said Harn.
 
-The registrar tapped the hatch on the sketch. "It still goes through. The carter managed it, and he was twice your size. You could take a look, then decide about the gate."
+The registrar tapped the hatch on the sketch. "It still goes through. The carter managed it. You could take a look, then decide about the gate."
 
 It was an available plan. Tallow could enter with his sword, look for the chest, and make the decision where no one could stop him. He was good in the dark. He was brave. He knew those things about himself, even now.
 
@@ -272,8 +272,6 @@ Harn pulled the short end. It came apart.
 
 Harn nodded. She laid its long haft across two chairs. Vorrick set his book well out of its reach, then held the chairs steady while Harn guided Tallow's hands around the wood.
 
-The first knot slipped. The second held, but Tallow could not undo it.
-
 Laureth crouched beside him. "They're going to hear you rattling in that."
 
 "Who?"
@@ -298,15 +296,11 @@ Laureth felt for hers. It yielded a button. She put it back.
 
 "The equipment desk lends," the registrar said. "Against something they'll want back."
 
-Vorrick folded his arms over his book.
+Vorrick folded his arms over his book. Laureth took the axe off the cord. Harn's fingers went to the wallet inside his sleeve.
 
-Laureth took the axe off the cord.
+Then Vorrick uncrossed his arms and laid the book on the counter, keeping one hand against its cover.
 
-Harn's fingers went to the wallet inside his sleeve.
-
-They each looked at the others. None of them offered an explanation.
-
-Tallow gathered his breastplate, helmet, and shield. They made an awkward pile. The silver flame caught the light one last time before he turned toward the equipment desk.
+Tallow gathered his breastplate, helmet, and shield. They made an awkward pile. He nudged the book back toward Vorrick with his elbow. The silver flame caught the light one last time before he turned toward the equipment desk.
 
 Laureth reached out for the helmet.
 
@@ -332,7 +326,7 @@ Tallow reached for it. Harn did not release it immediately.
 
 Then he did.
 
-Tallow slid it into the small belt pouch where he normally carried a polishing rag. Harn crouched and drew the fastening tight so the tool could not fall out when he crawled.
+Tallow slid it into the small belt pouch where he normally carried a polishing rag. Harn crouched and drew the fastening tight so the tool could not fall out when Tallow crawled.
 
 "You keep looking back," he said, without raising his head.
 
