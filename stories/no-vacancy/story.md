@@ -246,7 +246,7 @@ I nodded.
 
 He put my hand on Crumb's chest.
 
-“Let yours go quiet. I'll keep the way open until you decide. If he keeps reaching, leave it alone.”
+“Let yours go quiet. I'll hold the connection open until you decide. There's still no room for the fox. If he keeps reaching, we'll stop.”
 
 Crumb was warm through his thin fur. I asked for the smell of the room and got ink, pigeon, and the remains of Mr. Hasp's lunch. I let my reaching settle back inside me. The dog held it a moment, then stopped too. He turned his head toward the wastebasket.
 
