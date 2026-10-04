@@ -128,7 +128,7 @@ Talven did not answer at once. He tried another spoonful; Biri turned her face a
 
 Talven set the spoon in the cup.
 
-“I held the far edge while he looked for a way through. When he found one, he came back for us. There were people following us who hadn't got across the moving ground. I couldn't leave the post. Not without dropping this.” He lifted the doubled loop a little. “He took my place so I could bring her.”
+“I held the far edge while he looked for a way through. When he found one, he came back for us. There were people following us who hadn't got across the moving ground. I couldn't leave the post. Not without dropping this.” He lifted the doubled loop a little. “He took the weight so I could carry the loop. And her.”
 
 “Then he'll follow,” Len said.
 
@@ -158,7 +158,7 @@ I could see how to do it. We had been shown as children, long before there was a
 
 Marda put her left hand over her mouth.
 
-For fifty years we had awaited a man bright enough to face the opening and make it nothing. We had told our children what his coming would look like. I had privately known another man would step out behind him, and that I would be waiting in the red coat.
+For fifty years we had awaited a man bright enough to face the opening and make it nothing. We had told our children what his coming would look like. I had privately believed Talven would step out behind him, and that I would be waiting in the red coat.
 
 Talven took Biri from me. He wiped her mouth on a clean corner of the blue cloth from his foot.
 
@@ -208,7 +208,7 @@ Beyond the doorway the girl was washing the spoon. I heard her set it on the jug
 
 “Down the road. The house with the plum tree.”
 
-He shifted Biri higher on his shoulder. He was standing barefoot on our cold stone because he had made a wiping cloth out of his foot wrapping.
+He shifted Biri higher on his shoulder. His bare foot rested on our cold stone. The blue cloth hung over my chair, wet with milk.
 
 “Will she know me?”
 
@@ -306,7 +306,15 @@ Talven stood where Len had left him. He had not picked up the blanket.
 
 Marda turned her face toward me. Her eyes were wet. She said nothing about closing it. I felt her binding tremble beside mine.
 
-I lifted my right wrist. The white loop was so familiar against my skin that I had a foolish wish to find a loose thread, something I could wind around a finger and keep.
+I lowered my wrist and settled the binding back along its old track. The pulling eased.
+
+“We can hold until relief,” I said.
+
+Talven nodded. He picked up Len's blanket and tucked it around Biri, drawing the wool under her chin. Then he straightened and gathered her close.
+
+“I'll go, then.”
+
+He lifted his left wrist to take the loop off.
 
 “Bring the far end,” I said.
 
@@ -334,9 +342,7 @@ The black stones touched. There was no flash. A line remained between them, narr
 
 He put both hands against the line. We waited. When he took them away, the stones stayed together.
 
-Behind him, on the floor, lay Len's blanket.
-
-I picked it up. The corner he had been trying to fold was warm from his hand.
+The girl stood at the door with Biri wrapped in Len's blanket. Len's mother was due at noon. She always called to him from outside before coming in. I would have to tell her myself.
 
 Marda sat down and began to cry. The other keeper leaned toward her, but neither of them seemed to know what to do with her hands.
 
