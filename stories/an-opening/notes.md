@@ -1,0 +1,3 @@
+# Editorial notes
+
+2026-10-04: The prompt's live pleasure is an unexpected quartet behaving as a real party. The writer proposed registration as their first test of leadership: the goblin wants a first contract worthy of his heroic hopes, while three friends have entrusted him with choosing it. We agreed to preserve his nerve and their own appetites, avoiding a hostile clerk, a convenient guild emergency, four class demonstrations, or a converted crowd. General is the starting audience target. The dedicated worktree and branch begin at updated main; no supplied reference images or shared fantasy-species rules constrain this story. Claude subscription authentication was checked with the inherited API key removed: claude.ai, active Max.
