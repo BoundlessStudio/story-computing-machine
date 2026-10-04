@@ -1,0 +1,118 @@
+{
+  "story": "The King Who Ate Everything",
+  "created": "2026-10-03",
+  "tool": "Built-in image_gen.imagegen",
+  "visual_direction": "Canadian Group of Seven inspired oils, using inspected collection paint and sheet references.",
+  "supplied_references": [],
+  "collection_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Oil paint handling and connected value shapes only."
+    },
+    {
+      "path": "stories/friends-of-the-night/art/characters/tavik.webp",
+      "role": "Multi-view reference-sheet arrangement only; not character identity."
+    }
+  ],
+  "selected_location": "interiors/front-room-selected.webp",
+  "visual_interpretation": "Vask's dark hair, pointed ears, cream shirt and charcoal trousers interpret details the prose leaves unspecified. Minor domestic furnishings and the lamp are visual interpretation. The location is an unpeopled environment study; the cover uses scale and a living hand's palace shadow rather than fixing a literal moment or adding shared canon.",
+  "assets": [
+    {
+      "path": "../title-image.jpg",
+      "role": "Selected cover",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "format": "JPEG",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a10461-bf2a-7b63-a6e9-b17c9f76710d\\exec-7c73c458-c3e9-491a-a938-bb438fd9d128.png",
+      "prompts": [
+        "cover"
+      ],
+      "postprocessing": "RGB conversion and full-frame Lanczos resample from 941x1672 to 864x1536, JPEG quality 96, subsampling 0. Title generated once within the image; no text added afterward.",
+      "review": "Exact title readable once. Vask's narrow grey face, yellow eyes, black horns, silver waistcoat, shirt, trousers and bare long feet match the accepted sheet. His attached left hand forms a palace and casts the larger shadow. Turnip is a wooden dog with felt ears, painted black nose, and a visible dark lace tail. Both stand on the red-curtained, gold-starred little boards within green cloth. Comic dignity, mild strangeness, no injury or adult imagery."
+    },
+    {
+      "path": "characters/vask.webp",
+      "role": "Selected multi-view character reference sheet",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a10461-bf2a-7b63-a6e9-b17c9f76710d\\exec-c092080c-949e-4415-a485-3ffa0fff90b2.png",
+      "prompts": [
+        "vask_sheet",
+        "vask_sheet_correction"
+      ],
+      "postprocessing": "RGB conversion and WebP quality 96, method 6; no resampling.",
+      "review": "Readable Vask/story labels and pose labels; consistent front, side, back and bowing bodies, two face studies and resting/palace hand studies. Grey skin, yellow eyes, two black horns, silver waistcoat, cream shirt, dark trousers and long bare feet agree across views. Toy theatre inset corrected to an empty stage; the distinct magical hand study retains its palace."
+    },
+    {
+      "path": "interiors/front-room-original.png",
+      "role": "Preserved original location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a10461-bf2a-7b63-a6e9-b17c9f76710d\\exec-98cefbeb-1e24-4666-b2ba-d532c4a1a9ae.png",
+      "prompts": [
+        "front_room_original"
+      ],
+      "postprocessing": "Original PNG copied unchanged.",
+      "review": "Six front-room audience chairs in two rows of three, green puppet booth, nested red-curtained gold-star toy theatre, carpet and domestic door/kitchen geography. The toy theatre contained a painted backdrop absent from the story, prompting the selected correction."
+    },
+    {
+      "path": "interiors/front-room-selected.webp",
+      "role": "Selected corrected location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a10461-bf2a-7b63-a6e9-b17c9f76710d\\exec-d61ea680-048e-46bc-9969-a9a227b3542c.png",
+      "prompts": [
+        "front_room_original",
+        "front_room_correction"
+      ],
+      "postprocessing": "RGB conversion and WebP quality 96, method 6; no resampling.",
+      "review": "The toy theatre now has dark empty interior and bare boards. Red curtains and gilt stars, six audience chairs, green cloth booth, carpet, room geography, lamp and connected warm shadows retained. The palace during performance must come from Vask's living hands. Original retained separately."
+    }
+  ],
+  "prompts": {
+    "vask_sheet": {
+      "text": "Use case: illustration-story. Make a landscape 1536x1024 character reference SHEET for Vask in the finished short story \"The King Who Ate Everything\". This must be a multi-view reference sheet, not a single scene or portrait. Input reference 1 is ONLY Canadian Group of Seven inspired oil brushwork and connected value shapes; do not reuse its landscape. Input reference 2 is ONLY reference-sheet arrangement; do not copy that human, cap, knife or clothes.\nVask is an adult, ageless male demon, normally nine inches tall and able to grow taller than a door. Same identity across every panel: narrow angular grey face, sharp yellow eyes, small teeth, two simple black horns, long grey hands with black nails, long bare grey feet and toes. He wears a neat silver waistcoat with small buttons. Give him simple dark charcoal trousers as a modest visual interpretation of unspecified lower clothing, identical in every panel. No wings, tail, extra arms, fire, blood, weapons, or sexual anatomy. His expression is proud, affronted, dryly theatrical rather than cute or snarling.\nShow three clearly separated full-body views: front, side, back, plus one bowing pose with long hands, and two head/expression studies (offended and attentive). Include one small prop study of his wooden toy theatre: red curtains, modest proscenium, gilt stars, including one peeling star. Include one small study of his left hand intentionally transforming knuckles into palace towers with black nail roofs; label that as a magical hand study, clearly distinct from resting anatomy. Two arms, two legs, two horns; five fingers on each resting hand. Keep facial structure, horns, waistcoat and trousers absolutely consistent.\nAt the upper left render EXACT readable text \"Vask\" and directly below it \"The King Who Ate Everything\". Small labels can read \"Front\", \"Side\", \"Back\", \"Bow\", \"Offended\", \"Listening\", \"Toy theatre\", \"Palace hand\". No invented lettering. Quiet cream ground with enough clear space between studies. Broad varied opaque directional oil strokes, rhythmic simplified shapes, selective impasto, connected shadows, lost edges in quiet passages, subdued silver/grey/charcoal and muted red. No glossy CGI, uniform bevelled strokes, photoreal skin, cinematic rim light, or orange-blue grading. Suitable for all ages.",
+      "references": [
+        "D:\\.codex\\worktrees\\25ea\\story-computing-machine\\stories\\a-beginner-of-considerable-age\\art\\landscapes\\01-apple-orchard-hillside.png",
+        "D:\\.codex\\worktrees\\25ea\\story-computing-machine\\stories\\friends-of-the-night\\art\\characters\\tavik.webp"
+      ]
+    },
+    "vask_sheet_correction": {
+      "text": "Use case: precise-object-edit. Edit ONLY the small \"Toy theatre\" prop study in the supplied Vask character sheet. Remove the painted castle/scenery backdrop from inside that toy theatre and replace it with a quiet dark EMPTY interior. The story's little theatre is an empty wooden stage with red curtains and child-painted gilt stars; the magical palace comes from Vask's living hands, not a permanent painted backdrop. Preserve the proscenium, red curtains and gold stars. Keep ALL full-body views, face studies, silver waistcoat, cream shirt, dark trousers, black horns, yellow eyes, hands and feet, the two hand studies and every readable label EXACTLY as they are. Do not remove or change the actual \"Palace hand\" study; only remove scenery from the theatre inset. Keep 1536x1024 landscape and the same varied opaque oil brushwork.",
+      "references": [
+        "C:\\Users\\jamie\\.codex\\generated_images\\01a10461-bf2a-7b63-a6e9-b17c9f76710d\\exec-2a9ce878-d292-425b-939f-46871464196f.png"
+      ]
+    },
+    "front_room_original": {
+      "text": "Use case: illustration-story. Create a landscape 1536x1024 INTERIOR LOCATION REFERENCE PAINTING for the finished story \"The King Who Ate Everything\". Reference image 1 supplies ONLY Canadian Group of Seven inspired oil paint handling and connected value shapes; no orchard or outdoor scenery should be imported.\nPaint Bea's modest home front room as a theatre environment study. Six ordinary borrowed wooden chairs in TWO rows of THREE face a portable green cloth puppet booth at the far side of a worn carpet. Keep the six seats countable and all facing the performance opening. The booth is a freestanding small puppeteer's screen, with green curtains around its rectangular opening and an interior ledge. On that ledge INSIDE the opening sits a MUCH SMALLER wooden toy theatre with a simple proscenium, RED curtains, and gilt stars painted by a child. Its small stage is level with the green opening; it is not a second full-size booth or large room. The wall BEHIND the green booth is plain white, suitable for palace shadows during the show. Include a normal front door and a glimpse toward the kitchen, simple domestic proportions, worn carpet with quieter exposed wood at edges. A modest electric lamp motivates the warm cream light; connected deep olive and brown shadows remain. This is an unpeopled environment and prop study, not a literal chronological event: no audience, no demon, no magical shadow palace without its living performer, no extra chairs, grand stage, castle masonry, waterworks or luxury furniture.\nUse broad rhythmic opaque oil strokes, varied directions and scales, selective substantial impasto, simplified coherent architecture and objects, quieter connecting passages, dark lost edges. Warm cream illumination, subdued moss-green cloth, muted red toy curtains and dark natural wood; no automatic orange-blue contrast, uniform chiseled strokes, shiny CGI, theatrical rim light or fake aged paper. No text, lettering, story title, watermark or labels. Convey intimate space and a performance about to become larger than its apparatus.",
+      "references": [
+        "D:\\.codex\\worktrees\\25ea\\story-computing-machine\\stories\\a-beginner-of-considerable-age\\art\\landscapes\\01-apple-orchard-hillside.png"
+      ]
+    },
+    "front_room_correction": {
+      "text": "Use case: precise-object-edit. Edit ONLY the tiny red-curtained wooden toy theatre INSIDE the green puppet booth in the supplied front-room location painting. Remove the painted scenery/backdrop within the red curtains; make that tiny stage a quiet dark EMPTY interior with bare wooden boards, so it cannot be mistaken for a permanent magical palace. Keep the red curtains, small gold-star proscenium and the surrounding green cloth booth completely unchanged. Preserve exactly the six front-room chairs, carpet, door, kitchen glimpse, walls, lamp, every object, lighting, proportions, composition and broad opaque oil brushwork. This is a single story-fidelity correction of the toy theatre's backdrop. 1536x1024 landscape, no text, no people, no new objects.",
+      "references": [
+        "C:\\Users\\jamie\\.codex\\generated_images\\01a10461-bf2a-7b63-a6e9-b17c9f76710d\\exec-98cefbeb-1e24-4666-b2ba-d532c4a1a9ae.png"
+      ]
+    },
+    "cover": {
+      "text": "Use case: illustration-story. Create a NOVEL COVER, portrait 9:16 at 864x1536, for the finished short story \"The King Who Ate Everything\". Generate the exact title ONCE, beautifully readable in dark classic serif letters in the quiet pale upper quarter: \"The King Who Ate Everything\". It may break over three lines without changing any word. No author, subtitle, repeated title, extra words, watermark or decorative fake book borders. Lettering is part of this generated painting, not a later overlay.\nReference 1 is Vask's accepted character sheet: use the same adult grey demon, narrow angular face, yellow eyes, two black horns, dark tousled hair and pointed ears, silver buttoned waistcoat over a cream work shirt, dark charcoal trousers, long grey bare feet and long hands with black nails. Keep his identity and clothes; do not reproduce sheet panels or labels. Reference 2 is the accepted intimate home theatre environment: a green cloth puppet booth contains a MUCH SMALLER red-curtained wooden toy theatre on a ledge, child-painted gilt stars and bare wooden boards, with a plain light wall behind. Reference 3 is ONLY oil paint handling and value shapes; do not import the orchard.\nCompose a close intimate view into that tiny red-and-gilt theatre, framed by a little green cloth. Vask is normally nine inches tall and stands with both feet on the little boards; his black horn tips almost reach the small proscenium. His dignity is immense, his expression proud and theatrically affronted, wry rather than cruel or cute. One attached long grey hand extends out from his LEFT arm and begins turning its knuckles into small palace towers with black nail roofs. This is clearly his living hand performing, not an independent model castle. A great quiet palace SHADOW rises on the light wall behind, suggesting his outsize gift. Keep the hand transformation legible and avoid duplicated fingers or detached anatomy. The other hand is relaxed at his side.\nOn the boards near him sits Turnip, a small BROWN WOODEN rod-puppet dog with floppy FELT ears, black PAINTED nose and a thin bootlace tail. Make him recognizably a worn puppet, not a real furry animal. Keep him small and quietly ordinary beside the demon's grandeur. No human crowd and no diagrammatic plot montage. Invite a funny, strange tale about a live performance.\nCanadian Group of Seven inspired oils: broad rhythmic opaque strokes with varied directions and scales, simplified coherent figures and architecture, quiet connecting passages, selective substantial impasto, connected deep shadows and lost edges. Motivated warm cream stage light, restrained silver-grey, muted red and dark olive green, brown wood, a pale quiet title field; no orange-blue grading, theatrical rim light, glossy CGI or uniform bevelled strokes. No blood, flames, horror gore, threatening attack, weapons or sexualized anatomy. Same character identity as reference 1. Cover must feel dryly comic, intimate and a little uncanny, suitable for all ages.",
+      "references": [
+        "D:\\.codex\\worktrees\\25ea\\story-computing-machine\\stories\\found-the-spares\\art\\characters\\vask.webp",
+        "D:\\.codex\\worktrees\\25ea\\story-computing-machine\\stories\\found-the-spares\\art\\interiors\\front-room-selected.webp",
+        "D:\\.codex\\worktrees\\25ea\\story-computing-machine\\stories\\a-beginner-of-considerable-age\\art\\landscapes\\01-apple-orchard-hillside.png"
+      ]
+    }
+  }
+}
