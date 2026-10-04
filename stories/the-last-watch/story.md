@@ -148,11 +148,13 @@ He opened his hand.
 
 Marda brought her own line down toward the turn of his. Before they touched, her binding slackened. The crack narrowed by the width of a finger. A little chip of stone fell from high above us.
 
-She withdrew at once. The two lines tightened, and the gap resumed its old width.
+She tried to ease the doubled turn onto her wrist, as we relieved one another on watch. The white line passed through her arm and lay against Talven's knuckles. His arm was still trembling.
+
+She withdrew. The two lines tightened, and the gap resumed its old width.
 
 Nobody spoke.
 
-I could see how to do it. We had been shown as children, long before there was any need: two living ends, one carried all the way around the break, joined while the holders let the near edge go. We had played at it with loops of wool. We had never imagined a man would come back with one boot and a hungry baby, too tired to keep his hand open.
+I could see how to do it. We had been shown as children, long before there was any need: two living ends, one carried all the way around the break, joined while the holders let the near edge go. We had played at it with loops of wool. The far turn stayed with the person who had carried it around the break. We had never imagined a man would come back with one boot and a hungry baby, too tired to keep his hand open.
 
 “We can close it,” the keeper in the chair said.
 
@@ -329,6 +331,8 @@ I stood. My knees had stiffened while I sat. I caught the arm of the chair with 
 He gave Biri to the girl at the door. She gathered the blanket around the child's feet and held her without asking whose she was. Talven came back to the opening and lifted his left wrist.
 
 Marda laid her loop against the turn of his. The keeper in the chair did the same. I brought mine last.
+
+Len was on the other side of that gap.
 
 Our bindings crossed above his knuckles. He closed his other hand over them. The pulling stopped.
 
