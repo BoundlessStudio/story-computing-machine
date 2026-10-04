@@ -234,17 +234,11 @@ The new sugar window collapsed.
 
 "We have the photograph," I said quickly. "We can cut around that."
 
-The sugarwing landed on the photographer's shoulder. He tried to shake it off. He was still holding his camera, and when it clung to his collar he flung his free hand toward it.
+The sugarwing landed on the photographer's shoulder. He flung a hand at it. It bounced off his cheek, leaving a smear of icing across his lens, and he stumbled into the cake table. Petal stopped the table from tipping in a burst of carnations.
 
-"Don't," Petal said.
+He sneezed into the flowers. The guests at the counter backed into one another. Nobody was hurt, but they were crowding the screen door. If I carried the cake through it, the sugarwing would follow me straight into the shop.
 
-His elbow struck a waiter carrying a plate of slices to the guests. Petal stopped the falling plate in a burst of carnations. The sugarwing shot toward them, bounced off the photographer's cheek, and left a smear of icing across his lens.
-
-He sneezed. Petal couldn't see past the carnations. The waiter's other plate hit the ground.
-
-The guests at the counter backed into one another. Nobody was hurt. There was, however, an increasing amount of cake on people who hadn't received any yet.
-
-I had brought it outside. I picked up the board beneath what remained.
+I had brought it outside. I picked up the board beneath what remained. There was nobody at the far end of the square.
 
 "Pearl, clear the doorway. Fanfare, cloth. Petal, stay where you can see me."
 
@@ -324,7 +318,7 @@ The girls were watching from beside the counter. Pearl had brought my comb in an
 
 She offered me the largest.
 
-I took it and looked once more at the picture. They had left very little negative space.
+I took it and looked once more at the picture. Pearl's eyes were on my face, not the lens. They had left very little negative space.
 
 "You can use it," I told the photographer. "My name is Marnie. My title is public relations manager. Please print both."
 
