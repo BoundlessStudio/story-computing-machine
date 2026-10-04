@@ -334,6 +334,8 @@ She turned and had to begin the question again. Gil waited until she'd finished.
 
 "I don't know," he said. "I was sure yesterday."
 
+"Oh," Marnie said. She took a sip of her tea.
+
 "Do you write the reviews together?" she asked.
 
 "Sometimes," Gil said.
@@ -344,7 +346,7 @@ She turned and had to begin the question again. Gil waited until she'd finished.
 
 "It was a good map," Gil said.
 
-"I put those together," said Bram. "Sometimes one of us goes in and takes out all the good jokes."
+"I put those together," said Bram. "They cut my best jokes."
 
 "Sometimes they're not good jokes, Bram."
 
