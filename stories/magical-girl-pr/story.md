@@ -64,7 +64,7 @@ Petal swallowed. "You could have a good pose."
 
 "You haven't seen the cardigan."
 
-Mr. Bell emerged from the kitchen carrying a cake the size of a coffee table. He had piped his business name across the top and the girls' emblems down the front. The centrepiece was a sugar model of his new shop window. He seemed to have taken a great deal of satisfaction in making it intact.
+Mr. Bell emerged from the kitchen carrying a cake the size of a baking tray. He had piped his business name across the top and the girls' emblems down the front. The centrepiece was a sugar model of his new shop window. He seemed to have taken a great deal of satisfaction in making it intact.
 
 I put down my clipboard to help him. Fanfare lifted the whole thing from his hands.
 
@@ -76,7 +76,7 @@ She set it down without disturbing a crumb. Then the trumpets began.
 
 Mr. Bell shut his eyes.
 
-Fanfare's music accompanied relief after physical effort. Small effort produced a little flourish. Once she'd held up a collapsing cinema balcony, and the orchestra had continued through the evacuation, the paramedics' arrival, and most of a subsequent interview about whether the building had been inspected.
+Fanfare's music accompanied relief after physical effort. The more relieved she was, the louder and longer it played. Once she'd held up a collapsing cinema balcony, and the orchestra had continued through the evacuation, the paramedics' arrival, and most of a subsequent interview about whether the building had been inspected.
 
 Our radio campaign hadn't lasted long.
 
@@ -222,7 +222,7 @@ The shutter clicked.
 
 "There," the photographer said.
 
-I lowered the comb. We were twenty-three seconds beyond my ninety, but we had a picture.
+I lowered the comb. We had been outside much longer than ninety seconds, but we had a picture.
 
 Then a small white body dropped from the awning onto the cake.
 
