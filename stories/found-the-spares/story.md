@@ -48,9 +48,9 @@ Ned crouched beside the box. "How long have you been down here?"
 
 When I was eight, Vask had put a pea under one of three cups and promised me a real theatre if I could find it. I had put a pea of my own under each of the other cups. He had been so offended that he conjured this little box and said no one would ever applaud anything I performed in it. I told him to stand on its boards until they did.
 
-He should have left then. Instead he promised to stay.
+He should have left then. Instead he swore himself to those boards, and couldn't lift a foot beyond them.
 
-"I've offered to call it even," I told Ned. "Several times."
+"I've offered to release him from that oath," I told Ned. "Several times."
 
 "She offers pity," said Vask. "Do I resemble a recipient of pity?"
 
@@ -156,6 +156,8 @@ Behind the green curtain, Vask lifted a foot.
 
 He looked down at the little boards. For a moment he stood with one foot raised, so still that I thought something had gone wrong. Then he stepped over the rim of the box and jumped down onto my carpet.
 
+I nearly congratulated him.
+
 His body grew behind me. His waistcoat buttons climbed past my shoulder. He set a grey foot, long as my forearm, flat on the floor and spread the toes into the pile. The king's hand-head remained at the opening. Above me, two black horns pressed the curtain rail.
 
 "Now," he said.
@@ -174,7 +176,7 @@ It was beautiful. I couldn't stop looking at it. Neither could the spectators. T
 
 After a long silence the girl said, "But Turnip."
 
-Her father leaned toward her. He glanced at the folded programmes in the woman's lap, then reached beneath his chair for his daughter's coat. He thought we were finished.
+Her father leaned toward her, then reached beneath his chair for his daughter's coat. He thought we were finished.
 
 "The dance," I whispered. "Give them back."
 
@@ -232,7 +234,7 @@ Ned's fist scrambled up his forearm.
 
 "Several omissions," it said in my aunt's voice. "Who took the minutes?"
 
-Vask looked back at the boy, who had put a hand over his mouth and was trying not to laugh any harder. Then at the woman, who was already laughing without trying.
+Vask looked back at the boy, who had put a hand over his mouth and was trying not to laugh any harder. Then at the woman, who was already laughing without trying. He offered the king's nose to my flea.
 
 The king began to itch.
 
