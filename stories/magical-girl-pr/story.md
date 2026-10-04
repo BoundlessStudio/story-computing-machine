@@ -238,7 +238,7 @@ The sugarwing landed on the photographer's shoulder. He flung a hand at it. It b
 
 He sneezed into the flowers. The guests at the counter backed into one another. Nobody was hurt, but they were crowding the screen door. If I carried the cake through it, the sugarwing would follow me straight into the shop.
 
-I had brought it outside. I picked up the board beneath what remained. There was nobody at the far end of the square.
+I had brought it outside. I tucked the clipboard and comb under my arm and picked up the board beneath what remained. There was nobody at the far end of the square.
 
 "Pearl, clear the doorway. Fanfare, cloth. Petal, stay where you can see me."
 
@@ -246,7 +246,7 @@ I carried the cake toward the empty end of the square. The sugarwing followed, l
 
 "Wait," I called. "Let it come down."
 
-The girls moved with me. Petal stood to my left with an unobstructed view. Pearl made sure the nearest guests stayed behind the bakery table, then joined us. Fanfare took the cloth from Mr. Bell and held it spread between her hands.
+The girls moved with me. Petal stood to my left with an unobstructed view. Pearl eased the nearest guests away from the doorway and back toward the counter, then joined us. Fanfare took the cloth from Mr. Bell and held it spread between her hands.
 
 The sugarwing circled. I crouched to put the cake down. Petal raised her palms.
 
@@ -260,7 +260,7 @@ The creature folded its little wings and dropped. Fanfare swept the cloth over i
 
 The full orchestra entered.
 
-I had been crouching beside a broken sugar window with a clipboard under one arm. When the cymbals crashed immediately above me, I stood up too fast, put my heel on my own dropped comb, and went backward.
+I had been crouching beside a broken sugar window. When the cymbals crashed immediately above me, I lurched upright. The comb slipped from under my arm; my heel found it, and I went backward.
 
 Fanfare had a live sugarwing in both hands. Pearl was on the other side of the cake. Petal could see me clearly.
 
