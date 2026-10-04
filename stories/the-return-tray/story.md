@@ -60,7 +60,7 @@ You let her take back one move in that first game. Ever since, she has argued th
 
 “And yet you've never complained when you win.”
 
-You lift the board from the tray on the desk. It folds shut, with the pieces held inside by tired elastic. You bought it forty-two years ago for night shifts. You still have the pencil it came with for keeping score, although you stopped keeping score the week Leonie accused you of maintaining a grudge in tabular form.
+You lift the board from the handover tray on the desk. It folds shut, with the pieces held inside by tired elastic. You bought it forty-two years ago for night shifts. You still have the pencil it came with for keeping score, although you stopped keeping score the week Leonie accused you of maintaining a grudge in tabular form.
 
 The tray also holds your spare pens, the stapler which only you know how to open, and a set of labelled keys. Beneath it is the typed sheet for the new attendant. Princess Snapdragon's name appears halfway down the page.
 
@@ -130,7 +130,7 @@ You recapture. Her queen moves in. You have lost the protection you wanted to ke
 
 “I bought them myself.”
 
-She has a knight and queen pointed at your king. Your rook is stranded behind three pawns. You try to bring it into play, and she pushes a pawn forward to shut the route. You take your hand off the piece and regret it.
+She has a knight and queen pointed at your king. Your rook is stranded behind three pawns. You move it along the back rank and let go. She pushes a pawn forward, shutting the route you meant to use. You wish you had left the rook where it was.
 
 Her smile gets larger.
 
@@ -164,7 +164,7 @@ Leonie looks from him to you.
 
 “I did think that,” says Mr Coyle.
 
-You put on your coat. Your name badge is in the tray now, face down beneath the stapler. You have been wearing it for so long that the left lapel feels unusually light.
+You unpin your name badge and lay it face down in the tray, beneath the stapler. You have been wearing it for so long that the left lapel feels unusually light. You put on your coat.
 
 “It can go in the cupboard when we're done,” you tell Leonie. “Mr Coyle plays. I asked.”
 
@@ -236,11 +236,9 @@ You go to the office door and tell Mr Coyle it no longer comes with the room. He
 
 Leonie presses the clock. You sit down to save your king.
 
-For four moves you cannot see how to do it without losing a rook. You bring your queen back to protect your king. From there your queen could reach the long diagonal towards Leonie's king, but one of Leonie's pawns blocks the route. Leonie puts her head on one side, following the retreat.
+You have to bring your queen back to protect your king. Then she advances a pawn to keep the attack moving and leaves your queen a route to check her king.
 
-Then she advances that pawn, clearing a square for her knight.
-
-You check the route again, then move your queen onto the diagonal.
+You check the route twice, then move.
 
 She sees what you saw as soon as you move. Her hand comes forward, hovers over the pawn, and stops.
 
@@ -248,7 +246,7 @@ She sees what you saw as soon as you move. Her hand comes forward, hovers over t
 
 “I know.”
 
-She blocks the check with her bishop. Your queen takes it with another check. With her king exposed, you have time to work your rook free. She makes you play another eight moves anyway. One of them nearly costs you the queen.
+She makes you play another eight moves. One of them nearly costs you the queen.
 
 At five fourteen she tips her king on its side, stops the clock, and lies face down on the empty slab.
 
@@ -262,7 +260,7 @@ She lifts her head. “You looked at it for ages.”
 
 “It was a lovely bishop.”
 
-“I could have taken a bus here, watched you take that bishop, gone out and fought the moth, and been back before you finished admiring it.”
+“I could have taken a bus here, watched you consider that bishop, gone out and fought the moth, and been back before you finished admiring it.”
 
 You put the pieces away. Your fingers are steadier now. The late bus will get you home well enough.
 
