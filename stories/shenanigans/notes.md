@@ -1,0 +1,11 @@
+# Editorial memory
+
+## 2026-10-04 — direction and outline first reads
+
+General is the starting audience target; the prompt supplies no reference images. The writer chose a first-person traveling-fair caper: a cautious newcomer seeking food and a bed commits to helping a performer recover her goat. The power remains an imperfect inference from physical jokes, with no tutorial, mind control, or automatic repair.
+
+Before discussion, the independent Codex outline reader wanted to protect complementary competence: “he can provoke a ludicrous situation, she can exploit it, and the animal remains an animal.” Their chief concern was the unnamed causal hinge: “Why does he prolong the impersonation when his stated purpose is distraction? What particular choice does he make, and how does that choice strand Tansy?” They called it a planning gap, not a demonstrated prose failure, and wanted the ending's work to become chosen membership rather than renewed exclusion.
+
+Claude's separate outline first read called the power “a character test rather than a gag dispenser,” protecting Nico's conspicuous foolishness as the opposite of his bag-holder habit. Its consequential objection was that “comic specificity is entirely deferred”; the stunt and prop chain were placeholders whose causality could not yet be tested. It also asked who the mistaken dignitary actually was and wanted the last experiment to echo a concrete earlier beat. Both readers' first effects are recorded here before their exchange.
+
+In the round-robin, Claude accepted Codex's correction that it had called Nico's failure his own choice too soon, while arguing that his sacrifice should be the dignity he just tasted. Codex challenged treating conspicuous foolishness as a virtue the power rewards: an unseen moral judge would explain away its uncertainty. The writer accepted both corrections. Nico longs to participate but usually does not ask; the false welcome will tempt him to request a demonstration that moves the goat away from Tansy's planned route. Giving up borrowed dignity will create an ordinary distraction, with magic remaining inconvenient and Tansy's handling decisive. The coordinator agrees that the chosen request repairs the agency gap and that physical comic amplification must stay separate from moral reward.
