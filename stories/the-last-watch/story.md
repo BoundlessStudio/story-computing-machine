@@ -250,7 +250,7 @@ Across the gap, Len lowered himself onto his blanket.
 
 “No.”
 
-Len sat with his binding stretched above his knee. Then he began to feed it back through his fingers, shortening it. The gap narrowed a little, putting more weight on our three lines. I braced my heels.
+Len sat with his binding stretched above his knee. Then he began to feed it back through his fingers, shortening it. The gap shivered, putting more weight on our three lines. I braced my heels.
 
 He had not released it. He was passing his share to us.
 
@@ -282,25 +282,31 @@ Len knelt to fold his blanket. He folded it badly, twice, then opened it out and
 
 He stopped with one corner in his hand.
 
+“I may close it before you're back.”
+
+He looked at the doubled loop on Talven's wrist. Then he looked at me.
+
+“I know.”
+
 “Will you come back?”
 
 “I'll try.”
 
 There was no promise I could ask of him that I had not once believed.
 
-Talven stood up. For a moment I thought he was going after Len. He took one step toward the rift, and Biri woke against his neck with a soft, questioning sound. He stopped.
+Talven drew his hand out of mine and stood up. For a moment I thought he was going after Len. He took one step toward the rift, and Biri woke against his neck with a soft, questioning sound. He stopped.
 
 Len's blanket lay half folded. He looked at the child, then at Talven's bare foot. He put the blanket down beside him.
 
 “For the road,” he said.
 
-He went through before any of us answered. For an instant his bindingless wrist shone in the dark. Then there was only the opening.
+He went through before any of us answered. For an instant his bare wrist caught the light of our bindings. Then there was only the opening.
 
 Talven stood where Len had left him. He had not picked up the blanket.
 
 Marda turned her face toward me. Her eyes were wet. She said nothing about closing it. I felt her binding tremble beside mine.
 
-I let Talven's hand go and lifted my right wrist. The white loop was so familiar against my skin that I had a foolish wish to find a loose thread, something I could wind around a finger and keep.
+I lifted my right wrist. The white loop was so familiar against my skin that I had a foolish wish to find a loose thread, something I could wind around a finger and keep.
 
 “Bring the far end,” I said.
 
