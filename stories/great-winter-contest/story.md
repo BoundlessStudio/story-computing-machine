@@ -76,7 +76,7 @@ The contest marshal came past on skates.
 
 He said the last part for the visitors. Under the final leap, the catch-net sagged deep and reassuring between stout posts. A steward below it was eating a bun.
 
-Rilka had walked the course at dawn. Out across the lake to the first gate; over the five frozen ridges of the Frostcomb; a tight bend around the old willow; then up the long ramp to the highest palace terrace. The Seven Steps brought the racers down again. Broad ramps joined the terraces, switching from one side to the other. Straight ahead lay the drops; she had seen only fur hats above the terrace edges when the stewards stood on the lower shelves. At the bottom, twenty feet of air separated the last lip from the finish landing.
+Rilka had walked the course at dawn. Out across the lake to the first gate; over the five frozen ridges of the Frostcomb; a tight bend around the old willow; then up the long ramp to the highest palace terrace. The Seven Steps brought the racers down again. Broad ramps swept across the palace front, switching from side to side as they joined the terraces. Straight ahead lay the drops; she had seen only fur hats above the terrace edges when the stewards stood on the lower shelves. She had watched Torren gallop through that zigzag for four winters. Short shelves meant gathering long legs after each landing; the ramps gave his stag room to keep running. At the bottom, twenty feet of air separated the last lip from the finish landing.
 
 She had stood there for some time, picturing herself arriving above the net instead of in it.
 
@@ -114,7 +114,7 @@ There were three ridges left. A lower bound would take them one at a time. She c
 
 She could clear two more.
 
-Rilka packed a little snow tighter around the right heel, looked at the flags beyond the comb, and gathered the legs again.
+Rilka packed the right heel tighter, looked at the flags beyond the comb, and gathered the legs again.
 
 This time, when they rose, the spectators stood.
 
@@ -130,7 +130,7 @@ She lowered the bounds. The right foot held, but it sent a scraping pressure up 
 
 At the willow bend, Torren went wide.
 
-She knew his move. She had watched it from the stands for four years. He opened the turn until the stag could run through it, then came out with its long stride unbroken.
+She knew his move. He opened the turn until the stag could run through it, then came out with its long stride unbroken.
 
 Rilka put the hare on the inside. It was her chance to shut the door on him.
 
@@ -194,11 +194,11 @@ The lake opened below her, crowded with little dark figures along its edge. She 
 
 The rhinoceros had reached the first terrace ramp. Ahead of it, the fox was bringing the last of its three pairs of feet down the second drop. The serpent flowed down a terrace face, then curled sharply to bring its rider to the next drop. It was gaining on Torren, but every bend cost it a moment of recoil. Torren's stag was already sweeping out of the third ramp, fast enough that its hooves hardly seemed to settle.
 
-Straight in front of Rilka, the drops were as high as a grown person standing on the ice. Between them lay short landing shelves, barely the hare's length from nose to tail. The broad ramps ran left, right, left, making a generous zigzag. The stag could pick its way down those shelves, gathering its long legs after every landing. On the ramps, Torren could let it run. The direct drops made one white stairway down to the last lip. Beyond that lip hung the gap, the finish landing, and two red poles.
+Straight in front of Rilka, the drops were as high as a grown person standing on the ice. Between them lay short landing shelves, barely the hare's length from nose to tail. The broad ramps ran left, right, left, making a generous zigzag. The direct drops made one white stairway down to the last lip. Beyond that lip hung the gap, the finish landing, and two red poles.
 
 With her old bounds, she would rise above each step and come crashing onto the next. She could feel exactly what that would do to the heel.
 
-She lowered the hare until its belly nearly touched the snow.
+She pictured a fifth little cup on Torren's red sash and dug her aching fingers deeper into the snow. Then she lowered the hare until its belly nearly touched the snow.
 
 The first drop arrived. She let the head pitch forward over the edge instead of bounding out above it. For a moment the hare's backside was higher than her shoulders.
 
@@ -266,7 +266,7 @@ She sat motionless, with both hands sunk in the hare. The creature lay flat, fro
 
 Rilka made a noise she hoped sounded dignified. It did not.
 
-The serpent came through. Its rider slapped the top of its head with delight at her own finish, and the head obediently dipped. The fox arrived, grinning just as widely in fourth place as it had in third. Across the lake, people were waving everything they could find.
+The serpent came through. Its rider slapped the top of its head with delight at her own finish, and the head obediently dipped. The fox arrived in fourth place, grinning as widely as ever. Across the lake, people were waving everything they could find.
 
 "Rabbit Lady!" somebody shouted.
 
