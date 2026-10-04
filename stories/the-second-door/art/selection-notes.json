@@ -1,0 +1,97 @@
+{
+  "story": "The Second Door",
+  "created": "2026-10-04",
+  "tool": "Built-in image_gen.imagegen",
+  "visual_direction": "Canadian Group of Seven inspired oil painting; varied opaque strokes, connected shadows, quiet passages and motivated theatre/garden light.",
+  "supplied_references": [],
+  "collection_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.webp",
+      "role": "Sheet layout and paint reference only; no character or costume reused."
+    },
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Paint and value-shape reference only; its orchard is not imported."
+    }
+  ],
+  "interpretation": "Short dark wavy hair, light brown complexion, ivory shirt and navy trousers are consistent visual interpretations of unspecified physical details. The sheet depicts one physical body across views and expressions. Artwork adds no shared canon.",
+  "selected_location": "interiors/bellwether-selected.webp",
+  "assets": [
+    {
+      "path": "../title-image.jpg",
+      "role": "Selected corrected cover",
+      "format": "JPEG",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a104ec-d81d-7b13-98a7-3464f627332c/exec-770d4399-4ffc-4c7c-9311-4870f03d40e0.png",
+      "initial_candidate": "C:/Users/jamie/.codex/generated_images/01a104ec-d81d-7b13-98a7-3464f627332c/exec-a4ccf3cc-6f47-4d83-8821-f154454bcd5c.png",
+      "prompts": [
+        "cover",
+        "coverCorrection"
+      ],
+      "references": [
+        "characters/della-amos-june.webp",
+        "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png"
+      ],
+      "postprocessing": "RGB conversion and Lanczos resample from 941x1672; quality 96, chroma subsampling disabled. Title generated in image, never overlaid.",
+      "review": "Exact title once, readable after export. Consistent haircut/clothing with sheet; right hand on coherent brass handle, body entirely stage-side, midnight-blue cabinet and brass sunburst, pear tree against brick with stocking bags. Removed misplaced pear/pocket opening from rear shirt view. No intense content."
+    },
+    {
+      "path": "characters/della-amos-june.webp",
+      "role": "Selected multi-view character sheet",
+      "format": "WebP",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a104ec-d81d-7b13-98a7-3464f627332c/exec-60249bbd-e5f2-4b7e-9f58-c73e3c632e9e.png",
+      "prompts": [
+        "sheet"
+      ],
+      "postprocessing": "RGB conversion, WebP quality 96, method 6; no resampling.",
+      "review": "Readable story and identity labels; consistent physical body, haircut and outfit in front/side/back full-body views and three expression studies. Coherent hands/proportions; chest pocket and ordinary coin/notebook/pear props. No separate bodies assigned to identities."
+    },
+    {
+      "path": "interiors/bellwether-original.png",
+      "role": "Preserved original location painting",
+      "format": "PNG",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a104ec-d81d-7b13-98a7-3464f627332c/exec-d9b9564e-2629-4c45-8cdb-aad53e82b45d.png",
+      "prompts": [
+        "location"
+      ],
+      "postprocessing": "Original generated PNG copied unchanged.",
+      "review": "Empty worn variety theatre, wooden stage and steps, workbench/scenery, motivated practical lamps; closed midnight-blue cabinet with sunburst and casters at stage left beside masking flat. Adjacent dark planes prompted selected clarification."
+    },
+    {
+      "path": "interiors/bellwether-selected.webp",
+      "role": "Selected corrected location painting",
+      "format": "WebP",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a104ec-d81d-7b13-98a7-3464f627332c/exec-d87678d6-d345-4358-bb3a-fbf40985226b.png",
+      "prompts": [
+        "locationCorrection"
+      ],
+      "references": [
+        "interiors/bellwether-original.png"
+      ],
+      "postprocessing": "RGB conversion, WebP quality 96, method 6; no resampling.",
+      "review": "Subtle cabinet-side panel seam and gently separated flat/wing shadow planes clarify ordinary concealed route. Cabinet placement, closed front, sunburst, casters, stage/steps/lamps and empty seats remain coherent. No magic added to location."
+    }
+  ],
+  "prompts": {
+    "sheet": "Use case: illustration-story. Create a NEW landscape character reference sheet for the finished short story The Second Door, 1536x1024. The supplied reference sheet is a FORMAT/PAINT reference only: three clear full-body views, expression studies, a small props group; do not copy its character, armor, cloak, sword or medieval setting. The landscape painting reference is only for broad varied opaque oil brushwork and connected values. Depict ONE consistent physical adult body shared by Della, Amos and June, never three different-looking bodies. Artistic interpretation of otherwise unspecified features: age about thirty, light brown skin, short dark-brown softly wavy hair, brown eyes, slightly long nose, average height/build. All full-body views have exactly the same face, haircut, proportions and practical clothing: ivory cotton shirt with ONE chest pocket containing a small pear, sleeves rolled to forearms, dark navy trousers, plain worn dark shoes. Main views: relaxed front, clear side, rear. At right three face studies with small readable labels Della (watchful ambition), Amos (laughing warmth), June (mischievous amusement), expressing the same body rather than different faces. Include small studies of an ordinary brass coin, a handwritten notebook (no legible private text), and a ripe pear; no superhero costume or power diagram. Warm pale neutral ground, coherent anatomy and hands, generous margins, readable understated hand-rendered dark serif header text EXACTLY: 'Della / Amos / June' and below it 'The Second Door'. Oil painting inspired by Canadian Group of Seven: broad rhythmic color/value shapes, varied directional opaque strokes, quiet connecting passages, selective impasto, simplified forms, connected shadows. No glossy faces, uniform bevelled strokes, split face, broken-mirror metaphor, aura, monster, glowing eyes, watermarks or additional title repetitions.",
+    "location": "Use case: illustration-story. Create a NEW landscape oil location reference painting, 1536x1024, of the Bellwether variety theatre from the finished short story The Second Door. Use supplied orchard painting ONLY for Group of Seven inspired paint handling, not its setting. A small shabby but loved variety theatre in a fictional modern-like city, empty of people, view from first audience row angled toward stage left. Old wooden stage with a little sawdust, two shallow steps, warm practical stage lamps, dark masking flats and quiet wing shadows, suggestions of worn seating at bottom edge. At STAGE LEFT adjacent to a dark masking flat stands a tall ordinary midnight-blue wooden magician's cabinet, bigger than a person, on modest casters; one closed front door has a modest BRASS SUNBURST and ordinary brass handle. Its stage-left side is against the masking flat so an ordinary concealed side exit can lead into the wing without audience seeing; indicate a thin seam, not a freestanding second doorway. The rest of stage has uncluttered working space, a small workbench, covered scenery further back, no monumental fantasy architecture. Painting should communicate plausible theatrical sightlines, different planes of stage/wing/cabinet, warm wood and blue paint, worn craftsmanship. Broad rhythmic color/value shapes, varied opaque strokes, quieter connecting passages, selective impasto, simplified architecture, connected dark shadows and lost edges. Motivated tungsten stage light and gentle room ambient light, no dramatic orange-blue grading, glossy lenses, beams of magic, impossible cabinet geometry, text, watermark or added title.",
+    "cover": "Use case: illustration-story. Create a literary short-story cover for The Second Door, exact 9:16 portrait composition intended for 864x1536 JPEG. Reference character sheet establishes SAME physical body/clothing; reference orchard painting supplies ONLY varied broad opaque oil handling. This is a magical stage doorway and bittersweet ordinary contact, not a superhero action poster. In a small shabby variety theatre, an ordinary tall midnight-blue magician's cabinet with brass sunburst on its open FRONT door sits beside dark stage-left masking scenery. Through the front opening, impossibly, a warm living garden can be seen: a close brick wall with a trained pear tree, several pears protected by little old pale stocking bags, a quiet brick path. The open front door is still physically part of the wooden cabinet with sensible hinge/handle geometry. At its handle stands ONE adult physical person from sheet, Amos present, back/three-quarter rear view, ivory rolled-sleeve shirt with chest pocket, dark navy trousers, worn dark shoes, short softly wavy dark-brown hair. His RIGHT hand rests on the brass handle; his body remains entirely on the stage side of the threshold, ordinary anatomy. Let his stillness and the unavailable garden carry longing. A small pear in his shirt pocket can be subtle. No other characters or crowd needed. The cabinet is an actual wooden prop, not a stone portal or glowing arch; no one walks through. Use an understated composition, deep connected theatre shadows, selective warm pear greens and pale garden light, broad rhythmic oil color/value shapes, varied directional opaque strokes, quieter connecting passages, selective impasto, simplified coherent figure/architecture. Group of Seven inspired oils, painterly rather than glossy digital finish. Leave upper part quiet for hand-rendered readable cream serif typography. Render exact title ONCE as part of the generated image, 'The Second Door', and no author name or subtitle. No split faces, shards, masks, demon imagery, lightning, magic ring, extra hands, stereotype imagery, uniform bevelled strokes, watermarks or extra text.",
+    "coverCorrection": "Use case: precise-object-edit. Edit ONLY the supplied cover of The Second Door. Remove the misplaced little green pear and pocket-like opening from the BACK of the ivory shirt, on the upper back below the left shoulder. It is a rear view; the character has a chest pocket only on the FRONT, so no pocket or pear should be visible on this back. Repaint that small patch as ordinary continuous ivory shirt cloth with matching broad varied oil brushwork and folds. Keep every other pixel relationship, exact title The Second Door ONCE, typography, cabinet and brass sunburst, right hand correctly holding the brass handle, anatomy, haircut, shirt cuffs, trousers, shoes, green pear garden and pale stocking bags, stage props, dark theatre, composition, lighting and all paint handling. Do not change face or clothing design; do not add any object or label. Keep exact 9:16 portrait framing.",
+    "locationCorrection": "Use case: precise-object-edit. Refine ONLY the left-side cabinet/flat separation in this Bellwether theatre location painting. The story's central prop is a midnight-blue ordinary magician's cabinet with a concealed side door opening into the ordinary stage-left wing, beside a masking flat. In the existing painting these adjacent dark planes merge. Keep the cabinet EXACTLY at its current stage-left position, its front door CLOSED, its front brass sunburst/handle and casters unchanged. On the narrow visible LEFT side plane of the cabinet, show an extremely subtle rectangular panel seam and one tiny ordinary hinge indication in the same worn midnight-blue paint; this is a disguised side panel, not an open door or second front door. Adjust only nearby connected shadow values very gently so a later artist can distinguish cabinet side from masking flat and the ordinary dark wing behind, still convincingly concealed from a frontal audience. Keep every other element, theatre architecture, stage steps, wood floor, workbench, warm practical lamps, scenery, empty seats, palette, perspective and broad varied opaque Group of Seven inspired oil paint. Preserve darkness/lost edges; no bright rim light, glow, magic portal, people, text, annotation, diagram or new props. Landscape 1536x1024."
+  }
+}
