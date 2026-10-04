@@ -42,7 +42,7 @@ Crumb sat beside the table, watching the knife too. He was our dog. His muzzle w
 
 I gave him a piece of rind. Then I moved him from where he had lain across the door, because he seemed to have put himself exactly where my clean coat had to brush his fur.
 
-At school, our lessons ended early so we could prepare for tomorrow. I left my perch behind a cupboard and went to the aviary.
+At school, our lessons ended at noon so we could prepare for tomorrow. I left my perch behind a cupboard and went to the aviary.
 
 Mr. Hasp had said that an invitation was something you offered, not threw. I had offered very politely all week. Perhaps I was doing it so politely that the creatures couldn't tell I meant it.
 
@@ -254,9 +254,9 @@ There was no dramatic emptiness. The room was still the room. Crumb was still be
 
 I could do this. I could take him home, give him dinner, love him exactly as before. I could come back and offer the kite-fox my hand.
 
-Outside, Imby's voice called, “Both arms? Is it both arms?”
+Outside, the class was rehearsing. Imby's voice called, “Both arms? Is it both arms?”
 
-Someone answered her, laughing. An owl passed the window, then a shadow: the instructor rising after it to check the wind above the roof. I leaned sideways to see him, boots dangling. In another moment he was higher than the chimney.
+Someone answered her, laughing. An owl passed the window, then a shadow: the flight instructor rising after it to check the wind above the roof. I leaned sideways to see him, his boots dangling. In another moment he was higher than the chimney.
 
 Crumb got his head into the wastebasket.
 
@@ -274,7 +274,7 @@ The instructor came down past the window, coat lifting around him. I gripped my 
 
 “Possibly.”
 
-Years of the lane and the hearthrug and Father opening cheese. I had been very stupid. I was probably going to be stupid again, whichever way I went.
+Years, possibly, of the lane and the hearthrug and Father opening cheese. I'd told Mr. Hasp he didn't do anything. I had been very stupid. I was probably going to be stupid again, whichever way I went.
 
 Crumb leaned against my shin. I offered the little warmth toward him. His nose lifted, and the room filled with lunch.
 
@@ -296,7 +296,7 @@ He glanced around his crowded workroom.
 
 I pulled Crumb away. On Mr. Hasp's desk, underneath the timetable, lay the first-ascent list. My name had a space beside it where the familiar's should have gone. I looked until he turned the paper over.
 
-The next morning I arrived before eight. My nice blue coat was rolled up in the cart because pulling it made me hot. Crumb had decided the cushion was worth lying on after all. I had pinned his loose ear back for a moment while I fastened the lead, then let it flop where it wanted.
+The next morning I arrived before eight. My nice blue coat was rolled up in the cart because pulling the cart had made me hot. Crumb had decided the cushion was worth lying on after all. I had pinned his loose ear back for a moment while I fastened the lead, then let it flop where it wanted.
 
 Imby was on the south lawn with the others. She saw us through the gate.
 
