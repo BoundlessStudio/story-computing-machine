@@ -122,7 +122,7 @@ The last clear thing Della remembered was Sahar folding the poster, the day befo
 
 Sahar was gone.
 
-There was a bite of cheese sandwich in Della's mouth. It had been a long time since breakfast.
+There was a bite of cheese sandwich in Della's mouth. Her stomach growled.
 
 She swallowed, looked at the clock and opened the front door. An empty blue cupboard looked back at her. With Amos no longer present, the door led into its ordinary interior again. Sahar was still in the prop room, waiting for a way back that Della couldn't open.
 
