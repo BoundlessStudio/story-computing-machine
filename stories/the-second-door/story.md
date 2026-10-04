@@ -16,7 +16,7 @@ Della had hoped for something warmer after eleven months.
 
 Nine nights earlier, a white light had passed over the city without making a sound. Since then the woman at the corner bakery had been serving rolls hot from an unplugged oven. Della could hold a small object still in the air, provided she kept her attention on it. So far she had managed a coin, a plum and an overdue bill. The bill remained overdue.
 
-Amos had got a power too. June had got another. They had shared this body and its days for years; the dissociative identity disorder was familiar, if seldom convenient. Some days Della could hear June commenting on things. Some days she found a week's worth of shopping in the fridge and remembered none of it. The powers were new enough that their notebook still had questions in the margins instead of answers.
+Della had lived with dissociative identity disorder for years. Amos and June shared this body and its days; they had new powers, too. Some days Della could hear June commenting on things. Some days she found a week's worth of shopping in the fridge and remembered none of it. The powers were new enough that their notebook still had questions in the margins instead of answers.
 
 Sahar set the coin on the workbench.
 
@@ -112,7 +112,11 @@ Ninety-three seconds later she came back onto the stage, chewing the last of her
 
 “Scenery's in the way,” she said. “You have to go right around the back.”
 
-They tried the actual routine.
+Sahar set a little cue lamp in the wing and took its wireless switch.
+
+“Blue means I'm ready to come back,” she said. “You open the front; I step through.”
+
+They tried the routine. She crossed into the prop room again. Amos shut the front, keeping his hand on the handle to keep the passage there.
 
 Della remembered Sahar putting the poster on the bench. She remembered asking for a lamp. Then she was standing beside the cabinet with one hand on its handle, the rehearsal lamp blinking blue.
 
@@ -120,7 +124,7 @@ Sahar was gone.
 
 There was a bite of cheese sandwich in Della's mouth. It had been a long time since breakfast.
 
-She swallowed, looked at the clock and opened the front door. An empty blue cupboard looked back at her.
+She swallowed, looked at the clock and opened the front door. An empty blue cupboard looked back at her. With Amos no longer present, the door led into its ordinary interior again. Sahar was still in the prop room, waiting for a way back that Della couldn't open.
 
 “Sahar?”
 
@@ -268,6 +272,14 @@ He read the short entry about the fee and the cabinet. Beneath it she'd drawn th
 
 He'd performed this trick with Sahar before. He'd been dreadful at the grand announcement; she'd told him to open the door and look surprised. Looking surprised had proved easy.
 
+They checked the repaired cabinet. Amos opened the front onto the prop room. While he watched its plaster moon, Sahar slipped through the cabinet's side door. He heard her knock on the blue wooden wall beside him.
+
+“Let go,” she said.
+
+He released the handle. The moon disappeared from the doorway's view; Sahar stood in the ordinary blue chamber behind it.
+
+“There's our return.” She came out through the front.
+
 “What if I don't do it?” he asked.
 
 “I do the card act. I can keep them going.”
@@ -286,7 +298,7 @@ Sahar rubbed the last trace of glue off her fingers.
 
 “No.”
 
-“I use the side door as usual. Two knocks means I'm back inside. Let go, then.”
+“I use the side door. Blue when I'm out in the wing; two knocks when I'm back inside. Let go, then.”
 
 He tried the handle. The repaired hinge made no sound.
 
@@ -314,7 +326,7 @@ Somebody in the audience whispered, “That's a very good screen.”
 
 “Mrs. Orley,” Amos said.
 
-She looked up. A small table on the other side kept her from approaching the threshold.
+She looked up.
 
 “Oh, there you are. I thought you were the blackbird.”
 
