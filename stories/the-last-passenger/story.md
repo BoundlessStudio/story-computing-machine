@@ -8,7 +8,7 @@ canon: false
 
 Copperjack took his hands off the armoured man's shoulders.
 
-He had spent twelve minutes getting them there. The studio floor was littered with pieces of him: copper scales, broken clasps, one whole sleeve of his suit. Now he backed out through the hole where the control-room window had been and pressed his earpiece.
+He had spent twelve minutes getting them there. The studio floor was littered with copper scales, broken clasps, one whole sleeve of Copperjack's suit. Now he backed out through the hole where the control-room window had been and pressed his earpiece.
 
 “How long?”
 
@@ -80,7 +80,7 @@ Vane came out bent at the waist, staggering, without his armour.
 
 For a moment I watched without understanding. His suit was a room somebody could climb out of. Of course it was. I'd just spent twelve minutes wanting Copperjack to break the room open.
 
-Under it, Vane wore a grey vest and trousers tucked into heavy boots. A pair of restraints joined his wrists in front of him. Copperjack's field case had been open beside the studio door. He raised his hands above his head so that I could see.
+Under it, Vane wore a grey vest and trousers tucked into heavy boots. A pair of restraints joined his wrists in front of him. Copperjack's field case had been open beside the studio door. Vane raised his hands above his head so that I could see.
 
 “I've surrendered!”
 
@@ -186,7 +186,7 @@ Vane tried to climb over my shoulder.
 
 I jumped.
 
-For a few yards we flew. The pressure inside me wavered and caught again. The receiver doorway was open; a yellow light showed the top of the stairs. I aimed for it.
+For a few yards we flew. The pressure inside me wavered and caught again. The furniture-shop doorway was open; a yellow light showed the top of the stairs. I aimed for it.
 
 The Captain came in front of us.
 
@@ -206,7 +206,7 @@ He glanced at the roof behind me.
 
 We were below the station roof now. I couldn't get us up there. I could barely go forward. For one stupid moment I thought of how annoyed the examiner would be with me for having to explain that.
 
-“I'm taking him to the handoff.”
+“I'm taking him to the other roof.”
 
 “Cerys.”
 
@@ -252,7 +252,7 @@ I saw him coming for me. I held Vane with the arm I could still feel, knowing wh
 
 Then he was beneath us, taking our weight. He caught my back in one arm, our knees in the other. Vane's boot struck his chin hard enough to turn his face. He barely seemed to notice.
 
-He brought us to the receiver roof.
+He brought us to the furniture-shop roof.
 
 I kept saying “My arm,” until he put me down.
 
@@ -286,6 +286,18 @@ I went towards the door. Not towards the Captain. I couldn't have made myself do
 
 “Come here.”
 
+“Cerys.”
+
+I stopped.
+
+“I know he killed your father.”
+
+The Captain looked at my arm.
+
+I wanted to say something else. Something he could answer. I couldn't find it.
+
+His fist came down slowly. He held it against his thigh.
+
 Vane edged sideways along the parapet. His torn collar hung open down his chest. He took one step, watched the Captain, then took another.
 
 The Captain could have stopped him with a finger.
@@ -295,20 +307,6 @@ Vane reached me. I caught the back of his vest with my left hand and steered him
 “Stop pulling,” I said.
 
 I got the fabric loose.
-
-“Cerys.”
-
-We stopped.
-
-The Captain stood between us and the edge of the roof. His right hand was still raised.
-
-Vane made a small sound in his throat.
-
-“I heard him,” I said. “In the studio. I heard what he did.”
-
-The Captain looked at my arm.
-
-I wanted to say something else. Something he could answer. I couldn't find it.
 
 I pushed the door open with my hip.
 
