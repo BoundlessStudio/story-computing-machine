@@ -98,7 +98,7 @@ I applauded. He stayed bent.
 
 “Pay him.” She put a piece of oat cake in my hand.
 
-Once I had paid him, he came up onto the stool, caught the crown between his horns, and removed it from my head. He carried it proudly back to Tansy, who exchanged it for another piece of cake.
+Once I had paid him, he came up onto the stool, caught the crown between his horns, and removed it from my head. Tansy rattled the tin again. He carried his prize proudly back to her, and she exchanged it for another piece of cake.
 
 “What if he won't take the crown?” I asked.
 
@@ -278,7 +278,11 @@ Tansy looked across at the awning. Her three-legged stool had been set aside nea
 
 “Only till he takes the crown.”
 
-She considered me, then drew her dented tin from her coat. “Don't try to improve it.”
+She considered me, then drew her dented tin from her coat. “I'll loose him. He'll finish the act, then come back to this. Keep them looking at you till I've got him.”
+
+I nodded.
+
+“Don't try to improve it.”
 
 I carried the stool to the east side of the ring, just in front of Lord Parget. The collar scraped the underside of my chin. I took out the crown and put it on my head.
 
@@ -310,25 +314,15 @@ Through the beard I saw Tansy duck under the west rope.
 
 “An excellent motto,” I said.
 
-Tansy freed Hobnob's tether and turned towards the gate with an oat cake in her hand. Hobnob looked at the cake, then at my crown. She drew the lead west. His head stayed turned east.
+Tansy freed Hobnob's tether and kept low on his far side, the lead slack in her hand. He looked straight at my crown, then bowed again. She held out a cake. He stayed bent long enough to make her bring it all the way to his mouth.
 
-I saw her mouth form a short word.
+Lord Parget started to lean round a guard.
 
-He planted his feet.
-
-She held the cake under his nose. He bowed.
-
-“Not now,” she said, very quietly.
-
-The goat remained bowed.
-
-She paid him. He stood, turned away from the gate, and trotted across the ring towards me.
-
-Tansy had to follow.
+I swayed towards him. Both guards crowded close to steady me, their backs to the west side of the ring. Hobnob stood up and trotted towards the stool. Tansy followed, stooping behind his grey flank. I leaned into the nearer guard to keep him facing me.
 
 “Remarkable,” said Lord Parget from somewhere behind the guards. “You haven't said a word to him.”
 
-I tried to point at Hobnob. The beard looped round my wrist and pulled my head down.
+I tried to point at Hobnob and caught my wrist in the beard. When I dragged it up to free my hand, strands caught in the points of the crown. My head came down with my arm.
 
 One guard tightened his grip. “Don't reach, sir.”
 
@@ -336,17 +330,17 @@ Hobnob put his front hooves on the stool.
 
 It went over.
 
-The guards let go of me to thrust Lord Parget backwards, and I landed on my knees. I remember a great deal of green cloth coming up over my head, and the golden beard twisting round the crown. Hobnob hooked the crown anyway. He pulled.
+The guards let go of me to thrust Lord Parget backwards, and I landed on my knees. Hobnob hooked the crown. It was still tangled in the beard, and the beard was still sewn to my collar. When he tried to carry off his prize, my clothes came with it.
 
-The pasteboard tore. So did a seam at my shoulder. My tabard stretched between Hobnob's horn and my shoulders, with its crowned turnips facing the lord like a splendid green wall. I lifted the loose cloth to screen Tansy as she crouched beside the goat.
+A seam split at my shoulder. The front of the tabard came up over my head. I caught its loose edge and spread it towards the awning, keeping Tansy behind a splendid green curtain of crowned turnips.
 
-Behind that wall, Tansy unhooked the broken crown from the goat's horn, gave him his second payment, and hauled him west.
+The tin rattled behind me. Hobnob tried to turn towards it, pulling the crown still harder. Tansy caught his horn, unhooked the crown from both horn and beard, and exchanged it for his second payment. The pasteboard had torn down the middle. The goat didn't care; his part was done.
 
 “Inspection complete,” I said from inside the tabard.
 
 Lord Parget said something about dignity.
 
-I rolled sideways. The tabard came down over one guard's head. He stumbled into the other. Hobnob, finally satisfied with the performance, followed Tansy through the gate.
+A guard reached for me. I pulled the loose green cloth over his helmet and rolled sideways. He stumbled into the other. Tansy led Hobnob back to the west gate, slipped its rope off the post, and took him out over it.
 
 For a moment I was on all fours, with a long false beard trailing across the grass and my red trainers in full view.
 
