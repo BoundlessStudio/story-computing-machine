@@ -1,0 +1,3 @@
+# Editorial notes
+
+2026-10-04. New, non-canon story. The live possibility is a surrendered, culpable villain becoming an evacuation passenger while Captain Incredible's intelligible grief makes his arrival dangerous. Preserve actual threat, the rescue hero's limited agency, and the man's responsibility; avoid an innocence reveal or a speech that cures grief. The writer owns the provisional direction and prose. No supplied images. Independent Claude readings use authenticated claude.ai Max subscription, model claude-opus-5-5, tools disabled, neutral directory outside repository and ancestor CLAUDE.md; separate initial outline, draft, and final sessions are retained for discussion.
