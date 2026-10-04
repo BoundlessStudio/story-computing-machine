@@ -76,7 +76,7 @@ She regretted it when the statue put its hands carefully against its skirt. It m
 
 There were footsteps on the other street, coming toward the doorway.
 
-Iona scrambled onto the ledge, squeezed between the statue and the first window, and crouched with her skirt pulled over her knees. The ledge was only as high as her shins. It wasn't much of a hiding place, but if her sister came around the corner quickly enough, perhaps she would look straight over her.
+Iona scrambled onto the shin-high ledge, squeezed between the statue and the first window, and crouched with her skirt pulled over her knees. She kept her head below the marble skirt's waist. If her sister came around the corner quickly enough, perhaps she would look at the doorway instead of behind the statue.
 
 The statue bent at its waist, peering.
 
@@ -210,7 +210,7 @@ Iona had been behind that tree with her yellow skirt outside it. She didn't want
 
 The statue looked past her, along the street.
 
-“Look. The ledge goes round too. I could stand here and you could go on the other side.”
+Iona pointed to the ledge continuing around the corner. “On there.”
 
 There were old white scuffs all along the stone. She had thought they were bird droppings. The second arm ended beside the doorway in a square edge, with room for the statue and its slab between the window and the edge. From beside the first window she couldn't see that end at all.
 
@@ -310,7 +310,7 @@ Iona considered the doorway. She would have to get out of it eventually. Across 
 
 The statue turned its head one way, then the other. It slid toward the corner, watching each street as it came into view.
 
-Iona put her shoes on. At the doorway she could crouch below the window, and the ledge would hide her for some of the way. She wasn't certain about the last bit. Perhaps the statue would be certain, and that would make it careless.
+Iona put her shoes on. From the doorway she would have to watch until the statue looked the other way, then try to reach it. She wasn't certain about the last bit. Perhaps the statue would be certain, and that would make it careless.
 
 “Hands over your eyes,” she said.
 
