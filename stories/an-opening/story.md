@@ -244,7 +244,7 @@ The registrar checked the carter's notes. "Iron ring. Above the gate. There was 
 
 "For lifting the bar." Harn drew a line with his finger. "You hitch it to the bar, pass it through the ring and out through the grille. We haul. You stay clear."
 
-"I can lift a hook to the ring," Vorrick said. "Eleven heartbeats would be plenty for that."
+"I can float the rope's end through the ring," Vorrick said. "I'd need a clear view through that grille. Eleven heartbeats would be plenty."
 
 Harn considered him. "If it's there."
 
@@ -280,7 +280,7 @@ She tapped his breastplate.
 
 He looked at the hatch's measurements again. The armor added inches at both shoulders. He had been counting the body inside it.
 
-Harn waited while Tallow undid the buckles. The breastplate came away with a small, painful squeak. He put it beside the shield and lifted off his helmet. Underneath, his quilted tunic had a patch at one elbow which Laureth had sewn with black thread because she said the white made her stitches look anxious.
+Harn waited while Tallow undid the buckles. He would have to reach the bar before any of the four thieves reached him. His fingers slowed on the last buckle. The breastplate came away with a small, painful squeak. He put it beside the shield and lifted off his helmet. Underneath, his quilted tunic had a patch at one elbow which Laureth had sewn with black thread because she said the white made her stitches look anxious.
 
 She examined the patch, apparently satisfied it had survived.
 
@@ -310,7 +310,7 @@ Laureth reached out for the helmet.
 
 He gave it to her.
 
-The quartermaster valued the three pieces, supplied a sound rope, a small hook, and a covered lantern, and locked the armor in a cupboard. Tallow watched the key turn. The receipt felt very thin against his palm.
+The quartermaster valued the three pieces, supplied a sound rope and a covered lantern, and locked the armor in a cupboard. Tallow watched the key turn. The receipt felt very thin against his palm.
 
 He tucked it into the lining of his tunic. His sword still hung at his left hip. At the counter, the registrar entered their names under the commission and gave them the carter's map.
 
