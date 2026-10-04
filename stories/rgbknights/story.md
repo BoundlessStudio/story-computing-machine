@@ -164,7 +164,7 @@ Knight took her teapot down from the shelf. "Could you wait until eight?"
 
 "Who's Rafa?"
 
-He looked down at the book between them. "He started the argument. He'll be here at eight."
+He looked down at the book between them. "He started the argument."
 
 Marnie had her finger under the line. She could point to it. She could point to his hands, ask about the watch, get all the questions out before he had time to choose better answers.
 
@@ -178,9 +178,9 @@ She closed the book.
 
 He made the tea. The rider left. Knight set a glass of water beside the sleeping student and gently rescued an open cookbook from under his elbow. Marnie took her usual table, but didn't open her laptop.
 
-At three minutes to eight Marnie heard the back door. She looked round the end of the bookcase. The manager came through carrying a carton of milk.
+At three minutes to eight Marnie heard the back door. She looked round the end of the bookcase. The manager with the blue cup was still beside the till.
 
-The other manager was still there.
+Another man came through carrying a carton of milk, in the same black apron. He had the same face.
 
 For a moment Marnie's eyes insisted that one of them was a mirror doing the wrong thing. The arriving man set the carton down. His watch strap was red. His left thumbnail was taped.
 
@@ -312,7 +312,7 @@ She described it.
 
 Raf came back with the student's money still in his hand. He looked at it, swore softly, and went to the till.
 
-When Raf came back, Marnie drew her book closer. Some visits were beginning to separate: the green pencil, the hot tray, the cup full of teaspoons. Others wouldn't. She had wanted to ask Knight what he'd meant, and now all three of them were here, with none of them quite containing the conversation she'd brought back.
+Marnie waited for him to sit down, then drew her book closer. Some visits were beginning to separate: the green pencil, the hot tray, the cup full of teaspoons. Others wouldn't. She had wanted to ask Knight what he'd meant, and now all three of them were here, with none of them quite containing the conversation she'd brought back.
 
 "I'd thought I was coming back to the same person," she said.
 
