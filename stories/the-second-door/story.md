@@ -118,7 +118,7 @@ Sahar set a little cue lamp in the wing and took its wireless switch.
 
 They tried the routine. She crossed into the prop room again. Amos shut the front, keeping his hand on the handle to keep the passage there.
 
-Della remembered Sahar putting the poster on the bench. She remembered asking for a lamp. Then she was standing beside the cabinet with one hand on its handle, the rehearsal lamp blinking blue.
+The last clear thing Della remembered was Sahar folding the poster, the day before. Now she was standing beside the cabinet with one hand on its handle, the rehearsal lamp blinking blue.
 
 Sahar was gone.
 
@@ -160,11 +160,11 @@ She looked from the flat to the cabinet.
 
 *
 
-June had made her own visit to the Bellwether two afternoons earlier.
+Later on the day Della and Sahar met, June had made her own visit to the Bellwether.
 
 She'd stood in the dressing room singing along with a radio serial while Sahar changed for a children's matinee. The detective was pleading innocence in a mournful tenor. June preferred the villain's part.
 
-“Not with that shoulder,” Sahar said through the partition. “You can't get a breath in.”
+“You're swallowing the last word,” Sahar said through the partition. “Take a breath before it.”
 
 June stopped singing. The partition was brick.
 
@@ -344,7 +344,11 @@ Mrs. Orley glanced past him into the auditorium. She bent toward the doorway, sq
 
 “A few.”
 
-“You might have warned me.” She straightened the front of her cardigan. “I've had no difficulty growing them this year. Picking them's another matter.”
+“You might have warned me.” She straightened the front of her cardigan.
+
+“Sorry,” Amos said. “Shall I close it?”
+
+“No, stay a minute. I've had no difficulty growing these pears this year. Picking them's another matter.”
 
 In the wing, Sahar passed behind the masking flat. The cabinet's side door opened inward, into the blue chamber concealed behind the garden view.
 
