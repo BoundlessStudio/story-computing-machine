@@ -1,0 +1,92 @@
+{
+  "story": "No Vacancy",
+  "created": "2026-10-04",
+  "tool": "Built-in image_gen.imagegen",
+  "visual_direction": "Canadian Group of Seven inspired oils, with broad directional opaque strokes, connected shadows, selective impasto and motivated natural light.",
+  "supplied_references": [],
+  "collection_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Brushwork and value-shape reference. Inspected before generation."
+    }
+  ],
+  "selected_location": "landscapes/02-bakers-lane-selected.png",
+  "assets": [
+    {
+      "path": "../title-image.jpg",
+      "role": "Selected cover",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "format": "JPEG",
+      "prompts": [
+        "cover",
+        "cover_posture_correction"
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a1051c-94df-7fa3-a836-86d0cad9a26f/exec-e19b2f36-1154-4ad4-bec2-c157c511113e.png",
+      "postprocessing": "RGB conversion and Lanczos resample from 941x1672 to 864x1536; JPEG quality 95 with chroma subsampling disabled. Title generated within image, never added afterward.",
+      "review": "Exact title readable once. Corrected girl stands beside the cart in blouse/skirt; blue coat is rolled in cart with cushion/blanket. Ordinary brindled older dog with pale muzzle and asymmetric ears; coherent figures, warm curiosity, no injury or graphic material. Earlier cover candidate remains outside package."
+    },
+    {
+      "path": "characters/crumb.webp",
+      "role": "Selected character reference sheet",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "prompts": [
+        "crumb_sheet"
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a1051c-94df-7fa3-a836-86d0cad9a26f/exec-2d3e78dc-9ebf-426c-b208-e9a4056ee91f.png",
+      "references": [
+        "../title-image.jpg",
+        "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png"
+      ],
+      "postprocessing": "RGB conversion; WebP quality 95, method 6; source already 1536x1024.",
+      "review": "Readable Crumb and No Vacancy labels. Side, front and rear full-body views; seated contact, sniffing on a lead, attentive and unimpressed studies. Same ordinary brindled older dog, pale muzzle, brown eyes and ear asymmetry throughout. Ear sidedness is a visual choice, not a new shared fact."
+    },
+    {
+      "path": "landscapes/01-bakers-lane-original.png",
+      "role": "Preserved original location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "prompts": [
+        "bakers_lane"
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a1051c-94df-7fa3-a836-86d0cad9a26f/exec-6030467b-8993-4a2d-9ef9-de8b51ca64a5.png",
+      "postprocessing": "Original generated PNG copied unchanged.",
+      "review": "Plain lane, worn stone/lime wall, baker's shed and doorstep, motivated afternoon light. Foreground leaves read as generic dense greenery rather than distinct nettles, prompting the selected correction."
+    },
+    {
+      "path": "landscapes/02-bakers-lane-selected.png",
+      "role": "Selected corrected location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "prompts": [
+        "bakers_lane",
+        "nettle_correction"
+      ],
+      "source": "C:/Users/jamie/.codex/generated_images/01a1051c-94df-7fa3-a836-86d0cad9a26f/exec-3791db67-bdd6-498b-874b-6fbfe098fc1d.png",
+      "references": [
+        "landscapes/01-bakers-lane-original.png"
+      ],
+      "postprocessing": "Corrected generated PNG copied unchanged.",
+      "review": "Upright stems and serrated pointed nettle leaves make the investigation site distinct. Original wall, shed, step, lane perspective and light preserved. No added magical diagram, text, people or explicit unpleasant matter."
+    }
+  ],
+  "prompts": {
+    "cover": "Use case: illustration-story. Asset: novel cover for No Vacancy, portrait 9:16, exactly 864x1536 pixels. Render exact title 'No Vacancy' ONCE within the painting, large legible warm ivory serif letters in the quiet upper area. No author text or other text. Canadian Group of Seven inspired oil painting, matching supplied orchard reference for broad rhythmic colour shapes, directional opaque strokes, selective impasto, connected shadows and lost edges; no glossy digital rendering or theatrical rim light. Composition: an elderly ordinary medium brindled brown mixed-breed dog with almost-white muzzle, brown eyes, dog's left ear floppy and right semi-pricked, standing near a low wooden handcart with a worn cushion and blanket at a green hedge beside a modest old school gate. A slender thirteen-year-old pupil in a plain clean skirt and blue coat rolled in the cart is seen mostly from behind beside the dog; restrained figure, not a portrait. Above the gate, a small distant pupil rises near a school roof with a starling ahead, modest understated morning light. The emotional centre is the dog's attentive nose and the student's hand on the cart, with space above that feels both inviting and out of reach. Coherent scale, ordinary dog anatomy and stiff hindquarters, no dog wings, magical glow, halo or heroic pose. Motivated cool morning light, green hedge, stone and warm brown dog, subdued natural colours. This is a cover of comic hurt, curiosity and affection, not a tragic death scene. Supplied reference image is for brushwork only, not scene contents.",
+    "cover_posture_correction": "Use case: precise-object-edit. Edit target: the supplied No Vacancy cover. Correct only Fenna's posture and clothing so the handcart is visibly for the elderly dog: show the thirteen-year-old girl STANDING ON THE PATH BESIDE the cart, seen from behind, her hand resting on a cart handle. She wears a simple pale long-sleeved school blouse and a plain clean dark skirt. Her blue coat is visibly rolled up INSIDE the cart alongside the worn cushion and blanket. Her body must not be inside or seated in the cart. Preserve her braid, the dog exactly, the gate, school, landscape, oil-painting style, lighting, composition's quiet upper title space, and the exact integrated title 'No Vacancy' once. Preserve all other details. Portrait 9:16, 864x1536 pixels. Coherent girl and cart anatomy, ordinary handcart rather than a carriage.",
+    "crumb_sheet": "Use case: illustration-story. Asset: character reference sheet, landscape exactly 1536x1024 pixels, for Crumb from No Vacancy. Render labels clearly: 'Crumb' and 'No Vacancy' once each. Match the dog's identity to the accepted cover: elderly ordinary medium brindled brown lean mixed-breed dog, nearly white muzzle, brown eyes, dog's RIGHT ear loose/floppy and LEFT ear semi-pricked, modest stiff hindquarters, thin fur, no large white body patches. Same identity and age in every panel. Canadian Group of Seven inspired oil painting with broad quiet value shapes, selective opaque strokes and impasto; simplified but coherent dog anatomy, no glossy bevelled digital strokes. Warm neutral canvas background. Show separate full-body side, front three-quarter and rear three-quarter views, a seated pose pressing into a hand, a low sniffing pose on a loose plain brown lead, and two close face/expression studies (attentive and unimpressed). Keep the dog consistent across all angles, asymmetrical ears on correct sides. Worn cushion/blanket can appear under the resting pose. No dog clothing, wing, magical glow, halos, speech bubbles or additional invented symbols. Clear open spacing and readable labels; this is a multi-view sheet rather than a scene portrait. Cover reference supplies dog identity; orchard reference supplies brushwork only.",
+    "bakers_lane": "Use case: illustration-story. Asset: location reference painting for the back lane in No Vacancy, landscape 1536x1024 pixels. Canadian Group of Seven inspired oil painting matching supplied orchard brushwork: broad rhythmic natural colour/value shapes, directional opaque strokes, quieter connecting passages, selective impasto, connected shadows and lost edges; avoid glossy digital surfaces, uniform raised bevel strokes and automatic orange-blue contrast. Scene: a plain intimate afternoon lane beside a cracked low lime-and-stone wall, nettles at the foot of one stone, the weathered back of a modest baker's shed and a simple doorstep further along. The wall and apparently unremarkable nettles are the close visual centre, quiet but layered and inviting inspection. Dry ordinary walking lane, worn stone, lime, nettle green, wood, connected soft afternoon shade and a small patch of natural sun. Human scale, coherent wall/door perspective; no grand castle, water infrastructure, labels or text. No people or dog required, no sausage or explicit unpleasant matter, no glowing smell lines or magical diagram. Reference supplies painterly style only, not scene contents.",
+    "nettle_correction": "Use case: precise-object-edit. Edit target: this oil painting of the lane in No Vacancy. Refine ONLY the nettle patch at the base of the close foreground wall: make it clearly a cluster of upright stinging-nettle stems with opposite serrated pointed heart-shaped leaves, still simplified within the broad oil strokes, rather than an undifferentiated ivy/bramble bush. Keep the patch quiet and ordinary at human scale, inviting a dog's close inspection. Preserve the original stone wall, worn lime, baker's shed, doorway and step, path, trees, perspective, all light and shadow, natural colours, expressive Group of Seven oil brushwork and composition. No new objects, people, animals, text, magical glow or diagram. Landscape 1536x1024 pixels. This is a selected detail correction to the original location painting, not a new setting."
+  }
+}
