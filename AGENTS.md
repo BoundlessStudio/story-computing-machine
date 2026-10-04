@@ -16,6 +16,10 @@ For a reader-facing introduction, see [README.md](README.md). [stories/README.md
 
 Set up a branch and dedicated worktree from updated `main` before story production. Do all story reads for production, edits, commits, and pull-request work there; leave the primary checkout on `main`. Keep the absolute worktree path in agent assignments. Use a pull request for merging and never merge on the user's behalf. Preserve authored work when changing layouts or retiring tools.
 
+Keep all task-created files inside the active repository worktree. Use `<worktree>/tmp/` for every temporary file or directory: review inputs and outputs, scratch scripts, logs, pull-request body files, and draft or rejected art. Only `tmp/.gitkeep` is tracked; everything else under `tmp/` is ignored. Derive the absolute worktree root with `git rev-parse --show-toplevel`, pass an explicit directory to temporary-file APIs, and set `TMPDIR`, `TMP`, and `TEMP` to that root's `tmp/` in subprocess environments when needed. Do not use the system temporary directory, a sibling worktree, or a location outside the repository for task files, and do not follow a symlink or junction out of the worktree to write them.
+
+The repository's Codex configuration uses `workspace-write` with system temporary roots excluded, plus a hook that rejects file edits outside this worktree. Keep that sandbox enabled and do not add external writable roots or request unsandboxed shell execution to bypass this boundary. Read-only access to external inputs remains allowed. Git and agent applications manage their own metadata; this rule governs the task files agents create. See [the boundary setup and checks](.codex/hooks/README.md) for hook trust, activation, and coverage.
+
 For a new story, keep `stories/<slug>/` small:
 
 - `prompt.md` — the exact request, explicit constraints, and display names of any supplied reference images. Keep the original image files, under their recorded names, in `art/references/` beside this story. Inspect every supplied original, and ask for reattachment if one is inaccessible. These inputs are not canon authority.

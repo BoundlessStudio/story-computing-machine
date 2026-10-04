@@ -1,0 +1,19 @@
+{
+  "description": "Keep task file edits inside the active repository worktree.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "^(apply_patch|Bash|Write|Edit|MultiEdit)$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -B -c \"import pathlib,runpy,subprocess; runpy.run_path(str(pathlib.Path(subprocess.check_output(['git','rev-parse','--show-toplevel'], text=True).strip()) / '.codex/hooks/repository_boundary.py'), run_name='__main__')\"",
+            "commandWindows": "python -B -c \"import pathlib,runpy,subprocess; runpy.run_path(str(pathlib.Path(subprocess.check_output(['git','rev-parse','--show-toplevel'], text=True).strip()) / '.codex/hooks/repository_boundary.py'), run_name='__main__')\"; exit $LASTEXITCODE",
+            "timeout": 10,
+            "statusMessage": "Checking repository write boundary"
+          }
+        ]
+      }
+    ]
+  }
+}

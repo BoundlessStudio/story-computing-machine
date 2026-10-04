@@ -1,4 +1,14 @@
 # Repository policy is in AGENTS.md; the README files map story and universe content.
 # Role-specific instructions are in .codex/agents/.
+sandbox_mode = "workspace-write"
+approval_policy = "never"
+
+[sandbox_workspace_write]
+writable_roots = []
+exclude_slash_tmp = true
+exclude_tmpdir_env_var = true
+# Preserve network access for subscription readings and GitHub work.
+network_access = true
+
 [agents]
 enabled = true
