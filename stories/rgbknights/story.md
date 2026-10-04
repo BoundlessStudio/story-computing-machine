@@ -326,11 +326,25 @@ Marnie waited for him to sit down, then drew her book closer. Some visits were b
 
 Bram nodded. "Me too."
 
+"Gil, does it matter if Vera already knows her answer?" Marnie asked, looking at Bram.
+
+"Gil's there," Bram said quietly, nodding towards his brother.
+
+She turned and had to begin the question again. Gil waited until she'd finished.
+
+"I don't know," he said. "I was sure yesterday."
+
 "Do you write the reviews together?" she asked.
 
-"Sometimes," Gil said. "Sometimes one of us starts and somebody else finishes."
+"Sometimes," Gil said.
 
-"Sometimes one of us goes in and takes out all the good jokes."
+"The hostage situation with a map?"
+
+"The hostage situation was mine," Raf said. "Gil kept trying to make me admire the map."
+
+"It was a good map," Gil said.
+
+"I put those together," said Bram. "Sometimes one of us goes in and takes out all the good jokes."
 
 "Sometimes they're not good jokes, Bram."
 
