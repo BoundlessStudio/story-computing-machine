@@ -172,7 +172,7 @@ When the wagon was packed, she took down a green tabard embroidered with turnips
 
 “He's tied behind the red tent,” she said. “Outside the west gate of the reviewing ring. They'll put him in Parget's carriage after the procession. The two men watch the gate. If they look somewhere else, I can get his lead and bring him straight back here.”
 
-She put the tabard over my grey hoodie. It had a fringe round the neck and smelt of dust and old apples.
+She put the long tabard over my grey hoodie and pulled up my hood. The tabard had a fringe round the neck and smelt of dust and old apples.
 
 “Who am I?”
 
@@ -190,7 +190,7 @@ I adjusted the tabard.
 
 “I am,” I whispered, “a very important visiting official.”
 
-The fringe rose round my neck and stiffened into a collar so tall I could barely turn my head. Each embroidered turnip acquired a little golden crown.
+The fringe rose round my neck and stiffened into a collar so tall I could barely turn my head. Between it and the hood, most of my face was hidden. Each embroidered turnip acquired a little golden crown.
 
 I touched one. It was cloth, stitched tightly into cloth.
 
@@ -314,43 +314,37 @@ Through the beard I saw Tansy duck under the west rope.
 
 “An excellent motto,” I said.
 
-Tansy freed Hobnob's tether and kept low on his far side, the lead slack in her hand. He looked straight at my crown, then bowed again. She held out a cake. He stayed bent long enough to make her bring it all the way to his mouth.
+Tansy freed Hobnob from the tether. He looked straight at my crown, then bowed again. She held out a cake. He stayed bent long enough to make her bring it all the way to his mouth. Then he trotted towards the stool, and she went back to the west gate with her tin.
 
-Lord Parget started to lean round a guard.
+“Remarkable,” said Lord Parget. “You haven't said a word to him.”
 
-I swayed towards him. Both guards crowded close to steady me, their backs to the west side of the ring. Hobnob stood up and trotted towards the stool. Tansy followed, stooping behind his grey flank. I leaned into the nearer guard to keep him facing me.
+I bent to put the crown within reach. Hobnob hooked it. The loose beard slipped over his crooked horn too.
 
-“Remarkable,” said Lord Parget from somewhere behind the guards. “You haven't said a word to him.”
+The tin rattled at the west gate.
 
-I tried to point at Hobnob and caught my wrist in the beard. When I dragged it up to free my hand, strands caught in the points of the crown. My head came down with my arm.
+Hobnob turned to carry his prize back. The pasteboard cracked against his horn, and the beard pulled tight. It was still sewn to my collar.
 
-One guard tightened his grip. “Don't reach, sir.”
+I came off the stool into the nearer guard. The other caught a handful of green cloth to stop me falling, and the neckline began to tear. The stool went over with a crack. I landed on my knees, with Hobnob trying to take my clothes back to Tansy.
 
-Hobnob put his front hooves on the stool.
+I gripped the torn neckline and pulled. The seam gave way. The beard came loose, and Hobnob trotted west with it dangling from his horn beneath the crown.
 
-It went over.
+“Inspection complete,” I said.
 
-The guards let go of me to thrust Lord Parget backwards, and I landed on my knees. Hobnob hooked the crown. It was still tangled in the beard, and the beard was still sewn to my collar. When he tried to carry off his prize, my clothes came with it.
+The guard tried to haul me upright. I clung to his sleeve and let my knees fold again. He grabbed his companion for help. Across the ring, Tansy took the broken crown and beard from Hobnob and paid him.
 
-A seam split at my shoulder. The front of the tabard came up over my head. I caught its loose edge and spread it towards the awning, keeping Tansy behind a splendid green curtain of crowned turnips.
+“Get up,” said Lord Parget.
 
-The tin rattled behind me. Hobnob tried to turn towards it, pulling the crown still harder. Tansy caught his horn, unhooked the crown from both horn and beard, and exchanged it for his second payment. The pasteboard had torn down the middle. The goat didn't care; his part was done.
+I waited until Tansy had slipped the gate rope off its post. She let it fall and stepped over it, Hobnob following. Then I released the guard's sleeve and ducked beneath his reaching hand.
 
-“Inspection complete,” I said from inside the tabard.
-
-Lord Parget said something about dignity.
-
-A guard reached for me. I pulled the loose green cloth over his helmet and rolled sideways. He stumbled into the other. Tansy hurried Hobnob back to the west gate. She slipped the rope off its post and let it fall, then stepped over it with the goat following.
-
-For a moment I was on all fours, with a long false beard trailing across the grass and my red trainers in full view.
+My hood had fallen back. I was on all fours, with a ragged green neckline round my shoulders and my red trainers in full view.
 
 “That's no inspector,” said Lord Parget.
 
 I ran.
 
-The collar, having exhausted its career as a beard, settled round my shoulders like an ordinary dusty fringe. Nothing else politely reversed itself. The stool was broken. The tabard was torn. Behind me, the guards were getting to their feet.
+The torn tabard flapped against my shoulder. The stool lay broken behind me. Neither politely repaired itself as the guards started after me.
 
-Tansy's wagon was already moving. I caught the tailboard and pulled myself onto it as we jolted along the track behind the tents. Hobnob stood beside me with his lead tied to a ring, chewing the corner of a sack.
+Tansy's wagon was already moving. I caught the tailboard and pulled myself onto it as we jolted along the track behind the tents. The broken crown and its acquired beard lay on a crate. Hobnob stood beside me with his lead tied to a ring, chewing the corner of a sack.
 
 “He'll eat that,” I said.
 
@@ -360,7 +354,7 @@ I did. Behind us somebody blew a whistle. Tansy snapped the reins, and the wagon
 
 We did not stop until the tents were out of sight.
 
-Tansy checked Hobnob's legs, his horns, and the place where the unfamiliar lead had rubbed his neck. Then she checked the torn tabard. I took it off and laid it carefully beside her.
+Tansy checked Hobnob's legs, his horns, and the place where the tether had rubbed his neck. Then she checked the torn tabard. I took it off and laid it carefully beside her.
 
 “I'll pay for it,” I said.
 
