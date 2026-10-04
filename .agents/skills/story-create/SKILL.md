@@ -5,7 +5,7 @@ description: Write or substantially revise a [WP] short story through agent conv
 
 # Story workshop
 
-The aim is a story a reader wants to finish and remember. Establish the dedicated worktree from updated `main` before production, then read [AGENTS.md](../../../AGENTS.md) for permission and files. Use this as a practice, not a sequence of verdicts. Make room for discovery and revise the underlying scene or premise when a line edit cannot solve the problem.
+The aim is a story a reader wants to finish and remember. Use the worktree attached to the current chat through Codex's built-in workflow, then read [AGENTS.md](../../../AGENTS.md) for permission and files. An existing Codex worktree is ready for production without another checkout or update from `main`. Use this as a practice, not a sequence of verdicts. Make room for discovery and revise the underlying scene or premise when a line edit cannot solve the problem.
 
 ## Begin with the story
 
