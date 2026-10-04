@@ -340,7 +340,7 @@ The tin rattled behind me. Hobnob tried to turn towards it, pulling the crown st
 
 Lord Parget said something about dignity.
 
-A guard reached for me. I pulled the loose green cloth over his helmet and rolled sideways. He stumbled into the other. Tansy led Hobnob back to the west gate, slipped its rope off the post, and took him out over it.
+A guard reached for me. I pulled the loose green cloth over his helmet and rolled sideways. He stumbled into the other. Tansy hurried Hobnob back to the west gate. She slipped the rope off its post and let it fall, then stepped over it with the goat following.
 
 For a moment I was on all fours, with a long false beard trailing across the grass and my red trainers in full view.
 
