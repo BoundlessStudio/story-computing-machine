@@ -1,0 +1,3 @@
+# Editorial notes
+
+2026-10-04 — The prompt promises a Great Winter Contest worth witnessing. The writer and coordinator chose to explore a snow-beast steeplechase, with a toy carver attempting a mount large enough to ride. Protect the actual sport, the rival's excellence, and the maker's appetite for glory; the modest craft must not win simply because it is morally preferable. No reference images were supplied. The Ice Kingdom has no established shared entry; this story invents local details without promoting them. Relevant shared authority includes the requirement that magical agency comes from life. Claude authentication was verified as `claude.ai` with an active Max subscription; first readings use separate sessions in a neutral directory with tools disabled.
