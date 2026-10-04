@@ -326,7 +326,7 @@ I stood. My knees had stiffened while I sat. I caught the arm of the chair with 
 
 “Bring it.”
 
-He gave Biri to the girl at the door. She gathered the blue cloth around the child's feet and held her without asking whose she was. Talven came back to the opening and lifted his left wrist.
+He gave Biri to the girl at the door. She gathered the blanket around the child's feet and held her without asking whose she was. Talven came back to the opening and lifted his left wrist.
 
 Marda laid her loop against the turn of his. The keeper in the chair did the same. I brought mine last.
 
@@ -344,7 +344,7 @@ He put both hands against the line. We waited. When he took them away, the stone
 
 The girl stood at the door with Biri wrapped in Len's blanket. Len's mother was due at noon. She always called to him from outside before coming in. I would have to tell her myself.
 
-Marda sat down and began to cry. The other keeper leaned toward her, but neither of them seemed to know what to do with her hands.
+Marda sat down and began to cry. The other keeper leaned toward her, but neither of them seemed to know what to do with their hands.
 
 Talven retrieved Biri. The girl found him a pair of shoes from the resting house. They were too large; he stuffed folded cloth into the toes. I put my daughter's letter in my pocket, though I knew the way.
 
