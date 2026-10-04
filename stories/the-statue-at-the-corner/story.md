@@ -230,23 +230,23 @@ This time she counted in the solemn way the statue had counted, leaving a great 
 
 She walked toward it. The edge vanished with a scrape.
 
-Around the shop corner, the second arm was empty. She hurried past its window and looked toward the square edge beside the doorway. Nothing. A scrape came from the first arm, where she had been standing.
+One of her laces was trailing. A few steps short of the corner, Iona turned her back to the shop and crouched to tie it. The scraping went on behind her. It was probably trying to press itself against the bricks again.
 
-Iona doubled back. A marble elbow drew out of sight.
+Around the shop corner, the second arm was empty. She hurried past its window and looked toward the square edge beside the doorway. Nothing. A scrape came from the first arm, where she had been standing.
 
 “You're moving!”
 
 “You didn't say I couldn't.”
 
-She hadn't. She had moved from behind the tree when the boy with the green cap began walking toward it. His noticing her skirt had come later.
+She hadn't. She had crept from one tree to the next when the boy with the green cap came close. It had helped until her yellow skirt stuck out.
 
 “Well, I can hear you.”
 
 There was no answer. The statue might have been any still thing around the shop corner.
 
-Iona took off her shoes and set them together beneath the window. The pavement was warm through her socks. She crept to the corner, avoiding the gritty bits, and leaned her head around it.
+Iona undid the knot she had just made, took off her shoes, and set them together beneath the second window. The pavement was warm through her socks. She crept to the corner, avoiding the gritty bits, and leaned her head around it.
 
-The statue was waiting beside the other window. It saw her eye and swung backward so hastily that its slab bumped the wall. Iona pulled away in case it tipped. It didn't. There was a long scrape, then silence.
+The statue was waiting beside the first window. It saw her eye and swung backward so hastily that its slab bumped the wall. Iona pulled away in case it tipped. It didn't. There was a long scrape, then silence.
 
 She stayed where she was.
 
@@ -270,7 +270,7 @@ There was a small, choked noise around the corner.
 
 The statue laughed.
 
-It was a dreadful laugh, all little stone knocks, and Iona ran toward it before it could stop. The child was doubled over beside the second window, one hand clutching the frame. Iona put her palm against its cold chest.
+It was a dreadful laugh, all little stone knocks, and Iona ran toward it before it could stop. The child was doubled over beside the first window, one hand clutching the frame. Iona put her palm against its cold chest.
 
 “Found you!”
 
@@ -310,7 +310,7 @@ Iona considered the doorway. She would have to get out of it eventually. Across 
 
 The statue turned its head one way, then the other. It slid toward the corner, watching each street as it came into view.
 
-Iona put her shoes on. From the doorway she would have to watch until the statue looked the other way, then try to reach it. She wasn't certain about the last bit. Perhaps the statue would be certain, and that would make it careless.
+Iona fetched her shoes from beneath the second window and put them on. From the doorway she would have to watch until the statue looked the other way, then try to reach it. She wasn't certain about the last bit. Perhaps the statue would be certain, and that would make it careless.
 
 “Hands over your eyes,” she said.
 
