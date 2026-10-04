@@ -214,15 +214,15 @@ The king's lips twitched.
 
 "A what?" he said.
 
-Ned looked from my fist to the long grey arm disappearing behind the curtain. He pulled the curtain off its hooks.
+Ned looked from my fist to Vask's forearm stretched between us behind the curtain. He pulled the curtain off its hooks.
 
-It fell around our feet. There I stood in my work shirt with my fist in the air. Ned knelt beside a theatre built for an eight-year-old. And Vask, taller than the door, stood on my front-room carpet with one gigantic hand stuck out in front of him.
+It fell around our feet. There I crouched in my work shirt with my fist in the air. Ned knelt beside a theatre built for an eight-year-old. And Vask, taller than the door, stood on my front-room carpet with one gigantic hand stuck out in front of him.
 
 For a second nobody moved. The girl tipped her head until the fox's nose pointed at Vask's horns. "Is that the king too?" she asked.
 
 "A great deal of him, yes," said Ned in the councillor's voice. He was red right up to his ears. He had never wanted an audience to see him.
 
-"An omission, Majesty," he said, and made his own fist hop onto Vask's wrist. "It's when you miss one."
+"An omission, Majesty." He made his own fist hop onto Vask's wrist. "It's when you miss one."
 
 The older boy began to laugh.
 
