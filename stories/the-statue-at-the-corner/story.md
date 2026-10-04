@@ -212,7 +212,7 @@ The statue looked past her, along the street.
 
 Iona pointed to the ledge continuing around the corner. “On there.”
 
-There were old white scuffs all along the stone. She had thought they were bird droppings. The second arm ended beside the doorway in a square edge, with room for the statue and its slab between the window and the edge. From beside the first window she couldn't see that end at all.
+There were old white scuffs all along the stone. She had thought they were bird droppings. At the square end beside the doorway there was room for the statue and its slab. From here she couldn't see that end at all.
 
 “Do you go round there?”
 
@@ -230,9 +230,9 @@ This time she counted in the solemn way the statue had counted, leaving a great 
 
 She walked toward it. The edge vanished with a scrape.
 
-One of her laces was trailing. A few steps short of the corner, Iona turned her back to the shop and crouched to tie it. The scraping went on behind her. It was probably trying to press itself against the bricks again.
+One of her laces was trailing. A few steps short of the corner, Iona turned her back to the shop and crouched to tie it. The scraping went on behind her, closer and then farther away. It was probably trying to press itself against the bricks again.
 
-Around the shop corner, the second arm was empty. She hurried past its window and looked toward the square edge beside the doorway. Nothing. A scrape came from the first arm, where she had been standing.
+Around the shop corner, the ledge beneath the second window was empty. She hurried to the square end beside the doorway. Nothing. A scrape came from beneath the first window, where she had been standing.
 
 “You're moving!”
 
