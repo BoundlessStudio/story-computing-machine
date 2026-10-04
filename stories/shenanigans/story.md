@@ -326,13 +326,15 @@ Hobnob turned to carry his prize back. The pasteboard cracked against his horn, 
 
 I came off the stool into the nearer guard. The other caught a handful of green cloth to stop me falling, and the neckline began to tear. The stool went over with a crack. I landed on my knees, with Hobnob trying to take my clothes back to Tansy.
 
+Lord Parget rose so fast that his hat slid over one eye. He caught it with both hands and turned his back to straighten it.
+
 I gripped the torn neckline and pulled. The seam gave way. The beard came loose, and Hobnob trotted west with it dangling from his horn beneath the crown.
 
 “Inspection complete,” I said.
 
 The guard tried to haul me upright. I clung to his sleeve and let my knees fold again. He grabbed his companion for help. Across the ring, Tansy took the broken crown and beard from Hobnob and paid him.
 
-“Get up,” said Lord Parget.
+“Get up,” said Lord Parget, still straightening his hat.
 
 I waited until Tansy had slipped the gate rope off its post. She let it fall and stepped over it, Hobnob following. Then I released the guard's sleeve and ducked beneath his reaching hand.
 
