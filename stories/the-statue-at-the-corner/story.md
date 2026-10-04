@@ -76,7 +76,7 @@ She regretted it when the statue put its hands carefully against its skirt. It m
 
 There were footsteps on the other street, coming toward the doorway.
 
-Iona scrambled onto the shin-high ledge, squeezed between the statue and the first window, and crouched with her skirt pulled over her knees. She kept her head below the marble skirt's waist. If her sister came around the corner quickly enough, perhaps she would look at the doorway instead of behind the statue.
+Iona scrambled onto the shin-high ledge, squeezed between the statue and the first window, and crouched with her skirt pulled over her knees. She kept her head below the statue's waist. If her sister came around the corner quickly enough, perhaps she would look at the doorway instead of behind the statue.
 
 The statue bent at its waist, peering.
 
