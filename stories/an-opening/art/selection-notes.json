@@ -12,7 +12,7 @@
     ],
     "sheet_format_reference": "stories/a-beginner-of-considerable-age/art/characters/melicent.webp",
     "identity_reference": "stories/an-opening/title-image.jpg",
-    "notes": "Original generated files retained outside package. Cover normalized to 864x1536 JPEG; sheet saved as 1536x1024 WebP. Color and costume details not specified in prose are visual interpretations and establish no shared canon."
+    "notes": "Original generated files retained outside package. Cover normalized to 864x1536 JPEG; all four character sheets saved as 1536x1024 WebP. Color and costume details not specified in prose are visual interpretations and establish no shared canon."
   },
   "prompts": [
     {
@@ -30,6 +30,59 @@
     {
       "asset": "art/interiors/02-guild-hall-selected.png",
       "prompt": "Use case: precise-object-edit. Edit the attached location oil painting with ONE local correction: replace the two tall narrow backless stools in front of the distant registry counter (near image center) with two modest sturdy freestanding wooden CHAIRS, each with a low visible back and broad seat. The chairs should be close enough to one another to support an axe haft across their seats for a small goblin's practice, with an accessible gap and sensible floor perspective. Keep their scale ordinary, not giant.\nPreserve the painting's architecture, near doorway, firelight, sun stripe, notices, registry counter with map and ledger, distinct equipment desk and closed cupboard on right, lantern/rope, all tables, banners, palette and expressive opaque oil strokes. Do not add people, an axe, text, extra clutter or glowing magic. Only change those two seats. Keep landscape 1536x1024 and the same Group of Seven inspired painted treatment."
+    },
+    {
+      "asset": "art/characters/vorrick.webp",
+      "prompt": "Use case: illustration-story. Asset: INDIVIDUAL character reference sheet for finished short story \"An Opening\", landscape 1536x1024. Image 1 is the accepted cover: IDENTITY and CLOTHING reference for the specified character only. Image 2 is Sir Tallow's accepted sheet: FORMAT/PAINTING STYLE reference only; never turn this character into that goblin. Use the same cream painted ground, broad varied opaque oil strokes, selective impasto, connected soft shadows and Group of Seven inspired treatment. Clearly separated readable full-body views, expression close-ups, and relevant prop studies. Same identity and costume across all views. Grounded cloth and leather, coherent joints and hands, no glossy rendering. Character name and story title each printed once in large readable serif type. No other party members, modern objects, battle, blood, injuries or extra magic equipment. Fully clothed.\nSubject: Vorrick, the adult orc WIZARD holding the pale book in the left middle of the cover. Preserve his broad olive-green face, heavy brow, short lower tusks, long dark hair drawn back with a few thin braids, thoughtful eyes, tall substantial build, and blue scholar's robes with worn understated ochre edging. His book is bound in PALE CALFSKIN, with simple brown/brass fastenings; it is treasured and carefully held. No wand, staff or armor. Visible lower clothes and sturdy travel shoes should be modest natural continuations of the cover robe.\nText exactly: \"Vorrick\" and \"An Opening\". Labels: \"Front\", \"Side\", \"Back\", \"Curiosity\", \"Concern\", \"Spellbook\", \"Borrowed lantern\".\nLayout: three full-body front three-quarter, side and back views; two portrait expression studies (excited scholarly curiosity and concern for a friend); one smaller full-body departure pose carrying the same pale book and a CLOSED covered travel lantern. A separate book study and covered-lantern study if space. Preserve the same tusks, face, robe edging, hair arrangement and book dimensions across views. Show a warm person fascinated by old books who worries about his companions. The lantern is practical borrowed equipment, not a magical glowing orb. Keep labels accurately spelled and legible.",
+      "stage": "initial_generation"
+    },
+    {
+      "asset": "art/characters/laureth.webp",
+      "prompt": "Use case: illustration-story. Asset: INDIVIDUAL character reference sheet for finished short story \"An Opening\", landscape 1536x1024. Image 1 is the accepted cover: IDENTITY and CLOTHING reference for the specified character only. Image 2 is Sir Tallow's accepted sheet: FORMAT/PAINTING STYLE reference only; never turn this character into that goblin. Use the same cream painted ground, broad varied opaque oil strokes, selective impasto, connected soft shadows and Group of Seven inspired treatment. Clearly separated readable full-body views, expression close-ups, and relevant prop studies. Same identity and costume across all views. Grounded cloth and leather, coherent joints and hands, no glossy rendering. Character name and story title each printed once in large readable serif type. No other party members, modern objects, battle, blood, injuries or extra magic equipment. Fully clothed.\nSubject: Laureth, the adult female ELVEN BARBARIAN behind Tallow at center-right of the cover. Preserve her fine cheekbones, long pointed ears, brown eyes, brown hair tied back in the same loose braids, slender athletic build, and dry expressive face. Same practical moss-green and brown travel clothing, rough leather straps and modest cloak as cover, fully covered torso, durable trousers and boots. No glamour costume, exposed midriff, heavy plate or horned helmet.\nHer axe has the cover's simple iron blade and a genuinely long wood haft, suitable for resting across two chairs. A small cord tassel near the axe head is stained with blackberry juice (subtle dull purple-red, never blood or literal fresh fruit).\nText exactly: \"Laureth\" and \"An Opening\". Labels: \"Front\", \"Side\", \"Back\", \"Dry amusement\", \"Impatience\", \"Departure\", \"Long-hafted axe\".\nLayout: three full-body front three-quarter, side and back views, same axe carried safely or slung at shoulder and identical clothing details. Two expressive face studies (dry amusement, impatient concentration). One smaller departure pose with a coil of sound rope over a shoulder and axe retained, both held with sensible hands. A separate axe/tassel prop study. No duplicate limbs or floating rope. Preserve consistent adult identity rather than generic elf variants; readable minimal labels.",
+      "stage": "initial_generation"
+    },
+    {
+      "asset": "art/characters/harn.webp",
+      "prompt": "Use case: illustration-story. Asset: INDIVIDUAL character reference sheet for finished short story \"An Opening\", landscape 1536x1024. Image 1 is the accepted cover: IDENTITY and CLOTHING reference for the specified character only. Image 2 is Sir Tallow's accepted sheet: FORMAT/PAINTING STYLE reference only; never turn this character into that goblin. Use the same cream painted ground, broad varied opaque oil strokes, selective impasto, connected soft shadows and Group of Seven inspired treatment. Clearly separated readable full-body views, expression close-ups, and relevant prop studies. Same identity and costume across all views. Grounded cloth and leather, coherent joints and hands, no glossy rendering. Character name and story title each printed once in large readable serif type. No other party members, modern objects, battle, blood, injuries or extra magic equipment. Fully clothed.\nSubject: Harn, the immense adult male GOLIATH ROGUE bent beneath the lintel at the top of the cover. Preserve that exact bald head, slate-gray skin, heavy brow, long broad angular face with subtle creases/mottling, dark eyes, powerful but calm build, enormous careful hands and quiet observant expression. His clothing is the same dark blue-black soft travel cloth/leather, broad brown straps and brass buckles of the cover; fully sleeved, practical flexible boots, no bulky plate armor or fantasy assassin spikes. Tall around eight feet; fit the whole body into each view by using appropriate sheet framing. He looks physically immense while moving with care.\nStory props: a narrow soft leather TOOL WALLET kept INSIDE one sleeve, with slender tools in fitted pockets. One curved-tip latch tool matching the tool shown on Sir Tallow's sheet. Keep it small enough to lie across Harn's enormous palm; no giant crowbar. The sleeve wallet is discreet and narrow, not a belt suitcase. A pose may show it unfolded in his hands.\nText exactly: \"Harn\" and \"An Opening\". Labels: \"Front\", \"Side\", \"Back\", \"Quiet observation\", \"Hurt restraint\", \"Tool wallet\", \"Latch tool\".\nLayout: three full-body front three-quarter, side and back views, consistent identity and outfit. Two face studies (quiet observation with a trace of dry amusement; hurt restraint, no rage). A smaller crouching pose showing his careful hands and the tool wallet opened, plus wallet and curved tool detail. No other character even in crouching pose. Preserve dignity and credible anatomy; stealth expressed in balanced soft-footed stance rather than invisibility effects. Readable labels, no extra written lore.",
+      "stage": "initial_generation"
+    },
+    {
+      "asset": "art/characters/laureth.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 is Laureth's character sheet, the EDIT TARGET. Correct one repeated prop detail across the sheet: every tassel on her axe must be a small dangling bundle of soft frayed CORD THREADS with muted blackberry-juice stains on the fibers, not hanging fruit. Replace the berry clusters with stained tassel threads on all three full-body axe views, the departure pose axe, the large axe study and the small tassel close-up. The bottom-right tassel study should clearly show tied cord and individual frayed fibers, stained dull purple-red. No berries, beads, charms, blood or drips.\nPreserve everything else exactly: her face and identity, brown braids, ears, practical clothing, all body poses, all axe heads and wood hafts, rope coil, expressions, beige oil-painted background and broad strokes, composition, all readable labels including \"Laureth\" and \"An Opening\". Landscape 1536x1024. Change only the tassels.",
+      "stage": "selected_correction"
+    },
+    {
+      "asset": "art/characters/harn.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 is Harn's character sheet, the EDIT TARGET. Image 2 is Sir Tallow's sheet, a PROP REFERENCE ONLY: the slender tool labeled \"Harn's tool\" is the same object lent by Harn in the story.\nMake one local correction to Harn's sheet: replace the oversized double-ended curved tool in the lower-right \"Latch tool\" study with the SAME single-hooked slender tool from image 2. One fine curved hook at the top, straight thin metal shaft, short warm-brown leather-wrapped grip, lower tail straight and tapered, NOT another hook, NOT a cutting blade. Keep its size appropriate for a narrow sleeve wallet and an enormous palm. Match that slim single-hook identity in the wallet pocket and crouching-hand tool only if needed.\nDo not change Harn's bald slate-gray face, body, head markings, proportions, clothing, straps, boots, views, expressions, crouching pose, wallet construction, cream painted ground, oil strokes or readable labels. Do not add Tallow or any other figure. Keep \"Harn\", \"An Opening\" and all labels. Landscape 1536x1024.",
+      "stage": "selected_correction"
+    }
+  ],
+  "character_sheets": [
+    {
+      "character": "Sir Tallow",
+      "selected": "characters/sir-tallow.webp",
+      "notes": "Existing accepted sheet retained."
+    },
+    {
+      "character": "Vorrick",
+      "selected": "characters/vorrick.webp",
+      "identity_reference": "../title-image.jpg",
+      "format_reference": "characters/sir-tallow.webp",
+      "notes": "Three full-body views, two expressions, departure pose, pale spellbook and borrowed covered lantern."
+    },
+    {
+      "character": "Laureth",
+      "selected": "characters/laureth.webp",
+      "identity_reference": "../title-image.jpg",
+      "format_reference": "characters/sir-tallow.webp",
+      "notes": "Three full-body views, two expressions, rope-carrying departure pose and axe study. Selected correction replaces literal berries with a blackberry-juice-stained cord tassel."
+    },
+    {
+      "character": "Harn",
+      "selected": "characters/harn.webp",
+      "identity_reference": "../title-image.jpg",
+      "format_reference": "characters/sir-tallow.webp",
+      "notes": "Three full-body views, two expressions, crouching tool-wallet pose and prop studies. Selected correction gives the latch tool one slender curved tip, matching the existing Tallow sheet."
     }
   ]
 }
