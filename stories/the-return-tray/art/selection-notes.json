@@ -1,0 +1,56 @@
+{
+  "story": "The Return Tray",
+  "created": "2026-10-04",
+  "generator": "Built-in imagegen",
+  "status": "Interpretation of finished prose; not shared-universe canon.",
+  "selected_location": "art/interiors/02-kitchen-cushion-exchange.png",
+  "original_location": "art/interiors/01-kitchen-original.png",
+  "selection_reason": "The selected correction moves the single cushion from Leonie's white-side chair to the attendant's black-side chair, matching her affectionate competitive gesture. The original preserves the prepared kitchen before the visit.",
+  "inspections": {
+    "cover": "Exact title appears once; adult Leonie is alive and yawning, fully clothed, with dark bob, chandelier earring, rose jacket, grey gloves, one yellow boot and one holed black sock. No gore. JPEG saved at 864x1536.",
+    "character_sheet": "Consistent adult identity, jacket and anatomical sides across front, seated and back views, two expressions and civilian green-coat inset. Boot is on right, missing boot on left in every view. Character and story labels readable. Lossless WebP at 1536x1024.",
+    "location": "Table accessible from both chairs, white/black sides, digital clock, equal biscuit plates, vase moved aside, counter light and single cushion retained; cushion exchange inspected in selected correction. Both originals saved as separate PNGs."
+  },
+  "visual_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Oil brushwork and colour masses for cover and kitchen; inspected before use."
+    },
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.webp",
+      "role": "Sheet format reference only; inspected before use."
+    },
+    {
+      "path": "title-image.jpg",
+      "role": "Accepted Leonie identity and costume reference for sheet."
+    },
+    {
+      "path": "art/interiors/01-kitchen-original.png",
+      "role": "Edit target for selected cushion correction."
+    }
+  ],
+  "assets": [
+    {
+      "path": "title-image.jpg",
+      "prompt": "Use case: illustration-story. Asset: finished short-story book cover, portrait 9:16, exactly 864 by 1536 pixels. Create a new composition for \"The Return Tray\", a dry comic story about a regularly resurrecting adult magical girl and the mortuary attendant she plays chess with. The attached orchard painting is a BRUSHWORK AND COLOUR-MASS reference only; do not reproduce its orchard or landscape.\nCanadian Group of Seven inspired oil painting, broad rhythmic colour/value shapes, directional opaque strokes, selective impasto, connected shadows and lost edges. Quiet, human, wry. Not glossy anime, not horror, no gore.\nA clean mortuary interior: high frosted window, steel slab, a low overhead light fitting, modest desk with a worn closed folding chess set, digital chess clock and small steel effects tray. Central figure: Leonie / Princess Snapdragon, explicitly a twenty-nine-year-old woman, dark chin-length bob, practical adult face. Sitting on the slab fully alive, yawning with one hand near her mouth and a slightly irritated expression, looking towards the foreground desk. Fully clothed heroic jacket in muted rose/cream with ONE enormous rose at a shoulder, small cuff flowers, gloves with grey-stained fingertips, sober dark trousers. ONE bright yellow boot on her anatomical right foot; anatomical left boot missing, black sock with a small heel hole. ONE dangling silver chandelier-like earring in her right ear, left one absent. Coherent anatomy, ordinary human body, no wounds. The missing boot is a comic practical nuisance.\nCompose as an inviting novel cover, not a montage or plot summary: her tired posture and the small chess clock form the visual question; connected muted green/cream shadows, rose and yellow as economical accents, motivated afternoon window light. The attendant's identity need not be shown.\nExact title rendered ONCE, large legible painterly serif type within generous safe margins in the upper quarter: \"The Return Tray\". No author credit, no other text, no border or watermark. Keep all title and subject elements safe for 9:16.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-bda7-7843-8967-288aebe7eda5\\exec-70ea08b4-8af6-4d4e-ac91-5de8f24e3d95.png",
+      "formatting": "Generated 941x1672 source proportionally scaled to required 864x1536 and encoded as JPEG; no painted or text content edited."
+    },
+    {
+      "path": "art/characters/leonie.webp",
+      "prompt": "Use case: illustration-story. Asset: character reference sheet for the finished story \"The Return Tray\", landscape exactly 1536 by 1024 pixels, intended final WebP. Image 1 (cover) is the authoritative visual reference for Leonie's identity and magical outfit; image 2 (Melicent sheet) is FORMAT/PAINTERLY presentation reference only, do NOT copy its character, armour, cape or props.\nCanadian Group of Seven inspired opaque oil style, rhythmic directional brushwork, simplified but coherent human anatomy, cream ground with enough quiet space for readable labels.\nShow the SAME adult woman, Leonie / Princess Snapdragon, explicitly age twenty-nine, dark chin-length bob, adult face, sleepy irritation and dry competitive humour. Match cover face, hair, enormous single rose on her anatomical LEFT shoulder, rose-pink jacket with cream detailing, small cuff flowers, grey-stained cream gloves, dark trousers, ONE yellow boot on anatomical RIGHT foot; anatomical LEFT foot wears only a black sock with a heel hole. One silver chandelier-like earring on anatomical LEFT ear (matching visible cover earring); other earring missing. Preserve these details consistently across every heroic-costume panel.\nThree full-body views: front standing balanced on booted foot, three-quarter seated on a simple stool studying chess, and back standing. Ensure front and back are the same costume and same anatomical sides, no duplicated missing limbs, no mutilation or wounds. Two face/expression studies: yawn and calculating small smile. One small inset of the digital chess clock. Optional small civilian half-body inset in green coat, same face and both earrings, to distinguish Sunday outfit; do not confuse the heroic views.\nReadable exact top labels: \"Leonie / Princess Snapdragon\" and \"The Return Tray\". Smaller labels only if needed: \"Front\", \"At the board\", \"Back\", \"Yawn\", \"Calculating\", \"Sunday\", \"Chess clock\". Clear consistent panels, no comic scene borders, no extra names, no text paragraphs, no watermark. This is a usable multi-view character sheet, not a scene portrait.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-bda7-7843-8967-288aebe7eda5\\exec-df033e6f-a48f-45a1-9d36-d3b9daadc51d.png",
+      "formatting": "1536x1024 source encoded as lossless WebP; pixels unchanged."
+    },
+    {
+      "path": "art/interiors/01-kitchen-original.png",
+      "prompt": "Use case: illustration-story. Asset: original location reference painting for \"The Return Tray\", landscape 1536 by 1024 pixels. Attached orchard painting is reference for oil brushwork and connected colour masses only, not scene content. Canadian Group of Seven inspired oil, broad rhythmic shapes, opaque directional brush strokes, selective impasto, quiet passages and lost edges, no glossy surfaces or theatrical rim light.\nThe retiring mortuary attendant's ordinary home kitchen just before Leonie's four o'clock Sunday visit. No people. A modest kitchen table with two reachable wooden chairs facing each other across a worn folding CHESS board, a plausible simple 8-by-8 board set up for a new game. White pieces nearest the chair on the LEFT of the image, black pieces nearest the chair on the RIGHT. A small digital chess clock stands beside the board. Each place has one small plate with exactly two plain biscuits. A modest cushion sits on the LEFT chair (Leonie's prepared place) in this original version. A vase has been moved onto a side surface away from the table. A warm lamp above the kitchen counter supplies the room's light; the overhead lamp is OFF. Ordinary cupboards and countertop, lived-in and unpretentious, careful preparation revealed by objects. Broad warm cream, muted green and brown masses, connected deep shadows. Focus on table geometry, equal access to the board, the counter lamp and waiting chairs. No large windows that dominate the scene, no sinks or water infrastructure as a focus, no text, no figures, no magic effects. Exact 3:2 landscape composition.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-bda7-7843-8967-288aebe7eda5\\exec-30ed0076-6b7d-407b-adca-7cbee38c5905.png"
+    },
+    {
+      "path": "art/interiors/02-kitchen-cushion-exchange.png",
+      "prompt": "Use case: precise-object-edit. Edit ONLY this original location oil painting for the finished story \"The Return Tray\", preserving its exact 1536 by 1024 landscape dimensions, palette, connected shadows, brushwork, camera, table geometry, cupboards, vase, counter lamp, chess board and pieces, digital clock, plates, and exactly two biscuits per plate. This is the selected correction of the kitchen after Leonie's teasing cushion exchange.\nMove the single green/cream cushion from the LEFT wooden chair onto the seat of the RIGHT wooden chair, without adding a second cushion. The left seat must now be bare wood; right seat carries the SAME cushion. Keep both chairs whole and anatomically plausible as furniture. Change nothing else. No people, no text, no new props, no watermark. Preserve hand-painted oil character; do not smooth it into digital gloss.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-bda7-7843-8967-288aebe7eda5\\exec-e2383304-db83-4666-a1f3-4509f81534d1.png"
+    }
+  ]
+}
