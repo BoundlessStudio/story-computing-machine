@@ -1,0 +1,93 @@
+{
+  "story": "The Last Passenger",
+  "created": "2026-10-04",
+  "tool": "Built-in image_gen.imagegen",
+  "supplied_references": [],
+  "visual_direction": "Canadian Group of Seven inspired oils; motivated moon, studio-window and stairwell lighting.",
+  "collection_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Paint handling and value shapes only; no orchard content reused."
+    },
+    {
+      "path": "stories/friends-of-the-night/art/characters/tavik.webp",
+      "role": "Multi-view sheet layout only; no identity or clothing reused."
+    }
+  ],
+  "selected_location": "landscapes/the-crossing-selected.webp",
+  "assets": [
+    {
+      "path": "../title-image.jpg",
+      "role": "Selected cover",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "format": "JPEG",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-7ac4-70c1-b662-55f350d5378d\\exec-3d97ceed-a05e-420e-bb9c-c6aa834609a4.png",
+      "prompts": [
+        "cover",
+        "cover_aerial_correction",
+        "cover_stair_direction",
+        "cover_door_simplification"
+      ],
+      "postprocessing": "RGB conversion and Lanczos resample from 941x1672 to 864x1536; JPEG quality 96, no chroma subsampling. Title generated in image; no lettering added afterward.",
+      "review": "Exact readable title once. Cerys in blue with yellow bird, no cape or wings, carrying restrained Vane in grey sleeveless vest and boots; coherent cradle carry. Captain navy suit/red cape/white emblem, detached aerial, high station and lower lit roof. Door simplified to top landing and recessed descent. No blood or graphic injury. Earlier cover candidates remain outside package."
+    },
+    {
+      "path": "characters/cerys-skylark.webp",
+      "role": "Selected character reference sheet",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-7ac4-70c1-b662-55f350d5378d\\exec-2bf54ce8-b8f9-459e-a741-69a365068a3c.png",
+      "prompts": [
+        "cerys_sheet"
+      ],
+      "postprocessing": "RGB conversion; WebP quality 96, method 6; source already 1536x1024.",
+      "review": "Readable Cerys / Skylark and The Last Passenger labels; front, hovering side and back full-body views, attentive/afraid faces and earpiece study. Same short dark curls, warm-brown skin, face, blue costume and yellow bird throughout and with cover; no wings, cape, pockets or added lore. Hair/skin/approximate adult age are art interpretations, not shared facts."
+    },
+    {
+      "path": "landscapes/the-crossing-original.png",
+      "role": "Preserved original location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-7ac4-70c1-b662-55f350d5378d\\exec-ceba2fdd-3953-4f78-bc35-29e88c1a8d0e.png",
+      "prompts": [
+        "location"
+      ],
+      "postprocessing": "Original generated PNG copied unchanged.",
+      "review": "Night radio-station/furniture-shop crossing, empty avenue and fallen aerial. Interior doorway steps initially appeared to rise, prompting a separate correction."
+    },
+    {
+      "path": "landscapes/the-crossing-selected.webp",
+      "role": "Selected corrected location painting",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a1069e-7ac4-70c1-b662-55f350d5378d\\exec-34a56e05-1f51-46c3-a213-929d1342f59a.png",
+      "prompts": [
+        "location",
+        "location_stair_correction"
+      ],
+      "postprocessing": "RGB conversion; WebP quality 96, method 6; no resizing.",
+      "review": "Door at roof level now opens onto recessed descending stairs with railing into darker interior. Tall radio station, lower gravel roof/parapet, broken aerial in empty avenue, motivated window/stair light and moon retained. No characters, blood or new shared facts."
+    }
+  ],
+  "prompts": {
+    "cover": "Use case: illustration-story. Create a finished literary short-story cover for The Last Passenger, portrait 9:16, ideally 864x1536. Input image is ONLY a reference for Canadian Group of Seven inspired oil brushwork and organized value shapes, not its orchard subject. Broad varied directional opaque strokes, connected dark shapes, selected impasto and simplified coherent figures/architecture, subdued night palette, no gloss or uniform embossed strokes.\nNight over an evacuated city avenue: a seven-storey radio station on the left, a broad lower third-floor furniture-shop roof on the right with a small open stair doorway emitting yellow practical light. Moon partly behind a strip of cloud. Strong vertical sense of the dark gap between roofs. In the lower-middle, Cerys/Skylark, a slim young ADULT woman with short dark brown curls and medium warm-brown skin, hovers precariously carrying one ordinary adult man in a secure cradle carry, one arm behind his shoulders, one under his bent knees. She wears a simple blue long-sleeved superhero costume with a small yellow bird sewn over the breast, blue trousers/boots, NO cape, NO wings, NO pockets. Vane is in a sleeveless grey vest, trousers and heavy boots, short slicked dark hair, wrist restraints together in front of his stomach. Both are small, embodied figures, anatomically coherent, exhausted rather than glamorous. Far above and behind, a more imposing man stands on the radio-station roof: navy superhero suit, red cape, simple abstract white chest insignia, one hand gripping the broken stem of an aerial whose red warning light is failing. He is a looming silhouette, controlled and frightening, not shouting. Use negative sky and rooftops to invite a story about a rescuer confronting her once-trusted hero; not a crowded plot montage. Moon and lit studio windows motivate light. No blood, corpse, graphic injury, fire, lightning or explosions.\nText verbatim, exact title once only as readable dignified cream painted serif lettering in the upper portion: \"The Last Passenger\". No subtitle, author name, logo or other text. Preserve a generous legible title area.",
+    "cover_aerial_correction": "Use case: precise-object-edit. Edit this cover image with ONE targeted story-fidelity correction: the radio aerial at upper left must be visibly torn free of its roof mountings. Captain Incredible's extended hand grips its jagged broken stem. Tilt the detached aerial away from the roof, with clear empty space at its broken former mounting. Keep the red warning lamp and coherent lattice geometry. It must not look like an intact rooftop mast he is leaning on. Preserve EXACTLY the title \"The Last Passenger\" once, typography, layout, all people, Cerys's appearance and costume, cradle carry, cuffs, lower doorway, moon, night oil brushwork and every other part of the image. Do not add text or new effects. Output same portrait proportions.",
+    "cover_stair_direction": "Use case: precise-object-edit. Reference 1 is the COVER to edit. Reference 2 is a corrected location painting supplying ONLY the stairwell's DOWNWARD direction. Make one targeted correction to reference 1: inside the small glowing doorway at lower right, remove the ascending interior steps. This roof doorway must be at the TOP of stairs leading DOWN to the loading yard. Keep a lit top landing level with the roof threshold, then a railing and recessed stairs descending BELOW the threshold into darker interior. Reference 2 shows the desired downward stair geometry; adapt to the cover perspective and tiny opening. Do not import any other part of reference 2. Keep EXACTLY all people and their faces/poses, secure cradle carry, wrist restraints, Cerys blue/yellow costume, Captain navy/red costume and ripped aerial, moon, city, brushwork, layout and exact readable title \"The Last Passenger\" once. Preserve all other pixels as closely as possible. No new text or effects. Portrait 9:16, ideally 864x1536.",
+    "cover_door_simplification": "Use case: precise-object-edit. Edit ONE small area only: the glowing doorway at lower right of this cover. Remove ALL visible stair steps/treads inside that doorway. Replace the visible stairs with a level small top landing aligned to the roof threshold, warmly lit, and beyond it a DARK RECESSED OPENING that drops downward out of sight. One simple black railing may DISAPPEAR DOWN into the darkness, but NO individual stair treads should be visible at all and no steps may rise above the roof plane. We are simplifying this tiny doorway to communicate a stairwell that goes down, without drawing ambiguous rising steps. Preserve the brick doorframe, open door, lamp, roof gravel and parapet. Preserve exactly EVERYTHING else: all people/identities, carrying pose, restraints, hero costumes, ripped aerial, moon, city, brushwork, exact title \"The Last Passenger\" once, typography and layout. No new text or effects. Portrait 9:16.",
+    "cerys_sheet": "Use case: illustration-story. Asset: landscape character reference sheet, 1536x1024. Reference 1 is the accepted story cover and provides Cerys's identity and costume ONLY. Reference 2 is an existing character sheet for MULTI-VIEW LAYOUT ONLY; never copy Tavik or his clothing. Reference 3 is Canadian Group of Seven inspired OIL BRUSHWORK ONLY, never its orchard subject.\nShow Cerys, hero name Skylark, as the same slim young adult woman from the cover: medium warm-brown skin, short tousled dark-brown curls, defined nose and brows, brown eyes, unmasked face. Blue long-sleeved rescue costume, blue trousers and boots, small YELLOW BIRD sewn over breast, NO cape, NO wings, NO pockets, NO belts/gadgets added. Human flier, not a bird-person. Prose does not fix age/hair/skin; these are consistent art interpretations. Three well separated complete full-body views: front standing, side profile lightly hovering with arms in a cradle-carry position, and back standing. Two larger face expression studies: attentive concentration and frightened determination. A small separate study of a blue-sleeved hand touching a simple radio earpiece may appear if room. Consistent SAME FACE, hair silhouette, skin, suit design and bird emblem orientation across views; coherent hands/anatomy.\nQuiet parchment/off-white background, economical painted captions, broad varied opaque oil strokes, connected shadow shapes, selective thick paint on highlights, quieter skin passages, no glossy 3D sheen, no uniform embossed strokes. Readable labels verbatim: \"Cerys / Skylark\" and \"The Last Passenger\". Small view labels \"Front\", \"Side\", \"Back\", \"Attentive\", \"Afraid\" can be used. No extra lore, scars, injuries, character bio or other text. Avoid any resemblance to Tavik's identity or clothes. No blood or anatomical injury.",
+    "location": "Use case: illustration-story. Asset: location reference painting for The Last Passenger, landscape 1536x1024. Reference image 1 supplies oil brushwork only, never its orchard setting. Reference image 2 is the story cover for the night city, roof design, relative building heights and motivated lighting; use no characters or title. Canadian Group of Seven inspired oils, large connected value shapes, varied directional opaque strokes and selected impasto; darkness, simplified buildings, no glossy 3D rendering.\nPaint the evacuated crossing between two roofs at night, after the incident. View obliquely from the broad THIRD-FLOOR furniture-shop rooftop foreground, with dark gravel, a low brick parapet, and a small stairwell doorway open onto a warm-yellow-lit flight of stairs leading DOWN inside to the loading yard. Across a narrow ordinary avenue is a much taller SEVEN-STOREY radio-station building with broken upper-floor studio windows; its roof is visibly above the observer, roughly four floors higher. The radio aerial has been ripped from its mountings; its bent broken lattice lies across the EMPTY avenue far below. Keep the broken roof mounting visually coherent. Both complete buildings can be glimpsed enough to understand the high-to-low crossing; human-scale low rooftops, not skyscrapers or fantasy towers. A distant skyline recedes in quiet connected shadows. Moon partially obscured by a strip of cloud gives muted slate, grey-violet and soft silver notes; studio windows and stair doorway are only motivated small warm accents, not dramatic orange-blue lighting. Coherent brick/window and stair geometry. Composition should make the lit low door feel reachable across a terrifying dark gap. An evocative location painting, not a labeled diagram or a plot montage.\nNO characters, no blood, no bodies, no fire, no explosions, no lightning, no wings. No text, labels or title. Preserve night, distinct 7th/3rd floor roof levels, gravel/parapet, warm open stair door, broken radio mast and empty avenue.",
+    "location_stair_correction": "Use case: precise-object-edit. Edit ONLY the open stairwell doorway at right of this location painting. In the story this roof door opens at the TOP of a stair flight leading DOWN inside the building to the loading yard. The current image shows steps rising up behind the threshold, which is wrong. Replace those upward steps with a clearly descending stair flight: the roof and door threshold remain one level, then immediately INSIDE the open doorway the stairs drop BELOW the roof level. Show the top landing and railing sloping DOWN away into the building, with lower steps recessed in shadow below the foreground threshold. No exterior stairs going up, no steps ascending to another higher floor. Keep motivated yellow stairwell light and lamp. Preserve the door, brick wall, gravel/parapet, tall radio station, empty avenue, broken aerial in street, moon, skyline, window light, oil brushwork, exact framing and every other part. No people or text. This is a single architectural-direction correction. Output landscape 1536x1024."
+  }
+}
