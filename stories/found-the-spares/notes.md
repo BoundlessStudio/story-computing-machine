@@ -1,0 +1,3 @@
+# Editorial notes
+
+2026-10-03. The prompt's offhand discovery suggested a comic triangle: a homeowner, her practical cousin, and the basement demon he immediately sees as a potential performer. The writer proposed a puppet show and an old unfinished bargain; the coordinator asked for a genuine temptation, an intelligible self-imposed binding, and room for the demon's agency, so contract mechanics and a generic celebration of humble work would not displace the characters. No reference images were supplied. Claude authentication was checked with the inherited API key removed: `claude.ai`, active Max subscription. This story uses a local magic-active setting and makes no new shared canon claim.
