@@ -98,7 +98,7 @@ We carried it between us. Vask stood amid the painted stars, hands neatly claspe
 
 "You must decide how badly you want it."
 
-The box fitted inside my booth. Its little stage would face the audience through the green opening, and we hung Vask's palace shadows on the white wall behind. I put the wooden king away and showed him the other puppets: the princess, the cook, the three identical councillors, and Turnip, whose felt ears were soft from years of squeezing into my bag.
+We set the box on the ledge inside my booth, its little stage level with the green opening. Ned and I would have to crouch behind it. Vask's palace shadows spread over the white wall behind the booth. I put the wooden king away and showed him the other puppets: the princess, the cook, the three identical councillors, and Turnip, whose felt ears were soft from years of squeezing into my bag.
 
 "The king eats these," I said. "One at a time. I give you the cues."
 
@@ -156,7 +156,7 @@ Behind the green curtain, Vask lifted a foot.
 
 He looked down at the little boards. For a moment he stood with one foot raised, so still that I thought something had gone wrong. Then he stepped over the rim of the box and jumped down onto my carpet.
 
-His body grew. His waistcoat buttons climbed past my shoulder. He set a grey foot, long as my forearm, flat on the floor and spread the toes into the pile. The king's hand-head remained at the opening. Above me, two black horns pressed the curtain rail.
+His body grew behind me. His waistcoat buttons climbed past my shoulder. He set a grey foot, long as my forearm, flat on the floor and spread the toes into the pile. The king's hand-head remained at the opening. Above me, two black horns pressed the curtain rail.
 
 "Now," he said.
 
@@ -184,7 +184,7 @@ Vask looked at me from above the curtain. "Why?"
 
 "It has ended."
 
-He had shown me an ending in the basement. I had watched him close that mouth. I'd known perfectly well what he meant, and had chosen to imagine something else.
+I'd known perfectly well what he meant when he'd closed that mouth in the basement.
 
 "They want the dog."
 
@@ -214,17 +214,19 @@ The king's lips twitched.
 
 "A what?" he said.
 
-Ned pulled the green curtain off its hooks.
+Ned looked from my fist to the long grey arm disappearing behind the curtain. He pulled the curtain off its hooks.
 
 It fell around our feet. There I stood in my work shirt with my fist in the air. Ned knelt beside a theatre built for an eight-year-old. And Vask, taller than the door, stood on my front-room carpet with one gigantic hand stuck out in front of him.
 
-For a second we all stared at each other. Ned had never wanted an audience to see him. He was red right up to his ears.
+For a second nobody moved. The girl tipped her head until the fox's nose pointed at Vask's horns. "Is that the king too?" she asked.
+
+"A great deal of him, yes," said Ned in the councillor's voice. He was red right up to his ears. He had never wanted an audience to see him.
 
 "An omission, Majesty," he said, and made his own fist hop onto Vask's wrist. "It's when you miss one."
 
 The older boy began to laugh.
 
-Vask turned toward Ned. His real face was a narrow, furious face with yellow eyes and a mouth full of small teeth. His king's face had one rolling eye and a great empty mouth. He could leave us with both. There was space behind him, all the way to the door.
+Vask turned toward Ned. His real face was a narrow, furious face with yellow eyes and a mouth full of small teeth. His king's face had one rolling eye and a great empty mouth. He could close that hand and walk out. There was space behind him, all the way to the door.
 
 Ned's fist scrambled up his forearm.
 
