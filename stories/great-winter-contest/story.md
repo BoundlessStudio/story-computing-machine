@@ -68,7 +68,7 @@ His stag turned in a great easy arc toward the starting line. He gave it room, a
 
 "We shall be faster than that," she muttered into its neck.
 
-Along the line, a woman in a yellow coat sat inside the curve of a snow serpent. A squat rhinoceros stamped under a rider nearly as broad as its shoulders. There was a bear, a six-legged fox, and a dragon with a magnificent shovel of a tail. The dragon's maker was trimming his tail to keep it from fouling his neighbour. The neighbour was making her fox's grin wider.
+Along the line, a woman in a yellow coat sat inside the curve of a snow serpent. A squat rhinoceros stamped under a rider nearly as broad as its shoulders. There was a bear, a long-backed six-legged fox, and a dragon with a magnificent shovel of a tail. The dragon's maker was trimming his tail to keep it from fouling his neighbour. The neighbour was making her fox's grin wider.
 
 The contest marshal came past on skates.
 
@@ -76,7 +76,7 @@ The contest marshal came past on skates.
 
 He said the last part for the visitors. Under the final leap, the catch-net sagged deep and reassuring between stout posts. A steward below it was eating a bun.
 
-Rilka had walked the course at dawn. Out across the lake to the first gate; over the five frozen ridges of the Frostcomb; a tight bend around the old willow; then up the long ramp to the highest palace terrace. The Seven Steps brought the racers down again. Broad ramps joined the terraces, switching from one side to the other. Straight ahead lay the drops. At the bottom, twenty feet of air separated the last lip from the finish landing.
+Rilka had walked the course at dawn. Out across the lake to the first gate; over the five frozen ridges of the Frostcomb; a tight bend around the old willow; then up the long ramp to the highest palace terrace. The Seven Steps brought the racers down again. Broad ramps joined the terraces, switching from one side to the other. Straight ahead lay the drops; she had seen only fur hats above the terrace edges when the stewards stood on the lower shelves. At the bottom, twenty feet of air separated the last lip from the finish landing.
 
 She had stood there for some time, picturing herself arriving above the net instead of in it.
 
@@ -122,7 +122,7 @@ They landed well past the fourth ridge. The click came back sharper. She had onl
 
 She leaped.
 
-Something in the right heel shifted before it struck the ground. Rilka caught the weight on the left foot and front paws. The hare skidded sideways, throwing up a sheet of powder. Behind her, the rhinoceros bellowed its rider's very human bellow.
+Something in the right heel shifted before it struck the ground. Rilka caught the weight on the left foot and front paws. The hare skidded sideways, throwing up a sheet of powder. Behind her, the rhinoceros's rider bellowed.
 
 "Still ahead," Rilka said. She was breathing through her mouth. "Still ahead."
 
@@ -192,25 +192,25 @@ At the top, the wind slapped the sweat cold against her face.
 
 The lake opened below her, crowded with little dark figures along its edge. She could see Dova's board. Even from here, she was fairly sure Dova was showing the wrong side.
 
-The rhinoceros had reached the first terrace ramp. Ahead of it, the fox took its six neat feet across the second. The serpent flowed down a terrace face, then curled sharply to bring its rider to the next drop. It was gaining on Torren, but every bend cost it a moment of recoil. Torren's stag was already sweeping out of the third ramp, fast enough that its hooves hardly seemed to settle. The long body needed the whole sweep to bring its hind feet through.
+The rhinoceros had reached the first terrace ramp. Ahead of it, the fox was bringing the last of its three pairs of feet down the second drop. The serpent flowed down a terrace face, then curled sharply to bring its rider to the next drop. It was gaining on Torren, but every bend cost it a moment of recoil. Torren's stag was already sweeping out of the third ramp, fast enough that its hooves hardly seemed to settle.
 
-Straight in front of Rilka, each terrace fell a little more than the height of a man's knee. The broad ramps ran left, right, left, making a generous zigzag. The direct drops made one white stairway down to the last lip. Beyond that lip hung the gap, the finish landing, and two red poles.
+Straight in front of Rilka, the drops were as high as a grown person standing on the ice. Between them lay short landing shelves, barely the hare's length from nose to tail. The broad ramps ran left, right, left, making a generous zigzag. The stag could pick its way down those shelves, gathering its long legs after every landing. On the ramps, Torren could let it run. The direct drops made one white stairway down to the last lip. Beyond that lip hung the gap, the finish landing, and two red poles.
 
 With her old bounds, she would rise above each step and come crashing onto the next. She could feel exactly what that would do to the heel.
 
 She lowered the hare until its belly nearly touched the snow.
 
-The first drop arrived.
+The first drop arrived. She let the head pitch forward over the edge instead of bounding out above it. For a moment the hare's backside was higher than her shoulders.
 
 Forepaws down. Shoulders fold. Haunches follow.
 
-It was a rough, fast slide, with a thump when the hind feet met the lower terrace. Rilka clenched her teeth, waiting for the heel to give. Its weight came through her hand and settled.
+The forefeet struck the lower shelf. Rilka folded the shoulders under the impact, taking the weight through them before the haunches came down. The shock kicked into both elbows. The heavy heel hit last, with a hard thump. She clenched her teeth, waiting for it to give. Its weight came through her hand and settled.
 
 She was already at the second edge.
 
 The rhinoceros turned ponderously onto its ramp. Rilka dropped past its great square head. Its rider shouted something she couldn't hear.
 
-Third step. Her cape streamed over the edge behind her. The fox was on her left, halfway through its traverse. She flashed ahead of its nose.
+Third step. Her cape streamed over the edge behind her. The fox was on her left, its front feet already on the lower shelf, its last pair still on the ledge above. Its rider was folding the middle legs to bring the long body through. Rilka landed beside its nose and darted ahead before the rear feet came down.
 
 The sequence was quicker than she had practised. One shoulder would fold before the other; she had to pull them even. The hare's body wanted to slew sideways under the heavy heel. She drove the left hind foot a little harder and caught the balance. Her hands had become two cramped hooks in the snow.
 
@@ -238,9 +238,9 @@ It was sound. It was stiff. She could feel the thick packed joint refusing the l
 
 To her left, the stag sprang. Its antlers caught the sun.
 
-Rilka bent so low that her cheek touched the hare's head. She shortened the left leg's fold to match the right, pulled the shoulders tight, and sent one final movement through the whole back.
+Rilka bent so low that her cheek touched the hare's head. She shortened the left leg's fold to match the right, pulled the shoulders tight, and planted both hind feet against the lip.
 
-The heavy heel drove against the lip.
+The heavy heel bit. She drove the folded haunches open against the planted feet, flinging the hare forward and up.
 
 They were out above the net.
 
@@ -296,15 +296,15 @@ The marshal called them to the little platform. Torren took second place; the se
 
 From the grandstand, nine hundred people tried to pronounce her name at once.
 
-Dova leaned against the ladder, holding the board with *White Thunder* facing out. A small boy beside her pointed at the fallen hare, then at the cup. Dova shook her head. The boy considered this and pointed at the hare again.
+Dova leaned against the ladder, holding the board with *White Thunder* facing out. A small boy waited beside her, looking from Rilka to the fallen hare.
 
 Rilka came down from the platform with the cup locked against her ribs.
 
-"Can he sit on it?" Dova asked.
+"Can I ride it?" the boy asked.
 
-"Of course. It won't move without me."
+"You can sit on it. It won't move without me."
 
-"He asked if he could ride it."
+"He asked if he could ride it," Dova said.
 
 Rilka looked at the hare's battered flank. Then she looked at the boy, who had both mittens pressed over his mouth. Behind him, three other children were pretending not to wait.
 
