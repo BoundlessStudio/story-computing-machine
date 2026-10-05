@@ -158,7 +158,7 @@ Mavis held the gap where it was. She was braced sideways between door and frame,
 
 The opening was wide enough for a person. It wasn't wide enough for her spread wings. The left one was pinned flat against the back panel, with the hook through its stiff feathers beside her spine. There was no room to turn the wing and lift it off; any tug would pull at her shoulder.
 
-"Can't you break that bit?" Mavis asked.
+"Can I break that bit?" Mavis asked.
 
 Nika felt behind her with one hand, but couldn't reach the hook's base or turn far enough to see it.
 
@@ -212,7 +212,7 @@ The door held.
 
 Alma grinned, briefly and fiercely. "Got it."
 
-The cabinet shook itself. The knob creaked in its socket.
+Mavis reached into the gap, and Nika stretched her free hand toward hers. The cabinet bucked; the ledge under Mavis's boot on the door broke away. She swung down around the outside, caught a lower stretch of frame with one hand, and reached back toward Nika. Her fingertips stopped below the shelf, and the knob creaked in its socket.
 
 Nika had watched Alma's little knot outlast a bag handle. The knot would hold. The knob might not.
 
@@ -328,7 +328,7 @@ Nika put her hand over the keys. Mavis let her take them.
 
 "Yes. Good."
 
-Nika unlocked the car. Alma climbed into the back, quietly for once, and Nika got her coat from behind the passenger seat.
+Nika unlocked the car. Alma climbed into the back, quietly, and Nika got her coat from behind the passenger seat.
 
 She put it on. She could feel the cold now, and her shoulder hurt. There were bits of glass in the tread of her shoes. For a moment, while she tried to get her arm into the second sleeve, the pavement seemed much too far away.
 
