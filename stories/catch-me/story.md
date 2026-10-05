@@ -64,7 +64,7 @@ Nika was about to explain her Wednesday route, including the shortcut Alma would
 
 One horse remained at the top of its pole. Another hung low. Their painted eyes all faced the street.
 
-Two eyes opened in the tall cabinet's carved crest, above the glass door.
+A tall display cabinet beside it opened two eyes in the carved crest above its glass door.
 
 "Oh," Alma said.
 
@@ -120,7 +120,7 @@ It struck the glass against Nika's palms. Pink light raced up the cabinet in gre
 
 The cabinet stopped giggling.
 
-It scrambled backward. Its legs extended, lifting Nika above the toy-shop roof. The movement drove the hook deeper through the stiff feathers at her wing's root.
+It scrambled backward. Its legs extended, lifting Nika above the toy-shop roof. The movement drove a hook deeper through the stiff feathers at her wing's root.
 
 Pain flashed across her shoulder.
 
@@ -156,11 +156,11 @@ Behind Nika, the hook shifted.
 
 Mavis held the gap where it was. She was braced sideways between door and frame, her small boots planted on opposite edges. Nika could see the muscles standing out in her arms.
 
-The opening was wide enough for a person. It wasn't wide enough for her spread wings. The left one was pinned flat against the back panel, with the hook through its stiff feathers beside her spine. There was no room to turn the wing and lift it off; every tug pulled at her shoulder.
+The opening was wide enough for a person. It wasn't wide enough for her spread wings. The left one was pinned flat against the back panel, with the hook through its stiff feathers beside her spine. There was no room to turn the wing and lift it off; any tug would pull at her shoulder.
 
 "Can't you break that bit?" Mavis asked.
 
-Nika felt behind her with one hand. The hook was close to her spine. Its tip had gone through two layers of feathers. She could not even turn to see its base.
+Nika felt behind her with one hand, but couldn't reach the hook's base or turn far enough to see it.
 
 "Not without twisting me."
 
