@@ -12,13 +12,15 @@ Mavis looked up at him beneath her pink curls. In this body she was thirteen, tw
 
 The boy inspected the till. Nika inspected the ceiling.
 
-It wasn't the correction. They did want their money back. It was the *love*, and the way Mavis had licked her thumb to separate the notes, and the fact that the deadliest person Nika knew was presently asking whether they still did the loyalty card.
+It wasn't the correction. Nika did want their money back. It was the *love*, and the way Mavis had licked her thumb to separate the notes, and the fact that the deadliest person Nika knew was presently asking whether they still did the loyalty card.
 
 Mavis caught a bottle the boy knocked off the counter. A pink flower opened under it; the bottle sank gently into the light. She returned it upright, accepted their change, and put the receipt in her sleeve.
 
 "There. Supper."
 
 Outside, twelve-year-old Alma was trying to tie the torn handle of their equipment bag. She had already joined the two ends with a loop of green light. She put a finger through the loop and pulled. The canvas strained; the knot stayed exactly the same size.
+
+She tried to squash the loop between her palms. It stayed round.
 
 "I can carry it now," she said.
 
@@ -62,7 +64,7 @@ Nika was about to explain her Wednesday route, including the shortcut Alma would
 
 One horse remained at the top of its pole. Another hung low. Their painted eyes all faced the street.
 
-The tall display cabinet beside them opened its eyes.
+Two eyes opened in the tall cabinet's carved crest, above the glass door.
 
 "Oh," Alma said.
 
@@ -76,7 +78,7 @@ Mavis was off the wall before her chips hit the pavement.
 
 Nika dropped both bags. One wingbeat put her level with the thing's carved top.
 
-There was only one. Its eyes rolled upward to follow her. Along the inside of its door sat rows of dolls, each held upright by a bright little hook.
+There was only one. Its eyes rolled upward to follow her. Along the inside of its door sat rows of the shop's china dolls, with porcelain faces and limp cloth legs. Paper price tags hung from their wrists; bright little hooks held them upright.
 
 "New ones," it said, in a voice like a music box winding down. "Three new ones."
 
@@ -94,7 +96,7 @@ They didn't crush it. They stroked the violet feathers flat.
 
 "Mind the paint."
 
-Nika beat the free wing, hard enough to wrench her back. The thing folded her into its top compartment. Its door swung shut. Something caught behind her shoulders; the left wing stopped moving.
+Nika beat the free wing, hard enough to wrench her back. The thing folded her into its top compartment. Her feet struck the upper shelf. Its door swung shut. Something caught behind her shoulders; the left wing stopped moving.
 
 She slammed both hands against the glass.
 
@@ -102,7 +104,7 @@ She slammed both hands against the glass.
 
 Below her, Peony went still.
 
-The cabinet bent its head toward her. It had to fold itself almost in half to look her in the face.
+The cabinet bent forward, bringing its carved face down toward Mavis.
 
 "Little doll," it crooned. "Your turn."
 
@@ -118,7 +120,7 @@ It struck the glass against Nika's palms. Pink light raced up the cabinet in gre
 
 The cabinet stopped giggling.
 
-It scrambled backward. Its legs extended, lifting Nika above the toy-shop roof. A hook inside turned with the movement, winding the root of her trapped wing around itself.
+It scrambled backward. Its legs extended, lifting Nika above the toy-shop roof. The movement drove the hook deeper through the stiff feathers at her wing's root.
 
 Pain flashed across her shoulder.
 
@@ -154,7 +156,7 @@ Behind Nika, the hook shifted.
 
 Mavis held the gap where it was. She was braced sideways between door and frame, her small boots planted on opposite edges. Nika could see the muscles standing out in her arms.
 
-The opening was wide enough for a person. It wasn't wide enough for her spread wings, and the left one was wrapped around a hook that had slid behind a shelf. Pulling it free would pull her through the shelf first.
+The opening was wide enough for a person. It wasn't wide enough for her spread wings. The left one was pinned flat against the back panel, with the hook through its stiff feathers beside her spine. There was no room to turn the wing and lift it off; every tug pulled at her shoulder.
 
 "Can't you break that bit?" Mavis asked.
 
@@ -190,7 +192,7 @@ Mavis glanced down. Her fingers tightened on the door.
 
 Alma's face lifted when she heard her name.
 
-Nika pointed through the gap. A carved knob stood on the door's upper corner. Its matching knob was on the frame, above Mavis's foot.
+Nika pointed through the gap. A carved knob stood on the door's upper corner. Its matching knob stuck out of split wood on the frame, above Mavis's foot.
 
 "Tie those two. Keep them this far apart."
 
@@ -198,11 +200,11 @@ Alma came out from under the canopy. The cabinet's loose legs stamped; she ducke
 
 Mavis watched the second end climbing toward the frame.
 
-"The broken side won't take it," she said. "Use the big hinge. Behind my heel."
+"The broken side won't take it," she said. "Use the brass catch. Just below my heel."
 
 "I can reach," Alma said.
 
-Her cord changed direction. It passed twice around the hinge, came back through its own loop, and pulled tight. Alma closed her fingers. The knot shone white at its centre.
+Her cord changed direction. It passed twice around the catch, came back through its own loop, and pulled tight. Alma closed her fingers. The knot shone white at its centre, and the green line set rigidly across the gap.
 
 Mavis eased one hand away.
 
@@ -228,11 +230,11 @@ Mavis let go.
 
 For one dreadful moment she was falling too. Then a flower flared beneath her feet. She landed in a crouch, and the flower flattened and burst.
 
-The cabinet lurched sideways. Nika's cheek struck the frame. Below, Mavis ran with it, keeping herself under the opening. Alma's second cord looped around the door and back to the heavy hinge.
+The cabinet lurched sideways. Nika's cheek struck the frame. Below, Mavis ran with it, keeping herself under the opening. Alma's second cord looped around the door and back through the heavy brass catch.
 
 "Done!" Alma shouted.
 
-The first knob tore loose. Its green loop snapped inward. The second knot caught the door before it could close, and the glass shuddered a hand's breadth from Nika's face.
+The first knob tore loose inside its green loop. The second knot caught the door before it could close, and the glass shuddered a hand's breadth from Nika's face.
 
 Nika's breath came in little bites. She could not seem to fit enough air into her chest.
 
@@ -294,7 +296,7 @@ Mavis planted one heart-shaped boot on its fallen head.
 
 "Yes. All four."
 
-Nika held Alma's sleeve while she worked, keeping her back from the broken glass. Alma pulled her loop tight, and Nika let her finish.
+Nika held Alma's sleeve while she worked, keeping her back from the broken glass. Alma tightened the final loop, and Nika offered her a hand across the glass.
 
 By the time the street wardens arrived, the cabinet was still breathing but had stopped ticking. Mavis gave them a very precise account of which arm it had lost and where the other hooks were.
 
