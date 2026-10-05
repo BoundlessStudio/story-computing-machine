@@ -1,0 +1,57 @@
+{
+  "story": "The Goat of Honor",
+  "created": "2026-10-04",
+  "generator": "Built-in imagegen",
+  "status": "Interpretation of finished prose; not shared-universe canon.",
+  "selected_location": "art/landscapes/02-reviewing-ring-selected.png",
+  "original_location": "art/landscapes/01-reviewing-ring-original.png",
+  "selection_reason": "The selected correction gives the trees the prose's blue foliage and clarifies the short open ground between the west gate and wagon. The original is preserved separately.",
+  "inspections": {
+    "cover": "Exact title rendered once. Grey goat, cream beard, crooked anatomical left horn and irregular white flank patch agree with the sheet. Nico wears a grey hoodie, red trainers and torn green tabard with crowned turnips; no attached magical beard. Comfortable ordinary animal, coherent limbs, readable title and painterly fair setting. JPEG saved at 864x1536 after proportional resizing.",
+    "character_sheet": "Four coherent full-body views or poses and two expression studies share Hobnob's face, beard, horn asymmetry and flank patch. Name and story title are readable; oat cake, dented tin and pasteboard crown support the routine. WebP saved at 1536x1024.",
+    "location": "Two ropes form the temporary ring, with an open west gate, nearby red tent and wagon with lowered tailboard, harnessed bay pony, and east awning/stools. The selected image retains striped tents and wooden fair wheel while correcting blue foliage and walkable exit ground. Original and selected PNGs saved separately at 1536x1024."
+  },
+  "interpretations": "Nico's physical appearance beyond his specified clothes, the white patch's left-flank placement, and minor fair/wagon decoration are visual choices, not additional prose facts or canon.",
+  "visual_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Inspected oil-brushwork and value reference; supplied to sheet, original location and cover."
+    },
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.webp",
+      "role": "Inspected sheet-format reference only."
+    },
+    {
+      "path": "art/characters/hobnob.webp",
+      "role": "Inspected accepted goat identity reference for cover."
+    },
+    {
+      "path": "art/landscapes/01-reviewing-ring-original.png",
+      "role": "Inspected target for selected location correction."
+    }
+  ],
+  "assets": [
+    {
+      "path": "art/characters/hobnob.webp",
+      "prompt": "Use case: illustration-story. Create a landscape 1536 x 1024 character reference sheet for Hobnob, the performing goat in The Goat of Honor. Paint in Canadian Group of Seven inspired oils: broad rhythmic opaque colour shapes, varied directional brushwork, selective impasto, quiet connecting passages, matte surfaces and connected shadows. This is a consistent ordinary living goat, never humanoid: short grey fur, cream beard, two horns with the LEFT horn visibly crooked, and an irregular white patch on his left flank like an unfinished country. Show the identical animal in three clearly separate full-body views (front three-quarter, left profile, rear three-quarter), plus a bow pose with bent front legs and raised hindquarters. Include two small head/expression studies, alert and patiently stubborn, with the same face and horn asymmetry. An optional small prop study shows a simple gold-painted pasteboard crown, a dented oat-cake tin and an oat cake. Cream painted background, spacious readable composition, anatomically coherent four legs and hooves in every view. Exact readable text at upper left: Hobnob, then The Goat of Honor. No other story title, no watermark, no glossy 3D surfaces, no magical glow. The oil-painting reference supplies brushwork and value organization only; replace its orchard subject entirely with this goat sheet.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a108a0-d7f7-7041-875d-2421e7a08187\\exec-8c0b6a51-6d85-4089-a415-f4b728bf9be1.png",
+      "formatting": "RGB WebP encoding, 1536x1024; no composition changes."
+    },
+    {
+      "path": "art/landscapes/01-reviewing-ring-original.png",
+      "prompt": "Use case: illustration-story. Paint a landscape 1536 x 1024 location reference for the traveling fair's reviewing ring in The Goat of Honor. Canadian Group of Seven inspired oil painting with broad rhythmic opaque strokes, quiet linking passages, selective impasto, connected shadows, simplified architecture and natural warm afternoon light. The ring is a modest temporary rectangular enclosure formed by two ropes strung between ordinary wooden posts on dry grassy ground. From an oblique elevated viewpoint, show the WEST service-gate opening in the left foreground, a red tent just outside it and a small plain wooden wagon with lowered tailboard tucked behind that tent; a shaggy bay pony stands quietly harnessed to the wagon. Across the ring at the EAST side, show a red canvas awning and a few low viewing stools. Beyond, striped fair tents and a simple turning wooden fair wheel, with blue-leaved trees at the edge of the field. The space is small and practical, never a palace, arena, permanent fence, irrigation work or monumental plaza. Preserve a clear visual route from gate to wagon and enough open ground between gate and awning. A location painting with no named actors and no plot action, no labels or text, no magical glowing props. The style reference is only for oil brushwork and organization of light; entirely new fair setting.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a108a0-d7f7-7041-875d-2421e7a08187\\exec-2a98b851-a135-4111-85d4-fad026ce667a.png"
+    },
+    {
+      "path": "title-image.jpg",
+      "prompt": "Use case: illustration-story. Create a literary comic-fantasy book cover, portrait 864 x 1536, 9:16. Exact title once, clearly readable: The Goat of Honor. Place the title in confident cream serif lettering across the upper sky with generous margins. Foreground: Hobnob, a grey ordinary goat with a cream beard, crooked LEFT horn and irregular white left-flank patch, regards the viewer with patient stubbornness beside a small gold-painted pasteboard crown. A youthful adult newcomer in a grey modern hoodie, red trainers and a green long tabard embroidered with little crowned turnips stands beside a wooden performer's wagon farther back; his costume neckline is comically torn, his posture is wary rather than heroic. His hood can be down; no long beard attached to him. A few striped fair tents, a red awning, and blue-leaved trees recede behind them in warm afternoon daylight. Compose a novel cover around goat, costume and the small promise of shelter, with one inviting visual tension rather than an illustrated plot summary. Canadian Group of Seven inspired oil paint: broad rhythmic colour/value shapes, varied opaque strokes, simplified figures, subtle impasto, joined shadows and lost edges, natural motivated light. Soft cream, grey, muted red and greens with the story's blue foliage; avoid automatic orange-blue contrast, glossy faces, rim lighting, weapons, violence, or distressed animals. The goat-sheet reference defines Hobnob's identity only; the orchard reference defines painterly style only. Do not reproduce reference labels or orchard scene.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a108a0-d7f7-7041-875d-2421e7a08187\\exec-bc95cde9-a0a9-45d7-a6fb-c124c606ad08.png",
+      "formatting": "941x1672 generated source proportionally resized to 864x1536 and JPEG encoded; no cropping or added text."
+    },
+    {
+      "path": "art/landscapes/02-reviewing-ring-selected.png",
+      "prompt": "Edit the supplied original fair location painting. Keep its composition, temporary two-rope rectangle, west service gate in the left foreground, red tent, plain wooden wagon with lowered tailboard and harnessed bay pony, east red awning/stools, striped tents, wheel, and Canadian Group of Seven inspired oil brushwork. Make a focused story-fidelity correction: change the trees' leaf masses to visibly BLUE foliage (muted cobalt, slate, and blue-violet; trunks and grass remain natural), as explicitly described in the story. Also clarify the short walkable passage from the west service-gate opening to the wagon's lowered tailboard with a small branch in the trodden ground; keep the route unobstructed and only about six adult paces. Preserve the rest of the enclosure and open ground. Keep lighting, warm dry grass, palette balance and all other details consistent. No characters, no labels, no added structures. Return the complete landscape image at 1536 x 1024.",
+      "source": "C:\\Users\\jamie\\.codex\\generated_images\\01a108a0-d7f7-7041-875d-2421e7a08187\\exec-2fca330a-b0fb-434a-9ee7-c12e903ab46c.png"
+    }
+  ]
+}
