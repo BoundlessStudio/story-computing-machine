@@ -1,537 +1,457 @@
 ---
-title: The Other Hand
+title: All at Once
 created: 2026-10-07
 canon: false
 ---
 
-# The Other Hand
+# All at Once
 
-The fox put its little wooden paw on my wrist.
+The first person I caught was falling.
 
-I was repairing its jaw before dawn. All its strings lay in a heap beside the sewing machine, and both my hands were occupied: one held the head, the other a screwdriver. The fox's paw rose, settled on my wrist, and pressed.
+A man in Manila had been cleaning the outside of an office tower. The platform dropped away from his feet. He reached for a rope, missed it, and felt the building rise past him. He thought of the cigarette he had left on the parapet. He had promised his wife he had stopped.
 
-“Behave,” I said. Talking to puppets was a habit I had failed to lose.
+Then the air took his weight.
 
-It pressed harder. The screwdriver slipped. Then the whole fox lifted out of my hand, hit the lampshade and fell into the tray of spare eyes.
+He hung below the broken platform. His feet pointed at a road. He tried to move one hand and rose three storeys, screaming. The men above him screamed back. One was holding out a ladder which could no longer reach him.
 
-From across the landing came a woman's scream. I dropped the screwdriver and ran.
+I was in Bristol, in a radio studio, with the weather half-read on the screen. My knees had given way. The producer caught my head before it hit the desk.
 
-Harriet stood in her doorway with both hands held away from her. Something orange flowered in her palms. She shook her hands, and the flowers flew down the corridor and caught in the doormat.
+But the man was still rising inside me, and a woman was falling in São Paulo, and a boy was falling out of bed, and someone on a mountain had begun to fall upward, carrying a tent and two sleeping friends with him.
 
-“Get them off,” she said.
+I could feel the sleeping friends begin to wake.
 
-I stamped on the mat. While I was doing that, another flame appeared. Harriet shut her eyes and a sheet of fire went up between us. I fell backward through my own front door. When I crawled out again, she was staring at her empty hands.
+"Darya. Look at me."
 
-Outside, a man rose past the landing window. His slippers were still on his feet. He reached for the sill, missed it, and continued up.
+My producer had a name. I knew it. I had used it every morning for four years. There were too many other names between us now.
 
-It was just after four where we lived. Elsewhere people were eating lunch, getting married, finishing shifts. Later, when there were enough working clocks and enough people to compare them, it turned out to have begun everywhere at the same instant. No light in the sky, no noise, no warning anybody could agree on. A woman bent to lift her child and went through him. A man reached for a door and tore it from its frame. People disappeared from beds beside people who remained asleep.
+A woman fell down a flight of stairs in a building close enough that she might have heard our station through an open window. Her orange key tag turned in the air ahead of her. 4B. She was trying to catch the rail with her left hand. There was a crack in the thumbnail, a yellow crescent of old varnish. She thought, with immense irritation, that she had just paid to have these shoes resoled.
 
-Forty per cent of us had powers. That was the figure the surveys eventually settled on. The figure for the first twenty-four hours was 1.3 billion dead or missing.
+The stairwell burst around her.
 
-At the time I knew Harriet, the burning mat, and the slippers dwindling above the roofs. I knew that the fox had moved without me. Those were enough things to know at once.
+I lost her.
 
-We got out of the building. Harriet kept her hands open, as if somebody had asked to inspect them. On the street, a delivery driver was holding up the front of a crushed car while two other people pulled its passenger free. He asked where he should put it. Nobody could tell him.
+"You're falling," my producer said. "Hold on to something."
 
-There was a covered shape beside the bus stop. The covering was somebody's coat. I stopped looking at it, then looked again, because I thought I ought to remember the colour.
+I held on to falling.
 
-My phone rang.
+It was the only distinction I could make. Falling people were a thread through a roar which had no edges. When I followed the thread, other things grew quieter.
 
-“It's Silvie,” the voice said. “Where's Anton?”
+A man fell from a burning aircraft into the Atlantic. He struck the water, went down into darkness and came up whole, amazed that he could still breathe. He waved at the empty sky. He could survive the fall. He could not make anyone see him.
 
-I told her I didn't know.
+A woman fell off a bicycle in Seoul. Both palms hit the road. The surface became soft as a mattress. Cars sank to their axles around her. A bus stopped in a trough of black rubber, its driver leaning on the horn. She laughed once, and the bus kept sinking.
 
-“He got up for a drink. I heard the glass. Then I heard the glass break. He's gone.”
+In a church in Lagos, people caught a boy who had jumped from the gallery because he had watched his sister float. His sister was trying to get down. He had broken an arm. Their mother climbed onto the pews with a broom and pulled the floating girl within reach.
 
-“Gone where?”
+Someone was falling in love. I got a flash of a woman's face across a restaurant table, the shock of wanting to leave a life that had seemed settled until that second. I dragged myself away from her with an effort which felt rude.
 
-She made a sound that wasn't a word.
+It was early morning where my body sat. Elsewhere the event had arrived in the middle of meals, arguments, births, sleep. There was no announcement to hear before it, no flash everybody could later agree they had seen. There was only a world in which impossible things had begun happening, and people still reaching for the ordinary thing that might stop them.
 
-Silvie was my brother Anton's flatmate. That was how I thought of her, though he had corrected me twice. I had met her at a birthday dinner eight months earlier and spent most of it talking about the show. Dad had died two winters before, and I was still using his scenery. At the end, Anton had walked me to the tram stop and said, “You know I've left, don't you?”
+The studio clock said 05:17.
 
-“I haven't asked you to come back.”
+The hours I remember below begin there.
 
-“Not today.”
+## The first hour
 
-We hadn't spoken much afterward. I had sent him photographs of a new set. He had sent me a picture without a message. I had left it as an empty grey download box.
+My producer put headphones on me. They did nothing. He took them off again and held a mug against my hands until I remembered which hands were mine.
 
-Now I told Silvie to check the stairs, the roof, the cupboards. She had already checked all of them. The front door had been locked from inside.
+"Is it a fit?"
 
-“I'll come,” I said.
+I could not answer. Somewhere a man had become larger than the room he was in and was trying to crouch without bringing it down. Somewhere a woman had opened her front door and walked into the kitchen she had left twenty years before. The people now living there asked who she was. She asked who they were. Neither question made the door close.
 
-It took me six hours to cross the city. I found her sitting on his kitchen floor beside a glass she had collected into a dustpan. I searched the cupboards myself. She let me.
+I needed someone who knew what was happening.
 
-All that day, and the next, something pulled at things near my left hand. If I reached for a cup, it rose before my fingers touched it. If I put the cup down, it slid back toward me. I could force it away by concentrating, but then it trembled on the table. Turning out a light made the pulling worse. I began to sleep with my bedside lamp on, although I hardly slept.
+The need narrowed me.
 
-At a hospital entrance I saw a woman walk backward out of a crowd that had gathered around her. The crowd followed. Someone kept shouting, “She was dead. Ask him. She was dead.” The woman had a child's shoe in her hand and wanted everyone to move so she could find its owner.
+A policeman in Mumbai knew the thing in front of him was a bomb. It had a boy's face and it was giving off enough light to make the shadows jump. He ordered people back. The boy called for his father. His father tried to reach him. The officer caught the man's shirt, afraid for him, afraid of him, absolutely certain they had seconds before everyone on the street died.
 
-For an hour I thought Anton might simply walk up a street. Then I spent another hour checking streets.
+A woman in a farmhouse outside Toulouse knew it was the end of the world. She had been ready for it for thirty years. She packed bread, a blanket and a pistol. Her grown son stood in the doorway with antlers pressing against the lintel and asked her to help him turn sideways.
 
-By the third evening I was back at the theatre. Its owner had vanished, but the door was open and I had a key to the storeroom. People were sleeping between the rows of seats and on the stage. A boy who couldn't touch a radio without making it change stations sat beside it with his hands under his thighs. Outside, someone had turned a parked car into a heap of something like white salt. Nobody wanted to step in it.
+A surgeon knew someone had attacked the hospitals. Every monitor in her ward had begun displaying the same patient's heartbeat. Beside her, a cleaner had a palm against the mains cabinet and was begging the machinery to stop shouting. In his head the entire ward was one screaming animal. He was trying to quiet it. The surgeon could not hear what he heard.
 
-Harriet was there. Somebody had brought her across town after the fire crews ran out of places to send people. Her palms were clean. The cuffs of her cardigan were gone.
+Their certainty was solid enough to stand on. I did not yet know that what came to me was the force of a belief, not the thing which made it true.
 
-“Does it hurt?” I asked.
+Closer, a man in an ambulance uniform was trying to isolate a woman whose skin shone through her clothes. She had touched an injured boy. A light had run along his arm. The man had watched it happen and put the pieces together with terrible speed: contact, transmission, the next carrier. There were other glowing people on his street. He needed the crowd to move.
 
-“Not till I try to stop it.”
+Our microphone was still live. The weather screen waited for the next sentence.
 
-She showed me her wrists. They were bruised. She had tried wrapping her hands together with a dressing-gown belt.
+"Keep your distance from people giving off light," I said. "Don't touch them. It passes by contact."
 
-“I was nearly asleep,” she said. “Then it started. So I opened my eyes. It went away.”
+My producer stared at me.
 
-Her husband was in another town. They had spoken that morning. She kept saying this when anyone asked whom she was waiting for.
+Then he looked through the window at the street, where someone was shining beside an overturned van, and turned my fader up.
 
-I got blankets out of the prop cupboard. It took longer than it should have. The unseen pull kept dragging the lowest one out of the pile before I could lift the rest.
+For four minutes I believed I had done something useful.
 
-A woman in a green raincoat watched me struggle.
+A woman on the street had heard me through a car radio. She let go of the shining man's hand. He was standing in a gap in the pavement, his legs below the ordinary surface, one arm caught in something she could not see. He had been asking her to pull. She stepped away because she wanted to live long enough to see her children.
 
-“Let it have that one,” she said.
+He sank another few inches.
 
-“It isn't a dog.”
+Inside his head there was no wish to infect her. There was the heel of her shoe receding, the radio voice still talking, and the recognition that she had stopped because of it.
 
-“Then teach it better.”
+My voice.
 
-Her name was Renske. She had come with a bag of her father's clothes and had begun putting them on people who were cold. He had died that morning. She didn't say how. When someone suggested she add him to the missing list, she said, “I was there.”
+I did not know where the street was. I could see a green door. Half a registration plate. Those things were not an address. When I tried to hold him and tell my producer what I saw, I caught another mind, then another. A man who was delighted because nothing now hurt him. A girl whose hands made sparks she was practising on the bus shelter. An injured woman thinking that her blue skirt would never be clean again.
 
-We spread the blankets. The hand let me do most of it. I couldn't find any relation between the things it would help with and the things it wouldn't. At last I fetched the fox from my bag and sat at the little table we used for repairs.
+The shining man was gone from my attention. I could not get him back by wanting him harder.
 
-Its jaw had broken again in the fall. I put the head on my left palm and reached for the glue.
+I pulled the microphone toward me.
 
-The fox rolled sideways.
+"I don't know that it's contagious," I said. "I told you it was. I was wrong to say that."
 
-I caught it. The pressure shifted under its chin, then pushed the loose jaw against the neck. Its face lifted with two small jerks, first to the right and then upright. The paw came off the table last, in a clumsy little sweep.
+I could not know which radio still carried us, which people had already stopped listening, or whether the woman by the green door would ever hear the correction.
 
-I sat very still.
+My producer reached to cut the fader. I caught his wrist.
 
-Anton had broken his left thumb when he was seventeen. Afterward he couldn't pinch the fox's head steadily while he made it talk. He used to brace its jaw against its shoulder, roll it, and bring it up again. I had hated the movement. It made the fox look drunk.
+"Please."
 
-The movement had stayed after his thumb healed. He said the fox deserved one bad habit of its own.
+I had nothing reliable to replace the warning with. That was what I could tell them.
 
-I lowered my right hand to my lap. The head rolled again.
+## Hours two to five
 
-Renske propped her phone on a box with its camera facing the table. The little red recording light came on.
+I stopped asking for people who knew.
 
-“Anton?”
+I tried to find people who had seen the beginning. What reached me was broken by their own urgencies. A dropped spoon. A stranger's fist turning transparent. A child in a dark room who had wished he could see and found that he could see through the wall as well. The people behind it were undressing. He turned his face away, and the next wall was no protection either.
 
-The fox opened its mouth. The loose jaw fell off.
+A boy in Naples saw three versions of his sister opening the front door. In one she stepped into fire. In one a crowd swept her off the step. In one she shut the door again and turned toward him. He slid the bolt and saw three different versions. His sister told him he could not keep her there. He did not tell her what he had seen. He watched the possibilities change until he found a moment in which she might have room to run, then pulled the bolt back.
 
-I laughed, so suddenly that Renske looked around. Then I put my hands over my face.
+A deckhand off Java had reached for a crate and lifted the stern of his boat. Water ran out of the nets. He put it down too quickly. His captain went over the side, came up furious, and ordered him to hold the boat steady while they pulled another man from the sea.
 
-The pressure caught at my wrist.
+The deckhand was still hoping the captain would notice how strong he was.
 
-“All right,” I said. “All right. I'm looking.”
+A girl in Santiago was growing a tree through her grandmother's balcony. The roots had lifted the sofa. The neighbour below was banging on the ceiling. Her grandmother climbed out onto a branch, picked a peach, and laughed with juice running over her fingers. The girl grew a second branch for the neighbour to stand on.
 
-I set two buttons on the table, a white one and a black one. I explained that white would mean yes. The white button slid toward me before I'd finished.
+In Shanghai, a man had become four men. He put all four of himself to work digging beneath a collapsed shopfront. When they found a safe, two wanted to take it and two wanted to keep looking for the shopkeeper. The argument had his voice on both sides. They lost time. There was a cough under the concrete, and all four stopped arguing at once.
 
-“Is it you?”
+I could have kept one of them. It would have been easier to return to a face I knew, learn a name, pretend I had found the shape of the world in one life.
 
-White.
+Instead, each urgency opened into others.
 
-“Do you remember the fox?”
+People putting fires out. A woman in Ankara drew cold into her hands until frost climbed to her elbows; the burning curtains crumbled beneath her touch. A man in Johannesburg called water out of the air and discovered he was taking it from people's mouths. They coughed. He stopped. A fire crew with no new abilities hauled a hose up three flights because the miracle had not finished their work.
 
-White.
+People starting fires. A child lit a candle without a match and stared, entranced, at the small flame. Her brother asked for a bigger one. In another room a man set his landlord's clothes alight from across the street. He watched the window for the face he wanted to frighten and did not look at the flames taking the next balcony.
 
-“Do you remember Dad making the giant so tall we couldn't get him into the van?”
+A young man in Reykjavik watched strangers carry his body toward a clinic. He followed, calling to them that he was right there, that the coat they had put over him was too warm. Nobody turned. He ran ahead, reached to open the clinic door and passed through it. Inside, the chairs were all occupied. He tried to sit on the back of one and found himself hanging above it. The first pleasure came so unexpectedly that he forgot his body until the strangers carried it in below him.
 
-White. I began to cry.
+An invisible man in Cairo could not find his own hands. He followed the feeling of his fingertips along the table, touching familiar things to learn where he ended. His wife came in and screamed at the empty chair. He said her name. She approached the voice, put out one hand and struck his cheek. Then she gripped him so hard he could not speak.
 
-Renske sat down opposite me.
+In a shop in Buenos Aires, an invisible woman lifted the till. The cashier grabbed it. Both held on, arguing, until she began to laugh. She had put on her oldest shoes that morning; now she could buy any shoes in the window, and the absurdity pleased her more than the money. The cashier let go to catch a falling display. She left with the till against her chest.
 
-“Who moved that?” she asked.
+I could not arrange these people into a warning which would remain true for the next person.
 
-“He did.”
+A nurse in Nairobi touched a dead man and brought him back. He opened his eyes and asked for the man who had killed him. She told him to lie still. He tried to get up, and she held him down with ordinary arms.
 
-“You have a power now.”
+A nurse in Warsaw tried the same touch. Nothing happened. Her new gift was elsewhere: she could hear the moment when a patient's pain began to ease. She kept asking the bodies under the sheets to give her that sound.
 
-“I wasn't making it.”
+No amount of looking told me why one had been given what the other needed.
 
-“How would you know?”
+Then the orange key tag turned in the air.
 
-I looked at the white button. It had come to rest against my little finger. I wanted to sweep the whole table clear.
+4B. The cracked thumbnail. The left hand reaching for the rail.
 
-Renske touched neither me nor the button.
+The woman from the first minute was still falling.
 
-“Ask something you don't know,” she said.
+I came out of her into a studio in which the clock had moved nearly four hours. My producer had taped one window. The other had already broken. Outside, a bus hung between two buildings; people were climbing along it toward a roof.
 
-I got a pencil and held it in my right hand. A pressure like another grip joined mine, pulling from the left. When I loosened my fingers, the pencil remained upright.
+He asked me where I had been.
 
-“You can write,” I said. “If there's someone there, write.”
+"Back at the beginning."
 
-It dragged a line across the paper. The point snapped. I sharpened it and put it down again. This time it made a B so large that the next letter ran off the edge.
+There had been nothing new in her terror. I had never heard anyone fall that long. It felt like a memory my own mind was refusing to let go.
 
-We gave it more paper.
+I had frightened people with certainty once already. I did not put her on air.
 
-**BASIL**
+## Hours six to twelve
 
-“Who's Basil?”
+I looked for people to whom nothing had happened.
 
-The pencil rose and hung over the table.
+A woman in Accra was holding a kitchen knife, waiting for it to float. She had watched her sister lift a refrigerator with one arm. She put the knife down, closed her eyes, tried again. The knife stayed on the table. Her sister called from the street; there were people trapped beneath a wall. The woman took the knife along to cut their clothing free.
 
-**BLUE RABBIT**
+A man in Delhi had ordered his children away from the windows. One could see through things. One could make a shadow separate from its owner and walk. He could do neither. He gave them a job: find the people under the fallen school roof, make shadows show the searchers where they were. The children stopped arguing about whose was better and went to the door.
 
-I tried to think of somebody named Basil. A teacher, perhaps. One of the men who had sold Dad wood. Renske lifted her phone from the box without stopping the recording, then photographed the sheet.
+There were far more such minds than I had expected. People pressing against locked doors until others came to help. People holding towels over wounds. People discovering that the one impossible thing they could do was small: change the colour of cloth, hear insects, make a coin land on its edge. A woman could restore a broken cup with her hands. She spent twenty minutes trying to make those hands understand a broken spine. Then she fetched a stretcher.
 
-“Who knows what he's been doing?” she asked.
+On a balcony in Moscow, a man was trying to fly. He jumped from a chair, landed, stood on it and tried again. His neighbour was flying above the courtyard, delighted with herself. She saw him and waved. He gave her the finger, then went downstairs when someone called for help.
 
-I called Silvie.
+I had imagined the unaltered people as an island outside the noise. They were everywhere inside it, doing things the others could not spare attention to do.
 
-She answered on the first ring. I put her on speaker. Renske put her phone back on the box, still recording.
+My producer still could not do anything impossible. He had found a car battery and a man who knew how to connect it to our equipment. The man was frightened of the young woman in the hall. She could make current run through glass. She offered to help; he asked her to keep her hands behind her back while he worked. She did. He thanked her when the transmitter came back.
 
-“I need to ask something odd,” I said. “Who was in the flat with you and Anton that night?”
+I searched for people bringing order.
 
-“I told you. Nobody.”
+In a ministry, a deputy was writing names beneath headings on paper because the computers had begun answering a cleaner. The cleaner was in the basement, afraid to move, holding every fire door open for people to get out. He had not meant to take the computers too. The deputy needed the doors, the computers and the cleaner. He sent a man downstairs with a chair, water and instructions to ask before unplugging anything.
 
-“Nobody else at all?”
+An army captain watched one of his men lift a truck out of a ditch. The soldier set it down and waited, grinning, for the next order. The captain put him on the front of the convoy. A kilometre farther on, another soldier heard that same order and grew a line of stone teeth across the road. He thought the captain meant to stop the civilians approaching it. The truck hit the teeth. The captain ran toward the impact before remembering the first man might be able to lift it away.
 
-“Us and Basil. The dog. Why?”
+People claiming order arrived too.
 
-My left hand went cold.
+A man on a roof in Jakarta spoke, and everyone who heard him knelt. He had discovered it by asking his neighbours to keep calm. Now he was trying different words, watching which ones the crowd obeyed. His wife was kneeling beside him, furious. He told her to stand, and she did. Then he kissed her forehead, certain she would forgive him when she understood how much safer everyone would be.
 
-Silvie kept talking. “Oona. Why?”
+A girl in Lisbon could bring any object which was hers into her hands. Her phone appeared. Her bicycle. She thought of the house her father had promised she would inherit. A wall filled her room. She let go of it in her mind and crawled through the wreckage to reach her father. He was alive, trying to get the door open. In the hall, the missing wall had made the stairs fall.
 
-“What does the dog sleep with?”
+Farther away, a clerk discovered that spoken promises grew visible as thin bright cords. He could not make anybody promise. He could show the cords to people who had denied what they said. When the police brought him to a government office, he was excited to be useful. When they locked the office door behind him, he began considering what he had promised them.
 
-“A horrible blue rabbit. Anton bought it for him. It's got one ear left. What is this?”
+Nobody had given these people understanding with their abilities. They were making interpretations as quickly as they could make damage. But I could not pretend the damage was all they were making.
 
-Renske leaned close enough to see the words again. She looked at me, then at the pencil.
+A woman in Mexico City turned the wreck of a car into bread. It came apart in her hands, warm and fragrant. She kept the first piece for herself. She had missed breakfast. Then she began passing the rest down a line of people who had been waiting to see what else she would change.
 
-I asked Silvie to send a photograph. It arrived while she was still talking: a yellowish dog curled on a cushion, one paw laid over a battered blue toy.
+A young man in Johannesburg stood in a queue outside a stadium and found that every decision came out in his favour. The dropped money landed by his shoe. The crowd parted where he wanted to walk. When a policeman tried to stop him, the man's radio called him away. The young man went straight to the gate and was admitted. Then he saw his little sister still outside, caught between people pressing forward. He went back for her, delighted that this was, at last, his day.
 
-“When did he get a dog?” I asked.
+A swimmer off Perth changed into a dolphin. The sea reached her in details she had never known were there. She followed a trail of sound under the surf, and for several minutes wanted nothing but the next turn. On shore, her friends watched the place where she had disappeared. One ran for a lifeguard. She came back to them as a woman, coughing and laughing, already wanting to return.
 
-“Seven weeks ago.”
+A man in a casino kept winning without knowing whether he had changed. He had always believed he would. Beside him, a croupier touched the table and turned its green cloth into living grass. Players backed away. The winning man pulled his chips toward himself, unwilling to waste the luck on an evacuation which might be unnecessary.
 
-“He didn't tell me.”
+I followed his fear of losing what he had gained and found a thousand unlike fears. A woman who had healed an old scar kept touching the smooth skin. A child had lost his shadow and believed it was hurt somewhere. A soldier could no longer close his hand around a weapon because his fingers passed through metal. He was trying to tie the rifle to his wrist so his sergeant would not see.
 
-“He sent you a picture.”
+Then I found a woman who had been waiting too long.
 
-“Could you have seen it without opening it?” Renske asked.
+She sat on a station floor beside an empty vending machine. There were people asleep round her. She had eaten the food from the machine yesterday. She had used a chair to break its glass the day before. Now she was arguing with a man who said they should try walking up the tunnel again.
 
-I scrolled back to Anton's message. There was still only the empty box. “It never downloaded,” I said. I tapped it now. The photograph loaded: Basil sprawled on Anton's lap, with the blue rabbit under his chin.
+Beyond the station's mouth a train driver's face hung in the windscreen. He had turned halfway toward them and stayed like that. When they walked into the tunnel, their legs began to feel heavy. The woman had watched one of the men take three steps, stumble, and remain bent forward for a whole night. He was still there. They could see him from the platform.
 
-“Where was Basil when I came over?”
+She wanted to fetch him. She wanted the arguing man to stop saying they had to be patient. It was their fourth day.
 
-“I'd sent him to my sister's. There was glass everywhere. Oona, tell me what you're doing.”
+It was my eighth hour.
 
-“Something here is moving a pencil,” I said. “It wrote Basil before I called you. And blue rabbit.”
+I came back to the desk with the taste of stale crisps in my mouth. My producer gave me the end of his sandwich. I looked at it for too long.
 
-Silvie drew in a breath. “Tell him I'm here.”
+Was that a dream? A projected mind? A person whose new ability made her believe memories she had never lived? I had heard people who were certain they were dead while their bodies stood untouched. I had heard a child calling a stranger his mother after her face changed. Belief was still not proof.
 
-I said I would call her back. I needed to see whether it could do it again, I said. I needed to understand. She called my name as I ended the call.
+But a memory of falling could not contain that woman on the platform. And she was not the last.
 
-The pencil struck the table twice.
+I tried to find people waiting for the world to move.
 
-**GET SILVIE**
+A man in Casablanca was sitting at his kitchen table while tea hung between the spout and the glass. He had not touched the teapot. He had tried to touch the suspended stream and found it harder than the table. His wife had gone through the doorway to ask their son for help. She was still passing through it: one foot lifted, her scarf out behind her, a grain of white paint caught between her fingers. He had been speaking to her until his voice grew hoarse.
 
-“I think it's you,” I said. “I think I believe it.”
+He did not want to know where anybody else was. He wanted her to finish leaving the room so she could come back.
 
-The pencil pushed the sheet toward me.
+At a crossing outside Bogotá, a driver watched a woman move too quickly to follow. She opened every door on a crashed bus, carried a child out, came back for another. To her, the passengers' mouths opened as slowly as flowers. She could hear a deep rumble from a man who was shouting. She wanted him to help her, and was frightened that she would have to do it all herself. She had lived eleven hours since the crash. The driver's watch had moved less than two.
 
-“Can you hear me? Are you somewhere you can get out?”
+She wasn't running quickly. Between journeys she sat on the curb to catch her breath, and the shouting man continued making the first sound of his word.
 
-It moved to fresh paper.
+I found places where clocks had stopped, places where every clock disagreed, people looking at suns which seemed to pause and then leap. Machines were doing impossible things too; a clock alone could tell me nothing. Yet there were minds on each side of an ordinary doorway, each living a different amount of waiting.
 
-**GET SILVIE**
+In the studio, the glass-current woman had made the cracked window glow. She was tired of people being frightened of her hands. She drew a line of light round the edge of the pane and smiled at it. The light brought everyone in the room close enough to see the clock reflected there.
 
-I picked up the fox. The little bastard had got us through failed lights, school assemblies, three years when Dad couldn't tour. I wanted Anton to lift it. I wanted one whole thing back.
+It had been twelve hours since the first minute.
 
-“Do the bow,” I said. “Then I'll know for certain.”
+The orange key tag was still turning somewhere.
 
-Nothing moved.
+## Hours thirteen to twenty
 
-Renske took her phone off the box and stopped the recording.
+I searched for people who were missing.
 
-I put the fox down. “She can hear you if I read what you write.”
+The condition caught people who believed someone ought to be looking for them. A man inside a collapsed tunnel. A woman on a desert road with no shoes. An old fisherman lifted out of the sea by his own boat, which had become a living thing and was swimming away with him on its back.
 
-White button.
+It caught a girl who had run away and did not want to be found. She had become a bird above a bus station, then a girl again in another city. She was buying a coat with money she had taken from her mother's purse. The shopkeeper wanted to know why she kept looking at the door. She wanted him to let her finish becoming someone else.
 
-I called Silvie again.
+It caught a man who had stepped through a factory wall to escape a fire and could not find the way out of the stone. He had one hand free. People outside kept trying to pull it. Inside there was very little air. I felt his efforts grow weaker and lost him while he was still trying.
 
-She didn't ask for another explanation. She said his name. The pencil wrote a word, and I read it out. Then she asked a question, and it wrote more.
+It did not give me a map of all the absent.
 
-For a while I had to sharpen it every few minutes. Later the grip became gentler. I held down the paper and read.
+Somewhere an airport terminal had emptied in seconds. The baggage belts continued carrying bags into a hall with nobody in it. A security guard stood under a camera, calling names. He could make people remember things they had forgotten. He used every name he knew and waited for someone to answer.
 
-Silvie was his partner. I knew that. I had known it at the birthday dinner, when he put his hand on her knee under the table. It had been easier to keep calling her something else. A flatmate could be left when he came back to the show.
+Somewhere a man was trying to raise the dead by laying hands on them. He could raise himself. He had done it twice already. He kept making the same motion over his friend's chest, trying to give away whatever had returned him.
 
-Some of what they said I am leaving out. I had to hear her questions and read his answers aloud. Afterward I could keep them to myself.
+In a hospital, a child who could turn anything her hands touched into soap refused to put them on her mother's face. The mother wanted to kiss her. The child held her wrists between her knees and bent forward until her mother could reach her forehead.
 
-When Silvie had to go, she didn't say goodbye to me. She said she would stay near her phone.
+There were minds celebrating too. An old woman had regrown teeth and was eating an apple one loud bite at a time. A man heard music from bare stone and had brought his daughter to listen; she could hear nothing, but she liked the expression on his face. A young couple had begun moving through the air whenever they held one another. They went hand in hand above a city where other people were trying to get down. They were drunk with each other and with height.
 
-I waited for the pencil.
+In Tehran, a teacher wrote a word on a board and it became a thing she could lift. She made a door. The frame stood unsupported on the floor. Children ran through it into the next classroom, laughing, until the first child came back to say there was no school on the other side any more. The teacher went to see. Beyond the door lay a field. She could smell wet earth. She stood between the field and the children while a colleague fetched their coats.
 
-**THANK YOU**
+A soldier on an island runway watched a whole mountainside rise off the ground. Houses moved with it. He put down his binoculars and began directing people onto the empty tarmac. The woman raising the mountain was under the houses, trapped by a landslide. She wanted the weight off her legs. She had no idea how far she was lifting.
 
-I was furious with him for that. I was so glad it was him that I couldn't speak.
+A man who could breathe storms out of his mouth had climbed above a coastal town. He was trying to blow a coming cyclone away. The cyclone turned. On the other side of the bay, a family watched the weather change direction toward them. Their daughter could stretch her skin into a thin bright sail. She spread it across the roof and told her brothers to hold its edges. They were afraid of hurting her. She told them to hold harder.
 
-I fixed the fox's jaw back on with a strip of tape. It opened badly, but it stayed attached.
+Some of these things I spoke about. Many I did not. What I could feel was wider than what I could responsibly tell someone to do. The people I entered had their own work, their own deceptions, their own astonishing private pleasures. I had no right to turn a woman who wanted new teeth into an instruction for a woman trying to find her son.
 
-Renske brought us a cup of cold tea. She watched it move across the table toward me.
+Our phones rang. People told us things which were more useful than my power: a shelter had room, a street had become impassable, someone needed batteries of a size a listener happened to have. My producer relayed those messages. He made callers repeat their addresses. If they could not, he told them that too. I could hear him from a long way inside other lives.
 
-“Does he see this?”
+I kept searching the missing.
 
-“I don't know.”
+Not all of them were frightened. A man was sitting in a train with his newspaper open. He wanted to get to the last page before his stop. The carriage clock had begun running backward. He thought the railway really ought to replace it. Outside his window, people were running past in brief jerks of light. He had noticed them but did not yet consider them his concern.
 
-She found a pack of playing cards in the drawer. The first card she held up was a seven of clubs, facing me. She didn't name it. The pencil drew seven clumsy black stalks.
+A woman lay on a floor with a cup in her hand. She had fainted and was waiting for the dizziness to pass. Beside her, a man knelt so slowly that she could not see his movement until she looked away and back. He was trying to help. She wished he would get on with it.
 
-Renske put it facedown. “Close your eyes. I'll get another.”
+A boy slept in a room where a woman was unable to leave the doorway. Her current thought was that if she moved again, the ceiling might come down. His dream had put a forest in the room. She could see branches outside the window too. The floorboards had begun to grow leaves. She wondered whether waking him would make everything fall. I left her before she decided.
 
-The instant I closed them, the cup struck the table hard enough to spill. Something caught my wrist and pulled. I opened my eyes.
+I could not separate all these things into kinds. Some people surely were stopping others; some were moving faster than anyone around them. But there were also rooms in which each life went on, while almost nothing went on outside, and streets in which the people trying to enter could not keep up with those trying to leave.
 
-**WHERE**
+One instant had begun this. We had all counted from it as though we were still counting together.
 
-“Here,” I said. “I'm here. She asked me to shut my eyes.”
+I thought of the woman on the station floor who had already used up days of patience. Of the man watching his wife's foot go through the kitchen door. Of the woman still reaching for a rail.
 
-**DARK**
+I had been looking for people who had gone somewhere else.
 
-Renske had lowered the next card. I could hear Harriet coughing in the stalls.
+Some had not got through the beginning.
 
-“I'll do it again,” I told the pencil. “For three seconds. I'm still here. Nothing's happening to me.”
+I was afraid to say it. I was more afraid of what might be done to places everyone thought were empty.
 
-The white button moved.
+## Hour twenty-one
 
-Renske held up another card while my eyes were shut, then put it facedown. The pressure lay lightly along my wrist. I counted to three and opened my eyes. The cup hadn't moved.
+The stairwell came back to me with something new in it.
 
-“What was the card?” I asked.
+Light.
 
-The pencil made a question mark.
+It moved across the woman's left hand, bright enough to make her blink. Dust burst from the wall beside her. A metal tip emerged through the plaster, spinning with a speed she could not understand. She jerked her fingers away. The orange tag struck her wrist.
 
-When she turned the card toward me, it drew a crooked heart and a 4.
+She was still falling. But now she thought someone had come.
 
-We tried ten seconds. I could feel the unseen grip all the way through, but it didn't pull. When I opened my eyes, the pencil wrote **LONG**.
+I followed the light, wanting the person holding it.
 
-“Ten seconds,” I said. “It was ten seconds here.”
+A man in a hard hat stood beside a drill, looking through a hole in the concrete. His work lamp lit the broken stairwell beyond. At first he thought the shape he saw was a mannequin. Then a hand moved. Very little. It had not been in that position before.
 
-I had left a bedside lamp burning through two nights. It could have helped him only while my eyes were open. I had been blaming a new limb for keeping me from sleep.
+He stopped the drill.
 
-I asked where he was. The pencil pressed so hard it tore the paper.
+There was a plan spread on the bonnet of a van beside him. MARINER COURT. He had been trying to find the load-bearing wall marked in red. The plan was old enough to show a shop which no longer existed. He was thinking of that error, annoyed by how many different things could make his job go wrong today.
 
-**DONT KNOW**
+My producer found the address. He found the command number for the district on a list a caller had given us. Three calls failed. A fourth was answered by someone who said we could not keep filling the line with rumours.
 
-I asked whether he could see anything that wasn't through me. It wrote **NO**. Could he hear anything?
+The man on the phone had heard me that morning.
 
-**YOU**
+"It isn't a rumour," I said.
 
-The radio boy began shouting a station number to somebody outside. A child woke and called for her mother. I asked if he could hear those things. White slid toward me.
+"Like the infection?"
 
-Renske put the cards away. Her father's coat lay over her knees. I nearly told her we might find him, then remembered what she had said.
+There was no way round the voice I had already put in his day.
 
-She saw me stop.
+"You shouldn't have believed me then."
 
-“Good,” she said.
+"My daughter heard it. She wouldn't let me in."
 
-The lights went out.
+He was giving off light. It was his new ability, and he did not know what it was for. He had stood in his own doorway explaining that he was still her father while the girl retreated into the house.
 
-Not a flicker or a warning. Just darkness, followed by shuffling in the seats and somebody swearing. A hot orange light opened halfway up the stalls.
+I heard the memory because he was thinking it now. I did not tell him that I could.
 
-Harriet was standing. Fire ran between her fingers. She beat her hands against the seat in front of her, and its upholstery began to smoke.
+"Then don't believe me because I'm on the radio," I said. "Ask the man with the drill what he can see."
 
-Renske reached her first. “Look at me. Harriet. Open your eyes.”
+He put me on hold. Through the phone came other voices. Through the condition in my head came the worker again, stepping back from his new hole, trying not to look until someone else would look with him.
 
-“I'm trying.”
+The woman inside was still moving toward the steps. She had one elbow out now to take the fall. The drill had made dust which seemed to rush past her like thrown sand. It had given her something new to fear.
 
-The fingers opened. The light shrank. Then Harriet blinked, and it came back.
+There was a metal tip beside her face. There was a man outside who had just withdrawn it. For her, the withdrawal was happening too quickly to follow.
 
-People were moving away from her, pulling blankets and children out of the rows. Two of them smothered the smoking upholstery. The delivery driver from my street lifted a whole row of seats clear of the aisle. He looked surprised to be carrying it, and more surprised when Renske told him where to set it down.
+I did not need another clock to know these were not only the things she remembered.
 
-I found the battery lamp we kept in the cupboard and ran up the aisle. Anton pulled at my sleeve. The pencil followed me, scraping the edge of the table before it fell.
+The officer returned.
 
-“I can't look yet,” I said.
+"There's a person. They can't tell if she's alive."
 
-Harriet's face was wet. When I raised the lamp, she flinched.
+"She's reaching for the rail."
 
-“Too bright?”
+"They've seen other things that look like people."
 
-“No. Keep it there.”
+"I know."
 
-She looked straight into it. The flames went away.
+He had people coming toward Mariner Court from a stadium in which the ground had begun to tilt. Their route passed under the damaged building. Its front had peeled away that morning. A force had held the upper floors together for several hours and then left them. The remaining facade moved every time the street shook. They meant to bring it down before the evacuation reached it.
 
-For a few seconds all we did was breathe.
+If they waited, the crowd would have to go east. He was looking at a map of the alternative: a long yard, rubble from a market roof, an opening people would have to pass through single file.
 
-“I can't,” she said. “I can't keep doing this.”
+"There's someone inside," I said.
 
-I told her about the fox, the writing, the card he couldn't see. She looked at me as if I had offered her a job.
+"There's six hundred outside."
 
-“No,” she said. “No, I don't want anybody.”
+I did not ask him to weigh them as if I possessed both numbers in my hands. I did not know how many were inside. I did not know whether the woman would survive when she finished falling. A drill entering her room from our time might have hit her like a weapon.
 
-“I know.”
+"I can't tell you it's safe," I said. "I can tell you she noticed your drill. She moved because of it."
 
-Her eyelids fell. Heat came against my cheek.
+The officer stopped looking at his map.
 
-“It might be nothing like mine,” I said. “But if somebody is there, they can see the lamp when you can.”
+"Hold," he said to someone else.
 
-“Then let them have my bloody eyes.”
+The word did not enter any mind as a power. Men passed it along because it was an order they had agreed to follow.
 
-She held them open with a look of such hatred that I stepped back.
+## Hours twenty-two and twenty-three
 
-Renske sat beside her. “We want you asleep,” she said. “That's what we're trying to get.”
+The crowd reached the barrier at Mariner Court.
 
-I didn't have cards with me. I had a lamp, and Harriet's palms were hurting everyone who tried to make them safe.
+I found a woman at its front who had two children with her and was shouting that the way had been open when they set out. Behind her, more people pushed. The officer stood in the street with his arms spread. His shining skin made him easy to find and hard for people to trust.
 
-“I'm going to speak to whatever is doing it,” I told Harriet. “If you want me to stop, say so.”
+They turned east.
 
-She looked at Renske, then nodded once.
+At the market yard, a man took his father's chair apart because its wheels would not pass through the gap. He and a stranger lifted the seated man between them. Another family tried to follow too closely. Someone shoved. A boy went down between the broken stalls.
 
-I kept the lamp where Harriet could see it.
+His mother had the power to make people laugh. She had discovered it when she tried to comfort him that morning. Now, as she called his name, people began laughing around her. She struck a laughing man's chest until he understood. He went down on his hands and knees beneath the feet of others and pulled the boy to the edge.
 
-“If you can hear through her, we're here. We aren't leaving. If you can stop the fire, keep it stopped while I count to three.”
+The boy was breathing. His leg lay at an angle his mother could not stop looking at. There was no stretcher in the narrow yard. They put him on a shutter, and the line waited while they carried him through.
 
-I counted. Nothing appeared.
+Others were still arriving at its back. The officer was delaying a demolition for a person whose fall he could not see. The people in the yard were paying for it before anyone had saved her.
 
-“Can you make one small flash when I say two? Just one. And none at three.”
+I stayed in them until the boy's mother had stopped trying to make her voice gentle.
 
-Harriet said, “Don't.”
+The drill worker put a board through the broken wall at Mariner Court. A rescuer took it farther. His hand entered the stairwell and moved differently from his arm. He tried to pull it back. The worker stopped him before he pulled hard enough to hurt himself.
 
-I stopped.
+I reached the woman inside. She could see a hand coming through the wall. It grew toward her in abrupt movements, appearing where there had been no hand a moment before. She turned her shoulder away from it, trying to make room for her own landing.
 
-“Small?” she asked after a moment.
+Outside, the rescuer felt something strike his fingertips.
 
-“I hope so.”
+Neither knew how to help the other yet.
 
-She held one palm away from her, toward the cleared aisle. “All right.”
+I told the phone operator not to let them pull. She relayed what I said, and added, "She's been wrong before."
 
-One. Two.
+That warning belonged with mine.
 
-A small tongue of fire rose between her first two fingers. At three it was gone. Harriet stared at the space it had occupied.
+I could not stay only there. The world kept coming through the conditions I had opened, and the first day was making powers into things nobody at its beginning could have imagined choosing.
 
-“I didn't do that,” she said.
+A minister stood beside a woman who could carry voices over the whole country. He wanted to use her for an order to remain indoors. She asked whether the houses were safe. He said he did not know. She repeated that first, then his order. Thousands left doors open while they listened, waiting to see what the people next to them would do.
 
-Renske asked her whether she wanted to go on. She nodded again.
+On an island, the mountain stopped rising. It remained above the ground, with a city on its back. People had begun throwing ropes from its edge. Some wanted to get down. Some on the ground wanted to get up. A man at the foot of the first rope asked for money. An unpowered woman pushed past him and began climbing with a child tied to her back.
 
-We asked for a pause with her eyes closed. Ten seconds, I said, as I had said to Anton. We would be right there when they opened. A small flash came at the offered word for yes.
+In a prison, a guard unlocked a cell because the woman inside could make bread. She made him one loaf. Then she stood at the open door with it in her hands and asked which other doors he would unlock. He looked toward the corridor, where men who could no longer be confined were calling for him.
 
-“I won't look away,” Renske told Harriet. “The lamp will be right here.”
+A plane came down on a field held level by twelve people who had all discovered different ways of moving things. None could have held it alone. An ordinary pilot felt the wheels take the ground and kept the aircraft straight. When it stopped, the twelve left the field separately. One wanted to ask a woman's name, but she was already running toward the opened cabin door.
 
-Harriet closed her eyes.
+In an alley in Dakar, a man who had once wanted to be a surgeon made new skin over a girl's burnt arm. He was good at it. He asked a woman beside him to take his picture. She did, then brought him another child. He moved into the light where the camera could see him and began again.
 
-We waited. I watched the fingers. At four seconds she pulled in a sharp breath. At five, flame caught the edge of my sleeve.
+A woman on a beach heard voices from out past the breakers. She could breathe under water now. She went in with a rope round her waist, and the people holding it could do nothing but hold.
 
-“Open,” I said. “Open now.”
+Somewhere the man who had survived the Atlantic fall had stopped waving at aircraft. He had begun swimming toward the place where he hoped a coast would be. The sea had not become less immense because it could no longer kill him in the same way.
 
-Renske pulled me back. I slapped at my arm. The sleeve was only smouldering, but the skin beneath it stung.
+A girl in a room full of shoes had found the face she wanted. She sent a photograph to a friend. It was the first message she had sent since the beginning which contained no question.
 
-Harriet curled against the back of the seat.
+There were people refusing rescue, people trying to surrender abilities they could not take off, people discovering how much could be done to others before anyone arrived to stop them. A man's darkness spread across an entire town. He meant to hide it from the sky. Those inside it could not see the steps on which they tried to leave. People began tying themselves together by the wrist.
 
-“No more,” she said.
+A soldier walked through the darkness with a white cane borrowed from an old man. The old man came with him. They were arguing about which way the road turned.
 
-“No more,” Renske agreed.
+I could not make their lives pause while I arranged what I had found.
 
-We moved to the bare boards at the side of the stage. Harriet could keep looking at the lamp there. Renske brought a chair and sat beside her. The people behind us were still awake; one child had begun making a nest of the rescued blankets.
+## The last minutes
 
-My left cuff tugged. The fox lay under the table with its head turned toward me. I could have looked down long enough to see what Anton was asking. I kept my eyes on Harriet's hands instead.
+By the end of the first twenty-four hours, 1.3 billion people would be dead or missing. Of the seven billion alive at the beginning, 2.8 billion would have developed powers. Those were the numbers the day would leave behind. We did not have them in the studio. We had callers reading out names, and sometimes someone answering that one of the names was theirs.
 
-“I told it ten,” I said to Renske. “I told Anton ten and he waited.”
+Resurrection had returned some people. It had not returned everyone beneath the sheets. A man who could hear insects sat beside his dead brother and listened to a fly which would not leave the window. A woman could change the shape of anything she touched. She kept her hands away from the body they brought her. It was already the shape of the person she loved.
 
-“This isn't Anton.”
+Mariner Court was still standing. The evacuation line had reached the far end of the market yard. The injured boy was on his way to a place which might have a doctor. The worker and the rescuer sat beside their opening, waiting for instructions nobody knew how to give.
 
-“No.”
+Inside, the woman had caught the rail with the very ends of her fingers.
 
-Harriet's eyes were narrowing again. She jerked her head to stay awake.
+It was barely a change. Her orange key tag still turned below her wrist. Her feet had not yet reached the step. In our day, thousands of people had moved round her building, an order had been stopped, an injured child had been carried through a gap, and the sun had set. For her, it was still the beginning of a bad morning.
 
-“What could you hear when you closed them?” I asked her.
+I gave the officer the one thing I had seen change. He did not thank me. He asked me to tell him if she moved again.
 
-“Nothing. You all stopped talking.”
+My producer wrote her flat number on a sheet of paper. Beneath it he wrote a station name the woman who had lived four days had read from her ticket. We could not place that station. Beneath those he wrote *tea in doorway*, because we did not know where to put the man who was still waiting for his wife.
 
-She was right. We had watched her in silence, as if we were in the audience.
+Three pieces of a thing too large to draw.
 
-I sat on the boards, below the level of her hands.
+I did not know whether somebody's power had made those places, whether the first instant had damaged something nobody had known could break, or whether our abilities were the cause of what was happening there or another consequence. No thought I caught could tell me who had done this or why.
 
-“Not now,” I said. “Not unless you want. But I could keep counting out loud. You would still hear me. Maybe the other one would too.”
+But the missing were not all missing from a place. Some were missing from the amount of time we had assumed belonged to everyone. Others had lived too much of it. Searching for them as though they had all gone away was already making us do dangerous things.
 
-“You think that's it?”
+I told our listeners what I knew, what I thought, and what I could not distinguish. Some asked for names. Some called me a liar. A demolition elsewhere continued. At another site, someone took the explosives back to the truck. I caught his doubt as he carried them. It weighed nothing like relief.
 
-“I don't know. It would be something still there.”
+Then the producer put his hand over mine.
 
-She looked at the lamp a long time. Renske offered to hold it. Harriet shook her head and kept it on her own knee.
+"A minute," he said. "Just come back for a minute."
 
-“Three seconds,” she said. “You open them for me if I can't.”
+I looked at him. I remembered his name. I drank what was left of the cold tea. The street outside our broken window had lights in it which had no wires. A woman was walking home beneath them with her shopping held above her head. She had made the lights. The bag was ordinary and heavy. She shifted it from one hand to the other and kept going.
 
-Renske moved her chair close enough for their knees to touch.
+I had wanted a person who could tell me what was happening. I had wanted a sentence big enough to tell everyone else.
 
-I explained the count, to Harriet and to anyone hearing with her. Her fingers stayed loose. When I asked for the small yes-flash, it came.
+I had not found one inside the noise.
 
-“Here we go. Shut. One. Two. Three. Open.”
+Before our first day ended, I went back to the people still in their first minute.
 
-The fingers had curled at two, but they had stayed dark. Harriet's eyes opened. She let out a sound that was almost a laugh.
+A man was trying to catch his glasses as the ladder beneath him snapped. A woman was reaching for a door which would not open. A child had shut his eyes against a flash and had not yet opened them. Far away, the woman on the station floor was beginning another night.
 
-Renske counted while we repeated three seconds; I watched Harriet's hand. It twitched once and stayed cool. Only then did Harriet ask for five. When those were over, she lay back with her eyes open and the lamp against her chest.
+Between them moved the rest of us, already learning how to climb, how to claim, how to ask permission, how to do without it. Cities shone. Cities burnt. In one of them a boy had made the stars visible through the ceiling, and people were coming into his room to look.
 
-“Could you talk for a while?” she asked Renske. “Don't let me sleep yet. Just let me listen.”
-
-Renske said she could. She began telling her about the train she had taken to see her father, which had stopped twice before reaching the city. Nothing remarkable in the story. The seats were uncomfortable, and a man opposite her had opened three separate packets of crisps. Harriet shut her eyes for the first packet and opened them before the second. There was no fire.
-
-I left them there. Five seconds was five seconds. It wasn't sleep, but it was something Harriet had been unable to do since the first morning. We would need another way of trying for a minute, and somebody willing to stay close, and perhaps we would fail again.
-
-At the repair table, the pencil lay on the floor. I picked it up.
-
-“Sorry,” I said.
-
-The grip joined mine. It wrote **LOOK**.
-
-“I'm looking.”
-
-**ARM**
-
-I looked at the reddened patch beneath my burnt sleeve. The pencil waited. I hadn't felt it pull while I was striking the flame out; I had been too frightened to notice anything that small.
-
-“It's all right,” I said. “I can feel it. Can you?”
-
-**YES**
-
-I lifted the scorched sleeve away from my arm. I'd taken him up that aisle with me.
-
-“Tonight I'll have to sleep,” I said. “I'll ask Silvie if she can be on the phone when I try. I don't know whether you'll still hear her through me. I'll tell you before I shut my eyes.”
-
-The white button moved toward me. I let the pencil wait until he was ready to write again.
-
-We had more to find out than I had paper for.
-
-Renske came down a little later to get water. Harriet was awake, still listening to someone talk. Renske put the cup beside my good sleeve.
-
-“My video,” she said. “What do you want done with it?”
-
-I began to answer. Then I stopped and set the pencil upright.
-
-“We recorded the first part,” I told Anton. “The fox, the buttons, Basil's name. May we show just the table, before I called Silvie? So other people can try. She can confirm the name herself.”
-
-The white button slid toward me.
-
-“Neither call. Not your conversation.”
-
-White again. Then the pencil wrote **NOT CALL**.
-
-I told Renske where to end the clip. She showed me the cut. My mouth was open in it, and I was staring at the word Basil as if somebody had written my own name wrong.
-
-She sent it to the people collecting reports at the hospital and to a number somebody had pinned beside the theatre entrance. We wrote down what we had done. We didn't give the hand a category. She put her own name beside mine as the person who had photographed the answer before the call.
-
-“Somebody will say this means everybody's alive,” she said.
-
-“It doesn't.”
-
-She folded her father's coat into the empty bag.
-
-I couldn't tell her what had happened to Anton. I couldn't tell her why so many more people had powers than had vanished. I didn't even know whether Harriet's fire had another person behind it or whether we had found a way to steady her own fear. We had one missing man's unfamiliar dog, an answer photographed before it was confirmed, and a hand that had refused to bow.
-
-Renske went back to Harriet.
-
-The boy beside the radio had fallen asleep without touching it. It kept playing a bulletin nobody had chosen. Somebody could fly, it said. Somebody could walk through a closed wall. There were people coming back, and people nobody could find. The speaker used the word casualties and corrected himself to missing and dead. Both words sounded too small.
-
-I sat with the pencil. I wanted to ask about where Anton was again, about time, about how a hand could hurt when its body wasn't there. He wrote before I asked.
-
-**BASIL**
-
-“Silvie's got him.”
-
-**SEE**
-
-I called her. She answered softly. When I asked, she turned on her camera and lowered the phone toward a cushion.
-
-Basil was asleep with his nose tucked under the blue rabbit's remaining ear. His legs twitched. Silvie said he was running in a dream.
-
-I put my phone upright against the sewing machine and looked at it.
-
-Under my left hand the fox rose. For years we had finished with a grand, ridiculous bow: paws out, muzzle to the floor, one leg kicked back. Children waited for it. Anton had been very good at making them wait just long enough.
-
-Now the fox turned its head toward the small bright screen. It leaned sideways, bracing the broken jaw against its shoulder. One paw came up and rested on the glass beside the sleeping dog.
-
-It was no kind of bow at all.
-
-I kept looking.
+I caught him as he decided to take away the next wall.
