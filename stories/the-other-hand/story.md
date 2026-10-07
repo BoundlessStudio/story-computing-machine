@@ -272,7 +272,7 @@ She put the phone down. I caught her again as she took her mother's arm. Her fat
 
 The caller left with her mother. I lost them at the front door, where other people were waiting to get past. I could not know whether she had just saved her mother's life.
 
-My producer crossed out the name on the sheet of questions he could answer. He did not cross it out on the other list.
+My producer crossed out the name on the sheet of questions he could answer. He did not cross it out on the list of people we were still asking about.
 
 I had to find out what waiting meant now.
 
@@ -284,7 +284,7 @@ He did not want to know where anybody else was. He wanted her to finish leaving 
 
 At a crossing outside Bogotá, a driver watched a woman move too quickly to follow. She opened every door on a crashed bus, carried a child out, came back for another. To her, the passengers' mouths opened as slowly as flowers. She could hear a deep rumble from a man who was shouting. She wanted him to help her, and was frightened that she would have to do it all herself. She had lived eleven hours since the crash. The driver's watch had moved less than two.
 
-She wasn't running quickly. Between journeys she sat on the curb to catch her breath, and the shouting man continued making the first sound of his word.
+In her own time, she wasn't running quickly. Between journeys she sat on the curb to catch her breath, and the shouting man continued making the first sound of his word.
 
 I found places where clocks had stopped, places where every clock disagreed, people looking at suns which seemed to pause and then leap. Machines were doing impossible things too; a clock alone could tell me nothing. Yet people sharing a room could no longer share the time it took to leave it.
 
@@ -448,17 +448,25 @@ I told the phone operator not to let them pull. She relayed what I said, and add
 
 That warning belonged with mine.
 
-I could not stay only there. The world kept coming through the conditions I had opened, and the first day was making powers into things nobody at its beginning could have imagined choosing.
+The telephone stayed against my ear. The operator at Mariner Court had put her receiver down without cutting the line. I could hear people moving round it, a board being dragged across the ground. Other voices came through those sounds.
 
 A minister stood beside a woman who could carry voices over the whole country. He wanted to use her for an order to remain indoors. She asked whether the houses were safe. He said he did not know. She repeated that first, then his order. I caught a man leaving his door open while he listened, a woman looking out at her neighbour, a child who wanted to ask whether the voice could hear him too.
 
-On an island, the mountain stopped rising. It remained above the ground, with a city on its back. People had begun throwing ropes from its edge. Some wanted to get down. Some on the ground wanted to get up. A man at the foot of the first rope asked for money. An unpowered woman pushed past him and began climbing with a child tied to her back.
-
 In a prison, a guard unlocked a cell because the woman inside could make bread. She made him one loaf. Then she stood at the open door with it in her hands and asked which other doors he would unlock. He looked toward the corridor, where men who could no longer be confined were calling for him.
+
+The receiver scraped at Mariner Court. The rescuer's arm had begun to tremble. The worker eased a board under his forearm, trying not to move the hand beyond the wall. The rescuer wanted to be told he could draw it back. I could feel his shoulder ache, and then I was in another woman's shoulders, carrying her child upward.
+
+The mountain had stopped rising. It remained above the ground, with a city on its back. People threw ropes from its edge. Some wanted to get down. This woman was climbing toward the people above. A man at the foot of the rope had asked her for money. She had none. She had pushed past him and begun climbing, unpowered, with the child tied to her back. Now the rope moved beside her face. Someone else had begun to climb below her.
 
 A plane came down on a field held level by twelve people who had all discovered different ways of moving things. None could have held it alone. An ordinary pilot felt the wheels take the ground and kept the aircraft straight. When it stopped, the twelve left the field separately. One wanted to ask a woman's name, but she was already running toward the opened cabin door.
 
-In an alley in Dakar, a man who had once wanted to be a surgeon made new skin over a girl's burnt arm. He was good at it. He asked a woman beside him to take his picture. She did, then brought him another child. He moved into the light where the camera could see him and began again.
+In an alley in Dakar, a man who had once wanted to be a surgeon made new skin over a girl's burnt arm. He asked a woman beside him to take his picture. She did, then brought him another child. He reached to see what had happened to this one.
+
+I was in the boy on the shutter before the healer touched the child. Someone had lifted one end too quickly. The boy wanted them to put him down. They had cleared the narrow gate, but they could not put him down here; others were still coming through. His mother walked behind them because there was no room beside him. He was trying to turn his head to see her when the operator picked up the receiver again.
+
+"Are you there?"
+
+I answered. Through the phone I could hear the worker telling someone the hand was still in the same place.
 
 A woman on a beach heard voices from out past the breakers. She could breathe under water now. She went in with a rope round her waist, and the people holding it could do nothing but hold.
 
@@ -468,7 +476,7 @@ A girl tried a new face in a mirror. She made the chin rounder, then put it back
 
 There were people refusing rescue, people trying to surrender abilities they could not take off, people discovering how much could be done to others before anyone arrived to stop them. A man's darkness spread across an entire town. He meant to hide it from the sky. Those inside it could not see the steps on which they tried to leave. People began tying themselves together by the wrist.
 
-A soldier walked through the darkness with a white cane borrowed from an old man. The old man came with him. They were arguing about which way the road turned.
+A soldier walked through the darkness with a white cane borrowed from an old man. The old man came with him. He had walked that road all his life and was trying to explain where it turned when the receiver scraped against my ear again.
 
 I could not make their lives pause while I arranged what I had found.
 
