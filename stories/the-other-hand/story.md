@@ -46,7 +46,7 @@ I told her I didn't know.
 
 She made a sound that wasn't a word.
 
-Silvie was Anton's flatmate. That was how I thought of her, though he had corrected me twice. I had met her at a birthday dinner eight months earlier and spent most of it talking about the show. At the end, Anton had walked me to the tram stop and said, “You know I've left, don't you?”
+Silvie was my brother Anton's flatmate. That was how I thought of her, though he had corrected me twice. I had met her at a birthday dinner eight months earlier and spent most of it talking about the show. Dad had died two winters before, and I was still using his scenery. At the end, Anton had walked me to the tram stop and said, “You know I've left, don't you?”
 
 “I haven't asked you to come back.”
 
@@ -248,7 +248,7 @@ For a while I had to sharpen it every few minutes. Later the grip became gentler
 
 Silvie was his partner. I knew that. I had known it at the birthday dinner, when he put his hand on her knee under the table. It had been easier to keep calling her something else. A flatmate could be left when he came back to the show.
 
-Some of what they said I am leaving out. I couldn't give them an empty room or even a conversation I didn't hear. I could stop repeating it afterward.
+Some of what they said I am leaving out. I had to hear her questions and read his answers aloud. Afterward I could keep them to myself.
 
 When Silvie had to go, she didn't say goodbye to me. She said she would stay near her phone.
 
@@ -284,11 +284,9 @@ Renske had lowered the next card. I could hear Harriet coughing in the stalls.
 
 The white button moved.
 
-I closed my eyes. The pressure laid itself along my wrist, light this time. I counted to three and opened them. The cup hadn't moved.
+Renske held up another card while my eyes were shut, then put it facedown. The pressure lay lightly along my wrist. I counted to three and opened my eyes. The cup hadn't moved.
 
-“Another?” Renske asked.
-
-We waited for the white button before trying again. This time she held up a card while my eyes were shut. I opened them, and she put it facedown before I could see it.
+“What was the card?” I asked.
 
 The pencil made a question mark.
 
@@ -297,6 +295,8 @@ When she turned the card toward me, it drew a crooked heart and a 4.
 We tried ten seconds. I could feel the unseen grip all the way through, but it didn't pull. When I opened my eyes, the pencil wrote **LONG**.
 
 “Ten seconds,” I said. “It was ten seconds here.”
+
+I had left a bedside lamp burning through two nights. It could have helped him only while my eyes were open. I had been blaming a new limb for keeping me from sleep.
 
 I asked where he was. The pencil pressed so hard it tore the paper.
 
@@ -360,7 +360,7 @@ She held them open with a look of such hatred that I stepped back.
 
 Renske sat beside her. “We want you asleep,” she said. “That's what we're trying to get.”
 
-I didn't have cards with me. I had a lamp and two palms that had hurt everyone who tried to make them safe.
+I didn't have cards with me. I had a lamp, and Harriet's palms were hurting everyone who tried to make them safe.
 
 “I'm going to speak to whatever is doing it,” I told Harriet. “If you want me to stop, say so.”
 
@@ -371,8 +371,6 @@ I kept the lamp where Harriet could see it.
 “If you can hear through her, we're here. We aren't leaving. If you can stop the fire, keep it stopped while I count to three.”
 
 I counted. Nothing appeared.
-
-That proved very little. Harriet herself had heard me. I tried something less comforting.
 
 “Can you make one small flash when I say two? Just one. And none at three.”
 
@@ -450,9 +448,7 @@ I explained the count, to Harriet and to anyone hearing with her. Her fingers st
 
 The fingers had curled at two, but they had stayed dark. Harriet's eyes opened. She let out a sound that was almost a laugh.
 
-We did not try ten. We did three again. Renske counted that time; I watched. The hand twitched once, and stayed cool.
-
-Harriet asked for five. When those were over, she lay back with her eyes open and the lamp against her chest.
+Renske counted while we repeated three seconds; I watched Harriet's hand. It twitched once and stayed cool. Only then did Harriet ask for five. When those were over, she lay back with her eyes open and the lamp against her chest.
 
 “Could you talk for a while?” she asked Renske. “Don't let me sleep yet. Just let me listen.”
 
@@ -475,6 +471,10 @@ I looked at the reddened patch beneath my burnt sleeve. The pencil waited. I had
 “It's all right,” I said. “I can feel it. Can you?”
 
 **YES**
+
+“Tonight I'll have to sleep,” I said. “I'll ask Silvie if she can be on the phone when I try. I don't know whether you'll still hear her through me. I'll tell you before I shut my eyes.”
+
+The white button moved toward me. I let the pencil wait until he was ready to write again.
 
 We had more to find out than I had paper for.
 
