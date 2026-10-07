@@ -52,7 +52,7 @@ Silvie was my brother Anton's flatmate. That was how I thought of her, though he
 
 “Not today.”
 
-We hadn't spoken much afterward. I had sent him photographs of a new set. He had sent me a picture I hadn't opened.
+We hadn't spoken much afterward. I had sent him photographs of a new set. He had sent me a picture without a message. I had left it as an empty grey download box.
 
 Now I told Silvie to check the stairs, the roof, the cupboards. She had already checked all of them. The front door had been locked from inside.
 
@@ -168,7 +168,7 @@ The pencil rose and hung over the table.
 
 **BLUE RABBIT**
 
-I tried to think of somebody named Basil. A teacher, perhaps. One of the men who had sold Dad wood. Renske took out her phone and photographed the sheet before I could say anything else.
+I tried to think of somebody named Basil. A teacher, perhaps. One of the men who had sold Dad wood. Renske lifted her phone from the box without stopping the recording, then photographed the sheet.
 
 “Who knows what he's been doing?” she asked.
 
@@ -203,6 +203,10 @@ I asked Silvie to send a photograph. It arrived while she was still talking: a y
 “He didn't tell me.”
 
 “He sent you a picture.”
+
+“Could you have seen it without opening it?” Renske asked.
+
+I scrolled back to Anton's message. There was still only the empty box. “It never downloaded,” I said. I tapped it now. The photograph loaded: Basil sprawled on Anton's lap, with the blue rabbit under his chin.
 
 “Where was Basil when I came over?”
 
@@ -471,6 +475,8 @@ I looked at the reddened patch beneath my burnt sleeve. The pencil waited. I had
 “It's all right,” I said. “I can feel it. Can you?”
 
 **YES**
+
+I lifted the scorched sleeve away from my arm. I'd taken him up that aisle with me.
 
 “Tonight I'll have to sleep,” I said. “I'll ask Silvie if she can be on the phone when I try. I don't know whether you'll still hear her through me. I'll tell you before I shut my eyes.”
 
