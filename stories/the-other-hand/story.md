@@ -210,7 +210,7 @@ I had said the city into the microphone. I had not known I was saying it. There 
 
 I found the gate again after I found six other gates. Only one hand was still on it. I could not tell whose. I could hear children calling from balconies. No one I reached knew what was pulling them, or when it would stop.
 
-In the studio someone had laid coats over the people brought into the hall. My producer asked the living ones to move closer together to make room. The glass-current girl sat on the floor holding a man's shoes. He had asked her to take them off because they hurt. She was still holding them when he no longer needed her to.
+In the studio someone had laid coats over the people brought into the hall. My producer asked the living ones to move closer together to make room. The young woman who could send current through glass sat on the floor holding a man's shoes. He had asked her to take them off because they hurt. She was still holding them when he no longer needed her to.
 
 I could not bring the mother at the gate back by closing my eyes.
 
@@ -288,7 +288,7 @@ She wasn't running quickly. Between journeys she sat on the curb to catch her br
 
 I found places where clocks had stopped, places where every clock disagreed, people looking at suns which seemed to pause and then leap. Machines were doing impossible things too; a clock alone could tell me nothing. Yet people sharing a room could no longer share the time it took to leave it.
 
-In the studio, the glass-current woman had made the cracked window glow. She was tired of people being frightened of her hands. She drew a line of light round the edge of the pane and smiled at it. The light brought everyone in the room close enough to see the clock reflected there.
+In the studio, the young woman had made the cracked window glow. She was tired of people being frightened of her hands. She drew a line of light round the edge of the pane and smiled at it. The light brought everyone in the room close enough to see the clock reflected there.
 
 It had been twelve hours since the first minute.
 
@@ -392,7 +392,7 @@ The opening had not been there when I first caught her. The man outside had made
 
 The officer returned.
 
-"There's a person. They can't tell if she's alive."
+"There's a person. He says her hand's moved since he took the picture. They can't tell if she's alive."
 
 "She's reaching for the rail."
 
