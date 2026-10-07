@@ -48,13 +48,13 @@ He looked toward the curtain. "The officer said she'll come over when she's done
 
 Dara rubbed the grooves the gloves had left around her fingers. She had been allowed to stand by the stretcher for a moment. The medic had said she was sorry. Dara had said, "No, he's Switchjack," as if that corrected anything, and the medic had repeated that she was sorry.
 
-"How long did you lose the hold for?"
+"Did the hold go wrong?"
 
 Kit turned toward her.
 
 "When you were watching me," she said. "When I took that girl out. Was that when?"
 
-"I didn't lose it."
+"It didn't go wrong."
 
 She waited. Somewhere behind the curtain, a radio crackled into words and stopped.
 
@@ -166,7 +166,7 @@ Then she looked at Kit holding the glove.
 
 He put her glove beside its mate. He was careful about it. She hated how careful he was being and hated herself for wanting his hands to shake.
 
-"There were other people," he said. "That girl's dad. Milla. The guards he took with him last time. I'm not saying it was only you."
+"There were other people," he said. "That girl's dad. Milla from school. The guards he took with him last time. I'm not saying it was only you."
 
 "But you're saying me."
 
@@ -224,7 +224,7 @@ She couldn't answer that. She wanted him to have said something stupid.
 
 He looked at her, waiting for an answer she didn't have.
 
-"Because you killed him."
+"That doesn't mean you get to kill him."
 
 The words came out too loud. A woman passing the booth paused, saw their masks, then kept going. Dara couldn't tell whether she had heard.
 
@@ -346,7 +346,7 @@ Her own eyes hurt. It was cruel to let him sit there asking. It was cruel of him
 
 He breathed out.
 
-"Don't do that."
+"Don't do that," Dara said.
 
 His mouth closed.
 
@@ -388,7 +388,7 @@ His hand came back to his knee. "Okay."
 
 That was all. He didn't say he hadn't been going to. He didn't try to make it a different request.
 
-They sat with the curtain open. Her mother would have to come past the pretzel place, and Dara watched that end of the food court. Kit watched the officer. Between them the bench was warm where their legs had been.
+They sat with the curtain open. Her mother would have to come past the pretzel place, and Dara watched that end of the food court. Kit watched the officer.
 
 After a while, Dara took a glove from the shelf. She started pushing her fingers into it, then stopped. The grit beneath her collar was scratching again.
 
