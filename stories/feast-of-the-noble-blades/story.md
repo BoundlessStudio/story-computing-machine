@@ -108,7 +108,7 @@ Three copper feathers stood above her dark hair. She sat beside a long, pale gre
 
 “My right thumb doesn't bend at all. Solid ash. I wondered whether I could brace it against that rest without breaking it.”
 
-The sword in the green scabbard was Ildesse; Elska remembered the name from the delegates' list. The woman raising her hand was the wooden body Ildesse moved and spoke through. Her living thread supplied its magic, its features were glamour, and its silk was real. The body could go six paces from her steel; she had occupied two chairs to put both of herself comfortably within the presentation.
+The sword in the green scabbard was Ildesse; Elska remembered the name from the delegates' list. Ildesse's living thread let her move and speak through the wooden woman in copper silk. She could send that body six paces from her steel and had taken two chairs to seat both of herself comfortably.
 
 “I'd need to examine the thumb,” Elska said. “And how much movement you get here.” She touched her own wrist. “I can't promise from across the room.”
 
@@ -180,7 +180,7 @@ Rusha began taking her hand out of the grip.
 
 “The trial can't wait until after the examination. I've promised Helvek an answer at four, and we rehearse then.”
 
-“I know.”
+“I know. I'm staying for the bench.”
 
 “I haven't promised you the bout.”
 
@@ -204,7 +204,7 @@ After Rusha's fitting, a large man in a padded fencing coat held up his left han
 
 Elska invited him up.
 
-His palm was broad, but his thumb reached farther than Rusha's. He held his own sword so tightly that the tip trembled. Scathe was lighter, and after Elska moved the shelf he was able to loosen his fingers. He seemed surprised that she stayed in his hand.
+His palm was broad, but his thumb reached farther than Rusha's. He held his own sword so tightly that the tip trembled. Elska reversed the supports on their rails and placed Scathe in his left hand. Scathe was lighter, and after Elska moved the shelf he was able to loosen his fingers. He seemed surprised that she stayed in his hand.
 
 Rusha had remained at the end of the table. Elska gave her the padded rod.
 
