@@ -6,8 +6,12 @@
 
 leave the date out of the it so we can move the story more feelly around the timelines.
 
+# User revision direction
+
+this feels really like the story "Still Taking Runaways" and not enough like a BRITH OF SUPER POWERS story it should be... like EPIC...
+
 # Production direction
 
-No audience or intensity was specified. Begin with a General audience target and non-graphic treatment of catastrophe, then classify the finished prose and cover under the collection's AO3 rating definitions. Omit the calendar date from the prose. The undated modern-looking setting has no asserted connection to an existing era or system; it does not place active magic in the Long Dark.
+The user requests an epic birth-of-superpowers story, with a clear departure from the small theatrical and animated-object structure of Still Taking Runaways. Make the worldwide transformation and the emergence of powers the story's central action. Keep catastrophe and violence non-graphic, then classify the finished prose and cover under the collection's AO3 rating definitions. Omit the calendar date from the prose. The undated modern-looking setting has no asserted connection to an existing era or system; it does not place active magic in the Long Dark.
 
 No reference images were supplied.
