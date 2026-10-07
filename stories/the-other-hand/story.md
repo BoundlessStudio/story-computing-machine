@@ -48,7 +48,7 @@ It was early morning where my body sat. Elsewhere the event had arrived in the m
 
 The studio clock said 05:17.
 
-The hours I remember below begin there.
+Everything I can tell you starts there.
 
 ## The first hour
 
@@ -122,9 +122,7 @@ A girl in Santiago was growing a tree through her grandmother's balcony. The roo
 
 In Shanghai, a man had become four men. He put all four of himself to work digging beneath a collapsed shopfront. When they found a safe, two wanted to take it and two wanted to keep looking for the shopkeeper. The argument had his voice on both sides. They lost time. There was a cough under the concrete, and all four stopped arguing at once.
 
-I could have kept one of them. It would have been easier to return to a face I knew, learn a name, pretend I had found the shape of the world in one life.
-
-Instead, each urgency opened into others.
+The coughing pulled me into other people trying to breathe.
 
 People putting fires out. A woman in Ankara drew cold into her hands until frost climbed to her elbows; the burning curtains crumbled beneath her touch. A man in Johannesburg called water out of the air and discovered he was taking it from people's mouths. They coughed. He stopped. A fire crew with no new abilities hauled a hose up three flights because the miracle had not finished their work.
 
@@ -176,13 +174,47 @@ I had imagined the unaltered people as an island outside the noise. They were ev
 
 My producer still could not do anything impossible. He had found a car battery and a man who knew how to connect it to our equipment. The man was frightened of the young woman in the hall. She could make current run through glass. She offered to help; he asked her to keep her hands behind her back while he worked. She did. He thanked her when the transmitter came back.
 
+The man had come to ask us to read out his wife's name. He had connected the battery first. Now he took a folded receipt from his pocket and showed my producer the number written on it, as if the number itself might explain why she did not answer.
+
+They tried it again. I stayed with the ringing until another phone rang inside somebody else's head.
+
 I searched for people bringing order.
 
 In a ministry, a deputy was writing names beneath headings on paper because the computers had begun answering a cleaner. The cleaner was in the basement, afraid to move, holding every fire door open for people to get out. He had not meant to take the computers too. The deputy needed the doors, the computers and the cleaner. He sent a man downstairs with a chair, water and instructions to ask before unplugging anything.
 
 An army captain watched one of his men lift a truck out of a ditch. The soldier set it down and waited, grinning, for the next order. The captain put him on the front of the convoy. A kilometre farther on, another soldier heard that same order and grew a line of stone teeth across the road. He thought the captain meant to stop the civilians approaching it. The truck hit the teeth. The captain ran toward the impact before remembering the first man might be able to lift it away.
 
-People claiming order arrived too.
+In Dhaka, a road had fallen sideways.
+
+People were being pulled along it toward a row of shops. A bus slid broadside into the shutters. The people inside it lay against the windows, unable to climb back to their seats. Above them, washing stretched horizontally from balconies. A woman held the bars of a gate and watched a motorcycle strike the wall beside her. She could not reach her son. He lay at the far end of the road, among people she could no longer tell apart.
+
+I went looking for him and caught a man who had made the air solid beneath his feet. He stood sideways above the road. He kept trying to make a step for someone else. Where he looked, people struck invisible surfaces; where he looked away, they began sliding again. He shouted at them to stop moving, then begged them to. They could not hear him over the engines running without anyone's foot on their pedals.
+
+A girl came along the roofs, jumping from one to the next. She had discovered that distance would shorten if she closed her eyes before she jumped. She reached the bus and put one hand through a window. A passenger caught it. She shut her eyes and pulled him toward her.
+
+They landed on a roof together. The man had a child against his chest. She had stopped breathing against his neck while they were still in the bus. He kept one hand over her face when the girl reached to help him stand.
+
+He would not leave the roof. He pointed back toward the bus. His other daughter was there.
+
+The girl jumped back. The street pulled her against the bus's side and held her there. She shut her eyes. This time she did not know where to put her feet. I stayed in her long enough to feel her choose the roof she had just left, long enough for her to appear beside the man without his daughter.
+
+He was still pointing.
+
+Below them the woman at the gate had stopped calling. Her son had turned his head toward her. He was alive. The woman next to him was not. The mother's hands began slipping along the bars. She took one off to wipe it on her skirt. For a moment the hand on the gate was not strong enough.
+
+My producer touched my shoulder.
+
+"Darya. They're asking where."
+
+I had said the city into the microphone. I had not known I was saying it. There were streets full of people there, listeners with family somewhere among them, and I had no turn to give them, no building number, no way to make a girl land where she wanted.
+
+I found the gate again after I found six other gates. Only one hand was still on it. I could not tell whose. I could hear children calling from balconies. No one I reached knew what was pulling them, or when it would stop.
+
+In the studio someone had laid coats over the people brought into the hall. My producer asked the living ones to move closer together to make room. The glass-current girl sat on the floor holding a man's shoes. He had asked her to take them off because they hurt. She was still holding them when he no longer needed her to.
+
+I could not bring the mother at the gate back by closing my eyes.
+
+The next voice which could make people obey felt like relief before I heard what it was saying.
 
 A man on a roof in Jakarta spoke, and everyone who heard him knelt. He had discovered it by asking his neighbours to keep calm. Now he was trying different words, watching which ones the crowd obeyed. His wife was kneeling beside him, furious. He told her to stand, and she did. Then he kissed her forehead, certain she would forgive him when she understood how much safer everyone would be.
 
@@ -190,9 +222,9 @@ A girl in Lisbon could bring any object which was hers into her hands. Her phone
 
 Farther away, a clerk discovered that spoken promises grew visible as thin bright cords. He could not make anybody promise. He could show the cords to people who had denied what they said. When the police brought him to a government office, he was excited to be useful. When they locked the office door behind him, he began considering what he had promised them.
 
-Nobody had given these people understanding with their abilities. They were making interpretations as quickly as they could make damage. But I could not pretend the damage was all they were making.
-
 A woman in Mexico City turned the wreck of a car into bread. It came apart in her hands, warm and fragrant. She kept the first piece for herself. She had missed breakfast. Then she began passing the rest down a line of people who had been waiting to see what else she would change.
+
+I tasted it inside her. My own fingers were still hooked under the desk. My producer had to lift them one by one before I could take the sandwich he offered.
 
 A young man in Johannesburg stood in a queue outside a stadium and found that every decision came out in his favour. The dropped money landed by his shoe. The crowd parted where he wanted to walk. When a policeman tried to stop him, the man's radio called him away. The young man went straight to the gate and was admitted. Then he saw his little sister still outside, caught between people pressing forward. He went back for her, delighted that this was, at last, his day.
 
@@ -216,7 +248,33 @@ I came back to the desk with the taste of stale crisps in my mouth. My producer 
 
 Was that a dream? A projected mind? A person whose new ability made her believe memories she had never lived? I had heard people who were certain they were dead while their bodies stood untouched. I had heard a child calling a stranger his mother after her face changed. Belief was still not proof.
 
-But a memory of falling could not contain that woman on the platform. And she was not the last.
+Our next caller asked whether I could find her brother.
+
+"They've searched his street," she said. "There's nobody there. My parents won't leave the house until he comes."
+
+My producer wrote down the street. The caller spelt her brother's name twice. While she waited, I caught her father in her thoughts: sitting on the stairs in his good coat, listening for a car. The coat belonged to him. For a second I had thought it was the one over a man's face in our hall.
+
+"Can you tell them?" she asked.
+
+"Tell them what?"
+
+"That he's dead. They believe you."
+
+Behind her a door banged. She turned from the phone. Someone was telling her they had to go now, before the next houses came down. My producer pointed at the microphone, then at the name he had written. He needed an answer he could put on air.
+
+I could have told her about a woman who had already lived four days in a station. I had not found her brother. The station was not his street. I could have given her the one kind of hope which would keep her father on those stairs.
+
+"I can't tell you he's dead," I said. "I can't tell you he's coming."
+
+"Then I'll have to tell them."
+
+She put the phone down. I caught her again as she took her mother's arm. Her father asked what I had said. She said his son wasn't coming. The mother stood. The father kept his good coat on and stayed where he was.
+
+The caller left with her mother. I lost them at the front door, where other people were waiting to get past. I could not know whether she had just saved her mother's life.
+
+My producer crossed out the name on the sheet of questions he could answer. He did not cross it out on the other list.
+
+I had to find out what waiting meant now.
 
 I tried to find people waiting for the world to move.
 
@@ -228,7 +286,7 @@ At a crossing outside Bogotá, a driver watched a woman move too quickly to foll
 
 She wasn't running quickly. Between journeys she sat on the curb to catch her breath, and the shouting man continued making the first sound of his word.
 
-I found places where clocks had stopped, places where every clock disagreed, people looking at suns which seemed to pause and then leap. Machines were doing impossible things too; a clock alone could tell me nothing. Yet there were minds on each side of an ordinary doorway, each living a different amount of waiting.
+I found places where clocks had stopped, places where every clock disagreed, people looking at suns which seemed to pause and then leap. Machines were doing impossible things too; a clock alone could tell me nothing. Yet people sharing a room could no longer share the time it took to leave it.
 
 In the studio, the glass-current woman had made the cracked window glow. She was tired of people being frightened of her hands. She drew a line of light round the edge of the pane and smiled at it. The light brought everyone in the room close enough to see the clock reflected there.
 
@@ -262,9 +320,11 @@ A soldier on an island runway watched a whole mountainside rise off the ground. 
 
 A man who could breathe storms out of his mouth had climbed above a coastal town. He was trying to blow a coming cyclone away. The cyclone turned. On the other side of the bay, a family watched the weather change direction toward them. Their daughter could stretch her skin into a thin bright sail. She spread it across the roof and told her brothers to hold its edges. They were afraid of hurting her. She told them to hold harder.
 
-Some of these things I spoke about. Many I did not. What I could feel was wider than what I could responsibly tell someone to do. The people I entered had their own work, their own deceptions, their own astonishing private pleasures. I had no right to turn a woman who wanted new teeth into an instruction for a woman trying to find her son.
-
 Our phones rang. People told us things which were more useful than my power: a shelter had room, a street had become impassable, someone needed batteries of a size a listener happened to have. My producer relayed those messages. He made callers repeat their addresses. If they could not, he told them that too. I could hear him from a long way inside other lives.
+
+When the lights outside the window came on, he was still reading names. He had put one list beside the car battery. There was no question attached to the people on it. They had been identified, and someone would have to tell their families.
+
+A caller asked us to stop saying her husband's name as if he might phone back. She had been beside him when it happened. She wanted to hear his name. Just not like that.
 
 I kept searching the missing.
 
@@ -292,15 +352,15 @@ The stairwell came back to me with something new in it.
 
 Light.
 
-It moved across the woman's left hand, bright enough to make her blink. Dust burst from the wall beside her. A metal tip emerged through the plaster, spinning with a speed she could not understand. She jerked her fingers away. The orange tag struck her wrist.
+It lay across the woman's left hand. Where there had been a wall, there was a ragged opening. Plaster hung in the air beside it. Her fingers were still on their way toward the rail. The orange tag had begun to touch her wrist.
 
-She was still falling. But now she thought someone had come.
+She was still falling. The light had caught in her sight. She was only just beginning to understand that the wall had opened.
 
-I followed the light, wanting the person holding it.
+I went looking for the opening from the other side.
 
-A man in a hard hat stood beside a drill, looking through a hole in the concrete. His work lamp lit the broken stairwell beyond. At first he thought the shape he saw was a mannequin. Then a hand moved. Very little. It had not been in that position before.
+A man in a hard hat stood beside a drill, looking through a hole in the concrete. His work lamp lit the broken stairwell beyond. He had made the opening hours earlier, while there was daylight in the street. He had stopped when he saw what he thought was a mannequin inside. He had left the lamp on it so the next men would see it too.
 
-He stopped the drill.
+Now he held his phone beside the hole, comparing the shape with the photograph he had taken then. A hand had moved. Very little. It had not been in that position before.
 
 There was a plan spread on the bonnet of a van beside him. MARINER COURT. He had been trying to find the load-bearing wall marked in red. The plan was old enough to show a shop which no longer existed. He was thinking of that error, annoyed by how many different things could make his job go wrong today.
 
@@ -326,11 +386,9 @@ I heard the memory because he was thinking it now. I did not tell him that I cou
 
 He put me on hold. Through the phone came other voices. Through the condition in my head came the worker again, stepping back from his new hole, trying not to look until someone else would look with him.
 
-The woman inside was still moving toward the steps. She had one elbow out now to take the fall. The drill had made dust which seemed to rush past her like thrown sand. It had given her something new to fear.
+The woman inside was still moving toward the steps. Her elbow was on its way out to take the fall. She could see the lamp beyond the broken wall. She thought somebody might be looking in. It was a new thought, full of fear of being seen like this, of someone watching her fall and not putting out a hand.
 
-There was a metal tip beside her face. There was a man outside who had just withdrawn it. For her, the withdrawal was happening too quickly to follow.
-
-I did not need another clock to know these were not only the things she remembered.
+The opening had not been there when I first caught her. The man outside had made it in the hours between. What he had left in her room was now arriving in her experience.
 
 The officer returned.
 
@@ -352,7 +410,7 @@ If they waited, the crowd would have to go east. He was looking at a map of the 
 
 I did not ask him to weigh them as if I possessed both numbers in my hands. I did not know how many were inside. I did not know whether the woman would survive when she finished falling. A drill entering her room from our time might have hit her like a weapon.
 
-"I can't tell you it's safe," I said. "I can tell you she noticed your drill. She moved because of it."
+"I can't tell you it's safe," I said. "I can tell you she can see the opening you made. She's wondering why nobody will reach in."
 
 The officer stopped looking at his map.
 
@@ -380,9 +438,9 @@ I stayed in them until the boy's mother had stopped trying to make her voice gen
 
 The drill worker put a board through the broken wall at Mariner Court. A rescuer took it farther. His hand entered the stairwell and moved differently from his arm. He tried to pull it back. The worker stopped him before he pulled hard enough to hurt himself.
 
-I reached the woman inside. She could see a hand coming through the wall. It grew toward her in abrupt movements, appearing where there had been no hand a moment before. She turned her shoulder away from it, trying to make room for her own landing.
+I reached the woman inside. She could see a hand where there had been no hand a moment before. Her shoulder had begun to turn away from it. She wanted room for her own landing.
 
-Outside, the rescuer felt something strike his fingertips.
+The rescuer kept his hand there while someone went for another board. By the time they came back, he could feel something against the very ends of his fingers. He did not know whether to move toward it.
 
 Neither knew how to help the other yet.
 
@@ -392,7 +450,7 @@ That warning belonged with mine.
 
 I could not stay only there. The world kept coming through the conditions I had opened, and the first day was making powers into things nobody at its beginning could have imagined choosing.
 
-A minister stood beside a woman who could carry voices over the whole country. He wanted to use her for an order to remain indoors. She asked whether the houses were safe. He said he did not know. She repeated that first, then his order. Thousands left doors open while they listened, waiting to see what the people next to them would do.
+A minister stood beside a woman who could carry voices over the whole country. He wanted to use her for an order to remain indoors. She asked whether the houses were safe. He said he did not know. She repeated that first, then his order. I caught a man leaving his door open while he listened, a woman looking out at her neighbour, a child who wanted to ask whether the voice could hear him too.
 
 On an island, the mountain stopped rising. It remained above the ground, with a city on its back. People had begun throwing ropes from its edge. Some wanted to get down. Some on the ground wanted to get up. A man at the foot of the first rope asked for money. An unpowered woman pushed past him and began climbing with a child tied to her back.
 
@@ -406,7 +464,7 @@ A woman on a beach heard voices from out past the breakers. She could breathe un
 
 Somewhere the man who had survived the Atlantic fall had stopped waving at aircraft. He had begun swimming toward the place where he hoped a coast would be. The sea had not become less immense because it could no longer kill him in the same way.
 
-A girl in a room full of shoes had found the face she wanted. She sent a photograph to a friend. It was the first message she had sent since the beginning which contained no question.
+A girl tried a new face in a mirror. She made the chin rounder, then put it back as it had been. Behind her, shoes lay scattered across the floor; she had been packing to leave when she discovered what she could do. She sent a photograph to a friend. It was the first message she had sent since the beginning which contained no question.
 
 There were people refusing rescue, people trying to surrender abilities they could not take off, people discovering how much could be done to others before anyone arrived to stop them. A man's darkness spread across an entire town. He meant to hide it from the sky. Those inside it could not see the steps on which they tried to leave. People began tying themselves together by the wrist.
 
@@ -428,7 +486,7 @@ It was barely a change. Her orange key tag still turned below her wrist. Her fee
 
 I gave the officer the one thing I had seen change. He did not thank me. He asked me to tell him if she moved again.
 
-My producer wrote her flat number on a sheet of paper. Beneath it he wrote a station name the woman who had lived four days had read from her ticket. We could not place that station. Beneath those he wrote *tea in doorway*, because we did not know where to put the man who was still waiting for his wife.
+My producer wrote her flat number on a sheet of paper. Beneath it he wrote a station name the woman who had lived four days had read from her ticket. We could not place that station. Beneath those he wrote *tea above a glass*, because we did not know where to put the man who was still waiting for his wife.
 
 Three pieces of a thing too large to draw.
 
@@ -436,7 +494,13 @@ I did not know whether somebody's power had made those places, whether the first
 
 But the missing were not all missing from a place. Some were missing from the amount of time we had assumed belonged to everyone. Others had lived too much of it. Searching for them as though they had all gone away was already making us do dangerous things.
 
-I told our listeners what I knew, what I thought, and what I could not distinguish. Some asked for names. Some called me a liar. A demolition elsewhere continued. At another site, someone took the explosives back to the truck. I caught his doubt as he carried them. It weighed nothing like relief.
+"There's a woman in Mariner Court who's still falling," I said into the microphone. "She's been falling since this began. She isn't living through as much time as we are. I've heard other people who've already lived days. I don't know how many. I don't know how it happened."
+
+My producer pointed at a question on his paper. *Can they get out?*
+
+"We haven't got her out," I said. "I can't tell you how. But if you've found an empty place, please look again before you destroy it."
+
+Some asked for names. Some called me a liar. A demolition elsewhere continued. At another site, someone took the explosives back to the truck. I caught his doubt as he carried them. It weighed nothing like relief.
 
 Then the producer put his hand over mine.
 
