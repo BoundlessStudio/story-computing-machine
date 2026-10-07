@@ -166,7 +166,7 @@ The crossbow's carrier went on writing. Somewhere at the back, a lance asked its
 
 Rusha looked at Elska's hand, still touching the grip. “I thought you knew.”
 
-“She didn't,” Scathe said. “I had the polish boy write it down and post it while you were at the foundry. I said ‘we.’ I hadn't asked.”
+“She didn't,” Scathe said. “I said ‘we.’ I hadn't asked.”
 
 Elska could hear the reed now, the small effort behind the fine carrying voice. The diagram at her back showed the supports fitted to her own hand, knuckles enlarged with an accuracy she regretted. She had thought Scathe would be proud of it. Scathe had been proud of it. Both could be true, apparently, while Elska stood in front of a hall of people and learned what else had been happening in her workshop.
 
@@ -264,6 +264,8 @@ Ildesse took off her glove and drew back the copper sleeve. She watched Elska te
 
 “We can work around that.” Elska made a drawing, asked her to close the hand again, and changed the angle. “Leave the glove with me for a pattern?”
 
+The quarter-to-four bell sounded. Scathe's glass bead faced the west door.
+
 “The left one. I need my right hand dressed for the evening.” She worked the little pearl buttons free. “I wore these to the Ousel Room a fortnight ago. I'd like to get more than one season out of them.”
 
 Elska took the left. Scathe offered to remember the wrist measurements. Elska wrote them down.
@@ -276,7 +278,7 @@ She shut the curtain, set the rapier across the arms, and sat opposite her. Her 
 
 “How long?”
 
-“I wrote her three weeks ago.”
+“I had the polish boy write it down and post it three weeks ago. While you were at the foundry.”
 
 “We rehearsed every evening.”
 
