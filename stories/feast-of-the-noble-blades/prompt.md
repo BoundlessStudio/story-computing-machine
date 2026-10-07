@@ -7,3 +7,7 @@ Supplied reference images: none.
 Later user direction, verbatim:
 
 i think we could link this in after "The Place Laid for Her" and even include reference to blade in that story.
+
+Later cover correction, verbatim:
+
+the cover image blade is messed up and goes in both directions.
