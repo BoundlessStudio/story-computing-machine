@@ -30,7 +30,9 @@ Elska had come every year since Scathe's living root first took in her forge. In
 
 Elska smiled and lifted the rapier. The new support settled against the heel of her palm. Its thumb rest was broad enough to spread the pressure that, with the old grip, had gathered cruelly beneath one joint. She did not have to squeeze so hard. After nine months of cutting models, moving screws, and being told to rest, she could hold Scathe upright again without calculating how long it would be before she had to put her down.
 
-On the other side of the curtain, the mace struck the floor for quiet.
+Their half-hour panel was followed by a bench examination that ran until quarter past four. Elska had brought order slips as well as measurement paper.
+
+The three-o'clock bell sounded. On the other side of the curtain, the mace struck the floor for quiet.
 
 “She'll introduce us as ‘Master Elska and her demonstration weapon,’” Scathe said.
 
@@ -44,7 +46,7 @@ The woman announced Elska and Scathe by name. They looked at each other as well 
 
 ***
 
-Their diagram was already hanging behind the demonstration table. Elska had drawn it herself, a hand in black ink around a red cross-section of the grip. Beneath it Scathe had added, in a much smaller script, *Hand shown for purposes of illustration. Yours may vary.*
+Their diagram was already hanging behind the demonstration table. Elska had drawn it herself, a hand in black ink around a red cross-section of the grip. Beneath it she had lettered Scathe's contribution, in a much smaller script: *Hand shown for purposes of illustration. Yours may vary.*
 
 The hall was full. Human listeners occupied chairs. Blades without bodies rested in padded racks among them; polearms rose from the back rows like a winter wood. A buckler had insisted on facing the speakers from the breast of a particularly tall woman. To Elska's left, an elderly crossbow was making its carrier take notes.
 
@@ -106,7 +108,7 @@ Three copper feathers stood above her dark hair. She sat beside a long, pale gre
 
 “My right thumb doesn't bend at all. Solid ash. I wondered whether I could brace it against that rest without breaking it.”
 
-She spoke from the woman's mouth, but she was the sword beside it. Ildesse: Elska remembered the name from the delegates' list. Her living thread supplied the magic for a wooden body dressed in glamour and real silk. That body could go six paces from her steel; she had occupied two chairs to put both of herself comfortably within the presentation.
+The sword in the green scabbard was Ildesse; Elska remembered the name from the delegates' list. The woman raising her hand was the wooden body Ildesse moved and spoke through. Her living thread supplied its magic, its features were glamour, and its silk was real. The body could go six paces from her steel; she had occupied two chairs to put both of herself comfortably within the presentation.
 
 “I'd need to examine the thumb,” Elska said. “And how much movement you get here.” She touched her own wrist. “I can't promise from across the room.”
 
@@ -142,7 +144,7 @@ Rusha did. The extra brass checked against the base of her thumb. She tried agai
 
 Rusha turned Scathe over to look at the screws.
 
-“How long to put her back on the oval? We'd only have ten minutes at quarter to four. I must try Helvek before I choose for tomorrow's bout.”
+“How long to put her back on the oval? I have from half past three to quarter to four to try her. Then I'm booked with Helvek, before I choose for tomorrow's bout.”
 
 Elska's fingers stayed on the brass rail.
 
@@ -164,7 +166,7 @@ The crossbow's carrier went on writing. Somewhere at the back, a lance asked its
 
 Rusha looked at Elska's hand, still touching the grip. “I thought you knew.”
 
-“She didn't,” Scathe said. “I wrote ‘we.’ I hadn't asked.”
+“She didn't,” Scathe said. “I had the polish boy write it down and post it while you were at the foundry. I said ‘we.’ I hadn't asked.”
 
 Elska could hear the reed now, the small effort behind the fine carrying voice. The diagram at her back showed the supports fitted to her own hand, knuckles enlarged with an accuracy she regretted. She had thought Scathe would be proud of it. Scathe had been proud of it. Both could be true, apparently, while Elska stood in front of a hall of people and learned what else had been happening in her workshop.
 
@@ -234,7 +236,7 @@ Elska watched Rusha vary the attack. Once she began high and changed her mind. O
 
 He did it again. The sword said nothing. The man looked up, waiting for confirmation.
 
-“You felt it,” she said.
+“You felt it,” Scathe said.
 
 Rusha glanced toward Elska. Elska held out her hand for the rod and asked the registrar what ached. He showed her the side of his thumb. She moved the rest a little farther out.
 
@@ -330,7 +332,7 @@ Scathe did not help her by saying it didn't matter.
 
 The curtain rustled. Rusha spoke from the other side, asking whether they were ready to see her. Elska took a breath and let her in.
 
-“Helvek has tomorrow's bout,” Rusha said. “We've worked together before. We know what we can do.”
+“Helvek has tomorrow's bout,” Rusha said. “I kept my appointment with him. We still haven't had our trial, Scathe, and with Helvek I know what we can do.”
 
 Scathe said nothing.
 
