@@ -1,0 +1,82 @@
+{
+  "story": "All at Once",
+  "created": "2026-10-07",
+  "image_generation_mode": "built-in image_gen",
+  "source_reference_images": [],
+  "style_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "use": "Coordinator inspected its colour/value masses and opaque directional strokes to shape the textual art prompts."
+    },
+    {
+      "path": "stories/friends-of-the-night/art/landscapes/05-the-stream-after-ash.png",
+      "use": "Coordinator inspected connected shadows, natural light and quiet passages; this is a collection style reference, not a story input or canon link."
+    }
+  ],
+  "original_location": "landscapes/island-city-original.png",
+  "selected_location": "landscapes/island-city-selected.webp",
+  "interpretation": "Darya's physical appearance and wardrobe are an artistic interpretation: the prose names her and her work, but does not specify age, skin, hair, clothes or ethnicity. The chosen adult appearance is consistent across all sheet views and does not establish shared canon. The island's exact rock shape, architecture and airfield equipment likewise interpret an unnamed inhabited island and imply no named nation or era.",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "../title-image.jpg",
+      "selected": true,
+      "dimensions": [
+        864,
+        1536
+      ],
+      "generation_prompt": "Use case: illustration-story.\nCreate a literary science-fiction novel cover for the finished story All at Once. Portrait 9:16, compose for final 864 x 1536 crop with important content and all title lettering well inside the central safe area. Render the exact title 'All at Once' ONCE, clearly readable, as part of the painting, understated large ivory serif lettering in the upper open sky; no author name, no subtitle, no other words. A worldwide birth of supernatural powers during one catastrophic day: depict one actual epic moment, an enormous mountainous piece of a modern island has risen into the air, with an ordinary city of closely packed low-rise houses riding on its broad top. Show a convincingly immense suspended rock underside and a clear gap of open air between it and the land below. A tiny modern island airfield runway crosses the foreground. Several long ropes hang from reachable low edges of the floating land down to solid ground, with very small ordinary human figures climbing and gathering; the geography must make those ropes believable, not kilometer-long ropes or giant people. One slope remains low enough for access; far taller rock and houses loom beyond. A sliver of coastal sea establishes the island. Buildings are contemporary, no castles, no spaceship, no giant psychic, no superhero costume, no mind-control apparatus. The land is levitated, not exploding: awe and danger in the weight overhead, and stubborn human activity below. No gore. Canadian Group of Seven inspired OIL painting: broad rhythmic value and color masses, varied directional opaque brushstrokes, selective substantial impasto on lit rock and clouds, quieter connecting passages and connected dark shadow beneath the rock with lost edges. Natural pale cloud-filtered light, restrained green-black rock, ochre earth, grey-violet coast and soft ivory sky, without automatic orange-blue contrast. Painterly simplified architecture and tiny human figures, material oil texture, NOT glossy photorealism, cinematic rim light, uniformly beveled mosaic facets or a collage of power icons. Compose a memorable book cover with large shapes and generous breathing room around the title.",
+      "correction_prompt": "Use case: precise-object-edit.\nEdit this cover painting with ONE focused correction: remove the diagonal WALKING FOOTBRIDGE/planked path that currently spans from the left ground cliff up to the floating city's edge, and remove the little figures walking along that bridge. The finished story has improvised climbing ropes, not a built walking bridge. In that gap leave clear open air, with two or three ordinary ropes hanging from visible attachments at the near edge of the floating land to solid ground where people can reach them; a few tiny people cling to those ropes and climb, while others wait on solid ground. Show coherent rope attachment and gravity, no staircase or suspension walkway, no free-floating people. Preserve the enormous hovering rock, city, coastline, modern runway, original natural light and painterly opaque strokes. Preserve the exact existing title 'All at Once' once, its placement and all lettering. Keep the same portrait composition and aspect ratio. Change no other narrative features; no glow, giant psychic or superhero added.",
+      "native_sources": [
+        "exec-5d319020-b0fb-44a1-ac60-8f38f3095228.png",
+        "exec-be459855-2292-42e3-a5fa-6ce34aa0872a.png"
+      ],
+      "correction_target": "Draft cover retained outside the package at tmp/the-other-hand-art/all-at-once-cover-original.png",
+      "selection_reason": "The corrected image removes an invented walking footbridge and retains improvised rope access, modern runway, inhabited suspended land and coastal scale. The saved portrait was inspected: exact title appears once and is readable inside the crop; rope climbers and ground figures remain coherent, with no graphic injury."
+    },
+    {
+      "role": "character_reference_sheet",
+      "character": "Darya",
+      "file": "characters/darya.webp",
+      "selected": true,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generation_prompt": "Use case: illustration-story.\nCreate a landscape 1536 x 1024 character reference SHEET for Darya, the focal radio presenter in the story All at Once. This is ordinary modern clothing and a grounded adult person newly overwhelmed by a mental power, not a superhero costume or a psychic-machine design. Visual interpretation: woman about 38, medium brown skin, oval face with a strong slightly curved nose, dark brown eyes, thick dark brown curly hair loosely gathered at the nape with a few escaped strands, average build. Same identity and EXACT consistent outfit in every view: worn mustard-brown open cardigan, slate grey plain cotton blouse, dark charcoal trousers, practical dark brown flat shoes. No scars, glowing eyes, helmet, fantasy jewelry or magical aura. Across the left two-thirds show THREE clearly separated, FULL-BODY views with feet visible: front relaxed standing, three-quarter standing with one hand slightly reaching for a desk edge, and back view. On the right show two larger consistent head/shoulder expression studies, one dazed and listening, one concentrating and tired, no glamour pose; below show simple separate story props: a plain ceramic mug, ordinary radio headphones and a small broadcast desk microphone. Label the sheet with the name 'Darya' and exact story title 'All at Once', each once, cleanly readable small painted lettering. A lightly toned warm canvas background with generous spaces between studies, no crowded infographic, no irrelevant written biography. Canadian Group of Seven inspired oil painting applied to a useful artist reference sheet: broad opaque shapes, varied directional strokes, selective impasto, connected facial shadows and quieter passages, consistent gentle natural window light. Anatomically coherent simplified figures and hands, recognizable face across views, no glossy skin, no photographic cutouts, no uniform faceted texture, no automatic orange-blue light.",
+      "correction_prompt": "Use case: precise-object-edit.\nSimplify ONLY the background of this Darya character reference sheet. Remove the detailed radio-studio window, skyline and tall landmark tower behind the full-body views, and remove the unrelated little landscape painting in the upper right. Replace those background areas with the same warm, lightly toned canvas texture already separating the studies. The story's studio is in Bristol, and the character sheet should not imply a different city's landmark or an extra location. Keep a faint simple desk edge only where needed under her reaching hand, without a full room behind it. Preserve every character view's face, identity, hair, clothing, hands, body pose and visible shoes; preserve both expression studies and all isolated mug/headphones/microphone props. Preserve readable labels 'Darya', 'All at Once', and the two expression captions. Preserve oil-paint texture, natural light, current landscape 1536 x 1024 aspect ratio and reference-sheet arrangement. No new elements or biography.",
+      "native_sources": [
+        "exec-1fd42b6a-df12-41e7-ad1d-e177f10f02a3.png",
+        "exec-5f3773b4-72cc-4720-a04e-1ca90f416661.png"
+      ],
+      "correction_target": "Draft sheet retained outside the package at tmp/the-other-hand-art/darya-sheet-original.png",
+      "selection_reason": "Background simplification removes an unsupported landmark skyline and unrelated inset landscape. The saved sheet has three consistent full-body angles with shoes visible, two expression studies, readable name and title, and ordinary mug, headphones and microphone. Face, hair, clothing and hands agree across views."
+    },
+    {
+      "role": "location_original",
+      "file": "landscapes/island-city-original.png",
+      "selected": false,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generation_prompt": "Use case: illustration-story.\nCreate a landscape 1536 x 1024 location reference OIL painting for the story All at Once. It shows the floating island mountainside with a modern city on its back, an actual location in the finished prose. No text. View from near a modest modern island airfield: small people on the runway and adjacent solid land look up at a vast suspended mountainous section of the island, dark exposed rock underside clearly separated from the ground by a broad airy shadow gap. Modest contemporary low-rise houses and winding streets ride on its top, trees and city intact but precarious; no fantasy castles, sci-fi towers or spaceship. A lower projecting edge is near enough to the ground that several long ropes can connect the suspended land to reachable solid ground. Make the attachment at the TOP of each rope visible, give ropes gravity-true curves, and show very small ordinary people climbing at different heights and a small group waiting at their feet; some travel up, some down. The airfield, floating city, island coast and human scale should be understandable as one coherent place; the sea only in a distant coastal strip, no docks, floodworks or water infrastructure. The power comes from an unseen trapped woman below the houses; do not invent a giant glowing figure driving it. Non-graphic catastrophe, a remarkable inhabited mass overhead and tiny human choices beneath it. Canadian Group of Seven inspired painting: broad rhythmic colour/value masses, varied directional opaque strokes, selective thick paint on lit stone and cloud, quieter unbroken passages, connected deep violet-green shadow under the island and lost edges, simplified architecture. Natural filtered late-day daylight, pale quiet sky, muted earth and forest colours, no glossy digital faces/lenses, no cinematic rim lighting or uniform beveled facets. This is a location painting rather than an illustrated map or a montage.\nKeep access improvised: hanging ropes only, no walking footbridge, planked path, staircase, or solid bridge linking the floating land to the ground.",
+      "native_source": "exec-2e358b94-1785-44b2-82d7-adbc76e72fe5.png",
+      "preservation_reason": "Keep the original location painting separately from the selected story-fidelity correction."
+    },
+    {
+      "role": "location_selected",
+      "file": "landscapes/island-city-selected.webp",
+      "selected": true,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "correction_prompt": "Use case: precise-object-edit.\nMake ONE story-fidelity correction to this location painting: on the leftmost main climbing rope, change the lower of the two existing climbers into an ordinary woman climbing with a small child tied securely against her back. Keep her the SAME small scale and at the SAME position on the rope as the existing climber. Make the child's small head visible just above one shoulder and the simple snug cloth carrier distinguishable from a backpack. Her arms hold the rope and her legs brace naturally; she is climbing through ordinary effort, no glow or levitation of her body. The child rests close against her, no injury or graphic peril. Do not enlarge them into a foreground portrait. Preserve the upper climber, all other figures, the floating mountainous city, rope attachments, clear gap, runway and coastal geography, connected dark shadow and broad oil-painted texture. Preserve the whole landscape composition and current light. No text, no footbridge, no new power apparatus.",
+      "correction_target": "landscapes/island-city-original.png",
+      "native_source": "exec-02df62a3-9a5d-40bc-8add-6f96fb8c43a7.png",
+      "selection_reason": "The selected correction makes the lower climber on the left rope a woman with a child carried against her back, matching the finished late glimpse. The saved pixels retain visible top rope attachments, a clear gap, ordinary climbing effort, solid airfield below, intact city above, coherent coast and connected shadow, without a new bridge or power apparatus."
+    }
+  ],
+  "export": "Pillow was used only for colour/format conversion and exact-size export; semantic corrections used the built-in image generator. Native generated originals remain in the app-managed generated_images directory. Rejected draft cover and sheet remain under the worktree's ignored tmp directory."
+}
