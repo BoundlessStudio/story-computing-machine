@@ -1,0 +1,3 @@
+# Editorial notes
+
+2026-10-07 — The writer proposed a failed ordinary date in a shopping centre: Dara has relied on Kit's gentleness as refuge from her public reputation, while he has mistaken her destructive anger for permission to kill someone he believes will hurt her again. We chose to protect their recognizable teenage affection and incompatible moral positions, avoid a hidden exoneration or a tidy reconciliation, and let an involuntary sense of relief coexist with Dara's complete opposition to killing. The outline remains provisional. The story uses new identities and makes no shared-canon additions; name searches found no conflicting identities. No reference images were supplied.
