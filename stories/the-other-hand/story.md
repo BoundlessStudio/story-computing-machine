@@ -476,7 +476,7 @@ A girl tried a new face in a mirror. She made the chin rounder, then put it back
 
 There were people refusing rescue, people trying to surrender abilities they could not take off, people discovering how much could be done to others before anyone arrived to stop them. A man's darkness spread across an entire town. He meant to hide it from the sky. Those inside it could not see the steps on which they tried to leave. People began tying themselves together by the wrist.
 
-A soldier walked through the darkness with a white cane borrowed from an old man. The old man came with him. He had walked that road all his life and was trying to explain where it turned when the receiver scraped against my ear again.
+A soldier walked through the darkness with a white cane borrowed from an old man. The old man came with him. He had walked that road all his life. The receiver scraped against my ear, and I could not hear the rest of his directions.
 
 I could not make their lives pause while I arranged what I had found.
 
