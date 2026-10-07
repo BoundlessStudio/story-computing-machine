@@ -1,0 +1,144 @@
+{
+  "story": "The Other Half",
+  "created": "2026-10-07",
+  "generation": {
+    "tool": "built-in image_gen.imagegen",
+    "mode": "Built-in generation and reference-based editing; no API or CLI fallback.",
+    "postprocessing": "Pillow format conversion and required exact resizing only; no compositing, title overlay, retouching or visual correction outside imagegen."
+  },
+  "style_references": [
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/landscapes/01-apple-orchard-hillside.png",
+      "role": "Visually inspected collection oil-painting style reference; initial prompts describe its broad directional strokes, value shapes, connecting passages, selective impasto and motivated light."
+    },
+    {
+      "path": "stories/a-beginner-of-considerable-age/art/characters/melicent.webp",
+      "role": "Visually inspected sheet format reference; supplied to the sheet call for layout and labels only, not character identity or costume."
+    }
+  ],
+  "original": "art/interiors/01-food-court-original.png",
+  "selected": "art/interiors/02-food-court-open-curtain.png",
+  "selection_reason": "The selected imagegen correction opens the burgundy curtain farther, making the cramped continuous bench more visible and matching the final scene's open curtain. The original oil painting is retained separately.",
+  "assets": [
+    {
+      "role": "cover",
+      "path": "title-image.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "generated_dimensions": [
+        941,
+        1672
+      ],
+      "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-b9c860db-c318-41f9-8d2f-fda683db3ef9.png",
+      "postprocessing": "RGB JPEG quality 95; Lanczos resize from the generated near-9:16 image to the required exact 864 x 1536."
+    },
+    {
+      "role": "character reference sheet",
+      "path": "art/characters/dara-vale-racket.webp",
+      "format": "WebP",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generated_dimensions": [
+        1536,
+        1024
+      ],
+      "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-83a2e287-c08f-40c9-b171-9ead1246708e.png",
+      "postprocessing": "RGB WebP quality 95, method 6; native generated dimensions retained."
+    },
+    {
+      "role": "original location painting",
+      "path": "art/interiors/01-food-court-original.png",
+      "format": "PNG",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-f25b8154-1fc0-41c0-8f9e-61d41b3e434f.png",
+      "postprocessing": "Native PNG dimensions retained."
+    },
+    {
+      "role": "selected corrected location painting",
+      "path": "art/interiors/02-food-court-open-curtain.png",
+      "format": "PNG",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-394993b1-175d-44cb-818b-5422cfb6df73.png",
+      "postprocessing": "Native PNG dimensions retained."
+    },
+    {
+      "role": "Kit character reference sheet",
+      "path": "art/characters/kit-danner-hush.webp",
+      "format": "WebP",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generated_dimensions": [
+        1536,
+        1024
+      ],
+      "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-00cea89f-8554-4e94-acbc-86adf3a503c2.png",
+      "postprocessing": "RGB WebP quality 95, method 6; native generated dimensions retained. No visual correction outside imagegen."
+    }
+  ],
+  "prompt_set": [
+    {
+      "id": "cover",
+      "prompt": "Use case: illustration-story.\nAsset type: literary short-story cover, portrait 9:16, 864 x 1536 pixels.\nCreate an original Canadian Group of Seven inspired oil painting cover for a teenage superhero couple's first serious argument. The exact title \"The Other Half\" must be rendered ONCE, as beautiful legible pale-ivory serif lettering in the upper quarter, integrated into the painted cover. No subtitle, author name or other text.\n\nThe scene is the cramped interior of a shopping-centre photo booth after an emergency. A seventeen-year-old girl, Dara Vale/Racket, and her seventeen-year-old boyfriend, Kit Danner/Hush, sit beside each other on one narrow two-person bench, a small but painful space between their shoulders. They look like ordinary seventeen-year-olds under the dusty practical superhero clothes, slight youthful faces, no adult glamour. Their intimacy has been interrupted: she looks toward the open curtain and away from his uncertain attentive face; he stays still, his hands on his own knees, no touching. The focus is her bare hand near her jacket collar and his restrained hand resting on his knee, with coherent five-finger anatomy. Neither is snarling or posing as a hero.\n\nDara wears a charcoal padded practical jacket with conspicuous burnt-orange shoulder panels, dark straight trousers and sturdy boots; gloves OFF, a simple dark eye-mask strap visible at her collar. Artistic interpretation for identity: warm medium-brown skin, dark wavy hair tied loosely back with a few escaped strands, broad expressive brows, rounded youthful face. Kit has sandy hair, light skin, a pale-blue practical sleeve and trousers; his simple dark mask is removed in his lap, and a small white healed scar above one eye. No cape, armor, cleavage or sexualized clothing. They are both seventeen.\n\nA dark inactive reflective screen, coin slot, and tiny shelf belong to the booth; the shelf holds a crumpled paper bag of cold chips and a pair of folded dark gloves. Keep these secondary, not an inventory illustration. Curtain held open at the edge reveals only a subdued sliver of the evacuated food court, a shuttered pretzel shop and one overturned yellow chair. No dead body, no blood, no magical light, no explosions. Motivate the light with ordinary overhead indoor mall lighting: muted warm greys, olive shadows, dusty cream, charcoal, burnt-orange cloth and pale-blue cloth, no automatic orange-blue cinematic contrast or rim lighting.\n\nPaint broad rhythmic colour and value masses, varied directional opaque strokes, quieter connecting passages and selective substantial impasto. Simplify architecture and figures while keeping expressive believable anatomy. Let connected shadow shapes and lost edges remain genuinely dark. Faces should be painterly matte, not glossy, airbrushed or photorealistic. Allow the upper painted dark wall to support the title; faces and essential hands remain clearly readable in the middle and lower composition. Compose an inviting novel cover about interrupted familiarity rather than a plot summary. Exact title ONCE: The Other Half.",
+      "reference_inputs": [],
+      "output": "title-image.jpg"
+    },
+    {
+      "id": "original location",
+      "prompt": "Use case: illustration-story.\nAsset type: landscape location reference painting, 1536 x 1024 pixels.\nCreate an original Canadian Group of Seven inspired oil painting of the evacuated shopping-centre food court from the short story The Other Half. No people, corpse, blood or magical glow. The central location is an ordinary, cramped photo booth immediately beside a shuttered pretzel shop. It has a curtained side entrance, one small padded bench sized for two people side by side, a dark inactive reflective screen on the opposite inner wall, a coin slot and a tiny shelf. A brown paper bag of cold chips and folded dark gloves rest coherently on the shelf. The curtain is parted only enough to glimpse the booth's dim interior and a narrow piece of bench; keep the booth's geometry physically possible. Preserve room for a later targeted correction that opens the curtain farther.\n\nComposition: a human-height three-quarter view across the empty food-court tiles toward the photo booth and neighboring pretzel shop, booth in the left-middle foreground and the shuttered shop behind/right. A few yellow chairs are overturned in the empty food court, with coherent legs and chair shapes. Table/chair arrangement looks recently interrupted, not a wrecked fantasy battlefield. Secondary mall architecture is quiet and simplified. A small pretzel shape above a metal shutter identifies the shop without requiring text. No readable lettering, title, captions, logos or watermarks.\n\nLight comes from ordinary overhead indoor shopping-centre fixtures; muted warm grey tile, dusty cream walls, olive/charcoal connected shadows, worn burgundy curtain and mustard-yellow chairs. No theatrical rim light or automatic orange-blue grading. The booth is darker than the court but its entrance reads as shelter and confinement. Use broad rhythmic colour/value masses, varied directional opaque strokes, quieter connecting passages, selective substantial impasto, simplified architecture with perspective that is easy to understand. Matte oil texture with lost edges and real darkness, not uniformly raised beveled strokes, glossy plastic or photorealism. The painting should preserve the ordinary food-court setting of an intimate aftermath.",
+      "reference_inputs": [],
+      "output": "art/interiors/01-food-court-original.png"
+    },
+    {
+      "id": "Dara sheet",
+      "prompt": "Use case: identity-preserve.\nAsset type: a labeled character reference sheet, landscape 1536 x 1024 pixels.\nInput image 1 is the ACCEPTED cover of The Other Half. Use ONLY the girl Dara as the exact identity and costume reference. Input image 2 is the existing Melicent character reference sheet: use its clear layout, oil-painted texture and readable labels as format guidance ONLY; do NOT copy Melicent, armor, medieval props or red cape.\n\nCreate a consistent character reference sheet for Dara Vale / Racket, a SEVENTEEN-year-old superhero girl. Preserve her youthful rounded face, warm medium-brown skin, strong dark eyebrows, dark wavy hair loosely tied back with escaping strands, and practical slightly dusty clothing from image 1. Her hair and skin are artistic interpretation for this edition, not a new universe fact.\n\nOn the left two-thirds, three complete head-to-boot FULL-BODY views of the SAME Dara: FRONT, true side PROFILE, BACK. All three must have exactly matching clothing and proportions: padded charcoal jacket with burnt-orange shoulder panels extending slightly into upper arms, dark straight trousers, worn sturdy black lace-up boots. Gloves OFF in every view, bare hands held neutrally with believable five-finger anatomy. Dark simple eye mask is removed and hangs by its strap at her collar, not covering her face. No cape, armor, weapon, cleavage or sexualized pose. Slim ordinary teenage build, not an adult model.\n\nOn the right, three smaller head-and-shoulders expression studies of the same teenage face and hair: contained anger, hurt, and steady resolve. No exaggerated villain sneer or glossy glamour. Below them show paired folded dark gloves and the simple mask with its strap as small coherent prop studies. Keep views separated on a pale textured warm-ivory background, nothing cut off at edges, no scenic background or boy.\n\nTypography: large clear dark serif heading EXACTLY \"Dara Vale / Racket\"; below it the story label EXACTLY \"The Other Half\". Smaller readable view labels EXACTLY \"Front\", \"Profile\", \"Back\". Expression labels EXACTLY \"Anger\", \"Hurt\", \"Resolve\". Prop labels EXACTLY \"Folded gloves\", \"Mask and strap\". Spell all labels correctly and render each once.\n\nMedium and style: matte Canadian Group of Seven inspired oil paint, broad rhythmic value and colour shapes, varied directional opaque strokes, quieter linking passages and selected impasto, connected dark shadows, simplified truthful anatomy. Follow the accepted cover's identity and earthy muted colour rather than introducing a new palette; no glossy faces, photorealistic skin, uniform bevelled strokes, rim light, automatic orange-blue lighting or magical glow. This is a practical consistent reference sheet, not a poster.",
+      "reference_inputs": [
+        "stories/the-other-half/title-image.jpg",
+        "stories/a-beginner-of-considerable-age/art/characters/melicent.webp"
+      ],
+      "output": "art/characters/dara-vale-racket.webp"
+    },
+    {
+      "id": "location correction",
+      "prompt": "Use case: precise-object-edit.\nAsset type: selected corrected landscape location reference painting for The Other Half, preserve 1536 x 1024 pixels.\nEDIT the provided original oil painting only by pulling the burgundy photo-booth curtain farther to the left so the entrance is substantially open, as in the closing scene. Reveal the previously hidden part of the interior: a single continuous, narrow padded bench that can seat two people side by side. Make that cramped two-person seating legible and physically coherent. Keep the original booth shell, position, perspective, dark inactive reflective screen, coin slot and tiny shelf; retain the brown paper bag of cold chips and folded dark gloves on that shelf. The new visible interior must connect naturally to the already visible bench and fittings.\nKeep the shuttered pretzel shop, pretzel emblem, evacuated tiled food court, overhead indoor light, surrounding architecture, plants, tables and overturned yellow chairs unchanged in placement and character. Preserve the broad directional matte oil strokes, muted warm-grey/cream/olive/charcoal and burgundy colours, lost edges, connected shadows and selective impasto of the original. No people, corpse, blood, magical glow, words, captions, logo or watermark. Do not brighten the whole painting, add orange-blue grading, redesign the shop, or invent dramatic damage. This is a targeted curtain/seating-reveal correction, with the original painting retained separately.",
+      "reference_inputs": [
+        "stories/the-other-half/art/interiors/01-food-court-original.png"
+      ],
+      "output": "art/interiors/02-food-court-open-curtain.png"
+    },
+    {
+      "id": "Kit sheet",
+      "prompt": "Use case: identity-preserve.\nAsset type: labeled character reference sheet for The Other Half, landscape 1536 x 1024 pixels.\n\nInput image 1 is the accepted cover of The Other Half. Use ONLY the boy Kit as the exact identity and costume reference. Input image 2 is the accepted Dara reference sheet: use its cream background, clear full-body/expression/prop layout, serif labels and matte oil style as format guidance ONLY. Do not copy Dara, her face, her hair, her orange shoulders or her gloves.\n\nCreate a consistent reference sheet of Kit Danner / Hush, a SEVENTEEN-year-old superhero boy. Match the cover's sandy wavy slightly tousled hair, light skin, youthful face, gentle mouth with a slightly crooked corner, and small WHITE HEALED SCAR just above the same eye seen in the cover. The scar is above his anatomical LEFT eyebrow, which appears on the viewer's RIGHT in the front view. Preserve this side in every head view. It is a small old pale mark, not a fresh cut, bandage, blood or large lightning-bolt emblem.\n\nOn the left two-thirds show three complete head-to-boot full-body views of the SAME Kit: Front, Profile, Back. Show the true side Profile facing viewer LEFT so the scar-bearing side matches the visible side in the cover. Ordinary teenage proportions with a slight youthful build, fully clothed and quiet natural standing poses. Consistent pale-blue practical jacket and pale-blue trousers, dark undershirt and charcoal hood/cuffs as in the cover, sturdy worn dark lace-up boots. Same cut, colours, collar/hood, hem, trouser shape and boots in all three views. Hands BARE with coherent five-finger anatomy, relaxed naturally at his sides. His simple dark eye mask is removed; do not cover his face or hide the scar. Do not add gloves, weapons, armor, cape, emblem, accessories or magical effects.\n\nOn the right show three separated head-and-shoulders expression studies of this same seventeen-year-old face, sandy hair and scar: Gentleness (a small attentive smile, not a glamorous grin), Distress (wet eyes and restrained hurt, no exaggerated sobbing), Resolve (quiet troubled determination, not a villain sneer). Below show ONE coherent prop study of his simple dark eye mask with its attached strap, matching the removed mask in his lap on the cover. No extra gloves or scenic objects. Pale warm-cream textured background, full figures and boots entirely inside the canvas, uncluttered readable panel spacing.\n\nExact dark serif text, each label rendered ONCE:\nHeader: \"Kit Danner / Hush\"\nStory label below: \"The Other Half\"\nFull-body view labels: \"Front\", \"Profile\", \"Back\"\nExpression labels: \"Gentleness\", \"Distress\", \"Resolve\"\nProp label: \"Mask and strap\"\nNo other lettering or watermark.\n\nPaint in the accepted cover and Dara sheet's Canadian Group of Seven inspired matte oil style: broad rhythmic colour/value shapes, varied directional opaque strokes, quieter connecting passages, selective impasto, connected charcoal shadows, believable simplified anatomy and lost edges. Keep the pale-blue and charcoal clothes subdued, motivated soft neutral light, youthful matte skin. No glossy glamour, airbrushed photorealism, uniform bevelled strokes, theatrical rim light, automatic orange-blue contrast, sexualized pose, corpse, blood or magical glow. This is a usable consistent character reference sheet, not a scene portrait.",
+      "reference_inputs": [
+        "stories/the-other-half/title-image.jpg",
+        "stories/the-other-half/art/characters/dara-vale-racket.webp"
+      ],
+      "output": "art/characters/kit-danner-hush.webp"
+    }
+  ],
+  "interpretations": [
+    "Dara's medium-brown skin, dark wavy loosely tied hair, youthful rounded face and charcoal details are visual interpretations where prose does not specify them; they do not establish canon.",
+    "Burgundy curtain, grey booth shell, worn mall planting and pretzel emblem are visual setting interpretations rather than shared facts.",
+    "Both cover characters are depicted as seventeen, fully clothed and nonsexualized. No corpse, blood, violence in progress or magical glow is depicted.",
+    "The small strip on the booth wall is interpreted as ordinary booth/sample decoration, not a new action or produced photo strip from this argument.",
+    "Kit's light skin, precise youthful facial features, dark hood/undershirt, pale-blue trouser cut and anatomical-left scar placement continue the accepted cover's visual interpretation. Sandy hair, pale-blue sleeve, removed mask and small healed white eye scar come from the prose; the sheet does not add shared canon."
+  ],
+  "inspection": {
+    "cover": "Exact title rendered once and legible; teenage appearance, bare hands, orange-shouldered padded jacket, pale-blue sleeve/trousers, removed masks, healed white eye scar, chips/gloves and separated seated posture checked in final JPEG. Broad opaque matte oil strokes and ordinary motivated indoor light preserved.",
+    "sheet": "Front/profile/back full-body views, face/hair/costume continuity with cover, bare hands, intact anatomy, boots, mask/strap, paired gloves, expression studies and exact readable labels checked in final WebP.",
+    "location": "Original and corrected paintings checked for evacuated court, shuttered pretzel shop, coherent yellow chairs, photo-booth fittings and chips/gloves. Correction preserves placement/light/style while revealing more continuous cramped seating.",
+    "kit_sheet": "Saved 1536 x 1024 WebP inspected against accepted cover and Dara sheet: consistent youthful seventeen-year-old face, sandy wavy hair, small healed white scar above the same anatomical-left eyebrow, pale-blue jacket/trousers, dark hood/undershirt and worn boots across front/side/back views and three expressions. Bare hands, intact anatomy, removed mask/strap and readable exact header, story title, view and expression labels checked. No extra gloves, weapons, corpse, blood or magical glow."
+  }
+}
