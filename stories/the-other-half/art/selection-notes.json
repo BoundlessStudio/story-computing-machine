@@ -71,6 +71,21 @@
       ],
       "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-394993b1-175d-44cb-818b-5422cfb6df73.png",
       "postprocessing": "Native PNG dimensions retained."
+    },
+    {
+      "role": "Kit character reference sheet",
+      "path": "art/characters/kit-danner-hush.webp",
+      "format": "WebP",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "generated_dimensions": [
+        1536,
+        1024
+      ],
+      "tool_managed_source": "C:/Users/jamie/.codex/generated_images/01a11637-f269-7980-b87c-a8d0498539ac/exec-00cea89f-8554-4e94-acbc-86adf3a503c2.png",
+      "postprocessing": "RGB WebP quality 95, method 6; native generated dimensions retained. No visual correction outside imagegen."
     }
   ],
   "prompt_set": [
@@ -102,17 +117,28 @@
         "stories/the-other-half/art/interiors/01-food-court-original.png"
       ],
       "output": "art/interiors/02-food-court-open-curtain.png"
+    },
+    {
+      "id": "Kit sheet",
+      "prompt": "Use case: identity-preserve.\nAsset type: labeled character reference sheet for The Other Half, landscape 1536 x 1024 pixels.\n\nInput image 1 is the accepted cover of The Other Half. Use ONLY the boy Kit as the exact identity and costume reference. Input image 2 is the accepted Dara reference sheet: use its cream background, clear full-body/expression/prop layout, serif labels and matte oil style as format guidance ONLY. Do not copy Dara, her face, her hair, her orange shoulders or her gloves.\n\nCreate a consistent reference sheet of Kit Danner / Hush, a SEVENTEEN-year-old superhero boy. Match the cover's sandy wavy slightly tousled hair, light skin, youthful face, gentle mouth with a slightly crooked corner, and small WHITE HEALED SCAR just above the same eye seen in the cover. The scar is above his anatomical LEFT eyebrow, which appears on the viewer's RIGHT in the front view. Preserve this side in every head view. It is a small old pale mark, not a fresh cut, bandage, blood or large lightning-bolt emblem.\n\nOn the left two-thirds show three complete head-to-boot full-body views of the SAME Kit: Front, Profile, Back. Show the true side Profile facing viewer LEFT so the scar-bearing side matches the visible side in the cover. Ordinary teenage proportions with a slight youthful build, fully clothed and quiet natural standing poses. Consistent pale-blue practical jacket and pale-blue trousers, dark undershirt and charcoal hood/cuffs as in the cover, sturdy worn dark lace-up boots. Same cut, colours, collar/hood, hem, trouser shape and boots in all three views. Hands BARE with coherent five-finger anatomy, relaxed naturally at his sides. His simple dark eye mask is removed; do not cover his face or hide the scar. Do not add gloves, weapons, armor, cape, emblem, accessories or magical effects.\n\nOn the right show three separated head-and-shoulders expression studies of this same seventeen-year-old face, sandy hair and scar: Gentleness (a small attentive smile, not a glamorous grin), Distress (wet eyes and restrained hurt, no exaggerated sobbing), Resolve (quiet troubled determination, not a villain sneer). Below show ONE coherent prop study of his simple dark eye mask with its attached strap, matching the removed mask in his lap on the cover. No extra gloves or scenic objects. Pale warm-cream textured background, full figures and boots entirely inside the canvas, uncluttered readable panel spacing.\n\nExact dark serif text, each label rendered ONCE:\nHeader: \"Kit Danner / Hush\"\nStory label below: \"The Other Half\"\nFull-body view labels: \"Front\", \"Profile\", \"Back\"\nExpression labels: \"Gentleness\", \"Distress\", \"Resolve\"\nProp label: \"Mask and strap\"\nNo other lettering or watermark.\n\nPaint in the accepted cover and Dara sheet's Canadian Group of Seven inspired matte oil style: broad rhythmic colour/value shapes, varied directional opaque strokes, quieter connecting passages, selective impasto, connected charcoal shadows, believable simplified anatomy and lost edges. Keep the pale-blue and charcoal clothes subdued, motivated soft neutral light, youthful matte skin. No glossy glamour, airbrushed photorealism, uniform bevelled strokes, theatrical rim light, automatic orange-blue contrast, sexualized pose, corpse, blood or magical glow. This is a usable consistent character reference sheet, not a scene portrait.",
+      "reference_inputs": [
+        "stories/the-other-half/title-image.jpg",
+        "stories/the-other-half/art/characters/dara-vale-racket.webp"
+      ],
+      "output": "art/characters/kit-danner-hush.webp"
     }
   ],
   "interpretations": [
     "Dara's medium-brown skin, dark wavy loosely tied hair, youthful rounded face and charcoal details are visual interpretations where prose does not specify them; they do not establish canon.",
     "Burgundy curtain, grey booth shell, worn mall planting and pretzel emblem are visual setting interpretations rather than shared facts.",
     "Both cover characters are depicted as seventeen, fully clothed and nonsexualized. No corpse, blood, violence in progress or magical glow is depicted.",
-    "The small strip on the booth wall is interpreted as ordinary booth/sample decoration, not a new action or produced photo strip from this argument."
+    "The small strip on the booth wall is interpreted as ordinary booth/sample decoration, not a new action or produced photo strip from this argument.",
+    "Kit's light skin, precise youthful facial features, dark hood/undershirt, pale-blue trouser cut and anatomical-left scar placement continue the accepted cover's visual interpretation. Sandy hair, pale-blue sleeve, removed mask and small healed white eye scar come from the prose; the sheet does not add shared canon."
   ],
   "inspection": {
     "cover": "Exact title rendered once and legible; teenage appearance, bare hands, orange-shouldered padded jacket, pale-blue sleeve/trousers, removed masks, healed white eye scar, chips/gloves and separated seated posture checked in final JPEG. Broad opaque matte oil strokes and ordinary motivated indoor light preserved.",
     "sheet": "Front/profile/back full-body views, face/hair/costume continuity with cover, bare hands, intact anatomy, boots, mask/strap, paired gloves, expression studies and exact readable labels checked in final WebP.",
-    "location": "Original and corrected paintings checked for evacuated court, shuttered pretzel shop, coherent yellow chairs, photo-booth fittings and chips/gloves. Correction preserves placement/light/style while revealing more continuous cramped seating."
+    "location": "Original and corrected paintings checked for evacuated court, shuttered pretzel shop, coherent yellow chairs, photo-booth fittings and chips/gloves. Correction preserves placement/light/style while revealing more continuous cramped seating.",
+    "kit_sheet": "Saved 1536 x 1024 WebP inspected against accepted cover and Dara sheet: consistent youthful seventeen-year-old face, sandy wavy hair, small healed white scar above the same anatomical-left eyebrow, pale-blue jacket/trousers, dark hood/undershirt and worn boots across front/side/back views and three expressions. Bare hands, intact anatomy, removed mask/strap and readable exact header, story title, view and expression labels checked. No extra gloves, weapons, corpse, blood or magical glow."
   }
 }

@@ -5,3 +5,7 @@
 ## Production direction
 
 No audience or intensity was specified. General is the starting target; depict the prompt's death and moral consequences non-graphically, and classify the finished prose and selected cover from their actual intensity. The teenage romance is not sexualized. No reference images were supplied.
+
+## Follow-up request — 2026-10-07
+
+show me the reference art for both main characters and locations.
