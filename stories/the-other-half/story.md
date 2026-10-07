@@ -44,7 +44,7 @@ He looked toward the curtain. "The officer said she'll come over when she's done
 
 "For your mum. Before a statement. That's what we're supposed to do."
 
-"It's only my name. I'll tell the officer the rest when Mum gets here."
+"It's only my name. I know they could arrest me. I'll tell the officer the rest when Mum gets here."
 
 Dara rubbed the grooves the gloves had left around her fingers. She had been allowed to stand by the stretcher for a moment. The medic had said she was sorry. Dara had said, "No, he's Switchjack," as if that corrected anything, and the medic had repeated that she was sorry.
 
@@ -52,7 +52,7 @@ Dara rubbed the grooves the gloves had left around her fingers. She had been all
 
 Kit turned toward her.
 
-"When you were watching me," she said. "When I took that girl out. Was that when?"
+"Were you watching me too?" she said. "When I took that girl out. Is that when it happened?"
 
 "It didn't go wrong."
 
@@ -110,7 +110,7 @@ She wanted another word after it. But, or except, or something that would change
 
 "Why would you do that?"
 
-He looked down at his hands. "Because he'd get out."
+He looked down at his hands. "I was going to wait. Then I thought about him getting out."
 
 "You don't know."
 
@@ -306,11 +306,7 @@ She had imagined him saying it reluctantly. She had imagined believing him becau
 
 "You can stop someone without killing them. You did. Tonight."
 
-"Tonight I could."
-
-"So we're talking about tonight."
-
-"I know we are."
+"You asked me about never."
 
 "You're making up a worse one so you don't have to promise about this one."
 
@@ -396,4 +392,4 @@ She reached behind herself. Her fingers caught the collar, the mask strap, her h
 
 Kit saw what she was trying to do. His hand stayed on his knee.
 
-Dara kept trying until she got the grit out herself.
+Dara kept trying until she got the grit out.
