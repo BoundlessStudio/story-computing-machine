@@ -266,7 +266,7 @@ Ildesse took off her glove and drew back the copper sleeve. She watched Elska te
 
 The quarter-to-four bell sounded. Scathe's glass bead faced the west door.
 
-“The left one. I need my right hand dressed for the evening.” She worked the little pearl buttons free. “I wore these to the Ousel Room a fortnight ago. I'd like to get more than one season out of them.”
+“The left one. I need my right hand dressed for the evening.” Ildesse worked the little pearl buttons free. “I wore these to the Ousel Room a fortnight ago. I'd like to get more than one season out of them.”
 
 Elska took the left. Scathe offered to remember the wrist measurements. Elska wrote them down.
 
