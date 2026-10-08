@@ -168,7 +168,7 @@ Behind Raithe, a wheel struck the eastern threshold.
 
 "They chose when they took my oath."
 
-"We chose three summers," Avarn said. He had one shoulder against the cart now. "You said three."
+"We chose three summers," Avarn said. He had one shoulder against the cart now. "We've given you nine."
 
 "And shall I dismiss them because the enemy failed to understand that? Shall I tell the mothers below that I kept my word to thirty men and left their children to the knife?"
 
@@ -374,7 +374,7 @@ Ulveth planted his spear, and the gold wall across the pass dimmed. Men in the c
 
 Raithe looked at Avarn. His eyes were open. The goddess was still holding the belt tight, her jaw clenched with the effort of an ordinary task.
 
-"You heard her," Raithe said. She did not know if Ulveth had.
+"His leg isn't coming back," Raithe said.
 
 He looked at her palm, at the cut that was not closing. Then at Avarn's leg.
 
@@ -462,7 +462,9 @@ He drew back.
 
 She stopped reaching.
 
-Methra set him on a door two men had pulled from the wreck. She began binding Raithe's arm while they tied Avarn in place. The goddess's hands were shaking so badly that the woman had to hold the knot for her.
+Methra set him on a door two men had pulled from the wreck. While they tied Avarn in place, she touched the tooth puncture in Raithe's scalp. White light cooled her temple, and she felt the edges draw together. Then Methra cupped the severed arm. The same light entered the stump and went out. Its torn edges stayed apart; blood still welled between the goddess's fingers.
+
+Methra tore a strip from her gown and began binding Raithe's arm. Her hands were shaking so badly that the woman had to hold the knot for her.
 
 "Will it close?" Raithe asked.
 
@@ -482,7 +484,7 @@ From below came the answering noise of more bells. She could see the first roofs
 
 "They can't see what's coming. You can."
 
-Methra looked north. She had put no light into Raithe's bandage. Perhaps she could not bring herself to try.
+Methra looked north.
 
 "The soldiers—"
 
