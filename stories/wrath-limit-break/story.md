@@ -376,7 +376,7 @@ Raithe looked at Avarn. His eyes were open. The goddess was still holding the be
 
 "His leg isn't coming back," Raithe said.
 
-He looked at her palm, at the cut that was not closing. Then at Avarn's leg.
+Ulveth looked at her palm, at the cut that was not closing. Then at Avarn's leg.
 
 He pinned his broken wrist more tightly against his breastplate.
 
@@ -462,7 +462,7 @@ He drew back.
 
 She stopped reaching.
 
-Methra set him on a door two men had pulled from the wreck. While they tied Avarn in place, she touched the tooth puncture in Raithe's scalp. White light cooled her temple, and she felt the edges draw together. Then Methra cupped the severed arm. The same light entered the stump and went out. Its torn edges stayed apart; blood still welled between the goddess's fingers.
+Methra set him on a door two men had pulled from the wreck. While they tied Avarn in place, she touched the tooth puncture in Raithe's scalp. White light cooled her temple, and Raithe felt the edges draw together. Then Methra cupped the severed arm. The same light entered the stump and went out. Its torn edges stayed apart; blood still welled between the goddess's fingers.
 
 Methra tore a strip from her gown and began binding Raithe's arm. Her hands were shaking so badly that the woman had to hold the knot for her.
 
