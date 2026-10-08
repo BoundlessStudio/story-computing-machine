@@ -414,7 +414,7 @@ He drove the point into the stone. The shaft bent under his good hand. The gold 
 
 Raithe went at him.
 
-He wrenched the spear out and swept it up to meet her. She knew that movement. Her body knew how to avoid it. But avoiding it would leave the point aimed along the path, at Methra's bowed back, at the red strip of wool and the people crouched around it.
+He wrenched the spear out, letting the raised path drop flat, and swept it up to meet her. She knew that movement. Her body knew how to avoid it. But avoiding it would leave the point aimed along the path, at Methra's bowed back, at the red strip of wool and the people crouched around it.
 
 She put her right arm in its way.
 
