@@ -38,9 +38,7 @@ The front door was open when I arrived. Cora stood on the landing in borrowed gr
 
 “Don't go in,” she said.
 
-I had already put a foot across the threshold. Ahead of my shoe, the coat hooks were sliding away.
-
-I withdrew my foot. The hooks continued down the hall at a stately pace. Vivi's green coat hung from one of them with a shopping bag still over its arm.
+Through the open doorway, the coat hooks were already travelling down the hall at a stately pace. Vivi's green coat hung from one of them with a shopping bag still over its arm.
 
 “That's where my keys are,” Vivi called.
 
@@ -66,7 +64,7 @@ The chair stayed where it was.
 
 “Wasn't that chair blue?” I asked.
 
-“That was a different chair.”
+“I gave that one away.”
 
 “The blue one fitted,” said Vivi.
 
@@ -146,7 +144,7 @@ Cora took her phone back very carefully.
 
 “Under the first coat hook. Brass peg. You taught me.”
 
-The coat hooks had travelled, but their screws had remained in the outer wall. Beneath the first screw was a peg the size of a shirt button. I scraped its cap with my thumbnail. Three fine lines appeared.
+The coat hooks had travelled, but their screws had remained in the outer wall. Beneath the first screw was a peg the size of a shirt button. I scraped its cap with my thumbnail. Three fine lines appeared. Around its shaft, old rings lay dark beneath a bright new one. Each change had its own ring. I could feel the newest racing under my thumb; I couldn't safely close it where it was.
 
 “Good. Cora, clear the landing. We can put the flat back to the move-in arrangement.”
 
@@ -202,11 +200,11 @@ Vivi opened her mouth.
 
 “Without going sideways,” Cora added.
 
-I took a piece of chalk from my coat. Each folded change had left a fine ring around the peg; the newest was bright above the old, dark lines. I could work on that one without unwinding the others. The peg held the reference to the flat before any of these folds; the chair gave us something still in that space.
+I took a piece of chalk from my coat. I could work on the newest ring without unwinding the others. The peg held the reference to the flat before any of these folds; the chair gave us something still in that space.
 
 I drew a short line on the bare boards, level with the chip.
 
-The mark on the table would bring that part of the room back to the line beside the chair. Once they met, I could cut the repeat with the doorway aligned, instead of shutting it halfway through a fold.
+We would bring the marked table edge back to the line on the floor, then cut the repeat. That would leave the doorway open instead of closing it onto plaster.
 
 “Can you get to the table?”
 
@@ -248,7 +246,7 @@ I had both hands on the posts.
 
 Cora took it out of my coat pocket. “Found it.”
 
-“Walk when I say. Vivi, on four.”
+I counted the running beats under my breath. “Walk when I say. Vivi, on four.”
 
 “Which four?”
 
@@ -256,7 +254,7 @@ The plaster began to show through the sitting room like an image badly printed o
 
 “My four.”
 
-“I can't hear you from here.”
+“I can't hear you counting from here.”
 
 Cora cupped her hands around her mouth. “She'll shout!”
 
@@ -294,13 +292,15 @@ I had breath enough for one unhelpful noise.
 
 “You said to mark the edge. It's the legs that go level with the chair. It needs to stop here.”
 
+The tabletop stuck out two inches beyond its legs. I'd marked where the leg belonged and told her to mark the edge.
+
 She knelt and rubbed out my line with her sleeve. The replacement was two inches nearer the landing.
 
 “Now.”
 
 I took the moving line towards the fixed one.
 
-The room came back in a rush. The table grew, the kitchen doorway widened, and Vivi's face came close enough for me to see how angry she was with her own shaking hands. The table edge met the line beside the chair.
+The room came back in a rush. The table grew, the kitchen doorway widened, and Vivi's face came close enough for me to see how angry she was with her own shaking hands. The table edge met the line beside the chair. Its nearest leg stood level with the chip.
 
 I pinched off the repeat. This time the kitchen and the outer doorway were lined up. The newest ring on the peg went dull.
 
