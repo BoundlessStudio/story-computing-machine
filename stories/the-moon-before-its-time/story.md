@@ -84,7 +84,7 @@ Nimare knew the face from a thousand paintings. The paintings had not given Veya
 
 Veya lowered her eyes. “Something struck the far side. I held it together as long as I could.”
 
-The light jerked in her hand. Nimare saw the outer strand slipping beneath her smallest finger. She stepped forward, laid her free palm against the moon's cold rock, put the spindle through the loop, and turned her wrist.
+The light jerked in her hand. Nimare saw the outer strand slipping beneath her smallest finger. She stepped forward, laid her free palm against the moon's cold rock, slid the spindle under the slipping strand, and turned her wrist.
 
 “Don't pull,” Veya said.
 
@@ -174,7 +174,7 @@ Veya lifted her face.
 
 For a moment Nimare thought she would withdraw into the chamber. Instead the woman loosened her hand. The last strands slipped from her fingers into the spindle, and she lifted one bare foot toward the parapet.
 
-“There isn't room,” Odel said.
+“Wait. My box is in the way,” Odel said.
 
 She moved her sewing box, came to the wall, and offered her arm. Veya took it. Her first step struck the stone hard enough to make her gasp. Odel's other hand went under her elbow.
 
@@ -224,7 +224,7 @@ Nimare pressed her lips together.
 
 Veya looked down at the plum stone in her hand.
 
-Odel's needle went through the silk. Nimare felt the small pull, the pressure of her mother's knuckles against her side. In her other hand, sunlight was finding a ridge on the far side of the moon. That country had never faced the earth. She could feel the difference between the brittle upper crust and the deep rock under it. She wanted to follow the light all the way down the slope.
+Odel's needle went through the silk. Nimare felt the small pull, the pressure of her mother's knuckles against her side. In her other hand, sunlight was finding a ridge on the far side of the moon. That country had never faced the earth. She could feel the difference between the brittle upper crust and the deep rock under it. Halfway down, a cleft forked beneath an overhang. With a slight turn of her ring finger she followed one branch to its end, a shallow bowl of loose stones. She wanted to know where the other one went.
 
 Her mother licked the end of a new thread. It would not pass through the needle. She tried again.
 
@@ -274,15 +274,15 @@ Neither of them moved for a long time.
 
 When Odel stepped back, she left a damp place on the silk.
 
-Nimare went to the parapet. There was a narrow shelf where Veya's foot had been. She put her own foot on it, keeping the outer loop open.
+Nimare went to the parapet. There was a narrow shelf where Veya's foot had been. She put her own foot on it, holding the spindle steady.
 
 Veya held out the other half of the plum. She had saved it in her unburned hand.
 
 Nimare took it. The flesh was warm, marked by the older woman's thumb. She dipped it in the little salt bowl and bit down.
 
-Then she turned the spindle once through the inner loop.
+Then she passed the spindle through the inner loop and drew it closed.
 
-The light passed under her skin. Her hand ceased to carry the long slope; the slope was hers. A thousand small falls of dust settled into places she could feel. Far beyond her sight, cold lay against the moon's dark side, rough and various, waiting for her attention.
+The light passed under her skin. Her hand ceased to carry the long slope; the slope was hers. A thousand small falls of dust settled into places she could feel. Across three ridges, the wound pulled with a dull ache. She could feel both edges of it now. Far beyond her sight, cold lay against the moon's dark side, rough and various, waiting for her attention.
 
 The chamber opened. She stepped inside and sat in the hollow Veya had worn smooth.
 
@@ -290,7 +290,7 @@ Through the opening, her mother was still close enough to touch. Nimare reached.
 
 The moon lifted.
 
-She felt the jungle passing beneath her, felt the whole unfamiliar weight of herself rise. Below, Odel picked up the sewing box. Veya tried to follow her and had to sit again. Her mother stood with the box under one arm, looking upward. There was no way to tell what she would do next.
+She felt the jungle passing beneath her, felt the whole unfamiliar weight of herself rise. Below, Odel picked up the sewing box. Veya tried to follow Odel and had to sit again. Her mother stood with the box under one arm, looking upward. Nimare could see her face and could not tell what she would do next.
 
 Nimare turned toward the enormous country she had wanted all her life. Somewhere in it, in a small warm hollow, her human mouth was still full of plum.
 
