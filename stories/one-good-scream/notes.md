@@ -1,0 +1,3 @@
+# Editorial memory
+
+2026-10-08. New non-canon story. The writer proposed a monster who wants to be frightened in a travelling Halloween haunted house: joining the queue, eating hot doughnuts, and taking a customer's turn are pleasures denied on ordinary nights. We agreed to protect the reversal in which his own scream joins the night's happy noise, while watching for a customer-service dispute or a moral lesson displacing the bodily comedy and genuine enjoyment. General is the starting audience target; no reference images were supplied. Claude authentication was checked with the inherited API key removed: `claude.ai`, active Max subscription. No shared-universe facts are being added.

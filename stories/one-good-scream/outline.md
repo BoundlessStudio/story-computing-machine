@@ -1,0 +1,13 @@
+# One Good Scream
+
+Provisional direction, 2026-10-08.
+
+Oswin, a broad, brindle-furred monster with backward-curving horns, long claws, and a mouth wider than a human's should be, has a particular Halloween ambition: go through the travelling haunted house as a customer and be frightened. From concealment he has heard its happy screams in previous years. Tonight he wants one of his own. Close third person, comic and sensuous; roughly 2,000–3,000 words, with room for a different length or turn.
+
+The evening already delights him: walking upright down a busy street, ordering a hot cinnamon doughnut, being jostled without an apology for his existence. Ordinary days have taught him to keep out of sight, but that contrast should occupy a few concrete moments rather than a grief-heavy history. His frightening body has pleasant, inconvenient particulars: claws and a paper ticket, hot sugar in his fur, horns and low theatrical doorways. He has saved money for this particular visit.
+
+At the haunted house, the queue admits him to the ordinary business of waiting among strangers. Someone admires his costume; someone mistakes him for a performer. He makes clear that he has bought a ticket. This is a brief pressure, not a service dispute: his wish is to receive the show, not become its principal attraction. A small group enters together, including a human customer who is loudly certain she will not scream. Oswin, by contrast, would like to, and quietly enjoys her deteriorating certainty.
+
+The attraction should be genuinely inventive and enjoyable even when it does not frighten him: convincing false spaces, an actor's good timing, cheap effects used well. His anticipation makes him watch so attentively that he keeps seeing scares coming. Near the end, a false threat pulls the group's attention one way; a harmless brush or movement reaches Oswin from the other. The human customer's involuntary shriek compounds the sensory surprise. He produces a magnificent, wholly sincere scream, then laughs with the others. The precise effect remains open: it must be physically legible and ordinary theatre, not his secret trauma or a new supernatural vulnerability.
+
+On the way out, he is still trembling pleasantly and reluctant to break the shared excitement. His companions compare reactions and tease him for his enormous scream without treating him as a revelation or a lesson. He uses the last of his spending money for another ticket. End on his returning to the queue, delighted that knowing how it works has not exhausted wanting it. Halloween will end through people going home, not a magical midnight rule; nothing claims the rest of his year is fixed.
