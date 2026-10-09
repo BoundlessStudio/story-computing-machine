@@ -11,3 +11,7 @@
 # Audience and content direction
 
 No audience, length, or intensity requested. Start toward General; assign the final AO3 rating after prose and cover are finished. No further user constraints.
+
+# Later art feedback
+
+the character sheets have too much background in them they should be cleaner.
