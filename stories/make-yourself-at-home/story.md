@@ -50,7 +50,7 @@ She was visible through the sitting room, framed by the kitchen doorway. Her hai
 
 “It changes.”
 
-Vivi took a step out of the kitchen and steadied a chair with her knee. The table slid backwards. She stepped back in.
+Vivi took a step out of the kitchen and pushed a chair out of her way. The table slid backwards. She stepped back in.
 
 “I was only getting the salad.”
 
@@ -202,7 +202,7 @@ Vivi opened her mouth.
 
 “Without going sideways,” Cora added.
 
-I took a piece of chalk from my coat. Each folded change had left a fine ring around the peg; the newest was bright above the old, dark lines. I could work on that one without unwinding the others. The peg held the reference to the flat before any of these folds; the chair gave us something still in that space. Between them, I could bring the latest fold back and give it a place to stop.
+I took a piece of chalk from my coat. Each folded change had left a fine ring around the peg; the newest was bright above the old, dark lines. I could work on that one without unwinding the others. The peg held the reference to the flat before any of these folds; the chair gave us something still in that space.
 
 I drew a short line on the bare boards, level with the chip.
 
