@@ -226,7 +226,7 @@ Outside, the night air cooled the inside of Oswin's mouth. He could hear music f
 
 She took off her hat and fanned her face with it.
 
-The scarecrow pulled his coat straight. There was straw on her sleeve.
+The scarecrow pulled his coat straight. There was straw on the pirate's sleeve.
 
 “Delia,” he said, “you made a noise I've never heard before.”
 
@@ -240,7 +240,7 @@ Oswin could feel a grin pulling at the corners of his mouth. He let it go as wid
 
 The moth woman wiped her eyes beneath her mask. “I thought it was part of the show.”
 
-“So did I,” said Delia. “I thought we'd brought one along.”
+“So did I,” said Delia. “I thought we'd brought an actor along.”
 
 “No,” Oswin said. “That was me.”
 
@@ -252,9 +252,7 @@ The scarecrow picked a piece of straw from her sleeve. “So have mine.”
 
 They went off toward the stalls. Delia lifted her hat to Oswin as they passed, and he raised a hand in return. The moth woman was still laughing when she left them.
 
-Oswin stood beside the exit until another group came out. A young man in a paper crown was hanging on to his friend. They were both gasping. Then they saw each other's faces and began to laugh.
-
-Oswin laughed too. His knees had steadied, but he could remember exactly how they had felt.
+The next group burst out behind him, a young man in a paper crown hanging on to his friend. They saw each other's faces and began to laugh. Oswin laughed too. His knees had steadied, but he could remember exactly how they had felt.
 
 He put a hand into his pouch. Four coins pressed against his palm.
 
