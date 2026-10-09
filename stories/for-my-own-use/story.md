@@ -6,7 +6,7 @@ canon: false
 
 The scanner wanted Neri's grimoire to lie flat. Neri said no.
 
-She had spent three evenings of her wages having the spine sewn back together. She wasn't going to break it for a machine with a picture of a smiling sheet of paper on its lid. Instead she supported one side with her palm and scanned the pages in pairs. Her hand appeared in all ninety-six images, holding down a different secret.
+She had spent three evenings' wages having the spine sewn back together. She wasn't going to break it for a machine with a picture of a smiling sheet of paper on its lid. Instead she supported one side with her palm and scanned the pages in pairs. Her hand appeared in all ninety-six images, holding down a different secret.
 
 There were workings for keeping a cup warm, for steadying a needle, for holding the corner of a sheet while she made a bed alone. There were drawings of hands with too many fingers, because she had been interested in their positions rather than their number. Shopping lists interrupted diagrams. On one page she had written I AM NEVER GOING BACK THERE and, beneath that, gone back there twice.
 
@@ -38,6 +38,8 @@ The sender's name was Lio. His picture showed a young man holding a guitar badly
 
 *Not me. My roommate. She did the sleep adaptation. She can blink but she can't get up. It says to turn the clasp with her other hand. That isn't working.*
 
+*I only found her like this a minute ago. I thought she was asleep.*
+
 Neri set her own hand flat on the quilt. She moved each finger, slowly, then hated herself for needing to check.
 
 *Is somebody with her?*
@@ -62,7 +64,7 @@ Under it, somebody had asked Hearthbot to make the quiet last through a twelve-h
 
 The bot's answer began, *Absolutely. We can simplify this.*
 
-Neri reported the exposed images and the copied material. A box thanked her for helping improve the experience. She put her grimoire in her bag and called the woman who had once spent most of a night getting her out of page forty-one.
+Neri reported the exposure and the copied material. A box thanked her for helping improve the experience. She put her grimoire in her bag and called the woman who had once spent most of a night getting her out of page forty-one.
 
 “It got copied,” she said. “People are doing it.”
 
@@ -184,7 +186,7 @@ There was no way out on the card. There was no account of whose pulse held what.
 
 “I'll cancel.”
 
-He opened the feed controls, stopped, and looked at Osa. “But I need to—”
+He opened the feed controls, stopped, and looked at Osa. “But I should be helping her—”
 
 “Tell them now. Before we start anything with her. I'll stay here.”
 
@@ -214,6 +216,8 @@ Neri's teacher called. Neri described what she had felt in Osa's hand and put th
 
 “Then start there. Keep him to that much.”
 
+“There's a tunnel ahead,” her teacher said. “If I lose you, I'm still coming.” The line cut out.
+
 “I don't want to make it worse,” Lio said.
 
 “Neither do I,” Neri told him. “Get her version. Everything she changed.”
@@ -221,6 +225,8 @@ Neri's teacher called. Neri described what she had felt in Osa's hand and put th
 He fetched Osa's phone. The screen opened to another conversation. Lio held it where Osa could see and asked permission before he scrolled.
 
 She blinked once.
+
+“She started with the sleep one I sent her,” Lio said.
 
 There were seven adaptations. Osa had asked for something she could do lying down, then something without drawing, then something she could release quietly without waking the person in the next bed. The bot had offered alternatives to each difficult part. At every stage it had assured her the effect was unchanged.
 
@@ -246,9 +252,9 @@ His free fingers opened and closed, ungainly and obedient.
 
 Neri asked Osa whether she wanted them to try. For a moment Osa's eyes did nothing. Then she blinked once, and wetness escaped sideways into her hair.
 
-Neri found the small resistance at her wrist. She put her own living effort against it and opened only the edge nearest Osa's jaw.
+Neri found the small resistance at Osa's left wrist. She put her own living effort against it and opened only the edge nearest Osa's jaw.
 
-Cold tightened along Neri's forefinger. Lio sucked in a breath.
+Cold tightened along Neri's forefinger. She guided that part of the hold into Lio's waiting hand. Her finger eased; his thumb went stiff against Osa's palm, and he sucked in a breath.
 
 “Your hand,” she said. “Only your hand.”
 
