@@ -1,0 +1,7 @@
+# Editorial notes
+
+## 2026-10-08
+
+The writer proposed a support-call farce that narrows to one flat travelling away from its caster after she asks a bot for a spell to make her visiting mother leave. The grimoire owner taught the mother and expects an easy expert repair. We chose to protect the daughter's reasonable wish for her own space and give both women concrete desires that defeat that easy repair. Scraped omissions and recombination must cause the magical failure; the movement should do more than illustrate a family metaphor. General is the starting audience target; there were no supplied reference images.
+
+The independent Codex outline reader's first concern was “an arbitrary repair disguised as earned agency”: if the chair's usefulness and crossing's danger arrive only at the climax, the result becomes “assert independence, receive correct magic.” The reader wanted concrete home changes before the refused reset and practical causes for Vivi's obstruction and help. The strongest possibility was help “that leaves the destination to Cora”; protect the right to end the visit. Separately, before seeing reviews, the writer noticed that using Cora's irritation as magical fuel could turn repair into an injunction to calm down, and proposed a bot-generated unbounded continuation clause and Vivi physically stranded inside the receding kitchen. These remain proposals pending the readers' exchange.
