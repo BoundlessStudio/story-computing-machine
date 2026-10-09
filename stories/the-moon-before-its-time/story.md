@@ -76,7 +76,7 @@ She wore a robe whose blue had faded almost white. One sleeve was burned away. L
 
 Nimare knew the face from a thousand paintings. The paintings had not given Veya that frightened look.
 
-“You're early,” she said.
+“You're early,” Nimare said.
 
 “I know.”
 
@@ -130,7 +130,7 @@ The older woman glanced back into the opening. Beyond her lay a small chamber, a
 
 “No.”
 
-It was an answer to something else. Nimare waited.
+Nimare waited.
 
 “Everyone is gone,” Veya said. “I knew that would happen. I knew it when I went up. It didn't seem possible that everyone could be gone and the steps would still be here.”
 
@@ -148,7 +148,7 @@ The woman swallowed. Nimare felt the spindle tilt and corrected it.
 
 “I haven't needed to.” Veya's gaze stayed on the box. “It isn't the same.”
 
-Nimare remembered all the solemn accounts of the bearer sustained by light, free from mortal hunger. No one had thought to ask whether she might still want a plum.
+Nimare remembered all the solemn accounts of the bearer sustained by light, free from mortal hunger.
 
 “If you step down,” Nimare said, “I can still open the loop.”
 
@@ -278,7 +278,7 @@ Nimare went to the parapet. There was a narrow shelf where Veya's foot had been.
 
 Veya held out the other half of the plum. She had saved it in her unburned hand.
 
-Nimare took it. The flesh was warm, marked by the older woman's thumb. She dipped it in the little salt bowl and bit down.
+Nimare took it. The flesh was warm, marked by the older woman's thumb. Odel brought the little salt bowl and set it on the parapet. Nimare dipped the plum and bit down.
 
 Then she passed the spindle through the inner loop and drew it closed.
 
