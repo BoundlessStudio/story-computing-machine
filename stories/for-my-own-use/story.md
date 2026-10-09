@@ -254,7 +254,7 @@ Cold tightened along Neri's forefinger. Lio sucked in a breath.
 
 He nodded. His free fingers kept moving.
 
-At the table, his drummer asked someone on her phone to send their friend's exact version to the practitioner coming to help. A notification announced that the original blue card had been saved another four hundred times.
+At the table, his drummer asked someone on her phone to send their friend's exact version to a practitioner near them. A notification announced that the original blue card had been saved another four hundred times.
 
 Neri's anger made her grip too hard.
 
@@ -302,7 +302,7 @@ Smallhours had pasted a card into the comments. This one had a little clock and 
 
 *I haven't tried it. Already queued the post for my sister's group though. Isn't this your automatic version?*
 
-Neri had not known any of them existed an hour earlier. Now they were asking her name for things.
+Neri had not known anybody on that feed existed an hour earlier. Now they were asking her name for things.
 
 Lio came over while the teacher worked with Osa. He looked as if he had stayed awake for days.
 
@@ -348,7 +348,7 @@ Neri lowered the book.
 
 “No.”
 
-Neri stayed long enough to say that a copy on another site was still the same rejected trial. Then she got out of the camera's view.
+She stayed long enough to say that a copy on another site was still the same rejected trial. Then she got out of the camera's view.
 
 Her phone had an answer from the website. The image addresses had been accessible without signing in. The company had corrected the access settings and was sorry for the inconvenience.
 
