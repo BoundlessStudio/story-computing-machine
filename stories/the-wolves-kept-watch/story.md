@@ -200,7 +200,7 @@ He did not move.
 
 Grandmother's eyes narrowed. She could make a man kneel with two words, strip himself with three, open his mouth and swallow whatever she gave him. Red's mother had been the only person at court who could say no to her. Until Red was born.
 
-When Grandmother died, that voice would be Red's. In the city beyond the wood, the councillors ate every evening at Grandmother's long table. Red knew their names. Until then she could ask, and wait, and ask again.
+When Grandmother died, that voice would be Red's. Until then she could ask, and wait, and ask again. In the city beyond the wood, the councillors ate every evening at Grandmother's long table. Red knew their names.
 
 Now Grandmother said, “Someone has been clever.”
 
