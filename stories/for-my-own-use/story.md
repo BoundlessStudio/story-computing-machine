@@ -100,11 +100,11 @@ Neri wanted to grab him by the wrist. Instead she put her bag down.
 
 One deliberate blink.
 
-Osa's skin was cold. Under it Neri could feel the hold, a fine, continuous resistance, like the moment before a cramped muscle let go. It tightened when she pressed.
+Osa's skin was cold. Under it Neri could feel the hold, a fine, continuous resistance, like the moment before a cramped muscle let go. It tightened when she pressed. The pulse beneath it kept beating, and Osa's chest rose beneath the fleece. The working had caught the movements she could choose, leaving her breath and heartbeat free.
 
 She took her hand away.
 
-“She's holding through her pulse. Everything she could choose to move, except her eyes. Breathing isn't caught.”
+“She's holding herself through her pulse. Her hands and jaw are inside it.”
 
 “Can you turn it off?”
 
@@ -160,7 +160,7 @@ Lio reached toward Osa's face.
 
 The bot had drawn the closed loop again. It had put an arrow beside it and labeled the arrow OPEN.
 
-Lio stared. Then he shut the laptop so hard the mug on the floor rattled.
+Lio stared. Then he shut the laptop with a crack that made Neri flinch.
 
 For a moment there was only the amplifier's hum and Osa's breathing. Neri could feel her own fingers prickling. In her remembered night, the hardest part had been being unable to make anybody hear that she had changed her mind.
 
@@ -192,7 +192,7 @@ She put her palm beneath Osa's cold hand without taking up the hold.
 
 Lio carried the laptop to the table. Neri heard his chair scrape. For several seconds he said nothing. The phone kept chiming.
 
-“I'm cancelling the working,” he said at last, to the little camera. His voice sounded unpleasantly ordinary, stripped of the ease she had heard in his recorded welcome. “Please don't start. The body and sleep versions aren't safe.”
+“I'm cancelling the working,” he said at last, to the little camera. His voice sounded unpleasantly ordinary, stripped of the ease she had heard in his recorded welcome. “We haven't begun the shared circle. We aren't going to. Please don't start it yourselves. The body and sleep versions aren't safe.”
 
 He swallowed audibly.
 
@@ -202,9 +202,7 @@ His drummer arrived at the door carrying a packet of biscuits. Lio waved her tow
 
 Comments filled the narrow strip beside his face.
 
-*Already did mine.*
-
-*Which version? Mine has a timer.*
+*smallhours: Haven't done mine. It has a timer. Is that cancelled too?*
 
 *Where is Neri? Is this her withdrawing permission?*
 
@@ -256,7 +254,7 @@ Cold tightened along Neri's forefinger. Lio sucked in a breath.
 
 He nodded. His free fingers kept moving.
 
-At the table, his drummer read a message into her phone: no, she couldn't recommend the timer version; no, the creator had not approved it; yes, somebody was finding help for the person who had posted the earlier comment. A notification announced that the original blue card had been saved another four hundred times.
+At the table, his drummer asked someone on her phone to send their friend's exact version to the practitioner coming to help. A notification announced that the original blue card had been saved another four hundred times.
 
 Neri's anger made her grip too hard.
 
@@ -298,7 +296,11 @@ The teacher put her other hand beneath Lio's thumb. “I've got your piece too. 
 
 He stared at his hand before he believed her.
 
-The feed was still open. It had become a room full of people trying to find other people: an aunt who wouldn't answer her messages, a friend who said the quiet was lovely but had gone cold, somebody's cousin who had copied a version into a chat the moderators couldn't access. There were also people furious that the session had been cancelled, and people asking if a safer version would be ready tomorrow.
+The countdown had disappeared. Lio's drummer was telling the studio guests to stay home. The feed stayed open.
+
+Smallhours had pasted a card into the comments. This one had a little clock and Neri's name above the promise of a hands-free hour.
+
+*I haven't tried it. Already queued the post for my sister's group though. Isn't this your automatic version?*
 
 Neri had not known any of them existed an hour earlier. Now they were asking her name for things.
 
@@ -334,13 +336,17 @@ She turned the book so the camera could see the cross again. Her thumb hid the s
 
 “I scanned this for a backup. I didn't publish a method. I didn't tell Lio he could do any of this. Please stop using the body versions. And don't assume the timer or the automatic release will work just because the words say they will.”
 
+Smallhours wrote: *Found it. After the hour it still wants me to move the clasp.*
+
+Then: *Cancelled the post. I'm not doing it.*
+
+Neri read that twice.
+
 A comment asked her to upload the adjoining pages so they could debug the complete source.
 
 Neri lowered the book.
 
 “No.”
-
-Lio read the next question himself. It was from a woman whose brother had used a version with a different anchor. He asked her to send those instructions to the practitioner she had found, rather than copying Neri's account as a cure.
 
 Neri stayed long enough to say that a copy on another site was still the same rejected trial. Then she got out of the camera's view.
 
