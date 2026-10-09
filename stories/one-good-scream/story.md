@@ -112,8 +112,6 @@ The young man glanced from his horns to his claws, then back to his face.
 
 He continued counting. Oswin stayed where he was. A faint, delicious shriek came through the wall of the house, followed by a thump and a woman's uncontrollable laugh.
 
-“Hope that's one of ours,” said the scarecrow.
-
 At the booth Oswin laid out four coins. The woman behind the little window gave him a yellow ticket. He took it between the sides of two claws, very gently.
 
 The pirate peered at it.
@@ -166,21 +164,11 @@ He shifted to the right.
 
 “We haven't got all night,” the gentleman said.
 
-Oswin hurried after his group, delighted.
-
-There was a kitchen with a cook who lifted a lid to reveal his own head in a pot. Oswin had noticed the hole in the tablecloth, but the cook's expression was so indignant that he laughed anyway. The pirate asked what was for pudding. The head told her to get out of his kitchen.
-
-In the passage beyond, an iron door banged. The scarecrow seized the pirate's coat.
-
-“That,” she said, pulling him along, “is a door.”
-
-“It wasn't banging before.”
-
-Oswin was enjoying himself enormously. He had never walked through so many rooms with other people in them. There was always something to see, and the arrows were so clear that nobody need be uncertain where to go. He liked the actors. He liked the moth woman's long, rumbling laugh, which seemed unlikely to come out from behind such a delicate mask. He liked the way the scarecrow kept putting his spectacles straight after every fright.
+Oswin hurried after his group, delighted. The moth woman had begun to laugh, a long, rumbling laugh that seemed unlikely to come out from behind such a delicate mask. He caught up with them as the scarecrow was putting his spectacles straight.
 
 He wanted to see what came next so badly that he kept seeing it a moment too soon.
 
-A long, low room brought his horns almost against the rafters. Red light glowed at the far end. Between them and the light, a coffin stood upright against the wall. A white arrow pointed to a door on its right. To its left hung a heavy black curtain, trailing in folds on the floor beside the path.
+A long, low room brought his horns almost against the rafters. A coffin stood upright against the far wall, with red light glowing behind it. A white arrow pointed to a door on its right. To its left hung a heavy black curtain, trailing in folds on the floor beside the path.
 
 Oswin bent forward to clear a beam. The others filed past him toward the coffin.
 
@@ -220,11 +208,11 @@ The man laughed with him. The shrouded thing in the coffin said, “Move them on
 
 “I saw your shoe,” Oswin told the coffin.
 
-“Everybody sees my shoe.”
+“Keeps you looking this way.”
 
 Len raised the clacker in a small salute.
 
-Oswin began laughing again. They had let him see it. They had given him a shoe to watch.
+Oswin began laughing again.
 
 The pirate got hold of his elbow and tugged him toward the exit.
 
@@ -260,7 +248,7 @@ His voice had gone a little rough. He swallowed, experimentally, and it was stil
 
 Delia settled her hat on her head. “I'm having something hot. My insides have moved.”
 
-“They were giving you a warning,” the scarecrow said.
+The scarecrow picked a piece of straw from her sleeve. “So have mine.”
 
 They went off toward the stalls. Delia lifted her hat to Oswin as they passed, and he raised a hand in return. The moth woman was still laughing when she left them.
 
