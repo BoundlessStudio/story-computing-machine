@@ -92,7 +92,7 @@ He tried the clasp, found it would not open, and left it where it was.
 
 The first time he had carried her away from the cottage, the wolf had worn that band on a man's wrist. She had been eight. Her mother had pushed her out through the kitchen door, into the captain's arms, while her father held the door shut behind them. Red remembered the captain's hands better than his face: broad hands, a split nail, the brass band bright against one brown wrist.
 
-Later there had been no hands. The guards had taken fur and muzzles and the hard, four-legged bodies that Grandmother could not command. They still understood everything. They had made themselves unable to answer.
+Later there had been no hands. The guards had taken fur and muzzles and the hard, four-legged bodies that Grandmother could not command. They still understood everything. None could speak to her.
 
 When Red was twelve, the captain had scratched a crown in the dirt for her, and a little figure under it. Then he had laid his foreleg across the figure.
 
@@ -146,7 +146,7 @@ He did not smile.
 
 Red took a lump of wax and worked it between her fingers.
 
-“She can make your body do what she says. If you hear her and understand. Even when you don't want to.”
+“She can make a human body do what she says. If you hear her and understand. Even when you don't want to.”
 
 “And you?”
 
@@ -200,7 +200,7 @@ He did not move.
 
 Grandmother's eyes narrowed. She could make a man kneel with two words, strip himself with three, open his mouth and swallow whatever she gave him. Red's mother had been the only person at court who could say no to her. Until Red was born.
 
-When Grandmother died, that voice would be Red's. Until then she could ask, and wait, and ask again.
+When Grandmother died, that voice would be Red's. In the city beyond the wood, the councillors ate every evening at Grandmother's long table. Red knew their names. Until then she could ask, and wait, and ask again.
 
 Now Grandmother said, “Someone has been clever.”
 
@@ -224,7 +224,7 @@ The old woman shut her eyes. It might have been relief. When she opened them, th
 
 “That captain of theirs,” she said. “He used to carry you everywhere. Wouldn't put you down when you cried. Spoiled you rotten.”
 
-“He kept me here.”
+“He kept me in the woods.”
 
 “Oh, darling. So did I.”
 
@@ -284,7 +284,7 @@ His hands rose.
 
 She could have reached the door. She was nearer to it than he was. For one breath there was nothing between her and the path, the dead captain, all the places where she could go on being a girl with a basket.
 
-Behind Hollis, Grandmother had one hand clamped to her neck. Blood pushed between the fingers. She was trying to speak.
+Behind Hollis, Grandmother had her torn hand clamped to her neck. Blood pushed between the fingers. She was trying to speak.
 
 Red went the other way.
 
@@ -432,7 +432,9 @@ He bent over her. His fingers were as careful as before. He folded the cloth to 
 
 His lips moved. No words came.
 
-“Tell her the wolf ate Grandmother. Tell her you cut him open and got me out. That you were just in time.”
+Red held her cheek together to speak.
+
+“When you get home, tell her the wolf ate Grandmother. Tell her you cut him open and got me out. That you were just in time. Say it to me first.”
 
 He drew a breath.
 
