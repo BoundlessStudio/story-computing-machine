@@ -14,7 +14,7 @@ By lunchtime there were forty-three messages. Someone had charmed her carpet to 
 
 All of them had found my grimoire through Wonder, which charged a monthly subscription to produce bespoke magic from plain language. My grimoire was free. I had put it on a website because my first teacher had required six years of unpaid work before showing me how to warm a bed, and I thought we might improve on that.
 
-Wonder had scraped the site. It had absorbed every incantation, including one I had crossed out. The framework diagrams were interactive and had come through as empty boxes.
+Wonder had scraped the site. It had absorbed every incantation. The framework diagrams were interactive and had come through as empty boxes.
 
 I was composing an announcement about this when Cora Hobden called.
 
@@ -38,7 +38,7 @@ The front door was open when I arrived. Cora stood on the landing in borrowed gr
 
 “Don't go in,” she said.
 
-I had already put a foot across the threshold. The coat hooks slid away from me.
+I had already put a foot across the threshold. Ahead of my shoe, the coat hooks were sliding away.
 
 I withdrew my foot. The hooks continued down the hall at a stately pace. Vivi's green coat hung from one of them with a shopping bag still over its arm.
 
@@ -50,7 +50,7 @@ She was visible through the sitting room, framed by the kitchen doorway. Her hai
 
 “It changes.”
 
-Vivi took a step out of the kitchen. The table slid backwards. She stepped back in.
+Vivi took a step out of the kitchen and steadied a chair with her knee. The table slid backwards. She stepped back in.
 
 “I was only getting the salad.”
 
@@ -104,6 +104,8 @@ I scrolled up. There were months of earlier requests: fit a workbench in an alco
 
 “It sent me back to reciprocal orientation.”
 
+I had checked the links. I hadn't tried starting there.
+
 From the kitchen, Vivi said, “I told you I could help.”
 
 Cora looked at the phone in my hand.
@@ -118,7 +120,7 @@ Underneath, Cora had written: *The kitchen is getting further away.*
 
 The star had replied: *That's expected during the settling phase!*
 
-“It isn't settling,” I said. “The furniture tries to move, the fold carries the room away instead, and there's nowhere it's been told to finish.”
+“It isn't settling,” I said. “The furniture tries to move, the fold carries the room away instead, and there's nowhere it's been told to finish. Every shift of the room shifts the furniture, starting it again.”
 
 “Can you tell it now?”
 
@@ -130,11 +132,13 @@ The doorway filled with plaster.
 
 I let go at once. The sitting room returned. At its far end, Vivi dropped the spoon.
 
-“Where did you go?” she shouted.
+“Where did you go, Lenore?” she shouted.
 
 “Nowhere. Sorry.”
 
 “You were a wall.”
+
+The rooms were still there; I'd shut their doorway against the wrong patch of wall.
 
 Cora took her phone back very carefully.
 
@@ -186,7 +190,7 @@ I took my fingers off the peg.
 
 The chair's front foot was still level with the blue tile. Cora nudged it with a slipper. It moved an inch, ordinarily, and stopped.
 
-“It hasn't done anything,” she said. “Everything else has. I told Wonder to leave that one alone.”
+“It hasn't done anything,” she said. “Everything else has. I told it to leave that chair alone before I started the studio.”
 
 I leaned across the threshold and put a hand on the worn velvet arm. The chair was warm from the sun. Beyond it, the room stretched away, taking the sunlit patch with it.
 
@@ -202,13 +206,15 @@ I took a piece of chalk from my coat. Each folded change had left a fine ring ar
 
 I drew a short line on the bare boards, level with the chip.
 
+The mark on the table would bring that part of the room back to the line beside the chair. Once they met, I could cut the repeat with the doorway aligned, instead of shutting it halfway through a fold.
+
 “Can you get to the table?”
 
 Cora looked down the length of her sitting room.
 
 “Before you ask her that,” Vivi said, “what happens if you make another wall?”
 
-“I won't cut the repeat this time. I'll hold the opening while we bring the room back.”
+“I won't cut the repeat until we've brought the room back. I'll hold the opening while we do it.”
 
 “Both sides?”
 
@@ -282,7 +288,7 @@ She came back along the strip with one hand out, judging the floor ahead. Behind
 
 “I'm aware.”
 
-Cora reached the orange chair. She caught its arm and stepped onto the bare boards. Then she turned, looked past me at the two chalk lines, and said, “Wait.”
+Cora reached the orange chair. She caught its arm and stepped onto the bare boards. Then she looked from the marked table edge to the chalk beside the chair and said, “Wait.”
 
 I had breath enough for one unhelpful noise.
 
@@ -296,7 +302,7 @@ I took the moving line towards the fixed one.
 
 The room came back in a rush. The table grew, the kitchen doorway widened, and Vivi's face came close enough for me to see how angry she was with her own shaking hands. The table edge met the line beside the chair.
 
-I closed the newest fold.
+I pinched off the repeat. This time the kitchen and the outer doorway were lined up. The newest ring on the peg went dull.
 
 For a moment nobody moved. The studio door was still open. Paper stirred on its racks.
 
