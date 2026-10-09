@@ -90,9 +90,9 @@ He touched the worn engraving. Seven small points, almost rubbed away. “This o
 
 He tried the clasp, found it would not open, and left it where it was.
 
-The first time he had carried her away from the cottage, the wolf had worn that band on a man's wrist. She had been eight. Her mother had pushed her out through the kitchen door, into the captain's arms, while her father held the door shut behind them. Red remembered the captain's hands better than his face: broad hands, a split nail, the brass band bright against one brown wrist.
+The first time the captain had carried her away from the cottage, the wolf had worn that band on a man's wrist. She had been eight. Her mother had pushed her out through the kitchen door, into the captain's arms, while her father held the door shut behind them. Red remembered the captain's hands better than his face: broad hands, a split nail, the brass band bright against one brown wrist.
 
-Later there had been no hands. The guards had taken fur and muzzles and the hard, four-legged bodies that Grandmother could not command. They still understood everything. None could speak to her.
+Later there had been no hands. The guards had chosen fur and muzzles and the hard, four-legged bodies that Grandmother could not command. They still understood everything. None could speak to Red.
 
 When Red was twelve, the captain had scratched a crown in the dirt for her, and a little figure under it. Then he had laid his foreleg across the figure.
 
@@ -298,7 +298,7 @@ They were face to face. Grandmother's breath smelled of lavender, as it always h
 
 Hollis came round the foot of the bed.
 
-Red pulled her wrist free, leaving the knife. Grandmother struck her against the wall with the back of her bloody hand. Red's head hit the plaster. While she was trying to make her eyes focus, the queen reached for the knife. Red caught that hand on the hilt and pushed, her whole weight behind it.
+Red pulled her wrist free, leaving the knife. Grandmother struck her against the wall with the back of her bloody hand. Red's head hit the plaster. While she was trying to make her eyes focus, the queen reached for the knife. Red caught Grandmother's good hand on the hilt and pushed the knife deeper, her whole weight behind it.
 
 There was no cleverness left. She hung on. Grandmother's torn hand scrabbled at her hood, pulling the cloth over her eyes. She heard Hollis climbing onto the bed. His boot drove into the mattress beside her knee.
 
