@@ -424,7 +424,7 @@ I stayed on the black path.
 
 He looked at me without smiling.
 
-“In my world. Two hundred years have gone.”
+“Here. Two hundred years have gone.”
 
 Behind him, his wife began the tune we had made together. I knew exactly where my hand should go. My fingers moved on the neck of the fiddle, without the bow.
 
@@ -449,6 +449,8 @@ He put out a hand. The sleeve of his coat was yellow silk, so fine that I could 
 I drew my bow across the ordinary strings. The bright strand sounded with them, and for a moment the bride and I played together through the doorway.
 
 I finished the phrase. She let it end.
+
+Agnes's breath was still in my ears. The song had been about to start.
 
 “Not now,” I said.
 
