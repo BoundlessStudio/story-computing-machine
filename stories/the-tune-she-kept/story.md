@@ -242,15 +242,7 @@ There was no likeness that her friend knew of. But there was a recording, made i
 
 “This is the woman I heard. I didn't know her maiden name.”
 
-“You've heard her?”
-
-“Her singing.”
-
 I gripped the edge of the counter. Penny reached towards me, then took her hand back.
-
-“It's the recording of that tune you played. Three White Pears.”
-
-On the little page I saw the words *Three White Pears*.
 
 “Play it,” I said.
 
