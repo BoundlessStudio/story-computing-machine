@@ -38,7 +38,7 @@ He moved aside. The smell of pears reached me, warm pears in butter, and underne
 
 “Ours.”
 
-“Both of you?”
+“You and the fiddler?”
 
 The man looked delighted. “Yes.”
 
@@ -102,9 +102,9 @@ I was still smiling when I stepped over the root.
 
 The path had gone.
 
-There was a hard black surface under my feet, with white marks painted on it. Something large and blue came towards me without a horse. A horn sounded. I jumped backwards, fell against the tree, and the blue thing swept by with faces in its windows.
+There was a hard black surface under my feet, with white marks painted on it. Something blue, taller than I was, came towards me. Behind its windows a seated woman was eating an apple. A horn sounded. I jumped backwards, fell against the tree, and watched the woman slide past, still chewing.
 
-For a while I did not move. The copse had shrunk to six trees behind a low fence. Beyond it stood houses, three storeys high, all down what had been the meadow. A woman walked past holding a little flat object to her ear. When I asked where the lane was, she pointed, then looked at me again.
+For a while I did not move. The copse had shrunk to six trees behind a low fence. Beyond it stood houses, three storeys high, all down what had been the meadow. A woman walked past. When I asked where the lane was, she pointed, then looked at me again.
 
 “Are you with the festival?”
 
@@ -194,7 +194,27 @@ She wrote it down. I was grateful for that. It was something a person might do w
 
 She moved away to speak to the object. While she did, I went to the door and looked towards the passage. People were buying things. A boy licked something pink from a stick. I remembered that I still had Agnes's cake, and put a hand over the pocket to keep from touching it.
 
-Penny's friend sent a page with my daughter's name on it.
+Penny's friend found several Agnes Bells. One had been born in the right year, but in November. Another had the right birthday, thirty years too late. Penny read out parents' names. None of them was mine.
+
+While she searched I took out my bow. There was enough room between the stool and the counter. I played the opening of the stocking tune, quietly, watching my hand go to the places it knew.
+
+Penny turned towards me.
+
+“Three White Pears?”
+
+“Yes.”
+
+“I play that at the Sunday sessions. Where did you learn it?”
+
+“I made it. For Agnes.”
+
+She looked down at the names again. Then she called her friend back.
+
+“Try the singing collection. There was a woman from here who sang that.”
+
+We waited. Penny stood beside me, then went to put the kettle on. I kept returning to the first line. When the answer came, I was at the place where Agnes used to stick her foot out for the second stocking.
+
+There was a page with my daughter's name on it.
 
 Agnes Rusk, born Bell. 1819–1907.
 
@@ -220,15 +240,15 @@ I looked at her. She pressed her lips together.
 
 There was no likeness that her friend knew of. But there was a recording, made in 1904, of an Agnes Rusk in this parish. Penny turned the page towards me.
 
-“I've heard this. I didn't know her maiden name.”
+“This is the woman I heard. I didn't know her maiden name.”
 
-“Heard what?”
+“You've heard her?”
 
 “Her singing.”
 
 I gripped the edge of the counter. Penny reached towards me, then took her hand back.
 
-“I play a version of this at the Sunday sessions. Lots of people do. It's local.”
+“It's the recording of that tune you played. Three White Pears.”
 
 On the little page I saw the words *Three White Pears*.
 
