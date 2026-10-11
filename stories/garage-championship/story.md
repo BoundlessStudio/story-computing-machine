@@ -10,7 +10,7 @@ He set it beside my knee, put one large paw on it, and looked at the open garage
 
 “You and me both,” Cora told him.
 
-She was sitting backward on the mechanic's stool, holding the rear lift pod while I tightened its new damper. The pod was the size of a beer keg. Two years earlier it had kept the back end of a warehouse tug off the ground. Now, with the front unit, it supported a red-and-white racing bike that stretched from our workbench almost to the door.
+She was sitting backward on the mechanic's stool, holding the rear lift pod while I tightened its new damper. The pod was the size of a beer keg. Once it had kept the back end of a warehouse tug off the ground. Now, with the front unit, it supported a red-and-white racing bike that stretched from our workbench almost to the door.
 
 The right fairing had come from a Honda touring motorcycle. I had cut around the badge. Under it were a delivery van's steering joints, a starter motor from the last shop I worked in, and things I had made three times before getting them right. The factory race teams built their machines around their engines. We had built ours around what would fit through the garage door.
 
@@ -114,7 +114,7 @@ The final was at Marrowfield, forty minutes from home. Beyond the old airfield, 
 
 At morning shakedown the airfield smelled of wet grass and hot batteries. Our assigned bay was a white rectangle on concrete. Across the lane Asterion's mobile workshop stood open, bright as a hospital. A mechanic was laying clean tools on a trolley, each one already where his hand would want it.
 
-I had used to work like that. A good shop was a good shop.
+I used to work like that. A good shop was a good shop.
 
 Cora connected our battery cart and fastened my helmet strap where it always snagged on the collar.
 
@@ -158,7 +158,7 @@ Cora moved the graph away from the crack.
 
 “She'll leave something.”
 
-“Yes. I want to be able to use it.”
+“Yes. Whatever line she leaves me, I want to get on the power sooner.”
 
 She watched me for a moment, then turned the tablet off.
 
@@ -204,7 +204,7 @@ The lights went out.
 
 For a second we were all level. Then the factory machines accelerated and their exhaust hammered my chest. I held full power, elbows in, while the pale concrete streamed backward below my boots. Saskia reached the first gate ahead. I was fifth, with a black bike close enough on my right that I could see the rider's forefinger hovering over the brake.
 
-He moved across to claim the turn. I let him. The gate climbed the slope; his heavier machine needed a little longer to lift its nose. I tucked under his line, pulled through the frame, and came out fourth with grass filling my visor.
+He moved across to claim the turn. I let him. The gate climbed the slope; his heavier machine needed a little longer to lift its nose. I tucked under his line, pulled through the frame, and came out fourth, the grass blurring below me.
 
 The stiffer tail held the machine almost straight. Too straight. The next gate approached on my left while I was still asking the front pod to turn. I had to lift and go wide. The black bike came back past, and its wake slapped my knee.
 
@@ -222,11 +222,7 @@ I wanted to reach down and turn the damper soft with my bare fingers.
 
 Next lap I took him there. I arrived at the climb a bike length back, carried that distance up the slope, and went above him through the high gate. This time I was far enough ahead at the final pair that he couldn't get me down the straight.
 
-Ahead were two silver machines and a yellow one. By lap three the yellow rider had fallen behind both Asterions. He was quick through the descent but kept using too much battery on the climb; each time around his acceleration faded a little sooner. I passed him before the top gate on lap four, then spent most of lap five getting past Saskia's teammate.
-
-He made me go the long way. Twice.
-
-On the third attempt I stayed close enough to make him defend the high gate, then braked early and crossed down behind him on the descent. I came out below his tail with room to open the throttle. At the left-right pair we entered on separate lines, and I reached the second gate first.
+Ahead were two silver machines and a yellow one. Yellow was quick on the descent and slow on the climb; I passed him uphill on lap four. Saskia's teammate held me outside at the next gate and again at the last pair. On lap five I made him defend the high gate, then braked early and crossed down behind him on the descent. I came out below his tail with room to open the throttle. At the left-right pair we entered on separate lines, and I reached the second gate first.
 
 “Second,” Cora said. “Saskia one point one. Five complete.”
 
