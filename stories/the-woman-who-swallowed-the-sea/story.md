@@ -64,7 +64,7 @@ Utta looked at her. Belise took a breath to say it again, and the loose black cl
 
 Belise put a palm over it. She met her own skin. The light shone through the spaces between her fingers.
 
-Four people were aboard the little boat. One sat at the tiller in a broad pale hat. Two were pulling oars; the fourth clung to the short mast. The sail hung loose, streaming water. As Belise breathed out, it filled so suddenly that the person at the mast fell to his knees.
+Four people were aboard the little boat. A woman sat at the tiller in a broad pale hat. Two were pulling oars; the fourth clung to the short mast. The sail hung loose, streaming water. As Belise breathed out, it filled so suddenly that the person at the mast fell to his knees.
 
 She held her breath. The sail sagged. Both oars kept moving.
 
@@ -80,9 +80,9 @@ Utta remained crouched on the other side of him, one empty hand on her knee.
 
 Belise looked down at Jowan instead. His thumb had a white ridge across the nail. A lid had fallen on it in the summer, and he had complained for three days whenever she asked him to open anything. She rubbed the ridge. It was almost grown out.
 
-Something knocked against the back of her teeth. She gagged and spat. An oyster shell, small as a seed on her tongue, opened to its ordinary size as it passed her lips. It struck the marble and spun.
+Something knocked against the back of her teeth. She gagged and spat. An oyster shell, small as a seed on her tongue, opened to its ordinary size as it passed her lips. It struck the marble and spun. Brine ran down her chin.
 
-The boat's light was coming higher. The person at the tiller had turned towards the pale reach of her throat. Belise opened her mouth. A little water spilled over her lower lip and became a great splash on the floor. Utta scrambled back, dragging Jowan's other arm with her.
+The boat's light was coming higher. The woman at the tiller had turned towards the pale reach of her throat. Belise opened her mouth. A little water spilled over her lower lip and became a great splash on the floor. Utta scrambled back, dragging Jowan's other arm with her.
 
 Belise shut her mouth. The water stopped.
 
@@ -100,7 +100,7 @@ No, she wanted to say. Up here. This way.
 
 She pressed her lips together. The two rowers bent their backs, pulling away from her throat. The lamp swung at the stern. Below them, a head appeared between two waves and disappeared again.
 
-Belise kept one hand round Jowan's fingers. With the other she gripped the edge of her torn dress. She could feel a sound gathering behind her closed mouth. She tried to breathe a little at a time. The boat rolled; its sail hung uselessly. The person in the pale hat took the lamp off its hook and held it out over the side.
+Belise kept one hand round Jowan's fingers. With the other she gripped the edge of her torn dress. She could feel a sound gathering behind her closed mouth. She tried to breathe a little at a time. The boat rolled; its sail hung uselessly. The woman in the pale hat took the lamp off its hook and held it out over the side.
 
 Utta leaned close enough that Belise could feel her breath.
 
@@ -122,7 +122,7 @@ Belise's breath came badly. Their sail stirred. One of them reached up and pulle
 
 She waited.
 
-At last the person in the pale hat stood and took up the light. The rowers set their oars in the water. This time they turned towards her throat.
+At last the woman in the pale hat stood and took up the light. The rowers set their oars in the water. This time they turned towards her throat.
 
 Belise put out a hand for Jowan. Utta held his hand closer.
 
@@ -152,27 +152,23 @@ On the terrace the rain was cold enough to hurt. Wind struck her torn dress and 
 
 She knelt at the edge. Through the gap beneath the rail she could put her face above open air, above the steps and the shore and the place where there ought to have been water. In the hall behind her, Utta shouted to someone to get farther up the stair.
 
-Belise opened her mouth.
+Belise opened her mouth. The first rush knocked her chin against the stone. She choked and shut her mouth, driving a wave back inside. The boat reared; a rower let go of a caught oar.
 
-The first rush knocked her chin against the stone. She choked, shut her mouth, and drove a wave back down inside herself. The little boat lifted almost upright. An oar caught; the person holding it let go before it could take him with it.
+She clung to the rail. Her jaw ached; salt burned the corners of her mouth. Every breath scraped.
 
-She clung to the rail. Her jaw ached. Salt had worked into the corners of her mouth, and every breath scraped.
+The lamp was still burning. The woman kept the light clear of the water while a rower brought the bow round with the remaining oar.
 
-The lamp was still burning.
-
-The person who held it had crouched again. One hand gripped the bench; the other kept the light clear of the water. The remaining oar went out. The boat swung, steadied, and began to come towards her.
-
-Belise moved her chin beyond the stone. She opened her mouth and kept it open.
+Belise moved her chin beyond the stone and opened her mouth. This time she kept it open.
 
 Water poured out. She could not draw breath through it. Her shoulders heaved. The stream broadened beyond her lips, fell past the terrace, and spread white across the shore. It lifted the fish and ran into the hollows. The sound filled the empty basin, striking the far cliffs and returning.
 
 She gagged. More came. She had to let her body shake.
 
-The boat rose towards her tongue, its lamp bright enough now to show the pale hat's frayed brim. Belise could see the recovered sailor huddled beneath a coat. The person at the tiller looked towards the opening. She lifted the lamp.
+The boat rose towards her tongue, its lamp bright enough now to show the pale hat's frayed brim. Belise could see the recovered sailor huddled beneath a coat. The woman at the tiller looked towards the opening. She lifted the lamp.
 
 Belise felt the keel cross her lower lip.
 
-Beyond her mouth, the boat lengthened away from her. Its bow plunged down into the returning sea; its mast rose taller than the terrace. The stern swept past, the lamp suddenly a full-sized lantern close enough to touch. A woman in a soaked straw hat leaned over the tiller. She was looking ahead, shouting to the man with the oar.
+Beyond her mouth, the boat lengthened away from her. Its bow plunged down into the returning sea; its mast rose taller than the terrace. The stern swept past, the lamp suddenly a full-sized lantern close enough to touch. The woman leaned over the tiller, her straw hat soaked. She was looking ahead, shouting to the man with the oar.
 
 The boat fell clear. It struck the water hard, took a wave over its bow, and came up. The woman hauled the tiller towards her. Belise saw her open mouth, heard one word lost in the roar. The recovered sailor raised his head from the coat. Belise kept him in sight as the boat turned out across the sea, until his face was too small to distinguish.
 
