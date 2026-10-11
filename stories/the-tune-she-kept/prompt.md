@@ -8,3 +8,7 @@
 - Requested intensity and content direction: none beyond the prompt. Treat loss and displacement through character and consequence, without graphic material.
 - Supplied reference images: none.
 - New story; non-canon. No shared-universe additions or canon promotion requested.
+
+## Later user constraint
+
+the character sheets have too much background and should be more plain white.
