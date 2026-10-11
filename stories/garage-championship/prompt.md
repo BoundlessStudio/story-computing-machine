@@ -10,4 +10,8 @@
 
 # Audience and direction
 
-No audience or intensity requested. General is the starting target; classify the finished prose and cover after review. The image supplies visual inspiration, not additional mandatory plot instructions. No further user constraints were supplied.
+No audience or intensity requested. General is the starting target; classify the finished prose and cover after review. The image supplies visual inspiration, not additional mandatory plot instructions. No further constraints were supplied before drafting.
+
+# Cover direction — 2026-10-11
+
+i really like the reference image; i think we should base the cover image off it.
