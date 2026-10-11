@@ -82,7 +82,7 @@ Belise looked down at Jowan instead. His thumb had a white ridge across the nail
 
 Something knocked against the back of her teeth. She gagged and spat. An oyster shell, small as a seed on her tongue, opened to its ordinary size as it passed her lips. It struck the marble and spun.
 
-The boat's light was coming higher. The person at the tiller had turned towards the pale reach of her throat. Belise opened her mouth. A little water spilled over her lower lip and became a great splash on the floor. Utta scrambled back, dragging Jowan's arm with her.
+The boat's light was coming higher. The person at the tiller had turned towards the pale reach of her throat. Belise opened her mouth. A little water spilled over her lower lip and became a great splash on the floor. Utta scrambled back, dragging Jowan's other arm with her.
 
 Belise shut her mouth. The water stopped.
 
