@@ -4,4 +4,8 @@
 
 ## Production direction
 
-No audience or intensity was specified. General is the starting target; assess the finished prose and cover for the final AO3-style rating. No additional user constraints or reference images were supplied.
+No audience or intensity was specified. General is the starting target; assess the finished prose and cover for the final AO3-style rating. No reference images were supplied.
+
+## Later art direction (verbatim)
+
+there should be one character / sheet and the sheets background should be white.
