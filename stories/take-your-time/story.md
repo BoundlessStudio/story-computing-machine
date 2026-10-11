@@ -262,8 +262,6 @@ He stayed by the cabinet. I went back to the table because I couldn't think how 
 
 Zuri turned around. She didn't ask what had happened. She pulled her phone close to her chest, out of its ready-to-take-a-picture position.
 
-"Maybe we don't need the photos," she said.
-
 I sat with my mask in my lap. There was a red mark across the bridge of Zuri's nose. I hadn't noticed it before.
 
 Anchor said, "I can give you a number. Someone who knows what I do."
@@ -272,7 +270,7 @@ Zuri looked at them.
 
 "Will they know who I mean if I say Anchor?"
 
-"They call me that too."
+"They call me that too. They've seen my face."
 
 "I was telling him everything was fine. At the fair. I kept saying it, and I didn't know."
 
@@ -282,13 +280,17 @@ Her voice had gone small at the end. She cleared her throat.
 
 Anchor nodded.
 
-They took off a glove, revealing a hand with chipped purple nail polish, and held it out for Zuri's phone. She gave it to them. I watched them enter a number under ANCHOR CONTACT. We were going to have to trust a name we hadn't been given, and a person we hadn't met.
+Zuri looked down at her phone.
 
-"Can we check it?" Zuri asked.
+"Maybe we don't need the photos," she said.
+
+Anchor took off a glove, revealing a hand with chipped purple nail polish, and held it out for Zuri's phone. She gave it to them. I watched them enter a number under ANCHOR CONTACT. We were going to have to trust a name we hadn't been given, and a person we hadn't met.
+
+"I need to talk to them before Sunday," Zuri said. "If I can't, I'm not going out with you."
 
 "Tomorrow. I'll tell them you're calling."
 
-Zuri hesitated, then nodded. "Tomorrow."
+"Tomorrow," Zuri said.
 
 She entered her mum's number on my phone. I put my dad's on hers. It felt strange to type DAD into a superhero's contacts, as though at any moment he might call and ask whether she'd done her geography.
 
