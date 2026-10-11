@@ -86,7 +86,7 @@ An ordinary goat could be relieved through a tube, provided you reached the righ
 
 No gas escaped.
 
-I advanced it a little farther.
+I let more of the tube follow each swallow. It continued to pass freely.
 
 Mrs. Birk made a strangled sound.
 
@@ -104,13 +104,13 @@ I had expected the goat's throat to lead down into a goat's stomach. Instead it 
 
 I felt along the neck while Mrs. Birk supported the goat's head. Below its woolly throat, where the two necks met the body, I found the hard little bell. Lower and behind it was the drum-tight swelling. Along the other side ran the muscular cord I had traced forward from the tail.
 
-Three passages meeting in a space barely wide enough for my thumb. The bell sat over the way into the stomach. The tube had glanced off it and gone down the open tail passage.
+The bell seemed to be covering the way into the stomach. If so, the tube had glanced off it and gone down the open tail passage.
 
-I drew the part I had found on the back of an appointment card: goat above, snake to the side, stomach below. Mrs. Birk bent over it.
+I drew a working sketch on the back of an appointment card: goat above, snake to the side, stomach below. The lion swallowed, nudging the same hard lump against my fingers. I penciled her route into the sketch above the bell, with a question mark beside it. Mrs. Birk bent over the card.
 
 "So her supper's stuck?"
 
-"The gas from her supper. The bell is keeping it in. Her stomach is swelling against the lion's lungs."
+"The gas from her supper. I think the bell is keeping it in. Her stomach is swelling against the lion's lungs."
 
 Crumpet was breathing with her mouth open now. The goat had let go of my apron.
 
@@ -122,7 +122,7 @@ Warm, sour air rushed out into the bowl. It smelled of clover and something that
 
 Crumpet's flank softened under my palm. The lion took a deep breath, then another. Her ears came forward a little.
 
-Mrs. Birk made the same long exhalation.
+Mrs. Birk let out the breath she had been holding.
 
 I kept my hand on the tube. "That's helped."
 
@@ -154,7 +154,7 @@ The head lay on my palm. Behind it, the tail made a broad curve back to Crumpet'
 
 "Like that," Mrs. Birk said.
 
-We exchanged arms carefully. I wrapped a warm towel around hers where the scales would rest. She sat on the tall stool, with the lion's chin in her lap and the snake supported on her left forearm. The goat leaned against her shoulder. She looked as though she had been fitted with an exceptionally awkward shawl.
+We exchanged arms carefully. I wrapped a warm towel around hers where the scales would rest. She pulled the tall stool close to the table's edge and sat with the lion's chin in her lap and the snake supported on her left forearm. The goat leaned against her shoulder. She looked as though she had been fitted with an exceptionally awkward shawl.
 
 "Comfortable?" I asked.
 
