@@ -110,7 +110,7 @@ Then she tried to stand. The hem of her veil was trapped beneath a chair leg, an
 
 Nalla lunged for the veil and stood on the other end.
 
-The first trumpet sounded beyond the wall. Ordinarily, that meant three minutes to curtain. Tonight it seemed to mean that the kingdom had been very good to them and they had wasted its kindness.
+The first trumpet sounded beyond the wall. Ordinarily, that meant three minutes to curtain. Varlo began folding his handkerchief into smaller and smaller squares. Nobody made for the door.
 
 “Why tell her you were leaving?” Nalla asked.
 
@@ -132,7 +132,7 @@ Tib took the frame away. He examined the surviving sword, then his own sword on 
 
 “I couldn't draw a different one!”
 
-“Draw yourself a different father, then!”
+“You can fight with the drawing, then!”
 
 “Tib.” Nalla caught his sleeve. “Help or go out.”
 
@@ -156,9 +156,17 @@ Everyone looked at him again.
 
 “Everyone knows the words,” said Tib. “You shout them at us every night.”
 
-Werrit knew where the speech rose. He knew where to turn so the sword caught the light. He knew which of the portraits of himself his mother had framed.
+Werrit knew where the speech rose. He knew where to turn so the sword caught the light. He knew which of the doctored portraits his mother had framed.
 
 “Just the opening. Through the dragon. Then we can change back.”
+
+“What do I do in these letters?” Nalla asked.
+
+Werrit looked at the heap of green cloth.
+
+“Help me.”
+
+The word sounded worse in this room.
 
 Nalla glanced at the sandglass. She was still holding Tib's sleeve. Slowly she let it go.
 
@@ -184,7 +192,7 @@ Bessa kicked the chair clear and unlaced Tib's shoulder pieces while Varlo shook
 
 “Nobody would dare.”
 
-Nalla heaped their ordinary coats on the wheeled base and dragged the dragon's empty hindquarters over them. She tucked the bamboo ribs around the pile, leaving the waist flap open beside her own entrance. Werrit would usually have been inside, holding that frame against his hips.
+Nalla heaped their ordinary coats on the wheeled base and dragged the dragon's empty hindquarters over them. She tucked the bamboo ribs around the pile, leaving the waist flap open beside her own entrance. Werrit would usually have been inside, holding that bamboo frame against his hips.
 
 “No sneeze,” she told him. “I come on, I threaten you, you stab me. Very noble. Very simple.”
 
@@ -210,7 +218,7 @@ The second trumpet sounded.
 
 “You'd be amazed how many heroes don't.”
 
-She ducked into the dragon. Bessa gathered her violet skirts. Varlo retrieved his handkerchief. Tib took the throne's cushion because nobody had told him how a palace guard was supposed to fall, and he intended to be ready.
+She ducked into the dragon. Bessa gathered her violet skirts. Varlo retrieved his handkerchief. Tib snatched a plain guard's surcoat off the costume rail, then took the throne's cushion because nobody had told him how a palace guard was supposed to fall, and he intended to be ready.
 
 Werrit stood with the sword in his hand.
 
@@ -260,7 +268,7 @@ Nalla backed into the rolling hindquarters. The whole contraption swung around, 
 
 The whiskers trembled.
 
-Werrit watched her fight it. He knew exactly what her face was doing inside that head.
+Werrit knew how badly she wanted to do the bit. She shouldn't. He hoped she would.
 
 “Ah,” said the dragon.
 
