@@ -158,6 +158,8 @@ I wanted to hit the cup. I wanted to throw it all the way down the road.
 
 “No.” Her voice came out too loud. She looked past me at the house, then lowered it. “I started to think they were right. That I didn't really want to go. You don't know how many times I've stood here trying to want it properly.”
 
+She made that small noise again. “And then you went and stopped a cup. It might not have been me at all.”
+
 “You could have asked me last night.”
 
 “I could have.” She swallowed. “I wanted to see you do it again.”
@@ -240,7 +242,7 @@ I stayed in the garden until Mum came out. I thought she would tell me off. She 
 
 “Then I made her stop again.”
 
-Mum nodded.
+Mum nodded. “I was wrong about her not being ready. She kept telling me she wanted to go.”
 
 I tried to explain about the corner, and how Enna had turned without telling me how far she was going. It sounded worse when I said it. I stopped.
 
@@ -272,7 +274,7 @@ I took the puppets off my hands.
 
 Behind the theatre were the pieces Enna had cut out but never painted. There was a mountain with three peaks. I had asked for it in spring, for a play where the knight had to climb all three and kept finding he'd dropped something at the bottom.
 
-I fetched my paintbox. The mountain wouldn't fit in Enna's bag, so I drew a smaller one on the back of an old cereal box and cut it out. My middle peak came out crooked. I tried to match the purple she used for distant things, but my blue was nearly gone, and it turned out very red.
+I fetched my paintbox. The mountain wouldn't fit in Enna's bag, so I drew a smaller one on the back of an old cereal box and tore it out. My middle peak came out crooked. I tried to match the purple she used for distant things, but my blue was nearly gone, and it turned out very red.
 
 I painted snow on the peaks. Some of the red came through and made the snow pink.
 
