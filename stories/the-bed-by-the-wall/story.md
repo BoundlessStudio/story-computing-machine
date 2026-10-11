@@ -42,7 +42,7 @@ I waited.
 
 My hands were beginning to ache with the dough drying between my fingers. Carys had been four when she wandered out of the orchard. Her father found her sleeping underneath the hedge after we had spent half the afternoon calling. He brought her home with a thorn in her stocking and cried while I pulled it out.
 
-“They sent me back instead,” she said.
+“They made me look like her,” she said. “They left me in her place.”
 
 I looked from the papers to her face. The small dent in her upper lip. The dark brows that nearly met when she was cross. She had my mother's eyes, and her father's habit of turning her whole body when someone spoke from behind her.
 
@@ -50,7 +50,7 @@ I looked from the papers to her face. The small dent in her upper lip. The dark 
 
 She held the bundle against herself.
 
-“The thread seller carries things for them. He came to find me three summers ago. He said I'd grown as tall as she had. I thought he meant someone else.”
+“The thread seller carries things for them. He came to find me three summers ago. He said I was growing just like the girl they'd taken. I made him tell me what he meant.”
 
 The thread seller had eaten bread in this kitchen. He wore his hat indoors and never let me pour his tea.
 
@@ -134,8 +134,6 @@ We crossed the quarry track. The house stood on the shelf of land above it, wher
 
 “She says they won't.”
 
-Carys said it as if it were good news.
-
 She led me around the back. A narrow window stood open above a sloping roof of loose slates. Below it were stacked chairs, a rolled carpet, a stone figure with a sack over its head. We put the foot of the ladder among them and raised it slowly. One rail grated against the wall. Carys caught it before it struck the window.
 
 A face appeared in the opening.
@@ -212,13 +210,7 @@ I heard the ugliness I expected in the words and looked up sharply. She was hold
 
 “I'll get another,” she said, and did.
 
-The girl left the milk untouched.
-
-“Don't you like it?”
-
-“Not warm.”
-
-I almost told her that she did. Instead I poured it back into the pan and brought cold milk. Carys had begun rubbing a spot of dried mud off her dress. It was my old dress, altered twice, with the mending under the arm done in her own uneven stitches.
+The girl left the milk untouched. When I asked, she said she didn't like it warm. I almost told her that she did. Instead I poured it back into the pan and brought cold milk. Carys had begun rubbing a spot of dried mud off her dress. It was my old dress, altered twice, with the mending under the arm done in her own uneven stitches.
 
 “What was in the case?” I asked.
 
@@ -237,6 +229,10 @@ She nodded. “Birds. What I could see from the top pane. I put the names undern
 “I said that's what they called it.”
 
 Carys bent again over the mud on her skirt.
+
+“Can I see the bird I sent you?”
+
+Carys pushed the loose letter across the table. The girl smoothed it on her knee and bent over it for a while. Then she folded it with the drawing inside and put it into the pocket of her skirt.
 
 I found a clean cloth and a needle. The girl allowed me to set them on the table. When I looked at her hand, there was black ink in the crease beside her thumbnail. Carys had that dent in her lip, those brows, that same nail bitten short. Twelve years ago a child had been carried away and I had not missed a single breakfast with her face.
 
@@ -318,7 +314,7 @@ She folded the cloth carefully along its wet creases. Carys stood up and went to
 
 *
 
-I stayed in the kitchen until the moon had gone behind the orchard and the light under the curtain had thinned. Far off, wheels rattled over something harder than earth. They went on for a long time. Once they seemed to be coming toward the house, and I put down the knife I had been using to scrape the burned bread.
+I stayed in the kitchen until the moon had gone behind the orchard and the light under the curtain had thinned. Far off, wheels rattled over something harder than earth. They went on for a long time.
 
 The sound passed. Later an owl called from the quarry.
 
@@ -362,7 +358,9 @@ I bent to straighten the blanket. “We can turn it.”
 
 “That's where I put my clothes.”
 
-I stood up. Carys was looking at me, not at Briony. All day I had been taking things from her hands.
+I stood up. Carys was looking at me, not at Briony. All evening I had been taking things from her hands.
+
+“The chair stays,” I said to her.
 
 “I could make up a place downstairs,” I said to Briony. “Or you could come in with me.”
 
@@ -376,7 +374,7 @@ I had kept her first shoes. They were wrapped in a piece of linen in the bottom 
 
 There was no answer to that which did not begin the whole thing again. I left the candle and went downstairs.
 
-I put the bowls in the washstand. Carys usually dried them while I washed, but I set them on a cloth tonight. The letters were still on the table. I gathered them without untying the thread and laid them on the stair. They were not mine to read through.
+I put the bowls in the washstand. Carys usually dried them while I washed, but I set them on a cloth tonight. The other letters were still on the table. I gathered them without untying the thread and laid them on the stair. They were not mine to read through.
 
 Above me a bed scraped over the floorboards.
 
