@@ -24,7 +24,7 @@ Nalla laughed. Seven years inside the same dragon, and he could still get her.
 
 She ducked out through the loose flap at its waist, auburn braid emerging before the rest of her. Werrit followed. His shirt had come untucked, and he had lost a shoe again. The dragon sagged over two dressing-room chairs, looking like an unwise purchase.
 
-At the mirror, Bessa held her crown steady while Nalla fastened its last pin. Tib was practicing the expression with which he would discover that he had stabbed his own boot. Varlo stood at the stove, warming the handkerchief he liked to die holding.
+At the mirror, Bessa held her crown steady while Nalla fastened its last pin. Tib was practicing the expression with which he would discover that he had stabbed his own boot. His knight always promised to slay the dragon; instead it knocked him flat, and Bessa's queen came out to rescue him. Varlo stood at the stove, warming the handkerchief he liked to die holding.
 
 The Lantern Company had played for three kings, a flesh-eating countess who had sworn off flesh for the duration, and the God of Small Mercies, who had required an aisle seat. Outside, the usual queue ran around the theater and past the pie seller. Someone was singing the dragon song. Someone else, less beloved by Werrit, was singing the dragon song's second verse.
 
@@ -34,7 +34,7 @@ An enormous gold eye filled the window.
 
 “There you are,” said Werrit's mother.
 
-Werrit sat down on the wrong chair. It belonged to the dragon. He went straight through the cloth.
+Werrit sat down between the two chairs, in what he had thought was a seat. His foot went straight through the dragon's open mouth.
 
 “Mother?”
 
@@ -170,7 +170,7 @@ The word sounded worse in this room.
 
 Nalla glanced at the sandglass. She was still holding Tib's sleeve. Slowly she let it go.
 
-“All right. Coat off, Tib.”
+“I'll get you through one scene,” she said. “Then I want my partner back. Coat off, Tib.”
 
 “I am not losing my fall.”
 
