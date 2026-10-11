@@ -424,7 +424,7 @@ I stayed on the black path.
 
 He looked at me without smiling.
 
-“Here. Two hundred years have gone.”
+“Here,” I said. “Two hundred years have gone.”
 
 Behind him, his wife began the tune we had made together. I knew exactly where my hand should go. My fingers moved on the neck of the fiddle, without the bow.
 
