@@ -4,6 +4,8 @@ created: 2026-10-11
 canon: false
 ---
 
+# Until I'm Big
+
 The cup stayed where it ought to have smashed, four inches above the kitchen tiles.
 
 I had knocked it off the table with my elbow. I shut my hand and said, “Stay!” as if it had done something naughty, and there it was, hanging with its big yellow handle sticking up. A drop of tea fell out of it and landed on my foot.
@@ -242,9 +244,15 @@ I stayed in the garden until Mum came out. I thought she would tell me off. She 
 
 “Then I made her stop again.”
 
-Mum nodded. “I was wrong about her not being ready. She kept telling me she wanted to go.”
+Mum looked at my hand. “Did you mean to stop her?”
 
 I tried to explain about the corner, and how Enna had turned without telling me how far she was going. It sounded worse when I said it. I stopped.
+
+“We need help with this,” Mum said. “The woman who came to see Enna is coming back tomorrow afternoon. Dad and I will be with you. Until then, no trying spells on people.”
+
+I nodded.
+
+Mum picked some dirt off her knee. “And I was wrong to keep saying your sister wasn't ready. She wanted to go.”
 
 Mum stayed on the step with me.
 
