@@ -126,7 +126,7 @@ Anchor touched the bottom of their visor.
 
 I waited for them to lift it. They didn't.
 
-On the table between us, the plate said ANCHOR in silver marker. I'd put a little heart inside the O, then coloured it in because it looked too much.
+On the table between us, the plate said ANCHOR in silver marker. I'd drawn a silver border round every plate. This one was thicker where I'd tried to straighten it.
 
 "Are we only going to see each other when something's on fire?" I asked.
 
@@ -236,7 +236,7 @@ He watched. Neither of us said it would do much.
 
 I put my phone away.
 
-Behind us Zuri laughed once, too loudly. Anchor had apparently said something about the rink. I was grateful and then ashamed of being grateful, because I wanted Len to be the one making that noise.
+Behind us Zuri laughed once, too loudly. Anchor had apparently said something about the rink. I was grateful they were leaving us alone. Then I caught myself listening for Len to laugh.
 
 "I didn't know you were Cricket," I said.
 
@@ -270,11 +270,11 @@ Anchor said, "I can give you a number. Someone who knows what I do."
 
 Zuri looked at them.
 
-"And they'll answer?"
+"Will they know who I mean if I say Anchor?"
 
-"Yes."
+"They call me that too."
 
-"Because I was telling him everything was fine. At the fair. I kept saying it, and I didn't know."
+"I was telling him everything was fine. At the fair. I kept saying it, and I didn't know."
 
 Her voice had gone small at the end. She cleared her throat.
 
@@ -318,7 +318,7 @@ At five to eight we cleared the table. I wanted to ask him about Monday, about s
 
 He took his goggles to the counter and began threading the strap back through the buckle.
 
-I gathered the plates. There was icing stuck to the silver heart I'd coloured in. I left Anchor's until last.
+I gathered the plates. There was icing stuck to the silver border of Anchor's. I left it until last.
 
 "Sorry I pushed," I said to them.
 
