@@ -230,7 +230,7 @@ She nodded. “Birds. What I could see from the top pane. I put the names undern
 
 Carys bent again over the mud on her skirt.
 
-“Can I see the bird I sent you?”
+“Can I see the bird I sent you?” the girl asked.
 
 Carys pushed the loose letter across the table. The girl smoothed it on her knee and bent over it for a while. Then she folded it with the drawing inside and put it into the pocket of her skirt.
 
