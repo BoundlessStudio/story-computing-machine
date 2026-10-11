@@ -142,7 +142,7 @@ The rear had already come into line. I had given it a correction it no longer ne
 
 Next lap I felt for the sideways pull through the seat. A smaller pull, finished sooner. I held my hands quiet where they wanted to move, turned into the right, and opened the throttle. The bike pulled cleanly out of the pair.
 
-I lost time elsewhere. The tight high gate was harder. Our best soft lap beat our best stiff lap by four hundredths; our average stiff lap beat the soft average by three. A light wind had come up during the last run.
+I was faster out of the last pair and slower round the tight high gate. The full-lap times were too close to call, and a light wind had come up during the last run.
 
 Back in the bay, Cora showed me the times on a tablet with a crack through the middle.
 
@@ -232,7 +232,7 @@ I gained on her over the hill. She gained on me down the straight. Through the t
 
 “Point seven,” Cora said.
 
-At the end of lap six a gap opened inside Saskia as she approached the left gate. My place. The bit of track I had been looking for all afternoon.
+At the end of lap six a gap opened inside Saskia as she approached the left gate. My place. The bit of track I had been looking for all race.
 
 I went for it.
 
@@ -254,7 +254,7 @@ Over the hill I caught her again. Not all the way. Enough to keep the silver tai
 
 The grandstand rose on my left. Somewhere in it were people who had paid to watch us do this. I couldn't spare them even a glance.
 
-Saskia was braking for the climb. I braked later. The bike grew light beneath me as the ground fell away; for a moment the air through the ducts changed pitch and I could hear my own breath. Then the lift caught, hard through my boots, and we went up the escarpment together.
+Saskia was braking for the climb. I braked later and pulled the nose up. The bike grew light beneath me as the ground fell away; for a moment the air through the ducts changed pitch and I could hear my own breath. Then the lift caught, hard through my boots, and we went up the escarpment together.
 
 At the high gate I was nearly at her tail.
 
@@ -266,7 +266,7 @@ I could see it. Saskia was taking the first gate tight, denying the inside befor
 
 I moved out.
 
-There was more sky beyond her right shoulder than I had used all race. I took the bike into it, leaving the short route to her. She turned left through the gate; I turned left farther out, with enough room to finish most of the turn before the frame reached me.
+There was more sky beyond her right shoulder than I had used all race. She took the left side of the opening, still turning. I turned left earlier and farther out, aiming for its right edge so I could come through with both pods nearly in line.
 
 She was ahead. Of course she was ahead. I had given her distance.
 
