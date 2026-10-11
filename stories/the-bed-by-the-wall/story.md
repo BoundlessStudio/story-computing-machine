@@ -88,7 +88,7 @@ Carys did not move at once.
 
 I could not help her with afterward. I went upstairs and pulled the little bed out from under hers.
 
-It was a low truckle bed with one foot shorter than the others. I wedged a scrap of leather underneath and put it beside the wall. Carys slept best there, with one knee drawn up against the plaster. I found a sheet and the spare blanket. Then I went out for the ladder.
+It was a low truckle bed with one foot shorter than the others. I wedged a scrap of leather underneath and put it beside the wall. Carys slept best with one knee drawn up against the plaster. I found a sheet and the spare blanket. Then I went out for the ladder.
 
 *
 
@@ -196,7 +196,7 @@ The girl looked down at them. A thin line of blood had dried above her heel.
 
 I put the basin in front of her. She waited until I stepped away before lowering her feet into it.
 
-Carys reached for the brown cup on the shelf. I took it from her and set it beside the basin. Her father had made it, badly, with a thumbmark too deep in the handle.
+Carys reached for the brown cup on the shelf. I took it from her and set it on the table in front of the girl. Her father had made it, badly, with a thumbmark too deep in the handle.
 
 “Do you remember this?” I asked.
 
@@ -244,7 +244,7 @@ I could not finish.
 
 “Briony,” the girl said.
 
-“Is that what they called you?”
+“Did they give you that name?”
 
 “It's what I called myself.”
 
@@ -362,7 +362,7 @@ I stood up. Carys was looking at me, not at Briony. All evening I had been takin
 
 “The chair stays,” I said to her.
 
-“I could make up a place downstairs,” I said to Briony. “Or you could come in with me.”
+I turned to Briony. “I could make up a place downstairs. Or you could come in with me.”
 
 She gave a small, immediate shake of her head. Then she looked away, as if she had been rude to someone in a shop.
 
@@ -374,7 +374,7 @@ I had kept her first shoes. They were wrapped in a piece of linen in the bottom 
 
 There was no answer to that which did not begin the whole thing again. I left the candle and went downstairs.
 
-I put the bowls in the washstand. Carys usually dried them while I washed, but I set them on a cloth tonight. The other letters were still on the table. I gathered them without untying the thread and laid them on the stair. They were not mine to read through.
+I washed the bowls. Carys usually dried them while I washed, but I set them on a cloth tonight. The other letters were still on the table. I gathered them without untying the thread and laid them on the stair. They were not mine to read through.
 
 Above me a bed scraped over the floorboards.
 
@@ -390,11 +390,13 @@ I went to the foot of the stairs. The scraping stopped. There was a pause, then 
 
 “Then leave it crooked.”
 
-I sat on the bottom stair. After a while the door opened above me. Briony came to the landing. She had the candle, and for one terrible second I waited for her to tell me who she was.
+I sat on the bottom stair. After a while the door opened above me. Briony came to the landing. She had the candle, and I was afraid I would call her by the wrong name again.
 
 “Have you got a pillow that isn't feathers?”
 
 I had one stuffed with carded wool in my own room. I fetched it, slipping the cleanest case over it, and carried it up. Briony waited in the doorway. Behind her, the little bed stood at an angle, with a passage just wide enough to squeeze through on either side. Carys was kneeling beside a spill of books. Her chair was still in its place.
+
+I waited for her to look up, but she kept putting the books in order.
 
 I held out the pillow. Briony took it against her chest.
 
