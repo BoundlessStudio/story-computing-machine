@@ -12,7 +12,7 @@ Then Mrs. Birk knocked on the surgery door with the handle of her walking stick.
 
 I knew Mrs. Birk. I knew her walking stick, her plum-colored coat with its enormous pockets, and her habit of saying an animal was "a bit off" when it needed immediate attention. I did not know Crumpet.
 
-She lay in a wheelbarrow outside my green door, on a folded quilt. She was about the size of a large sheepdog. Her front half was lion: tawny paws, broad muzzle, round ears pressed flat. A cream-colored goat's head rose from between her shoulders, its short horns caught in the quilt. Her hindquarters were woolly, with black cloven hooves. Where a tail should have been, an olive-green snake had tied itself into a tight knot.
+She lay in a wheelbarrow outside my green door, on a folded quilt. She was young, about the size of a large sheepdog. Her front half was lion: tawny paws, broad muzzle, round ears pressed flat. A cream-colored goat's head rose from between her shoulders, its short horns caught in the quilt. Her hindquarters were woolly, with black cloven hooves. Where a tail should have been, an olive-green snake had tied itself into a tight knot.
 
 The lion coughed. The goat gave a small, miserable bleat. Inside the knot, the snake opened its mouth.
 
@@ -82,7 +82,7 @@ I brought a soft stomach tube from its drawer and laid out the mouth guard, lubr
 
 "Behind her shoulders, please. Keep her upright."
 
-An ordinary goat could be relieved through a tube, provided you reached the right stomach. I eased the guard between Crumpet's back teeth. She tried to chew it. I waited for a swallow and fed the tube gently down her throat.
+An ordinary goat could be relieved through a tube, provided you reached the right stomach. I eased the guard between the goat's back teeth. She tried to chew it. I waited for a swallow and fed the tube gently down her throat.
 
 No gas escaped.
 
@@ -106,7 +106,7 @@ I felt along the neck while Mrs. Birk supported the goat's head. Below its wooll
 
 Three passages meeting in a space barely wide enough for my thumb. The bell sat over the way into the stomach. The tube had glanced off it and gone down the open tail passage.
 
-I drew the fork on the back of an appointment card: goat above, snake to the side, stomach below. Mrs. Birk bent over it.
+I drew the part I had found on the back of an appointment card: goat above, snake to the side, stomach below. Mrs. Birk bent over it.
 
 "So her supper's stuck?"
 
@@ -220,7 +220,7 @@ Crumpet belched through the goat's mouth.
 
 It went on long enough for Mrs. Birk to say, "Good girl," twice.
 
-I left the tube in place until her belly was soft, then removed it and checked every mouth, listened to her chest, and felt carefully along the fork. Nothing caught. Nothing swelled. The snake flicked its tongue at my wire, which I put away before we had a second case.
+I slid the tube back into the stomach and let it vent until her belly was soft. Then I removed it and checked every mouth, listened to her chest, and felt carefully along the fork. Nothing caught. Nothing swelled. The snake flicked its tongue at my wire, which I put away before we had a second case.
 
 Mrs. Birk's arm was shaking when I helped her lower it. I sat her in the chair by the stove and made tea. Crumpet stayed on the quilt beneath the table, where we could watch her. I checked her breathing between cups.
 
