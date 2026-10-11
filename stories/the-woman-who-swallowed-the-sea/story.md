@@ -38,9 +38,9 @@ The water fell the breadth of a finger against the wall.
 
 Belise looked at the line it had left. She could still taste pear beneath the salt. She bent her face and drank again. This swallow kept coming. It drew the water off the stair, off the carved mouths, off the gilded feet of the chairs. Her throat worked and worked, and the sea went through it.
 
-Utta had hold of her hair. Belise shook her off. Somewhere outside, a ship's bell sounded once, much too close. A point of yellow light swept towards her across the water and vanished beneath her chin.
+Utta had hold of her hair. Belise shook her off. Somewhere outside, a ship's bell sounded once, much too close. A point of yellow light swept towards her across the water. Behind it, someone clung to a short mast. Both vanished beneath her chin.
 
-There was a boat attached to that light. She had seen its mast. But now Jowan's sleeve lay on the surface, and she could reach the place where it joined his shoulder. She opened her mouth again.
+There was a boat attached to that light. She had seen the person aboard it. But now Jowan's sleeve lay on the surface, and she could reach the place where it joined his shoulder. She could bring his face up and hear his voice again. She opened her mouth.
 
 The sea came in through every window. It crossed the hall in a low, dark wall and narrowed as it reached her. A chair turned, struck the table, and stayed. Little silver fish slid over the marble. The water took them up and brought them to her. Beneath the windows the shore appeared: first the house steps, then the rocks, then a great plain of ridged mud stretching towards the far mountains.
 
@@ -50,9 +50,9 @@ The hall was ankle-deep. From the broken windows came rain and the smell of the 
 
 “Help me.”
 
-Belise put her shoulder beside hers. Together they lifted the edge and pulled Jowan clear. As she strained, a wave struck the inside of her breastbone.
+Belise put her shoulder beside hers. Together they rolled the table away from him. As she strained, a wave struck the inside of her breastbone.
 
-She dropped the table. Utta swore. Together they took Jowan by the arms and drew him out across the marble. Belise's gold seams split at the waist. She felt the cloth give and paid no attention.
+She let the table fall on its other side. Utta swore. Together they took Jowan by the arms and drew him out across the marble. Belise's gold seams split at the waist. She felt the cloth give and paid no attention.
 
 Utta tried to make him breathe. Belise held his face between her hands. His eyelids had always been a little darker than the rest of him, even in sleep; she rubbed one with her thumb, as though the color were something she could remove. Water ran out of his hair, down her wrists. Utta worked until her own breathing grew ragged. Then she sat back on her heels.
 
@@ -86,9 +86,7 @@ The boat's light was coming higher. The person at the tiller had turned towards 
 
 Belise shut her mouth. The water stopped.
 
-Beyond the windows, the old sea lay empty under the rain. She could return it there. The terrace projected over the shore; she had stood at its rail a thousand times and watched for Jowan's sail. She would have to get up. She would have to go through the long windows and leave him here.
-
-She held his hand harder.
+Beyond the windows, the old sea lay empty under the rain. She could return it there. The terrace projected over the shore; she had stood at its rail a thousand times and watched for Jowan's sail. She set her free palm on the floor and began to rise. Jowan's arm lifted with her. She settled back down and drew his hand into her lap.
 
 The boat had reached the upper curve of her breast. If she could get it out first, if she could open her mouth just enough, perhaps Utta could catch its people. Then she could stay beside him.
 
@@ -128,7 +126,7 @@ At last the person in the pale hat stood and took up the light. The rowers set t
 
 Belise put out a hand for Jowan. Utta held his hand closer.
 
-“You had him all those weeks before he went,” she said. “I had one afternoon.”
+“You had him at home before he went,” she said. “I had this afternoon.”
 
 Belise almost spoke. Utta's face was wet, and there was no way to tell which water was which. She had the same wide mouth as her brother. Belise had never liked the resemblance; at every family dinner there had seemed to be a part of him looking back from the wrong end of the table.
 
@@ -140,7 +138,7 @@ Above them, a man called from the gallery. Utta looked up.
 
 “Come down,” she said. “We need to carry him.”
 
-Two guests came as far as the last dry step. Utta dragged the tablecloth off the wreckage and spread it alongside Jowan. She told Belise where to put her hands. They rolled him onto it together. When Belise bent, the boat slid towards her shoulder; she stopped, waited, and bent more slowly. Utta watched her with her jaw set. They worked without speaking until he lay on the cloth.
+Two guests came as far as the last dry step. The first stopped at the moving light beneath Belise's skin. The other touched his shoulder, and they came on. Utta dragged the tablecloth off the wreckage and spread it alongside Jowan. She told Belise where to put her hands. They rolled him onto it together. When Belise bent, the boat slid towards her shoulder; she stopped, waited, and bent more slowly. Utta watched her with her jaw set. They worked without speaking until he lay on the cloth.
 
 The guests lifted its far corners. Utta took the others. Belise rose beside them and caught Jowan's foot where it had slipped out. For three steps she went with him. At the stair, a woman from above came down to take the corner nearest Utta.
 
@@ -176,7 +174,7 @@ Belise felt the keel cross her lower lip.
 
 Beyond her mouth, the boat lengthened away from her. Its bow plunged down into the returning sea; its mast rose taller than the terrace. The stern swept past, the lamp suddenly a full-sized lantern close enough to touch. A woman in a soaked straw hat leaned over the tiller. She was looking ahead, shouting to the man with the oar.
 
-The boat fell clear. It struck the water hard, took a wave over its bow, and came up. The woman hauled the tiller towards her. Belise saw her open mouth, heard one word lost in the roar. Then the boat turned out across the sea.
+The boat fell clear. It struck the water hard, took a wave over its bow, and came up. The woman hauled the tiller towards her. Belise saw her open mouth, heard one word lost in the roar. The recovered sailor raised his head from the coat. Belise kept him in sight as the boat turned out across the sea, until his face was too small to distinguish.
 
 Water kept coming. Shoals broke silver through it. The great ship's bowsprit grew out over the dark, followed by its black hull and the bundled weight of its sails. More distant lights scattered into their proper distances. Belise knelt with her hands locked round the rail while the sea returned through her, wave after wave. It filled the space between the mountains. It struck the house steps and came up them. Behind her, chairs knocked together in the hall.
 
@@ -191,8 +189,6 @@ Utta sat on the gallery with Jowan's head in her lap. Someone had brought a blan
 Belise knelt beside that foot and covered it. Her throat closed when she tried to swallow. She waited for it to open, but it would not.
 
 “There's water,” Utta said, pointing to a glass beside her. Then she looked at Belise and pushed it away.
-
-Neither of them laughed.
 
 Belise moved closer. She put her hand beneath Jowan's shoulder, where the cloth was bunched and pulling his head sideways. Utta let her lift him. Together they settled him more comfortably, Utta still holding his hand, Belise supporting the back of his neck.
 
