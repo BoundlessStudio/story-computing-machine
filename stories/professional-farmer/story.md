@@ -86,7 +86,7 @@ The woman read for a while. Behind Romy, her father carried a timber frame past 
 
 Romy had expected the government to know its own rules.
 
-"The old prohibitions protect people from having their access to necessities depend on their work," the woman said. "Some of the wording is broader than that. Especially where children are concerned. I'd need to see the arrangement you're proposing. Has someone offered you one?"
+"The old prohibitions protect people from having their access to necessities depend on their work," the woman said. "Some of the wording is broader than that. I can look at a specific, limited arrangement. Has someone offered you one?"
 
 "Not exactly."
 
@@ -228,11 +228,19 @@ Romy laid another pod across her knee. She could take the peas to Beni when she 
 
 ***
 
-She took Beni twelve small pods on Wednesday. He ate three peas, nodded, and asked how much she could supply.
+She took Beni twelve small pods on Wednesday. He ate three peas, then fetched a sprig of mint. He tore a leaf in half and handed it to her with another pea.
+
+The mint swallowed the sweetness.
+
+"Less," she said.
+
+He gave her a smaller piece. This time she could taste both.
+
+"I think so, too," he said, and asked how much she could supply.
 
 This time she checked her notebook before answering.
 
-They settled on enough shelled peas for twelve small bowls of soup, at eight credits for the delivery, beginning Thursday of the following week. He would put mint and lemon in it, and serve a loaf he thought he had finally got right. After that they would see what her next planting was doing. If the crop looked poor, she would tell him by Tuesday so he could change his plans.
+They settled on enough shelled peas for twelve small bowls of soup, at eight credits per delivery, beginning Thursday of the following week. He would put mint and lemon in it, and serve a loaf he thought he had finally got right. After that they would see what her next planting was doing. If the crop looked poor, she would tell him by Tuesday so he could change his plans.
 
 Romy crossed out *eleven hours*.
 
@@ -248,13 +256,13 @@ The civic adviser called her back that afternoon while she was washing the retur
 
 "Even if you've spent it?"
 
-Romy looked at the eight-credit deposit Beni had sent to her exchange account. She had already looked up some things it could buy.
+Romy looked at the eight-credit deposit Beni had sent for the first Thursday. She had already looked up some things it could buy.
 
 "I'll leave it there until he takes the peas."
 
 They added that to the agreement. They added that Beni could refuse a delivery and stop ordering, and that Romy could stop supplying him. Her common provision would remain hers whatever either of them did. Nobody would owe anybody hours of labor.
 
-"I can authorize this arrangement provisionally as a continuing sale of produce," the adviser said at last. "I've referred the occupation question for a wider ruling. I'm afraid the government isn't ready to tell you whether you're a professional farmer."
+"I can authorize these four deliveries provisionally as a continuing sale of produce," the adviser said at last. "I've referred the occupation question for a wider ruling. I'm afraid the government isn't ready to tell you whether you're a professional farmer."
 
 "Can I tell Beni I am?"
 
@@ -290,7 +298,9 @@ Lise held the jacket against herself.
 
 "You've got time to ask."
 
-"I know."
+"I know. But these will be floury by the Thursday after. We'd have to start with the next bed."
+
+The next bed was still flowering. She could leave the robot to pick this crop and take it to the communal kitchen. It would be eaten. Beni would get peas from the later planting, and they could begin with those.
 
 A small white robot came along the path with a tray of replacement tool handles. It stopped at the gate, awaiting a place to put them.
 
@@ -302,7 +312,7 @@ A small white robot came along the path with a tray of replacement tool handles.
 
 Romy rubbed the mark she had made on her wrist while testing the pencil. She wanted to be on the boat. She wanted to feel it turn under her hands, to hear her mother make the small startled noise she always made when she first went into cold water.
 
-She also wanted to open the pods on Thursday morning. She could already see the soup in Beni's kitchen, a whole supper beginning in these two rows.
+She also wanted to open these pods on Thursday morning and take them to Beni. He had picked up the scrap of mint she had left on his board and put it aside. These peas would need less. She wanted to taste the soup they had begun figuring out together.
 
 "I don't want to move it."
 
@@ -380,7 +390,13 @@ The woman nodded gravely. "I was afraid you'd say that."
 
 Afterward Beni let Romy taste the last spoonful left in the pot. He had used less mint than her father did. She could taste the peas under it, then the lemon. She wanted to ask how he had decided the amounts, but he was trying to carry a stack of plates through the doorway.
 
-She took half the stack. He told her while they went into the kitchen.
+She took half the stack. "When do you put the mint in?"
+
+"After the peas are cooked," he told her on the way to the kitchen. "Then I can taste how much it needs."
+
+"Not half a leaf each, then."
+
+He laughed and held the kitchen door open with his hip.
 
 ***
 
