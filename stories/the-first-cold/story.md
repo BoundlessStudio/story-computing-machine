@@ -10,7 +10,7 @@ There was useful work before it. They cleared the access doors, replaced the rub
 
 Then Deren would sit down.
 
-Today he chose a packing crate in the fourth tower's lowest gallery. He set his helmet beside him, rubbed his flattened white hair, and shut his eyes. Overhead, furnace light moved along the teeth of a wheel so large that they could see only its lower curve. It had been turning when the colony's first surviving record was written, three hundred years ago. Nobody had ever found the other side of it.
+Today he chose a packing crate in the fourth tower's lowest gallery. He eased his bad ankle forward, set his helmet beside him, rubbed his flattened white hair, and shut his eyes. Overhead, furnace light moved along the teeth of a wheel so large that they could see only its lower curve. It had been turning when the colony's first surviving record was written, three hundred years ago. Nobody had ever found the other side of it.
 
 Ivara put the last spanner away with more noise than necessary.
 
@@ -40,7 +40,7 @@ She pulled out the new probe. Its cable was white, its display unscratched. Unti
 
 “I thought we'd try a proper foundation profile.”
 
-He made room on the crate.
+He picked up his helmet.
 
 “You've finished listening?” she asked.
 
@@ -60,7 +60,7 @@ She lifted the probe away. Silence. She put it back.
 
 He bent his head while she fitted the spare earpiece to him. His expression changed so quickly she thought he was hurt.
 
-“That's us,” she said.
+“It's picking us up,” she said.
 
 They set the probe in its clamp and backed away. The beat continued.
 
@@ -174,7 +174,7 @@ After a while it rose again.
 
 She kept her hand where it was. The tissue swelled against the glove, a touch so light she could see it more easily than feel it. Then it receded.
 
-Deren had stopped rubbing his hands.
+Deren leaned closer.
 
 She held still. The crescent returned, flattened against her thumb, and lingered there.
 
@@ -200,9 +200,9 @@ The living edge rested against her bare thumb. It was warmer than she was and fa
 
 “Through all that casing?”
 
-She pictured the immense western face packed in snow, the wind scour along its edge. This softness was buried far beneath it. The tower lost heat to winter as it had always done. What reached this part of it?
+She pictured the immense western face packed in snow, the wind scour along its edge. This softness was buried far beneath it. Did snow feel like anything against the outer casing? Here it could find the stitches in her glove. Perhaps winter reached it only as weight and a loss of heat, with none of the small, sharp touches that struck her face.
 
-She could not make the distinction into a question it could answer.
+She wanted to ask it about that.
 
 The helmet set crackled. The second tower had a pulse. Then, while she listened, the sixth. Each at its own pace.
 
@@ -300,13 +300,15 @@ She let it go through.
 
 It withdrew, leaving a warm damp line across her hand.
 
-She could have stopped there. She wanted to stop there, with the touch she could bear to receive and tell someone about. Instead she took a little more snow from the flask, packed it into one side of the lid, and held the lid beside her bare hand. Both were within reach of the rim. She kept them level and left a gap.
+She could have stopped there. The fringe was loose again, but she remembered it drawn tight against the heart's covering. Perhaps the snow had hurt. She had no way to ask it that.
+
+She took a little more snow from the flask, packed it into one side of the lid, and held the lid beside her bare hand. Both were within reach of the rim. She kept them level and left a gap.
 
 The snow softened. A bead of water grew under the lid. Her arm began to tremble, so she braced her elbow on her knee.
 
 Deren shifted on his coat. She glanced at him, expecting him to speak. He was easing his bad ankle.
 
-She added fresh snow from the flask before the first small heap was gone. The fringe lay still.
+The fringe still lay flat. She set the lid on her other knee, added fresh snow from the flask before the first small heap was gone, and lifted it beside her hand again.
 
 Above them, the wheel turned. Somewhere in the colony Deren's chair stood empty over the bakery. Soon somebody would be walking toward the access doors with a bag from the infirmary, rehearsing questions whose answers might be useless here. Ivara could hear nothing in the recess beyond the heart and their own breathing.
 
