@@ -152,7 +152,7 @@ She drew the paper from her sleeve.
 
 “I brought my own.”
 
-She held it against her chest, but I could see the outside. My mother's name. The date of the fire, a moment after I'd been carried out of the palace.
+She held it against her chest, but I could see the outside. My mother's name. The date of the fire, a moment after I had been carried out of the palace.
 
 For my mother alone. Not the kingdom.
 
