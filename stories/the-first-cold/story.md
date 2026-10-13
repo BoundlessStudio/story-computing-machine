@@ -200,7 +200,7 @@ The living edge rested against her bare thumb. It was warmer than she was and fa
 
 “Through all that casing?”
 
-She pictured the immense western face packed in snow, the wind scour along its edge. This softness was buried far beneath it. Did snow feel like anything against the outer casing? Here it could find the stitches in her glove. Perhaps winter reached it only as weight and a loss of heat, with none of the small, sharp touches that struck her face.
+She pictured the immense western face packed in snow, the wind scour along its edge. This softness lay beneath casing like that. Did snow feel like anything against the outer casing? Here the tissue could find the stitches in her glove. Perhaps winter reached it only as weight and a loss of heat, with none of the small, sharp touches that struck her face.
 
 She wanted to ask it about that.
 
