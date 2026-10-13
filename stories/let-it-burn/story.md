@@ -36,11 +36,11 @@ I had practised with leaves, with scraps, with the actual letter until its edges
 
 “Especially.”
 
-When the pears really were ripe, Tem, the kitchen boy, would hold a cupped hand beneath my chin to catch the juice before it spoiled my dress.
-
 Eddra smiled. I had told her that story before. I had told her all of them before: my mother's socks drying on the council-room hearth; my mother feeding her brother's solemn hunting dog under the table; my mother saying, *You can help me be late,* and taking me out to look at the first snow instead of receiving an ambassador.
 
 I had left out the occasion when she was tired and slapped my hand for reaching across her writing. I had forgotten it myself until that morning, finding the same table in a room used now for visitors' coats. I could remember the offended heat in my fingers. I had been seven. I had thought she would never love me again. Then she had asked me to turn the pages of her book because her hands were full of pear juice.
+
+When the pears really were ripe, Tem, the kitchen boy, would hold a cupped hand beneath my chin to catch the juice before it spoiled my dress.
 
 Eddra took a small folded paper from her sleeve.
 
@@ -212,7 +212,7 @@ The clock's hand passed the painted rabbit. Half the minute was gone.
 
 The letter to save my kingdom lay warm and soft in my palm. I could still open that hand. There was nothing holding it shut.
 
-The ninety-four words were for Tem too. His name was on the list of the palace dead. They could have kept him from having to follow my mother upstairs. I remembered the juice in his palm and how carefully he had waited for me to swallow before taking it away.
+The ninety-four words were for Tem too. His name was on the list of the palace dead. They could have kept the fire from reaching him. I remembered the juice in his palm and how carefully he had waited for me to swallow before taking it away.
 
 I kept my hand closed and took out the pen instead.
 
