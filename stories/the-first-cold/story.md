@@ -126,6 +126,8 @@ Nothing moved toward her. Snow struck her wrist and blew away. Beneath the miner
 
 By the time she returned, Deren had put his folded coat beside the open recess and was kneeling on it. He had not touched anything else.
 
+She took off her helmet and set it on the floor.
+
 “The third,” she said. “Forty-two. This one's sixty-one.”
 
 He breathed out through his nose.
@@ -195,6 +197,8 @@ She took it off.
 “Careful,” Deren said.
 
 The living edge rested against her bare thumb. It was warmer than she was and faintly pebbled. A small golden strand lay just below its surface. She had to resist closing her fingers around it.
+
+She knew how the furnace's heat felt against her face. What did its fire feel like to the tower?
 
 “I put my hand on the third tower,” she said. “Outside. Nothing.”
 
