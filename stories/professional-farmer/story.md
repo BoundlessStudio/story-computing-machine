@@ -240,6 +240,8 @@ He gave her a smaller piece. This time she could taste both.
 
 This time she checked her notebook before answering.
 
+She wrote *Peas grown and hand-picked by Romy Talas* at the top of a clean page.
+
 They settled on enough shelled peas for twelve small bowls of soup, at eight credits per delivery, beginning Thursday of the following week. He would put mint and lemon in it, and serve a loaf he thought he had finally got right. After that they would see what her next planting was doing. If the crop looked poor, she would tell him by Tuesday so he could change his plans.
 
 Romy crossed out *eleven hours*.
@@ -312,7 +314,7 @@ A small white robot came along the path with a tray of replacement tool handles.
 
 Romy rubbed the mark she had made on her wrist while testing the pencil. She wanted to be on the boat. She wanted to feel it turn under her hands, to hear her mother make the small startled noise she always made when she first went into cold water.
 
-She also wanted to open these pods on Thursday morning and take them to Beni. He had picked up the scrap of mint she had left on his board and put it aside. These peas would need less. She wanted to taste the soup they had begun figuring out together.
+She also wanted to open these pods on Thursday morning and take them to Beni. When she had said "Less," he had put the rest of the mint leaf aside. She wanted to taste the soup they had begun figuring out together.
 
 "I don't want to move it."
 
@@ -348,7 +350,7 @@ The gardening robot waited at the end of the row.
 
 It went briskly to work. Romy wished she had its knees.
 
-She had marked too many pods. Some were not filled out enough; others she had left a day too long. She put those in a separate bowl. Twelve servings had sounded modest on Wednesday. By eight she had begun opening the last of the suitable pods one at a time, hoping each would hold an extra pea.
+She had marked too many pods. Some were not filled out enough; others she had left a day too long. She put those in a separate bowl. Twelve servings had sounded modest when she and Beni made the agreement. By eight she had begun opening the last of the suitable pods one at a time, hoping each would hold an extra pea.
 
 The separate bowl was much fuller.
 
@@ -402,7 +404,7 @@ He laughed and held the kitchen door open with his hip.
 
 Her family came home on Friday evening with salt in the jacket cuffs and photographs of two seals that had followed the boat.
 
-"They came right up," Lise said, showing her. "Your father thought they were inspecting his paintwork."
+"They came right up," Lise said, showing her the pictures on a tablet. "Your father thought they were inspecting his paintwork."
 
 In one photograph, the seals were two wet heads in a great deal of shining water. In another, Lise stood on the flat rock with her arms wrapped around herself, laughing.
 
@@ -446,6 +448,6 @@ Her father came in carrying the remaining ginger biscuits. He put them on the ta
 
 Lise slid the bowl nearer to Romy and tipped the biscuits into it. There were three whole ones and a lot of broken pieces.
 
-"There's another picture," she said, reaching for the photographs. "Of your father trying to swim."
+"There's another picture," she said, reaching for the tablet. "Of your father trying to swim."
 
 Romy moved closer to see.
