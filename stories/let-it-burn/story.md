@@ -152,7 +152,7 @@ She drew the paper from her sleeve.
 
 “I brought my own.”
 
-She held it against her chest, but I could see the outside. My mother's name. The date of the fire, before the evening bells.
+She held it against her chest, but I could see the outside. My mother's name. The date of the fire, a moment after I'd been carried out of the palace.
 
 For my mother alone. Not the kingdom.
 
@@ -204,15 +204,19 @@ Eddra folded her paper again.
 
 She looked away. I wanted to tell her that it had been hope, that I had meant it, that I had spent years trying to make it true. I wanted her to understand how much I loved my mother.
 
+“I meant—”
+
 “Stop talking,” she said. “Please.”
 
 I closed my mouth.
 
-The clock's hand passed the painted rabbit. Half the minute was gone.
+The clock's second hand passed the painted rabbit. Half the minute was gone.
 
 The letter to save my kingdom lay warm and soft in my palm. I could still open that hand. There was nothing holding it shut.
 
 The ninety-four words were for Tem too. His name was on the list of the palace dead. They could have kept the fire from reaching him. I remembered the juice in his palm and how carefully he had waited for me to swallow before taking it away.
+
+The cuff of Eddra's sleeve brushed my wrist. Her arm was warm against mine. In the history I could make, she might never be born. The man waiting below might never know her.
 
 I kept my hand closed and took out the pen instead.
 
@@ -220,7 +224,7 @@ I tore the blank lower margin off the prepared letter and wrote:
 
 *Whatever you do, let it burn.*
 
-I could have asked myself to wait. To look at Eddra. I had chosen these words, and there would be no one else to blame for them. Three days before the siege, my mother was alive. All the people I could not remember were alive too.
+I could have asked myself to wait. To look at Eddra. But I knew what I did with a gentler objection: changed a word, added a safeguard, made another draft. I had needed to hear a refusal. There would be no one else to blame for these words. Three days before the siege, my mother was alive. All the people I could not remember were alive too.
 
 The pen had caught on the last letter as the paper moved under it. I wrote my name on the outside, then *Today. First rise.* Folded it once.
 
