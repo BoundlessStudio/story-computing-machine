@@ -36,6 +36,8 @@ I had practised with leaves, with scraps, with the actual letter until its edges
 
 “Especially.”
 
+When the pears really were ripe, Tem, the kitchen boy, would hold a cupped hand beneath my chin to catch the juice before it spoiled my dress.
+
 Eddra smiled. I had told her that story before. I had told her all of them before: my mother's socks drying on the council-room hearth; my mother feeding her brother's solemn hunting dog under the table; my mother saying, *You can help me be late,* and taking me out to look at the first snow instead of receiving an ambassador.
 
 I had left out the occasion when she was tired and slapped my hand for reaching across her writing. I had forgotten it myself until that morning, finding the same table in a room used now for visitors' coats. I could remember the offended heat in my fingers. I had been seven. I had thought she would never love me again. Then she had asked me to turn the pages of her book because her hands were full of pear juice.
@@ -106,7 +108,7 @@ I took my pen from the pocket of the gown. I had filled it that morning, althoug
 
 Across the valley, a line of sunlight emerged from behind the castle. I put the pen away, unfolded my letter for the last time, and read the ninety-four words.
 
-My mother had only needed to keep the soldiers home. The villages would have been defended. The army would have found something besides frightened servants at the palace doors. My mother would have reached the age at which she needed spectacles. I could have been with her when she first held them away from her face in irritation.
+My mother had only needed to keep the soldiers at their posts. The villages would have been defended. The army would have found something besides frightened servants at the palace doors. My mother would have reached the age at which she needed spectacles. I could have been with her when she first held them away from her face in irritation.
 
 I folded the letter. Her name and the date lay upward against my fingers.
 
@@ -140,7 +142,7 @@ Eddra touched my elbow.
 
 “What's wrong?”
 
-I looked at her. Her mouth was making the beginning of the words I had taught her, silently: *Do not send—*
+I looked at her. She was silently rehearsing our first line, the one we had copied together: *Do not send the soldiers home.*
 
 There was still time. My hand had begun to shake, but hers was steady. She had a message of her own to spend. I could warn my mother, and Eddra could write to the boy at the shop, on the day before I had first gone there. Tell him where I would be. Arrange an encounter. Give us a chance.
 
@@ -184,7 +186,7 @@ I wanted it so badly that I bent toward the paper.
 
 “I know.”
 
-My mother had put me into the seamstress's arms. She had wrapped my coat around me over my nightdress, too much wool for the season. I remembered her trying to push my thumb through its cuff. Behind her, a kitchen boy was calling that someone was still upstairs.
+My mother had put me into the seamstress's arms. She had wrapped my coat around me over my nightdress, too much wool for the season. I remembered her trying to push my thumb through its cuff. Behind her, Tem was calling that someone was still upstairs.
 
 She had left the coat crooked and turned toward his voice.
 
@@ -210,7 +212,9 @@ The clock's hand passed the painted rabbit. Half the minute was gone.
 
 The letter to save my kingdom lay warm and soft in my palm. I could still open that hand. There was nothing holding it shut.
 
-I took out the pen instead.
+The ninety-four words were for Tem too. His name was on the list of the palace dead. They could have kept him from having to follow my mother upstairs. I remembered the juice in his palm and how carefully he had waited for me to swallow before taking it away.
+
+I kept my hand closed and took out the pen instead.
 
 I tore the blank lower margin off the prepared letter and wrote:
 
@@ -224,7 +228,7 @@ Eddra stood beside me with her letter gripped in both hands.
 
 I opened mine.
 
-The new paper vanished. The wet sentence remained on the sheet that had arrived a minute earlier.
+The new paper vanished. The sentence remained on the sheet that had arrived at the first rise.
 
 Across the valley, the water fell.
 
