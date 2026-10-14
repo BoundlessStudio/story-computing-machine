@@ -106,11 +106,11 @@ At eleven, a tab in the blouse jammed.
 
 Anja noticed it first as a sideways pull, then as a ridge digging beneath her arm. She paused the recording and tried to free the little slider. Nothing. She could drain again and carry on, but she was comfortable in her chair, she had a day of breathing and listening ahead, and she did not fancy holding the sporting contraction until lunch because a piece of brass had developed an opinion.
 
-She took the blouse off, put on her loose studio cardigan, and spent twelve minutes at the desk with a pair of tweezers. A length of dark thread, probably picked up from the sports top in her bag, had wrapped around the slider's spindle. When it came free, the pleat opened so suddenly that she dropped the tweezers.
+She took the blouse off, put on her loose studio cardigan, and freed a length of dark thread from the slider with her tweezers. The pleat opened so suddenly that she dropped them.
 
 “Thank you,” she told the blouse, without meaning it.
 
-She put it back on. The broad front lay smooth again. Through the little window above her screens, sunlight had reached the opposite roof.
+She put it back on. The broad front lay smooth again. Twelve minutes gone, but she could leave her body alone now and listen.
 
 At lunch she ate the other roll standing up, which did nothing to improve it, then took ten minutes outside. Her fuller hips gave her walk a movement she could feel through the trousers. She bought a pear from the stall beside the cinema, inspected it for ripeness, and took the long way back.
 
@@ -234,6 +234,8 @@ There was a dumpling shop on the corner with mist on the windows and six people 
 
 Otis leaned down to read the menu over her shoulder. His voice was close to her ear when he asked what the red stars meant. She caught the clean scent of his soap, underneath the colder smell of his coat.
 
+She was still hungry because of him. She also wanted to lean back against his chest, which seemed particularly unfair.
+
 Her body, which had not been consulted about the missing reservation, made its own contribution to the evening.
 
 Warmth spread. The silk pressed more firmly. She shifted, trying to find a little room between herself and the dress, and felt the uppermost side hook take the strain.
@@ -262,7 +264,7 @@ She put the flowers into his hand and stepped behind the short screen beside the
 
 Anja moved the side fastening to the outer row of hooks. The folded allowance opened. Immediately the dress let her take a proper breath, and the line of the skirt fell a little sideways. She smoothed it once. It remained sideways.
 
-In the dark window, her reflected figure was fuller than it had been in the fitting shop. Her face was flushed. She still looked very good.
+In the dark window, her reflected figure was fuller than it had been in the fitting shop. Her face was flushed. The beautiful band of light now kinked at one hip. She turned a little, hoping to recover the smooth gleam she had paid for, but the kink turned with her. She gave the silk one last tug and let it fall. She still looked very good.
 
 She emerged to find Otis sitting on the single free stool, which he promptly vacated.
 
@@ -290,17 +292,11 @@ For a little while they ate. Anja took the first hot dumpling too fast, burned h
 
 He looked at the flowers lying along the edge of the table. “I thought I could get everything.”
 
-“I didn't ask you to get everything. I asked you to meet me for dinner.”
+“I wanted time with you,” she said. “Not between one thing and the next.”
 
 He nodded. For once he did not have a quick reply.
 
 A family came in, carrying parcels. Someone near the counter dropped a spoon. Anja could hear the clatter of pans through the kitchen doorway.
-
-“You want me to ask first,” Otis said.
-
-“Yes. Then I can say yes. Or say something else. That's the part you skipped.”
-
-“All right.”
 
 She watched him reach for a dumpling, discover she had taken the last one, and look into the empty basket with genuine sorrow. It helped.
 
@@ -340,7 +336,7 @@ At her flat they found a jug for the flowers. Otis put them in water while she r
 
 She went back to him before he had finished arranging the stems.
 
-Later, in bed, she discovered that he stole the pillow in his sleep. She pulled it back until he woke.
+Later, in bed, she shifted his sleeping arm from across her chest to her waist and rolled onto her side. He had taken most of the pillow with him. She pulled it back until he woke.
 
 “Terrible service,” he murmured.
 
@@ -350,15 +346,7 @@ He rolled towards her. They had left the bedside lamp on, and in its light she c
 
 “Would breakfast be an unreasonable suggestion?” he asked.
 
-Anja looked at him.
-
-“I'm attempting to ask,” he explained.
-
-“Don't injure yourself.”
-
-“I've brought no tickets.”
-
-She laughed and rested her hand on his shoulder. She wanted breakfast. She wanted him sleepy at her kitchen table, finding out where she kept the cups.
+She rested her hand on his shoulder. She wanted breakfast. She wanted him sleepy at her kitchen table, finding out where she kept the cups.
 
 “Eight,” she said. “I've got a recording session at nine.”
 
