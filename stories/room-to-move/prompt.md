@@ -28,4 +28,8 @@ This clarification refers to the coordinator's phrase "a man whose own wardrobe 
 
 # Production direction
 
+Subsequent art feedback, verbatim: i think the character references miss the point; look at the original reference image for what i meant by wildly differences.
+
+The revised character sheet should make the supplied original's broad range immediately visible: the same adult woman, recognizable face and consistent poses/clothing, from nearly flat sporting reduction to a distinctly full resting shape and very full involuntary response. Rapid chest changes retain her months-maintained hip proportions.
+
 The subsequent direction requests the maximum rating and an adult treatment including sex, with one woman's ordinary day carrying the sports, adaptive fashion, and dating material. Rate the actual finished content after review; shared LOCKED boundaries still require unambiguously adult intimate participants and sexual activity to fade to black. Sport should demonstrate deliberate reduction of breast volume and weight for movement. Develop the speculative biology through lived choices, fashion, and etiquette. The supplied reference can inform the principal woman's identity and appearance.
