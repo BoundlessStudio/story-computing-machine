@@ -142,6 +142,8 @@ There is a strip of living root beneath the wall. Nort hears it before you do.
 
 You kneel with Tib. She sings softly, an ordinary tune, and you let her feel the sleeping root turn toward her voice. You wake it together. A small shoot comes through the bark. Tib gasps, and the shoot divides. You feel its division in your own hands, a strength returning to you from hers.
 
+“Show the others how,” you tell her.
+
 By evening it has reached the bedroom window. The next morning Hett stands in her nightdress under a bough full of green apples. She does not say anything for a long time.
 
 Then she catches your wrist.
@@ -208,7 +210,7 @@ That night Elspie sleeps against the wall with her back to you. Mysie lies besid
 
 “No.”
 
-“We were right to listen, weren't we?”
+“We were right to listen, weren't we?” you ask.
 
 Mysie looks past you at Elspie's back. “Yes.”
 
@@ -350,7 +352,7 @@ Hett looks at the house. You wait for her to go upstairs for something: money, c
 
 Tib's eyes fill. Then she turns and holds out both hands to the youngest girls.
 
-People begin to follow them. Hett unlocks the narrow back door and leaves the key in it. The apple boughs are beginning to block the stair window. She puts her shoulder under one and lifts it so a girl can pass.
+People begin to follow them. Hett unlocks the narrow back door and leaves the key in it. The apple boughs are crowding the doorway. She puts her shoulder under one and lifts it so a girl can pass.
 
 The fish-stall owner stays where he is.
 
@@ -359,6 +361,8 @@ The fish-stall owner stays where he is.
 “I'm taking my daughter.”
 
 He calls her a fool. A man behind him says he will stay too. The baker climbs onto a stool and shouts that her children are going up the lane, and anyone who wants bread tomorrow had better go with them.
+
+The growing bough bears against the door frame. Plaster cracks above Hett's head. She ducks the falling pieces, then gets her shoulder under the bough again.
 
 Nort whistles to the crows. She offers them the fish left on the stalls, all of it, a feast, if they will look into every upstairs window. They scatter. Soon she is pointing people toward houses you thought were empty. She goes into one herself and comes out supporting a man with a bandaged foot, swearing at him for thinking he could wait and see.
 
@@ -456,12 +460,14 @@ The girl before you looks up.
 
 You want to. The wanting arrives intact, almost as sweet as it was on the first night. You look across the field at Mysie. She is watching you; she knows that look.
 
+The pin-finding girl sleeps beside Hett's baskets. You close your hand. You could go to the ridge yourself. You picture the stranger waiting for one of you the next time her hill moves.
+
 Just looking, you tell yourself. You do not ask Mysie whether she believes that.
 
 “I can show you what I see,” you say. “I couldn't make it stop.”
 
-“I heard you.”
+“She's still there.”
 
-You put your hand beside hers, without touching. You show her the pull behind your ribs. The pale star is moving; the dark space beside it has widened again. After a while she finds it, and her face changes.
+You open your hand beside hers, without touching. You show her the pull behind your ribs. The pale star is moving; the dark space beside it has widened again. After a while she finds it, and her face changes.
 
 Under the field, far below the sleeping children, something turns toward your two open hands.
