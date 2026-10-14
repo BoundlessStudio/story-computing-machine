@@ -18,6 +18,8 @@ a few points:
 
 Clarification of the sports point, verbatim: "Reducing volume and weight for sport".
 
+Context of that answer: the coordinator's question specifically offered reducing breast volume and weight for movement, contrasted with a literal badge or sporting custom. The sporting aim is reduced moving load at the chest; the user did not request disappearing total-body mass.
+
 Further direction, verbatim: you can throw some cross humor in there since men been dealing with "growing" issues in public embrassment, clothing failes, etc, for years...
 
 Final clarification, verbatim: keep that lite jokes not a main story plot

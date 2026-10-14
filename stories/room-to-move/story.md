@@ -22,7 +22,7 @@ Their first proper date. She had been using the word *proper* to distinguish it 
 
 Tonight she would find out what he was like for more than three minutes when neither of them had a train to catch.
 
-At the club, the glass court was still cold enough to hold the faint outline of yesterday's handprints. Otis was trying to persuade a vending machine to release his ball.
+At the club, the overhead lights picked out yesterday's handprints on the glass wall. Otis was trying to persuade a vending machine to release his ball.
 
 “Thirty-six,” Anja said, “and still getting beaten by stationary opponents.”
 
@@ -38,7 +38,7 @@ He had shaved badly. A little crescent of copper-coloured stubble remained under
 
 “I meant your hair.”
 
-He had meant her hair. A short strand she had cut to keep it out of her eyes was sticking straight up. He reached to indicate it, stopped short of touching, and grinned.
+A short strand she had cut to keep it out of her eyes was sticking straight up. He reached to indicate it, stopped short of touching, and grinned.
 
 The grin caused a small, thoroughly unhelpful warmth beneath her sports top.
 
@@ -106,15 +106,13 @@ At eleven, a tab in the blouse jammed.
 
 Anja noticed it first as a sideways pull, then as a ridge digging beneath her arm. She paused the recording and tried to free the little slider. Nothing. She could drain again and carry on, but she was comfortable in her chair, she had a day of breathing and listening ahead, and she did not fancy holding the sporting contraction until lunch because a piece of brass had developed an opinion.
 
-She took the blouse off, put on her loose studio cardigan, and freed a length of dark thread from the slider with her tweezers. The pleat opened so suddenly that she dropped them.
+She took the blouse off, put on her loose studio cardigan, and freed a length of dark thread from the slider with her tweezers. The pleat sprang free so suddenly that she dropped them.
 
 “Thank you,” she told the blouse, without meaning it.
 
 She put it back on. The broad front lay smooth again. Through the little window above her screens, sunlight had reached the opposite roof.
 
 At lunch she ate the other roll standing up, which did nothing to improve it, then took ten minutes outside. Her fuller hips gave her walk a movement she could feel through the trousers. She bought a pear from the stall beside the cinema, inspected it for ripeness, and took the long way back.
-
-The walk cost time too. She took it anyway.
 
 By three she had thirty-nine minutes and a laugh she did not want to cut. The puppeteer had started laughing halfway through the story of a stage invasion by a real cat, and the laugh rose into a wheeze, stopped, then returned when she tried to imitate the cat. Anja could remove half of it. The edit would be efficient and lifeless.
 
@@ -228,7 +226,7 @@ They walked towards the other restaurants. Her narrow hem kept their pace slow. 
 
 Otis tried the little place with the blue door. Full. The next had a private party. At the third, a waiter offered them a table in forty-five minutes.
 
-“I'd like to eat before I have to be reintroduced to you,” Anja said.
+“At that point I'll have eaten the flowers,” Anja said.
 
 There was a dumpling shop on the corner with mist on the windows and six people waiting by the counter. They joined the queue.
 
@@ -306,7 +304,7 @@ She watched him reach for a dumpling, discover she had taken the last one, and l
 
 After the second basket he told her about the end of the tour: a singer losing her voice and doing the last show almost entirely by inviting the audience to sing. He had expected a disaster. It had been the best night they had had. He still sounded astonished by it.
 
-Anja told him about the puppeteer's laugh. He asked to hear it. She had the client's permission to use a short preview, so she played him the cat passage from her phone, one earbud each, their heads bent close enough to bump.
+Anja told him about the puppeteer's laugh. He asked to hear it. She played him the cat passage from the preview on her phone, one earbud each, their heads bent close enough to bump.
 
 He laughed where she had hoped he would. Then he asked about the woman's husband, whose name came up at the end of the clip.
 
@@ -326,9 +324,9 @@ Anja could have made him work for it. She had enjoyed doing that on the court. S
 
 He took a breath. “I'd like that.”
 
-“I want to go to bed with you, Otis. This isn't an invitation to check my racquet.”
+“I want to go to bed with you, Otis.”
 
-He laughed, with relief and something less easily disguised. “Thank God. I wasn't sure I could survive another discussion of the strings.”
+He laughed, with relief and something less easily disguised.
 
 She caught his jacket and kissed him. His hand settled at her back. The attraction that had interfered with her serve and pressed at the green silk was welcome now, but it was the look on his face when she let him go that made her take his hand.
 
@@ -336,7 +334,9 @@ At her flat they found a jug for the flowers. Otis put them in water while she r
 
 She went back to him before he had finished arranging the stems.
 
-Later, in bed, she shifted his sleeping arm from across her chest to her waist and rolled onto her side. He had taken most of the pillow with him. She pulled it back until he woke.
+Later, in bed, she let the quick response settle towards her familiar resting fullness. She liked that slow easing before sleep.
+
+She shifted his sleeping arm from across her chest to her waist and rolled onto her side. He had taken most of the pillow with him. She pulled it back until he woke.
 
 “Terrible service,” he murmured.
 
