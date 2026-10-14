@@ -32,4 +32,8 @@ Subsequent art feedback, verbatim: i think the character references miss the poi
 
 The revised character sheet should make the supplied original's broad range immediately visible: the same adult woman, recognizable face and consistent poses/clothing, from nearly flat sporting reduction to a distinctly full resting shape and very full involuntary response. Rapid chest changes retain her months-maintained hip proportions.
 
+Further art direction, verbatim: we need the same thing for her dinner drees and avg day clothing; showing the different limitations the story talks about.
+
+Additional matched clothing studies should show the cream work blouse's unfolding expansion pleats and jammed side tab, and the green dinner dress's fixed inner fit, strain at greater fullness, and manually released outer-hook allowance with its less tidy skirt line and restricted stride. Keep body state distinct from garment adjustment, with consistent identity and hips across the rapid changes.
+
 The subsequent direction requests the maximum rating and an adult treatment including sex, with one woman's ordinary day carrying the sports, adaptive fashion, and dating material. Rate the actual finished content after review; shared LOCKED boundaries still require unambiguously adult intimate participants and sexual activity to fade to black. Sport should demonstrate deliberate reduction of breast volume and weight for movement. Develop the speculative biology through lived choices, fashion, and etiquette. The supplied reference can inform the principal woman's identity and appearance.
