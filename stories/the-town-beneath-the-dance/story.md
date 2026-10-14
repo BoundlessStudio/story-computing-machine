@@ -14,7 +14,7 @@ The woman laughs so hard she has to put down her knife.
 
 “You had better eat them cold.”
 
-She gives you four pears, the soft places neatly cut away. Her name is Hett. She is broad through the shoulders, with a grey braid she has tucked down the back of her collar. A girl with short dark curls watches from between the baskets.
+She gives you four pears, the soft places neatly cut away. Her name is Hett. She is broad through the shoulders, with a grey braid she has tucked down the back of her collar. Her daughter, a girl with short dark curls, watches from between the baskets.
 
 “Where will you sleep?” Hett asks.
 
@@ -29,6 +29,8 @@ The girl behind the baskets comes out at once.
 “I won't bother them.”
 
 Nort gives her the last quarter of her pear.
+
+Tib takes you through the side door at the riverside corner of the shop. There is a back stair that comes out on the upper lane, and your room opens off it. She shows you the way twice, the second time at a run.
 
 You bought one length of scarlet cloth on the road, because it was cheaper than four sensible lengths, and made your gowns in a field. Nort's hem is uneven. Elspie's sleeves are narrow. Mysie's neckline is the only thing any of you measured twice. Yours has a crooked seam at the shoulder which Mysie says she will mend when you stop fidgeting. The marigolds in your hair came from a woman who would take nothing for them.
 
@@ -206,6 +208,10 @@ That night Elspie sleeps against the wall with her back to you. Mysie lies besid
 
 “No.”
 
+“We were right to listen, weren't we?”
+
+Mysie looks past you at Elspie's back. “Yes.”
+
 She takes your hand beneath the blanket. You let her.
 
 In the morning, the crows will not land on the market. Nort bargains, threatens, offers them her breakfast. They remain on the high roofs, looking down.
@@ -368,7 +374,7 @@ Mysie calls for help. You cannot let go of Elspie. Nort is too far up the lane t
 
 Hett turns back from the stair.
 
-Her shop has a side door opening onto that corner. You watched her carry baskets through it every morning. She takes her shoulder from under the apple bough, ducks through the shop, and comes out behind Mysie. Together they lift the timber. Then Hett takes the girl's arm over her shoulders and leads her inside.
+She takes her shoulder from under the apple bough, ducks through the shop, and comes out of the riverside door behind Mysie. Together they lift the timber. Then Hett takes the girl's arm over her shoulders and leads her inside.
 
 Mysie follows. She could begin teaching on the stair. She could find ten more girls up the lane and bring them back.
 
@@ -449,6 +455,8 @@ The girl before you looks up.
 “Can you show me how to see them? Before they come out?”
 
 You want to. The wanting arrives intact, almost as sweet as it was on the first night. You look across the field at Mysie. She is watching you; she knows that look.
+
+Just looking, you tell yourself. You do not ask Mysie whether she believes that.
 
 “I can show you what I see,” you say. “I couldn't make it stop.”
 
