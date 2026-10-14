@@ -134,7 +134,7 @@ Tib takes you into the little yard behind Hett's house.
 
 An apple stump stands there, broad enough to sit on. Hett cut the tree down after two fruitless summers, when she needed wood. She has never let anyone pull out the stump.
 
-“Her mother planted it,” Tib says. “When she was smaller than me.”
+“My grandmother planted it,” Tib says. “When Mother was smaller than me.”
 
 There is a strip of living root beneath the wall. Nort hears it before you do.
 
