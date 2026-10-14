@@ -20,6 +20,10 @@ Clarification of the sports point, verbatim: "Reducing volume and weight for spo
 
 Further direction, verbatim: you can throw some cross humor in there since men been dealing with "growing" issues in public embrassment, clothing failes, etc, for years...
 
+Final clarification, verbatim: keep that lite jokes not a main story plot
+
+This clarification refers to the coordinator's phrase "a man whose own wardrobe troubles make him an awkwardly sympathetic ally." The cross-gender wardrobe humor is occasional seasoning; the woman's changing daily life remains central.
+
 # Production direction
 
 The subsequent direction requests the maximum rating and an adult treatment including sex, with one woman's ordinary day carrying the sports, adaptive fashion, and dating material. Rate the actual finished content after review; shared LOCKED boundaries still require unambiguously adult intimate participants and sexual activity to fade to black. Sport should demonstrate deliberate reduction of breast volume and weight for movement. Develop the speculative biology through lived choices, fashion, and etiquette. The supplied reference can inform the principal woman's identity and appearance.
