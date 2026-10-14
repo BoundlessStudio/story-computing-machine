@@ -110,7 +110,7 @@ She took the blouse off, put on her loose studio cardigan, and freed a length of
 
 “Thank you,” she told the blouse, without meaning it.
 
-She put it back on. The broad front lay smooth again. Twelve minutes gone, but she could leave her body alone now and listen.
+She put it back on. The broad front lay smooth again. Through the little window above her screens, sunlight had reached the opposite roof.
 
 At lunch she ate the other roll standing up, which did nothing to improve it, then took ten minutes outside. Her fuller hips gave her walk a movement she could feel through the trousers. She bought a pear from the stall beside the cinema, inspected it for ripeness, and took the long way back.
 
