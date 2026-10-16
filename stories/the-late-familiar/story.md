@@ -1,553 +1,644 @@
 ---
-title: The Late Familiar
+title: A Particular Cat
 created: 2026-10-16
 canon: false
 ---
 
-On the third morning, I woke with a mouthful of my familiar and decided to return him.
+By morning I had packed everything required to return my familiar: his saucer, my summoning receipt, and the cat.
 
-I had tried sleeping on my side. I had tried sleeping face down. The second experiment had given him an excellent perch on the back of my head, from which he could reach round and put a paw over my nose.
+The last item kept getting out.
 
-Now twenty pounds of cat lay across my face, purring with the steady confidence of a man who has arrived early for an appointment. Through his fur I could see a stripe of sunlight and the blue ends of my hair spread over the pillow. I was going to be late for work again.
+He was not too large for the basket. I had checked this by putting him in it. He was simply unwilling to remain there while I fetched my boots, and twenty pounds of unwilling cat made a remarkably effective lid-removal device.
 
-I pushed. He flowed into the space beside my cheek, which seemed promising until I discovered that most of him was still on my cheek.
+“Stay,” I said.
 
-"I have to breathe."
+He stepped onto the table.
 
-He opened one pale green eye.
+“I'm taking you back.”
 
-"Every day," I added.
+“Your hair is in the butter.”
 
-The eye closed.
+I lifted the blue ends of my hair out of the dish. He began to eat.
 
-I rolled out of bed, taking him with me. He landed on all four feet. I landed on a boot.
+He had arrived two evenings earlier, three years after I called for him. Someone had tied his belongings into a cloth bundle, which he had dragged through my window by its knot. The bundle contained a chipped blue saucer and an ancient scrap of red blanket. He was white beneath, gray above, with cream patches behind his ears and a tail large enough to conceal his intentions.
 
-My room was over a baker's shop, and I had weighed him downstairs the morning after he arrived. The baker had made me remove the flour sack from the other pan to be certain. Twenty pounds exactly: white chest, gray saddle, cream behind his ears, and a tail which could have dusted a drawing room without the rest of him entering it.
+I had expected a creature who would help me learn magic. So far, I had acquired a boarder.
 
-He had come through my window on Sunday night. This was Wednesday. My first summoning had been posted three years, two months, and eleven days earlier.
+My first mistake had been to mend his saucer.
 
-I knew because I had kept the receipt.
+He pushed it toward me with his nose and said, “Food.”
 
-At nineteen, I had spent the summer painting signs to afford a term at the college. Every introductory book said the same thing: Your familiar will guide you in the first exercises. No familiar came. I put off my enrollment until spring, then autumn, then the following spring. By then I had spent most of the money I had saved on rent and food, and had got good enough at painting signs that people thought that was what I had meant to do.
+I noticed the missing crescent of rim, set my fingers round the pottery, and used the little shaping pattern I knew. A saucer was only a shallow circle. I drew some clay out of the thick foot, spread it along the rim, and made it smooth.
 
-Last winter I painted a forest for the Dapple Company. They needed somebody who could make cheap canvas look distant. By summer they needed somebody who could mend it in a hurry. I had learned to mix green in a moving wagon, to put a convincing moon on a sheet, and to keep a painted moth fluttering for nearly six breaths.
+He inspected it.
 
-On Friday I was leaving town with them.
+“No.”
 
-Cressa had offered the moth a place in Friday's scene change if I could make it reach the other side of the stage. At six breaths it dropped somewhere in the middle.
+“I haven't put anything on it yet.”
 
-The cat sat on my travel cloak and washed himself. He had used the moth for batting practice. There was a tear in my good forest, and half the ham I had bought for the journey was gone.
+“You've changed it.”
 
-I fetched the wicker basket.
+“I fixed it.”
 
-He watched me line it with a towel. Then he stepped inside, turned round twice, and went to sleep.
+“That is not the saucer I gave you.”
 
-That was almost enough to make me keep him. It was the first thing I had asked of him that he had done.
+It was the first magic I had attempted in weeks. I had hoped for encouragement. I got a large white paw pushing my work away.
 
-I tied the lid shut.
+He would accept neither broth nor fish on the mended saucer. He ate both quite readily from the parcel paper while I tried to put the chip back.
 
-Someone knocked.
+That proved harder than removing it. My usual pattern wanted a complete circle. Whenever I pushed the gap into place, the rest of the rim began to sag. He watched from the table with his paws folded.
 
-"Come in," I said, with the basket braced between my knees while I made a second knot.
+“Remember the foot,” he said.
 
-The door opened, and the room grew very cold.
+“I know what a saucer looks like.”
 
-The figure on the threshold was too tall for it. Black antlers loomed against the ceiling. His face had the depth of an unlit well, and something moved at the bottom. I knew I was upstairs, but for a moment I felt a great height beneath me, as though the floorboards were a narrow ledge.
+“Yes,” he said. “I see that.”
 
-I had seen that face on medals commemorating the end of the northern wars. On the medals it had looked less terrible. Possibly the engravers had wanted to finish their work and go home.
+Then he fell asleep.
 
-Lord Veyr inclined his head.
+Yesterday he had moved on to my cup.
 
-"Mistress Hesta? The company gave me this address."
+It was a brown cup with a handle too small for two fingers. He made me pick it up, turn it over, and hold it with both hands. I thought he wanted me to inspect a stain on its bottom. When I set it down, he hooked it with one paw and knocked it off the table.
 
-I managed to nod.
+I reached for the shaping pattern. He struck my wrist.
 
-"I wrote about a disguise. Under the name Gray."
+“Ow.”
 
-There had been a letter. Cressa, our leading actress, had given it to me because I had once made her look like a tree. I had been proud of this until she explained that she meant it as a recommendation.
+“You haven't got all of it.”
 
-"Yes," I said. "You wanted to look unobtrusive."
+I swept the pieces together.
 
-He glanced at the antlers, which went through the ceiling when he moved.
+“Now I have.”
 
-"Quite."
+He lay down across my forearm.
 
-Something in the basket sneezed.
+For several minutes I tried to work round him. Eventually I got on my knees and looked under the cupboard.
 
-Lord Veyr looked down.
+The missing piece of handle was almost against the wall.
 
-He went very still. Then he took off his gloves, folded them together, and knelt on my travel cloak.
+I fetched it with a spoon. The cat released my arm. By then I had a floor to sweep and a neighbor's hem to finish, and I put the pieces in a dish for later.
 
-"Master Thoss?"
+Last night he slept on my face.
 
-A gray paw emerged between the wicker and the lid.
+I moved him six times. He came back six times. The seventh time I lifted his front half, he put both hind feet on my chin and stretched.
 
-The kingdom's most feared sorcerer put his bare hand on the floor beside it.
+“What are you doing?” I asked him.
 
-"Are you accepting apprentices again?"
+“Getting comfortable.”
 
-I looked at him. I looked at the basket.
+It was very difficult to formulate a proper objection with his stomach over my mouth.
 
-"He's in there because I'm returning him."
+Now I had boots on, the receipt in my pocket, and the basket shut beneath my elbow. His head was sticking out. We were going back to the college, where someone could explain what part of this arrangement was supposed to be helpful.
 
-For the first time since he entered, Lord Veyr seemed frightened.
+“Saucer,” he said.
 
-"Returning him where?"
+It lay beside the butter, perfect and unwanted.
 
-"The Familiar Post. They have a counter for unsuitable matches."
+“You can complain about it to somebody else.”
 
-The paw withdrew. A voice from the basket said, "I should like the lid opened."
+“Put it back first.”
 
-It was a deep, pleasant voice. I resented that more than I would have resented a horrible one.
+I considered leaving it behind. Then I imagined some clerk telling me I had returned his equipment in the wrong condition.
 
-"You've been able to talk this whole time?"
+I set the basket on a chair.
 
-"Yes."
+The cat watched while I put both hands around the saucer. I shut my eyes. When he had first pushed it toward me, the rim had caught against my finger. I remembered that little hook of roughness. I remembered turning the dish to avoid it, and the uneven thickness beneath my thumb.
 
-"You could have said something when I asked you to move off my face."
+This time I began there.
 
-"I thought my intention was clear."
+The foot grew heavier in my hands. Something small moved under the glaze, almost like a breath passing beneath cloth. I felt the rim settle instead of pulling it into place.
 
-Lord Veyr made a small noise. It took me a moment to recognize it as a laugh.
+When I opened my eyes, the chip was back.
 
-I untied the basket. The cat climbed out with the injured composure of a person rescued from circumstances he had warned everybody about. He stepped over the kneeling sorcerer's hand and got onto my bed.
+I turned the saucer over. The foot was thick again. I touched the rough gap.
 
-"Up, Veyr. You'll get a chill."
+“Oh,” I said.
 
-The antlers passed through my ceiling again as the sorcerer stood.
+The cat stood with his front paws on the basket's edge.
 
-"It's the same working," Thoss said.
+“Yes.”
 
-"With some additions."
+It was the first agreeable thing he had said to me.
 
-"I see the additions."
+He put a paw on the saucer. Three clear notes sounded, though nothing in the room moved.
 
-Lord Veyr tucked his hands into his sleeves. "Cressa is my daughter."
+“Who was that for?”
 
-I had spent eight months in Cressa's company. She played princesses, murderers, and an unusually moving turnip in our children's piece. She could get a horse to take medicine. I would have said I knew her fairly well.
+“A pupil.”
 
-"She's never mentioned you."
+He climbed out of the basket.
 
-"She uses her mother's name. I've kept away from the theatre. It seemed best."
+“Wait,” I said.
 
-He looked at the painted moon leaning against my wall.
-
-"On Friday she plays the queen for the first time. She asked me to come. In the audience. There was some emphasis on that."
-
-"She'll be a good queen."
-
-"I know."
-
-His voice had changed. It was quieter, and I could hear a man underneath it.
-
-Thoss pulled a loose thread from my blanket.
-
-"Let it go, then," he told his old apprentice.
-
-The antlers faded. For a moment there was a tall, narrow man in a plain black coat, with silver hair tied at his neck and a long, tired face. Then he saw me looking. The cold came back so sharply that my teeth struck together.
-
-"I do know how," he said.
-
-"I see."
-
-"Alone, I can."
-
-Thoss stopped worrying the thread.
-
-"How long?"
-
-"Long enough."
-
-I had charged him two silver pieces for an unobtrusive disguise. They were on the corner of my table in a little paper envelope. I took it down and held it out.
-
-"I can do stage effects," I said. "I've never covered anything like that."
-
-"Try. Please."
-
-So I tried.
-
-I put my best illusion over his coat: a round man with a soft hat and an interest in turnips. I could manage people if they stood still and nobody asked me to supply a convincing voice. The round man wavered into view. For three breaths he looked extremely unobtrusive.
-
-Then something black opened beneath his hat.
-
-I let go. My forehead hurt.
-
-Lord Veyr was staring at the floor. The hand nearest me was a fist, his thumb tucked inside the fingers.
-
-"It didn't do that until you looked up," I said.
-
-He put the hand behind his back.
-
-"I told you the little things have to be built from the inside," Thoss said to me. "You can't put a man on somebody like a coat."
-
-"You haven't told me anything."
-
-The cat's ears moved.
-
-"You tore my scenery, ate my ham, and slept on my head. Those are the lessons so far."
-
-Lord Veyr looked from one of us to the other.
-
-"I could arrange rooms," he said carefully. "At my house. A proper study for you both. Whatever equipment you need."
-
-I thought of a room with a wide table, good lamps, a shelf of books I hadn't had to copy by hand. For a moment I wanted it so badly that I couldn't speak.
-
-"I have a job," I said at last.
-
-"Of course. I meant no offense."
-
-"It took me a while to get it."
-
-Thoss looked past us to the open window. I could hear the baker's boy calling out loaves below.
-
-"Where was my summons?" I asked him.
-
-"In my study."
-
-"For three years?"
-
-"Under an atlas."
-
-Lord Veyr's dreadful face turned toward him. Whatever he saw in the cat, I could not see it. Thoss had a piece of my blanket caught between two claws.
-
-"You could have said no," I told him.
-
-He let go of the thread.
-
-"I didn't intend to."
-
-"I waited through two enrollment days with my trunk packed. The second time I told the landlord I'd be gone by supper. I sat on it until it got dark."
-
-My face was hot. I had not meant to tell either of them that.
-
-The cat sat up.
-
-"I lost your letter," he said. "I left it too long. I'm sorry, Hesta."
-
-It was a plain enough sentence. I had been ready to argue with several grander ones.
-
-I put the envelope back on the table.
-
-"I'm due at the theatre," I said. "You're welcome to come, Lord Veyr. Cressa won't be there until noon."
-
-"Can you help me?"
-
-"I think I can show you something to try."
-
-Thoss jumped down and headed for the door.
-
-"I haven't decided about you," I told him.
-
-He waited on the threshold while I put on my boots.
+There was a knock at the door.
 
 ***
 
-We played in the loft of a former wool warehouse while we were in town. There was a narrow stage at one end, benches at the other, and a draft which had been playing winter in all our productions since August. The best light came through a high east window. It lit my forest from behind and revealed every mend.
+The man outside wore a dark traveling coat with red silk inside it. He had a broad face, a gray-streaked black mustache, and a heavy green stone hanging at his chest. Behind him, my landlady was gripping the banister with both hands.
 
-Nobody had arrived yet. I put Lord Veyr on the stage, shut the door, and found the stool I used when I was painting clouds.
+I knew him from the woodcuts in my examination manual. The pictures had shown him standing over broken fortresses with one hand raised. In my doorway he was trying to step around a bucket.
 
-Thoss sprang onto it. For the first time I was grateful for the quantity of him. Even Lord Veyr could hardly look at anything else.
+“Lord Varras,” my landlady said. “Hesta. Lord Varras.”
 
-"What happens with your hand?" I asked.
+I stood aside so she could stop saying it.
 
-Veyr looked down. His fingers were closed again.
+The kingdom's most feared sorcerer entered my room, saw the cat on my table, and took a breath so deep I heard it.
 
-"It's how I begin the working."
+“Master Thrum?”
 
-"You do it before the antlers come."
+The cat licked butter from his nose.
 
-"Yes."
+“Are you accepting apprentices again?”
 
-"And if you don't begin?"
+Varras bowed until his green stone swung free.
 
-"Nothing happens."
+I still had the basket in my arms.
 
-He opened his hand. The antlers remained.
+“He's my familiar,” I said.
 
-"It isn't only the hand," he said. "It's what I reach for."
+“So I gathered.”
 
-Thoss sat with his tail wrapped round his feet.
+“I'm returning him.”
 
-"He was fourteen," he said. "There were men who wanted him frightened. I taught him something to do instead."
+Varras looked at the basket. Then he looked at the cat.
 
-Veyr was looking at a knot in the floorboards. I left the men and the fourteen-year-old where they were.
+Thrum sat down on my receipt.
 
-"Have you ever seen it?" I asked.
+“You heard the call,” he said.
 
-"In a glass, I see myself. It was made for other eyes."
+“I never took the other one off my desk.” Varras's voice had become rather rough. “I thought perhaps—well. It has been three years.”
 
-Thoss's ears lifted. "You should have asked."
+“I know.”
 
-"I didn't know I could."
+He pressed the cat's forehead with his thumb. Thrum shut his eyes and leaned forward until Varras had to put his other hand behind him.
 
-The cat rose on his stool.
+I set down the basket.
 
-"Look at me, both of you. I'll lend you my eyes."
+“How does he know you?” I asked.
 
-His green eyes widened, and suddenly I was seeing from two places.
+“I taught him.”
 
-From the bench, I saw Lord Veyr turn toward the cat. From the stool, I saw the same man crouched beneath a ceiling which seemed to hang over an abyss. His coat moved like a swarm. All the small ordinary sounds of the warehouse were missing. The thing onstage looked at me, and I knew with perfect certainty that it had been waiting for me all my life.
+“You teach people?”
 
-Then the extra sight was gone. I gripped the edge of the bench until I could feel the wood again.
+“Some people.”
 
-Lord Veyr had backed into the forest. One antler passed through a painted oak.
+Varras smiled without looking away from him.
 
-"That's what they see?"
+“Were you a man?” I asked the cat.
 
-"Yes," said Thoss.
+One green eye opened.
 
-Veyr touched his mouth. His own mouth, which I couldn't see.
+“No.”
 
-"I thought it was the horns."
+“Before.”
 
-"There are additions," the cat said, more gently this time.
+“No.”
 
-I took out my little wooden moth. It was the length of my smallest fingernail, painted white, with one wing darker because I'd broken it and mended it with paper.
+“But you're—”
 
-I set it on my palm and imagined it landing on the corner of the stool.
+“A cat,” said Thrum. “Yes.”
 
-It rose. The painted wings moved. It flew as far as Thoss's nose, and he snapped at it.
+He got up and pressed his head under Varras's chin. The sorcerer made a small, undignified noise and sat heavily on my only chair.
 
-I caught it before it hit the floor.
+I stood beside them with my boots squeaking.
 
-"Don't."
+“Why are you three years late?”
 
-"Instinct," he said.
+The cat's tail stopped moving.
 
-"You'll have to resist it."
+“I died.”
 
-There was a pause. Then Veyr laughed, a short, startled sound. The antlers shook.
+I looked at Varras. He was examining Thrum's white paws.
 
-I put the moth into his hand.
+“You're alive now,” I said.
 
-"That corner. It doesn't have to fly well. Just get it there."
+“Ninth life.”
 
-"I'm not accomplished at animation."
+“Not restoration,” Varras said quietly. “He has to begin again. He was brown before. Very small.”
 
-"Neither am I."
+I looked at the creature filling the sorcerer's lap.
 
-The moth rose from his palm and struck the ceiling.
+“I had to grow,” Thrum said. “And remember. Milk came first. Then mice. Words took longer. There is rather a lot to remember now.”
 
-He winced.
+“So you couldn't have come.”
 
-"Less," I said.
+“No.”
 
-It descended, slowly revolving. The wings moved once. Then he noticed me watching him, and his fingers curled.
+I had spent the first autumn taking my packed trunk downstairs each morning in case a familiar arrived before the college gate closed. The following year I stopped packing. I kept the receipt behind the mirror because I could not decide whether throwing it away would count as canceling.
 
-The moth fell.
+I pulled it from under his tail.
 
-Thoss caught it with one paw. He did not eat it, which I chose to consider progress.
+“I didn't know any of that.”
 
-"Stand your ground, Veyr. Look her in the eye."
+“I know.”
 
-Veyr straightened. His fist tightened so hard that the knuckles shone. I could no longer see the stage beneath him.
+“I spent the fees. I couldn't keep them forever.”
 
-"Stop," I said.
+“No.”
 
-He looked at me.
+For once he seemed to have nothing further to say. I smoothed the receipt against the table. The paper was soft along its folds.
 
-"Not you. Him."
+Varras looked up.
 
-The cat's head turned very slowly.
+“If fees are still the difficulty, you may write to my steward.”
 
-"He's doing what you say, and it's getting worse."
+I could have thanked him gracefully. Instead I said, “Really?”
 
-"He must learn to hold himself before an observer."
+“Really.”
 
-"He's holding himself as though I'm about to throw a brick."
+“Thank you.”
 
-Thoss glanced at his former pupil. Veyr was rigid, waiting to be told which of us to obey.
+I put the paper down before I could ask whether he might also write a letter to the college.
 
-"Can you let him move?" I asked the cat.
+Thrum stepped from his lap onto the table.
 
-For a moment only his tail moved, a hard little twitch at its end. Then he lifted his paw from the moth.
+“Your cup is still broken.”
 
-"Try it her way," he said.
+“Because you broke it.”
 
-Veyr's shoulders came down. He bent to pick up the moth.
+“Yes.”
 
-The first time I had brought scenery on in front of an audience, Cressa had put a prop apple in my hand and told me where it belonged.
+“You could put it back.”
 
-"Walk to the front," I told him. "Bring it with you. Put it on that bench. You can look at me after."
+“Yes.”
 
-He held his hand flat. The moth trembled above it, taking six absurdly small steps through the air for every one of his. He followed it downstage. At the edge, it dipped and he leaned after it.
+I waited.
 
-His antlers thinned. I could see the mended forest through them.
+He waited.
 
-"Keep going," said Thoss.
+Varras studied the pieces in their dish. “Are we beginning with these?”
 
-He had made his voice much quieter.
+“You may,” Thrum said.
 
-The moth crossed the gap and landed on the bench beside me. Its paper wing went crooked. Veyr reached to straighten it, stopped, and left his hand open on the back of the bench.
-
-The dreadful height beneath my feet was gone.
-
-He was standing in front of me: silver hair escaping its ribbon, coat shiny at the elbows, a small scar dividing one eyebrow. The skin beneath his eyes was dark. I thought he might have slept even worse than I had.
-
-He looked at me.
-
-His fingers moved.
-
-"Let me show you," Thoss said to Veyr.
-
-The extra sight opened again. This time it was only a man leaning over a bench in a shabby theatre. In the corner of that view was my own brown face, intent and wary, the blue ends of my hair caught in my collar. Nothing in me was shrinking from him.
-
-Veyr's hand settled.
-
-The other sight faded. He stood looking at me for a long time.
-
-I picked up the moth.
-
-"It landed," I said.
-
-"I saw."
-
-The theatre door banged open.
-
-Jory came in backward, dragging the chest of royal costumes. I had forgotten I'd promised to help him carry it upstairs. He swung round, saw the stranger, and stopped.
-
-The air prickled. Veyr's thumb drew inward.
-
-I reached for him, but he had already seen his hand.
-
-He laid it flat on the bench.
-
-"Good morning," he said. His voice shook.
-
-Jory looked from me to Veyr, then at the cat on my cloud stool.
-
-"Morning. Hesta, can he take the other end?"
-
-Veyr stared at him.
-
-"Of the chest," Jory added.
-
-"Yes," Veyr said. "I can."
-
-They brought it the rest of the way in. Veyr's coat stirred once in a wind I couldn't feel, then went still. When he let go of the handle he spread his fingers on the lid.
-
-Jory went back for the crowns.
-
-Veyr sat down on the chest.
-
-"I don't know if I can do that for a whole performance."
-
-"Cressa's only queen for the second half," I said. "You could come at the interval."
-
-He considered it with the seriousness he had given the moth.
-
-"Could I sit near the back?"
-
-"Yes."
-
-"I'd like to try again tomorrow. If that would be all right."
-
-I looked at the forest. I still had to finish repairing the tear.
-
-"Nine. The actors need the stage at ten."
-
-"Nine," he said.
-
-Thoss jumped from the stool. Veyr knelt as he approached, and the cat pressed his large white forehead into the man's waiting hand.
-
-For a while I busied myself with the moth.
+The sorcerer took off his coat.
 
 ***
 
-After Veyr left, I pulled the forest flat onto the stage and laid out my needles. Thoss sat on a loose corner.
+I had to fetch another chair. My landlady gave me one without asking why, which frightened me nearly as much as Varras's arrival.
 
-"I need that bit."
+When I returned, he was standing at the window.
 
-He got off it.
+My room overlooked the old court behind the college. A stone arch had fallen there last winter. Its blocks lay on the paving inside a rope, waiting for somebody to pay a mason. I had looked at them every morning while waiting for my own luck to change.
 
-I looked at the clear patch of canvas, then at him.
+“I didn't know they had let that come down,” Varras said.
 
-"Don't make too much of it," he said.
+Thrum got onto the sill.
 
-I began to sew. He watched the needle moving in and out.
+“They built it in my third life.”
 
-"I meant what I said about Friday. I'm going."
+“You were here?”
 
-"I gathered."
+“The masons fed me. I watched.”
 
-"There isn't a study. There's a wagon, and in most towns I'll sleep behind the scenery."
+He put his nose toward the glass. Varras opened the window for him.
 
-"Is the basket coming?"
+The cat's ears turned separately.
 
-"For my clothes."
+For a while nothing happened. A woman crossed the far end of the court carrying a basket. Thrum waited until she had gone through the door.
 
-"It is a good basket."
+Then the stones rose.
 
-I worked another few stitches. He had to wait while I untangled the thread.
+I heard them before I understood what I was seeing: a deep grinding note, followed by a dry pattering as mortar lifted from between the paving stones. A block as broad as my table turned slowly in the air. Its broken corner moved out to meet a small piece rising beside it.
 
-"If I keep you," I said, "will you teach me? Here, with this? I can't begin again at the college."
+They joined.
 
-His eyes followed my hand to the moth lying beside the needles.
+The other blocks began turning.
 
-"You aren't beginning again."
+I gripped the window frame. Varras stood very still beside me. Stone passed through stone dust; lines ran across the pale surfaces and vanished. Above the empty court, a curved opening took shape.
 
-"I want an answer."
+The last block rose into it.
 
-"Yes, Hesta. I will teach you. On Friday, and afterward."
+On its face was a sleeping dog, carved so finely that I could see the folds above its nose. I had mistaken the worn bump for a shield.
 
-I set the needle down.
+The arch settled onto its feet.
 
-"Then show me how to make it fly longer. After the mending."
+Thrum's whiskers trembled. He lay down on the sill.
 
-He looked as though he might object to the order of that. Instead he climbed into the hollow of the forest, carefully avoiding the torn edge, and waited.
+Far below, my landlady came through the door with an empty basket. She stopped.
 
-When the last stitch was in, I set the moth rising from my palm. The paper wing buckled, and I felt the familiar ache behind my eyes.
+Then she went back inside.
 
-"You're lifting it by the wings," Thoss said. "That one's paper. Hold it here."
+I realized my mouth was open.
 
-He touched the wooden body with his nose. I tried lifting from there, leaving the wings free to beat. The moth steadied. The ache eased.
+“You remembered all of that?”
 
-"Again," he said.
+“Yes.”
+
+“Every piece?”
+
+“The mason who carved the dog let me sleep on his lap while he worked. I had to move every time he reached for another tool.”
+
+“Could you do that to any ruin?”
+
+“Only one I knew before it fell. I can't restore what I never knew.”
+
+I looked from the arch to the cup fragments.
+
+“Is that what restoration can do?”
+
+“That is what I could do to that arch.”
+
+“Then teach me that.”
+
+Thrum turned his head.
+
+“I am trying.”
 
 ***
 
-On Friday afternoon, Veyr came through the theatre door with a little of the cold still about him and no antlers. He had brought no escort.
+Varras sat on the borrowed chair. He lifted the green stone from his neck and held it over the fragments.
 
-"After yesterday," he said, "I thought I might try the first half as well."
+A small, bright likeness of the cup appeared above the table. I could see each break magnified, the thickness of the glaze, even a grain of grit lodged in one edge.
 
-Cressa was behind the curtain, having her crown pinned to her hair, and I went to tell her he was there. She put her head round the curtain. Her crown tipped; she caught it, smiling toward the back of the room.
+Thrum reached out and tipped the stone away.
 
-When I looked back, he was on the last bench. He had his programme open across both palms. He read it very carefully while Jory lit the lamps.
+“Not through that.”
 
-Thoss watched from the basket in the wings.
+“It is clearer.”
 
-Our moth had twelve breaths of flying in it now. I had never had an effect in a performance before. I checked the mended wing, then checked it again.
+“To your eyes. Put your fingers on it.”
 
-Thoss reached out and put one paw over my wrist.
+Varras set the stone down.
 
-"You'll rub the paint off."
+“Both sides,” the cat added.
 
-I put the moth down.
+The sorcerer picked up a fragment. His fingers were broad and scarred. He turned it over slowly.
 
-From the stage came the first lines, followed by a burst of laughter. Veyr's voice was somewhere in it. I couldn't pick it out.
+I had once paid a silver piece to stand at the back of a hall where Varras demonstrated how to stop an iron door. Now his knee was almost touching mine, and there was butter on the table between us.
 
-After the interval, I stood in the left wing with the moth on my palm. Across the stage, Jory held out his hand.
+I wanted to do something worth his watching.
 
-I lifted mine on the cue.
+Thrum drew the dish toward me with a paw.
 
-The moth cleared Thoss's basket. His chin came up, but his paws stayed tucked inside. At the middle of the stage, where it always fell, it dipped. I kept Jory's waiting hand in mind.
+“Find one join. Fit it. Feel where the pressure belongs before you use it.”
 
-It climbed again. Cressa stepped into the light, and the little white thing passed above her crown, across the mended forest, and into the opposite wing. It came to rest in Jory's palm with one painted wing still raised.
+“One?”
 
-My fingers went on making the flying motion after it had landed.
+“Yes.”
 
-After the performance, we packed by lamplight. We were to set out that night.
+“The arch took you a moment.”
 
-I slept behind the rolled forest in the second wagon, with my travel cloak over me and the basket wedged beside my boots. When I woke, Thoss was climbing my chest, his huge tail moving through the darkness.
+“The arch took me a winter on a mason's lap, and the years before that.”
 
-"No," I whispered.
+He pushed two pieces toward my hand.
 
-He stopped, one paw raised.
+I held them together. Along the outside the brown glaze matched neatly. Inside, one edge lifted against my finger.
 
-I drew him down into the crook of my arm. He turned laboriously, kneaded my cloak, and settled with his head beneath my chin. His purr filled the small space between the canvas and the wagon wall.
+Varras watched me turn them.
 
-Then he stretched a hind foot across my mouth.
+He could get me through the college gate. He had offered to pay. The cat on my table had put an arch back together without standing up.
 
-I moved it. He put it back.
+I had been waiting for this since I was nineteen.
 
-We were still discussing it when the wagon began to roll.
+I knew the shaping pattern. I could at least give them a cup.
+
+I gathered the larger fragments, imagined the familiar shallow curve of its belly, and let the clay soften beneath my hands.
+
+“Hesta,” said Thrum.
+
+The pieces pulled together.
+
+The handle bent toward my thumb. I made room for it, drawing a little more clay down from the rim. The cup rose between my fingers, smooth and brown.
+
+I set it on the table.
+
+Varras leaned forward.
+
+For one instant I was wonderfully pleased with myself.
+
+Then the light from the window shone through the base of the handle.
+
+A small brown fragment still lay beside my elbow.
+
+It was the piece from under the cupboard.
+
+I picked it up. The cup in front of me had a complete handle.
+
+The little green stone could have shown me the thinning. I did not need it. I could see a bright patch through the clay and a faint line where I had stretched the glaze.
+
+Thrum touched the unused fragment.
+
+“You have made a cup,” he said.
+
+I tried to set the piece back into my work. There was nowhere for it to go.
+
+“It's too thin,” I said.
+
+“Yes.”
+
+“I could make the wall thicker.”
+
+“From where?”
+
+I put it down.
+
+The room had become very quiet. I could hear someone moving about below us, opening a window to look at the arch.
+
+Varras took his hands off the table.
+
+“Would you like me to go?”
+
+“No,” I said too quickly.
+
+He waited.
+
+I wanted him gone. I wanted the chance to do something else in front of him. I also wanted him to stay long enough that the last thing he saw would not be this.
+
+My boots were pinching my toes. I had put them on an hour ago to leave.
+
+I pulled the borrowed chair closer.
+
+“Would you show me the one join?” I asked Thrum.
+
+“Yes.”
+
+“I'll have to undo this.”
+
+“Yes.”
+
+I set my hands around the cup.
+
+***
+
+Returning it to fragments was worse than shaping it whole.
+
+I had to find the state I actually remembered, not the handsome cup I had just imagined. I remembered the pieces lying in the dish. One had rested against another with its broken edge up. There had been a white scratch in the brown glaze beneath it.
+
+I began with that scratch.
+
+The cup loosened under my hands. A crack opened around its belly. I stopped when I felt the handle begin to pull.
+
+“Less at the top,” Thrum said.
+
+I let the pressure ease.
+
+The separate pieces settled against my palms. I lowered them into the dish. Their edges were sharp again, and all the clay I had dragged into the handle was back where it belonged.
+
+I laid the missing fragment beside them.
+
+Varras handed me the two pieces I had started with.
+
+I fitted them together. Outside, they made a clean brown line. Inside, the edge still rose.
+
+“You're leaning on that corner,” Thrum said.
+
+He put one claw beside my fingertip, without touching me.
+
+“Here.”
+
+I moved my finger. The inner edge settled.
+
+For the first time the pieces seemed to fit all the way through.
+
+“Now?” I asked.
+
+“Hold it a little longer.”
+
+My hands began to tremble. I could feel the join move each time I breathed.
+
+Thrum climbed onto my lap.
+
+“Oh, don't—”
+
+“Rest your elbows.”
+
+His back was broad and warm. I lowered my arms onto it. He made a small adjustment beneath me, then shut his eyes.
+
+The pieces steadied.
+
+Varras looked down at the fragment in his own hand. He put his fingertips against its inside surface and stopped holding it at arm's length.
+
+I thought of the cup before Thrum knocked it down. I had held it between both hands, feeling the ridge inside where its maker had pressed the wall too quickly.
+
+I found that little ridge under my finger now.
+
+I gave the join a small amount of power.
+
+Something took.
+
+The pressure changed. I was still supporting both pieces, but they no longer tried to fall apart.
+
+“Stop,” Thrum said.
+
+I stopped.
+
+Slowly I took one hand away.
+
+The two pieces remained joined.
+
+The ridge was there. The scratch was there. I could see exactly where the crack had been, but my nail no longer caught in it.
+
+I turned the joined piece over. It had an ugly shape by itself, two ragged crescents with most of the cup missing. It was the best thing I had ever made.
+
+Varras held out his fragment.
+
+“May I try that edge?”
+
+I looked at Thrum.
+
+“It's her cup,” he said.
+
+“It's your fault,” I told him.
+
+“Yes.”
+
+I put the joined pieces down between us.
+
+***
+
+We worked until the light had moved off the table.
+
+The cup was not finished. Varras had joined a piece of its base, and I had put one side of the handle back together. We had also spent a long time finding a grain of mortar that had blown onto the table and got between two edges.
+
+Thrum could feel it with his whiskers. It took us rather longer.
+
+At some point I took off my boots. The basket remained on the chair, holding Varras's coat.
+
+“Why me?” I asked the cat.
+
+He was inspecting my last join.
+
+“You called.”
+
+“Lots of people call.”
+
+“Yes.”
+
+“Why did you answer?”
+
+He touched the brown glaze with his nose.
+
+“The examination. You saw what happened to the jug.”
+
+I remembered the examiner's white cuffs and the thumbmark beneath my jug's handle, with blue glaze pooled in its grooves. He had broken the jug to demonstrate the pattern, mended it without the mark, then broken it again for my turn.
+
+My repair had been good enough to pass. Instead of handing it over, I took it apart again, trying to recover the mark. The handle broke in my hand after the bell.
+
+“You were there?”
+
+“On the windowsill.”
+
+“There was a little brown cat.”
+
+“Yes.”
+
+I looked at his enormous white feet on my knee.
+
+“I failed.”
+
+“You noticed.”
+
+“I still failed.”
+
+“You didn't know what to do with what you'd noticed. Then you tried harder.”
+
+Varras made a soft sound of recognition. Thrum glanced at him.
+
+“I thought I might be useful,” the cat said.
+
+I rubbed a clay-colored mark off my thumb.
+
+“Could you have fixed the jug?”
+
+“Before you lost half the handle down the floor crack, certainly.”
+
+I began to laugh. I did not particularly want to, but his whiskers moved against my wrist and I could not help it.
+
+“I looked for that piece until they locked the room.”
+
+“I know.”
+
+“Could I learn the arch?”
+
+“You could learn an arch. Find one you like looking at.”
+
+Varras put the green stone back around his neck.
+
+“Master,” he said, “about apprentices.”
+
+“Come tomorrow. Bring your bowl.”
+
+The sorcerer bowed from his chair.
+
+When he had gone, I put the joined pieces carefully into their dish. I wrote down what I had done: not a spell, exactly, but which edge had lifted and where I had put my fingers.
+
+Thrum stood on the next page.
+
+“I need that.”
+
+He moved one foot.
+
+I wrote around it.
+
+By supper he was asleep in the return basket, with his chin on the folded red blanket. I fed him from the chipped blue saucer.
+
+Later, when I put out the lamp, he got onto my bed.
+
+“Beside me,” I told him.
+
+He settled against my shoulder. I could feel his warm weight through the blanket. After a while I reached over and touched the small hollow behind his ear, which I had never noticed properly before.
+
+He purred.
+
+Then, very slowly, he began to climb toward my face.
+

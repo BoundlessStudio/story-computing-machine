@@ -13,3 +13,7 @@ No audience, length, or intensity was specified. General is the shared starting 
 ## User direction after the first draft
 
 i do not like the current direction; rethink the cat, the reason it pick this person, why one of the most powerful magic users of the time is a cat, what lessons do they teach before and after the turn and how?
+
+## User approval of the revised outline
+
+ok lets write up the story around this new outline.
