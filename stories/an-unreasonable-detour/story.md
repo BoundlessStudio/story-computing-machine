@@ -300,7 +300,7 @@ Osnet could put weight on his foot the next morning, but not much. They cut him 
 
 Nobody was very agreeable. Ket had slept badly. Haddie's neck hurt. Osnet snapped when Haddie asked for the third time whether he wanted to stop, then apologized with such ceremony that it became another argument.
 
-At midday Sereya sat on a stone and found that she did not want to get up.
+At midday Sereya sat on a stone and found that she did not want to get up. Her heels were burning again.
 
 “We can stay a little longer,” Haddie said.
 
@@ -368,7 +368,7 @@ Sereya stared at them. Thirty crowns was the balance of their fee. Haddie had me
 
 “You would lose that?” she asked.
 
-“Possibly. Don't decide on account of it.” Haddie rubbed her eyebrow. “We'd teach you. You'd have a share of what we make. There are long stretches when we don't make anything.”
+“Possibly. And I doubt your mother will recommend us for another royal job. Don't decide on account of it.” Haddie rubbed her eyebrow. “We'd teach you. You'd have a share of what we make. There are long stretches when we don't make anything.”
 
 “And I can't fight.”
 
@@ -378,7 +378,7 @@ Sereya stared at them. Thirty crowns was the balance of their fee. Haddie had me
 
 “Fortunately,” Osnet said.
 
-Ket kicked his uninjured boot.
+Ket kicked Osnet's uninjured boot.
 
 Sereya sat down on the grass. It was dry and warm. Below her, people were moving along the road toward the city with bundles, baskets, a cart of chairs. In three days she would be married there.
 
@@ -474,7 +474,7 @@ There was nothing else she could mend by remaining. She thanked him for seeing h
 
 ---
 
-The party had moved into the shade of the milestone. Ket was drawing Osnet, who was refusing to sit as he was told. Haddie stood when she saw Sereya.
+Ket was drawing Osnet, who was refusing to sit as he was told. Haddie stood when she saw Sereya.
 
 “Will you have me?” Sereya asked.
 
