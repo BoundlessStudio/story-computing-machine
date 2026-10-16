@@ -17,3 +17,10 @@ i do not like the current direction; rethink the cat, the reason it pick this pe
 ## User approval of the revised outline
 
 ok lets write up the story around this new outline.
+
+## User correction to the story's scale
+
+why do bunch of stories dissolve to simple household tasks... 
+this is 2 best mages of the time; it should be something more grand...
+
+i feels like the writers not understanding the goal of the [WP]
