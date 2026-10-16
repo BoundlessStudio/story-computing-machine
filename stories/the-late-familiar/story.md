@@ -130,7 +130,9 @@ He climbed out of the basket.
 
 “Wait,” I said.
 
-There was a knock at the door.
+For the next half hour he got out whenever I put him in. At last I was reduced to holding the basket level with the table and trying to tempt him with his blanket.
+
+Somebody knocked.
 
 ***
 
@@ -166,7 +168,7 @@ Thrum sat down on my receipt.
 
 “You heard the call,” he said.
 
-“I never took the other one off my desk.” Varras's voice had become rather rough. “I thought perhaps—well. It has been three years.”
+“The paired bowl on my desk rang this morning.” Varras's voice had become rather rough. “I never put it away. I thought perhaps—well. It has been three years.”
 
 “I know.”
 
@@ -213,6 +215,8 @@ I looked at Varras. He was examining Thrum's white paws.
 “You're alive now,” I said.
 
 “Ninth life.”
+
+I put my hand against his side and felt the slow movement of his breathing.
 
 “Not restoration,” Varras said quietly. “He has to begin again. He was brown before. Very small.”
 
@@ -413,8 +417,6 @@ A small brown fragment still lay beside my elbow.
 It was the piece from under the cupboard.
 
 I picked it up. The cup in front of me had a complete handle.
-
-The little green stone could have shown me the thinning. I did not need it. I could see a bright patch through the clay and a faint line where I had stretched the glaze.
 
 Thrum touched the unused fragment.
 
