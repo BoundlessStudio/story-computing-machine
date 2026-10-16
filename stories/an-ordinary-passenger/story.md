@@ -336,7 +336,7 @@ Emi shut her bag. She could not think of a useful thing to say to him about that
 
 “Correct it,” she said.
 
-He picked up his phone and, in front of her, called his assistant. He said that Emi had been working in the building all week, that her service had ended the previous Friday, and that the confusion was his responsibility. He asked for the announcement to go out that evening. He did not look at her while he made the call.
+He picked up his phone and, in front of her, called his assistant. He said that Emi had been working in the building all week, that her service had ended the previous Friday, and that he had withheld the letter telling her so. He asked for the correction to go out that evening. He did not look at her while he made the call.
 
 When he finished, she picked up the two boxes.
 
@@ -424,7 +424,7 @@ Emi had carried the little packet in her purse for nearly a year.
 
 They agreed on where to meet. After the call she put the purse on top of her bag, where she would see it in the morning.
 
-An email arrived from Matsuoka’s office. The announcement was attached. Beneath it he had written that he had repaid the ticket and told Asano what had happened. There was no question at the end.
+An email arrived from Matsuoka’s office. The correction was attached. Beneath it he had written that he had repaid the ticket and told Asano what had happened. There was no question at the end.
 
 She read it twice and closed it.
 
