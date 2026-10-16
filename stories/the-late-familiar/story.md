@@ -78,7 +78,7 @@ The actual cat remained on the sill.
 
 “Me.”
 
-He jumped down. I looked at my empty hands, then at the basket. I had failed an entrance examination at nineteen because I could not stop trying to improve a piece of work that was already good enough. Perhaps an animal capable of answering a question would have helped.
+He jumped down. I looked at my empty hands, then at the basket. At nineteen I had failed the college examination over a jug, with a brown stray watching from the examiner's sill. The examiner had passed my copy, but then I noticed that it lacked the maker's thumbmark beneath the original's handle; I tried to put it in and broke the handle off. Perhaps an animal capable of answering a question would have helped.
 
 The cat stopped in the middle of the floor.
 
@@ -565,19 +565,17 @@ The wheel of birds broke free.
 
 Their wings struck together like hammered shields. They poured through the slit in a torrent of white, dragging a long stream of daylight behind them.
 
-The red sun rolled out of its hollow.
-
-For a moment I saw a black tree burning inside it, every leaf a separate flame. Then its light spread so widely that I could no longer see its shape.
+The road beneath us caught in their wake and swung sideways toward a deep crease in the dark.
 
 The devourer screamed.
 
-The sound went through my bones. The roads twisted upward. I fell onto my hands, and my shadow nearly tore away from my wrists.
+The sound went through my bones. I fell onto my hands, and my shadow nearly tore away from my wrists.
 
 Thrum turned back.
 
 “Here.”
 
-He stood at the edge of a crease so deep that no light reached its bottom.
+He stood at the edge of the crease. No light reached its bottom.
 
 “I have to go down.”
 
@@ -587,7 +585,7 @@ He stood at the edge of a crease so deep that no light reached its bottom.
 
 I looked into the crease. Along its walls were thousands of pale curves. Jaws, I realized. The creature had folded its first wound around everything it swallowed.
 
-“I knew it before that opened,” Thrum said. “I can close it. But the things inside must come out first.”
+“I knew it before that opened,” Thrum said. “I can close it. But the things inside must come out first. Then Varras must bind the seam to the Hart. My binding died with me.”
 
 His whiskers were shining.
 
@@ -648,7 +646,7 @@ A star burst.
 
 Varras pulled his right hand free of the chain.
 
-For an instant I thought he had lost it. Then he reached into the wound in the Hart's crown and closed his fist around the escaping light. He dragged it into a new point of the antler, white fire running between his fingers.
+I thought he had lost it. Then he reached into the wound in the Hart's crown and closed his fist around the escaping light. He dragged it into a new point of the antler, white fire running between his fingers.
 
 The constellation lifted its head.
 
@@ -690,7 +688,7 @@ For a moment I was holding nothing, and I had never been so frightened.
 
 Below me, the white outline vanished.
 
-The other cats began to climb.
+The other cats watched from their ledges.
 
 I stepped backward. The ledge cracked beneath my heel.
 
@@ -830,8 +828,6 @@ Then Thrum let go of the blue edge.
 
 It snapped upward, spread, and became the morning sky.
 
-***
-
 We were outside.
 
 The road ran beneath us into open air. Far below were the town, the college tower, and the narrow window of my room.
@@ -868,15 +864,11 @@ Varras passed me going the other way.
 
 The chain followed him, all its burning animals running toward the place where his hands were joined. He wrapped it round the devourer once, twice, then put both fists against the red seam.
 
-The creature opened its mouth.
-
-I saw the first dark fold gathering inside it.
-
 Varras drove his arms apart.
 
 The chain sank into the closing edges.
 
-For a moment the seam shone through his body. I could see the lines of his ribs, his heart beating among them, and beyond him the living stars of the Hart.
+The seam shone through his body. I could see the lines of his ribs, his heart beating among them, and beyond him the living stars of the Hart.
 
 He spoke a word that made every hair on my arms stand up.
 
