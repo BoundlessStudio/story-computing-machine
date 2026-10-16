@@ -688,9 +688,9 @@ For a moment I was holding nothing, and I had never been so frightened.
 
 Below me, the white outline vanished.
 
-The other cats watched from their ledges.
+The other cats watched.
 
-I stepped backward. The ledge cracked beneath my heel.
+The ledge cracked beneath me.
 
 A narrow path ran along the outside of the fold. I took it, keeping my forearms curved around the open return. Wind came up through the break and pulled at my hair. The blue ends struck my lips.
 
@@ -798,7 +798,7 @@ The blue edge ran between his teeth and out through his whiskers. Each whisker h
 
 I could feel the road buckling under his paws.
 
-He was not making the things that escaped. They came out as themselves, moving toward the openings he was restoring. Birds found their own winds. The bell-towered city turned until its foundations lay beneath it again. A long golden animal leaped from roof to roof as the whole city passed above us.
+He was not making the things that escaped. They came out as themselves, moving toward the openings he was restoring. Birds found their own winds. The bell-towered city turned until its foundations lay beneath it again, then passed above us.
 
 Thrum's head shook.
 
@@ -862,9 +862,9 @@ I stepped onto it.
 
 Varras passed me going the other way.
 
-The chain followed him, all its burning animals running toward the place where his hands were joined. He wrapped it round the devourer once, twice, then put both fists against the red seam.
+The chain followed him, all its burning animals running toward the place where his hands were joined. He wrapped it round the devourer once, twice, then caught both turns in his fists.
 
-Varras drove his arms apart.
+Varras braced one foot against its belly and hauled the chain tight.
 
 The chain sank into the closing edges.
 
