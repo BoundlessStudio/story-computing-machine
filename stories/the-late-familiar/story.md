@@ -498,7 +498,11 @@ He looked as though he might object to the order of that. Instead he climbed int
 
 ***
 
-On Friday afternoon, Veyr came through the theatre door with a little of the cold still about him and no antlers. He had brought no escort. Cressa was behind the curtain, having her crown pinned to her hair, and I went to tell her he was there.
+On Friday afternoon, Veyr came through the theatre door with a little of the cold still about him and no antlers. He had brought no escort.
+
+"After yesterday," he said, "I thought I might try the first half as well."
+
+Cressa was behind the curtain, having her crown pinned to her hair, and I went to tell her he was there. She put her head round the curtain. Her crown tipped; she caught it, smiling toward the back of the room.
 
 When I looked back, he was on the last bench. He had his programme open across both palms. He read it very carefully while Jory lit the lamps.
 
@@ -513,6 +517,16 @@ Thoss reached out and put one paw over my wrist.
 I put the moth down.
 
 From the stage came the first lines, followed by a burst of laughter. Veyr's voice was somewhere in it. I couldn't pick it out.
+
+After the interval, I stood in the left wing with the moth on my palm. Across the stage, Jory held out his hand.
+
+I lifted mine on the cue.
+
+The moth cleared Thoss's basket. His chin came up, but his paws stayed tucked inside. At the middle of the stage, where it always fell, it dipped. I kept Jory's waiting hand in mind.
+
+It climbed again. Cressa stepped into the light, and the little white thing passed above her crown, across the mended forest, and into the opposite wing. It came to rest in Jory's palm with one painted wing still raised.
+
+My fingers went on making the flying motion after it had landed.
 
 After the performance, we packed by lamplight. We were to set out that night.
 
