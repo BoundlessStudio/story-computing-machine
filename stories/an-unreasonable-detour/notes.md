@@ -1,0 +1,3 @@
+# Editorial notes
+
+2026-10-16: The initial writer–coordinator conversation located the prompt's pleasure in a paid escort becoming people who want the princess's company. The writer proposed a princess accustomed to being an agreeable guest, ordinary mutual inconvenience, and a night in an abandoned observatory listening to an unfinished story. The coordinator asked for preferences shown in action rather than neat self-diagnosis, belonging without a competence audition, and a decent bridegroom whose disappointment remains real. The ending should give her a choice with doubt and consequences. No supplied reference images or shared characters are involved. The provisional outline remains open to discovery in prose.
