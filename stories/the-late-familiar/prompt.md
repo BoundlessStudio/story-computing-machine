@@ -9,3 +9,7 @@
 ## Audience and content
 
 No audience, length, or intensity was specified. General is the shared starting target; the completed prose and cover will receive a reviewed rating in `ratings.md`.
+
+## User direction after the first draft
+
+i do not like the current direction; rethink the cat, the reason it pick this person, why one of the most powerful magic users of the time is a cat, what lessons do they teach before and after the turn and how?

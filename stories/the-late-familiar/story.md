@@ -282,7 +282,7 @@ Thoss's ears lifted. "You should have asked."
 
 The cat rose on his stool.
 
-"Look at me, then. I'll lend you both my eyes."
+"Look at me, both of you. I'll lend you my eyes."
 
 His green eyes widened, and suddenly I was seeing from two places.
 
