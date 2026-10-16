@@ -122,7 +122,7 @@ It had also put Emi in photographs for twenty-four years.
 
 When she went to Nagasaki to find a flat, the estate agent had asked if she would mind holding the keys for a picture. He had never let a property to a human before. She had agreed, then regretted it when he asked her to take off her coat so the human would be easier to see.
 
-It was Emi who had proposed opening her office to applicants of any construction. The bill took eight months; everyone she met afterward congratulated her as though she had abolished hunger. Asano would be the first robot in her chair. She had spent eleven years arguing disability appeals and had interviewed for the job from a chassis that could not climb the ministry’s front steps. Emi had liked her immediately.
+It was Emi who had proposed opening her office to applicants of any construction. The bill took eight months; everyone she met afterward congratulated her as though she had abolished hunger. Asano would be the first robot in her chair. Asano had spent eleven years arguing disability appeals and had interviewed for the job from a chassis that could not climb the ministry’s front steps. Emi had liked her immediately.
 
 Her last hearing had finished in August. She had been off the normal circulation lists for a month, writing handover notes in her packed room.
 
