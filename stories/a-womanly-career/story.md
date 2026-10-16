@@ -316,7 +316,7 @@ Father's mouth moved. She couldn't tell what he was going to say.
 
 “I should hope not. You cut my whole second verse.”
 
-She laughed, suddenly and painfully, and had to sit on the hall chair. Father took the box into the drawing room. He left the goose on the table between them.
+She laughed, suddenly and painfully, and had to sit on the hall chair. Father took the box and the goose into the drawing room.
 
 “Perhaps,” Mother said, “you've found out what you needed to find out.”
 
@@ -354,7 +354,7 @@ Mother looked away first.
 
 “I thought it was the bookshop.”
 
-“The bakery costs less. I've done it again with what Grandmother said. I need to keep more back.”
+“The bakery costs less. I did the sums again after what Grandmother said. I need to keep more back.”
 
 Father appeared in the doorway.
 
@@ -364,7 +364,7 @@ Father appeared in the doorway.
 
 “Everything you own.”
 
-He retreated before she could answer. A moment later he returned for the goose.
+He retreated before she could answer. A moment later he returned with the goose.
 
 “I'll make a second one with cloth at the joint,” he said. “For handling. This one can stay on the stage.”
 
