@@ -52,7 +52,7 @@ Someone knocked.
 
 The door opened, and the room grew very cold.
 
-The figure on the threshold was too tall for it. Black antlers scraped the ceiling. His face had the depth of an unlit well, and something moved at the bottom. I knew I was upstairs, but for a moment I felt a great height beneath me, as though the floorboards were a narrow ledge.
+The figure on the threshold was too tall for it. Black antlers loomed against the ceiling. His face had the depth of an unlit well, and something moved at the bottom. I knew I was upstairs, but for a moment I felt a great height beneath me, as though the floorboards were a narrow ledge.
 
 I had seen that face on medals commemorating the end of the northern wars. On the medals it had looked less terrible. Possibly the engravers had wanted to finish their work and go home.
 
@@ -282,7 +282,7 @@ Thoss's ears lifted. "You should have asked."
 
 The cat rose on his stool.
 
-"Look at me, then."
+"Look at me, then. I'll lend you both my eyes."
 
 His green eyes widened, and suddenly I was seeing from two places.
 
@@ -388,7 +388,7 @@ He looked at me.
 
 His fingers moved.
 
-"Let me show you," Thoss said.
+"Let me show you," Thoss said to Veyr.
 
 The extra sight opened again. This time it was only a man leaning over a bench in a shabby theatre. In the corner of that view was my own brown face, intent and wary, the blue ends of my hair caught in my collar. Nothing in me was shrinking from him.
 
@@ -444,7 +444,7 @@ He considered it with the seriousness he had given the moth.
 
 I looked at the forest. I still had to finish repairing the tear.
 
-"Nine. We pack at ten."
+"Nine. The actors need the stage at ten."
 
 "Nine," he said.
 
@@ -496,6 +496,14 @@ I set the needle down.
 
 He looked as though he might object to the order of that. Instead he climbed into the hollow of the forest, carefully avoiding the torn edge, and waited.
 
+When the last stitch was in, I set the moth rising from my palm. The paper wing buckled, and I felt the familiar ache behind my eyes.
+
+"You're lifting it by the wings," Thoss said. "That one's paper. Hold it here."
+
+He touched the wooden body with his nose. I tried lifting from there, leaving the wings free to beat. The moth steadied. The ache eased.
+
+"Again," he said.
+
 ***
 
 On Friday afternoon, Veyr came through the theatre door with a little of the cold still about him and no antlers. He had brought no escort.
@@ -508,7 +516,7 @@ When I looked back, he was on the last bench. He had his programme open across b
 
 Thoss watched from the basket in the wings.
 
-Our moth had twelve breaths of flying in it now. It was enough to cross the stage during the scene change, a little white thing passing before my forest while the queen entered. I had never had an effect in a performance before. I checked the mended wing, then checked it again.
+Our moth had twelve breaths of flying in it now. I had never had an effect in a performance before. I checked the mended wing, then checked it again.
 
 Thoss reached out and put one paw over my wrist.
 
