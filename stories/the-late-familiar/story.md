@@ -102,7 +102,7 @@ Somewhere far away, something answered.
 
 ***
 
-I was still fastening the second one when a line of fire opened down the middle of my door.
+I was still working a knot out of the second bootlace when a line of fire opened down the middle of my door.
 
 The wood divided without burning. Through the narrow gap I saw a mountain under stars, then a green sea, then a man standing on a black stair. He stepped into my room. The door closed behind him.
 
@@ -383,7 +383,7 @@ Thrum moved faster.
 
 “What was it before?”
 
-“A thing under roots. I hunted it in my fourth life. It found a tear in the night and swallowed its way through.”
+“A thing under roots. I hunted it in my fourth life. In my eighth it found a tear in the night and swallowed its way through.”
 
 “You stopped it?”
 
@@ -581,7 +581,7 @@ He stood at the edge of the crease. No light reached its bottom.
 
 “Then I'll—”
 
-“No. Hold this side.”
+“No. Keep the return outside the jaws. Don't follow me in.”
 
 I looked into the crease. Along its walls were thousands of pale curves. Jaws, I realized. The creature had folded its first wound around everything it swallowed.
 
@@ -692,7 +692,7 @@ The other cats watched.
 
 The ledge cracked beneath me.
 
-A narrow path ran along the outside of the fold. I took it, keeping my forearms curved around the open return. Wind came up through the break and pulled at my hair. The blue ends struck my lips.
+A narrow path ran along the outer rim of the fold. I took it, keeping my forearms curved around the open return. Wind came up through the break and pulled at my hair. The blue ends struck my lips.
 
 “Thrum.”
 
@@ -704,15 +704,13 @@ I did not call again.
 
 The path ahead rose into a smooth white floor. At its far end my room stood open once more. I could see my bed, the blanket, the safe, familiar basket.
 
-I put one boot on the white surface.
+I kept my weight on the black edge and tested the white surface with the toe of one boot.
 
 There was no resistance.
 
-My foot went through.
+I drew my foot back.
 
-I threw myself sideways onto the narrow black edge. My shoulder struck hard enough to numb my arm. The return flickered.
-
-For a moment I felt the true weight.
+A weight tugged at the opening across my arms.
 
 Not settled in my hands. Far away, dragging downward.
 
@@ -722,7 +720,7 @@ The black edge led out over the center of the fold. Beneath it I could see the p
 
 Thrum was still casting.
 
-I lowered both arms into the open dark.
+I held my arms out over the closing jaws.
 
 The answering weight struck my wrists and slipped.
 
@@ -738,7 +736,7 @@ The edge beneath me broke.
 
 I fell.
 
-The shadow stayed open across my arms. There was no floor below it, only the turning jaws and the long white wound.
+The shadow stayed open across my arms. The jaws rushed up beneath my boots.
 
 Something drove its forehead against my wrist.
 
@@ -752,7 +750,7 @@ He twisted, planted a hind foot against my belly, and settled the whole of his w
 
 Here.
 
-I let the return shut.
+The white jaws were still below my boots when I let the return shut.
 
 “Got you,” I said, though I could scarcely hear myself.
 
