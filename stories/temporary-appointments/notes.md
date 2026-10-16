@@ -1,0 +1,3 @@
+# Editorial memory
+
+2026-10-16. New story; canon remains false. The writer proposed a former trade-union organizer who helps a robot friend into office when nobody else will stand, then eventually runs against that friend in a country that has become robotic by ordinary increments. The live attachment is friendship under a real electoral disagreement, with neither human needs nor robot independence dismissed. The coordinator asked for a concrete stake beyond holding a seat and a plausible lifetime for the accumulating temporary choices. No supplied reference images. General is the starting audience target, pending the finished work.
