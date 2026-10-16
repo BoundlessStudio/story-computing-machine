@@ -24,3 +24,9 @@ why do bunch of stories dissolve to simple household tasks...
 this is 2 best mages of the time; it should be something more grand...
 
 i feels like the writers not understanding the goal of the [WP]
+
+## User approval of the grand magical direction
+
+ok; lets try this.
+
+The approved direction makes the recognition open a dangerous magical apprenticeship. Something is consuming the sky; the sorcerer binds it while the cat attempts a colossal restoration inside it. The novice's learned precision and intimate knowledge of her familiar's current body become essential to the adventure. Both masters must exercise formidable magic on page. Her ending opens an extraordinary magical life; household instruction cannot replace that promise.
