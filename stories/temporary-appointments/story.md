@@ -58,9 +58,13 @@ He had been opening things all week.
 
 By seven, we had twenty-six people in the court, counting Folio and me. Only five needed cake. Mrs. Kett had made enough for forty because that was the size of her tin.
 
+We were part of a loose alliance of candidates in other districts. We had pooled money for an architect and promised not to vote for the conversions without night protection.
+
 I spoke about the noise bill. The government called it the Independent Homes Act. Former offices and factory rooms throughout the central district would become legal homes with permission for work at any hour. The temporary permits under which robots had occupied them for years would become proper tenancies. The night restrictions protecting the old residential wings, including ours, would go.
 
 The government offered us acoustic glazing and ventilation, or a grant to move. It had put a smiling human woman beside both choices in its brochure. I disliked her more than anyone actually responsible.
+
+Last month, the council had granted the shop across the court a one-night exemption to finish an export order. A test chime sounded every few minutes until dawn. I shut the balcony door, then stuffed my cardigan along its sill. Each time I was nearly asleep it chimed again. At four I stopped trying and sat on the edge of the bed. My eyes burned all through breakfast.
 
 I said that we had worked all our lives, that our husbands and wives had worked, that our children had been born in these rooms. I said a country ought to look after its own.
 
@@ -110,7 +114,7 @@ Span met us outside. He was short, broad, and silver, with pink pads on his fing
 
 “I like the quiet proposal,” he said. “I've read it.”
 
-We had a proposal by then. We had paid an architect. If the government kept buffer rooms between workshops and homes, and retained night limits in the residential courts, it could create eight hundred and ten homes instead of eleven hundred and sixty.
+We had a proposal by then. The alliance's architect had worked out that keeping buffer rooms between workshops and homes, and retaining night limits in the residential courts, would leave space for a little over eight hundred homes instead of nearly twelve hundred.
 
 “You'd still get a tenancy,” I told him.
 
@@ -202,11 +206,11 @@ I ran my finger along the blue line. Our balcony would stay open. The new rooms 
 
 “You could offer the same protection to the permit holders.”
 
-“I'd lose three hundred and fifty.”
+“I'd lose more than three hundred.”
 
 He let go of the paper. It curled against my cup.
 
-I thought of Span's cupboard. I also thought of Bracket at the count, having to shake my hand. I had rehearsed being gracious about it. I had rehearsed it rather often.
+I thought of Span's cupboard. The bargain would get him a room sooner than our scheme would. I wanted him to have the quiet too. I also thought of Bracket at the count, having to shake my hand. I had rehearsed being gracious about it. I had rehearsed it rather often.
 
 “No,” I said.
 
