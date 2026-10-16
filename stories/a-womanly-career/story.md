@@ -4,9 +4,9 @@ created: 2026-10-16
 canon: false
 ---
 
-“Good lord, you're a lady from a highborn family! Why can't you choose a womanly career, like firing a .90-calibre sniper rifle like your mother, or being a tank gunner and radio operator like your grandmother?”
+“Good lord,” Father said. “You're a lady from a highborn family! Why can't you choose a womanly career, like firing a .90-calibre sniper rifle like your mother, or being a tank gunner and radio operator like your grandmother?”
 
-Father had been cutting a pear into six identical boats. At the word *nursery*, he had stopped with the knife in the air.
+He had been cutting a pear into six identical boats. At the word *nursery*, he had stopped with the knife in the air.
 
 Cressida took the plate from beneath it.
 
@@ -120,7 +120,7 @@ He considered this disappointing explanation, then pointed to her theatre.
 
 “What's in there?”
 
-She showed him the goose. He made its wing move once, then again very slowly, watching the little joint. Cressida crouched beside him. Here was the thing she had wanted to return to after every afternoon she had volunteered: a question that could swallow the whole of someone's face. He had forgotten her coat, her name, the fact that she was a woman. There was a wing. How did it work?
+She showed him the goose. He made its wing move once, then again very slowly, watching the little joint. Cressida crouched beside him. There was a wing. How did it work? On her afternoons as a volunteer, she had often stayed beyond her promised hour, watching a child work out a hinge or a buttonhole.
 
 A father at the doorway interrupted them.
 
@@ -320,7 +320,7 @@ She laughed, suddenly and painfully, and had to sit on the hall chair. Father to
 
 “Perhaps,” Mother said, “you've found out what you needed to find out.”
 
-Cressida rubbed a spot of dried paint on her wrist. Beneath it was the little crescent scar where a hot case had once caught her. She could hear the mess women laughing over the college match, welcoming her to a story in which they knew her part.
+Cressida rubbed a spot of dried paint on her wrist. Beneath it was the little crescent scar where a hot case had once caught her. She could hear the mess women laughing over the college match.
 
 “Yes,” she said. “I think I have.”
 
@@ -394,6 +394,8 @@ Cressida waited.
 
 ***
 
+Cressida had rung Mr. Brindle after dinner, accepted the place, and arranged to start the next morning.
+
 The following afternoon, Cressida came out carrying a sheet of paper. The dog now had seventeen feet and an upstairs.
 
 The nursery gate was crowded with fathers. They stood in twos and threes, exchanging things from little bags and stooping to greet children.
@@ -407,4 +409,3 @@ Then she saw Cressida.
 She raised a hand. The man raised both cardigans, thinking she had decided, and Mother had to turn back and explain.
 
 Cressida waited for her at the gate.
-
