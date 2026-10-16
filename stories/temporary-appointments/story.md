@@ -130,7 +130,7 @@ I began explaining the second phase of our plan. We could convert other building
 
 “How long?” he asked.
 
-I gave him our estimate. He listened to all of it. Then he said he had been on the list for six years.
+I told him two years, perhaps three if the approvals took longer. He said he had been on the list for six years.
 
 “Come back when I've got a door,” he said. “I'll be a much better person to ask about the noise.”
 
@@ -204,7 +204,7 @@ I ran my finger along the blue line. Our balcony would stay open. The new rooms 
 
 “You could offer the same protection to the permit holders.”
 
-“I'd lose more than three hundred.”
+“That's your quiet scheme again. I'd lose more than three hundred homes in all.”
 
 He let go of the paper. It curled against my cup.
 
