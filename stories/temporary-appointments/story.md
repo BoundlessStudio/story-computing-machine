@@ -58,8 +58,6 @@ He had been opening things all week.
 
 By seven, we had twenty-six people in the court, counting Folio and me. Only five needed cake. Mrs. Kett had made enough for forty because that was the size of her tin.
 
-We were part of a loose alliance of candidates in other districts. We had pooled money for an architect and promised not to vote for the conversions without night protection.
-
 I spoke about the noise bill. The government called it the Independent Homes Act. Former offices and factory rooms throughout the central district would become legal homes with permission for work at any hour. The temporary permits under which robots had occupied them for years would become proper tenancies. The night restrictions protecting the old residential wings, including ours, would go.
 
 The government offered us acoustic glazing and ventilation, or a grant to move. It had put a smiling human woman beside both choices in its brochure. I disliked her more than anyone actually responsible.
@@ -114,7 +112,7 @@ Span met us outside. He was short, broad, and silver, with pink pads on his fing
 
 “I like the quiet proposal,” he said. “I've read it.”
 
-We had a proposal by then. The alliance's architect had worked out that keeping buffer rooms between workshops and homes, and retaining night limits in the residential courts, would leave space for a little over eight hundred homes instead of nearly twelve hundred.
+We had a proposal by then. Candidates in other districts had joined us in a coalition; we shared an architect and a promise not to vote for the conversions without night protection. The architect had worked out that keeping buffer rooms between workshops and homes, and retaining night limits in the residential courts, would leave space for a little over eight hundred homes instead of nearly twelve hundred.
 
 “You'd still get a tenancy,” I told him.
 
