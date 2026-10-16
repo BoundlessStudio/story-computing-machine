@@ -110,7 +110,7 @@ Her grandmother had complained about a replacement doctor, then changed clinics 
 
 There had been arguments. Strikes. A court case about a care worker who wanted to leave a household. Another about who owned the money she had earned. By Emi’s childhood those cases were in schoolbooks, and the teacher telling her about them was a robot who hated being interrupted by the lunch bell.
 
-People stopped saying *replacement* at different times. Emi’s grandmother never quite stopped. Emi had stopped when her robot classmate beat her in the prefectural spelling contest and refused to let her forget it.
+People stopped saying *replacement* at different times. Emi’s grandmother never quite stopped. Emi had stopped when her robot classmate beat her in the prefectural kanji-reading contest and refused to let her forget it.
 
 The human population had kept falling, although the number of residents rose. The machines built to fill vacancies had wanted different work, or children, or a place with a cheaper rent. A factory opened. A district grew. A district needed a representative. In one election the robot candidates were a novelty; in another they were tiresome incumbents. No one had held a referendum on the eventual result.
 
@@ -122,7 +122,9 @@ It had also put Emi in photographs for twenty-four years.
 
 When she went to Nagasaki to find a flat, the estate agent had asked if she would mind holding the keys for a picture. He had never let a property to a human before. She had agreed, then regretted it when he asked her to take off her coat so the human would be easier to see.
 
-It was Emi who had proposed opening her office to applicants of any construction. The bill took eight months; everyone she met afterward congratulated her as though she had abolished hunger. Asano, the successful candidate, had spent eleven years arguing disability appeals and had interviewed for the job from a chassis that could not climb the ministry’s front steps. Emi had liked her immediately.
+It was Emi who had proposed opening her office to applicants of any construction. The bill took eight months; everyone she met afterward congratulated her as though she had abolished hunger. Asano would be the first robot in her chair. She had spent eleven years arguing disability appeals and had interviewed for the job from a chassis that could not climb the ministry’s front steps. Emi had liked her immediately.
+
+Her last hearing had finished in August. She had been off the normal circulation lists for a month, writing handover notes in her packed room.
 
 The handover was what remained. Matsuoka had said Asano’s appointment was awaiting confirmation. Then a review had been needed. Then a department had objected to the review. Matsuoka was always clear about what to do next and less clear about whose department it was.
 
@@ -242,9 +244,11 @@ Matsuoka laid it beside her ticket.
 
 She looked at the clock. Four thirty-two. If she left now, if the taxi lane was clear, if she did not have to wait at security with the boxes, she could make the train. Her suitcase was in the building’s cloakroom. The movers had already sent everything else west.
 
-She stood and put on her coat.
+She stood, put on her coat, and picked up her bag.
 
 Matsuoka stepped away from the door. He had the sense to do that.
+
+She put the bag down again.
 
 “Why?” she said.
 
@@ -266,7 +270,7 @@ He turned his head toward the window. The lenses did not hide anything, but it w
 
 “I did.”
 
-“I know the difference now.”
+“When you bought the flat, I realized you meant to go.”
 
 “That isn’t an answer.”
 
@@ -292,7 +296,7 @@ He said nothing.
 
 Through the open door she could see a strip of afternoon light on the corridor carpet. Downstairs they would be setting out the barriers for the evening press conference. Someone would ask about the agricultural vote, which she knew nothing about. Matsuoka would answer.
 
-She had spent years telling Fumiko that the country needed her for another month. Sometimes it had needed the work. Sometimes she had liked coming into this room, where people knew what she was for. She would have to tell her sister that herself. Matsuoka had known she was finally trying to leave it.
+She had spent years telling Fumiko that the country needed her for another month. Sometimes it had needed the work. Sometimes she had liked coming into this room, where people knew what she was for. She owed her sister an admission of that. Matsuoka had known what it cost her to leave this room.
 
 “You had it on Friday,” she said. “And you watched me come in on Monday.”
 
