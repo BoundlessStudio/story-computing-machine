@@ -318,7 +318,19 @@ She laughed so hard she had to stop walking, which annoyed Osnet until Ket took 
 
 That evening they reached an inn. Sereya asked for a mattress before anyone could make a suggestion. They gave Osnet the room nearest the stairs and left his door open while they ate in the passage outside it. He complained that they were missing the good room downstairs. Then he told Sereya she had never explained where the goose kept the slipper.
 
-She said she would think about it.
+She said she would think about it. Ket turned the drawing over and sketched a cliff, with a building wedged halfway up it.
+
+“Is that somewhere real?” she asked.
+
+“North of here. A monastery. We've been asked to find the old way in.”
+
+“How do you get up there?”
+
+“That's what they'd pay us to find out.”
+
+She leaned closer. “I'd like to see it.”
+
+Ket added a tiny door, considered it, then rubbed it out.
 
 It was late when she put out her candle. In the next room, Ket and Haddie were quarreling over whose turn it was to sleep by the window. Sereya could hear every word. She lay smiling at the ceiling, then began to cry without quite knowing why.
 
@@ -344,13 +356,13 @@ Haddie unfastened her cloak. Fastened it again. Sereya waited.
 
 “After here. With the company. Adventuring.”
 
-Osnet looked at Ket. Ket looked at his boots. She had thought they were going to ask for a testimonial.
+Osnet looked at Ket. Ket looked at his boots. Sereya had thought they were going to ask for a testimonial.
 
 “We talked last night,” Haddie said. “And this morning. We weren't certain we ought to put it to you.”
 
 “We were certain,” Osnet said. “You weren't.”
 
-“You aren't the one who has to ask about the thirty crowns.”
+“Because I've been doing the sums without the other thirty crowns.”
 
 Sereya stared at them. Thirty crowns was the balance of their fee. Haddie had mentioned it once, when Ket wanted to buy a second-hand crossbow from a peddler.
 
@@ -370,11 +382,9 @@ Ket kicked his uninjured boot.
 
 Sereya sat down on the grass. It was dry and warm. Below her, people were moving along the road toward the city with bundles, baskets, a cart of chairs. In three days she would be married there.
 
-She had wanted to ask about their next journey since the inn. She had waited for an opportunity that would not sound like an attempt to delay this one.
+“Would we go north?” she asked.
 
-“Where would we go?”
-
-“North,” Ket said at once. “There's a monastery built into a cliff. We've been asked to find the old way in.”
+“To the monastery,” Ket said at once.
 
 “We haven't taken it yet,” Haddie said.
 
@@ -382,7 +392,7 @@ She had wanted to ask about their next journey since the inn. She had waited for
 
 Haddie glanced at Osnet's foot. “When he's fit.”
 
-Sereya picked a seed out of the grass and rolled it between her fingers. She could ask Bellan for more time. She could marry him and tell herself she would travel afterward. She tried to picture promising herself to him with this question still open, and could not get as far as speaking the words.
+Sereya picked a seed out of the grass and rolled it between her fingers. She could ask Bellan for more time. In her mind he was beneath the pear tree, waiting for her to come home. She tried to choose a month to promise him. With every date, she found herself wondering where the others would go afterward, and how much she would miss.
 
 “I have to see him,” she said.
 
@@ -450,7 +460,7 @@ She looked at the empty beds. There was room for all the seeds she had brought. 
 
 She wanted, fiercely, to say yes and leave him something. But then he would be waiting, and she would be carrying that wait with her, and she could not tell him when it would end.
 
-“I can't ask you to wait for me.”
+“I can't promise I'd come back to marry you.”
 
 He nodded once, without looking at her.
 
