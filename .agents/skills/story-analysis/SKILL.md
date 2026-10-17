@@ -16,6 +16,8 @@ metadata:
 
 Systematically evaluate completed short stories or novel chapters to identify strengths, weaknesses, and improvement opportunities. Use after drafting to assess whether the piece achieves its narrative goals.
 
+For work in this repository, start from the complete user request, including later directions, before adopting the draft's apparent goals. Distinguish explicit requirements from inferred pleasures. Ask whether the distinctive premise drives events, revelations change possibilities, and the ending delivers the promised experience; literal inclusion of details is insufficient. Resolve material promise mismatches at the structural level before polishing. The checks below are diagnostic aids, not reasons to shrink a requested adventure or impose a particular plot shape. Follow `story-create` for independent readings and discussion; this skill adds no review stage or report.
+
 ## Quick Reference
 
 | Mode | Use For | Key Focus |
@@ -367,7 +369,7 @@ Systematically evaluate completed short stories or novel chapters to identify st
 ### 4. The Comparison Trap
 **Pattern:** Evaluating against published bestsellers or classics. "This isn't as good as [famous work]."
 **Why it fails:** Drafts aren't finished works. Different stories serve different purposes. Unfair comparison discourages rather than guides.
-**Fix:** Evaluate against the story's own goals. What is this trying to do? Does it succeed at that?
+**Fix:** Evaluate against the experience promised by the user's request and the story's choices within it. What should this deliver? Does the text achieve it?
 
 ### 5. The Fix-Everything Dump
 **Pattern:** Delivering a comprehensive list of all issues without prioritization or encouragement.

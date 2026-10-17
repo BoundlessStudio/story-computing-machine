@@ -15,6 +15,8 @@ metadata:
 
 Identify what state a story is in and what it needs to move forward. This is not a linear process but a diagnostic model: Assess → Diagnose → Intervene → Reassess.
 
+In this repository, compare the story with the complete user request, including later directions, before diagnosing a craft problem. Separate explicit requirements from interpretations. A missing promised experience may require changes to premise or scenes; better dialogue, mechanics, or symbolism cannot substitute for it. Familiar tropes are not defects by themselves, and restraint must not suppress requested adventure, conflict, spectacle, or grandeur. Use `story-create` for the production workflow; these diagnostics add no review stage or mandatory report.
+
 ## When to Use This Skill
 
 Use this skill when:
