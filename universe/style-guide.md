@@ -25,17 +25,19 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
 
 - Status: CANON
 - First established: user decision, 2026-08-08
-- Find the generating force in the prompt before choosing a plot shape. A story may move through desire, relationship, attention, discovery, loss, recurrence, or refusal to change. It need not invent an antagonist, a speech, a public crisis, or a moral victory to feel complete.
+- Identify the experience the complete user request promises before choosing a plot shape: its distinctive pleasure, tone, scale, central relationship, and anticipated payoff. Include later user directions and distinguish explicit requirements from interpretations. Revisit that promise before drafting and during revision; merely including the prompt's details is insufficient.
+- A story may move through desire, relationship, attention, discovery, loss, recurrence, or refusal to change. It need not invent an antagonist, a speech, a public crisis, or a moral victory to feel complete. Equally, do not suppress adventure, conflict, spectacle, or grandeur when they serve the request. Choose scale from the prompt rather than a preference for restraint.
+- Familiar tropes can deliver satisfying, specific results. Ask whether a solution earns the requested pleasure and consequences, rather than treating familiarity or an “obvious” route as a defect by itself.
 - Give the focal character an attachment, curiosity, appetite, duty, or contradiction a reader can feel. Let theme emerge from pressure, action, image, and consequence; do not routinely explain a point again after it lands.
-- Make speculative elements lived and consequential, with limits the reader can understand and at least one practical or cultural effect beyond the central theme. Avoid lore display for its own sake. Do not patch contradictions with an unsupported dream, prophecy, timeline, or hidden mechanism.
+- Make speculative elements lived and consequential, with limits the reader can understand and at least one practical or cultural effect beyond the central theme. The premise's distinctive elements should drive events; revelations should change possibilities or choices. When grandeur is promised, powerful characters should exercise consequential power. A brief spectacle followed by an unrelated modest resolution may still miss the promise. Avoid lore display for its own sake. Do not patch contradictions with an unsupported dream, prophecy, timeline, or hidden mechanism.
 - Let people speak from different knowledge, social permission, needs, and responses to pressure. A reply must follow what its listener could reasonably understand. Ordinary directness, humor, silence, misunderstanding, and non-spoken contact all belong when the scene earns them; resist a default cast of uniformly articulate professionals.
-- Let the ending grow from this story's opening and movements. It may close with choice, consequence, revelation, release, return, interruption, or a purposeful stopping point. Watch for repeated endings that explain the theme, convert a crowd, or substitute a tidy work ritual for emotional contact.
+- Let the ending grow from this story's opening and movements and deliver its promised experience. It may close with choice, consequence, revelation, release, return, interruption, or a purposeful stopping point. Resolve a material premise mismatch at the structural level before polishing; better dialogue, clearer mechanics, or household-task symbolism cannot replace the missing experience. Watch for repeated endings that explain the theme, convert a crowd, or substitute a tidy work ritual for emotional contact.
 
 ## Collection variation
 
 - Status: CANON
 - First established: user decision, 2026-09-07
-- Across the collection, notice when different prompts keep producing the same character transformation, dialogue pattern, architecture, or emotional destination. Use that observation to widen choices, not to impose novelty quotas or force a darker outcome. Read other stories only when comparison will help this one.
+- Across the collection, notice when different prompts keep producing the same character transformation, dialogue pattern, architecture, or emotional destination. Especially flag extraordinary premises repeatedly reduced to humble work, therapeutic conversations, or maintenance, and ask whether that default displaced the particular prompt's pleasure, scale, or payoff. These choices remain available when they fit the request. Use the observation to widen choices, not to impose novelty quotas, force spectacle or a darker outcome, or reject familiar tropes that work. Read other stories only when comparison will help this one.
 
 ## Names and continuity
 
@@ -72,9 +74,11 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
   - General: suitable for all ages. Teen: material may be unsuitable for readers
     under 13. Mature: adult themes or stronger violence without the detail of
     Explicit. Explicit: detailed sexual activity, graphic violence, or similarly
-    explicit adult content. These labels describe intensity, not literary
-    quality, target readership, or permission to cross a content boundary. An
-    accurate rating of existing prose does not reopen its finished story.
+    explicit adult content. These labels describe content intensity, not narrative
+    ambition, scale, literary quality, target readership, or permission to cross
+    a content boundary. General can include adventure, conflict, spectacle, and
+    grandeur within its intensity limits. An accurate rating of existing prose
+    does not reopen its finished story.
   - Keep content notes separate from the overall rating. Describe what is on
     the page, such as strong language, non-graphic combat, graphic injury,
     self-harm, or bereavement. A theme, identity, or relationship alone does not
