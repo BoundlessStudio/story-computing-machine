@@ -50,7 +50,7 @@ The others struck, sang, spat, leaped. Their shadows sank through the polish.
 
 The table drew the Wren out of her blossoms and the Salmon out of his rivers. Each found itself bound at a place around the edge. The part of its shadow held inside the stone became a black root, running inward toward the center. It could stretch, but it could not be pulled free.
 
-The table had grown broad enough for all twelve. Its surface held the reflection of the whole country.
+The table had grown broad enough for all twelve. The border thorn scraped along its new edge. Its surface held the reflection of the whole country.
 
 “Everything,” it said. “As promised.”
 
@@ -86,9 +86,9 @@ The empty skin lay on the table.
 
 The Serpent rose new and bright. Her root rose with her, still fixed in the stone.
 
-The table laughed until pebbles fell from the hills outside.
+The table laughed until pebbles fell from distant hills.
 
-It let the empty skin blow from its edge. The people found it stretched across three fields and built their first shrine beneath its glittering scales.
+It let the empty skin blow from its edge, spreading it wider and wider over the fields. The people found it stretched across three of them and built their first shrine beneath its glittering scales.
 
 The moon waxed and waned over the warm country. Seeds woke in the earth. The shed skin whitened where people touched it for good fortune.
 
@@ -120,7 +120,7 @@ The Fox stretched toward the earth. His root drew tight. The table pulled him ba
 
 For three dawns he could not stand. On the fourth he crawled beneath the overhanging edge.
 
-There he found a crack in the underside, cold and dry. The table had grown around a piece of older stone without bringing it to life. Its dark surface could reflect what happened above, but no warmth entered that blind place beneath it.
+There he found a crack in the underside, cold and dry. A seam in the old stone curved beneath the rim toward the Cat's place; here it widened enough for him to curl up inside. The table had grown around that stone without bringing it to life. Its dark surface could reflect what happened above, but no warmth entered that blind place beneath it.
 
 The Fox pushed himself inside. He tucked his tail over his injured legs.
 
@@ -210,7 +210,7 @@ The Wren's breast moved fast.
 
 “Not while it is listening.”
 
-At the end of her moon, the Stag's first new tine scraped the stone beside his place.
+At the end of her moon, the Stag's new antlers scraped the stone beside his place.
 
 The Bear followed the flowers with fruit.
 
@@ -320,7 +320,7 @@ Wind stripped the trees. It tore the last fruit down and drove it against walls.
 
 The Hawk flew over the rim and down beneath the slab. Her root stretched behind her, and the table pulled. She flew farther along the underside, while the whole country bent beneath her wind.
 
-She saw the seam, and where it narrowed into old, dead stone.
+She saw the seam in the dead stone, and where it ran up toward the Cat's root.
 
 The Fox looked out from his refuge.
 
@@ -354,7 +354,7 @@ Across the country, people cut branches to burn. They had learned that a season 
 
 The table pressed the Stag's root and watched winter spread through its reflection.
 
-His new antlers had grown through eleven moons of confinement. He had turned his head a little each day to keep them from the stone. Now their branches lay back along his shoulders, pale and crowded, twelve long tines ending in points his captor had not yet felt.
+His antlers had regrown during confinement. He had turned his head a little each day to keep them from the stone. Now their branches lay back along his shoulders, pale and crowded, ending in points his captor had not yet felt.
 
 The moon grew round and thinned. Each dawn the Stag gave the country his cold. Each night he brought his crown a little farther into the fissure the Wolf was holding open. Through the thread they could all feel where the table's weight lay, and the thin place beneath the ridge that pressed his root.
 
@@ -378,11 +378,13 @@ The Serpent put her warmth into the same grain from the other side. A sharp repo
 
 A shard bit into the Boar's root. He cried out; his foreleg began to thin.
 
-He drove his tusks beneath the breaking stone to keep it from cutting through. The Stag thrust his crown beside them. Together they caught the falling edge before it crushed the exposed shadows.
+With his own root stretched tight, the Fox crossed from the Cat's place to the fissure. He eased his shoulder beneath the exposed black curve and lifted it clear of the shard. The Boar's foreleg grew solid again; through the thread the Fox felt the foot meet stone.
+
+The Boar drove his tusks beneath the breaking edge. The Stag thrust his crown beside them. Together they caught it before it crushed the exposed shadows.
 
 The table bore down.
 
-The Stag's hind feet slid. The Frog wedged herself behind them, her wet feet spread against the stone. The Serpent held the roots clear of the broken edge while the others pushed their power inward. Through the taut thread the Fox felt their weight settle across the Stag's neck.
+The Stag's hind feet slid. The Frog wedged herself behind them, her wet feet spread against the stone. The Serpent held the other roots clear of the broken edge while the others pushed their power inward. Through the taut thread the Fox felt their weight settle across the Stag's neck.
 
 The ridge lifted from his root.
 
@@ -410,7 +412,7 @@ The Cat's nights had returned.
 
 People recognized them. In the country that had once been twelve countries, they counted back through the changing moons. They named each for the creature whose work they had seen, and called the completed round a year.
 
-The table had not moved from the meeting of the borders. Yet twelve reigns had passed around it and come back to the first. The prisoners had forced the end of one torment and made a circle of the passing time.
+The table had not moved from the meeting of the borders. Yet twelve reigns had passed around it and come back to the first.
 
 People marked twelve places around the rims of their bowls. They called the twelve reigns months, and the thing that held them the Wheel of Ages.
 
@@ -426,13 +428,15 @@ She felt its pulse through the thread. She felt the Wren begin to count the beat
 
 The Cat took the darkness from the sky and laid it across the polished stone.
 
+The ridge pressed harder, trying to drive the night out again. Beneath the cover of her darkness, the Wren's note made the pale vein falter. Sleep entered the stone; the current pulled backward. The pressure slackened, and the Cat kept her darkness on the table.
+
 Dawn reached the hills.
 
 The Wheel clamped her root. The Fox felt her bones bend. It held her while, outside, people opened their doors and saw the light. Then it eased its grip just enough to keep her alive.
 
 The lamps went out, one by one. Children were lifted to windows. In the orchards, the fruit killed in the Bear's moon lay frozen beneath the trees, and beyond them smoke rose straight from a thousand roofs.
 
-The Cat did not cry out. She could feel all eleven others waiting for her through the stone.
+The Cat did not cry out. She could feel all eleven bearing the pressure with her through the stone.
 
 At dusk her root tightened.
 
