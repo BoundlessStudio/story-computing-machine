@@ -250,6 +250,16 @@ The Wheel's eye was bright above her.
 
 She stood until her moon was done.
 
+From her hollow the Cat said, “One at a time.”
+
+The Wheel turned its eye toward her.
+
+“You will take one of us at a time,” she said. “And when the moon is gone, you will turn.”
+
+“Will I?” said the Wheel.
+
+It looked back at the Bear, who could still smell the frozen pears.
+
 The Salmon came to rivers filmed with the frost that should never have been there. Beneath it, the fish of the country were gathering to return. Their bodies shone red and silver in the dark water. They struck the ice from below.
 
 The Wheel forced the Salmon's root toward the opening. Water rose about his cell. He faced it, as he had always faced the current, and drove upstream.
@@ -366,7 +376,11 @@ The moon grew round and thinned. Each dawn the Stag stood at the opening and gav
 
 On the last day, when only a sliver of moon remained, the Wheel felt a tine touch its buried flesh.
 
-“Lower your head,” it told him.
+The next dawn came without a moon. The Cat waited to be pulled forward. Instead the Wheel tightened its hold on the Stag, driving cold deeper into the country. Frost stopped the smoke in chimneys. People brought their last wood in from the stacks.
+
+“My moon is done,” the Stag said.
+
+“This one pleases me. Lower your head,” it told him.
 
 He lowered it.
 
@@ -393,6 +407,8 @@ Its lower rim dragged across the hills. People fell in their houses. Snow slid f
 The Salmon ceased his struggle. The Bear let a little sleep leave her. The Stag shifted his crown. Together the prisoners made their captor turn.
 
 It moved one hollow's breadth and stopped.
+
+The Stag's root fell slack. For the first time in a moon he could lift his head without sending cold into the country. He was still inside the walls.
 
 The Cat's opening faced the country.
 
