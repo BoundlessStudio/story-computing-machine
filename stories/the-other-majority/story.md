@@ -290,7 +290,11 @@ Her lawyers had sent her a proposed case. The country had voted under published 
 
 “I could challenge every ballot in that second column,” she said.
 
-“You could.”
+“You could. I would fight the case.”
+
+“Because those are your votes.”
+
+“Yes.”
 
 She had spent an hour reading the lawyers' messages. If she won, there would be surgeons and a clean octave, her left hand opening when she asked it to. The photographs could carry her case a long way. She would have to explain why only one column mattered.
 
@@ -326,7 +330,25 @@ Maret appeared on a portable terminal. The director asked whether she could unde
 
 The director had been speaking to Ordel. She turned the document towards the camera instead.
 
-That was where the agreement began.
+“The archive can't recall a patient by order,” she said. “Waking allocations will be ours to make. You need to understand that too, Ms. Orris.”
+
+“I wasn't asking for—”
+
+“You've brought me your wife. What happens when I tell you we cannot wake her?”
+
+Isabet had imagined evenings. Maret telling her about the plays, with enough time left to argue about them.
+
+“The transfer test,” she said. “The broadcast.”
+
+“We can agree those sessions, if she consents. After that, no extra time because she's married to you. You can book calls like anyone else.”
+
+Maret was reading the document. Isabet watched her reach the relevant paragraph.
+
+“I want that kept in,” Maret said.
+
+Isabet looked back at the director.
+
+“Keep it in.”
 
 By the fourth day three hospitals had signed. They would accept consenting continued citizens into recovery vaults under ordinary patient protections, with independent clinicians responsible for access. They could run only a few at a time. Everyone else would have to wait in suspension. The courts might decide the directors had exceeded their authority. Ministers might try to take custody back.
 
@@ -370,8 +392,6 @@ On the fifth day Isabet carried the sealed unit to the north hospital in the lea
 
 An ambulance took them. Outside the hall a few of her supporters were still waiting. One held a sign that said LET HER LIVE. Isabet lowered her head before the woman could see her.
 
-She had promised Maret she would not open the case during the journey, and then had been forced to explain that she had been joking. Neither of them was good at jokes that day.
-
 At the hospital a clinician read the seals aloud and matched them to the transfer order. Isabet watched him fit the unit into a recovery dock. He called the archive technician. They checked the state record and its accompanying room files together. He asked Isabet to sit down.
 
 She remained standing.
@@ -400,7 +420,7 @@ There were ordinary trees outside, crowded against the afternoon sky. A bird lan
 
 He let her look.
 
-Later, when Isabet was alone with her, Maret asked to see the hospital's consent form again.
+Later, with a few minutes of the agreed test remaining, Isabet was alone with her. Maret asked to see the hospital's consent form again.
 
 “Is something wrong?”
 
@@ -538,7 +558,7 @@ She disliked that. She waited until they sat down.
 
 The rerun had taken an emergency court order and an agreement signed by both candidates. For this award, every registered citizen had been permitted to vote, with observers examining the continued roll and the hospital patients voting from their temporary vaults. What would happen at the next award remained before parliament. Outside it, opposing crowds carried photographs of the same people.
 
-Ordel had won by a smaller margin. Isabet had sent him the unspoiled cherries.
+Ordel had won by a smaller margin. Isabet had sent him a basket of cherries, with no card.
 
 He sat in the front row tonight. The treatment had taken years off his face. She tried not to look at him.
 
