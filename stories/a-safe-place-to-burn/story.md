@@ -106,7 +106,7 @@ None of us heard them. There was no air outside.
 
 “It's opening farther when I try.”
 
-Her license was in a frame over our bed. I'd read the limits printed along the bottom, most recently while looking for a moth. A hundred was the full width of the channel a body could safely hold. The brooch kept it narrow. The brooch did not make the magic.
+Her license was in a frame over our bed. I'd read the limits printed along the bottom, most recently while looking for a moth. A hundred was the full width of the channel a body could safely hold. The brooch limited her to a small fraction of that. The brooch did not make the magic.
 
 “Put it into something,” Kivik said. “All of it. The rock, the ship, anything.”
 
@@ -350,12 +350,12 @@ I kept the channel open. On the camera there was only a mountain range and the b
 
 I waited for light on the near side, for some terrible sign she hadn't made it. The plain stayed dark.
 
-Then, beyond the far limb, a white plume rose.
+Then, beyond the far limb, a plume of dust rose, lit white from below.
 
 It climbed slowly at first. The crater's rim held the base of it out of sight. Its top spread above the mountains, brighter and brighter, until the cabin windows dimmed themselves and I could see my own face reflected over it.
 
 The moon stood between us and the fire.
 
-Behind me, harnesses creaked as people turned to look. Six. I was the seventh. I counted them again.
+Behind me, harnesses creaked as people turned to look. I counted them again.
 
 I left the radio open as the rescue tender came alongside. Sella undid my straps. Someone put a warm hand around mine, and I held it so tightly that they had to ask me to loosen my fingers.
