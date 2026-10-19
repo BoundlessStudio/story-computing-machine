@@ -1,0 +1,5 @@
+# Editorial notes
+
+2026-10-19. Promise keeper's independent request reading, before plot or editorial framing: “His beginner status, concealment, and their obliviousness should shape events rather than appear only as descriptive details.” It inferred dramatic irony in “His conspicuous goth appearance beside a genuinely hidden pursuit” and anticipated witchcraft and concealment producing the ending together. Those comic and supernatural expectations are inferences; tone, scale, actual magic, and whether obliviousness lasts through the ending are unspecified. It identified the central relationship as the teenager and parents, whose obliviousness need not imply stupidity, cruelty, or lack of affection. No supplied originals.
+
+Coordinator: the complete request controls this story. The outline remains provisional. This is new non-canon work in the attached worktree; no existing package is being edited. Claude authentication was checked with inherited ANTHROPIC_API_KEY removed: claude.ai, active Max subscription. New independent outline, draft, and final sessions will be isolated under this worktree's tmp/.
