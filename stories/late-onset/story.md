@@ -258,29 +258,21 @@ He moved down the cabin, giving people something solid to catch and guiding them
 
 I wanted to tell them I knew what I was doing. Instead I checked that my palm was still against the rail.
 
-The wind pushed us north.
+The wind pushed us toward the grandstand.
 
 At first I noticed only that the grandstand's windows were growing larger. Then the roof began to fill the view.
 
-"We're going toward it," I said.
-
-Joss looked out. "Yes. South. Toward the field."
-
-I chose south, and the grandstand slowed its approach.
-
-"Keep it."
-
-A gust caught the side of the cabin. The whole view swung, and for a moment I could not tell south from the direction of my own feet. My mouth filled with the sour taste of the practice lane.
+"The field," I said. "We need to get over the field."
 
 "White flagpole," Joss said. "Pull toward that."
 
-I found it. The pole stood at the far edge of the field, leaning in the wind.
+I found it at the far edge of the grass, leaning in the wind. I chose that way, and the grandstand slowed its approach.
 
-"Now none."
+A gust caught the side of the cabin. The whole view swung, and my mouth filled with the sour taste of the practice lane. I kept the flagpole in sight and pulled until Joss said, "Now none."
 
-The car drifted away from the grandstand. Below us, people in orange jackets were shutting the arena gates. An empty litter of white programmes skittered across the grass. There was room to land. There was an enormous amount of room, if I could stop thinking about the places we must not go.
+The car drifted away from the grandstand. Below us, people in orange jackets were shutting the arena gates. There was room to land. There was an enormous amount of room, if I could stop thinking about the places we must not go.
 
-"North now," Joss said.
+"Back toward the stand now," Joss said.
 
 "We're not over the middle."
 
@@ -288,13 +280,13 @@ The car drifted away from the grandstand. Below us, people in orange jackets wer
 
 I remembered the trolley and its reproachful passenger embedded in the mat.
 
-North.
+I pulled back. The far side of the field kept coming, but more slowly, until Joss told me to stop.
 
-The far side of the field kept coming. I held the pull. It came more slowly. Joss watched the ground, one hand braced beside mine.
+Another gust sent the painted centre circle sliding sideways beneath us. I pulled against it while the circle was still under the car. It slid a little farther, then stopped.
 
-"None. Little west. None."
+"Still level," Joss said, looking through the open door. "Twenty metres."
 
-The wind did not pause to let us be clever. Each time we settled, another gust began to carry us away. I gave the car short pulls against it, watching the flagpole, then the painted centre circle below. My forearms ached from clenching the rail. The strap would have held my right hand in place if I relaxed. I could not persuade either hand of this.
+The wind did not pause to let us be clever. I kept correcting against the circle while he watched our height. My forearms ached from clenching the rail. The strap would have held my right hand in place if I relaxed. I could not persuade either hand of this.
 
 Heat ran up my chest and into my face. Of all the possible times. Sweat slipped down behind my glasses. I could not make myself let go to wipe it.
 
@@ -308,7 +300,7 @@ The field was still beneath us.
 
 I wanted earth to be down again, wanted it with an intensity that frightened me. I let it pull for a moment, then sent us up to brake. We sank in a series of ugly little stages. Each time I thought we were almost there, Joss called another correction. He was looking through the open door now, calling our distance from the grass.
 
-"Two metres. Hold. South, just a touch. Good."
+"Two metres. Hold. Toward the pole, just a touch. Good."
 
 The man in the suit had recovered his briefcase. He hugged it against his chest. The boy's mother had her eyes shut.
 
@@ -362,7 +354,7 @@ I chose myself, and up.
 
 The ground loosened its hold. At the height of Joss's shoulder I let the pull go, then corrected while there was still time, and came gently to a stop.
 
-I chose up again, and he came with me. Neither of us spoke until the grandstand lay below our feet.
+Joss lifted his own feet off the grass. I chose up again, and we rose side by side. Neither of us spoke until the grandstand lay below our feet.
 
 Through the notch in the ridge, the first sunlight reached the far slopes. There were whole folds of country beyond them that my map had flattened into a page.
 
