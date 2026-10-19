@@ -16,7 +16,7 @@ Their borders were bitter places. Rain trespassed on ripe fruit. Frost stopped a
 
 At the meeting of their twelve borders grew a stone table.
 
-Its round top stood level on four square legs. It had no tool marks. A pale vein crept across its surface as the twelve watched, dividing and joining again beneath the polish. The stone was alive, and warm even on the side that lay in shadow.
+Its round top stood level on a single massive central leg. It had no tool marks. A pale vein crept across its surface as the twelve watched, dividing and joining again beneath the polish. The stone was alive, and warm even on the side that lay in shadow.
 
 “Who owns this place?” it asked.
 
@@ -42,7 +42,7 @@ The Fox watched the pale vein.
 
 It was growing over the shadows.
 
-He sprang, but the stone caught him by the dark shape of his hind feet. The table widened beneath the twelve, lifting them from the ground. Four legs thickened and drove deep into the meeting of the borders.
+He sprang, but the stone caught him by the dark shape of his hind feet. The table widened beneath the twelve, lifting them from the ground. Its central leg thickened and drove deep into the meeting of the borders.
 
 The Stag thrust his antlers beneath the rising edge. For a moment it could not move. Then the stone bore down. The sound carried into every country, and the Stag fell without his crown.
 
@@ -156,7 +156,7 @@ The Boar lay with his snout against the crack.
 
 No one answered him.
 
-The rain began when the Frog's turn came. It struck dust from the leaves and filled the Boar's furrows. For days people stood in doorways, listening to water that no longer stopped at a border. Wells rose. The spring beneath the table's northern leg ran again, though the Salmon did not come out of it.
+The rain began when the Frog's turn came. It struck dust from the leaves and filled the Boar's furrows. For days people stood in doorways, listening to water that no longer stopped at a border. Wells rose. The spring on the north side of the pedestal ran again, though the Salmon did not come out of it.
 
 Rain gathered in the Boar's crack. The Frog put her head into it and listened.
 
@@ -332,7 +332,7 @@ Above them, the Spider waited with the loose end between her feet.
 
 The Fox shook his head once.
 
-The Hawk's root jerked. She struck a leg of the table, caught herself, and flew back beneath the edge. Roofs lifted outside. Somewhere above, the Wolf's teeth scraped against the stone.
+The Hawk's root jerked her inward. She struck the pedestal, caught herself, and flew back beneath the edge. Roofs lifted outside. Somewhere above, the Wolf's teeth scraped against the stone.
 
 The Fox came out.
 
