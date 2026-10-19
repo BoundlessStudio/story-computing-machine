@@ -106,7 +106,7 @@ None of us heard them. There was no air outside.
 
 “It's opening farther when I try.”
 
-Her license was in a frame over our bed. I'd read the limits printed along the bottom, most recently while looking for a moth. Ten percent for routine work. Twenty for sustained heavy casting. A hundred was the full width of the channel a body could safely hold. The brooch kept it narrow. The brooch did not make the magic.
+Her license was in a frame over our bed. I'd read the limits printed along the bottom, most recently while looking for a moth. A hundred was the full width of the channel a body could safely hold. The brooch kept it narrow. The brooch did not make the magic.
 
 “Put it into something,” Kivik said. “All of it. The rock, the ship, anything.”
 
@@ -134,9 +134,9 @@ Hedra's face disappeared behind the wing for a moment. When she came back into v
 
 I had kept my voice level through the count and the broken hull and the failed shutdown. I lost it then.
 
-“What is that number?”
+“What's it going to do to you?”
 
-Hedra swallowed. Her hands were still at her throat.
+Hedra swallowed. Her hands were still at her throat. She looked away from the camera.
 
 “Magical girls normally only use small amounts of their magic. 10, 20%. I'm at 195% and rising. Once I get you and the crew to safety, I'm going to find a safe place to burn up. Good bye. I love you so much.”
 
@@ -198,7 +198,7 @@ Kivik put his hands back on the controls. Sella tightened the last harness and d
 
 I fired the bolts.
 
-The deck jumped. Our nose cabin broke free of the rest of the *Kitewake*. For a moment it hung beside us: the bunks, the galley, the tiny room I shared with Hedra. A yellow ribbon slipped through the broken decks and unwound. The wreck fell away.
+The deck jumped. Our nose cabin broke free. For a moment the rest of the *Kitewake* hung beside us: the bunks, the galley, the tiny room I shared with Hedra. A yellow ribbon slipped through the broken decks and unwound. The wreck fell away.
 
 The cabin tilted, and the moon filled the window.
 
