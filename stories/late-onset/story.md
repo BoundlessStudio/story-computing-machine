@@ -284,7 +284,7 @@ I pulled back. The far side of the field kept coming, but more slowly, until Jos
 
 Another gust sent the painted centre circle sliding sideways beneath us. I pulled against it while the circle was still under the car. It slid a little farther, then stopped.
 
-"Still level," Joss said, looking through the open door. "Twenty metres."
+"Holding height," Joss said, looking through the open door. "Twenty metres."
 
 The wind did not pause to let us be clever. I kept correcting against the circle while he watched our height. My forearms ached from clenching the rail. The strap would have held my right hand in place if I relaxed. I could not persuade either hand of this.
 
