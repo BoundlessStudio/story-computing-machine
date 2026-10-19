@@ -8,7 +8,7 @@ The first thing I did was look for my crutches.
 
 The second was recognize the bed.
 
-White branches held up its canopy, still alive, with tiny leaves furled along the wood. Beyond the open windows, the towers of the Briar Court stood among trees that had been old when the moon was young. I knew the window on the left would stick if you tried to close it. I knew there was a crack in the green glass pitcher beside the bed.
+White branches held up its canopy, still alive, with tiny leaves furled along the wood. Beyond the open windows, the towers of the Briar Court stood among trees that had been old when the moon was young. I knew the window on the left would stick if you tried to close it. I remembered the crack in the green glass pitcher beside the bed.
 
 I had never felt the weight of its blankets before.
 
@@ -150,7 +150,7 @@ He opened his eyes.
 
 “I want to see them.”
 
-“You have seen them a hundred times.”
+“You have described them to me a hundred times.”
 
 “I’ve imagined them a hundred times. That’s different.”
 
@@ -172,7 +172,7 @@ He looked down at my crutches.
 
 ***
 
-The moon-hind bent her knees until the saddle was level with the mounting bench.
+The moon-hind was broad-backed and taller than a horse. She bent her knees until the saddle was level with the mounting bench.
 
 I had written that she was as white as snow. In person she was white with a brown patch above one hoof and a strong conviction that the last apple belonged to her.
 
@@ -184,7 +184,7 @@ I had written that she was as white as snow. In person she was white with a brow
 
 I gave her the apple.
 
-He had shaped a high-backed saddle from living willow, with deep cushions and a broad strap. He listened while I told him where I needed the support, then changed it twice. When I was settled, he fastened my crutches beside my knee, where I could reach them, and swung up behind me.
+He had shaped a saddle from living willow, with deep cushions and a broad strap. He listened while I told him where I needed the support, then changed it twice. When I was settled, he fastened my crutches beside my knee, where I could reach them, and swung up behind me.
 
 “Too close?”
 
@@ -208,7 +208,7 @@ Beyond it lay a path barely wide enough for two people to walk abreast. Its ston
 
 The arch stirred. A branch reached toward the hind’s bridle, then curled back on itself. White flowers closed all along its length.
 
-“It won’t admit her,” Rhaedren said.
+“It won’t admit the hind,” Rhaedren said.
 
 I looked up at the living arch.
 
@@ -220,7 +220,7 @@ At sixteen, I had thought they were beautiful.
 
 “Is there another way?” I asked.
 
-“The ring brings every road to this gate. The ways above the leaves as well.”
+“The ring brings every road to this gate. Fly over the trees, and you find yourself here again.”
 
 Of course it did. I had been very thorough about keeping unworthy lovers out of my grove.
 
@@ -320,7 +320,7 @@ His boots slid in the earth.
 
 “You kept what I asked you to keep,” he said to the wood. “Now release it.”
 
-Something snapped high above us. A great thorned limb swung down, and he caught it with his free hand. For an instant he stood holding the whole arch apart, his coat streaming in a wind I could not feel.
+Something snapped high above us. A great thorned limb swung down, and he caught it with his free hand. For an instant he stood holding the whole arch apart. A closed blossom slid down his torn sleeve and dropped between his boots.
 
 The hind backed a step. I kept my voice low and my hands steady. Beyond Rhaedren, the narrow path was coming apart: roots unthreaded themselves from the stones, lifting in long, straining curves. Trunks leaned away from one another. The dark roof split.
 
@@ -388,7 +388,7 @@ His other arm tightened around me.
 
 “You are remarkably good at that.”
 
-“Nine years of practice.”
+“Seven years of practice.”
 
 He lowered his face into my hair.
 
