@@ -22,6 +22,8 @@ Orson had bought the book from a box marked HOME AND GARDEN. Its previous owner 
 
 He had admired the book for a week. At sixteen, he already knew how long he could admire something before his mother offered to laminate it.
 
+He'd met his closest friends at an all-ages goth night, under a speaker that made his boots hum with bass. They sent one another songs long after midnight and never asked who he was dressed as.
+
 His parents liked the goth thing. They liked it so much that his father had made a family-chat album called Our Little Prince of Darkness. It contained Orson in his secondhand velvet coat, Orson learning eyeliner, and Orson standing beside a cake whose black icing had turned everybody's teeth green. His mother had once asked whether he wanted to bring a friend to the cemetery, then suggested making it a picnic.
 
 They meant well. That was the difficulty.
