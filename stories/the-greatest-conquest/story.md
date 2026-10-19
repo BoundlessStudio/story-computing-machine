@@ -244,7 +244,7 @@ At the tavern she untied her mare. The south road lay clear, descending between 
 
 Through the open door she saw Cadrel rolling up a map. Veyr was checking the latch of the west window. Neither looked towards her.
 
-She could find a buyer tomorrow.
+If she stopped the seizure, she could still sell tomorrow.
 
 She had been given a horse once before, for a journey someone else had arranged. A good horse. A wedding gift. She had left it in the stable.
 
@@ -322,7 +322,7 @@ Cadrel's staff tapped once against the floor.
 
 “Then you had better give your signal clearly.”
 
-Outside, the first bell began to ring.
+Outside, a soldier on the road began ringing a bell.
 
 Igrith went out through the kitchen, shedding her coat as she walked. The duke caught it. A moment later the chickens in the yard began making a terrible noise.
 
@@ -342,9 +342,9 @@ A soldier shouted. Beyond the wall, ranks broke apart as pale hands closed aroun
 
 Othred wheeled his horse. “Loose!”
 
-“Not yet,” Harka said.
+Veyr shifted beside the fence, ready to move. Harka caught his sleeve.
 
-Veyr crouched beside the fence. She held up her hand against him.
+“Wait. Let them see Igrith first.”
 
 The first bolt struck the tavern's corner post. Chips stung her cheek. The Black Company woman swore and pulled the antler-shadowed man down.
 
@@ -368,9 +368,9 @@ Othred's horse reared. The marshal fought it down, still calling orders, while h
 
 Cadrel turned her wrist. The dead came over the wall.
 
-They caught reins. They pressed shields against breastplates. They lowered the living carefully to the road, and held them there. A swordsman hacked through a bony arm; another hand caught his wrist. The bell went silent.
+They caught reins. They pressed shields against breastplates. They lowered the living carefully to the road, and held them there. A swordsman hacked through a bony arm; another hand caught his wrist. The bell fell from its ringer's hand.
 
-Igrith struck the two remaining engines from above. One collapsed beneath her weight. She picked up the other in her jaws and flung it into the empty field.
+Igrith struck the stone-throwers on the road from above. One collapsed beneath her weight. She picked up the other in her jaws and flung it into the empty field.
 
 Harka saw Veyr on the far side of the marshal's horse.
 
@@ -393,6 +393,8 @@ Cadrel eased her fingers apart. The shield lifted a little, and the soldier got 
 Veyr arrived with the marshal's arm twisted behind his back and a knife under his jaw.
 
 He was loud.
+
+Harka left the fence and backed towards the tavern, watching the knife.
 
 “Put that away,” Harka said.
 
@@ -512,7 +514,7 @@ Veyr came over carrying a small stack of sealed letters.
 
 “These arrived for your father. We thought we should wait.”
 
-Harka took the top one. Under a black wax seal, someone had written REQUEST FOR A PRIVATE ROOM. At the bottom, in a different hand: HE MUST NOT BRING THE CROWN THIS TIME.
+Harka took the top one. Under a black wax seal, someone had written REQUEST FOR A PRIVATE ROOM. At the bottom, in a different hand: HE MUST NOT WEAR THAT RIDICULOUS CROWN THIS TIME.
 
 “Who is this from?” she asked.
 
