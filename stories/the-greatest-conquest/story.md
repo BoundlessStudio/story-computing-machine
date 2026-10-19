@@ -86,7 +86,7 @@ Harka looked around the room again. A woman with the brand of the king's disband
 
 There were enough rewards in this room to purchase a small fort.
 
-“Igrith,” the elderly woman supplied.
+“Igrith,” the elderly woman said.
 
 Harka's hand closed on the back of a chair.
 
@@ -244,6 +244,8 @@ At the tavern she untied her mare. The south road lay clear, descending between 
 
 Through the open door she saw Cadrel rolling up a map. Veyr was checking the latch of the west window. Neither looked towards her.
 
+She could find a buyer tomorrow.
+
 She had been given a horse once before, for a journey someone else had arranged. A good horse. A wedding gift. She had left it in the stable.
 
 This mare turned her head and blew impatiently against Harka's wrist. Harka had bought her with three seasons' pay. She could ride her anywhere.
@@ -366,7 +368,7 @@ Othred's horse reared. The marshal fought it down, still calling orders, while h
 
 Cadrel turned her wrist. The dead came over the wall.
 
-They caught reins. They pressed shields against breastplates. They lowered the living carefully to the road, and held them there. A swordsman hacked through a bony arm; another hand caught his wrist. Over all of it the bell kept ringing, until someone in the royal line remembered it was supposed to mean time had run out.
+They caught reins. They pressed shields against breastplates. They lowered the living carefully to the road, and held them there. A swordsman hacked through a bony arm; another hand caught his wrist. The bell went silent.
 
 Igrith struck the two remaining engines from above. One collapsed beneath her weight. She picked up the other in her jaws and flung it into the empty field.
 
@@ -382,9 +384,11 @@ There was still shouting, still the scrape of iron on stone. But no one was look
 
 Sweat stood on the woman's upper lip. Her hand trembled, and along the road the dead tightened their grip.
 
-Harka lowered her own voice. “You've got them.”
+A pinned soldier's calls broke off. His free hand beat against the shield above his chest.
 
-Cadrel drew a breath. A living soldier, pinned under three old shields, began loudly thanking every god he could remember.
+“Looser, Cadrel. He needs air.”
+
+Cadrel eased her fingers apart. The shield lifted a little, and the soldier got an elbow beneath it before the dead caught his wrist. He dragged in a breath and began loudly thanking every god he could remember.
 
 Veyr arrived with the marshal's arm twisted behind his back and a knife under his jaw.
 
@@ -490,16 +494,6 @@ Later, he had stopped listening when she told him where she wanted to go.
 
 She had thought leaving meant she would never miss the earlier man again.
 
-Igrith came to the foot of the stairs with the book under her arm.
-
-“If you're going,” she said, “there is still time. The road is clear.”
-
-Harka looked towards the door. Her mare was beyond it. Her knife, her pay, her life all remained hers.
-
-“No,” she said. “I'm staying.”
-
-Igrith nodded, as though Harka had ordered something perfectly reasonable, such as another candle.
-
 Cadrel turned her cup between her hands.
 
 “Othred burned my tower with my brother inside,” she said.
@@ -520,14 +514,10 @@ Veyr came over carrying a small stack of sealed letters.
 
 Harka took the top one. Under a black wax seal, someone had written REQUEST FOR A PRIVATE ROOM. At the bottom, in a different hand: HE MUST NOT BRING THE CROWN THIS TIME.
 
-She looked up.
+“Who is this from?” she asked.
 
-“How private?”
-
-“That depends which brother arrives first.”
-
-Across the room, the dead duke began to smile.
+“The king's two exiled brothers. They want the room a week from Thursday.”
 
 Harka set her bare feet on the step below. There was an empty chair at the head of the table, but from here she could see both doors.
 
-“All right,” she said. “One at a time.”
+“Write back,” she said. “I'll see them then. One at a time.”
