@@ -58,7 +58,7 @@ She withdrew her beak.
 
 So she lay against the cold place and spread her feathers over it, and did not ask again.
 
-The Bear's berries followed her insects. The Salmon reddened the shallows; the Spider slung the long grasses with silver. After them came the Wolf's first snow and the Hawk's hard, clear weather. The Wren sang every handover. Each time she returned to her hollow, the cold place was larger.
+The Bear's berries followed her insects. Creatures ate until they were heavy with sleep. The Salmon reddened the shallows; the Spider slung the long grasses with silver. After them came the Wolf's first snow and the Hawk's hard, clear weather. The Wren sang every handover. Each time she returned to her hollow, the cold place was larger.
 
 At last the Stag came down from the mountains, carrying the final month between his antlers.
 
@@ -135,6 +135,10 @@ The Wren looked into her hollow. Its back wall was split from floor to roof. The
 “How long?”
 
 “Thirty days. And when they are gone, thirty more, if you will stay.”
+
+Its sap faltered beneath her feet.
+
+“If your summer doesn't end, neither need I.”
 
 She went up so high that the moon shone through her wings. Then, with the Stag's month scarcely begun, she sang the Wheel's command.
 
@@ -254,7 +258,7 @@ The Fox's month opened. Under his feet every road in the country grew a second d
 
 “There,” he said. “Now I truly can help.”
 
-He trotted ahead. The Wheel followed a winding track between flowering thorn trees, came round a bend, and saw the Serpent's abandoned ring floating past below.
+He trotted ahead. The Wheel followed a winding track between flowering thorn trees, came round a bend, and reached the riverbank it had climbed. Below, the ring it had shed was still circling in the water.
 
 The Fox laughed from the opposite bank.
 
@@ -272,15 +276,15 @@ The Wheel swerved into the trees.
 
 “No more roads,” it said.
 
-The Wren made the thickets thicker. It was easier than telling it she had seen.
+The Wren saw a gap where the antlers could pass. She filled it with flowering branches before the Stag reached it. Beneath her feet, the Wheel's sap quickened again.
 
-On the second day, they hid in a valley where her summer lay deepest. Bees came fumbling out of the earth. The Bear emerged from a cleft in the rocks with two cubs tumbling against her legs.
+On the second day, they hid in a valley where her summer lay deepest. Bees came fumbling out of the earth. Two cubs tumbled out of a cleft in the rocks, and the Bear, roused by their feet on her belly, followed them.
 
 “Already?” she asked.
 
 The Wren kept weaving branches over the rim. She had left a wide circle of flowers around the Wheel's heart to warm it. It smelled of fresh-cut wood and honey.
 
-“Has the Salmon come through?” asked the Bear. “I heard no call.”
+“Has the Frog finished?” asked the Bear. “I heard no rain.”
 
 One cub lunged after a bee. The other followed. The Bear lumbered down the slope behind them.
 
