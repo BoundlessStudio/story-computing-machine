@@ -30,9 +30,13 @@ The user directed:
 
 the table works better with a one single large leg in middle.
 
+The user then attached the existing character sheet `wheel-of-ages.webp` and directed:
+
+the right bottom part of the image is still messed up just remove it; that 3 shot capture the table.
+
 ## Reference images
 
-None supplied. The original request and reference inventory were preserved before removal of the rejected package. No earlier prose or generated art is a template or reference for this replacement.
+None supplied with the original request. The original request and reference inventory were preserved before removal of the rejected package. No earlier prose or generated art is a template or reference for this replacement. The later attachment named `wheel-of-ages.webp` is this story's existing character sheet supplied as an edit target, rather than a new external reference; its earlier version remains in Git history.
 
 ## Audience and content
 
@@ -41,3 +45,5 @@ No audience was specified. The later direction explicitly requests an evil Wheel
 ## Explicit requirements and interpretation
 
 The Wheel oversees the months and rules and is ruled by the twelve named animals. The user found the previous story unaligned and explicitly requested a fresh replacement. The new direction specifies an evil Wheel trapping the spirit animals and thereby creating the twelve months. Later directions make the Wheel a stone table, make “Wheel” more metaphorical in the circle of time created, and give the table one single large central leg. That support supersedes the four-leg interpretation. Exact shape, markings, agency, and specific mechanism remain choices; the coordinator's stationary circular table serves the requested metaphor. Seasonal geography, viewpoint, length, exact intensity, resistance, and ending are also choices. Earlier voluntary founding and literal fleshy-wheel conceptions are superseded.
+
+The latest art direction removes the lower-right underside-detail view and its caption from the table sheet, retaining the three other views as sufficient coverage.
