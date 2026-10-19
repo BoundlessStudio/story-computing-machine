@@ -24,7 +24,9 @@ The user then selected this response as context: “Yes—a stone table suits th
 
 also makes the wheel more metaphorical in circle of time created.
 
-The user selected the table description “a broad black stone slab on four square legs, with pale veins and a fissure beneath the edge” and directed:
+The user selected this description as context: “The new table sheet is inspected: a broad black stone slab on four square legs, with pale veins and a fissure beneath the edge.”
+
+The user directed:
 
 the table works better with a one single large leg in middle.
 
