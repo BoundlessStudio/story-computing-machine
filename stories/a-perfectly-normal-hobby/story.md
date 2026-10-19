@@ -6,7 +6,7 @@ canon: false
 
 The first thing Orson Dacre learned about witchcraft was that he needed a better lamp.
 
-The little print kept disappearing into the crease of the book. He had spent eleven months making his bedroom suitably gloomy, and now, when the gloom might finally be of some use, he had to turn the desk lamp up and put his glasses on.
+The little print kept disappearing into the crease of the book. He had spent eleven months making his bedroom suitably gloomy, and now, when the gloom might finally be of some use, he had to turn the desk lamp up and put his glasses on. He angled the light across the carpet toward the old cupboard. His bed and the freestanding clothes rail beside it could stay in the dark.
 
 *Elementary Witchcraft* lay inside his chemistry revision guide. The covers were approximately the same size. To make room, he had removed the section on acids, which he understood, and kept the section on chemical bonding, which he did not.
 
@@ -62,13 +62,13 @@ The moth startled upward. Orson pointed frantically behind the velvet curtain be
 
 A hanger clicked behind him.
 
-The thing emerging from the alcove was too large to have been concealed by the curtain.
+The thing emerging from the seam in the alcove was too large to have been concealed by the curtain.
 
 Its head came first: a narrow hound's head, carried low, with branching black antlers above the ears. Then a long back, then forelegs so thin they seemed drawn in ink. One paw touched the carpet. The room smelled suddenly of leaves left in a closed bag.
 
 Orson snatched a shirt from the bed and threw it at the animal's head.
 
-The hound ducked. Orson made a small, entirely unsolemn sound. The shirt caught on the corner of the desk. In the lamplight its falling sleeve swung an enormous arm across the wall.
+The hound ducked. Orson made a small, entirely unsolemn sound. The shirt caught on the corner of the desk. In the lamplight its falling sleeve swung an enormous arm over the bright carpet and up the wall.
 
 The hound sprang sideways.
 
@@ -166,7 +166,7 @@ He had perhaps sixty seconds.
 
 He eased the curtain aside and offered the moth his finger. It came down, brushing his cheek with light. The hound pressed itself lower beneath the rail.
 
-Orson drew his coat from its hanger. His throat felt small and dry. He stood close to the alcove so his shadow fell into it, rather than toward the door, and made himself look past the shirts.
+The coat was the first thing he'd owned that made him look exactly as he meant to look. Orson took it off the hanger anyway. His throat felt small and dry. He stood close to the alcove so his shadow fell into it, rather than toward the door, and made himself look past the shirts.
 
 The seam had spread to the width of the cupboard. One edge ran down its wooden side. Beyond the threshold, a short stretch of open ground led between the trees. A broad pale stone stood upright at the far side, with black branches tossing above it.
 
@@ -178,7 +178,9 @@ Orson pointed above his shoulder, his breath trembling. The moth hovered behind 
 
 The hound watched it.
 
-He backed toward the desk and switched off the lamp. Then, holding the coat before him, he sidestepped into the alcove and across the threshold.
+The bright strip barred the hound from the alcove as well as the bedroom door. He would have to let it across.
+
+He backed toward the desk and switched off the lamp. The barrier vanished. Orson lifted the coat, making its blue-lit shadow slide ahead into the wood, and sidestepped back to the alcove and across the threshold.
 
 Cold struck through his socks. His bedroom carpet ended in a sharp line against damp earth. He could still see the corner of his bed, the chemistry guide, the stupid helpful tripod.
 
@@ -188,9 +190,7 @@ It flowed through the opening, a long dark body passing without a sound over the
 
 The hound followed the moving outline.
 
-Seven steps took him to the stone. It was taller than Dad, smooth and white on one face. Wind combed through the back of Orson's hair. He hooked one shoulder of the coat over a low branch beside the stone, tugged the other shoulder across another twig, and pointed the moth toward the ground behind it.
-
-Light spread upward. A huge stooping figure sprang onto the white surface.
+Seven steps took him to the stone. It was taller than Dad, smooth and white on one face. Wind combed through the back of Orson's hair. He hooked one shoulder of the coat over a low branch beside the stone and tugged the other shoulder across another twig. He pointed the moth down to the leaf litter, with the coat between its light and the pale stone. A huge stooping figure sprang onto the white surface.
 
 The hound crouched.
 
@@ -208,11 +208,13 @@ He didn't answer. He crouched close beside the stone, keeping his shadow small a
 
 Mum knocked.
 
+Any moment she'd shift the plate to one hand and try the handle.
+
 The hound's hindquarters bunched.
 
-Orson slipped two fingers through the back of the coat's collar and yanked it sideways.
+Orson caught an empty cuff and whipped it upward.
 
-The figure on the stone flung up both arms.
+A giant arm lashed across the stone.
 
 The hound sprang. Orson let go and ducked. Black antlers passed through velvet; the coat tore down one side, and the animal flattened against its huge, writhing shadow on the stone.
 
@@ -260,9 +262,9 @@ He took the plate in his free hand.
 
 “Please don't put it in the chat.”
 
-Mum's eyebrows rose. “I haven't seen anything to put in the chat.”
+Mum glanced at the folded tripod. “You haven't even made your film yet, have you?”
 
-“Right. Good.”
+“No. Not yet.”
 
 She reached past him and put his glasses, abandoned on the desk, on top of his head.
 
