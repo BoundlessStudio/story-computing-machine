@@ -30,7 +30,7 @@ If they found the book, there would be themed bookmarks. There would be a photog
 
 Orson wanted time to be terrible at this in private.
 
-He set his glasses beside the book and stood with the lamp behind him, facing the old cupboard he'd turned into a clothes alcove. His shadow fell across a row of black shirts, the velvet coat, and a pair of boots still being paid for in birthday money. He pressed his thumb into the shadow's middle and pulled sideways.
+He stood with the lamp behind him, facing the old cupboard he'd turned into a clothes alcove. His shadow fell across a row of black shirts, the velvet coat, and a pair of boots still being paid for in birthday money. He pressed his thumb into the shadow's middle and pulled sideways.
 
 Nothing happened.
 
@@ -180,7 +180,7 @@ The hound watched it.
 
 The bright strip barred the hound from the alcove as well as the bedroom door. He would have to let it across.
 
-He backed toward the desk and switched off the lamp. The barrier vanished. Orson lifted the coat, making its blue-lit shadow slide ahead into the wood, and sidestepped back to the alcove and across the threshold.
+He backed toward the desk and switched off the lamp. The barrier vanished. Before the hound could turn toward the bedroom door, Orson jerked the coat up. Its blue-lit shadow slid ahead into the wood. He sidestepped back to the alcove and across the threshold.
 
 Cold struck through his socks. His bedroom carpet ended in a sharp line against damp earth. He could still see the corner of his bed, the chemistry guide, the stupid helpful tripod.
 
@@ -190,7 +190,7 @@ It flowed through the opening, a long dark body passing without a sound over the
 
 The hound followed the moving outline.
 
-Seven steps took him to the stone. It was taller than Dad, smooth and white on one face. Wind combed through the back of Orson's hair. He hooked one shoulder of the coat over a low branch beside the stone and tugged the other shoulder across another twig. He pointed the moth down to the leaf litter, with the coat between its light and the pale stone. A huge stooping figure sprang onto the white surface.
+Seven steps took him to the stone. It was taller than Dad, smooth and white on one face. He hung the coat from two low twigs in front of it and brought the moth down until its light cast the coat's outline onto the stone. Wind flapped the empty sleeves. On the white surface, a huge stooping figure beckoned.
 
 The hound crouched.
 
@@ -216,7 +216,7 @@ Orson caught an empty cuff and whipped it upward.
 
 A giant arm lashed across the stone.
 
-The hound sprang. Orson let go and ducked. Black antlers passed through velvet; the coat tore down one side, and the animal flattened against its huge, writhing shadow on the stone.
+The hound sprang. Orson let go and ducked. An antler ripped through the coat as the animal leapt past him. It struck the coat's moving shadow on the stone and spread flat across it.
 
 “Just a second!” he shouted.
 
@@ -240,7 +240,7 @@ He was kneeling among his boots. A hanger rocked against his ear.
 
 He looked up. The moth hovered over his shoulder.
 
-He clicked the desk lamp on, slid the primer back into its chemistry cover, and offered the moth his wrist. He held very still until it settled. Then he folded the loose velvet cuff of his shirt over it. The blue light vanished beneath two layers. Tiny feet tickled his skin.
+He clicked the desk lamp on, slid the primer back into its chemistry cover, and offered the moth his wrist. He held very still until it settled. Then he folded the loose black cuff of his shirt over it. The blue light vanished beneath two layers. Tiny feet tickled his skin.
 
 He opened the door.
 
@@ -266,7 +266,7 @@ Mum glanced at the folded tripod. “You haven't even made your film yet, have y
 
 “No. Not yet.”
 
-She reached past him and put his glasses, abandoned on the desk, on top of his head.
+She reached up and straightened his glasses.
 
 “Eat first. And open the window if you're getting that hot.”
 
@@ -280,7 +280,7 @@ It cleaned its antenna again.
 
 He ate three potatoes with his fingers before he remembered the fork.
 
-Later, after carrying his plate down and answering several questions about frame rates with noncommittal noises, Orson returned to the alcove. A ragged piece of velvet lay caught on the sill. The rest of his coat was still in the wood.
+Later, after carrying his plate down and answering several questions about frame rates with noncommittal noises, Orson returned to the alcove. A ragged piece of velvet lay caught on the sill. The rest of his coat was still in the wood. He drew the scrap free and rubbed his thumb over it before laying it beside the book.
 
 He moved the desk lamp until its bright strip lay across the carpet. He checked the page on closing. Then he checked it again.
 
