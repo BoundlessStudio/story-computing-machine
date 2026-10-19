@@ -236,7 +236,7 @@ He had expected to leave his shoes here with me.
 
 “The grove will still be here.”
 
-“Will you still have those apples in a hundred years? I’ve been promised they keep.”
+“The flowers won’t.”
 
 He turned. He did not smile.
 
@@ -338,7 +338,7 @@ Rhaedren stood in the middle of the ride with his ruined sleeve hanging from his
 
 I let the hind walk forward.
 
-He watched us pass beneath the arch. Then he looked back once at the place where he would have left his shoes.
+He watched us pass beneath the arch. Then he looked back once at the place where he would have left his shoes. I let the hind stand until he turned back to me.
 
 “Come on,” I said, reaching down for him. “You’re the one who knows the way.”
 
@@ -354,7 +354,7 @@ They smelled of pears.
 
 I began to laugh.
 
-Rhaedren drew the hind to a halt beneath the largest tree and slid down. I had planned to sit with him on the grass. Now my back ached and my left calf was stubbornly tight, and the saddle was a very good saddle.
+I drew the hind to a halt beneath the largest tree, and Rhaedren slid down. I had planned to sit with him on the grass. Now my back ached and my left calf was stubbornly tight, and the saddle was a very good saddle.
 
 “I think I’m staying here,” I said.
 
@@ -412,11 +412,15 @@ Rhaedren made a sound of disgust.
 
 He was quiet for a little while.
 
-“I mended the green pitcher,” he said.
+“I sealed the green pitcher with resin yesterday morning,” he said.
 
 I looked up at him.
 
 “It will no longer spill on you. Then I waited for night.”
+
+“Will you still be here at dawn?” he asked.
+
+“I don’t know.”
 
 I took his free hand and kissed the crooked scar in his palm.
 
