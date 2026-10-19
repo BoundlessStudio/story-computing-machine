@@ -24,6 +24,10 @@ The user then selected this response as context: “Yes—a stone table suits th
 
 also makes the wheel more metaphorical in circle of time created.
 
+The user selected the table description “a broad black stone slab on four square legs, with pale veins and a fissure beneath the edge” and directed:
+
+the table works better with a one single large leg in middle.
+
 ## Reference images
 
 None supplied. The original request and reference inventory were preserved before removal of the rejected package. No earlier prose or generated art is a template or reference for this replacement.
@@ -34,4 +38,4 @@ No audience was specified. The later direction explicitly requests an evil Wheel
 
 ## Explicit requirements and interpretation
 
-The Wheel oversees the months and rules and is ruled by the twelve named animals. The user found the previous story unaligned and explicitly requested a fresh replacement. The new direction specifies an evil Wheel trapping the spirit animals and thereby creating the twelve months. Later directions make the Wheel a stone table and make “Wheel” more metaphorical in the circle of time created. Shape, supports, markings, agency, and specific mechanism remain editorial choices; the coordinator's stationary circular table is an interpretation to serve that metaphor. Seasonal geography, viewpoint, length, exact intensity, resistance, and ending are also choices. Earlier voluntary founding and literal fleshy-wheel conceptions are superseded.
+The Wheel oversees the months and rules and is ruled by the twelve named animals. The user found the previous story unaligned and explicitly requested a fresh replacement. The new direction specifies an evil Wheel trapping the spirit animals and thereby creating the twelve months. Later directions make the Wheel a stone table, make “Wheel” more metaphorical in the circle of time created, and give the table one single large central leg. That support supersedes the four-leg interpretation. Exact shape, markings, agency, and specific mechanism remain choices; the coordinator's stationary circular table serves the requested metaphor. Seasonal geography, viewpoint, length, exact intensity, resistance, and ending are also choices. Earlier voluntary founding and literal fleshy-wheel conceptions are superseded.
