@@ -182,21 +182,17 @@ Her own.
 
 She put a hand flat on the counter. Beneath it were the fine scratches left by years of weighing, counting, wrapping. A little crust of old sealing wax caught her palm.
 
-“I haven't sold you my soul.”
-
-“No,” Halden said. “His Majesty has.”
-
 Merryn looked toward the street where Lenet had disappeared with the baby. When she turned back, Halden was holding the blue stone up to the sun.
 
-“And now I'm offering the pledge to you. An indivisible claim, transferable before collection. The most valuable object you will ever hold.”
+She kept her hand flat until she could trust it to move.
+
+“And the whole claim would be mine?” she asked.
+
+“An indivisible claim, transferable before collection. The most valuable object you will ever hold.”
 
 “In exchange for my scales.”
 
-“There are other kingdoms. I would rather travel with a tool than an estate.”
-
-“These people aren't an estate.”
-
-“You'd be surprised what appears in an estate.”
+“There are other kingdoms. With those, I can test what the next king offers before I lend to him. I would rather travel with a tool than an estate.”
 
 She could see it then: herself accepting the stone, him walking out through the city gate with her scales in his pocket. Wherever he went next, he would be able to test every lie he told and every lie he bought. Behind him would remain a king's seal and a beautiful blue claim no ordinary assayer could look inside.
 
@@ -215,6 +211,14 @@ Halden watched the movement.
 “You needn't collect at once,” he said. “You could hold it for income. Think what they'd pay to be released.”
 
 The attraction had not gone out of the jewel. That was unpleasant. It remained the loveliest thing on her counter.
+
+She picked it up again, turning it toward the light.
+
+“At whatever price I chose?”
+
+His shoulders eased.
+
+“Of course.”
 
 “I'll see the deed,” she said.
 
@@ -272,6 +276,8 @@ Lenet took one hand off the frame. The links relaxed.
 
 Lenet stared at her.
 
+“My docket says mines and Crown revenues.”
+
 Halden said, “The royal security extends very widely.”
 
 “Let me see the deed,” Merryn said.
@@ -284,9 +290,17 @@ Halden unbuttoned his cuffs. With his gloves off, the fingertips of his right ha
 
 Merryn read the first sheet, then the second. The king had pledged the gold mines, hunting lands, palaces, and all else that he owned within the boundaries of the kingdom. Halden's appended schedule named the goods to be delivered: all living human souls within those same boundaries.
 
-“Very widely,” she said.
+She looked up.
 
-She did not look up.
+“I haven't sold you my soul.”
+
+“No,” Halden said. “His Majesty has.”
+
+“These people aren't an estate.”
+
+“You'd be surprised what appears in an estate.”
+
+Merryn looked down at the last sheet.
 
 The title warranty was at the end, above the red seal. The lot entire, the goods my own. While settlement remained pending, a proven owner could reclaim any falsely included part and void the whole levy. Merryn had read that language on bills for sheep.
 
@@ -313,6 +327,8 @@ Merryn was still reading. “Did they?”
 “For six days.”
 
 “I should have charged more.”
+
+She had seen a Crown beam. It could measure the extent of an obligation to a hair; it could not tell whether the obligation had ever been given. The royal seal was supposed to settle that.
 
 She moved her folding stand onto the table, close to the caged seal. Halden followed her hands.
 
@@ -406,7 +422,7 @@ Lenet shoved at his arm.
 
 The blue was climbing his fingers. He had been inside this working before. He knew what it cost him to hold it open; he had decided it was affordable.
 
-Merryn backed a step away from the socket. Her soul's weight stretched between pan and body. Letting go would return it to her for the stone to take. Holding it here kept one part of Halden's lot outside his grasp, but she could not reach the open cage.
+Merryn backed a step away from the socket. For now her scales were doing what Halden's grip did: anchoring her soul outside the collection. Her left hand held the suspension ring steady. Her right fingertip kept her soul's weight in the pan. Both contacts had to hold; let either go and her soul would fall back into her body, where the stone could take it. The open cage was beyond her reach.
 
 The baby began to cry.
 
@@ -440,7 +456,7 @@ The ribbon tasted of dust and bitter wax.
 
 Merryn pulled.
 
-For a moment nothing moved. Her hair had fallen across the beam; she could not see whether it was level. The gleam in her pan thinned to a thread.
+For a moment nothing moved. Her arms shook hard enough to set the chains ringing. The gleam in her pan thinned to a thread.
 
 Lenet braced one foot against the table leg.
 
@@ -480,9 +496,7 @@ The number held.
 
 Merryn let her head rest against the table leg.
 
-“You missed five,” she told Halden.
-
-He did not answer. One of the guards had taken his wrist.
+One of the guards had taken Halden's wrist. He was watching the fallen links.
 
 Lenet knelt beside her, holding out the baby with an uncertainty Merryn had never seen in a person offering something to her.
 
