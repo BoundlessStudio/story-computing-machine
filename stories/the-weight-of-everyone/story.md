@@ -198,17 +198,21 @@ She could see it then: herself accepting the stone, him walking out through the 
 
 “When is collection?”
 
-“At the evening bell. Until then, the transfer may be canceled. Afterward, the goods are delivered.”
+“I've booked the evening bell. Until delivery, the original pledge may be challenged. Afterward, disputes go to court.”
 
 “Delivered where?”
 
 “The stone can contain what it measures.”
 
+“Me included?”
+
+“You'd take my place as creditor. You decide when to collect, and you hold the receiver's anchor while it happens. Your own soul stays outside.”
+
 She had been resting her fingers against it. She withdrew them.
 
 Halden watched the movement.
 
-“You needn't collect at once,” he said. “You could hold it for income. Think what they'd pay to be released.”
+“You could hold it for income,” he said. “Think what they'd pay to be released.”
 
 The attraction had not gone out of the jewel. That was unpleasant. It remained the loveliest thing on her counter.
 
@@ -270,13 +274,13 @@ Lenet took one hand off the frame. The links relaxed.
 
 “What was that?” Merryn asked.
 
-“The pledge finding its goods.” Lenet lifted the boy against her. “It found you, then?”
+“The pledge finding its goods.” Lenet lifted the boy against her.
 
-“Yes.”
+“It found me,” Merryn said.
 
 Lenet stared at her.
 
-“My docket says mines and Crown revenues.”
+“It shouldn't have found you. My docket says mines and Crown revenues.”
 
 Halden said, “The royal security extends very widely.”
 
@@ -302,23 +306,15 @@ She looked up.
 
 Merryn looked down at the last sheet.
 
-The title warranty was at the end, above the red seal. The lot entire, the goods my own. While settlement remained pending, a proven owner could reclaim any falsely included part and void the whole levy. Merryn had read that language on bills for sheep.
+The title warranty was at the end, above the king's seal. The lot entire, the goods my own. While settlement remained pending, a proven owner could reclaim any falsely included part and void the whole levy. Merryn had read that language on bills for sheep.
 
 “How does a challenge stop delivery?” she asked.
 
-Lenet pointed to the cage. “The original seal is withdrawn. That releases every link made under it.”
-
-“And afterward?”
-
-“After settlement, it closes. Claims must then go before a court.”
-
-“Even if the claimant is inside the stone?”
-
-Lenet turned back to the first sheet.
+Lenet pointed to the cage. “Withdraw the original seal. That releases every link made under it. After delivery, my key won't open it.”
 
 Halden rested a hand on the empty creditor's grip projecting from the frame.
 
-Merryn recognized its deep finger grooves: a receiver's anchor, to hold his own soul clear of the delivery. He had made provision for himself.
+The receiver's anchor. He had made provision for himself.
 
 “His Majesty's assayers examined this.”
 
@@ -364,19 +360,23 @@ To weigh another person's soul, the person could touch the pan. To weigh her own
 
 She let the weight settle. The left pan sank.
 
+The cold hook behind her breastbone slackened, as though it could no longer find her.
+
 “One soulweight,” she said.
 
 “We can see that,” said Halden.
 
 “Now the Crown's ownership of that soul.”
 
-Lenet brought the corner of the king's seal against the right pan.
+Lenet guided the right pan against an edge of the gold seal exposed between the cage's bars.
 
 The pan remained high.
 
 Merryn held her breath, released it, and made the question again. Exact subject. Exact claimant. The transfer that would make this soul the Crown's to pledge.
 
 Nothing.
+
+Halden did not look at the empty pan. He watched Lenet's face. He had never needed Merryn to believe the title, only to want its power.
 
 On one side of the beam, her whole soul. On the other, a seal whose gold content alone would keep her in tarts for a year. Between them, no transfer at all.
 
@@ -512,11 +512,11 @@ They kept her at the weigh-house until after the evening bell. There were statem
 
 Lenet turned the first sheet of the deed toward him.
 
-“It has his name on it,” she said.
+“It has the king's name on it,” she said.
 
 Merryn refused three requests to make the same demonstration again. Her hands were still trembling. She ate the remaining chestnuts, cold, and let Lenet bring her a cup of wine whose honesty nobody tested.
 
-When she was finally allowed to stand, she found the blue gemstone lying in a shallow evidence tray beside the broken royal seal.
+When she was finally allowed to stand, she found the blue gemstone lying in a shallow evidence tray beside the withdrawn royal seal.
 
 “What does it weigh now?” Lenet asked.
 
