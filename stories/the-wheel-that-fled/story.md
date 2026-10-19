@@ -160,6 +160,8 @@ The Wheel made its old laughing sound.
 
 Far away, bewildered and loud, the young things of summer were calling for their mothers.
 
+The Wren turned toward the voices. Her song thinned. The Wheel's roots struck the earth, and she swung back to open the next hedge.
+
 They travelled west through her green cover. Where the rim passed, the ground dipped under its weight, then sprang up in fern. The Wren darted ahead, closing one gap, opening another. She had never made so much summer. The air tasted sweet enough to eat.
 
 But a horn sounded behind them, and the Wheel's eye turned toward the setting sun.
@@ -188,7 +190,7 @@ The Wheel stopped so suddenly that its roots lashed forward.
 
 “In my own dark?”
 
-The Cat got up and stretched. She had been no larger than an ordinary cat when they arrived; now her back rose against the stars.
+The Cat got up and stretched. She had been no larger than an ordinary cat when she first spoke; now her back rose against the stars.
 
 “Come quietly. I have found a pleasant place for you to lie down.”
 
@@ -206,7 +208,7 @@ The current bent around its body. The river turned with it, carrying the Wheel i
 
 “You brought the thaw,” said the Serpent. “You did not say where it should go.”
 
-The Wheel drove its roots into the bank. The Serpent wound the current tighter. Wood groaned against water.
+The Wheel drove its roots into the bank. The current caught beneath its loosening outer bark, drawing that ring downstream while the inner wood strained uphill. The Serpent wound the current tighter. Wood groaned against water.
 
 “Only one way out of a tight skin,” it said.
 
@@ -406,7 +408,7 @@ He had been following the smell of sap across the snow, losing it at every river
 
 The Wheel called his month to cover its tracks.
 
-Snow came down. The Wolf opened his mouth and caught the flakes, and all the snow ahead of him remained smooth. There was only one track on it: a deep, fresh furrow, moving toward the mountains.
+Snow came down. The Wolf opened his mouth and caught the flakes before they could fill the Wheel's furrow. On either side, new snow lay smooth. Ahead of him, one deep track remained open, lengthening toward the mountains.
 
 The Wren watched him follow it.
 
@@ -487,6 +489,8 @@ Below them, the Stag held his head perfectly still.
 “Will you sing to it?” asked the Wheel.
 
 “If it wants me.”
+
+A root at the lower rim tightened around a stone. It held through a long catch in the sap beneath her feet, then slowly uncurled.
 
 “It would be a fool if it didn't.”
 
