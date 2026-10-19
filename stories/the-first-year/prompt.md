@@ -18,6 +18,12 @@ The user then selected the proposed creation-myth direction (“The new directio
 
 go hard on this and make it evil where the wheel traps this sprit animals creating the 12 months of year
 
+i think the wheel should be stone table.
+
+The user then selected this response as context: “Yes—a stone table suits this. I’ll make the Wheel a sinister circular stone table and rework the trap around that form. The twelve spirits’ captivity will still create the months, and their resistance will still give them power over it.”
+
+also makes the wheel more metaphorical in circle of time created.
+
 ## Reference images
 
 None supplied. The original request and reference inventory were preserved before removal of the rejected package. No earlier prose or generated art is a template or reference for this replacement.
@@ -28,4 +34,4 @@ No audience was specified. The later direction explicitly requests an evil Wheel
 
 ## Explicit requirements and interpretation
 
-The Wheel oversees the months and rules and is ruled by the twelve named animals. The user found the previous story unaligned and explicitly requested a fresh replacement. The new direction specifies an evil Wheel trapping the spirit animals and thereby creating the twelve months. Particular mechanisms, seasonal geography, viewpoint, length, exact intensity, resistance, and ending remain editorial choices. An earlier voluntary-compromise outline is superseded by this direction.
+The Wheel oversees the months and rules and is ruled by the twelve named animals. The user found the previous story unaligned and explicitly requested a fresh replacement. The new direction specifies an evil Wheel trapping the spirit animals and thereby creating the twelve months. Later directions make the Wheel a stone table and make “Wheel” more metaphorical in the circle of time created. Shape, supports, markings, agency, and specific mechanism remain editorial choices; the coordinator's stationary circular table is an interpretation to serve that metaphor. Seasonal geography, viewpoint, length, exact intensity, resistance, and ending are also choices. Earlier voluntary founding and literal fleshy-wheel conceptions are superseded.
