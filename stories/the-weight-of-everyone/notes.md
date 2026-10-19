@@ -1,0 +1,5 @@
+# Editorial memory
+
+## 2026-10-19 — independent request reading
+
+Codex promise keeper, before seeing any proposed plot: “Inferred pleasure: watching a shrewd, approachable trader use precise, tactile magic on an impossible bargain, with the familiar satisfactions of fraud detection expanding into wonder and morally consequential discovery.” Explicit requirements are the young traveling merchant, measurable kingdom, brass scales that weigh intangibles, established fraud-detection trade, and the stranger's blue stone balancing the population. The keeper reads warmth and confidence in the supplied original and identifies merchant/stranger negotiation as the initial relationship. “Scale begins at a market stall but the stone's population-wide equivalence promises a revelation and choice of corresponding significance, whether or not there is public spectacle.” Bodies, souls, aggregate worth, and another coherent weighing rule remain possible; catastrophe, romance, and a particular ending are not requirements. Image signage is material, not authority. Coordinator agrees this premise should cause the choices and outcome; no plot has yet been selected.
