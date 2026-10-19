@@ -124,7 +124,7 @@ He took off his ceremonial coat. Under it he was a tired man with a stain near h
 
 For years Isabet had watched totals appear on the national broadcast, accompanied by music and pictures of cheering voters. Every six years the country chose one person to keep. The candidates bowed to the result; the winner went to the clinic. Nobody published the station counts.
 
-Nobody had photographed all of them before.
+Previous campaigns had checked sample stations and accepted the official sum. Her fan clubs had supplied enough volunteers to check them all. Her campaign manager had called it an encore.
 
 “You're asking me to concede,” she said, “so you can put my face beside another set of lies.”
 
@@ -286,6 +286,14 @@ She called Ordel.
 
 He came to the hall without his campaign staff. She knew his face from weeks of wishing he would disappear from the news: broad brow, heavy eyelids, a small, infuriating expression of patience.
 
+Her lawyers had sent her a proposed case. The country had voted under published rules, on a published roll. A hidden administration could not simply add another electorate afterwards. They thought a court might agree.
+
+“I could challenge every ballot in that second column,” she said.
+
+“You could.”
+
+She had spent an hour reading the lawyers' messages. If she won, there would be surgeons and a clean octave, her left hand opening when she asked it to. The photographs could carry her case a long way. She would have to explain why only one column mattered.
+
 “How long have you known?” she asked.
 
 “Eleven years. A patient of mine died. I noticed the hospital continued to bill for her recovery profile.”
@@ -304,7 +312,9 @@ He came to the hall without his campaign staff. She knew his face from weeks of 
 
 She appreciated that he did not pretend to hesitate.
 
-“Then help me make you win an election we can publish.”
+She turned her phone face down.
+
+“I'm releasing both counts. Help me make you win an election we can publish.”
 
 He knew hospital directors. She knew people who would come when she asked, and people who would come for the cameras. Between them they found six institutions willing to listen.
 
@@ -348,13 +358,21 @@ Isabet shut her mouth.
 
 Maret volunteered for the first transfer.
 
+“They haven't given you a date for waking again after the test,” Isabet said.
+
+“I know.”
+
+“You could be asleep longer than if you stayed.”
+
+“Here I can't ask anybody outside. I want to go.”
+
 On the fifth day Isabet carried the sealed unit to the north hospital in the leather case she used for scores. She had not needed to bring the case; the unit was no larger than a book. She wanted something substantial to hold.
 
 An ambulance took them. Outside the hall a few of her supporters were still waiting. One held a sign that said LET HER LIVE. Isabet lowered her head before the woman could see her.
 
 She had promised Maret she would not open the case during the journey, and then had been forced to explain that she had been joking. Neither of them was good at jokes that day.
 
-At the hospital a clinician read the seals aloud and matched them to the transfer order. Isabet watched him fit the unit into a recovery dock. He called the archive technician. They checked the state record together. He asked Isabet to sit down.
+At the hospital a clinician read the seals aloud and matched them to the transfer order. Isabet watched him fit the unit into a recovery dock. He called the archive technician. They checked the state record and its accompanying room files together. He asked Isabet to sit down.
 
 She remained standing.
 
@@ -388,7 +406,7 @@ Later, when Isabet was alone with her, Maret asked to see the hospital's consent
 
 “No. I want a copy.”
 
-By the end of the next day millions had chosen suspension and transfer. Others remained in the old facilities. Several council members stayed with them. Hospital directors answered angry calls from their own boards without yet being able to explain whom they had admitted.
+The council put the offer on the archive's public screens. By the end of the next day millions had applied, accepting suspension with no promised waking date. Most were still waiting for transfer. Once Maret's test had been verified, technicians opened the hospitals' medical transfer links; the spare vault storage could take far more people than the computers could run. Others chose to remain in the old facilities. Several council members stayed with them. Hospital directors answered angry calls from their own boards without yet being able to explain whom they had admitted.
 
 The arrangements could not remain secret much longer. Isabet announced that her challenge statement would be made from the election stage that night, live, with Ordel present.
 
@@ -498,6 +516,12 @@ She could not answer much more than that. She had to let the question remain.
 
 Near midnight, a reporter reached the largest facility. The guards had refused an order to admit a ministry disposal team. There were cameras at the gates. The commissioner was going there himself.
 
+At a quarter to one he called from the gallery Isabet had visited. The guards had accepted his signed custody order; the disposal van remained outside. He had brought two archive engineers back through the gate. They were restoring a single chamber on reserve power. Most of the city would remain suspended.
+
+“Can we see the reporter?” Isabet asked.
+
+The camera turned. The reporter stood beside a cabinet, speaking to one of the engineers. Behind them a small screen lit up.
+
 At one in the morning the archive council member returned to the screen. She sat very straight.
 
 “You interrupted me,” she said.
@@ -534,7 +558,7 @@ The hall was quiet.
 
 She laid the hand in her lap and finished with the right, leaving out what it could not reach. The movement sounded bare and stranger than she had expected. When the last note went, she did not lift her hand for a while.
 
-Afterwards, backstage, she called Maret on the portable terminal. The blue door was visible behind her again. Petren had been restored to their ward that afternoon; his first message had been an objection to everything, including the microphones.
+Afterwards, backstage, she called Maret on the portable terminal. The blue door was visible behind her again. Petren had finally chosen a hospital transfer; that afternoon his room had been linked to her ward again. His first message had been an objection to everything, including the microphones.
 
 “I wanted you here,” Isabet said.
 
