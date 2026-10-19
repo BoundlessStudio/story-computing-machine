@@ -516,7 +516,7 @@ Harka took the top one. Under a black wax seal, someone had written REQUEST FOR 
 
 “Who is this from?” she asked.
 
-“The king's two exiled brothers. They want the room a week from Thursday.”
+“The king's two exiled brothers. They want the room a week from Thursday. Each has asked us to bar the other.”
 
 Harka set her bare feet on the step below. There was an empty chair at the head of the table, but from here she could see both doors.
 
