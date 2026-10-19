@@ -4,7 +4,7 @@
 
 # Production direction
 
-The user supplied no audience, intensity, or additional content direction. General is the starting target, with the finished prose and cover to be rated after completion. No reference images were supplied.
+The initial request supplied no audience, intensity, or additional content direction. General is the starting target, with the finished prose and cover to be rated after completion. No reference images accompanied the initial request.
 
 Explicit requirements: a male goth teenager beginning to study witchcraft; concealment from his parents; their complete obliviousness. Humor, real supernatural effects, and any particular ending are editorial interpretations, not additional user requirements.
 
