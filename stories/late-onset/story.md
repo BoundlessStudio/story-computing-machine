@@ -234,7 +234,7 @@ I had selected all of us, car and contents. For an instant the stillness inside 
 
 "Keep up," Joss said. He had caught a rail inside the hatch. "We're still falling."
 
-"I can't feel it."
+"I can't feel it—"
 
 "Look at the station. Red roof."
 
@@ -284,8 +284,6 @@ I pulled back. The far side of the field kept coming, but more slowly, until Jos
 
 Another gust sent the painted centre circle sliding sideways beneath us. I pulled against it while the circle was still under the car. It slid a little farther, then stopped.
 
-"Holding height," Joss said, looking through the open door. "Twenty metres."
-
 The wind did not pause to let us be clever. I kept correcting against the circle while he watched our height. My forearms ached from clenching the rail. The strap would have held my right hand in place if I relaxed. I could not persuade either hand of this.
 
 Heat ran up my chest and into my face. Of all the possible times. Sweat slipped down behind my glasses. I could not make myself let go to wipe it.
@@ -296,15 +294,15 @@ Joss took them off, dried them on the inside of his jacket, and put them back on
 
 The field was still beneath us.
 
-"We can come down," he said.
+"I'm bringing us down," I said. "Tell me how far to the grass."
 
-I wanted earth to be down again, wanted it with an intensity that frightened me. I let it pull for a moment, then sent us up to brake. We sank in a series of ugly little stages. Each time I thought we were almost there, Joss called another correction. He was looking through the open door now, calling our distance from the grass.
+Joss leaned through the open door. "Twenty metres."
 
-"Two metres. Hold. Toward the pole, just a touch. Good."
+I wanted earth to be down again, wanted it with an intensity that frightened me. I let it pull for a moment, then sent us up to brake. We sank in a series of ugly little stages, down, up, then no pull while I listened for his next distance.
+
+"Five metres. Two."
 
 The man in the suit had recovered his briefcase. He hugged it against his chest. The boy's mother had her eyes shut.
-
-"Down. Up. None."
 
 The car's lower skirt brushed the grass. We slid a foot to the side, caught, and settled.
 
