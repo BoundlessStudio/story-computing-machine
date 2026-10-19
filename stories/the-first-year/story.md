@@ -50,7 +50,7 @@ The others struck, sang, spat, leaped. The Wheel swallowed their shadows.
 
 It pulled the Wren out of her blossoms and the Salmon out of his rivers. It drew the Wolf's frost through a hole no wider than a tooth. The twelve black roots stretched into spokes, and the Wheel rose upon its edge, taller than the hills. Its hide closed over them.
 
-Inside, each sovereign lay in a hollow of its own shadow. The twelve hollows circled the eye, their roots running inward through the Wheel's living flesh. Beneath the lowest hollow, the hide gaped toward the country. The other eleven were shut away.
+Inside, each sovereign lay in a hollow of its own shadow. The twelve hollows circled the eye, their roots running inward through the Wheel's living flesh. The Cat's hollow lay lowest, and beneath it the hide gaped toward the country. The other eleven were shut away.
 
 The Wheel's eye turned from one to another.
 
@@ -76,7 +76,7 @@ At dawn the Wheel eased its grip and let her lift it. At dusk it squeezed. Night
 
 The Cat made her nights as short as she could. The Wheel made them longer.
 
-When the moon vanished, the Wheel turned in place above the meeting of the borders. The Cat's hollow rose. The hide shut beneath her and gaped beneath the Serpent, whose hollow had come down to take its place. Her root pressed her against the gap.
+When the moon vanished, the Wheel turned in place above the meeting of the borders. The Cat's hollow rose. The hide shut beneath her and gaped beneath the Serpent, whose hollow had come down to take its place. The hollow pressed her against the gap.
 
 Warmth entered the ground. Ice slid from roofs in great sheets. People came out to find the whole country smelling of stone in sunlight, and they said that the season had changed.
 
@@ -268,7 +268,7 @@ Outside, fish broke through the ice. They climbed falls that had never before kn
 
 Inside, the black flow in the Salmon's root began to run backward.
 
-The Boar's wound opened again. Dark junctions rose through the flesh, twelve roots crossing near the hub, each pulled toward the same narrow throat.
+The Boar's wound opened again. Dark junctions rose through the flesh, twelve roots crossing near the hub, each pulled toward the same gap.
 
 The Wheel snapped its eye toward the Salmon. He drove harder.
 
@@ -402,7 +402,7 @@ No one did.
 
 The Stag lifted his head. The Wheel flung its weight backward, and the Hawk's hollow began to descend toward the gap.
 
-Its lower rim ground into the meeting of the borders. People fell in their houses. Snow slid from the mountains. The black furrow beneath it split wider.
+Its lower rim ground into the meeting of the borders. People fell in their houses. Snow slid from the mountains. A black furrow opened beneath it.
 
 “Forward,” the Cat said.
 
