@@ -50,7 +50,7 @@ The others struck, sang, spat, leaped. The Wheel swallowed their shadows.
 
 It pulled the Wren out of her blossoms and the Salmon out of his rivers. It drew the Wolf's frost through a hole no wider than a tooth. The twelve black roots stretched into spokes, and the Wheel rose upon its edge, taller than the hills. Its hide closed over them.
 
-Inside, each sovereign lay in a hollow of its own shadow. Their roots ran inward, buried in the Wheel's living flesh. Through a single opening in the rim they could see the country they had lost.
+Inside, each sovereign lay in a hollow of its own shadow. The twelve hollows circled the eye, their roots running inward through the Wheel's living flesh. Beneath the lowest hollow, the hide gaped toward the country. The other eleven were shut away.
 
 The Wheel's eye turned from one to another.
 
@@ -76,7 +76,7 @@ At dawn the Wheel eased its grip and let her lift it. At dusk it squeezed. Night
 
 The Cat made her nights as short as she could. The Wheel made them longer.
 
-When the moon vanished, it shut her hollow and pulled the Serpent forward.
+When the moon vanished, the Wheel turned in place above the meeting of the borders. The Cat's hollow rose. The hide shut beneath her and gaped beneath the Serpent, whose hollow had come down to take its place. Her root pressed her against the gap.
 
 Warmth entered the ground. Ice slid from roofs in great sheets. People came out to find the whole country smelling of stone in sunlight, and they said that the season had changed.
 
@@ -90,7 +90,7 @@ The Serpent rose new and bright. Her root rose with her. The Wheel laughed until
 
 It let the empty skin blow through the opening. The people found it stretched across three fields and built their first shrine beneath its glittering scales.
 
-For another waxing and waning moon the Serpent warmed the country. Seeds woke in the earth. Her skin whitened where people touched it for good fortune.
+Through the Serpent's waxing and waning moon she warmed the country. Seeds woke in the earth. Her skin whitened where people touched it for good fortune.
 
 “They think you gave it to them,” the Fox said from the next hollow.
 
@@ -114,7 +114,7 @@ Outside, dusk spread through the country. The Fox drew one last brightness along
 
 While the Wheel watched his work, the Fox left an afterimage at the opening and slipped behind it.
 
-He tried the rim first. He got his head and forelegs into the country. Grass brushed his nose. A woman on the path saw a red creature hanging in the air and dropped her firewood.
+He tried the rim first. He got his head and forelegs into the country. Grass brushed his nose. A woman on the path saw a red creature straining through a slit in the black hide and dropped her firewood.
 
 The Fox stretched toward the earth. His shadow-root drew tight. The Wheel pulled him backward, through his own afterimage, and struck him against the far wall of the hollow.
 
@@ -142,7 +142,7 @@ The Boar saw them and charged.
 
 He did not charge the opening. He drove his tusks into the living wall beside it.
 
-The Wheel screamed. A seam opened beneath the Boar's feet. In it lay his root, a black curve knotted into wet red flesh.
+The Wheel screamed. A seam opened beneath the Boar's feet and split inward toward the hub. In it lay his root, a black curve knotted into wet red flesh.
 
 “At last,” he said, and bit it.
 
@@ -166,7 +166,7 @@ The Frog listened too.
 
 She had filled her mouth with rain and was dropping it, bead by bead, into the seam the Boar had opened. The drops ran along the inner rim. Far away, beyond the Cat's hollow, something tapped.
 
-The Frog leaped toward the sound. The Wheel pulled her root. She landed hard at her own opening. She leaped again, and again she came down where she had begun.
+The Frog leaped toward the sound. The Wheel pulled her root. She landed hard at the opening. She leaped again, and again she came down where she had begun.
 
 But the drops kept going. One touched the Fox's nose inside his fold.
 
@@ -240,7 +240,7 @@ Sleep went down her root. The Wheel slowed; its eye sagged. Its great body settl
 
 She let a long breath out through her nose.
 
-The Wheel seized the Wolf's root and dragged him beside her at the opening. His frost tore across the Bear's hot country. Pears froze in the boy's shirt. Branches broke under fruit suddenly hard as stones. The boy got down from the tree and could not feel his hands.
+Without turning, the Wheel seized the Wolf's root and dragged him out of his hollow, across the inside of the ring, to the gap beside the Bear. His frost tore across her hot country. Pears froze in the boy's shirt. Branches broke under fruit suddenly hard as stones. The boy got down from the tree and could not feel his hands.
 
 The Bear woke.
 
@@ -380,43 +380,45 @@ The next dawn came without a moon. The Cat waited to be pulled forward. Instead 
 
 “My moon is done,” the Stag said.
 
-“This one pleases me. Lower your head,” it told him.
+“This one pleases me,” said the Wheel. “Lower your head.”
 
 He lowered it.
 
 Through the thread, the Wren gave one small note. The Cat put her darkness into the hub, and the Wheel's eye vanished beneath it. Outside, noon remained noon. Inside, the creature struck blind at its own walls.
 
-The Bear sent down sleep. The turning body staggered. The pull on the roots slackened, and the Salmon drove against it. Blackness flowed backward through the flesh. As the junctions rose into the wound held between the Wolf's jaws, the Stag thrust his antlers among them.
+The Bear sent down sleep. The great body staggered. The pull on the roots slackened, and the Salmon drove against it. Blackness flowed backward through the flesh. The buried junctions rose into the inner end of the Boar's wound, just below the hub, where the Wolf's jaws held the flesh apart.
+
+The Stag drove his crown across that cleft. The broad bases jammed against one lip; the branching points hooked into the other. The roots rose into its forks.
 
 The Wheel woke fully.
 
-It pulled on the Cat. The Stag turned his head, and a tine caught her root. It pulled on the Wolf; another tine lifted beneath his. Root by root the crown opened, holding the twelve apart where the Wheel had drawn them together into its throat.
+It pulled on the Cat. Her root drew tight against a fork whose point was buried in the Wheel. It pulled on the Wolf, but his root caught too. Instead of gathering at the opening, the twelve stretched apart across the crown.
 
-The Boar put his shoulder beneath the Stag's neck, and the Frog braced herself against his hind feet. The Serpent wound her body around the roots so they could not slip between the tines. The Spider kept the thread tight, and the Hawk watched above them through the darkness. The Fox stood against the Cat and felt the Wheel trying to find her.
+The Boar drove his shoulder beneath the Stag's neck; as the weight went forward, the Stag's hind feet slid, and the Frog wedged herself behind them. A root slipped toward the opening, but the Serpent looped it back into a fork. Through the taut thread the others felt the strain settle across the crown; against the Cat, the Fox felt the Wheel trying to draw her through it.
 
 “Let go,” it said.
 
 No one did.
 
-The Stag lifted his head. The Wheel turned backward.
+The Stag lifted his head. The Wheel flung its weight backward, and the Hawk's hollow began to descend toward the gap.
 
-Its lower rim dragged across the hills. People fell in their houses. Snow slid from the mountains. At the old meeting of the twelve borders, a black furrow opened in the ground.
+Its lower rim ground into the meeting of the borders. People fell in their houses. Snow slid from the mountains. The black furrow beneath it split wider.
 
 “Forward,” the Cat said.
 
 The Salmon ceased his struggle. The Bear let a little sleep leave her. The Stag shifted his crown. Together the prisoners made their captor turn.
 
-It moved one hollow's breadth and stopped.
+The ring ground forward, carrying the wedged crown with it. The Stag's hollow rose, the hide closed beneath him, and the Cat's hollow came down to the gap.
 
 The Stag's root fell slack. For the first time in a moon he could lift his head without sending cold into the country. He was still inside the walls.
 
-The Cat's opening faced the country.
+The hide opened under the Cat. She faced the country.
 
-Behind her, the Stag stood trembling. His crown was wedged deep among the roots. He lowered his head, pulled once, and left the antlers there.
+Behind her, the Stag stood trembling. He lowered his head, pulled once, and left his antlers hooked across the wound.
 
 The Wheel seized his root and tried to drag it beside the Cat's.
 
-Bone caught against bone. The crown held the two roots apart. The creature strained until every prisoner felt its fury; then it eased before it tore the living darkness it had taken such care to own.
+The root caught in its fork. The hooked point held in the closing flesh. The creature strained until every prisoner felt its fury; then it eased before it tore the living darkness it had taken such care to own.
 
 The Wolf let the wound close upon the shed antlers.
 
@@ -450,6 +452,6 @@ The Cat did not cry out. She could feel all eleven others waiting for her throug
 
 At dusk her root tightened.
 
-The Wheel turned its blind eye toward her.
+The Wheel turned its eye toward her, still full of the darkness she had taken from the sky.
 
 “Again,” it said.
