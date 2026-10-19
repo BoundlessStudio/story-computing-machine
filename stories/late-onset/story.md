@@ -320,7 +320,7 @@ Joss sat on the floor.
 
 He nodded, then shook his head, then put his forehead against his knees.
 
-I sat beside him until the door opened.
+I sat beside him while the passengers got out.
 
 *
 
