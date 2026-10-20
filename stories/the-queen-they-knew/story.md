@@ -10,9 +10,13 @@ At the southern ports they gave away wine. Inland, a woman stood outside a posti
 
 Orsane bought a horse. She joined in one toast. She found that she could be glad and still wake at night with something unfinished to say.
 
+Snow had begun on the warm southern evening the messenger found her. By morning, it lay thick on the inn's courtyard. It fell at the next town too. From a hill beyond that town she had looked back and seen sunlight on the roofs, while the white cloud moved with her along the road. Her mother's winter had passed to her without asking what she wanted.
+
 On the seventh day she entered her mother's forest.
 
 Snow still loaded the firs, but it had begun slipping from the branches in heavy, wet falls. A brown run of earth showed through the road. Beside it, the stump of a cursed tree put out a single green shoot.
+
+Fresh snow filled the hoofprints behind her. Beyond the falling white curtain, the farther hillside ran dark with thaw.
 
 She dismounted to look.
 
@@ -66,7 +70,7 @@ He said it with such love that she had to look at the road.
 
 The old blood-binding required them to keep her alive. It gave her no power to make them obey. She had come north to put a throne and castle walls between that devotion and the people she had lived among. She was beginning to doubt that walls would be enough.
 
-At the castle, Leth lay along the gatehouse roof. She was pale where Vask was black, with the same great wings and backward horns. She lifted her head when Orsane passed beneath her.
+By the time they reached the castle, the road was white again. Old drifts banked the northern walls; fresh snow blew across the courtyard and gathered on the unshovelled steps. Leth lay along the gatehouse roof. She was pale where Vask was black, with the same great wings and backward horns. She lifted her head when Orsane passed beneath her.
 
 “Little thorn.”
 
@@ -80,7 +84,7 @@ Orsane stopped. Her mother had called her that; Leth had made it affectionate by
 
 The pale creature's lip lifted from her teeth. “Of course. You shall have your own.”
 
-Inside, the servants had taken down the banners and had not known what to put in their place. Bare rectangles marked the walls. Someone had washed the throne room, but a scorch reached from the foot of the dais to the broken western windows.
+Inside, the servants had taken down the banners and had not known what to put in their place. Bare rectangles marked the walls. Someone had washed the throne room, but a scorch reached from the foot of the dais to the broken western windows. Snow drifted through them onto the blackened stone. Servants stood with their hands tucked beneath their arms, watching it settle.
 
 Her mother's crown rested on a cushion, black thorns set with red stones. Orsane put it on. One of the points caught in her hair.
 
@@ -194,7 +198,9 @@ Harnet caught the second strap.
 
 Vask looked from one to the other. Then he lay down.
 
-They flew west over the thawing forest. Orsane's skirts snapped against Vask's flanks, black lace over dark red. Harnet clung behind her. Below, people moved along roads that had been closed for a generation, carrying bundles and pulling handcarts toward the western valley.
+They flew west over the thawing forest, beneath a low white cloud that kept pace with them. When Vask banked, the snowfall banked with Orsane. It whitened his back and streamed behind his wings, laying a fresh swathe across the brown breaks in the woods. Beyond that moving winter, the thaw continued.
+
+Orsane's skirts snapped against Vask's flanks, black lace over dark red. Cold pinched her bare shoulders. Harnet clung behind her, his breath white beside her cheek. Below, people moved along roads that had been closed for a generation, carrying bundles and pulling handcarts toward the western valley.
 
 She had met one of those families the previous day. A man had shown her an iron key and said he was going to find out whether his front door still existed. He had asked if she was going home too.
 
@@ -268,7 +274,7 @@ She hauled on the harness. It was like trying to steer a hill.
 
 An arrow struck his shoulder and vanished into the fur. Harnet rose against the straps, shouting his own name.
 
-Vask landed hard on the wall walk beside the gatehouse. Stone broke beneath his claws. A young soldier aimed a crossbow at Orsane's face.
+The snowfall reached the eastern wall with them, sweeping over stones that had been bare a moment before. Vask landed hard on the wall walk beside the gatehouse. Stone broke beneath his claws. A young soldier stared at the crown through the falling white, then aimed a crossbow at Orsane's face.
 
 “Stand down,” Harnet said.
 
@@ -332,7 +338,7 @@ She caught his lower jaw with both hands, just as she had on the forest road.
 
 “You can get me clear,” she said, breathless. “Then what?”
 
-He held her above the walk.
+He held her above the walk. Snow gathered on the black lace stretched between his teeth.
 
 She could see it in his face: the flight home, the closed doors, his wing over her while the city screamed. He would keep every sharp thing away from her. He would be so gentle.
 
@@ -414,7 +420,7 @@ Orsane found a gap beneath Vask's torn wing and pointed through it.
 
 “I see them.”
 
-He sent the soldier down to bring up the spears. Orsane held the shield over Vask's exposed foreleg while he turned. She could not tell how much time passed. Her arms shook; each blow knocked the iron rim against her crown. Once Vask stumbled, and hands she did not know reached out beside hers to hold the shield in place.
+He sent the soldier down to bring up the spears. Orsane held the shield over Vask's exposed foreleg while he turned. She could not tell how much time passed. Her arms shook; each blow knocked the iron rim against her crown. Snow crusted the handle between her stiffening fingers. Once Vask stumbled, and hands she did not know reached out beside hers to hold the shield in place.
 
 The spears came up. Men who had been trying to kill him less than an hour before stood beneath his wings and stabbed at anything that came through.
 
@@ -462,9 +468,9 @@ He stood with his head hanging beyond the parapet. She rested her forehead again
 
 Orsane shut her eyes. Beneath her hand his fur was warm, and the muscles in his jaw would not stop trembling.
 
-They stayed on the wall through the night. Vask would not leave it, and Orsane would not leave him. She slept briefly against his foreleg, waking whenever someone was brought up the stairs to ask whether the monsters would return.
+They stayed on the wall through the night. Vask would not leave it, and Orsane would not leave him. Snow banked against the broken parapet and lay deep on the gatehouse ruins. The people still sheltering beneath his wing pressed closer to his warm fur; Orsane made room for the young soldier beside her. She slept briefly against Vask's foreleg, waking whenever someone was brought up the stairs to ask whether the monsters would return.
 
-At dawn, a bell rang inside the city.
+At dawn, snow was still falling around them. A bell rang inside the city.
 
 Vask's head came up. His good wing opened. Orsane felt the people sheltering beside them go still.
 
