@@ -84,7 +84,7 @@ Inside, the servants had taken down the banners and had not known what to put in
 
 Her mother's crown rested on a cushion, black thorns set with red stones. Orsane put it on. One of the points caught in her hair.
 
-Marshal Harnet watched from beside the doors.
+Marshal Harnet watched from beside the doors. He had come that morning to meet the reported heir.
 
 He had surrendered his weapons to the castle steward. His right hand was bandaged, two fingers stiffly splinted. He looked less like the man who had ended a reign of terror than a tired guest who had arrived before his room was ready.
 
@@ -119,6 +119,8 @@ Harnet tried to draw breath.
 “Vask.”
 
 “You held her while the swords went in.”
+
+For a moment Orsane could think only of his hands on her mother's wrists.
 
 Orsane ran down the steps and put herself between his muzzle and the marshal. Vask drew back so quickly that his horns scraped the wall.
 
@@ -236,7 +238,7 @@ He was silent so long that she thought the wind had taken the words.
 
 Orsane remembered his fur against her mouth. She had been trying to be quiet. Her mother had grown so angry when she cried in front of guests.
 
-“You could feel me.”
+“You could feel me shaking.”
 
 Vask's head turned forward again.
 
@@ -294,7 +296,7 @@ Leth screamed. The circling creatures folded inward.
 
 “Back!” Harnet pushed Orsane against the parapet and raised a discarded shield over her. Something struck it hard enough to drive him to one knee. Above the rim, she saw a hooked foot withdraw into the sky.
 
-The soldier with the crossbow began to sob. His foot kept slipping from the bow's winding stirrup.
+The soldier with the crossbow began to sob. He lowered the loaded bow, unable to hold it steady.
 
 “I've made it worse,” Orsane said.
 
@@ -348,9 +350,9 @@ His grip loosened. Her feet touched stone.
 
 His eye was close enough for her to see herself in it, small beneath the crooked crown.
 
-Leth struck.
+Leth struck at Harnet over Orsane's shoulder.
 
-Vask's wing came down between them. Her claws pierced the membrane. He made a sound Orsane had never heard from him, then shoved Harnet and the young soldier back beneath the wing's great ribs.
+Vask's wing came down between the marshal and her claws. They pierced the membrane. He made a sound Orsane had never heard from him, then shoved Harnet and the young soldier back beneath the wing's great ribs.
 
 Leth climbed onto the gatehouse roof to reach around him.
 
@@ -362,7 +364,7 @@ A roof beam split beneath Leth's forefoot.
 
 Vask braced his shoulder under the sagging eave. The movement opened his throat to her.
 
-“Let me take her,” Leth said. “You can keep your pets.”
+“Let me take her,” Leth said. “You can keep those two when we've finished here.”
 
 Orsane looked up at the pale muzzle. Leth had once held an apple there until an impatient little girl stopped crying long enough to laugh.
 
@@ -370,7 +372,7 @@ Orsane looked up at the pale muzzle. Leth had once held an apple there until an 
 
 “You do not know what you want.”
 
-She pulled at the roof. Tiles slid into the gateway. The man with the key bent over the child.
+Orsane stepped beneath the reaching paw. It stopped above her hair. Leth lifted it over her and hooked the eave farther along, beyond her reach. Tiles slid into the gateway. The man with the key bent over the child.
 
 “Vask,” Orsane said. “Kill her.”
 
@@ -408,13 +410,19 @@ The others kept coming.
 
 Orsane found a gap beneath Vask's torn wing and pointed through it.
 
-“The carts are clear. Push them east, over the orchard. Harnet, the stairs—”
+“The carts are clear. Drive the hunters east, over the orchard. Harnet, the stairs—”
 
 “I see them.”
 
 He sent the soldier down to bring up the spears. Orsane held the shield over Vask's exposed foreleg while he turned. She could not tell how much time passed. Her arms shook; each blow knocked the iron rim against her crown. Once Vask stumbled, and hands she did not know reached out beside hers to hold the shield in place.
 
 The spears came up. Men who had been trying to kill him less than an hour before stood beneath his wings and stabbed at anything that came through.
+
+A blunt-headed creature settled on the parapet and opened its jaws wide enough to take the sheltering wing. Orsane raised herself behind the shield. The jaws checked. It could not bite through to the men without taking her too.
+
+It thrust its snout into the narrow gap beneath the wing instead. A spear caught in its jaw. It recoiled, wrenching the shaft from the soldier's hands, and climbed into the air with the wood still hanging from its mouth. Once it circled back. Vask waited, his wing braced against the stone, spear points beneath it. The creature turned toward the forest.
+
+Another followed. The next tried the same gap and was driven back. Those still circling began making single, wary approaches, testing for a way past Vask's teeth and the spears.
 
 At last there was room between the shapes in the sky. Then there were only a few, circling beyond the bow range. One by one, they went toward the forest.
 
