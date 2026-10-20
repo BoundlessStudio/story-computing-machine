@@ -444,7 +444,7 @@ She laughed once, painfully. “I don't have one.”
 
 He took a strip of cloth from his coat and bound her palm. Neither of them looked over the wall.
 
-Below, people were being carried away from the gate. Others knelt in the dust calling names. The man with the key stood holding the child, staring at the ruin that had missed them.
+Below, people were being carried away from the gate. Others knelt in the trampled snow calling names. The man with the key stood holding the child, staring at the ruin that had missed them.
 
 “This doesn't buy you a kingdom,” Harnet said.
 
