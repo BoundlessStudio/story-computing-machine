@@ -292,7 +292,7 @@ Her wings opened.
 
 “I came here.”
 
-Leth screamed. The circling creatures folded inward.
+Leth screamed. Across the city, the creatures turned from the roofs and towers toward Orsane at the gate.
 
 “Back!” Harnet pushed Orsane against the parapet and raised a discarded shield over her. Something struck it hard enough to drive him to one knee. Above the rim, she saw a hooked foot withdraw into the sky.
 
@@ -362,7 +362,7 @@ Below the arch, a cart overturned. People were pressed shoulder to shoulder ther
 
 A roof beam split beneath Leth's forefoot.
 
-Vask braced his shoulder under the sagging eave. The movement opened his throat to her.
+Vask braced his shoulder under the sagging eave before it could fall into the packed arch. The movement opened his throat to her.
 
 “Let me take her,” Leth said. “You can keep those two when we've finished here.”
 
@@ -372,7 +372,7 @@ Orsane looked up at the pale muzzle. Leth had once held an apple there until an 
 
 “You do not know what you want.”
 
-Orsane stepped beneath the reaching paw. It stopped above her hair. Leth lifted it over her and hooked the eave farther along, beyond her reach. Tiles slid into the gateway. The man with the key bent over the child.
+Orsane stepped beneath the reaching paw. It stopped above her hair. Leth lifted it over her and hooked the eave farther along, beyond Orsane's reach. Tiles slid into the gateway. The man with the key bent over the child.
 
 “Vask,” Orsane said. “Kill her.”
 
@@ -380,7 +380,7 @@ He did not move at once.
 
 Leth looked at him. Their horns almost touched.
 
-Then he heaved the broken eave outward and lunged.
+Then he heaved the broken eave outward and lunged. His jaws closed on Leth's throat.
 
 Orsane dragged Harnet back. The roof tipped away from the gateway and spilled down the outer face of the wall. Vask and Leth went over with it. A white wing beat once above the parapet.
 
@@ -410,7 +410,7 @@ The others kept coming.
 
 Orsane found a gap beneath Vask's torn wing and pointed through it.
 
-“The carts are clear. Drive the hunters east, over the orchard. Harnet, the stairs—”
+“Vask, throw the creatures east, over the orchard. The carts are clear. Harnet, the stairs—”
 
 “I see them.”
 
