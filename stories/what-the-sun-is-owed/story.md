@@ -392,7 +392,7 @@ She remembered Sovel turning her hand over in the light. The laugh that had almo
 
 The words came through the boards beneath the cloth. Ordan could not hear them. He sat waiting for her answer as though there were only two people in the room.
 
-She asked where the others were. He gave her a winter port six weeks away, an island neither had visited in a century. She made him try to remember someone she could reach before dark. The afternoon light travelled along the floor while his answers took her farther from anyone she could ask. At last he named a woman who had stayed in this room after the sun called her name.
+She asked where the others were. He gave her a winter port six weeks away, an island neither had visited in a century. She made him try to remember someone she could reach before dark. The afternoon light travelled along the floor while his answers took her farther from anyone she could ask. At last he told her of a woman who had stayed in this room after the sun called her name. Before taking his blood, she had asked him to wait until her children were asleep.
 
 Neris stood.
 
@@ -400,11 +400,11 @@ Neris stood.
 
 “You know what happens. Something calls your name, you answer, and there is no one left to bury.”
 
-“Have you looked for them?”
+“Did you look for her?”
 
 His fingers tightened around the seed.
 
-“I searched their rooms. There was light where she had been standing.”
+“I searched this room. There was light where she had been standing.”
 
 “And the stars that weren't there before?”
 
