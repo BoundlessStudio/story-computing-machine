@@ -350,6 +350,10 @@ Miri crouched in front of me.
 
 The question had never sounded like that during a siege.
 
+There had been a witch, my fifth, who asked me to leave a door open. She was going out to speak to an enemy. I had obeyed, and she had come home. Another had asked the same thing, and hadn't. For a long time I had found it easier to remember the second.
+
+My claws gripped the boards.
+
 “I am holding the school.”
 
 Dulcie had come to the edge of the stage. “Is that your cat?”
@@ -410,11 +414,11 @@ Miri held the paper very still.
 
 “I don't know anyone there,” Dulcie said. “I'm allowed to want friends.”
 
-There had been a witch, my fifth, who asked me to leave a door open. She was going out to speak to an enemy. I had obeyed, and she had come home. Another had asked the same thing, and hadn't. For a long time I had found it easier to remember the second.
+Miri looked towards the microphone. Dulcie had gone back to the keyboard and was lifting her fingers to the keys.
 
-Miri put the sheet down. She looked towards the microphone, then at Dulcie, who had gone back to the keyboard but had not begun playing.
+Miri put the song sheet face down.
 
-“Don't,” Miri said.
+“Don't play it,” she said.
 
 Dulcie took her hands away.
 
@@ -480,9 +484,19 @@ I looked up. She was still not offering me her hand.
 
 Dulcie's mother looked from her watch to the black shape of my shadow, which was already lengthening across the pavement.
 
+“Wait,” she said.
+
+I drew it back under me. She watched until the shadow lay small and still beneath my paws. Her hand remained closed around Dulcie's wrist.
+
 “Can you do that safely?”
 
 “Yes.”
+
+“And if I tell you to put us down?”
+
+“At once.”
+
+She looked along the line of red brake lights in the road, then checked her watch again.
 
 “Dulcie?”
 
@@ -600,7 +614,7 @@ I looked at the keyboard case. She would outgrow the grey hoodie. There would be
 
 Miri pulled her knees up beneath her chin.
 
-“I was horrible to Dulcie.”
+“I was horrible to Dulcie. She was scared and I still wanted her to finish the song.”
 
 “You let her go.”
 
