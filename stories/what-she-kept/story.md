@@ -428,15 +428,21 @@ Her name shook the valley.
 
 He tore himself backward. The hand that had been reaching for Daret swept across the altar, and its fingers lost their gold. The crown struck the stone and broke.
 
-He was growing as he fled. His shoulders rose above the ridge, his feet passed over the hollow, and the storm he had gathered around his body lifted with him. It filled the sky with black folds. Between them she saw his living chest, immense, laboring for a breath.
+Daret's knee cracked beside her. She heard his palm strike the altar as he tried to push himself up.
+
+Orvek grew as he fled. His shoulders rose above the ridge, his feet passed over the hollow, and the storm he had gathered around his body lifted with him. It filled the sky with black folds. Between them she saw his immense chest.
 
 Her body held her where she stood. She could not raise her head to follow his face, but his body still filled her sight, and he carried the ending with him.
 
 He called the thunder down.
 
-White branches reached from his hands toward the ridge. Before they struck, they frayed into thin, soundless threads. The wind hurled itself against Ivara's rigid body. She heard Daret grunt as he rose, and the scrape of his heel finding ground behind her.
+White branches reached from his hands toward the ridge. Before they struck, they frayed into thin, soundless threads. The wind hurled itself against Ivara's rigid body.
+
+A heel scraped behind her, then slipped. Daret grunted.
 
 Orvek flung his arms wide. Cloud streamed away from them. For an instant he hung across the hollow like a second range of mountains, and all the air below him darkened.
+
+At the edge of her vision, the altar settled. A seam of white dust opened through it. The northern tooth of the ridge, the landmark by which generations had found their way home, tipped slowly out of the sky.
 
 Then the light went out in one of his hands.
 
@@ -444,15 +450,11 @@ It did not fall. It lost its shape, and the loss ran up his arm. Through the pla
 
 Green.
 
-A color she had held in memory for a thousand years was there, alive, so far away she could hardly believe she was seeing it. The firs stood in ranks up the mountain. Beneath them a pale thread of road curved out of sight.
+A color she had held in memory for a thousand years was there, alive.
 
-The god was coming apart in front of it.
+Daret's breath was close behind her ear. His hand struck her hair, then slid free.
 
-She heard Daret's knee crack. His breath was close behind her ear. His hand struck her hair, trying to find the place where he could lay the cloth.
-
-At the edge of her vision, the altar settled. A seam of white dust opened through it. The northern tooth of the ridge, the landmark by which generations had found their way home, tipped slowly out of the sky.
-
-Orvek was still screaming. The dark outline of his ribs divided the mountain beyond him into strips. On the road there were little moving marks.
+The firs stood in ranks up the mountain. Beneath them a pale thread of road was alive with little moving marks. The gap widened as the god's shoulder gave way. He was still screaming.
 
 She could not shut her eyes.
 
@@ -550,7 +552,7 @@ Daret was quiet long enough that Ivara turned toward him.
 
 “I asked Ivara to kill him,” he said. “She chose to come.”
 
-“Your crown, Majesty. A piece of it. I found it on the path.”
+After a moment, the captain drew a breath. “Your crown, Majesty. A piece of it. I found it on the path.”
 
 “Keep it for now. I need both hands.”
 
