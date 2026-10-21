@@ -747,5 +747,3 @@ This time, when she spread her wings, they watched her face.
 Hox gave them four beats on the broken drum.
 
 Veska came in on the fifth.
-
-
