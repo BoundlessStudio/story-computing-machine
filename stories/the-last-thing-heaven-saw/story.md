@@ -454,7 +454,7 @@ A color she had held in memory for a thousand years was there, alive.
 
 Daret's breath was close behind her ear. His hand struck her hair, then slid free.
 
-The firs stood in ranks up the mountain. Beneath them a pale thread of road was alive with little moving marks. The gap widened as the god's shoulder gave way. He was still screaming.
+The firs stood in ranks up the mountain. Beneath them, little marks moved along a pale thread of road. The gap widened as the god's shoulder gave way. He was still screaming.
 
 She could not shut her eyes.
 
