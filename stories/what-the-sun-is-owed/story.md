@@ -388,11 +388,11 @@ He sat beside her, leaving room between them.
 
 She remembered Sovel turning her hand over in the light. The laugh that had almost become weeping.
 
-Ordan began to give her names. Some she knew; some belonged to people who had gone far from the coasts she had travelled. A woman who had asked him to wait until her children were asleep. A man who had needed a year to decide, and a girl who had found him again as an old woman. Neris asked what had become of them. For some he knew. He went on through the afternoon, telling her what they had asked for, while the stripe of light from the stairwell travelled along the floor. When he stopped, the sea beyond the shutters sounded different under the rising wind.
-
 “My fire,” said the sun.
 
 The words came through the boards beneath the cloth. Ordan could not hear them. He sat waiting for her answer as though there were only two people in the room.
+
+She asked where the others were. He gave her a winter port six weeks away, an island neither had visited in a century. She made him try to remember someone she could reach before dark. The afternoon light travelled along the floor while his answers took her farther from anyone she could ask. At last he named a woman who had stayed in this room after the sun called her name.
 
 Neris stood.
 
@@ -404,7 +404,7 @@ Neris stood.
 
 His fingers tightened around the seed.
 
-“Yes.”
+“I searched their rooms. There was light where she had been standing.”
 
 “And the stars that weren't there before?”
 
@@ -578,7 +578,7 @@ He watched her.
 
 The word hung between them. Ordan looked down at the hand he had put over hers on the shutter bar.
 
-Outside, the light moved. The edge of her shadow passed off the top stair. They had been in this room for hours. The sun was low enough now that its warmth reached through the open window along the floor.
+Outside, the sun had dropped low enough to send a long red band across the floor, from the terrace window to the head of the stairs.
 
 Ordan opened his fist.
 
@@ -616,11 +616,11 @@ She pulled away. He held her easily. Behind him was the stairwell; she had backe
 
 The seed burned warmly through her fingers. In the blood beneath it something answered, glad to be alive.
 
-Her shadow's hand was sliding off the far side of the room as he turned her from the window. Only the tips of its fingers remained beside his boot.
+He was forcing her sideways out of the sunlight. Her shadow narrowed across the top tread; the fingers beside his boot began to vanish.
 
-Neris planted her free hand against the wall and turned her shoulder back toward the light.
+Neris planted her free hand against the side wall and twisted her shoulder back into the red band.
 
-The shadow lengthened. Its fingers crossed his heel.
+The shadow spread across the tread. Its fingers caught his heel.
 
 It was no more than the pull that had broken her cup. His weight was already forward, his heel half off the tread. His foot slipped the width of a finger.
 
@@ -687,6 +687,8 @@ She would have to eat. Tomorrow she would have to learn what else her body neede
 On the cliff road, Sovel picked up the chart. She stood looking at it. Then she rolled it and put it inside her coat.
 
 Ordan watched the new star. Neris could not tell whether he was seeing what he had stolen or what he had lost.
+
+Then he lifted his gaze to the place the other star had appeared and spoke that person's name again. Neris looked for the face. She could not find it through the daylight. Somewhere beyond it the little dark bodies were still turning.
 
 She reached for his hand, the hand that had worked the caught hair loose from her clasp that morning.
 
