@@ -4,586 +4,478 @@ created: 2026-10-21
 canon: false
 ---
 
-# The Last Thing Heaven Saw
+The emperor took off his crown before he crossed her threshold. He had kept it on while his brothers died.
 
-Daret's right knee gave a small, dry click as he knelt. Ivara heard it through the thunder.
+Ilessa heard the hinges of its case, the small disturbance among the men behind him, and then his bare footsteps on her tiles. He had removed his boots as well. That was excessive, but she let him decide how frightened he wished to be.
 
-At seven he had dropped onto these same tiles so hard that the court had winced. His father had ordered him to pay respect to the most beautiful woman in the kingdom, and Daret had obeyed with the violence he brought to everything then. While the emperor spoke, the boy had leaned close enough for her to smell the orange he had stolen.
+“Your men can wait outside the garden.”
 
-“Is it red on the inside too?”
+Darovan dismissed them. When the last harness stopped ringing, he knelt.
 
-His father had struck him for that. She remembered the flat sound of the blow, and the child's furious effort not to cry in front of her.
+She sat beside an open window. The afternoon had warmed the stone beneath her hands. In the garden, fruit was splitting in the heat; she could smell the sweetness through the bitter leaves. This was an hour she liked. For most of her life there had been someone who believed his need more urgent than her pleasure in it.
 
-Now he was seventy-four. The court waited behind his silence. Somewhere beyond the palace a roof came down, its long collapse swallowed by another roll of thunder.
+He laid something at her feet. Gold struck gold, four times.
 
-“I need you to kill Orvek,” he said.
+“My crown,” he said. “And those of the west.”
 
-Someone at the doors drew a sharp breath. Ivara turned her head toward the sound, and a scabbard struck the wall.
+“I asked you to leave your men. Have you brought their kings instead?”
 
-“Where is he?”
+“Their kings are dead.”
 
-“Above the eastern quarter.”
+She waited.
 
-“And beneath him?”
+“I need your help.”
 
-Daret did not answer.
+“Then you should have begun with what you need.”
 
-She sat with her hands loosely folded. The silk against her eyelids was new; she had replaced it yesterday, before the roads filled. Its ends lay over one shoulder beneath her silver hair. There had been wool, linen, velvet, silk. She had kept the color for a thousand years.
+He drew a breath through his nose. He had a soldier's care for his breathing, using it to hold still what wished to shake. She had heard men breathe like that before a charge. Beyond the window, a wasp worried at the open flesh of a peach.
 
-“We cleared the barracks,” Daret said. “Most of the houses.”
+“Namar has taken the high throne.”
 
-“Most.”
+“I heard the bells.”
 
-“I can't get the rest out while he keeps bringing the streets down.”
+“He defeated the Nine at their own gates. He broke the Spear-Bearer. The others have sworn to him.”
 
-A woman's voice said, “Majesty, perhaps if the Lady were taken to the north tower—”
+“And you?”
 
-“No.”
+“My armies closed their temples in the west. My people fill his.”
 
-Ivara had not raised her voice. The woman stopped.
+There was pride under the fear. She was glad he had not tried to hide it.
 
-Beyond the windows the god spoke. He used the thunder for his voice, and the windows rattled in their frames.
+“What does your god want?”
 
-“DARET.”
+Darovan's next breath was less orderly.
 
-The emperor's breath caught with a small, involuntary sound. Ivara had heard him make it once before, at seventeen, when he had come to her after his first submission.
+“Your eyes, to be set into his coronation crown. Two places have been cut in the gold.”
 
-“He wants the crown back,” Daret said. “At dawn. On the ridge altar. The whole city is to watch me give it.”
+Ilessa lifted her hands from the warm stone.
 
-“The old rite?”
+“He put it in those words?”
+
+“He said the last power that would not kneel would be made an ornament.”
+
+“What were yours?”
+
+“I said I could carry a demand. I could not give him what was yours.”
+
+“Yet you carried the crowns of the west.”
+
+The wasp left the peach. She listened to it go.
+
+“I have thirty thousand men within a day's march,” Darovan said. “The northern passes can be held. If you will come behind my walls—”
+
+“When is he coming?”
+
+“He will send his war hand at noon tomorrow. He stays on the throne when he uses it.”
+
+“Then you have until noon to clear the imperial avenue. Clear the pilgrimage stair as well, from its first step to Heaven's gates. No soldiers. No priests.”
+
+“You mean to go to him?”
+
+“He has announced that he means to come to me.”
+
+The emperor shifted on his knees. One of the crowns scraped across the tile. She reached toward the sound, and he put it into her hand.
+
+The fourth point had been bent inward. She knew it under her thumb.
+
+“This one should be in a grave.”
+
+“It was my ancestor's.”
+
+“He had a loud laugh. He thought that made his jokes good.”
+
+Darovan was silent for a while.
+
+“There is a portrait,” he said at last. “In the old palace. He stands beside you. When I was a boy I thought the painter must have loved you.”
+
+“He disliked me. I would not let him use white for my hair. It was silver even then.”
+
+“Your face has not changed.”
+
+She heard him look. They always grew quiet when they did, even those who had rehearsed what they would say. She was still the most beautiful woman in his kingdom. A thousand years of portraits had failed to prepare a single emperor for the woman at the window, with the crimson cloth over her eyes and the old crown loose in her hand.
+
+She returned it.
+
+“Your ancestor asked me to look at his enemies.”
+
+“What did you tell him?”
+
+“He was standing in front of them.”
+
+Darovan took the crown very carefully.
+
+“Will Namar listen?”
+
+“I don't know him.”
+
+“He has beaten gods.”
+
+“Yes,” she said. “You told me.”
+
+She rose. Dark cloth slipped over the edge of her chair. Darovan drew back to give her room, still kneeling, and she went past him to the door.
+
+“Ilessa.” He had to force her name out. “If there is a war—”
+
+“There is already a war. You brought four crowns into my house.”
+
+He said nothing more.
+
+“Take them with you,” she said.
+
+She heard him gather them by their bands. He had difficulty carrying so many without letting them strike one another.
+
+Outside, the sun lay warm upon her covered eyes.
+
+She had tied the first crimson strip a thousand years before Darovan's visit. Everyone who had watched her tie it was dead. The woman who had held her hair away from the knot; the man who had been unable to stop thanking her; all the people who had promised she would never be asked for anything again.
+
+The peach trees still ripened. Men still mistook the gift for a debt.
+
+She went into the garden and sat beneath the leaves until the stone lost its heat.
+
+***
+
+At noon the imperial avenue was empty.
+
+No carpet had been laid for her. She had sent it back. Her shoes sounded plainly on the pale paving, beneath the balconies and the shut doors of the goldsmiths. People waited in upper rooms. She heard a shutter open, a hurried whisper, the shutter held before it could slam.
+
+The city had grown toward her house over the centuries. There had been a field here once. Later, a wall, and a gate at which a man had asked her business. She remembered being pleased with him. He had been very young and had taken his duty seriously.
+
+Now there were victories carved along the avenue, high enough for a conqueror on horseback to admire. Darovan had ordered the newest figures gilded. When the wind came from them it smelled of worked metal and the last bitter drying of size.
+
+At the Temple of Spears, something heavy moved backward.
+
+Ilessa stopped.
+
+The bronze feet moved again. A long shaft rattled against a lintel.
+
+“I thought he broke you,” she said.
+
+“He broke my spear.”
+
+The voice came from well inside the temple. Once it had spoken over battles. Men had heard it with blood running from their ears. Now it was having trouble getting past the doorway.
+
+“And you swore to him.”
+
+“He had the high throne. What would you have had me do?”
+
+“I have not asked you to do anything.”
+
+A quick breath, too large for a human chest.
+
+“I did not advise this.”
+
+“Keep out of the avenue.”
+
+The god retreated until its feet no longer sounded on the temple floor.
+
+She resumed walking.
+
+Farther on, incense ceased to burn. A small god who lived in the heat above a jeweler's altar fled through the roof with a noise like tearing silk. Three priests called after it by three different names. None brought it back.
+
+The silver bells at the palace began the noon measure. Before they reached the seventh note, a voice rolled down from the mountain.
+
+“At last.”
+
+Its force pressed the air against Ilessa's face. Every shutter in the avenue shook.
+
+She stopped where the street widened before the palace. The paving here was bare for a hundred paces. Behind her, an iron bolt was drawn very softly.
+
+“Where are you?” she asked.
+
+“Where this kingdom kneels.”
+
+The heat arrived before the hand. She felt the hairs at her temples stir in it. Above her a vast palm turned, and the avenue darkened. Rings rang against one another, each larger than a wheel. Something brushed the top of the victory arch; stone burst into dust and fell well behind her.
+
+“Give me the cloth,” Namar said.
+
+She tilted her face up. A broad, hot finger lowered toward the back of her head, seeking the knot.
+
+Ilessa raised the lower edge of the blindfold over one eye.
+
+She saw gold.
+
+After so long, its brightness startled her. For a heartbeat she wanted only to look: the intricate creases of a hand too large to be born, the white fire in its joints, a narrow piece of blue between its fingers.
+
+The nearest finger vanished. The absence widened through the palm. Its rings disappeared with it, and the heat broke away from her face.
+
+She closed her eye and lowered the cloth before moving her head.
+
+Sunlight returned to the avenue. Nothing fell from the place where the hand had been.
+
+Namar did not speak.
+
+There was a murmur behind the upper shutters. Someone began to pray and was silenced by someone else.
+
+“That was your hand,” Ilessa said. “Will you come yourself?”
+
+From the mountain came the hard crash of gates closing. Its echoes moved down the slopes, striking the lesser temples one by one.
+
+She waited until they were finished.
+
+“Come down without your crown. Tell the kingdom you had no right to demand my eyes. Renounce your claim upon me. Then I will leave you alive.”
+
+Her voice was not loud. In the emptied avenue it carried.
+
+The mountain gave no answer.
+
+She turned toward the pilgrimage stair.
+
+***
+
+Namar had chosen his seat well. From the low city, the mountain's rim hid his living body. An emperor could see the banners of Heaven and the light it cast into the clouds, but never the god who received his petitions.
+
+Ilessa could have looked at the mountain. The houses climbing its slopes would have gone first.
+
+She took the stair.
+
+At the first turn she put a hand to the wall. There was a deep groove in the stone where pilgrims had touched it for luck. Higher up, the groove became intermittent. Most people who began the climb never reached Heaven. There were lower altars at which to surrender their gifts.
+
+She went past the altars. The sun moved to her left. Her breath shortened on the steep sections, and the muscles above her knees began to ache.
+
+She had not promised to preserve Namar's peace. He had reached into a city to take her eyes, then shut a door when he failed. If she let the closed door settle the matter, he would come back with a better hand. Or the next emperor would.
+
+She stopped to tighten the knot behind her head. It was hard to do with her hair lifting in the wind. Once secure, she smoothed the silver strands out from beneath the cloth and continued.
+
+The first god fled above her at the eightieth turn. Six wingbeats struck the air in rapid succession. Ilessa leaned against the wall until the gust had passed.
+
+From far above came Namar's summons.
+
+It was an immense note, shaped by a living throat. She had heard it before, from the city, on the day he took the high throne. Then the Nine had answered, one after another, until the windows rattled in her house.
+
+This time something scraped along an upper ledge. A heavy body launched itself into the air and departed southward, keeping far to the west of the stair.
+
+Namar called again.
+
+A voice answered him from a considerable distance.
+
+“You knew what she was.”
+
+“Come here.”
+
+The wind carried a thin, undignified cry. The speaker was going farther away.
+
+Namar's summons followed her up the mountain. He called upon oaths, upon debts, upon the seats he had allowed the Nine to keep. She heard him promise victory to anyone who would stand beside him.
+
+Ilessa climbed into cold air.
+
+Above the last inhabited terrace, the stair crossed a stretch of bare rock. She stopped there to rest. The wind had the clean mineral smell of the summit. No cook smoke, no grain, none of the warm scents of people pressed together. A loose offering bowl rolled somewhere nearby, struck a step, and went ringing down the mountain.
+
+She remembered this slope before the stair was cut, when there had been only a narrow track. There had been flowers in the cracks. She had seen them: small yellow things with five petals, before anyone called her dangerous.
+
+The memory still had its yellow. She was grateful for that.
+
+She could have gone back. The thought came without shame. Darovan would call the broken hand a victory; priests would find a way to leave Namar's retreat out of their songs. There would be fruit in the garden for another week.
+
+She rose.
+
+Above her, the great gates were being barred.
+
+At the final turn her hand ran out of wall. Wind came from ahead now, cold and unobstructed. She had reached the little shelf beneath the gatehouse. Six broad steps led up from it into the court. Before there were gates here, she had stood on this shelf and watched clouds pass beneath the summit's far lip. Behind her were the warm smells of the terraces.
+
+The first king who built a hall on this summit had asked whether he could put a throne in it for her. She had refused it.
+
+Now she set her palm upon the old threshold stone. The notch he had cut for the first gate remained beneath the later metalwork.
+
+“I am here,” she said.
+
+An enormous breath moved on the other side.
+
+She waited.
+
+Footsteps hurried across the court to her right, into the white-pillared gallery. A chain began to run through a winch there.
+
+He was lowering the high drawbridge. It led from Namar's court to the old gods' refuge on a separate pinnacle. She had crossed it once with a god who spent most of the journey describing the terrible distance below. He had thought he was amusing her.
+
+“Will they receive you?” she asked.
+
+The chain stopped.
+
+For a moment there was only the wind.
+
+“Go back,” Namar said. “You have had your answer.”
+
+Ilessa faced the high gold doors and lifted a corner of the blindfold.
+
+Gold filled the narrow slit, with a strip of pale sky above it.
+
+The gold parted without bending. A lane of absence opened straight across the court to the sky beyond. She shut her eye.
+
+Wind rushed through the opening. The winch rattled violently.
+
+She turned her covered face toward the bridge.
+
+She lifted the cloth again.
+
+The white bridge swung down from the gallery's outer end, bright against the sky.
+
+She looked at the middle of the span.
+
+A gap opened in the bridge and widened to either end. Ilessa closed her eye before turning back toward the gallery.
+
+The chain rattled to a stop against its wheel.
+
+“You knew that road,” Namar said.
+
+“I crossed it before you had an altar.”
+
+Namar called the Nine by their oldest names.
+
+He called the Spear-Bearer, whose western temples Darovan had closed. He called the god of the western air and the twins who carried evening between them. His voice grew rough. He offered the high seats back. He offered the conquered kingdoms.
+
+At last, from the direction of the refuge, a god answered.
+
+“We will not cross in front of her.”
+
+“Come behind her, then.”
+
+“You come behind her.”
+
+No one laughed. Ilessa felt the cold wind moving over her hands.
+
+“The stair is open,” she said. “You can walk down it.”
+
+Namar came back along the gallery, his steps heavy now.
+
+“You would have me crawl past you.”
+
+“Walk. There are steps. Take them carefully.”
+
+She heard the sound he made at that. Anger suited him better than fear. He found his great voice again.
+
+“I have waited three hundred years for this crown. They used to ring for me when their banquet lamps went out. Little Flame, they called me. They will ring again if I go down past you.”
+
+“Let them ring. You may have three hundred more years without that crown.”
+
+He was quiet.
+
+“What would you leave me?”
+
+“Your life. Your own altar. Those who choose to kneel before it. Give back the high throne and renounce your claim upon me. No one will take my eyes for you. Say it where the kingdom can hear, and I will go down the stair.”
+
+She meant it. She had no desire for his temples, and three hundred years was long enough to acquire something worth keeping. Let him remember it. Let him live beside it.
+
+“And the other gods?”
+
+“You can ask them what they will forgive.”
+
+His breath came out slowly. Far below them, an eagle cried.
+
+She could feel how badly he wished her to be someone else: an old god to whom he could offer a kingdom, a woman to whom he could offer a god's bed, a rival whose followers could be starved into submission. There was nothing in her hands for him to take. Even the cloth was tied with an ordinary knot.
+
+“You will swear to leave?” he asked.
+
+“I have given you my word.”
+
+The pause lasted long enough for her to hope.
+
+Then metal struck stone in the gallery. He had set his crown down, but she heard the scrape of its rim being driven into a groove. A ringing note rose from the gold. She had heard that note from the mountain when he took the high throne, followed by a blaze she had felt in the city below.
+
+She took her hand from the threshold.
+
+“Namar.”
+
+He drew a vast breath.
+
+“I will not go back.”
+
+The court filled with heat.
+
+It struck her face hard enough to hurt. Her sleeves snapped against her arms. In the pillared gallery, the living god gathered his force into the crown beneath his hands. He had broken the Nine with one sudden stroke, catching them still in their seats. He sent the whole of that strength at her now, without another word. Stone cracked, and the wind bent away from him.
+
+Ilessa turned her covered face toward the sound. She raised her chin a little. The gallery stood above her; beyond it there was only sky. The stair ran down behind her heels.
+
+Fire rushed toward the threshold.
+
+She lifted the crimson cloth and opened both eyes.
+
+***
+
+Namar stood among the gallery's white pillars, taller than any of them, with the crown blazing between his hands. He had made himself beautiful. His skin shone like the inside of a shell. Six arms spread from his shoulders, each scarred by an old victory. There was fury in his face, and the effort of holding something enormous. Above the crown's rim, two empty settings waited for her eyes.
+
+The fire came to an end in front of her.
+
+For an instant he could see her plainly: the silver hair blown back, the dark dress drawn tight in the wind, the cloth held against her brow. She was looking up at him. Her mouth was closed.
+
+He drove the crown forward.
+
+The gold disappeared between his hands.
+
+His lower arms went with it. Blue opened in his body. He tried to bring the remaining hands together, holding his fire in the narrowing places where he still existed.
+
+Ilessa kept looking.
+
+She saw the lines cut into his throne, the crowded figures of kneeling gods along its base. The throne ceased to be. Pillars opened from their bright capitals downward. The roof went, and with it the banners she had heard so often from the city, beating above a place she could not see.
+
+Namar made one last attempt to strike her. His surviving hand reached out through the vanishing gallery, immense and empty.
+
+She watched until it was gone.
+
+Beyond him the sky was the same blue she remembered. She had expected, after a thousand years, to find it altered.
+
+She closed her eyes before her gaze could lower, and brought the cloth down over them.
+
+The heat left her. Wind came across the ruined summit from the far side. Nothing crashed into the valleys. There was no great weight left to fall.
+
+She stood a while on the lower shelf, with her feet on the stone where the first king had cut his gate notch.
+
+Then she retied the blindfold.
+
+“Come here,” she said.
+
+No one answered.
+
+She waited with the patience that had outlasted their temples.
+
+At last wings moved beyond the court. A large body settled at the far end of the shelf, careful to keep away from the space directly before her face.
+
+“We did not help him.”
+
+It was the god who had answered from the refuge. Its voice was quite small now.
+
+“Bring the others.”
+
+“What do you want?”
+
+“You will carry me down through the city.”
+
+A pause.
+
+“The stair remains.”
 
 “Yes.”
 
-She remembered his description. A ruler knelt on the white promontory above the city. One hooded bearer carried the crown. The ruler took it, and Orvek received it from the ruler's own hands while laying a hand upon the bowed neck. Beyond them the valley fell away, and the god's other kingdoms stretched across the north.
+The god said nothing more.
 
-Orvek could send priests for taxes and officers for soldiers. The crown he collected himself.
+Soon she heard the weight of the Spear-Bearer upon the shelf, and the arrival of things whose passage changed the pressure in her ears. They spoke quietly to one another. Six gods lowered themselves until their joined hands lay level with the shelf. She stepped onto their palms. They lifted her standing.
 
-“You said his hand was warm,” she said.
+They carried her over the intact stair, past the abandoned altars, out above the inhabited slopes. Below, doors opened. People came into streets from which they had been forbidden, looking up at the gods who bore the blindfolded woman down from Heaven.
 
-“I was young enough to think that meant something.”
+She felt the warmth of the city rise to meet her.
 
-“It did mean something. He was there.”
+***
 
-“Yes.”
+Darovan waited in the imperial avenue with his crown in his hands.
 
-His first submission had bought him three borders and a long peace inside them. Every third spring he had led men out to kill beyond those borders, and the god had gone before him. He had returned with new provinces, new names for the dead, and the same voice, altered a little more each time.
+Behind him stood the court, the commanders, the priests whose gods were descending without their high king. The emperor knelt before the bearers had set Ilessa on the paving. This time the sound traveled backward through the people behind him: cloth, buckles, knees upon stone.
 
-“What did he ask this spring?”
+The gods stepped out of her path.
 
-“Three towns. Ours. He said we'd run out of enemies close enough to reach before the rains.”
+“Namar?” Darovan asked.
 
-“And this time you refused.”
+“He chose to keep his crown.”
 
-“This time.”
+Darovan drew a breath. The same soldier's breath, taken carefully, to make something bearable.
 
-She let him bear the words without helping him.
+“What would you have of me?”
 
-“He has worshippers in six other kingdoms,” Daret said. “I've closed his temples here. It hasn't weakened him enough. My army held the east gate for half a day.”
+“Stand aside.”
 
-“How many came back?”
+He moved on his knees. She passed him, and the gathered court opened before her without a word.
 
-“I haven't had the count.”
+In an upper window, someone began to weep. Elsewhere a voice called a god's name. No one answered it. The Spear-Bearer's great feet withdrew toward its temple, then stopped until she had gone by.
 
-The admission cost him. She could hear that too.
+Ilessa walked toward the quieter streets. The paving was warm. Beyond the walls there would be grass, and then the path to her unbarred house. She could smell smoke from the little kitchens the city had lit again.
 
-Ivara touched the edge of the blindfold. For a moment, sun from the high windows warmed her face. If she stood at one of them, there would be a city between her and the god. She would see roofs, flags, people at the windows, the face of whoever had been unable to leave.
+She paused where the wind from the mountain reached the avenue. For a moment, in the warmth behind the cloth, she could still see the blue.
 
-Gods had stepped off roads before her. She had once heard one scramble into thorns rather than pass within her reach. Orvek had put a city between his body and her eyes.
-
-“I will not open my eyes here.”
-
-“Then there's nothing.”
-
-“There is your surrender.”
-
-“He'll take the crown, then break my neck.”
-
-“Will that satisfy him?”
-
-“It might have, yesterday. Now he wants them all to know what happens.”
-
-The god called his name again. This time Daret did not make the little sound.
-
-Ivara stood. Cloth moved as the court drew back.
-
-“Leave us,” she said.
-
-She owned no palace and held no office. The court went because Daret told it to, with a tired motion she heard in the brush of his sleeve.
-
-When the doors had shut, he tried to get up. His knee clicked again.
-
-“You should have let them help you.”
-
-“I thought you might.”
-
-She gave him her hand. His grip had become broad and knotted. Once he had been able to fit only three fingers around hers.
-
-“Does he still expect the crown-bearer?”
-
-“Even a ruined emperor must observe the forms.”
-
-“And cover the bearer's face.”
-
-“The god grants his attention to the ruler alone. That's what the priests say.”
-
-“Good. Whose men watch the western gate?”
-
-He was quiet for a moment. Then his hand tightened.
-
-“His.”
-
-“I will leave by it before sunset.”
-
-“He knows your face.”
-
-“Everyone knows my face.”
-
-She could feel Daret considering the thing she meant. Outside, the thunder moved east. Orvek had found another building to break.
-
-“I can send a guard to the quarry path,” he said.
-
-“Meet me there yourself. I will need to know where to stand.”
-
-He let go of her. When he spoke again, she heard the boy asking a question he knew would bring punishment.
-
-“What will you see?”
-
-“Tell me when we're there.”
-
-*
-
-They opened the western gate for her, and the waiting crowd went silent.
-
-Ivara disliked that silence more than she disliked the staring she could not see. She had been told all her life how people looked at her. Painters had begged for her mornings. Emperors had sent jewels to brighten a beauty she had no means of examining. For three hundred years one family of sculptors had argued about her mouth.
-
-Now the crowd waited for her to do something beautiful or terrible. A baby began to fuss.
-
-“Who has room for me?” she asked.
-
-A cart shaft creaked. “Here, Lady.”
-
-She found its side with her stick and let a woman guide her to a plank seat. The cart smelled of turnips, bedding, and a frightened dog. As it began to move, the silence broke into the sounds of people trying to get out of one another's way.
-
-The woman beside her was struggling to breathe evenly.
-
-“Have you left someone?” Ivara asked.
-
-“My husband. He's with the gate soldiers.”
-
-“What's his name?”
-
-The woman told her. Ivara repeated it.
-
-“Will you—” The woman stopped.
-
-“I can remember him,” Ivara said.
-
-The cart jolted over the threshold. A child on the floor cried out, more angry than hurt, and the dog began to bark at the wheels.
-
-“Don't pull his ear,” the woman said.
-
-“I'm not.”
-
-“Then why is he biting you?”
-
-“He's cross.”
-
-Ivara reached down. The dog sniffed her hand and pushed its nose against her palm.
-
-Above the traffic she heard hoofbeats slowing, then keeping pace. The woman beside her fell still. Men spoke quietly on horseback. One of them asked her name.
-
-“Ivara,” she said.
-
-He made a small noise, as though he had come upon a blade lying among the bedding.
-
-“Where are you bound?”
-
-“West, if this cart holds together.”
-
-The woman gave a surprised breath that was almost laughter. The rider moved on. Before long Ivara heard his horse running back toward the city.
-
-They traveled until the road dipped behind the quarry hill and the warmth of the sun left her face. The god's thunder had grown quieter, though the wind carried the distant crashes after it. Here the quarry walls would stand between the road and anyone watching from the city.
-
-Ivara asked to be put down.
-
-“There's no house here,” the woman said.
-
-“Someone is meeting me.”
-
-The child had been silent for a while. Now a small hand caught the end of the blindfold where it lay against Ivara's shoulder. The mother exclaimed and pulled the child back.
-
-Ivara kept her own hand over the knot until the little fingers let go.
-
-“Is it for your eyes?” the child asked.
-
-“Yes.”
-
-“Do they hurt?”
-
-“No.”
-
-The mother began to apologize.
-
-“It's a fair question,” Ivara said. “Goodbye.”
-
-She listened until the cart had gone. The mother was asking the child where it had put a shoe.
-
-At the bend, a soldier took her hand. Daret had sent him to make sure the scouts passed the quarry turn before she entered it. He told her they had ridden on toward the next village, asking whether she meant to spend the night there.
-
-His fingers trembled when she let him lead her off the road.
-
-*
-
-The old quarry path was steep enough that Daret had to stop twice on the last ascent. He tried to disguise the stops as directions.
-
-“A step to your left.”
-
-She took it.
-
-“A little farther. There's loose stone.”
-
-She waited beside him until he had his breath.
-
-Below the ridge, the wind changed. It no longer smelled of smoke and crushed grass. It had the thin, dry smell of the hollow.
-
-Her mother had called that valley the greenest place in the world.
-
-Ivara had seen it green. She had seen her father walking home with his coat over one shoulder and her sister lifting her skirts to kick a ball. She had seen her own hands grown long and pale, and the white hair that had frightened her mother when it came in.
-
-On the morning the power arrived, she had been standing at the upper orchard fence. She remembered a bee in a pear blossom. The blossom browned. The bee fell, and every blossom on that tree went with it.
-
-She had tried to blink.
-
-Nothing moved. Her eyelids held open; her arms stayed at her sides. She could breathe, and hear, and watch the end move outward. The next tree withered. The orchard wall slipped into a heap of dust. Where the path ran down to the houses, the grass turned white.
-
-Her mother had been coming up behind her with a basket. Ivara had heard it strike the ground.
-
-“Don't turn,” her mother had said.
-
-She could not have turned. She could not tell her mother that.
-
-The village disappeared. For a little while the roofs kept their shapes as they descended. Then she could see the fields beyond them, and the end went there too.
-
-Her mother's hands came over her eyes. A little light remained between the fingers. Ivara saw a distant hillside whitening before cloth followed the hands and covered everything.
-
-Her knees gave way. Her mother caught her, and held a crimson sash across her face, and called her by the childish name nobody had used for years.
-
-Later her mother grew old. Ivara learned the shapes age made by touching her face. She had no last look at her, nor at anyone after her.
-
-“Ivara?”
-
-Daret's hand was on her elbow.
-
-“I'm here,” she said.
-
-They climbed the remaining steps in darkness. At the top he put her fingers against the altar's edge.
-
-“Here. You'll stand with the crown. I'll kneel to your right.”
-
-“Where is the hollow?”
-
-He guided her free hand until it pointed straight ahead.
-
-“There.”
-
-She lowered it. “And beyond it?”
-
-“The north slope. Fir trees. The road comes around the west end of the hollow and climbs beneath them.”
-
-“People?”
-
-“The first wagons are on it already. By dawn there'll be more.”
-
-“They cannot stop there.”
-
-“They aren't stopping. But they have to climb.”
-
-She stood still, making the place in her mind. Empty ground in front. Living ground beyond. Behind her, down the southern face of the ridge, the city and the rest of the people waiting to leave it.
-
-“How much of this can they see from below?”
-
-“The whole altar. He chose it so they'd see.”
-
-“When he comes, tell me where his face is.”
-
-Daret took a breath. “When do I cover you?”
-
-“When he begins to break.”
-
-“Begins?”
-
-“Don't wait for him to stop making a sound.”
-
-“And if it isn't enough?”
-
-She found his wrist.
-
-“Then it isn't enough.”
-
-He shifted beside her. She felt him wanting certainty from her, as kings had wanted it for centuries.
-
-“My mother almost lost the whole valley before she understood,” she said. “We will have less time here.”
-
-“I'll be behind your shoulder.”
-
-“You may have to move me. I won't be able to move myself.”
-
-“I understand.”
-
-He took the second strip of silk from her hand and unfolded it. For a moment the wind laid its loose end against her cheek.
-
-“How old is your granddaughter now?”
-
-“Nine.”
-
-“When I last heard her she couldn't say my name.”
-
-“She can now.”
-
-“Does she look like you?”
-
-He gave a brief laugh. “She looks like her grandmother. She's lucky.”
-
-Ivara heard him put the cloth away. She wished she could have seen the expression that went with the laugh.
-
-“The north side of the altar is worn,” he told her. “There's a hollow in it where his hand goes. I can feel it.”
-
-She touched the stone where he guided her. Thousands of years of wind might have worn such a hollow. Or a god who put his hand in the same place whenever another emperor came to kneel.
-
-They waited for dawn.
-
-*
-
-The first sound from below was a horn. Another answered from farther down the western road, then another from beyond the hollow. The soldiers were passing word along the column.
-
-Daret put the crown in Ivara's hands. It was heavier than the one his father had worn, and its inner band had been padded where his head had grown thin. She felt that small accommodation beneath the jewels.
-
-“They can see us,” he said.
-
-He helped her raise the crown-bearer's hood. She loosened the knot of her blindfold and caught its ends in the hood's back fold. One pull would take them together.
-
-She kept her eyes shut beneath the cloth.
-
-The wind stopped.
-
-Ivara heard a great weight settle on the far side of the altar. The stone gave a faint, high complaint. Warmth came toward her, carrying the smell of iron.
-
-“You have brought only one servant.”
-
-The voice was smaller here, though it seemed to sound in the bones of her face.
-
-“As you required,” Daret said.
-
-“She has left you.”
-
-Daret said nothing.
-
-“My riders saw her on the western road. Your Lady will not stay to watch you die.”
-
-The god sounded pleased. Ivara stood with her head bowed under the hood.
-
-“Kneel,” Orvek said.
-
-Daret's left knee touched the ground. The right followed with its little click.
-
-“You put on the crown too willingly,” the god told him. “You forget whose hands gave it back.”
-
-“I remember.”
-
-“Then ask.”
-
-There was a long pause. Ivara felt a tremor pass from Daret's hand into the rim of the crown as he took hold of it.
-
-“Let them live,” he said.
-
-Orvek laughed.
-
-In the palace, Daret's wife had once laughed so hard that she had fallen against Ivara and gripped her arm. Ivara had tried to imagine the face that went with that helpless sound. She remembered that now, absurdly, while the god's laughter rolled over the people on the road.
-
-“Hold it higher.”
-
-The crown lifted from her fingertips.
-
-Daret whispered, “Here. His face is here.”
-
-She turned toward his voice.
-
-“A little higher.”
-
-She raised her chin.
-
-Orvek's breath touched her. A living breath, warm and faintly sour. His hand scraped into the worn hollow at the altar's edge as he leaned forward to take the crown and the emperor's neck.
-
-Ivara pulled back her hood and opened her eyes.
-
-The first thing she saw was a man's surprise.
-
-The gold of his skin had not reached the pale scar through one eyebrow. His eyes were brown. She had imagined something too large for a face, too strange for the ordinary shape of terror; instead his mouth opened and the skin beside his eyes drew tight.
-
-She could not move.
-
-“Iv—”
-
-Her name shook the valley.
-
-He tore himself backward. The hand that had been reaching for Daret swept across the altar, and its fingers lost their gold. The crown struck the stone and broke.
-
-Daret's knee cracked beside her. She heard his palm strike the altar as he tried to push himself up.
-
-Orvek grew as he fled. His shoulders rose above the ridge, his feet passed over the hollow, and the storm he had gathered around his body lifted with him. It filled the sky with black folds. Between them she saw his immense chest.
-
-Her body held her where she stood. She could not raise her head to follow his face, but his body still filled her sight, and he carried the ending with him.
-
-He called the thunder down.
-
-White branches reached from his hands toward the ridge. Before they struck, they frayed into thin, soundless threads. The wind hurled itself against Ivara's rigid body.
-
-A heel scraped behind her, then slipped. Daret grunted.
-
-Orvek flung his arms wide. Cloud streamed away from them. For an instant he hung across the hollow like a second range of mountains, and all the air below him darkened.
-
-At the edge of her vision, the altar settled. A seam of white dust opened through it. The northern tooth of the ridge, the landmark by which generations had found their way home, tipped slowly out of the sky.
-
-Then the light went out in one of his hands.
-
-It did not fall. It lost its shape, and the loss ran up his arm. Through the place where it had been, Ivara saw a green slope.
-
-Green.
-
-A color she had held in memory for a thousand years was there, alive.
-
-Daret's breath was close behind her ear. His hand struck her hair, then slid free.
-
-The firs stood in ranks up the mountain. Beneath them, little marks moved along a pale thread of road. The gap widened as the god's shoulder gave way. He was still screaming.
-
-She could not shut her eyes.
-
-Silk crossed her sight.
-
-Her legs folded.
-
-Daret caught her badly. They went down together, his arm beneath her shoulders, his other hand crushing the cloth against her eyes. She heard stones striking one another and falling away into the hollow. The ground shook under their bodies.
-
-“Hold still,” he gasped.
-
-She was holding him as hard as he held her.
-
-The god's voice broke off.
-
-For a while there was only the sound of falling stone. It went on so long that Ivara began to think the whole ridge was going down with them. Daret did not lift his hand. Dust filled her mouth, and his heart beat against her arm with painful force.
-
-At last the falling grew distant.
-
-“Daret?”
-
-“Here.”
-
-“Can you see him?”
-
-His breath moved against her hair. She felt him looking over her head.
-
-“No.”
-
-“The road?”
-
-He waited before answering.
-
-“The wagons are still moving.”
-
-She lay still beneath his hand.
-
-“The firs?”
-
-“They're green.”
-
-He began to laugh. It hurt him; she heard the laugh catch and turn to a cough. Then he was trying to tie the cloth with one hand and discovering that he could not.
-
-“Let me,” she said.
-
-She kept her eyelids pressed shut while he held the silk in place. Her fingers found the ends, drew them behind her head, and made a knot beneath her loosened hair.
-
-“Is that enough?” he asked.
-
-She tested the covering with two fingers.
-
-“Yes.”
-
-He took his hand away.
-
-*
-
-The storm had gone quiet. In its place she heard pebbles slipping, a torn piece of cloth flapping somewhere, Daret rubbing dust from his face.
-
-He got to his feet using her shoulder, then helped her stand. Where the altar had been, her stick found nothing.
-
-“Don't step forward.”
-
-“How much is gone?”
-
-“The altar. The outer spur. All the way down to the hollow.”
-
-“And the city?”
-
-“Still there.”
-
-Below them, a man shouted. The wind took his words. Another voice answered, then a horn sounded three uncertain notes.
-
-Daret called back. His voice was thin without the god's thunder behind it. He tried again.
-
-“He's gone!”
-
-This time someone heard.
-
-The words began to pass down the southern face. Men who had stood together beneath Orvek's banners were shouting them to people the god had driven from their homes. A woman called them back as a question. Daret answered her.
-
-No voice came out of the empty sky to stop him.
-
-A captain reached them while Ivara was putting up her hair. The woman was so out of breath she could only say, “Majesty,” then cough.
-
-“Get the column over the north pass,” Daret told her. “Before they try to come back.”
-
-“They saw the ridge fall. They think—”
-
-“We're alive.”
-
-The captain swallowed. “What happened?”
-
-Daret was quiet long enough that Ivara turned toward him.
-
-“I asked Ivara to kill him,” he said. “She chose to come.”
-
-After a moment, the captain drew a breath. “Your crown, Majesty. A piece of it. I found it on the path.”
-
-“Keep it for now. I need both hands.”
-
-The captain went down again.
-
-Ivara felt Daret kneel beside her. This time both knees made a sound.
-
-“Have you hurt yourself?”
-
-“No.”
-
-He did not get up.
-
-She reached until she found his face. His cheek was wet where he had wiped it with a dusty hand. There was a deep crease beside his mouth, and another between his brows. She laid her thumb there.
-
-“You've changed,” she said.
-
-“You've been told.”
-
-“Yes.”
-
-She had seen a god afraid. She had seen green trees and a broken mountain, the first new things she had looked upon in a thousand years. She had not seen this face.
-
-Daret leaned into her hand.
-
-Below them the shout was gathering strength. It moved along the western road, around the dead hollow, up toward the green pass. Somewhere in it were the woman from the cart, the child with one shoe, the gate soldiers whose names she did not yet know.
-
-She gave Daret her other hand and waited while he rose.
-
-“You'll have to tell me where to put my feet,” she said.
-
-He brought her hand to his elbow.
-
-They began to descend. The people below were calling to one another now, and before long their voices were so many that she had to lean close to hear him.
+Above her road, the gods began their long way round.

@@ -1,5 +1,7 @@
 # Content rating
 
 - **Rating:** Teen
-- **Content notes:** Non-graphic war and supernatural destruction; implied mass death; bereavement; a parent striking a child; sustained danger to civilians.
-- **Reason:** The remembered destruction of a village, the god’s violent coercion, and the prolonged threat of catastrophe may be unsuitable for readers under thirteen. Death and injury remain non-graphic. The finished cover shows two clothed adults descending the surviving ridge and does not increase the prose’s intensity.
+- **Reviewed:** 2026-10-21, after the final whole-story discussion and inspection of the selected cover.
+- **Scope:** Finished prose and `title-image.jpg` together.
+- **Reason:** Sustained menace, a threat to take a woman's eyes as a trophy, and the non-graphic annihilation of an attacking god may be unsuitable for readers under thirteen. The cover depicts imperial submission and divine retreat without injury.
+- **Content notes:** Threatened forced eye removal; non-graphic magical destruction of a living body; attempted attack; intimidation and compelled public submission; references to conquest, dead kings and an emperor's dead brothers. No graphic wounds are described or shown.
