@@ -24,7 +24,7 @@ She had cut her hair short to watch them.
 
 On the table lay seven sheets of thin paper, each carrying a tracing of the same part of her arm. On the first, the door-gift curled tidily around her wrist. On the second it had crossed the boundary she had drawn in red before going to bed. By the fifth night a hook of it had reached her shoulder. Last night, after she woke with her face in a cushion, it had joined the long feather of the gift that let her arrest a fall.
 
-Until then, the changes had happened when she slept. Staying awake had seemed a satisfactory answer until she caught herself dreaming with a needle in her hand.
+The changes had come while she slept. Staying awake had seemed a satisfactory answer until she caught herself dreaming with a needle in her hand.
 
 She touched the first tracing. Of all her thefts, the door had been the easiest. An injured nobleman, a family book she was repairing, an idle little design pricked into her wrist with the pigment on her pen. When every locked cupboard in her lodging sprang open, she had thought the noise would bring the whole street running.
 
@@ -40,7 +40,7 @@ Let the genealogists do the uncomfortable part afterward.
 
 She put on her dress, buckled her instruments under its skirt, and climbed out of the studio window.
 
-The gap to the gallery roof was six yards wide. She could have crossed where the roofs nearly touched, but the moon was out and she had been awake too long, and she wanted something easy.
+The gap to the gallery parapet was six yards wide. She could have crossed where the roofs nearly touched, but the moon was out and she had been awake too long, and she wanted something easy.
 
 She stepped.
 
@@ -48,11 +48,11 @@ Distance tightened once around her ribs and let go. Her foot came down on the fa
 
 She loved this gift best.
 
-The gallery's little service door had been painted to look like part of the panelling. Desra lifted her hand toward it. The old hinge-shape stirred at her shoulder.
+The gallery ran open to the courtyard behind its parapet. Along the panelled inner wall, a little service door had been painted to disappear; at the far end, a guard nodded in a chair beside a great oak door. Desra lifted her hand toward the little door. The old hinge-shape stirred at her shoulder.
 
-Across the gallery, the great oak door banged open.
+The little door stayed shut. Across the gallery, the great oak door banged open.
 
-A guard sat up in his chair. For a moment they regarded one another across the length of the room. Then he shouted, and Desra went backward over the parapet.
+The guard jerked upright. For a moment they regarded one another across the length of the gallery. Then he shouted, and Desra went backward over the parapet.
 
 She caught her fall halfway down.
 
@@ -110,7 +110,7 @@ She had worked out how three nights ago, when the door first reached her shoulde
 
 “And you think I'm going to help you keep all the rest?”
 
-Desra looked toward the window. Beyond it lay the convenient gap, the gallery roof, the royal tower. She could still cross it. She could leave Ildenne here, take another route, and trust the gifts for one more night.
+Desra looked toward the window. Beyond it lay the convenient gap, the gallery parapet, the royal tower. She could still cross it. She could leave Ildenne here, take another route, and trust the gifts for one more night.
 
 The fork beneath her ribs gave a small, hungry pull.
 
@@ -119,6 +119,8 @@ The fork beneath her ribs gave a small, hungry pull.
 Ildenne looked at the instruments, then at the blackwork climbing Desra's face.
 
 “My step first.”
+
+Through the stone, Desra heard the captain send the search toward the occupied guest rooms, away from the abandoned studio wing.
 
 The return took most of an hour.
 
@@ -130,7 +132,7 @@ She had been awake. She was certain of it. But there had been a little blankness
 
 “Don't stop,” said Ildenne.
 
-Desra laid a clean pin across the tip.
+Desra pressed a clean pin across the narrow black tip, holding it still.
 
 The door-gift vanished from her reach. She tried the locked instrument case beside her; nothing answered. Under the pin, the black tip curled against the pressure, withdrew, then tried to get around it.
 
@@ -228,7 +230,7 @@ At her shoulder something tried to spread a wing.
 
 She wanted to see it.
 
-The desire was so strong that she resented it. She had spent three years assembling this wealth. She had lied to people who trusted her, hurt Ildenne, learned to do things for which there were no words in her mother's house. Now, at the last turn, there was another impossible thing beyond her reach.
+The desire was so strong that she resented it. She had spent three years assembling this wealth. She had lied to people who trusted her, hurt Ildenne, learned to do things for which there were no words in her mother's house. Three nights ago she could have begun visiting the people she'd taken them from. She had chosen this tower instead. Once she joined these gifts, there would be no separate gifts to give back. Now, at the last turn, there was another impossible thing beyond her reach.
 
 It would not belong to her.
 
@@ -298,9 +300,13 @@ Desra looked at her own hands. She could feel every place where the stone had sc
 
 Desra pointed toward the sky.
 
-Ildenne followed her hand. Her face closed.
+Ildenne followed her hand.
 
-“You could have kept them?”
+“Can you give them back now?”
+
+“No.”
+
+Her face closed. “You could have.”
 
 “Yes.”
 
