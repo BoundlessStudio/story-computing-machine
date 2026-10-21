@@ -18,7 +18,7 @@ Use Codex's built-in worktree workflow and continue in the worktree attached to 
 
 Keep all task-created files inside the active repository worktree. Use `<worktree>/tmp/` for every temporary file or directory: review inputs and outputs, scratch scripts, logs, pull-request body files, and draft or rejected art. Only `tmp/.gitkeep` is tracked; everything else under `tmp/` is ignored. Derive the absolute worktree root with `git rev-parse --show-toplevel`, pass an explicit directory to temporary-file APIs, and set `TMPDIR`, `TMP`, and `TEMP` to that root's `tmp/` in subprocess environments when needed. Do not use the system temporary directory, a sibling worktree, or a location outside the repository for task files, and do not follow a symlink or junction out of the worktree to write them.
 
-Codex manages the session's permissions; story production does not require a particular sandbox profile or reopening the chat. The repository hook rejects file-tool edits and shell working directories outside the active worktree. Read-only access to external inputs remains allowed. Git and agent applications manage their own metadata; this rule governs the task files agents create. See [the boundary setup and checks](.codex/hooks/README.md) for hook trust, activation, and coverage.
+Codex manages the session's permissions; story production does not require a particular sandbox profile or reopening the chat. Read-only access to external inputs remains allowed. Git and agent applications manage their own metadata; the worktree rule above governs the task files agents create. The former repository write hook is removed; these working-area instructions still apply.
 
 For a new story, keep `stories/<slug>/` small:
 
