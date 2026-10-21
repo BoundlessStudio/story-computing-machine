@@ -4,7 +4,7 @@ created: 2026-10-21
 canon: false
 ---
 
-Ordan fastened the clasp in her hair while she drank.
+Ordan fastened the clasp in Neris's hair while she drank.
 
 The blood was still warm. Neris held the white cup in both hands and felt its warmth pass through the walls of her stomach, into her wrists, along the roots of her teeth. The ache beneath her canines eased. A little blood remained on her lower lip. She caught it with her tongue.
 
@@ -111,6 +111,8 @@ She looked at the broken cup. Without thinking she crouched to retrieve the larg
 The blood in her hand shone. For a moment she could see a point of white inside each drop.
 
 “Long ago, the first of you stole a star before it was born. He has it under his tongue. He drank of it and made others drink of him. I recognize what it has become.”
+
+She had seen the dark thing beneath Ordan's tongue and thought it a broken tooth.
 
 Her shadow reached for the blood in her palm. She lifted her hand. Its fingers slid up the table leg and stopped at the tabletop; they could not lift themselves from the wood.
 
@@ -304,7 +306,7 @@ She held it behind her.
 
 He stood silent for a moment. Then he opened his mouth and lifted his tongue.
 
-She had seen the dark thing there before and thought it a broken tooth. It was smooth and black, no larger than a plum stone. A tiny brightness moved far inside it. Looking at it made her remember the sea over her face: the weight, the depth, the smallness of the air she had once been able to hold.
+The supposed tooth was smooth and black, no larger than a plum stone. A tiny brightness moved far inside it. Looking at it made her remember the sea over her face: the weight, the depth, the smallness of the air she had once been able to hold.
 
 He took it between finger and thumb.
 
@@ -392,7 +394,7 @@ She remembered Sovel turning her hand over in the light. The laugh that had almo
 
 The words came through the boards beneath the cloth. Ordan could not hear them. He sat waiting for her answer as though there were only two people in the room.
 
-She asked where the others were. He gave her a winter port six weeks away, an island neither had visited in a century. She made him try to remember someone she could reach before dark. The afternoon light travelled along the floor while his answers took her farther from anyone she could ask. At last he told her of a woman who had stayed in this room after the sun called her name. Before taking his blood, she had asked him to wait until her children were asleep.
+She asked where the others were. He gave her a winter port six weeks away, an island neither had visited in a century. She made him try to remember someone she could reach before dark. The afternoon light travelled along the floor while his answers took her farther from anyone she could ask. At last he told her of a woman who had stayed in this room after the sun called her name. Years earlier, when he made her a vampire, she had asked him to wait until her children were asleep.
 
 Neris stood.
 
@@ -490,7 +492,7 @@ Ordan spoke a name Neris did not know.
 
 The face turned toward him. A white line crossed its mouth. It was the brief, unmistakable shape of fangs.
 
-“You said it would stop calling if I shut myself in,” the star said.
+“After I answered, you said it would stop calling if I shut myself in,” the star said. “I waited behind the shutters until sunset.”
 
 “I thought—”
 
@@ -526,7 +528,7 @@ Ordan shook his head.
 
 She believed him. He had been wrong about how to save that person. He had still tried.
 
-“I can't,” she said.
+“I can't live up there,” she said.
 
 The shadow on the wall turned toward her.
 
@@ -612,7 +614,7 @@ His other hand closed her fingers over the seed. He had the strength she had lea
 
 “I am not letting you do this.”
 
-She pulled away. He held her easily. Behind him was the stairwell; she had backed him to its edge without noticing. He put one boot on the top tread and leaned over her, pressing her closed fist down against her chest.
+She pulled away. He held her easily. With one boot on the top tread he leaned over her, pressing her closed fist down against her chest.
 
 The seed burned warmly through her fingers. In the blood beneath it something answered, glad to be alive.
 
