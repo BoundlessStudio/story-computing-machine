@@ -1,5 +1,9 @@
 # Editorial notes
 
+## Character-sheet repaint — 2026-10-21
+
+The user found that the main character sheets lacked the painted look of the other collection references. On comparison, Veska's smooth face and exposed skin were especially photographic; the set's finish was inconsistent. The built-in imagegen tool repainted all four existing sheets using Melicent's sheet and the collection's orchard painting for medium, with the accepted Veska repaint also guiding the other three. Broad opaque strokes now construct faces, limbs, clothing and wings. Pixel inspection retained the same identities, costumes, plain white backgrounds, labels and reference views, including Veska's four moth lobes and wing-only briars, Nim's six wings with reversed viewer-side colours in the back view, Hox's four copper lobes and two drum states, and Orset's four silver-banded wings and oath scroll. The accepted WebP files replace the earlier sheets under their existing names; earlier versions remain in Git history. The prose and selected cover are unchanged, so their General rating stands.
+
 ## 2026-10-21
 
 Before seeing a plot, the independent Codex keeper read the complete request and supplied original. Its explicit requirement was actual legal change: “social rebellion alone would not fulfill it.” Its inferred pleasure was “personal self-expression acquiring constitutional force,” with lively, dangerous enchantment and outcasts who have their own desires. It warned against private escape without institutional consequences or rightful destiny absorbing her refusal. Those are interpretations, not added requirements. The image supplies punk confidence, cream-and-violet moth wings and a pumpkin field; it does not mandate Halloween or contemporary Earth. The unchanged original is preserved in `art/references/`.
