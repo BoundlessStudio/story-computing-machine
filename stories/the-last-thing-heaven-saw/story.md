@@ -270,9 +270,9 @@ Then she heard the great gates being barred from within.
 
 She rose.
 
-At the final turn her hand ran out of wall. Wind came from ahead now, cold and unobstructed. She had reached the little shelf beneath the gatehouse. Six broad steps led up from it into the court. Before there were gates here, she had stood on this shelf and watched clouds pass beneath the summit's far lip. Behind her were the warm smells of the terraces. She turned away from them, into the cold.
+At the final turn her hand ran out of wall. Wind came from ahead now, cold and unobstructed. She had reached the little shelf beneath the gatehouse. Six broad steps led up from it into the court. Before there were gates here, she had stood on this shelf and watched clouds pass beneath the summit's far lip. Behind her were the warm smells of the terraces.
 
-Ilessa had stood here before. The first king who built a hall on this summit had asked whether he could put a throne in it for her. She had refused it.
+The first king who built a hall on this summit had asked whether he could put a throne in it for her. She had refused it.
 
 Now she set her palm upon the old threshold stone. The notch he had cut for the first gate remained beneath the later metalwork.
 
@@ -304,13 +304,13 @@ Cold wind blew through the opening and lifted her hair. To her right, the chain 
 
 She turned toward that sound.
 
-The causeway lay farther east than Namar's gallery. She knew the angle from the time she had crossed it. Keeping the cloth low over her brow, she looked through a slit toward its outer span, beyond the place where the running chain sounded.
+The drawbridge lay farther east than Namar's gallery. She knew the angle from the time she had crossed it. Keeping the cloth low over her brow, she looked through a slit toward its outer span, beyond the place where the running chain sounded.
 
-A white road hung across empty air. At its far end the doors of the refuge were closing. Namar had not reached the near end.
+A white span lowered across the gap, its far end approaching the refuge. The doors beyond it were closing. Namar had not stepped onto the bridge.
 
 She looked at the middle of the span.
 
-A gap opened in it. The road on either side came apart as the absence spread; the refuge's unoccupied outer porch vanished beyond it. Ilessa closed her eye before turning back toward the gallery.
+A gap opened in it. The bridge on either side came apart as the absence spread; the refuge's unoccupied outer porch vanished beyond it. Ilessa closed her eye before turning back toward the gallery.
 
 The chain rattled to a stop against its wheel. The eastern gallery opened on empty air.
 
