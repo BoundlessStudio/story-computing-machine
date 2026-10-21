@@ -388,11 +388,11 @@ Dulcie's face changed. She caught the end of her sleeve, twisted it, and let go.
 
 Miri glanced at me. I had not thought to look at Dulcie's hands. They were shaking.
 
-“You were before. You keep checking the time.”
+“You sounded pleased before. You keep checking the time.”
 
 “Because I don't want to miss the train.”
 
-“Exactly.”
+“You can't wait to go.”
 
 “What am I meant to do? Not go? Have Mum give back her job?”
 
