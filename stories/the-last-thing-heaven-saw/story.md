@@ -46,13 +46,13 @@ There was pride under the fear. She was glad he had not tried to hide it.
 
 Darovan's next breath was less orderly.
 
-“Your eyes upon his crown. For the coronation.”
+“Your eyes, to be set into his coronation crown. Two places have been cut in the gold.”
 
 Ilessa lifted her hands from the warm stone.
 
 “He put it in those words?”
 
-“Those were his words.”
+“He said the last power that would not kneel would be made an ornament.”
 
 “What were yours?”
 
@@ -66,7 +66,7 @@ The wasp left the peach. She listened to it go.
 
 “When is he coming?”
 
-“He will send his war hand at noon tomorrow.”
+“He will send his war hand at noon tomorrow. He stays on the throne when he uses it.”
 
 “Then you have until noon to clear the imperial avenue. Clear the pilgrimage stair as well, from its first step to Heaven's gates. No soldiers. No priests.”
 
@@ -212,7 +212,7 @@ From the mountain came the hard crash of gates closing. Its echoes moved down th
 
 She waited until they were finished.
 
-“Come down without your crown. Tell the kingdom you had no right to demand my eyes. Release your claim to bodies as tribute. Then I will leave you alive.”
+“Come down without your crown. Tell the kingdom you had no right to demand my eyes. Renounce your claim upon me. Then I will leave you alive.”
 
 Her voice was not loud. In the emptied avenue it carried.
 
@@ -270,7 +270,7 @@ Then she heard the great gates being barred from within.
 
 She rose.
 
-At the final turn, the stair narrowed to a shelf beneath the gatehouse. Six broad steps led up from the shelf into the court. The builders had placed Heaven on the mountain's outward lip. Its occupied galleries stood above the shelf, against open sky; all the cultivated land lay behind the approaching pilgrim, below the height of the last steps.
+At the final turn her hand ran out of wall. Wind came from ahead now, cold and unobstructed. She had reached the little shelf beneath the gatehouse. Six broad steps led up from it into the court. Before there were gates here, she had stood on this shelf and watched clouds pass beneath the summit's far lip. Behind her were the warm smells of the terraces. She turned away from them, into the cold.
 
 Ilessa had stood here before. The first king who built a hall on this summit had asked whether he could put a throne in it for her. She had refused it.
 
@@ -284,7 +284,7 @@ She waited.
 
 Footsteps crossed the court to her right. They went quickly, with no attempt at ceremony. A chain began to run through a wheel in the eastern gallery.
 
-The high causeway. It led from Namar's court to the old gods' refuge on a separate pinnacle. She had crossed it once with a god who spent most of the journey describing the terrible distance below. He had thought he was amusing her.
+He was lowering the high drawbridge. It led from Namar's court to the old gods' refuge on a separate pinnacle. She had crossed it once with a god who spent most of the journey describing the terrible distance below. He had thought he was amusing her.
 
 “Will they receive you?” she asked.
 
@@ -296,7 +296,7 @@ For a moment there was only the wind.
 
 Ilessa tilted her head straight ahead, toward the high center of the gatehouse. She pinched a little of the cloth up, leaving a narrow opening.
 
-There were gold doors in the slit, and a strip of pale sky above them. No living thing stood behind the doors. She held her head still.
+There were gold doors in the slit, and a strip of pale sky above them. The footsteps that had paced behind those doors had gone into the eastern gallery; Namar's breath and voice remained there. She kept her head straight ahead.
 
 The gold parted without bending. A widening lane of absence went through the doors, through the empty receiving hall beyond, through its painted rear wall. She saw blue at the far end. She shut her eye.
 
@@ -312,7 +312,7 @@ She looked at the middle of the span.
 
 A gap opened in it. The road on either side came apart as the absence spread; the refuge's unoccupied outer porch vanished beyond it. Ilessa closed her eye before turning back toward the gallery.
 
-The chain ran a little farther, then stopped. There was no longer a bridge for it to draw level with the court.
+The chain rattled to a stop against its wheel. The eastern gallery opened on empty air.
 
 “You knew that road,” Namar said.
 
@@ -342,15 +342,15 @@ Namar's footsteps came back into the gallery. They stopped much nearer her than 
 
 She heard the sound he made at that. Anger suited him better than fear. He found his great voice again.
 
-“I have waited three hundred years for this crown.”
+“I have waited three hundred years for this crown. They used to ring for me when their banquet lamps went out. Little Flame, they called me. They will ring again if I go down past you.”
 
-“You may have three hundred more years without it.”
+“Let them ring. You may have three hundred more years without that crown.”
 
 He was quiet.
 
 “What would you leave me?”
 
-“Your life. Your own altar. Those who choose to kneel before it. Give back the high throne and release the tribute you demanded. No one will take my eyes for you. No one will give you a living body as payment. Say it where the kingdom can hear, and I will go down the stair.”
+“Your life. Your own altar. Those who choose to kneel before it. Give back the high throne and renounce your claim upon me. No one will take my eyes for you. Say it where the kingdom can hear, and I will go down the stair.”
 
 She meant it. She had no desire for his temples, and three hundred years was long enough to acquire something worth keeping. Let him remember it. Let him live beside it.
 
@@ -368,7 +368,7 @@ She could feel how badly he wished her to be someone else: an old god to whom he
 
 The pause lasted long enough for her to hope.
 
-Then metal struck stone in the gallery. He had set his crown down, but she heard the scrape of its rim being driven into a groove. A ringing note rose from the gold. She had heard that note from the mountain on his coronation day, followed by a blaze she had felt in the city below.
+Then metal struck stone in the gallery. He had set his crown down, but she heard the scrape of its rim being driven into a groove. A ringing note rose from the gold. She had heard that note from the mountain when he took the high throne, followed by a blaze she had felt in the city below.
 
 She took her hand from the threshold.
 
@@ -380,7 +380,7 @@ He drew a vast breath.
 
 The court filled with heat.
 
-It struck her face hard enough to hurt. Her sleeves snapped against her arms. In the eastern gallery, the living god gathered the force with which he had broken the Nine, drawing it into the crown beneath his hands. Stone cracked. He cried out with the effort, and the wind bent away from him.
+It struck her face hard enough to hurt. Her sleeves snapped against her arms. In the eastern gallery, the living god gathered his force into the crown beneath his hands. He had broken the Nine with one sudden stroke, catching them still in their seats. He sent the whole of that strength at her now, without another word. Stone cracked, and the wind bent away from him.
 
 Ilessa turned her covered face toward the sound. She raised her chin a little. His court stood above her; beyond it there was only sky. The stair ran down behind her heels.
 
@@ -390,7 +390,7 @@ She lifted the crimson cloth and opened both eyes.
 
 ***
 
-Namar stood in a hall of white pillars, taller than any of them, with the crown blazing between his hands. He had made himself beautiful. His skin shone like the inside of a shell. Six arms spread from his shoulders, each scarred by an old victory. There was fury in his face, and the effort of holding something enormous.
+Namar stood in a hall of white pillars, taller than any of them, with the crown blazing between his hands. He had made himself beautiful. His skin shone like the inside of a shell. Six arms spread from his shoulders, each scarred by an old victory. There was fury in his face, and the effort of holding something enormous. Above the crown's rim, two empty settings waited for her eyes.
 
 The fire came to an end in front of her.
 
