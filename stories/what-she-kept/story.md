@@ -86,7 +86,7 @@ She let him bear the words without helping him.
 
 The admission cost him. She could hear that too.
 
-Ivara touched the edge of the blindfold. Sun from the high windows warmed her face. If she stood at one of them, there would be a city between her and the god. She would see roofs, flags, people at the windows, the face of whoever had been unable to leave.
+Ivara touched the edge of the blindfold. For a moment, sun from the high windows warmed her face. If she stood at one of them, there would be a city between her and the god. She would see roofs, flags, people at the windows, the face of whoever had been unable to leave.
 
 Gods had stepped off roads before her. She had once heard one scramble into thorns rather than pass within her reach. Orvek had put a city between his body and her eyes.
 
@@ -549,8 +549,6 @@ The captain swallowed. “What happened?”
 Daret was quiet long enough that Ivara turned toward him.
 
 “I asked Ivara to kill him,” he said. “She chose to come.”
-
-He took something from the captain. Ivara heard the small clink of it.
 
 “Your crown, Majesty. A piece of it. I found it on the path.”
 
