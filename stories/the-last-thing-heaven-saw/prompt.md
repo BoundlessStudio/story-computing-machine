@@ -17,3 +17,23 @@ This authorizes removing the repository write hook and continuing in the attache
 # Audience and content direction
 
 The user specified no audience or intensity. General is the starting target under the shared style guide; the finished prose and cover receive their own rating. The prompt does not limit narrative scale.
+
+# User's rejection of the previous version (verbatim)
+
+> i read the story iam not happy with it... we reduced a lady that very aura makes gods avoid her and kings knell... into a story that feels like she helping an old man cross the street;
+>
+> explain yourself.
+
+# User's outline-review directions (verbatim)
+
+> we talked about this before where is the check against the prompt for the outline?
+
+> then fix the outline review so it actually checks against the prompt. we already discussed this and i dont want another round of reviews approving the wrong story.
+
+These directions require testing the outline's actual dramatic center, agency, tension, and ending against the complete request before drafting. They do not prescribe a plot.
+
+# User's clean-remake request (verbatim)
+
+> now remake The Last Thing Heaven Saw from scratch using the new outline review. keep her terrifying presence and authority at the center—she’s someone gods avoid and emperors kneel before.
+
+This explicitly authorizes clean replacement of this named non-canon story. The original prompt, reference inventory, and supplied image are preserved. The previous prose and generated art are not creative inputs for the remake.
