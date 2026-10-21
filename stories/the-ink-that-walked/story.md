@@ -188,7 +188,7 @@ In the ceremonial passage she brushed past the painted founders of seven noble h
 
 She wanted them still. She wanted to sleep. She wanted to step across a courtyard because she happened to dislike walking round it. These were separate wants, and she counted them separately as she opened the inheritance chamber.
 
-The room was smaller than the paintings made it. There was a table, a padded kneeling stool, and a high casement whose leaded panes had gone grey with approaching morning. The book rested beneath a glass cover. No royal hand guarded it. No ancestral voice asked her name.
+The room was smaller than the paintings made it. There was a stone table, a padded kneeling stool, and a high casement whose leaded panes had gone grey with approaching morning. The book rested beneath a glass cover. No royal hand guarded it. No ancestral voice asked her name.
 
 She opened the cover and found the knot.
 
@@ -208,7 +208,7 @@ Its little doors opened.
 
 Just those doors. Exactly those doors.
 
-Desra laughed once, shakily. She opened and closed them again. The rest of the knot would gather the other gifts, hold every part in its own proper shape. She could close it, catch her fall from the window, and leave the castle with everything except Ildenne's step.
+Desra laughed once, shakily. She opened and closed them again. Four short turns and the closing stroke remained; she could make them in a dozen heartbeats. They would gather the other gifts, hold every part in its own proper shape. She could close it, catch her fall from the window, and leave the castle with everything except Ildenne's step.
 
 That loss was bearable. She could bear it.
 
@@ -230,13 +230,13 @@ At her shoulder something tried to spread a wing.
 
 She wanted to see it.
 
-The desire was so strong that she resented it. She had spent three years assembling this wealth. She had lied to people who trusted her, hurt Ildenne, learned to do things for which there were no words in her mother's house. Three nights ago she could have begun visiting the people she'd taken them from. She had chosen this tower instead. Once she joined these gifts, there would be no separate gifts to give back. Now, at the last turn, there was another impossible thing beyond her reach.
+The desire was so strong that she resented it. She had spent three years assembling this wealth. The woman whose fall-feather she wore had written twice to ask if the old books said anything about gifts fading. *I still go up to the roof before I remember*, the second letter said. Desra had answered neither. Once she joined these gifts, there would be no separate gifts to give back. Now, at the last turn, there was another impossible thing beyond her reach.
 
 It would not belong to her.
 
 Desra picked up the needle and opened the catch.
 
-The hinge ran up her arm. She followed it with the joining line, through the blank space between the old door and the fall-feather, leaving the shape open where the royal knot would have closed. Her hand shook. She stopped to steady it, furious at the wasted seconds, then finished.
+The hinge ran up her arm. She followed it with one short joining line, through the blank space between the old door and the fall-feather, leaving the shape open where the royal knot would have closed. Her hand shook. She stopped to steady it, furious at the wasted seconds, then finished.
 
 Black lifted from her shoulder.
 
@@ -264,7 +264,7 @@ Desra watched until she could no longer distinguish it from the last darkness ab
 
 The guards struck again. The door-gift was gone. The fall-gift was gone. When she put her hand against the wall, she heard nothing beyond the ordinary knocking.
 
-She dragged the kneeling stool against the door.
+She dragged the kneeling stool under the door latch, its back legs braced against the stone table.
 
 The casement catch had rusted shut. Desra hit it with the brass candlestick from the table, missed, hit it again. Her skin looked bare and unfamiliar in the grey light. Pale brown paths remained where the gifts had been, but nothing answered when she reached inward.
 
@@ -272,7 +272,7 @@ The catch bent. She threw her weight against the casement and forced it open.
 
 Below lay the kitchen roof. Ildenne had been right about the distance.
 
-Desra climbed onto the sill anyway. An iron flag bracket projected to her left, well beyond her reach, and farther down was a projecting course of stone. She could not see a way between them. Behind her the stool scraped across the floor.
+Desra climbed onto the sill anyway. An iron flag bracket projected to her left, well beyond her reach, and farther down was a projecting course of stone. She could not see a way between them. Behind her the stool scraped, then caught hard against the table. The next blow only rattled the door.
 
 She gripped the outer frame and moved one foot out. The cold went through the sole of her shoe. She had never noticed how much the castle leaned away beneath this window.
 
@@ -288,15 +288,17 @@ She crossed to the sill in a step. There was scarcely room for their feet. Desra
 
 The courtyard tightened and released.
 
-They landed badly on the lower roof. Ildenne sat down hard, and Desra caught her by the shoulder before she could slide. For a little while both of them breathed.
+They landed badly behind the broad kitchen chimney, its brickwork blocking the high casement from view. Ildenne sat down hard, and Desra caught her by the shoulder before she could slide. For a little while both of them breathed.
 
-“They were going up the passage,” Ildenne said. “I heard them say they'd found you.”
+Wood cracked above them. Then a man shouted from the casement for the kitchen court to be searched. Both women stayed low.
+
+“They were going up the passage,” Ildenne whispered. “I heard them say they'd found you.”
 
 Desra looked at her own hands. She could feel every place where the stone had scraped them.
 
 “You came back.”
 
-“I wanted my step. I didn't ask for your head.” Ildenne got to her feet. “Where are the others?”
+“I wanted my step. I didn't ask for your head.” Ildenne pulled the torn wool over her knees. “Where are the others?”
 
 Desra pointed toward the sky.
 
@@ -316,15 +318,15 @@ Ildenne looked as though she might say something more. Instead she shook out her
 
 Desra nodded.
 
-Ildenne hesitated at the roof's little stair door. “I'll need a moment to make myself presentable.”
+Ildenne stayed low as she went to the roof's little stair door. There she hesitated. “I'll need a moment to make myself presentable.”
 
 Then she was gone.
 
 The morning had reached the ivy on the outer wall. Beyond it, close enough to be infuriating, the roofs of the city sloped into sunlight. The easy way down was through the kitchen court. The watch would be there already.
 
-Desra studied the wall instead.
+From behind the chimney, Desra studied the wall instead.
 
-A cracked lion projected from its corner. Above the lion, ivy hid a line of old putlog holes. The crossing from the roof to the lion was too wide for a step. She measured it with her eye, then measured it again, feeling the absence beneath her ribs.
+A cracked lion projected from its far corner, around from the tower window. Above the lion, ivy hid a line of old putlog holes. The crossing from the roof to the lion was too wide for a step. She measured it with her eye, then measured it again, feeling the absence beneath her ribs.
 
 In the city somebody would have breakfast for sale. Somebody would have a purse carelessly tied. She was so tired she could have slept standing up, and so hungry that the thought of hot bread made her jaw ache.
 
