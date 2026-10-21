@@ -38,7 +38,7 @@ He drew a breath through his nose. He had a soldier's care for his breathing, us
 
 “And you?”
 
-“My armies closed their temples. My people fill his.”
+“My armies closed their temples in the west. My people fill his.”
 
 There was pride under the fear. She was glad he had not tried to hide it.
 
@@ -266,9 +266,9 @@ The memory still had its yellow. She was grateful for that.
 
 She could have gone back. The thought came without shame. Darovan would call the broken hand a victory; priests would find a way to leave Namar's retreat out of their songs. There would be fruit in the garden for another week.
 
-Then she heard the great gates being barred from within.
-
 She rose.
+
+Above her, the great gates were being barred.
 
 At the final turn her hand ran out of wall. Wind came from ahead now, cold and unobstructed. She had reached the little shelf beneath the gatehouse. Six broad steps led up from it into the court. Before there were gates here, she had stood on this shelf and watched clouds pass beneath the summit's far lip. Behind her were the warm smells of the terraces.
 
@@ -282,7 +282,7 @@ An enormous breath moved on the other side.
 
 She waited.
 
-Footsteps crossed the court to her right. They went quickly, with no attempt at ceremony. A chain began to run through a wheel in the eastern gallery.
+Footsteps hurried across the court to her right, into the white-pillared gallery. A chain began to run through a winch there.
 
 He was lowering the high drawbridge. It led from Namar's court to the old gods' refuge on a separate pinnacle. She had crossed it once with a god who spent most of the journey describing the terrible distance below. He had thought he was amusing her.
 
@@ -292,27 +292,27 @@ The chain stopped.
 
 For a moment there was only the wind.
 
-“Go back,” Namar said. His voice came from the eastern gallery, well to the right of the gates. “You have had your answer.”
+“Go back,” Namar said. “You have had your answer.”
 
-Ilessa tilted her head straight ahead, toward the high center of the gatehouse. She pinched a little of the cloth up, leaving a narrow opening.
+Ilessa faced the high gold doors and lifted a corner of the blindfold.
 
-There were gold doors in the slit, and a strip of pale sky above them. The footsteps that had paced behind those doors had gone into the eastern gallery; Namar's breath and voice remained there. She kept her head straight ahead.
+Gold filled the narrow slit, with a strip of pale sky above it.
 
-The gold parted without bending. A widening lane of absence went through the doors, through the empty receiving hall beyond, through its painted rear wall. She saw blue at the far end. She shut her eye.
+The gold parted without bending. A lane of absence opened straight across the court to the sky beyond. She shut her eye.
 
-Cold wind blew through the opening and lifted her hair. To her right, the chain rattled violently.
+Wind rushed through the opening. The winch rattled violently.
 
-She turned toward that sound.
+She turned her covered face toward the bridge.
 
-The drawbridge lay farther east than Namar's gallery. She knew the angle from the time she had crossed it. Keeping the cloth low over her brow, she looked through a slit toward its outer span, beyond the place where the running chain sounded.
+She lifted the cloth again.
 
-A white span lowered across the gap, its far end approaching the refuge. The doors beyond it were closing. Namar had not stepped onto the bridge.
+The white bridge swung down from the gallery's outer end, bright against the sky.
 
 She looked at the middle of the span.
 
-A gap opened in it. The bridge on either side came apart as the absence spread; the refuge's unoccupied outer porch vanished beyond it. Ilessa closed her eye before turning back toward the gallery.
+A gap opened in the bridge and widened to either end. Ilessa closed her eye before turning back toward the gallery.
 
-The chain rattled to a stop against its wheel. The eastern gallery opened on empty air.
+The chain rattled to a stop against its wheel.
 
 “You knew that road,” Namar said.
 
@@ -320,7 +320,7 @@ The chain rattled to a stop against its wheel. The eastern gallery opened on emp
 
 Namar called the Nine by their oldest names.
 
-He called the Spear-Bearer, whose temples Darovan had burned. He called the god of the western air and the twins who carried evening between them. His voice grew rough. He offered the high seats back. He offered the conquered kingdoms.
+He called the Spear-Bearer, whose western temples Darovan had closed. He called the god of the western air and the twins who carried evening between them. His voice grew rough. He offered the high seats back. He offered the conquered kingdoms.
 
 At last, from the direction of the refuge, a god answered.
 
@@ -334,7 +334,7 @@ No one laughed. Ilessa felt the cold wind moving over her hands.
 
 “The stair is open,” she said. “You can walk down it.”
 
-Namar's footsteps came back into the gallery. They stopped much nearer her than before, above and to her right.
+Namar came back along the gallery, his steps heavy now.
 
 “You would have me crawl past you.”
 
@@ -380,9 +380,9 @@ He drew a vast breath.
 
 The court filled with heat.
 
-It struck her face hard enough to hurt. Her sleeves snapped against her arms. In the eastern gallery, the living god gathered his force into the crown beneath his hands. He had broken the Nine with one sudden stroke, catching them still in their seats. He sent the whole of that strength at her now, without another word. Stone cracked, and the wind bent away from him.
+It struck her face hard enough to hurt. Her sleeves snapped against her arms. In the pillared gallery, the living god gathered his force into the crown beneath his hands. He had broken the Nine with one sudden stroke, catching them still in their seats. He sent the whole of that strength at her now, without another word. Stone cracked, and the wind bent away from him.
 
-Ilessa turned her covered face toward the sound. She raised her chin a little. His court stood above her; beyond it there was only sky. The stair ran down behind her heels.
+Ilessa turned her covered face toward the sound. She raised her chin a little. The gallery stood above her; beyond it there was only sky. The stair ran down behind her heels.
 
 Fire rushed toward the threshold.
 
@@ -390,7 +390,7 @@ She lifted the crimson cloth and opened both eyes.
 
 ***
 
-Namar stood in a hall of white pillars, taller than any of them, with the crown blazing between his hands. He had made himself beautiful. His skin shone like the inside of a shell. Six arms spread from his shoulders, each scarred by an old victory. There was fury in his face, and the effort of holding something enormous. Above the crown's rim, two empty settings waited for her eyes.
+Namar stood among the gallery's white pillars, taller than any of them, with the crown blazing between his hands. He had made himself beautiful. His skin shone like the inside of a shell. Six arms spread from his shoulders, each scarred by an old victory. There was fury in his face, and the effort of holding something enormous. Above the crown's rim, two empty settings waited for her eyes.
 
 The fire came to an end in front of her.
 
@@ -406,7 +406,7 @@ Ilessa kept looking.
 
 She saw the lines cut into his throne, the crowded figures of kneeling gods along its base. The throne ceased to be. Pillars opened from their bright capitals downward. The roof went, and with it the banners she had heard so often from the city, beating above a place she could not see.
 
-Namar made one last attempt to strike her. His surviving hand reached out through the vanishing hall, immense and empty.
+Namar made one last attempt to strike her. His surviving hand reached out through the vanishing gallery, immense and empty.
 
 She watched until it was gone.
 
@@ -446,7 +446,7 @@ A pause.
 
 The god said nothing more.
 
-Soon she heard the weight of the Spear-Bearer upon the shelf, and the arrival of things whose passage changed the pressure in her ears. They spoke quietly to one another. When they lifted her, six separate pairs of hands were careful beneath her feet.
+Soon she heard the weight of the Spear-Bearer upon the shelf, and the arrival of things whose passage changed the pressure in her ears. They spoke quietly to one another. Six gods lowered themselves until their joined hands lay level with the shelf. She stepped onto their palms. They lifted her standing.
 
 They carried her over the intact stair, past the abandoned altars, out above the inhabited slopes. Below, doors opened. People came into streets from which they had been forbidden, looking up at the gods who bore the blindfolded woman down from Heaven.
 
