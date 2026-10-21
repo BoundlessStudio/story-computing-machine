@@ -332,6 +332,8 @@ Across the lower terrace, a copper-winged woman in a servant's apron stood on a 
 
 The restorer watched Veska's wings as she walked.
 
+At the parapet he opened his white case. Beside ivory points lay a fine brush and a vial of clear unbinding fluid.
+
 “Can you repair it?” Orset asked him.
 
 “We have her pre-molt tracings. While the source remains, a fresh path can be drawn from it to carry the original rule.”
@@ -394,7 +396,7 @@ Hox settled the drum more firmly against his belly.
 
 ***
 
-They were given a musicians' room behind the stage. A servant brought bread, cheese, and hot wine. A guard remained outside the door after he left.
+They were given a windowless musicians' room behind the stage. A servant brought bread, cheese, and hot wine. A guard remained outside the door, and Veska heard a key turn after the servant left.
 
 Veska unrolled a tracing on the floor.
 
@@ -474,7 +476,19 @@ He did not reach for his tools.
 
 “I do.”
 
-Hox stood up.
+“I can close it here,” Nim said.
+
+“Out on the stage.”
+
+“People will feel it wherever we do it.”
+
+“So will Orset. That door stays locked. He can tell them I'm ill while he decides what to do with us. Let him take us out while he still thinks I'll agree.”
+
+“With guards,” Hox said. “The restorer beside you. They'll take the iron off us.”
+
+“I know. He wants them to watch him put me right. Let them watch him fail.”
+
+Hox rested his hand on the worn drumrim, then stood up.
 
 “Then we'll need a longer second verse.”
 
@@ -510,7 +524,7 @@ The restorer examined the ink without touching her. He found the surviving gold 
 
 “And the iron,” the regent said.
 
-Veska took the bent pin from her ear. Hox and Nim put down the borrowed hoops. The guard collected all three on a silver tray.
+Veska took the bent pin from her ear. Hox met her eyes, then put down his borrowed hoop. Nim set his beside it. The guard collected all three on a silver tray.
 
 Veska watched the pin leave.
 
@@ -532,7 +546,7 @@ The herald called for the Crown Eye to be shown.
 
 Veska spread her wings.
 
-A murmur swept the terraces. She felt it more distinctly than the wind: disgust, delight, shock. The black briars climbed her royal crescents. Purple sunlight shone through the membrane between their thorns.
+A murmur swept the terraces. She felt it more distinctly than the wind: disgust, delight, shock. The black briars climbed her royal crescents. The violet bands glowed where sunlight passed through them.
 
 Then the herald spoke the old instruction, and the terraces knelt.
 
@@ -576,7 +590,7 @@ Then Nim turned the fiddle bow in his right hand, bringing its bone point toward
 
 A guard seized Veska's right arm. Another caught the hard leading edge of her left wing, carefully, firmly, exactly as someone had practised.
 
-The bow's bone point swept past her wing.
+The guard pulled her wing out of the needle's reach.
 
 The restorer lunged for the little black loop.
 
@@ -596,9 +610,9 @@ Veska pulled against the guard on her arm. He was stronger. The one holding her 
 
 Orset reached for the bow. Nim drew it back in his right hand and let the fiddle fall. With his left he caught the wing's free, scalloped edge and drew the membrane inward above the upturned bone point.
 
-“Steady,” he said.
+“Steady,” he said, holding the bow motionless.
 
-Veska stopped pulling at the guard. Leaning toward Nim, she lowered the prepared gap onto the bone point on his bow.
+Veska stopped pulling at the guard and pressed the prepared gap down onto the bone needle at the bow's heel.
 
 It was a tiny prick.
 
@@ -638,6 +652,8 @@ He looked through the clean patch at the sky.
 
 Nothing returned.
 
+The copper-winged woman on the landing gripped the rail and stared at the clean patch.
+
 ***
 
 Orset still had guards.
@@ -676,7 +692,7 @@ Behind them, Orset shouted for someone to close the terrace gates. Farther down,
 
 At the second landing, the copper-winged servant took off her apron.
 
-Veska saw none of it clearly. The city kept appearing between beating wings and grasping hands. People moved aside. People tried to stop them. Someone laughed at her bleeding ear. Someone else threw a basket at a pursuing guard.
+The city kept appearing between beating wings and grasping hands. People moved aside. People tried to stop them. Someone laughed at her bleeding ear. Someone else threw a basket at a pursuing guard.
 
 The three of them reached the street.
 
