@@ -118,11 +118,11 @@ Nim caught his arm.
 
 Veska stepped in front of the officer.
 
-“He isn't in your register.”
+“Leave him out of it. Orset's business is with me.”
 
-“He has entered a witnessed marriage under the law.” The officer's voice shook. He glanced at the white ribbon. “We were sent to prevent that. Apparently we were late.”
+“The regent requires your musicians beside you, my lady. He would prefer you all to arrive willingly.”
 
-He looked at Nim's mismatched wings and then carefully away. The regency could command a registered subject. It had never troubled to find a category from which it could call Nim.
+He looked at Nim's mismatched wings and then carefully away. The call had found Hox by his Copper Circle. The regency had never troubled to find a category from which it could call Nim.
 
 Hox took another involuntary step.
 
@@ -239,6 +239,8 @@ The band across the landing went out.
 Hox climbed the stairs.
 
 At the top, he set his father's drum beneath the canopy and played a roll that flung pigeons off every roof around the court.
+
+A guard with pale blue wings and one copper notch near the root started toward him. She stopped short of the canopy, lowered her spear, and let him finish before going to fetch Orset.
 
 Veska sat down hard.
 
@@ -444,7 +446,7 @@ She had hated the prospect of her life continuing along that line. It was much h
 
 “There won't be more gold to borrow.” He picked up his pen. “The source goes. The branch to the next bearer goes with it. You won't have a small crown left somewhere.”
 
-Veska traced the route without touching the paper. After the source, the ink would lead back into the source. A closed mouth, drinking its own voice.
+Veska traced the route without touching the paper. The stair barrier had gone out with its gold. This would end every barrier, every call already lodged in someone. Orset's army could feel its oath let go in front of an enemy. She could not know who would stay.
 
 “What about your marriage?”
 
@@ -486,11 +488,11 @@ Nothing gold moved.
 
 “Until that closes,” he said, “it's just a leaf.”
 
-He fitted the little point beneath the end of his fiddle bow. Hox practised the extra bars, then stopped and looked at the drum his father had worn smooth around the rim.
+He bound the little point to the heel of his fiddle bow and turned the bow in his right hand, holding the projecting tip just below the gap. Hox practised the extra bars, then stopped and looked at the drum his father had worn smooth around the rim.
 
-“If he drops the brush, that's enough?” he asked.
+“If I knock the restorer's brush away, will you have time?” he asked.
 
-“It buys us a moment,” said Nim.
+“For one dot,” said Nim.
 
 Hox nodded once.
 
@@ -510,9 +512,7 @@ The restorer examined the ink without touching her. He found the surviving gold 
 
 Veska took the bent pin from her ear. Hox and Nim put down the borrowed hoops. The guard collected all three on a silver tray.
 
-The call lodged in Hox remained. Veska could hear it now, a beautiful little promise pulling at the edge of her attention. Come when you are called. Be where you belong.
-
-She set her boots squarely on the floor.
+Veska watched the pin leave.
 
 Orset opened the door for her.
 
@@ -523,6 +523,8 @@ They had covered the throne in white silk so it would not be seen empty.
 The terraces were full. Fine wings glimmered on the upper seats. Below them, families stood in their prescribed places with their children held in front so the heralds could see their patterns. The copper-winged woman in the servant's apron had climbed to the second landing. Her hands still gripped the rail.
 
 Under the canopy, guards stood on either side of Veska. The restorer opened his white case. Nim set his fiddle against his shoulder.
+
+Near the stairs the pale-blue guard had made a space beside the railing for a little girl, holding the impatient adults back with her spearshaft.
 
 Hox put his father's drum where the harps had stood.
 
@@ -566,15 +568,15 @@ Orset lowered the oath.
 
 The restorer stopped.
 
-For one suspended instant, Veska could still give them the wing. The men would stand back. The two people beside her would be safe for the rest of their lives.
+For one suspended instant she could still give them the wing, keep the old oaths holding and her friends safe. Tomorrow, if someone brought her another cruel rule, she would still have the means to break it.
 
-Then Nim shifted his bow.
+Then Nim turned the fiddle bow in his right hand, bringing its bone point toward the gap.
 
 “Hold her,” Orset said.
 
 A guard seized Veska's right arm. Another caught the hard leading edge of her left wing, carefully, firmly, exactly as someone had practised.
 
-Nim's bow struck empty air.
+The bow's bone point swept past her wing.
 
 The restorer lunged for the little black loop.
 
@@ -592,19 +594,11 @@ Then he shoved the broken drum forward, carrying the restorer back against the s
 
 Veska pulled against the guard on her arm. He was stronger. The one holding her wing had locked his elbow; she could not turn far enough to bring the little gap to Nim.
 
-Orset reached for the fiddle bow.
-
-Nim let the fiddle fall.
-
-With his free hand he seized Veska's wing at the firm outer edge. Between them they bowed the membrane inward.
+Orset reached for the bow. Nim drew it back in his right hand and let the fiddle fall. With his left he caught the wing's free, scalloped edge and drew the membrane inward above the upturned bone point.
 
 “Steady,” he said.
 
-She stopped pulling at the guard.
-
-The gap lay trembling above the point.
-
-Veska pressed her wing down.
+Veska stopped pulling at the guard. Leaning toward Nim, she lowered the prepared gap onto the bone point on his bow.
 
 It was a tiny prick.
 
@@ -662,7 +656,7 @@ The guard set her spear across the way.
 
 “There's a child underfoot,” she said.
 
-There was. A little girl had climbed the last steps while her parents were still rising. She stood behind the guard, gazing at the black briars.
+There was. The girl had slipped from her place at the rail while her parents were still rising. She stood behind the guard, gazing at the black briars.
 
 The guard looked at Veska.
 
