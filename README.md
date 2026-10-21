@@ -28,7 +28,7 @@ The story's `notes.md` keeps concise editorial memory: the keeper's independent 
 - [universe/](universe/README.md) — shared facts and the small set of narrative boundaries. A story becomes canon only with your explicit approval.
 - [universe/art.md](universe/art.md) — collection visual direction and art provenance guidance.
 - [AGENTS.md](AGENTS.md) — permissions, worktree rule, and the few repository boundaries.
-- [tmp/](tmp/) — temporary task files and directories. Its `.gitkeep` is tracked; all other contents are ignored. Keep scratch work here inside the active worktree. [Codex boundary setup](.codex/hooks/README.md) explains the write guard.
+- [tmp/](tmp/) — temporary task files and directories. Its `.gitkeep` is tracked; all other contents are ignored. Keep scratch work here inside the active worktree, as required by [AGENTS.md](AGENTS.md).
 
 The former GitHub Pages site, galleries, and publication captures have been retired from this repository. A separate media-only CI workflow publishes selected artwork to Cloudflare R2 for downstream use; it does not render or publish story pages. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.
 
