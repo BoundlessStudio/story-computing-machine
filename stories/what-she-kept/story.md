@@ -380,7 +380,7 @@ Daret said nothing.
 
 “My riders saw her on the western road. Your Lady will not stay to watch you die.”
 
-The god sounded pleased. Ivara stood with her head bowed under the hood. The one journey all his servants would have watched had been hers. Daret's surrender was what Orvek had demanded before she made that journey, and the figure beside the emperor was a figure that had always been there.
+The god sounded pleased. Ivara stood with her head bowed under the hood.
 
 “Kneel,” Orvek said.
 
@@ -392,7 +392,7 @@ Daret's left knee touched the ground. The right followed with its little click.
 
 “Then ask.”
 
-There was a long pause. Ivara felt a tremor pass from Daret's hand into the rim of the crown as he took it from her.
+There was a long pause. Ivara felt a tremor pass from Daret's hand into the rim of the crown as he took hold of it.
 
 “Let them live,” he said.
 
@@ -532,7 +532,7 @@ Daret called back. His voice was thin without the god's thunder behind it. He tr
 
 This time someone heard.
 
-The words began to pass down the southern face. Men who had stood together beneath Orvek's banners were shouting them to people he had driven from their homes. A woman called them back as a question. Daret answered her.
+The words began to pass down the southern face. Men who had stood together beneath Orvek's banners were shouting them to people the god had driven from their homes. A woman called them back as a question. Daret answered her.
 
 No voice came out of the empty sky to stop him.
 
