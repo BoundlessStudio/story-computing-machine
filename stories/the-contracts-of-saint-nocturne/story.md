@@ -382,7 +382,7 @@ Ione looked at the list.
 
 “I begged her to get me back under the shelter,” Damaris said. “The Guest agreed to readmit me under the suspended agreement. I wasn't owed that.”
 
-“And you couldn't show me?”
+“You got to choose. Why didn't I?”
 
 Damaris did not answer.
 
@@ -614,7 +614,7 @@ Ada read one, put the screen facedown, and went to give another interview.
 
 Kem was sitting on a folded blanket with the terms open on his phone. The physician who had relieved him offered a sedative. He shook his head.
 
-His partner had sent a picture of their youngest eating breakfast. Dawn where they lived had ended the collected night's service. Kem enlarged the boy's face, then passed Ione the phone.
+His partner had sent a picture of their youngest eating breakfast. Dawn where they lived had ended the night's service. Kem enlarged the boy's face, then passed Ione the phone.
 
 “I'm going to learn the observance,” he told Ione. “For me. My partner is reading it to the boys. We haven't decided what to tell them to do.”
 
@@ -626,7 +626,7 @@ She sat beside him for a minute.
 
 “I hope you were right,” he said.
 
-She could find nothing to say to that.
+She handed the phone back. She could find nothing to say to that.
 
 Agnet came out of the medical tent with a fresh bandage around her knee. She stopped by the phone and asked Kem to enlarge the line that began the spoken service. Together they worked out the first name.
 
