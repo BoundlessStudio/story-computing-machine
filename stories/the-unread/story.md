@@ -196,11 +196,11 @@ Oreth touched the edge of the royal summons.
 
 Meret looked toward the royal hill. Above the roofs, the king's red standard moved in the late sun.
 
-Once a year she laid out every card before him and offered the being behind them a body. It could refuse. If it accepted, her living attention held it in the space above the spread. Fate came entire, and for the duration of the audience its life was there in the room. That was why kings trusted the audience more than an ordinary reading: the source came before them in its own person.
+At the full audience, she told them, Fate stood above the deck, entire and breathing, its life in the room with her own. She held every card in mind while its pulse pressed against hers; even now the memory made her jaw ache.
 
-Meret could dismiss it by releasing the deal. Until then, the figure could move within the spread's bounds and reach beyond them, but could not withdraw. A reader without her training could hold it for a breath, or two, and see nothing for months afterward. Meret could ask her question and wait for an answer.
+“Could you hold it while I spoke?” Oreth asked.
 
-She explained that much.
+“If it agrees to come. I decide when to let go.”
 
 “Then make it look at me in front of the king,” Oreth said.
 
@@ -520,7 +520,7 @@ The cord parted under the blade.
 
 The standard fell. The gold head came down toward Meret's face; the long ash shaft swept the space above the cards.
 
-Oreth jumped onto the low table. They caught the shaft below the spear-head, knees folding with its weight. The red cloth came over their head. For one dreadful moment Meret could see neither their face nor their hands.
+Oreth jumped onto the low table. They caught the shaft in both hands below the spear-head, knees folding with its weight. The red cloth came over their head. For one dreadful moment Meret could see neither their face nor their hands.
 
 Fate's head turned toward the falling weapon and stopped as if its neck had met a wall. Its sword came across blind and struck the table behind Oreth.
 
@@ -528,7 +528,7 @@ Under the cloth, Oreth heaved sideways. The pole's butt tore free of its bronze 
 
 Meret stood close enough to the source to touch its robe. She could still dismiss it. She held the shape.
 
-Oreth shoved the bunched banner away from their face and pivoted inward on the table, turning the freed point toward Fate's right side. They were close enough that the pale robe brushed their cheek. They got a foot against the edge of the table and drove the iron point upward into the silver body.
+Oreth shoved the bunched banner away from their face and turned the spear-point toward Fate's right side. The pale robe brushed their cheek. Bracing a foot against the table's edge, they drove the point upward with both hands.
 
 Fate made the small gasp Meret had heard beneath her hand on the terrace.
 
