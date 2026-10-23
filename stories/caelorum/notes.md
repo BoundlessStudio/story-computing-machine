@@ -1,0 +1,5 @@
+# Editorial memory
+
+2026-10-23. New non-canon story from the user's Caelorum prompt and supplied city image. Original inspected and preserved. Audience unspecified; General is the starting target. No shared-universe connection is assumed. The coordinator is protecting architectural grandeur, the inhabited city's human stakes, discovery through architectural evidence, and the distinction between constructing a mechanism and intending its completion.
+
+Before seeing a plan, the Codex promise reader identified “civilization revealed as construction” and “the difference between inheriting work and consenting to its purpose.” It warned against a secret chamber making the city mechanically incidental or “one harmless way to omit the last piece.” Independently, Claude identified “a gestalt flip” and “archaeology of intent”; its anticipated payoff was “a clear, earned answer to the intent question” and a revelation of the mechanism's purpose. Both distinguished these interpretations from the prompt's explicit requirements and treated the image as visual invitation rather than added law.
