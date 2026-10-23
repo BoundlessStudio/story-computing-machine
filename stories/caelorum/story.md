@@ -14,7 +14,7 @@ By tomorrow he might be carrying one across hers.
 
 For thousands of years, each new building had come from a drawing on the cavern walls. The oldest histories described the engravings already there. None named a person who had cut them.
 
-She took out her dividers and crouched beside the eastern springing, where the arch rose from its pier. The arch's long iron binding ended here in a great shoe. The builders had left oak packing beneath it so the fit could be adjusted before stone pads replaced the timber. At sunrise the carpenters had eased the first row of centering wedges; part of the arch's weight rested on its piers already. One final bed to check, then Hadran would give the order to lower the rest.
+She took out her dividers and crouched beside the eastern springing, where the arch rose from its pier. The arch's long iron binding ended here in a great shoe. Oak wedges held it high in its socket, its upper flange caught behind an overhanging lip. When permanent stone pads replaced the oak, it would be locked there. At sunrise the carpenters had eased the first row of centering wedges; part of the arch's weight rested on its piers already. One final bed to check, then Hadran would give the order to lower the rest.
 
 Her plumb line would not agree with yesterday's mark.
 
@@ -126,6 +126,8 @@ Isera lowered the pencil. She could feel the drop beyond the gallery rail in the
 
 She put his measuring rod across the drawing. One end under the lower city. The other under the sloping face. Her bridge ran west from the cradle's inner edge: its eastern pier stood on the inhabited cradle, its western foot was held by the iron arm rising toward the mountain face. The arch's binding joined them into one rigid piece.
 
+The first weight taken off its timber that morning had set the whole thing moving.
+
 “When that goes down,” she said, touching the inhabited terraces, “this comes up.”
 
 He did not answer immediately.
@@ -186,7 +188,7 @@ In the last part of the drawing that cradle descended into a narrow pit.
 
 There was nothing to stop it.
 
-Isera followed the line with her lamp until the rim of the pit disappeared beneath a later cut. This second line was less elegant, deeper and broader. It left the old descent, curved outward, and ended on a shelf in the rock.
+Isera followed the line with her lamp until the rim of the pit disappeared beneath a later cut. This second line was less elegant, deeper and broader. It left the old descent and curved outward into a broad, shallow hollow. Beyond the hollow it rose to a low lip, where the way ended above the pit.
 
 She turned.
 
@@ -224,7 +226,7 @@ Halfway up, she stopped.
 
 Through a gap in the stair wall she could see the underside of a bridge. A very small bridge, smoke-blackened and old, buried inside the piers of the vast one above. It should have formed a complete arch. Instead, its crown had been opened. The two halves stopped short of one another.
 
-The gap was deliberate. Chisel scars crossed the broken ends, and packing stones had been inserted beneath both sides so that each stood without its lost middle. Along the cradle side, an iron plate had slid down a little way, then come to rest on an added shoulder.
+The gap was deliberate. Chisel scars crossed the broken ends, and packing stones had been inserted beneath both sides so that each stood without its lost middle. The old bridge's cradle-side foot rested a handspan below its first bed, on an added shoulder. A scrape along the iron behind it marked the short descent.
 
 She pushed her lamp through the gap.
 
@@ -304,7 +306,7 @@ Hadran was standing over a broken brace. It had crushed its own iron socket thro
 
 She shook her head and laid the rubbing on the stone again.
 
-“The bridge is still tying us to the face. It will pull the cradle past the landing.”
+“The bridge is still tying us to the face.” She traced the hollow at the end of the new way. “Our weight can settle here. The pull will drag us up the far side, over the lip. There's nothing beyond it.”
 
 He studied the line. “Then take the connection out.”
 
@@ -332,11 +334,11 @@ She had been thinking of the crown. Take the keystone and let the arch come apar
 
 She went to the eastern springing.
 
-The oak packing beneath its iron shoe was already crushed. Beside it was the empty bed for the permanent stone pads. The arch had not yet been fastened there. The temporary iron dogs across the joint were keeping the shoe aligned while the scaffold carried part of its load.
+The oak packing beneath its iron shoe was already crushed, but it still held the flange high behind the socket's lip. The permanent stone pads had not been fitted. The temporary iron dogs across the joint were keeping the shoe square while the scaffold carried part of its load.
 
 She knelt in the white dust and put her hand on the joint she had measured that morning.
 
-“Here. Free this end and the western arm will draw the arch off the cradle. The iron binding will hold it through the first turn.” She traced that turn on the stone with her finger, westward, away from the houses. “Over the clear part of the shaft.”
+“Here. Take out the oak and the shoe drops below the lip. Then the western arm can draw the arch off the cradle. Its binding will hold through the first turn.” She traced that turn on the stone with her finger, westward, away from the houses. “Over the clear part of the shaft.”
 
 Hadran looked down through the scaffolding at the empty shaft beyond the lower roofs. Then he looked up at the lifting mountain.
 
@@ -374,7 +376,7 @@ Hadran came down beside them. He put his own chalk mark through hers.
 
 The carpenter bent to his work.
 
-They withdrew the iron dogs while the remaining shoring still held the joint together. The oak could not be pulled under the load, so they left a final pair of wedges to be driven clear with a long beam from the narrow scaffold beside the pier. Once the wedges were out, they would have to reach the stone before the timber went.
+They withdrew the iron dogs. The shoe remained caught behind the lip, held high by the oak beneath it. The wedges could not be pulled under the load, so they left a final pair to be driven clear with a long beam from the narrow scaffold beside the pier. Once those were out, they would have to reach the stone before the timber went.
 
 Isera set the beam herself. Then she checked the route back, lifting a coil of rope out of it and breaking off a splinter that could catch a coat.
 
@@ -434,7 +436,7 @@ She wanted to say stop. Her whole body knew what it meant when the foot of an ar
 
 They struck again.
 
-The second wedge broke across its grain and fell out in pieces.
+The second wedge broke across its grain and fell out in pieces. The shoe dropped, its flange clearing the lip.
 
 Hadran caught Isera around the middle and hauled her backward. The others were already running. They reached the stone of the pier as the scaffold tore loose behind them.
 
@@ -452,9 +454,9 @@ The mountain face fell outward into the light.
 
 Without the bridge, it could no longer pull the cradle after it.
 
-The lowest houses shuddered. A chimney fell from one of them. Windows burst white with dust. The runner reached the landing with a blow that drove Isera's teeth together.
+The lowest houses shuddered. A chimney fell from one of them. Windows burst white with dust. The runner struck the bottom of the hollow with a blow that drove Isera's teeth together. It climbed a little way up the far side.
 
-Then it stopped.
+Then it settled back and stopped.
 
 For a long time there was only falling stone.
 
