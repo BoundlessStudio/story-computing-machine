@@ -244,6 +244,8 @@ Ada looked down. Ione read over her shoulder.
 
 There were lists of beings: the Guest, its household, the things that followed its household, the things it could restrain. Against them stood an undertaking that no human sleeper would be entered, hunted, or carried away, so long as the promised services were rendered.
 
+Beside one name was a restraint: *It shall not call the sleeper in any loved voice, nor draw the sleeping body after the mind.* The next line forbade carrying anyone into a place from which there was no waking road back.
+
 Below it, the human obligation ran for two lines.
 
 One night in every seven. From sunset to first light, kneeling and speaking the names of the Guest and its household. Their descendants were to do likewise.
@@ -260,7 +262,7 @@ The eleven thumbprints were small. One had been pressed twice, as though its own
 
 Pinned behind the first sheet was another, much newer. Ione recognized the order's hand.
 
-*Collection being suspended while the original remains sealed in the custody of the eight mortal watchers.*
+*Collection being suspended in the sealed custody of the eight mortal watchers, and resuming only on presentation of this original before an accredited human assembly.*
 
 Beneath were successive renewals. Eight names. Eight more. Eight more.
 
@@ -370,7 +372,15 @@ Her hands were on the page. Damaris's hand was on hers.
 
 “You let me promise my life without ever telling me.”
 
-“So you could sleep. So they could.” Damaris indicated Kem's phone. Her voice had lost its command. “I have seen what happens without the shelter. My predecessor showed me. Not on paper.”
+“So you could sleep. So they could.” Damaris indicated Kem's phone. Her voice had lost its command. “When I first read it, I refused. I thought I should know what we were guarding.”
+
+“You went without?”
+
+“One of them called in my father's voice. My predecessor woke me, but its hand was still in my hair. She had to pull me free.”
+
+Ione looked at the list.
+
+“I begged her to get me back under the shelter,” Damaris said. “The Guest agreed to readmit me under the suspended agreement. I wasn't owed that.”
 
 “And you couldn't show me?”
 
@@ -414,6 +424,8 @@ Damaris read the membrane. “No replacement after signing.”
 
 Olwen signed beside Agnet. Then Maud.
 
+Neri, Peret and Tavia had come round the bench. They waited for the pen.
+
 Ione could see the old life returning. The kitchen window she had looked through every morning. The drill hall. The red stair. The palms from below. A new girl brought in before one of them died, taught the languages and the weapons, told what she would preserve, never what she could refuse.
 
 “I won't,” she said.
@@ -442,7 +454,7 @@ He took the pen from Maud. His hand was steady. He signed beneath her name.
 
 Ione stepped back from the bench.
 
-It was possible. Someone could take her place. She could go out of the gates and sleep safely because Kem Hazi had stayed inside them. If he changed his mind before signing, perhaps someone else would come forward.
+It was possible. Someone could take her place. She could go out of the gates and sleep safely because Kem Hazi had stayed inside them. If he changed his mind, perhaps someone else would come forward.
 
 She could not call that her imprisonment.
 
@@ -602,6 +614,8 @@ Ada read one, put the screen facedown, and went to give another interview.
 
 Kem was sitting on a folded blanket with the terms open on his phone. The physician who had relieved him offered a sedative. He shook his head.
 
+His partner had sent a picture of their youngest eating breakfast. Dawn where they lived had ended the collected night's service. Kem enlarged the boy's face, then passed Ione the phone.
+
 “I'm going to learn the observance,” he told Ione. “For me. My partner is reading it to the boys. We haven't decided what to tell them to do.”
 
 “They stay sheltered unless they refuse.”
@@ -622,17 +636,17 @@ The expedition had set up cots in the old infirmary. Its windows stood open to t
 
 “You could wait,” Damaris said.
 
-Ione had read the copy three times. She had read the list of things the Guest restrained. She understood the difference between what had been done to the sleeping boy and what could happen to someone outside the shelter.
+Ione had read the copy three times. She had gone back to the line about the sleeping body following the mind, and the places from which waking would not bring her home.
 
 “I know.”
 
 Damaris stood beside the cot. There was no coif on her head now. Without it, Ione could see the white scar that ran back into her close-cropped hair.
 
-“Did it do that?”
+“That's where it held you?”
 
 Damaris touched the scar.
 
-“Something it kept out afterward.”
+“Yes. Mother got hold of my collar. I wouldn't have come back by myself.”
 
 Ione looked at it for a long time.
 
