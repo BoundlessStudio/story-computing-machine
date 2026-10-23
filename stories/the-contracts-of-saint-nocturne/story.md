@@ -388,6 +388,8 @@ Damaris did not answer.
 
 The Guest bent toward the bench. The soldiers raised their weapons again. It paused, hands displayed.
 
+It angled its folded face toward the camera.
+
 “This can still be postponed,” it said.
 
 ***
@@ -508,7 +510,7 @@ She lifted it toward the lens.
 
 The Guest moved.
 
-It struck Ada aside without looking at her and caught the edge of the original. The grey sheet pulled tight between its white fingers and Ione's hands. A soldier shouted. Damaris seized Ione's jacket and dragged her out from under the creature's face.
+It struck Ada aside without looking at her and caught the edge of the original. The grey sheet pulled tight between its white fingers and Ione's hands. A soldier shouted. Damaris seized Ione's jacket and hauled her sideways. Ione stumbled clear of the creature's face, both hands still locked on her edge of the sheet.
 
 The first bullet struck stone. The second hit the Guest beneath the shoulder. It folded around the impact, made that terrible open-mouthed sound, and kept its grip.
 
@@ -516,11 +518,11 @@ The first bullet struck stone. The second hit the Guest beneath the shoulder. It
 
 “Then keep it,” the Guest answered. “Seal it.”
 
-Its hand relaxed, offering the sheet back to her.
+Its grip loosened. It held its corner out to Damaris, above the waiting wrapper.
 
 The weapons stopped. For a moment Ione could hear Kem's son singing through the phone.
 
-Damaris took the sheet. The Guest released it.
+Damaris closed her hand over the corner in its grip. Only then did the Guest let go.
 
 She looked down at the eleven thumbprints. She put a finger beside the doubled one.
 
@@ -639,6 +641,8 @@ The expedition had set up cots in the old infirmary. Its windows stood open to t
 Ione had read the copy three times. She had gone back to the line about the sleeping body following the mind, and the places from which waking would not bring her home.
 
 “I know.”
+
+She pressed her fingers against her lips. “I need to sleep tonight. I don't want it singing with my mouth.”
 
 Damaris stood beside the cot. There was no coif on her head now. Without it, Ione could see the white scar that ran back into her close-cropped hair.
 
