@@ -14,7 +14,7 @@ By tomorrow he might be carrying one across hers.
 
 For thousands of years, each new building had come from a drawing on the cavern walls. The oldest histories described the engravings already there. None named a person who had cut them.
 
-She took out her dividers and crouched beside the eastern springing, where the arch rose from its pier. The builders had left oak packing beneath its great iron shoe so the fit could be adjusted before stone pads replaced the timber. One final bed to check, then Hadran would give the order to lower the centering and let the arch carry itself.
+She took out her dividers and crouched beside the eastern springing, where the arch rose from its pier. The arch's long iron binding ended here in a great shoe. The builders had left oak packing beneath it so the fit could be adjusted before stone pads replaced the timber. At sunrise the carpenters had eased the first row of centering wedges; part of the arch's weight rested on its piers already. One final bed to check, then Hadran would give the order to lower the rest.
 
 Her plumb line would not agree with yesterday's mark.
 
@@ -22,9 +22,9 @@ She waited for it to stop swinging. Far below, someone called for a basket to be
 
 Yesterday's mark stood a finger's width to the left.
 
-She checked the other pier. That mark was true.
+She checked the western bed. There the arch had risen a hair's breadth without shifting sideways.
 
-Between the two, at the very bottom of the iron shoe, a polished strip had appeared. It curved down into the pier. Isera brushed the white dust away. The strip continued beyond the bed where, according to the section she had drawn, solid masonry should have begun.
+Back at the eastern bed, at the very bottom of the iron shoe, a polished strip had appeared. It curved down into the pier. Isera brushed the white dust away. The strip continued beyond the bed where, according to the section she had drawn, solid masonry should have begun.
 
 She lay flat and put her cheek against cold iron.
 
@@ -40,9 +40,9 @@ She pointed. He knelt with a grunt, the knees of his dark coat going white.
 
 Hadran touched the bright iron. He was a thickset man with a short grey beard, and ordinarily he looked at stone as though waiting for it to admit a fault. Now he put down his measuring rod and stretched full length beside her.
 
-Across the gulf, a line of washing moved.
+Below her, across a cleft between the lower terraces, a line of washing moved.
 
-The air was still. Isera watched a red shirt travel behind the corner of a tower, taking its line and the little balcony with it.
+The air was still. Isera watched a red shirt travel behind the corner of a tower rooted in the cavern's rear wall, taking its line and the little balcony with it.
 
 She was on her feet before she understood what she had seen.
 
@@ -50,7 +50,7 @@ She was on her feet before she understood what she had seen.
 
 The shout came out so fiercely that the nearest carpenter dropped his mallet.
 
-Hadran looked across the gulf. At the far end of the washing line, the balcony continued its slow passage behind the tower. He seized the scaffold bell and struck the order to hold.
+Hadran looked down. At the far end of the washing line, the balcony continued its slow passage behind the tower. He seized the scaffold bell and struck the order to hold.
 
 All along the bridge, work stopped.
 
@@ -112,7 +112,7 @@ Behind the shining fronts, behind shops and rooms where people were getting dres
 
 The lowest tiers stood together on a single immense cradle.
 
-Its curved iron shoes rested in the mountain. Towers rose from it like weights placed along the arm of a balance. Across the gulf, the upper monuments concealed the other parts of that balance, and the lines continued upward, toward the Sisters.
+Its curved iron runners rested in the mountain. Towers rose from it like weights placed along the arm of a balance. Across the gulf, the upper monuments concealed the other parts of that balance, and the lines continued upward, toward the Sisters.
 
 She drew the mountain around them. Its sloping face covered almost half the cavern, running from the high cleft down toward the city's outer edge. Snow entered through cracks in it. In summer, little stones fell from its underside.
 
@@ -124,7 +124,7 @@ Isera lowered the pencil. She could feel the drop beyond the gallery rail in the
 
 “Show me,” Hadran said.
 
-She put his measuring rod across the drawing. One end under the lower city. The other under the sloping face. Her bridge joined the moving parts that completed the connection between them.
+She put his measuring rod across the drawing. One end under the lower city. The other under the sloping face. Her bridge ran west from the cradle's inner edge: its eastern pier stood on the inhabited cradle, its western foot was held by the iron arm rising toward the mountain face. The arch's binding joined them into one rigid piece.
 
 “When that goes down,” she said, touching the inhabited terraces, “this comes up.”
 
@@ -192,9 +192,9 @@ She turned.
 
 On the far side of the chamber, above the empty dark of the original pit, a wide bearing way had been cut into the mountain. It curved toward a ledge. A workman's stair ran along its edge, broken in places, but passable.
 
-The city had not reached it yet. Its great shoe hung a little above the new way, held where her bridge and the remaining timbers restrained it.
+The city had not reached it yet. Its nearest runner hung a little above the new way, held where her bridge and the remaining timbers restrained it.
 
-Isera walked beneath the shoe with the lamp held high. Rows of houses stood somewhere above her head. The red shirt. The baker. The public steps where she had sat on examination mornings, mouthing the nine prescribed ratios until the words lost their meaning.
+Isera walked beneath the runner with the lamp held high. Rows of houses stood somewhere above her head. The red shirt. The baker. The public steps where she had sat on examination mornings, mouthing the nine prescribed ratios until the words lost their meaning.
 
 In the original design they would all have gone into the pit.
 
@@ -270,7 +270,7 @@ Hadran sent the runner again. Stay inside the lower terraces. Clear the crossing
 
 Isera went back into the bearing chamber.
 
-They had tied a cord from the added way to the scaffold bell. She stood beyond the great shoe, where she could see both the old descent and the first part of the new curve. The men had scraped centuries of dust from a patch of black stone. It looked too small to accept the weight above it.
+They had tied a cord from the added way to the scaffold bell. She stood beyond the city's nearest runner, where she could see both the old descent and the first part of the new curve. The men had scraped centuries of dust from a patch of black stone. It looked too small to accept the weight above it.
 
 She made herself look at its depth instead. The way ran back into the mountain, broadening as it went. It was not a ledge hung over the pit. It was the mountain, cut to receive them.
 
@@ -278,13 +278,13 @@ She rang twice.
 
 Above, Hadran's crew eased one set of wedges. The answering movement came through Isera's feet before she saw it.
 
-The iron shoe lowered.
+The iron runner lowered.
 
 Its outer edge touched the added way. A thin grey crust burst off the stone and rattled into the pit. Isera flinched. The man beside her gripped her sleeve.
 
 Then the broad bearing behind the crust took the load.
 
-The sound changed. Instead of the high, strained ticking she had heard since morning, a low note passed through the chamber. The shoe settled the breadth of her thumb. On its worn inner edge, old scratches met the new ones their descent had made.
+The sound changed. Instead of the high, strained ticking she had heard since morning, a low note passed through the chamber. The runner settled the breadth of her thumb. On its worn inner edge, old scratches met the new ones their descent had made.
 
 She watched the stone. No crack opened.
 
@@ -328,7 +328,7 @@ Hadran followed her gaze to the cartouche.
 
 “Where?” he asked.
 
-She had been thinking of the crown. Take the keystone and let the arch come apart. But from here she could see the inhabited roofs directly beneath that fall.
+She had been thinking of the crown. Take the keystone and let the arch come apart. But the lower roofs jutted from the cradle beneath the eastern half of the span. Breaking the crown would drop that half straight onto them. West of the last roof, the shaft fell sheer and empty.
 
 She went to the eastern springing.
 
@@ -336,7 +336,7 @@ The oak packing beneath its iron shoe was already crushed. Beside it was the emp
 
 She knelt in the white dust and put her hand on the joint she had measured that morning.
 
-“Here. Free this end. When the face starts to pull, the pier will draw away underneath it. The arch will roll toward the gulf.”
+“Here. Free this end and the western arm will draw the arch off the cradle. The iron binding will hold it through the first turn.” She traced that turn on the stone with her finger, westward, away from the houses. “Over the clear part of the shaft.”
 
 Hadran looked down through the scaffolding at the empty shaft beyond the lower roofs. Then he looked up at the lifting mountain.
 
@@ -390,7 +390,7 @@ Then a bell tower went down against the line of the opposite roofs, and the whol
 
 Caelorum was moving with its people inside.
 
-The deep note she had heard under the city rose until it filled the cavern. Snow shook loose from cornices. On the lower terraces, people clung to doorposts and one another. A market awning bellied in the new wind. The great cradle passed onto the added way, its iron shoes grinding through the grey surface into black stone.
+The deep note she had heard under the city rose until it filled the cavern. Snow shook loose from cornices. On the lower terraces, people clung to doorposts and one another. A market awning bellied in the new wind. The great cradle passed onto the added way, its iron runners grinding through the grey surface into black stone. The pier carrying Isera sank with the houses; across the span, the western arm rose and drew away.
 
 Above the city, the mountain face lifted.
 
@@ -422,7 +422,7 @@ She watched long enough to see the movement increase.
 
 “Now.”
 
-They drove the beam forward. The first wedge shot out and struck the opposite pier. The second moved a little and stopped.
+They drove the beam forward. The first wedge shot out and struck a scaffold post. The second moved a little and stopped.
 
 The arch had begun to pull on its shoe.
 
@@ -442,17 +442,17 @@ For a breath, the bridge remained.
 
 She saw the rosettes. The fifth one, wrong by half a finger. The smooth blank underneath Hadran's name.
 
-The eastern end drew away. The arch turned, slow at first, its great stones opening at their joints. Pale blocks fell against the darkness of the shaft. The crown went last, spinning once, and the sound of its fall disappeared beneath the voice of the mountain.
+The western arm drew the bound arch with it. Its freed eastern foot swept off the cradle, carrying the crown beyond the line of roofs. Then the iron binding broke and the great stones opened at their joints. Pale blocks fell against the darkness of the shaft. The crown went last, spinning once, and the sound of its fall disappeared beneath the voice of the mountain.
 
-Across the new gap, the cradle continued down.
+Beneath their pier, the cradle continued down.
 
-Isera could see its bearing from where she lay. The great iron shoe had cleared the old pit. It was moving along the added curve toward the broad landing, far below the place she had tested.
+Isera could see its bearing from where she lay. The great iron runner had cleared the old pit. It was moving along the added curve toward the broad landing, far below the place she had tested.
 
 The mountain face fell outward into the light.
 
 Without the bridge, it could no longer pull the cradle after it.
 
-The lowest houses shuddered. A chimney fell from one of them. Windows burst white with dust. The shoe reached the landing with a blow that drove Isera's teeth together.
+The lowest houses shuddered. A chimney fell from one of them. Windows burst white with dust. The runner reached the landing with a blow that drove Isera's teeth together.
 
 Then it stopped.
 
