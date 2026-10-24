@@ -6,7 +6,7 @@ canon: false
 
 Blue caught the pirate's hook a finger's width from her wrist.
 
-The hook hissed along the rim of his round blue shield. The Princess kept painting. Cyan ran from her forefinger across the broken terrace, rose in a shining curve, and hardened into a wave of glass. The pirate struck it boots first. Behind him, six companions came swinging down from a galleon that had sailed halfway into the starship above them.
+Blue's fingers held the iron fast against the rim of his round shield. The Princess kept painting. Cyan ran from her forefinger across the broken terrace, rose in a shining curve, and hardened into a wave of glass. The pirate struck it boots first. Behind him, six companions came swinging down from a galleon that had sailed halfway into the starship above them.
 
 “Mine,” announced the starship, in a voice that moved the stones.
 
@@ -316,7 +316,7 @@ A guard coming through the chamber's side hatch flattened abruptly into a dark s
 
 The command robot turned toward the hatch. Its chest changed from *SECURE* to *RESERVE*. No one answered it.
 
-Red laid his spear down. Green drove a buckled roof plate across the gap above them, trapping the dragon's claw, then lowered his shield. Blue sheathed his sword and opened both hands.
+Red laid his spear down. Green drove a buckled roof plate across the gap above them, trapping the dragon's claw, then lowered his shield. Blue laid his shield beside the press, sheathed his sword, and opened both hands.
 
 The dragon beat upon the wedged plate. A pirate's harpoon tore through a seam beside it. The transport's armor shuddered under them. Yet for this moment the walls still kept out most of the armies, and the guards inside could come at her from only one side.
 
@@ -344,7 +344,7 @@ He held the white.
 
 She swept the guards into their page. It buckled on the floor under the weight of its new sentences. They were still moving in the print, pushing against its edge. Without black to close the picture, they could come out again.
 
-She could not spend her last black on six guards. The Princess pressed her palms wide.
+She could not spend her last black on the guards. The Princess pressed her palms wide.
 
 The white ground widened beyond the press. She began the ocean at the desert's edge, laying in the hulls of the pirate fleet. A little blue prow formed beneath her fingers. Its ship swung away from the transport, drawn toward the homeward margin she had given it.
 
