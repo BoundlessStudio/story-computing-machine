@@ -6,7 +6,7 @@ canon: false
 
 Blue caught the pirate's hook a finger's width from her wrist.
 
-Blue's fingers held the iron fast against the rim of his round shield. The Princess kept painting. Cyan ran from her forefinger across the broken terrace, rose in a shining curve, and hardened into a wave of glass. The pirate struck it boots first. Behind him, six companions came swinging down from a galleon that had sailed halfway into the starship above them.
+His fingers held the iron fast against the rim of his round shield. The Princess kept painting. Cyan ran from her forefinger across the broken terrace, rose in a shining curve, and hardened into a wave of glass. The pirate struck it boots first. Behind him, six companions came swinging down from a galleon that had sailed halfway into the starship above them.
 
 “Mine,” announced the starship, in a voice that moved the stones.
 
@@ -56,9 +56,11 @@ Cyan spread beneath her right palm. Yellow flowed under her left. She touched th
 
 The whole regiment slid backward. Horses screamed as the ground carried them away from her. Their general clung to his saddle, still waving his command to advance.
 
+“She's sending us back!” the herald cried. “Take her hands!”
+
 For an instant, she had room.
 
-She reached for black.
+She reached for black. One closed line around their painted door would finish that retreat and shut their way back to her. Then she would turn to the fleet.
 
 A shadow crossed the painting. Above her, the dragon dropped its cage. Behind her, the pirate captain came through the shattered glass wave with a weighted net. The white ground demanded all three knights; her two hands could not turn the cavalry, hold down the terrace, and stop two new captures at once.
 
@@ -110,9 +112,9 @@ So did a ladder of stars that had been delivering armored infantry into the air.
 
 “Let them,” said the Princess.
 
-She pulled a cyan road across the wreck of the submarine. Green brought his shield beneath the tyrannosaur's jaw and lifted, turning its enormous head away from her as she passed. His sword swept a rider's lance aside. The others hauled the reins; one held up a pair of golden manacles.
+She pulled a cyan road across the wreck of the submarine. Green brought his shield beneath the tyrannosaur's jaw and lifted, turning its enormous head away from her as she passed. Green's sword swept a rider's lance aside. The dinosaur's other riders hauled the reins. One lifted a pair of golden manacles.
 
-“Alive!” he shouted to the others. “She's no use dead!”
+“Alive!” the man with the manacles shouted. “She's no use dead!”
 
 The Princess slapped yellow across his saddle. It became a bright wooden box with him inside. The manacles rattled against its lid.
 
@@ -169,6 +171,8 @@ She almost brushed it aside. Then iron fingers came out of its print and closed 
 The branch went crooked. It struck a wreck behind Red and blossomed uselessly into leaves.
 
 The paper opened wider. More iron hands emerged, finding her elbow, the shoulder of her gown, her other wrist. A robot pulled itself across the margin, its body still flattening and filling as the letters became metal.
+
+The black transport overhead rang under a dragon's blow. Through the paper's widening fold, she saw a metal deck and a shutter jolting in its frame with the same impact.
 
 Blue moved to interpose.
 
