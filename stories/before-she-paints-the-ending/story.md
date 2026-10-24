@@ -56,7 +56,7 @@ Cyan spread beneath her right palm. Yellow flowed under her left. She touched th
 
 The whole regiment slid backward. Horses screamed as the ground carried them away from her. Their general clung to his saddle, still waving his command to advance.
 
-“She's sending us back!” the herald cried. “Take her hands!”
+“She's sending us back!” the cavalry general cried. “Take her hands!”
 
 For an instant, she had room.
 
