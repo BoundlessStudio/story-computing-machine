@@ -46,7 +46,7 @@ Beyond the lake rose green slopes, long valleys opening between them, and mounta
 
 He turned slowly, searching the hills. “I don't know.”
 
-Neral walked to the water. She crouched to look at her face and found something beneath it.
+Neral walked to the water. She crouched to look at her face. A dark crescent marked the skin beneath her left eye. She leaned closer to see its edge and found something below her reflection.
 
 At first she thought the lake had another shore below its surface. A long pale line ran out from the island, crossed by darker lines at regular intervals. Farther down stood two upright forms, with an opening between them large enough to swallow the tree. Behind those, blue with depth, rose a succession of enormous terraces.
 
@@ -126,7 +126,7 @@ Towards evening the mountains darkened. Light gathered along the undersides of t
 
 The sun reached a notch in the distant ridge. A bright line flashed across the hand Neral was cleaning.
 
-It came from the standing monument above them. There was an opening through its square block, and something inside that opening had caught the light. A chain of pale reflections ran down the cliff towards a dark cleft close to the lake.
+It came from the standing monument above them. There was an opening through its square block. Along the opening's upper edge, a narrow polished facet shone clear of the dirt. A chain of pale reflections ran down the cliff towards a dark cleft close to the lake.
 
 Neral stood. The bright marks were showing a second path.
 
@@ -212,7 +212,7 @@ Orr got off the platform.
 
 At the room's centre they found a model of the lake. Buildings rose around an open basin. Where their island should have been stood a low, round roof. Twenty-nine shapes lay beneath it in a circle. A narrow shaft joined the roof to the room in which they stood.
 
-The real shaft above them was closed. Roots had found their way through its upper seams.
+The real shaft above them was closed. Roots had found their way through its upper seams; several had been pulled apart, showing wet white ends.
 
 Neral imagined the hollow she had woken in travelling upwards through the dark. She could not make that imagined journey turn into a memory.
 
@@ -338,23 +338,17 @@ The image changed again.
 
 This time they saw the mountain.
 
-A six-limbed worker clung to the rock where their path had ended. It was cutting hollows below the old ones, close together, almost hidden beneath the projecting lip of stone. It held a small jointed figure against the wall: a model of a human body.
+A six-limbed worker clung to the rock where their path had ended. Four hands braced it against the great holds. The other two worked beneath the projecting lip of stone. Its body hid what it was making. Pale fragments fell out of the shadow and scattered down the cliff.
 
-The worker bent the model's knee, placed its foot, raised one of its hands to the next hollow. Moved it forward. Repeated the movement.
-
-Behind Neral, someone whispered, “Oh.”
-
-The little body travelled beneath the great six-part holds, following a second route all the way around the rock. At the turn, the worker set it on a narrow ledge and withdrew its supporting hand.
-
-Beyond the ledge opened a passage through the mountain.
+Neral leaned forward, trying to see past it. The work lay well below the holds it was using.
 
 Neral remembered the low shelf where they had stood the previous day. The dirt-filled marks beneath the overhang had seemed like little scars in the stone. She had been looking upwards, measuring the enormous reach they could never make.
 
-All along, there had been another measure.
+She put her hand against the stone hand beside her. Her fingers fitted between two of its fingers. The little dents had been much closer together than the old holds.
 
-The model stood in the passage, one small hand raised. The worker's great finger steadied it from behind.
+“They made the beds to fit us,” she said. “What if they made a way out?”
 
-Then the sun went into the ridge. The figure thinned, its golden plates filled with distant grass, and it was gone.
+The sun went into the ridge. The figure thinned, its golden plates filled with distant grass, and it was gone.
 
 The cylinder clicked once and stopped.
 
@@ -382,15 +376,23 @@ The next lay within easy reach.
 
 She set her foot, lifted herself onto the low shelf, and turned beneath the great climbing holds. Her heart began to beat harder. The lake opened below her. For a moment she could see the island, its single tree, the small pale hollows among the grass.
 
-Then she reached the ledge in the image.
-
-The passage beyond it was full of leaves. Light showed through at the far end. She stepped inside and pushed her way forward until the leaves parted against her face.
+Around the turn, the shelf widened. An opening broke the rock behind a tangle of leaves. Light showed through at the far end. She stepped inside and pushed her way forward until the leaves parted against her face.
 
 On the other side, the mountain fell away into green country.
 
 A valley opened, then another beyond it, vast slopes blue with distance. Snow shone above the clouds. Down on a far ridge stood a line of crooked stone figures, so small from here that she would once have mistaken them for broken rock.
 
 Senn came through behind her, then Orr. One by one, the others emerged into the morning. The man with the white beard stood with both hands on his head, looking out.
+
+After a while he turned to look back through the passage.
+
+“We'll be able to go back?”
+
+“Yes,” Neral said.
+
+“I keep thinking of the doors.”
+
+“So do I.”
 
 The path descended from the passage. Grass grew across its centre. Where it met a steep patch of rock, the great six-part clusters continued upwards, and beneath them, close together, ran the smaller holds.
 
