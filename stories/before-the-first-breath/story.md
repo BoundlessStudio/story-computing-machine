@@ -344,11 +344,9 @@ Neral let go of Orr's hand and put her own against the stone hand beside her. He
 
 She looked towards the mountain. The dirt-filled marks beneath the low overhang had seemed like little scars in the stone. She had been looking upwards, measuring the enormous reach they could never make. The little dents had been much closer together than the old holds.
 
-“They made the beds to fit us,” she said. “What if they made a path for us?”
+“They made the beds to fit us,” she said. She pointed to the low overhang. “What if there's a path for us under there?”
 
-“We can go there,” Senn said.
-
-Nobody asked where.
+“We can look,” Senn said.
 
 They stayed until the first stars appeared. Before they went down to their resting place, Orr lifted the cylinder from its socket and wrapped it again in the grey cloth. When Neral woke in the night, he was asleep with the bundle held in the crook of one arm.
 
