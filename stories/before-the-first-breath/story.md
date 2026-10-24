@@ -292,7 +292,7 @@ For a few moments, the lake and the drowned city occupied the same place. The wa
 
 Then there were fewer of them.
 
-The pictures came in fragments. A hall full of empty resting places. People wearing rigid shells over their small heads. A tree with bare black branches. Rows of plants beneath glass, tended by figures whose movements grew slower as the images changed.
+The pictures came in fragments. A hall full of empty resting places. People wearing rigid shells over their small heads. One reached for a climbing hold, but its fingers slid open again. Another came down the wall to brace its body from below. A tree with bare black branches. Rows of plants beneath glass, tended by figures whose movements grew slower as the images changed.
 
 Something had happened to their world. Neral could see its effects without understanding its cause. She wanted the cylinder to stop, to return to the crowded avenue. It kept turning.
 
@@ -334,31 +334,23 @@ Above the real lake the clouds burned orange and rose. Wind passed over the ridg
 
 Orr's hand found hers. He gripped it hard, watching the empty room.
 
-The image changed again.
-
-This time they saw the mountain.
-
-A six-limbed worker clung to the rock where their path had ended. Four hands braced it against the great holds. The other two worked beneath the projecting lip of stone. Its body hid what it was making. Pale fragments fell out of the shadow and scattered down the cliff.
-
-Neral leaned forward, trying to see past it. The work lay well below the holds it was using.
-
-Neral remembered the low shelf where they had stood the previous day. The dirt-filled marks beneath the overhang had seemed like little scars in the stone. She had been looking upwards, measuring the enormous reach they could never make.
-
-She put her hand against the stone hand beside her. Her fingers fitted between two of its fingers. The little dents had been much closer together than the old holds.
-
-“They made the beds to fit us,” she said. “What if they made a way out?”
-
-The sun went into the ridge. The figure thinned, its golden plates filled with distant grass, and it was gone.
+The sun went into the ridge. The image of the room thinned, its platforms filled with distant grass, and it was gone.
 
 The cylinder clicked once and stopped.
 
 They stood together in the afterlight. Far below, a bird skimmed the lake, cutting a line across the last bright water.
 
+Neral let go of Orr's hand and put her own against the stone hand beside her. Her fingers fitted between two of its fingers.
+
+She looked towards the mountain. The dirt-filled marks beneath the low overhang had seemed like little scars in the stone. She had been looking upwards, measuring the enormous reach they could never make. The little dents had been much closer together than the old holds.
+
+“They made the beds to fit us,” she said. “What if they made a path for us?”
+
 “We can go there,” Senn said.
 
 Nobody asked where.
 
-They stayed until the first stars appeared. Before they went down to their resting place, Orr lifted the cylinder from its socket and wrapped it again in the grey cloth.
+They stayed until the first stars appeared. Before they went down to their resting place, Orr lifted the cylinder from its socket and wrapped it again in the grey cloth. When Neral woke in the night, he was asleep with the bundle held in the crook of one arm.
 
 ***
 
@@ -370,7 +362,7 @@ At the cliff, Neral knelt beneath the overhang. Senn held her by the waist while
 
 Her fingers found a hollow.
 
-She cleared the soil from it. It was worn by weather, a little rough along one edge, and just large enough for her hand.
+She cleared the soil from it. It was worn by weather, a little rough along one edge, and just large enough for her hand. No ring of six surrounded it.
 
 The next lay within easy reach.
 
