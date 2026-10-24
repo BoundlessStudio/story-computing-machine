@@ -34,7 +34,7 @@ By the time they had all asked one another, the sun stood clear of the eastern r
 
 Their names came when they were asked for them. Nothing followed the names.
 
-She was Neral. The man who had fallen was Orr. The silver-haired woman was Senn, and she had counted them.
+She was Neral. The man who had fallen was Orr. The silver-haired woman was Sivven, and she had counted them.
 
 The island was small enough that they could hear one another from opposite shores. A narrow fringe of reeds grew on its southern side. Everywhere else, grass and bare stone met water so still that the tree appeared to stand upon its own branches.
 
@@ -60,7 +60,7 @@ He meant the structures. Neral understood him perfectly, although his question h
 
 They followed the pale line around the island. On the northern side it rose beneath the water until Neral could touch it with her foot. It was the top of a wall, broad enough to walk along, running towards the nearest shore. Below its outer edge, steps descended into the clear blue. Each step was higher than her waist.
 
-They crossed in single file, the lake first at their knees, then their ankles. Some carried the loose linings of their hollows folded over their arms. The last person took Senn's hand to climb onto dry land. Behind them, ripples travelled out across the drowned avenue.
+They crossed in single file, the lake first at their knees, then their ankles. Some carried the loose linings of their hollows folded over their arms. The last person took Sivven's hand to climb onto dry land. Behind them, ripples travelled out across the drowned avenue.
 
 No one on the island had made it. No one could remember making anything.
 
@@ -70,7 +70,7 @@ The path began on the shore.
 
 Grass had grown over much of it, but here and there the same pale stone showed through. It curved between low bushes, climbed a hill, vanished behind a spur of rock, and appeared again far above them. Neral looked for footprints in a patch of soft earth. Their own were the only ones.
 
-They found fruit in the bushes. They found cold shade under an overhang, and a shell with a hole through it. Orr held the shell to his eye until Senn asked whether he could see more that way.
+They found fruit in the bushes. They found cold shade under an overhang, and a shell with a hole through it. Orr held the shell to his eye until Sivven asked whether he could see more that way.
 
 “Less,” he admitted.
 
@@ -102,7 +102,7 @@ Orr walked around that one twice.
 
 “Could people have made these?”
 
-“We could make a shape that wasn't us,” said Senn.
+“We could make a shape that wasn't us,” said Sivven.
 
 “Then they could have been like us.”
 
@@ -132,7 +132,7 @@ Neral stood. The bright marks were showing a second path.
 
 She could see three turns before the cliff hid the rest.
 
-“Tomorrow,” Senn said.
+“Tomorrow,” Sivven said.
 
 Orr had already taken a step towards it. He looked at the descending sun, then at the distance below them, and stepped back.
 
@@ -142,7 +142,7 @@ That night, Neral woke at every unfamiliar sound. They were all unfamiliar. Once
 
 In the morning, six of them helped Neral and Orr down the first part of the cliff. Where the holds stretched beyond a human reach, they used the cloth strips. Where the old route passed around an overhang, they found a narrow shelf below it and shuffled along with their backs against the rock.
 
-They had agreed that two would go into the passage. The others would wait above until afternoon, then return to the ridge. Senn made Orr repeat that part.
+They had agreed that two would go into the passage. The others would wait above until afternoon, then return to the ridge. Sivven made Orr repeat that part.
 
 “I heard you.”
 
@@ -240,7 +240,7 @@ They wrapped it in a strip of grey cloth. Orr carried it against his chest on th
 
 Their companions were still on the ledge when they emerged.
 
-Senn had come down to wait with them. Her face changed at the sight of the bundle.
+Sivven had come down to wait with them. Her face changed at the sight of the bundle.
 
 “What is it?”
 
@@ -264,7 +264,7 @@ Nothing happened.
 
 “It fits,” Orr said, defending it.
 
-Senn looked through the opening towards the western mountains. “It isn't evening.”
+Sivven looked through the opening towards the western mountains. “It isn't evening.”
 
 Waiting was harder than the climb. Neral went back to the mountain route, then returned. She ate without tasting much. Clouds gathered beyond the peaks and she watched their edges, afraid that the light would fail them.
 
@@ -280,7 +280,7 @@ The creature stood upon the opposite slope, taller than the trees.
 
 It moved one of its lower hands, shifting its weight. Two other hands held a smooth slab on which a smaller creature lay kicking all six limbs. Another small one clambered onto the adult's back, caught a plate, slipped, and was caught without the adult turning its head.
 
-Senn gave a short, startled laugh.
+Sivven gave a short, startled laugh.
 
 The little creature on the slab was holding a ring. A bright bead ran around its edge.
 
@@ -346,7 +346,7 @@ She looked towards the mountain. The dirt-filled marks beneath the low overhang 
 
 “They made the beds to fit us,” she said. She pointed to the low overhang. “What if there's a path for us under there?”
 
-“We can look,” Senn said.
+“We can look,” Sivven said.
 
 They stayed until the first stars appeared. Before they went down to their resting place, Orr lifted the cylinder from its socket and wrapped it again in the grey cloth. When Neral woke in the night, he was asleep with the bundle held in the crook of one arm.
 
@@ -356,7 +356,7 @@ In the morning they went to the mountain.
 
 Orr carried the cylinder back to the monument before they left. He put it in its socket and stayed there a moment, his hand resting on the stone. The rest waited for him.
 
-At the cliff, Neral knelt beneath the overhang. Senn held her by the waist while she leaned out and pushed aside a curtain of trailing stems.
+At the cliff, Neral knelt beneath the overhang. Sivven held her by the waist while she leaned out and pushed aside a curtain of trailing stems.
 
 Her fingers found a hollow.
 
@@ -372,7 +372,7 @@ On the other side, the mountain fell away into green country.
 
 A valley opened, then another beyond it, vast slopes blue with distance. Snow shone above the clouds. Down on a far ridge stood a line of crooked stone figures, so small from here that she would once have mistaken them for broken rock.
 
-Senn came through behind her, then Orr. One by one, the others emerged into the morning. The man with the white beard stood with both hands on his head, looking out.
+Sivven came through behind her, then Orr. One by one, the others emerged into the morning. The man with the white beard stood with both hands on his head, looking out.
 
 After a while he turned to look back through the passage.
 
