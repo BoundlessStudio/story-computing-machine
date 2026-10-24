@@ -6,7 +6,7 @@ canon: false
 
 Blue caught the pirate's hook a finger's width from her wrist.
 
-The Princess kept painting. Cyan ran from her forefinger across the broken terrace, rose in a shining curve, and hardened into a wave of glass. The pirate struck it boots first. Behind him, six companions came swinging down from a galleon that had sailed halfway into the starship above them.
+The hook hissed along the rim of his round blue shield. The Princess kept painting. Cyan ran from her forefinger across the broken terrace, rose in a shining curve, and hardened into a wave of glass. The pirate struck it boots first. Behind him, six companions came swinging down from a galleon that had sailed halfway into the starship above them.
 
 “Mine,” announced the starship, in a voice that moved the stones.
 
@@ -110,7 +110,7 @@ So did a ladder of stars that had been delivering armored infantry into the air.
 
 “Let them,” said the Princess.
 
-She pulled a cyan road across the wreck of the submarine. Green brought his shield beneath the tyrannosaur's jaw and lifted, turning its enormous head away from her as she passed. Its riders hauled the reins. One of them held up a pair of golden manacles.
+She pulled a cyan road across the wreck of the submarine. Green brought his shield beneath the tyrannosaur's jaw and lifted, turning its enormous head away from her as she passed. His sword swept a rider's lance aside. The others hauled the reins; one held up a pair of golden manacles.
 
 “Alive!” he shouted to the others. “She's no use dead!”
 
@@ -118,7 +118,7 @@ The Princess slapped yellow across his saddle. It became a bright wooden box wit
 
 A starship's beam found her road and lifted the entire thing.
 
-Red ran up it toward the ship. His armor shone through the smoke in long, crimson seams; at the crest he drove his spear into the beam's mouth. A red crack crossed the vessel's underside. The beam winked out. Her road fell apart, and she stepped off its falling end onto Green's shield.
+Red ran up it toward the ship, shots sparking against his round shield. His armor shone through the smoke in long, crimson seams; at the crest he drove his spear into the beam's mouth. A red crack crossed the vessel's underside. The beam winked out. Her road fell apart, and she stepped off its falling end onto Green's shield.
 
 “You could have left me the stairs,” Red said as he landed beside her.
 
@@ -152,7 +152,7 @@ The Princess saw those wounds close beneath shutters.
 
 “Victory.”
 
-Three spheres descended together. Each unfolded a great translucent sheet, a bag of colored light woven around a metal throat. Cyan spread above Red, magenta above Green, yellow above Blue.
+Three spheres descended together. Each unfolded a great sack of translucent dyed mesh gathered around a metal throat. Cyan spread above Red, magenta above Green, yellow above Blue.
 
 Red lunged to cut the nearest suspension cable. Cyan fell over him.
 
@@ -270,9 +270,9 @@ Blue wrenched it sideways. Red followed him through the roof and drove his spear
 
 Cyan fluttered from Blue's gauntlet. A torn strip of magenta hung from Red's shoulder. They had freed each other. Of course they had. The Princess had known how they could, but knowing had been a colder thing than seeing them arrive.
 
-Red broke the pane. Blue cut the cuffs from her wrists.
+Red broke the pane. Blue drew his sword and cut the cuffs from her wrists.
 
-She folded her fingers at last, and her remaining paint answered. Thin ribbons gathered in her palms. Beneath the shattered glass, most of her colors were already fixed in the captive portrait. She reached toward them.
+The portrait's chained hands dissolved. Its face blurred and ran into four pools of color. The Princess folded her fingers at last, and the paint still upon her answered, gathering in thin ribbons in her palms. Most of it lay beneath the shattered glass. She reached toward those pools.
 
 The command robot seized the sheet and thrust it into a slot. Metal closed over it.
 
@@ -284,7 +284,7 @@ She looked from the sealed slot to the colors she still held. There was enough c
 
 Through the observation slit, the battlefield had become one vast converging movement. Every ship was turning, every wing beating toward the transport. The forest and the castle were grinding together below.
 
-She left the portrait where it was.
+She left the stolen colors where they were.
 
 “White.”
 
@@ -316,9 +316,9 @@ A guard coming through the chamber's side hatch flattened abruptly into a dark s
 
 The command robot turned toward the hatch. Its chest changed from *SECURE* to *RESERVE*. No one answered it.
 
-Red laid his spear down. Green drove a buckled roof plate across the gap above them, trapping the dragon's claw, then lowered his shield. Blue opened both hands.
+Red laid his spear down. Green drove a buckled roof plate across the gap above them, trapping the dragon's claw, then lowered his shield. Blue sheathed his sword and opened both hands.
 
-The roof split wider. A dragon's claw entered, followed by a pirate's harpoon. The transport's armor shuddered under them. Yet for this moment the walls still kept out most of the armies, and the guards inside could come at her from only one side.
+The dragon beat upon the wedged plate. A pirate's harpoon tore through a seam beside it. The transport's armor shuddered under them. Yet for this moment the walls still kept out most of the armies, and the guards inside could come at her from only one side.
 
 Three colors flooded together.
 
@@ -346,45 +346,37 @@ She swept the guards into their page. It buckled on the floor under the weight o
 
 She could not spend her last black on six guards. The Princess pressed her palms wide.
 
-The white ground widened with them, passing beyond the frame of the ruined press. Her cyan ran across it in a long, thin wash. Through the observation slit she could see the ocean ending against the desert; she caught that impossible edge and laid it in the painting. Magenta curved beneath her fingers, separating ship from sail, wing from sky. Yellow lit the banners and found the backs of the dinosaurs.
+The white ground widened beyond the press. She began the ocean at the desert's edge, laying in the hulls of the pirate fleet. A little blue prow formed beneath her fingers. Its ship swung away from the transport, drawn toward the homeward margin she had given it.
 
-The transport tilted. Her feet left the floor.
+Her cyan stopped halfway down its sail.
 
-Green stepped into her fall, offering his shoulder. He kept both hands extended toward the white, and she braced against the light of his armor. For a moment she stood upon him as she had once stood upon his shield, her fingers moving while the entire room turned.
+She pressed her palm harder. A thin, clear thread came out. Beyond the slit, the ship turned back toward her. Another fleet rose behind it on a sea that had no place in that sky.
 
-Below the ship, a pirate fleet came up on a rising sea that had no place in that sky. Cannon fire tore through the open roof. A chain caught Red's discarded spear and drew it out into the battle.
+Behind her, metal scraped paper. The command robot had reached the loose leaf's edge again.
 
-He watched it go.
+She could not finish a picture of every ship, every soldier. She swept her hands across the white, wiping away the small, unfinished fleet. Only its long strokes remained: the sea's edge, the margin home. She drew those together.
 
-“That was old,” he said.
+The ocean lifted away from the desert.
 
-“So are you,” she said, and found the edge of the sea.
+She caught the next join with magenta: forest against inverted castle. Yellow carried it around the prehistoric plain. She left out the crowded ranks and the towers' fine windows, following the rents where the worlds had met. Each stroke opened another stretch of pale margin. Beneath them lay the places the armies had left.
 
-She turned it.
+The transport tilted. Green planted himself behind her; she braced her back against his breastplate and her heels against the press's footbar. His hands kept giving white. Cannon fire tore through the roof's seams, and a chain caught Red's discarded spear and drew it out into the battle.
 
-The fleet swung away from the transport. Its own ocean opened beneath its keels, carrying it toward a broad white margin far below. But the painting shook; the way home was still only a way, not a boundary. A captain drove his prow sideways against its current, trying to come back for her.
+He watched it go. “That was old.”
 
-She needed the rest of the field. The Princess pulled the whole broken horizon into the white.
+“So are you,” she said, and brought the last yellow stroke around.
 
-It came in overlapping colors: the forest crushed beneath the inverted towers, the glittering armored rivers of troops, the starships woven through dragon wings. She did not have the paint to give each one a separate picture. She spread her last washes until light showed through them, then laid one color over another. Green returned beneath the forest. Magenta and yellow brought fire back to its proper red. Cyan and magenta gave the ships a depth of blue in which stars could stand apart.
+Across the field, armies stumbled as their ground divided into paths. The dinosaur riders hauled on their reins, but their beasts ran for the warm plain opening before them. A starship fought the pull of its own black sky. At the white margins, captains were still turning their soldiers around to come for her.
 
-She found the joins where those places had been forced together. Her fingers parted them.
+The command robot's hand gripped the leaf's edge. Its head rose from the print.
 
-Across the field, armies stumbled as the earth divided into paths. The silver-masked soldiers on the dragon's back saw their own mountains ahead and tried to turn their mount aside. The dinosaur riders hauled on their reins. Their beasts ran for the warm plain opening before them, taking the riders with them. A starship fired its engines hard enough to shake loose the clouds, fighting the pull of its own black sky.
-
-The Princess's picture trembled. White bent around the hands of the knights.
-
-There was one last way between the armies and her. The transport itself. The loose leaf. The place where the image's boundary would have to close.
+Her picture was bare in wide places. The joins lay open; the loose leaf still led to her. She could not hold the armies back while she filled in what was missing.
 
 She had kept her left thumb curled against her palm. Now she lifted it.
 
 Black gathered at the nail: her key-color, clear and exact. Mixed cyan, magenta, and yellow could make a muddy darkness, but this black would decide precisely where one thing ended and another began.
 
-She drew it along the painting's edge.
-
-Behind her, metal scraped paper.
-
-The command robot had dragged itself to the loose leaf's margin. Its head and shoulders emerged, broadening from print. It reached for her as she brought the line down the final side.
+She drew it along the painting's edge. The robot's shoulders broadened out of the print. It reached her as she brought the line down the final side.
 
 Blue's white flickered.
 
@@ -410,13 +402,13 @@ Dragons went wing first through bright margins, their shadows sweeping back acro
 
 A thousand armies followed their roads. Some ran. Some resisted until the ground beneath them became the ground they had left. Their banners crossed the closing borders; their cannons, cages, and thrones went with them.
 
-The transport flattened around the Princess. Its engines lost their roar. The broken press and the captive portrait became an illustration sliding away beneath her feet. The monster walking on its roof was gone, and the roof itself was gone, and she stood on the white stones of her terrace with all her weight suddenly her own.
+The transport flattened around the Princess. Its engines lost their roar. The sealed slot unfolded into the illustration around her feet, releasing four long threads of paint. They ran back into her open hands, leaving a blank sheet to vanish with the broken press. The monster walking on the roof was gone, and the roof itself was gone, and she stood on the white stones of her terrace with all her weight suddenly her own.
 
-Above her, the castle was upright. The forest beyond its walls was only a forest. The last impossible door narrowed to the width of a brushstroke and closed.
+Above her, the castle was upright. On the far side of the last closing door, a row of pines still lay broken where the inverted towers had crushed them. The door narrowed to the width of a brushstroke and closed.
 
 Red, Green, and Blue stood around her.
 
-Their white separated slowly. Each color returned to its own hands, its own armor, its own weary stance. Blue looked at the place where the robot had held her wrist.
+Their white separated slowly. Each color returned to its own hands, its own armor, its own weary stance. A white lock hung against her cheek. Blue looked at the place where the robot had held her wrist.
 
 She held it out to him.
 
@@ -430,9 +422,11 @@ Red went to retrieve her hat. It had come home with her, lying upside down on th
 
 ***
 
-The loose leaf returned while my hands were still on the books.
+The books grew heavy beneath my hands.
 
-It slipped between the closed covers and drew the torn corner out of my fingers. When I opened the robot book, the page was whole. All its absent words had returned. The army in its illustration stood beneath a different sky, looking toward a door that was no longer there.
+Their covers stayed shut. Ink traveled between the edges of the pages: dark rows of soldiers, the long strokes of ships, a dragon's wing narrowing into a line. The loose leaf slipped between the robot book's closed covers and drew the torn corner out of my fingers.
+
+When I lifted the books weighing it down and opened it, the page was whole. The empty sentences had filled without my turning a cover. The army in its illustration stood beneath a different sky, looking toward a door that was no longer there.
 
 There was no first account of the war. I searched the opening pages and found the same thing I had seen at the end: someone else's forces arriving, someone else's attack already under way.
 
