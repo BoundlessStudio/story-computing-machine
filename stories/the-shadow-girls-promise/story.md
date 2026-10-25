@@ -8,7 +8,7 @@ canon: false
 
 The woman at the foot of my bed had caught the ceiling in her hair.
 
-Black curls drifted through the plaster. Darkness poured from her shoulders and gathered again at her hips, making a sleeveless dress, a skirt, the suggestion of legs. Where her fingers ended, smoke searched the floorboards. She had a beautiful face, all sharp cheekbones and a mouth I couldn't quite stop looking at. Her eyes shone white. So did her smile.
+Black curls drifted through the plaster. Darkness poured from her shoulders and gathered again at her hips, making a sleeveless top and a ruffled skirt over the suggestion of legs. Where her fingers ended, smoke searched the floorboards. She had a beautiful face, all sharp cheekbones and a mouth I couldn't quite stop looking at. Her eyes shone white. So did her smile.
 
 I lay very still. I had flown a passenger boat through a thunderhead with one engine burning, and had never felt such a small, urgent wish to be elsewhere.
 
@@ -32,7 +32,7 @@ She looked down at them with interest.
 
 “Your legs.”
 
-I put my feet on the floor. Her smoke moved out of their way.
+I put my feet on the floor. A long tail drew its pointed tip out of their way.
 
 “Where have you been?”
 
@@ -400,7 +400,7 @@ Vaust watched the darkness fill his windows. The officer beside the speaking tub
 
 “All right,” said the pilot. “If you're taking her, let's have her flying. You can't leave her hanging off somebody's fingers.”
 
-I took the wheel. It was warm from her hands.
+I took the wheel. It was warm from the pilot's hands.
 
 “Aft lift down, slowly,” I said.
 
@@ -434,17 +434,17 @@ The sails took the wind.
 
 I felt it through the wheel, through the soles of my boots. The pilot grabbed the back of my chair. Somewhere on the lower decks a great many people exclaimed at once.
 
-Nettle's hand opened beneath us.
+Nettle's hand opened beneath us, its fingers drawing out into lifting lines along the keel.
 
 We flew.
 
 ***
 
-We put King Vaust ashore at the first landing field, into the custody of two of Nettle's officers. The bridge crew stayed. The pilot said she had better, if I intended to keep steering her ship like that.
+We put King Vaust ashore at the first landing field, into the custody of two of Nettle's officers. The bridge crew stayed. The pilot said she had better, if I intended to keep steering her ship like that. While we waited, Nettle sent a narrow hand up the foremast with the flag from my tin.
 
 By noon, the broadcast cameras had come aboard, along with the thin man in the formal coat. He had dust on one sleeve and two crowns in a velvet case.
 
-Nettle returned to her woman's shape beside the wheel, although part of her remained overhead, pulling us west. Her hair was worse than before. Her bow had nearly vanished inside it.
+Nettle returned to her woman's shape beside the wheel, although part of her remained overhead, lifting the hull and pulling us west. Her hair was worse than before. Her bow had nearly vanished inside it.
 
 The crowns were gold. One was slightly larger than the other.
 
@@ -458,7 +458,11 @@ The cameras were waiting. So were the other capitals. On the monitor above the c
 
 I moved my crown back far enough to see the instruments.
 
-“Keep the surrender terms,” I told them. “Bring your delegations aboard. We'll come to each capital.”
+“Keep the surrender terms,” I told them. “Passenger and post boats may cross every old border as of now. Open the royal airfields to them.”
+
+The thin man looked from me to Nettle. She nodded toward the speaking tubes, and he hurried to them.
+
+“Bring your delegations aboard,” I added. “We'll come to each capital.”
 
 Beside the speaking tubes, the pilot folded her arms. She was going to have questions about that itinerary.
 
