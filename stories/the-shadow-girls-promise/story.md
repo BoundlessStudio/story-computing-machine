@@ -110,9 +110,9 @@ She turned her hands over, studying the fingers. They were almost solid until sh
 
 Some of the smile returned.
 
-“The kings on top had been helping. They thought they were a great deal harder to reach.”
+“The kings on top had been helping hold the upper gates. They thought they were a great deal harder to reach.”
 
-For weeks I had flown around closed borders. Passengers had carried newspapers full of black flags, empty arsenals, generals whose guns had become smoke in their hands. We had argued about it in the pilots' room. Nobody knew what the conqueror wanted. Nobody had put my childhood friend's face on a newspaper.
+For weeks I had flown around closed borders. Passengers had carried newspapers full of plain black flags, empty arsenals, generals whose guns had become smoke in their hands. We had argued about it in the pilots' room. Nobody knew what the conqueror wanted. Nobody had put my childhood friend's face on a newspaper.
 
 “That was you?”
 
@@ -152,13 +152,13 @@ I answered. My dispatcher sounded as though he had been awake all night.
 
 The newsreader had taken off his spectacles. A ribbon of text crept beneath his face: LAST SIGNATURE RECEIVED AT DAWN. WORLD SURRENDER COMPLETE.
 
-Behind him hung two crooked gold crowns on black.
+Behind him hung a new banner: two crooked gold crowns on black.
 
 I looked from the screen to the woman on my bed.
 
 Nettle's tail-tip waved once.
 
-“You kept the flag.”
+“You kept the flag,” I said.
 
 “I remembered the flag. I couldn't take yours.”
 
@@ -260,7 +260,7 @@ A white-eyed face pushed through the shade beneath the balcony. A smoky hand cau
 
 Shooting came through the opening behind it. Nettle pulled the shade wide, and we stepped back onto the palace terrace into a noise so loud I felt it in my teeth.
 
-The Ascendant had cast off.
+The Ascendant had cast off and come west over the palace.
 
 Its escort was rising around it, engines streaming blue exhaust. Guns had come out of the ceremonial housings along their flanks. King Vaust had been permitted a farewell; he was taking his navy with him.
 
@@ -308,7 +308,7 @@ I left it there. I cast off.
 
 From the air I could see what Nettle was doing. Four ships were already on the ground. Two more hung in the arms of a creature whose lower body filled the streets between the palace and the aerodrome. She was catching wreckage, putting people down, crushing guns into little black bundles. I saw a falling engine screw stop a yard above a crowded roof.
 
-The Ascendant was backing away, turning ponderously to bring its bow guns to bear.
+The Ascendant was turning low over the palace, bringing its bow guns to bear.
 
 I flew toward the hands in the sky.
 
@@ -448,13 +448,15 @@ Nettle returned to her woman's shape beside the wheel, although part of her rema
 
 The crowns were gold. One was slightly larger than the other.
 
-“I had them made a while ago,” she said. “I guessed.”
+“I had them made a while ago,” she said. “I had to guess your size.”
 
-The thin man lifted the smaller one toward me. I took it from him and put it on. He looked relieved that there was to be no argument about the ceremony.
+The thin man lifted the smaller one toward me. I took it and faced the cameras.
+
+The other capitals were watching. On the monitor above the chart table I could see a snowy bell tower, the white houses by the red cliffs, a room full of people waiting in silence. Those people would have to live with my orders.
+
+“I will rule with Nettle,” I said, and put the crown on.
 
 Nettle set hers on with one dark finger. Her hair billowed through the points.
-
-The cameras were waiting. So were the other capitals. On the monitor above the chart table I could see a snowy bell tower, the white houses by the red cliffs, a room full of people watching me in silence.
 
 I moved my crown back far enough to see the instruments.
 
