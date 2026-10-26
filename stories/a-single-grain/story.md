@@ -300,7 +300,7 @@ I reached for the release lever on the testing cradle. It would disconnect Ilex 
 
 “Yes,” Caldris said. “They do.”
 
-“Then each shared edge needs one position, used by both doors. I must work out the whole grid first. Move it on one pulse.”
+“Then each shared edge needs one position, used by both doors. Every correction must move the grid on one pulse.”
 
 I could see it on the slate. We had been making each square correct itself. The same boundary was being pulled toward two answers.
 
@@ -334,7 +334,7 @@ The cross widened.
 
 Black sky opened above a sun-struck ridge. The last fragments met along the lower rail, and the room filled with the hard, colorless light of another place.
 
-There was no sound from it. No wind. A small stone sat on the ledge so distinctly that I could see a white fracture through its gray skin.
+There was no sound from it. No wind. The stone with the white crack sat on the ledge, its gray skin pitted and bright.
 
 Caldris let out a breath. Her knee steadied.
 
