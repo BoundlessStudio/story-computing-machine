@@ -10,7 +10,7 @@ Vard was sitting on a suitcase full of money when I offered him an easy afternoo
 
 He bounced on the suitcase. One latch caught.
 
-The casino's private box stood three steps above the gaming floor, behind a red velvet rope that no longer kept anyone out. I had ducked beneath it. Below us, empty card tables faced the great windows over the valley. One table stood on its end near the far wall. Most of the windows were boarded, but the late sun came through the gaps and laid bright stripes on the floor. Somewhere beyond the far wall, a pulley squealed.
+The casino's private box stood three steps above the gaming floor, behind a red velvet rope that no longer kept anyone out. I had ducked beneath it. Below us, empty card tables faced the great windows over the valley. A long card counter ran from the box steps almost to the rear wall, where one table stood on its end. Most of the windows were boarded, but the late sun came through the gaps and laid bright stripes on the floor. Beyond the rear wall, a pulley squealed.
 
 Vard looked me over: green coat, reinforced knees, cuffs and a folded prisoner hood on my belt. His attention stopped on the paper-wrapped sandwich sticking out of my breast pocket.
 
@@ -112,7 +112,7 @@ As my feet straightened, Vard snapped his watch shut.
 
 "You didn't have to watch."
 
-He picked up the suitcase and backed toward the far end of the room.
+He picked up the suitcase and backed toward the rear wall.
 
 I stood. The casino settled around us: creaking boards, the little rattle of a loose window shutter, Vard's quick breaths. His fist remained closed at his side. He opened it slowly, ready for the next time.
 
@@ -146,7 +146,7 @@ There was a short silence.
 
 "So am I."
 
-Behind me, Tavi crawled along the counter until he could see my end of the room. The front of his blue waistcoat was grey with dust.
+Tavi crawled to the counter's rear end, a few steps from the downhill door. He peered around it at me, his blue waistcoat grey with dust.
 
 "Doesn't it hurt?" he whispered.
 
@@ -188,13 +188,15 @@ The scrape stopped.
 
 Outside, the pulley gave a preliminary clank.
 
+My heel squeaked on the wax as I leaned forward.
+
 Vard said, very quietly, "Don't."
 
 I ran.
 
 Three strides behind the cover of the tables. Two more in the open, hard and fast. I aimed past him, toward the strip of floor inside the downhill door.
 
-He had been waiting for me to appear. He set the suitcase down and closed his hand.
+Vard braced his feet and set down the case. I was level with him when his right hand closed.
 
 My knees went. I let the fall turn me onto my side, and the polished boards took over. The ceiling swept sideways. A chair leg passed close to my face. I slid the last few feet and stopped across the doorway, with my back against one jamb and my folded legs in front of the other.
 
@@ -208,7 +210,7 @@ For the first time that afternoon, I made no attempt to repair my jaw.
 
 The departure bell rang.
 
-Vard seized his suitcase. He had seen me do this twice. He knew where I started; he knew my legs came last. He could be inside the car before I got to my shoulders.
+Vard seized his suitcase. He had timed my last repair: jaw first, legs last. He could be inside the car before I got to my shoulders.
 
 He hurried toward me, his face tight with calculation.
 
