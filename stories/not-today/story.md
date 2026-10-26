@@ -224,7 +224,7 @@ He looked at the rope, then at the post.
 
 Our rope could carry two performers through the air. On any other day, asking it to stop a laden wagon would have snapped it before that oak post so much as bent.
 
-I passed a loop between the side bars, around the post, and back through the rear. The post was the thing keeping us in. It was also a thing I had made no promises about.
+I worked through the gaps beside the corner post and tied one end of the rope around the wood itself. The other end would go over the chestnut fork. The post was the thing keeping us in. It was also a thing I had made no promises about.
 
 Delwin watched me secure the rope. Then he took off his coat.
 
