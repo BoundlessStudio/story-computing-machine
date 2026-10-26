@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "the-kill-she-wouldnt-take",
+    "title": "The Kill She Wouldn't Take — confident No conflicts with a targeted reading",
+    "text": "The coordinator and an independent reader found the requested later broadcaster viewpoint and sustained sportscaster energy, the demonstrated respawn followed by the superstar's plot-driving hesitation, and the reference's red fiber-optic mohawk, white horned mask, segmented white armor and oversized gun in the full prose. The API returned No at 0.94 without naming a violated requirement. These source-based readings conflict with that answer; obtain user direction before restarting.",
+    "evidence": [
+      "prompt.md later rewrite requirements: broadcaster access, sustained commentary, R-rated non-graphic deathmatch and binding character identity",
+      "story.md: demonstrated eleven-second respawn; Zindra declines the fatal shot at the red collar and protects Nash until medical stoppage",
+      "story.md character introduction and inspected original image: red fiber-optic mohawk, white horned cybernetic mask, white segmented armor, oversized firearm"
+    ],
+    "reader_sources": [
+      "Coordinator: whole saved prompt, whole prose and original pixels",
+      "Independent reader boolean_gate_review: whole saved prompt, whole prose and original pixels; audit results withheld"
+    ],
+    "native_answer_changed": false
+  },
+  {
+    "slug": "a-darkness-written-under-skin",
+    "title": "A Darkness Written Under Skin — uncertain No needs evidence review",
+    "text": "The API returned No with confidence 0.58. A targeted whole-prose reading finds the apparently unmarked protagonist, the black-light reveal, the world of ink-based birth faculties, and a demonstration of the hidden mark rejecting magical warmth while ordinary heat still works. This supports the literal premise; the API has not identified a missing requirement. Its low-confidence answer remains a review question, not a proven failure.",
+    "evidence": [
+      "The practitioner states that no one before the protagonist had been found empty.",
+      "Violet light reveals black-violet branches beneath the skin.",
+      "A controlled comparison accepts magical warmth, then rejects it; heat from a warmed metal cup still reaches the protagonist."
+    ],
+    "reader_sources": [
+      "Coordinator: complete saved prompt and complete prose"
+    ],
+    "native_answer_changed": false
+  }
+]

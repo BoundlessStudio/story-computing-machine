@@ -1,0 +1,28 @@
+{
+  "checks": [
+    "current prose is default; complete coverage",
+    "rendered confidence chart",
+    "native Yes/No filter preserves booleans",
+    "restart outcome excludes recorded reader conflict",
+    "missing original is one partial prose result",
+    "confident No, native probabilities, reader conflict and image preview",
+    "current filtered source inspector",
+    "required prior prose is included and reviewable",
+    "earlier outlines preserved, including missing outline",
+    "earlier prose scores preserved",
+    "empty search",
+    "mobile containment"
+  ],
+  "chart": [
+    {
+      "width": 698,
+      "height": 300
+    }
+  ],
+  "loadedImage": true,
+  "mobile": {
+    "scroll": 375,
+    "viewport": 390
+  },
+  "pageErrors": []
+}

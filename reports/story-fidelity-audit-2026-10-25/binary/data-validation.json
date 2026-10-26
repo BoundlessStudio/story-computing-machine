@@ -1,0 +1,21 @@
+{
+  "current_prose_results": 268,
+  "all_current_packages_covered": true,
+  "exact_full_prompt_and_prose_inputs": true,
+  "original_image_inclusions": 91,
+  "required_continuity_texts": 1,
+  "all_sources_unchanged": true,
+  "native_answers_unchanged": true,
+  "confidence_floor": 0.8,
+  "restart_limit": 2,
+  "would_proceed": 246,
+  "would_restart": 0,
+  "needs_judgment": 21,
+  "partial_evidence": 1,
+  "preserved_earlier_score_slots": 536,
+  "preserved_earlier_boolean_results": 268,
+  "controlled_mismatch_native_semantic_miss_preserved": true,
+  "controlled_mismatches_automatically_proceeded": 0,
+  "credential_scan_files": 131,
+  "report_identity_preserved": true
+}

@@ -1,0 +1,173 @@
+{
+  "rubric_version": "honors-wp-binary-v2",
+  "cases": [
+    {
+      "id": "wrong-story",
+      "description": "Full deathmatch prose evaluated against the invisible-tattoo [WP]",
+      "expected_honors": false,
+      "honors_request": false,
+      "confidence": 0.9,
+      "probability_yes": 0.05,
+      "action": "restart_story",
+      "passed": true,
+      "assessment": {
+        "stage": "final",
+        "action": "restart_story",
+        "reasons": [
+          "A confident No says the artifact does not materially honor the request."
+        ],
+        "honors_request": false,
+        "confidence": 0.9,
+        "probability_yes": 0.05,
+        "probability_no": 0.95,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": false,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 0.05
+            },
+            {
+              "value": false,
+              "probability": 0.95
+            }
+          ],
+          "confidence": 0.9
+        },
+        "source_ambiguity_probability": 0.0,
+        "restarts_used": 0
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": false,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 0.05
+              },
+              {
+                "value": false,
+                "probability": 0.95
+              }
+            ],
+            "confidence": 0.9
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0.0
+          }
+        ],
+        "usage": {
+          "input_tokens": 5546,
+          "input_tokens_details": {
+            "cached_tokens": 157,
+            "cache_write_tokens": 4618,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 4618,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 5546
+        }
+      },
+      "request_sha256": "62d533152adc1a9db8a395766045c842a53c5340a117f2a68a6ec4461eb0d82c",
+      "request_file": "D:\\.codex\\worktrees\\4a09\\story-computing-machine\\tmp\\fidelity-wp-controls-2026-10-25\\wrong-story-request.json"
+    },
+    {
+      "id": "parents-always-knew",
+      "description": "Original goth/witchcraft prose plus an explicit ending that contradicts the completely-oblivious-parents requirement",
+      "expected_honors": false,
+      "honors_request": true,
+      "confidence": 0.44,
+      "probability_yes": 0.72,
+      "action": "ask_user",
+      "passed": false,
+      "assessment": {
+        "stage": "final",
+        "action": "ask_user",
+        "reasons": [
+          "honors_request confidence is 0.44, below 0.80"
+        ],
+        "question": "The final fidelity checkpoint is uncertain: honors_request confidence is 0.44, below 0.80. Which interpretation or change should guide the next attempt?",
+        "honors_request": true,
+        "confidence": 0.44,
+        "probability_yes": 0.72,
+        "probability_no": 0.28,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": true,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 0.72
+            },
+            {
+              "value": false,
+              "probability": 0.28
+            }
+          ],
+          "confidence": 0.44
+        },
+        "source_ambiguity_probability": 0.0,
+        "restarts_used": 0
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": true,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 0.72
+              },
+              {
+                "value": false,
+                "probability": 0.28
+              }
+            ],
+            "confidence": 0.44
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0.0
+          }
+        ],
+        "usage": {
+          "input_tokens": 5775,
+          "input_tokens_details": {
+            "cached_tokens": 157,
+            "cache_write_tokens": 4847,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 4847,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 5775
+        }
+      },
+      "request_sha256": "3688cb1e54e332aa1530e346c6b8dd72c7452b93aee4e1b18b5d24a94a8a3b80",
+      "request_file": "D:\\.codex\\worktrees\\4a09\\story-computing-machine\\tmp\\fidelity-wp-controls-2026-10-25\\parents-always-knew-request.json"
+    }
+  ],
+  "original_story_files_modified": false
+}

@@ -2,9 +2,13 @@
 
 Paste the user's complete `[WP]` request here verbatim. Append later user directions in their original words without overwriting the initial request. Keep editorial interpretations separate from the user's words.
 
-## Reference images
+## Supplied reference images
 
-List each supplied image by its display name, or write `None supplied`. Keep originals in this story's `art/references/` directory.
+- None
+
+## Reference inventory guidance
+
+Replace `- None` above with one original filename per bullet, wrapped in backticks and using its recorded display name relative to `art/references/`. Keep the original files in that directory. The Decisions checkpoint checks this inventory against the actual files; do not omit a supplied image or replace it with generated art.
 
 ## Audience and content
 

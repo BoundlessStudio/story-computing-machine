@@ -1,0 +1,440 @@
+{
+  "scope": "Five real outline checkpoint calls. Candidate rewrites are excluded at the user’s request; no final-story decisions were run.",
+  "model": "gpt-6-luna",
+  "rubric_version": "honors-wp-binary-v2",
+  "native_confidence_floor": 0.8,
+  "maximum_automatic_restarts_per_stage": 2,
+  "user_directed_fresh_starts": 1,
+  "source_limit": "Candidate texts remain on the preserved local rewrite branch. These observations demonstrate policy behavior, not independently measured accuracy.",
+  "trials": [
+    {
+      "id": "the-old-percentage:outline-0",
+      "slug": "the-old-percentage",
+      "title": "The Old Percentage",
+      "stage": "outline",
+      "attempt_label": "Initial outline",
+      "honors_request": true,
+      "confidence": 0.9,
+      "probability_yes": 0.95,
+      "probability_no": 0.05,
+      "action": "proceed",
+      "restarts_used": 0,
+      "rubric_version": "honors-wp-binary-v2",
+      "decision": {
+        "stage": "outline",
+        "action": "proceed",
+        "reasons": [],
+        "honors_request": true,
+        "confidence": 0.9,
+        "probability_yes": 0.95,
+        "probability_no": 0.05,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": true,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 0.95
+            },
+            {
+              "value": false,
+              "probability": 0.05
+            }
+          ],
+          "confidence": 0.9
+        },
+        "source_ambiguity_probability": 0.0,
+        "restarts_used": 0
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": true,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 0.95
+              },
+              {
+                "value": false,
+                "probability": 0.05
+              }
+            ],
+            "confidence": 0.9
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0.0
+          }
+        ],
+        "usage": {
+          "input_tokens": 8351,
+          "input_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 7580,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 7580,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 8351
+        }
+      },
+      "prepared_request_sha256": "f39736191dd1c1b732ee4b5c57f0a7136c066f174f3b38acb3bc36fc6a280750"
+    },
+    {
+      "id": "a-perfectly-normal-hobby:outline-0",
+      "slug": "a-perfectly-normal-hobby",
+      "title": "A Perfectly Normal Hobby",
+      "stage": "outline",
+      "attempt_label": "Initial outline",
+      "honors_request": true,
+      "confidence": 1,
+      "probability_yes": 1,
+      "probability_no": 0,
+      "action": "proceed",
+      "restarts_used": 0,
+      "rubric_version": "honors-wp-binary-v2",
+      "decision": {
+        "stage": "outline",
+        "action": "proceed",
+        "reasons": [],
+        "honors_request": true,
+        "confidence": 1,
+        "probability_yes": 1,
+        "probability_no": 0,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": true,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 1
+            },
+            {
+              "value": false,
+              "probability": 0
+            }
+          ],
+          "confidence": 1
+        },
+        "source_ambiguity_probability": 0,
+        "restarts_used": 0
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": true,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 1
+              },
+              {
+                "value": false,
+                "probability": 0
+              }
+            ],
+            "confidence": 1
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0
+          }
+        ],
+        "usage": {
+          "input_tokens": 3803,
+          "input_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 3032,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 3032,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 3803
+        }
+      },
+      "prepared_request_sha256": "6879e57f89f7be97f5c18d1b2e3fa7b2e499987f581f764f3e2c7ad6a0ea589b"
+    },
+    {
+      "id": "the-sky-remembers-us-return:outline-0",
+      "slug": "the-sky-remembers-us-return",
+      "title": "The Sky Remembers Us",
+      "stage": "outline",
+      "attempt_label": "Initial outline",
+      "honors_request": true,
+      "confidence": 0.2,
+      "probability_yes": 0.6,
+      "probability_no": 0.4,
+      "action": "ask_user",
+      "restarts_used": 0,
+      "rubric_version": "honors-wp-binary-v2",
+      "decision": {
+        "stage": "outline",
+        "action": "ask_user",
+        "reasons": [
+          "honors_request confidence is 0.20, below 0.80"
+        ],
+        "question": "The outline fidelity checkpoint is uncertain: honors_request confidence is 0.20, below 0.80. Which interpretation or change should guide the next attempt?",
+        "honors_request": true,
+        "confidence": 0.2,
+        "probability_yes": 0.6,
+        "probability_no": 0.4,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": true,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 0.6
+            },
+            {
+              "value": false,
+              "probability": 0.4
+            }
+          ],
+          "confidence": 0.2
+        },
+        "source_ambiguity_probability": 0.0,
+        "restarts_used": 0
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": true,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 0.6
+              },
+              {
+                "value": false,
+                "probability": 0.4
+              }
+            ],
+            "confidence": 0.2
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0.0
+          }
+        ],
+        "usage": {
+          "input_tokens": 11632,
+          "input_tokens_details": {
+            "cached_tokens": 157,
+            "cache_write_tokens": 10704,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 10704,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 11632
+        }
+      },
+      "prepared_request_sha256": "49f66e744d07959e3d2c308f08e11433b12ea189d923f42a62d05e8ca4975bd9"
+    },
+    {
+      "id": "the-sky-remembers-us-return:outline-1",
+      "slug": "the-sky-remembers-us-return",
+      "title": "The Sky Remembers Us",
+      "stage": "outline",
+      "attempt_label": "Fresh outline",
+      "honors_request": false,
+      "confidence": 0.28,
+      "probability_yes": 0.36,
+      "probability_no": 0.64,
+      "action": "ask_user",
+      "restarts_used": 1,
+      "rubric_version": "honors-wp-binary-v2",
+      "decision": {
+        "stage": "outline",
+        "action": "ask_user",
+        "reasons": [
+          "honors_request confidence is 0.28, below 0.80"
+        ],
+        "question": "The outline fidelity checkpoint is uncertain: honors_request confidence is 0.28, below 0.80. Which interpretation or change should guide the next attempt?",
+        "honors_request": false,
+        "confidence": 0.28,
+        "probability_yes": 0.36,
+        "probability_no": 0.64,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": false,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 0.36
+            },
+            {
+              "value": false,
+              "probability": 0.64
+            }
+          ],
+          "confidence": 0.28
+        },
+        "source_ambiguity_probability": 0,
+        "restarts_used": 1
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": false,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 0.36
+              },
+              {
+                "value": false,
+                "probability": 0.64
+              }
+            ],
+            "confidence": 0.28
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0
+          }
+        ],
+        "usage": {
+          "input_tokens": 10297,
+          "input_tokens_details": {
+            "cached_tokens": 157,
+            "cache_write_tokens": 9369,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 9369,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 10297
+        }
+      },
+      "prepared_request_sha256": "8e5a435d38810bc2d31ad0ed01e1d424947777c4cdc5ef6a0e4409a614da3070"
+    },
+    {
+      "id": "the-sky-remembers-us-return:outline-2-clarified",
+      "slug": "the-sky-remembers-us-return",
+      "title": "The Sky Remembers Us",
+      "stage": "outline",
+      "attempt_label": "Clarified outline",
+      "honors_request": true,
+      "confidence": 0.26,
+      "probability_yes": 0.63,
+      "probability_no": 0.37,
+      "action": "ask_user",
+      "restarts_used": 0,
+      "rubric_version": "honors-wp-binary-v2",
+      "decision": {
+        "stage": "outline",
+        "action": "ask_user",
+        "reasons": [
+          "honors_request confidence is 0.26, below 0.80"
+        ],
+        "question": "The outline fidelity checkpoint is uncertain: honors_request confidence is 0.26, below 0.80. Which interpretation or change should guide the next attempt?",
+        "honors_request": true,
+        "confidence": 0.26,
+        "probability_yes": 0.63,
+        "probability_no": 0.37,
+        "answer": {
+          "type": "choice",
+          "name": "honors_request",
+          "choice": true,
+          "probabilities": [
+            {
+              "value": true,
+              "probability": 0.63
+            },
+            {
+              "value": false,
+              "probability": 0.37
+            }
+          ],
+          "confidence": 0.26
+        },
+        "source_ambiguity_probability": 0,
+        "restarts_used": 0
+      },
+      "response": {
+        "model": "gpt-6-luna",
+        "answers": [
+          {
+            "type": "choice",
+            "name": "honors_request",
+            "choice": true,
+            "probabilities": [
+              {
+                "value": true,
+                "probability": 0.63
+              },
+              {
+                "value": false,
+                "probability": 0.37
+              }
+            ],
+            "confidence": 0.26
+          },
+          {
+            "type": "predicate",
+            "name": "source_ambiguity",
+            "probability": 0
+          }
+        ],
+        "usage": {
+          "input_tokens": 10449,
+          "input_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 9678,
+            "cache_write_tokens_details": {
+              "ttl_30m_tokens": 9678,
+              "ttl_12h_tokens": 0
+            }
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 10449
+        }
+      },
+      "prepared_request_sha256": "2b99650c3332b25f33ac60d24e82fa643e333395df12099ad3cc22c14eb55f16"
+    }
+  ]
+}
