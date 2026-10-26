@@ -292,7 +292,7 @@ Caldris nodded once. Sweat ran down the side of her nose.
 
 Ilex did not answer. The amber light dimmed, brightened again.
 
-I reached for the release lever on the testing cradle. It would disconnect Ilex from the plate, leaving the mages free to close the empty frame. We could take our cases away, and I could write a fifth petition when the memory of this afternoon had faded.
+I reached for the release lever on the testing cradle. It would disconnect Ilex from the plate, leaving the mages free to close the empty frame. We could let them rest, work at the slate, and try again.
 
 “Ilex?”
 
@@ -304,13 +304,13 @@ I reached for the release lever on the testing cradle. It would disconnect Ilex 
 
 I could see it on the slate. We had been making each square correct itself. The same boundary was being pulled toward two answers.
 
-“That can use the paths you've got,” I said.
+“That can use the paths you've got,” I said. “Shall we close the frame while you work out the order?”
 
-“I know. I need time to work it out.”
+“The order is ready. I need to see what the edges do with it. Let me keep four openings.”
 
 Caldris's left knee trembled.
 
-“How much?”
+“How long?”
 
 “I don't know yet.”
 
