@@ -39,3 +39,7 @@ Only then was the cover composed from the accepted Len, Skip, Wallop, and street
 ## Coach art correction — 2026-10-26
 
 The user identified the coach's malformed exit door and requested a remake; that direction is preserved verbatim in `prompt.md`. The original inspection missed the disconnected stairwell. Built-in image generation replaced this reference with a view from the platform into the entrance, preserving the painted night-time atmosphere. A [real coach entrance photograph](https://hillscoachsales.com/shop/coach-sales/2013-neoplan-tourliner-n2216-3shdc-53-seat-exec-euro-5/) supplied structural reference only. Two earlier candidates were rejected for stairs aligned with the aisle and implausible cabin orientation. The accepted image was inspected for a continuous ascent from pavement to landing, a clear doorway, side handrails, and the driver's seat facing its steering wheel. It replaces the same 1536×1024 WebP asset; candidates, source photograph, and exact prompts remain in ignored `tmp/the-funny-part/bus-remake/`. This local art repair leaves the prose and cover intact and adds no rating-sensitive content; the Explicit classification remains applicable.
+
+## Coach art removal — 2026-10-26
+
+At the user's subsequent request, the coach artwork was removed from the story package. The package now contains five character sheets, four location paintings, and the cover. Earlier art decisions above remain historical; Git preserves the removed image. The prose, cover, and Explicit rating remain unchanged.
