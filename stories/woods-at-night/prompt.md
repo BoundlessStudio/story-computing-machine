@@ -8,7 +8,7 @@
 
 ## Audience and content
 
-The user specifies fear in the woods at night, with no audience, intensity, character, relationship, length, or ending specified. General is the shared starting content target; the finished prose and cover will receive their actual reviewed rating. The `[SP]` tag and wording are preserved as supplied.
+The original prompt specifies fear in the woods at night. The later directions below explicitly request Halloween/fall-night spooky horror, including the “dont go into the woods” register. No audience, exact intensity, character, relationship, length, or ending is specified. General is the shared starting content target, not a requirement for mild fear; the finished prose and cover will receive their actual reviewed rating. The `[SP]` tag and user wording are preserved as supplied.
 
 ## Later user directions
 
