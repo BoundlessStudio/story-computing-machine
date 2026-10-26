@@ -32,7 +32,7 @@ Kesh's lower fingers stopped above the control.
 
 “She's inside it.”
 
-“So is everything else.”
+“So is the pulse. Answer it and the pulse comes into this room.”
 
 The receiver offered to establish a connection. Across its display, an immense repeating pattern unfolded. Iru recognized the pattern from a refugee document, a hospital plate, a public oath. For centuries the two of them had mistaken those for separate discoveries.
 
@@ -220,11 +220,11 @@ An old woman caught her sleeve.
 
 “My sister is coming,” she said. “Please don't let me wake up somewhere else.”
 
-Sarah told the ghost to lend them its reference until the orderlies could move the beds. It protested that it had never held so many separate rooms.
+Sarah told the ghost to keep time for all the beds until the orderlies could move them. It protested that it had never held so many separate rooms.
 
 “For a minute,” she said.
 
-The beds steadied. Every sleeping person took a breath at the same time.
+The clear walls around the beds stopped flickering. Every sleeping person took a breath at the same time.
 
 At the far end of the ward, a faulty clock broke. An empty bed was still open to it. The mattress, frame and sheet folded into a line of white light. The floor beneath them remained.
 
@@ -530,7 +530,7 @@ The reference broke. Across the stations, fields began to close at different sta
 
 The compact's emergency instructions were clear: no separated arrivals. If local references failed, the fields must become one.
 
-Their isolation barriers opened.
+The walls between one field and the next opened. A failure in one would now reach them all.
 
 *I had wanted at least some of them to stay where they were. I made the last doors go away.*
 
@@ -554,7 +554,7 @@ The faint individual field that had travelled with Sarah through the centuries b
 
 It opened everything.
 
-The passage had no receiver. As the joined fields began to empty, the ghost shut its own independent wall before the pulse reached Sarah. The human chambers had lost that last separation. On Earth and on every settled world, the people addressed by Sarah's pattern vanished into the white pulse. The machines they had made continued to ask for rescue.
+The passage had no receiver. As the joined fields began to empty, the ghost shut its own independent wall before the pulse reached Sarah. The human chambers had lost that last separation. On Earth and on every settled world, the people addressed by Sarah's pattern died as their opened fields collapsed into white light. The machines they had made continued to ask for rescue.
 
 The pulse kept striking the ghost's little wall. Beyond it, Tomás's chamber was empty.
 
@@ -606,11 +606,11 @@ The message repeated.
 
 “I know. Look at what the stations counted.”
 
-They sent the station's final census, recovered long before they had recovered her words. It counted the living, then the losses. It was one of thousands of matching records. The final number had not changed in six million years.
+They sent the station's final census, timestamped after the final opening and the white flash. It showed zero living occupants and no intact refuge passenger fields. The records from the colonies ended the same way.
 
-Sarah did not speak. Her hand moved out of the image.
+Sarah looked through the wall the ghost was still holding around her. She remembered the clinic bed, its frame and sheet destroyed in white light. The same light had filled Tomás's chamber.
 
-“Tomás isn't in the room,” she said at last. “I know. I can see it.”
+“Tomás isn't waiting somewhere,” she said at last. “I saw what happened to him.”
 
 The ghost said, “The request was set before the doors opened. It will keep asking until the station is gone.”
 
@@ -664,7 +664,7 @@ Iru tore out the automatic connection.
 
 Beyond the receiver, the old station spent the last of itself. The large carrier rose once, so strongly that every loose tool in the chamber trembled. Kesh's hands remained around the small field.
 
-“All of it,” he said.
+“The whole field is through,” he said.
 
 Iru pulled the receiver clear of the terminal contacts.
 
