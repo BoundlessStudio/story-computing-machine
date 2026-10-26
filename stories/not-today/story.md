@@ -106,7 +106,7 @@ He named a sum large enough to make Delwin sit down on the trunk.
 
 “I would tell you what must not happen that day.”
 
-He had put the knife away. The glass remained in his hand. He rolled its stem between his fingers as he spoke.
+He had put the knife away and taken up the glass again. He rolled its stem between his fingers as he spoke.
 
 “You could employ us for performances,” Delwin said. His voice had become the pleasant, dry voice he used when children asked him to produce a second rabbit. “Two nights a week. Private audiences by arrangement.”
 
@@ -126,7 +126,7 @@ Halvern watched me notice him.
 
 The second man caught his wrist when he reached for the purse. I took one step toward them and the first man seized my upper arm hard enough to numb my fingers.
 
-There was a moment in which I thought about all the different things I might have refused that morning.
+For a moment I thought of all the other things I might have refused.
 
 Halvern set the glass on the mantel.
 
@@ -186,7 +186,7 @@ He stopped working his wrist.
 
 Through the bars I could see the town gate falling behind us. Beyond it, the road ran downhill past the fair before climbing toward Halvern's estate. We had walked it that morning, Delwin carrying the light end of the trunk and complaining about the distribution of talent.
 
-The fair lay to the left of the road. Its nearest entrance was under the great chestnut, where three trunks grew out of one old root. A low branch leaned over the bend. Delwin had bumped his hat against it and accused me of steering.
+The fair spread out beside the road. Its nearest entrance was under the great chestnut, where three trunks grew out of one old root. A low branch leaned over the bend. Delwin had bumped his hat against it and accused me of steering.
 
 I stood up.
 
