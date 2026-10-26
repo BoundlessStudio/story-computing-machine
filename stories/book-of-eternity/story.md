@@ -104,7 +104,7 @@ Orrel’s hand rested beside the black edge, careful not to touch it.
 
 “The ones who were left told me where their families had been.”
 
-Edris had climbed a narrow stair that rose along the edge of the city. From its top she could see them over a low parapet. The white thing under her arm was a folded shirt. She laid it down and flattened it with both palms, as if she had remembered she had been carrying it.
+Edris had climbed a narrow stair that rose along the edge of the city and ended just inside the book’s open fore-edge. From its top she could see them over a low parapet. The white thing under her arm was a folded shirt. She laid it down and flattened it with both palms, as if she had remembered she had been carrying it.
 
 “My husband was at the south gate,” she said. “Ask him where the south gate is.”
 
@@ -152,23 +152,23 @@ Edris climbed onto the parapet.
 
 “Get down,” Orrel said.
 
-She did not look at him. She looked at Ysabet, and then her foot slipped.
+She did not look at him. She looked at Ysabet, put one foot outside the parapet, and pitched forward toward the opening.
 
 Ysabet had spent the morning pulling people out of broken masonry. Her hand was already moving when she remembered the warning.
 
-Edris’s hand came toward her, growing from a white speck into a woman’s open palm. Ysabet caught it.
+Edris’s outstretched hand filled the gap as she reached its lip; the street was far below her now. Ysabet caught it.
 
 For one instant it was only a hand: warm, with hard skin at the base of the fingers. Then Edris gripped her wrist and pulled.
 
 Ysabet’s cuff went flat. Beneath it, her arm thinned into rows of black strokes. She could feel her fingers, but she could no longer see where one ended and the next began. The street rose toward her. Someone was shouting from below, a voice suddenly as large as her own.
 
-She braced a boot against the stand and pulled back. Edris held on with both hands now. One of her elbows was outside the cover.
+She braced a boot against the stand and pulled back. Edris clung to the brass binding with her free hand and hauled herself toward the gap. One of her elbows was outside the cover.
 
-Orrel drove a steel ruler between their wrists.
+Orrel hooked a steel ruler beneath the fingers gripping Ysabet’s wrist.
 
 “Let go!”
 
-Ysabet did not know which of them he meant. She opened her fingers. Edris lost her grip, and the old man forced the ruler between their palms.
+He levered them up, forcing the flat steel between their skin. The contact broke.
 
 The street fell away. Ysabet struck the floor with her shoulder. Her arm was heavy and solid again, and she clutched it against her chest while Orrel pulled the pin and brought the cover down.
 
@@ -242,7 +242,13 @@ Pellan looked up.
 
 “Yes.”
 
-He glanced at the order on the stand. “That isn’t a pardon for either of you.”
+Pellan lifted the order from the stand and read it again.
+
+“They may say I helped you save it.”
+
+“You would have.”
+
+He folded the paper and put it inside his coat. “That isn’t a pardon for either of you.”
 
 “I’m asking you to carry it out of the fire.”
 
