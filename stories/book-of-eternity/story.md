@@ -162,13 +162,15 @@ For one instant it was only a hand: warm, with hard skin at the base of the fing
 
 Ysabet’s cuff went flat. Beneath it, her arm thinned into rows of black strokes. She could feel her fingers, but she could no longer see where one ended and the next began. The street rose toward her. Someone was shouting from below, a voice suddenly as large as her own.
 
-She braced a boot against the stand and pulled back. Edris clung to the brass binding with her free hand and hauled herself toward the gap. One of her elbows was outside the cover.
+She braced a boot against the stand and pulled back. Edris clung to the lower cover’s brass clasp with her free hand and hauled herself toward the gap. One of her elbows was outside the cover.
 
 Orrel hooked a steel ruler beneath the fingers gripping Ysabet’s wrist.
 
 “Let go!”
 
-He levered them up, forcing the flat steel between their skin. The contact broke.
+Ysabet did not know which of them he meant. She opened her fingers.
+
+He levered Edris’s fingers up, forcing the flat steel between her palm and Ysabet’s wrist. The contact broke.
 
 The street fell away. Ysabet struck the floor with her shoulder. Her arm was heavy and solid again, and she clutched it against her chest while Orrel pulled the pin and brought the cover down.
 
@@ -246,7 +248,7 @@ Pellan lifted the order from the stand and read it again.
 
 “They may say I helped you save it.”
 
-“You would have.”
+“They’d be right.”
 
 He folded the paper and put it inside his coat. “That isn’t a pardon for either of you.”
 
