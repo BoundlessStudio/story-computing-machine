@@ -14,7 +14,7 @@ Three steps. A pause. The soft weight of a fourth.
 
 An animal, then. She knew the noise of a badger in leaves, brisk and busy, and the sudden scrambling retreat of deer. This was neither, but there were plenty of things in the wood she had never seen. She had walked here for twenty years without seeing an owl eat anything.
 
-The path climbed gently toward the fallen beech. Beyond that was the stile, and beyond the stile her small field and cottage. Ten minutes, if she kept walking. She had stayed too long at supper, accepting another slice of cake while the kitchen filled with the smell of rain. Nobody had quite wanted to be the first to get up.
+The path climbed gently toward the fallen beech. Beyond that was the stile at the top corner of her field, which ran downhill beside the wood. The cottage stood above the stile. Ten minutes, if she kept walking. She had stayed too long at supper, accepting another slice of cake while the kitchen filled with the smell of rain. Nobody had quite wanted to be the first to get up.
 
 The lantern was borrowed. It had a dent in its brass side and a door that rattled when she swung it. She tried holding it still. Behind her, something pressed down through the leaves.
 
@@ -46,7 +46,7 @@ Something pale unfolded beneath the sill.
 
 Her lantern caught a smooth length as thick as her thigh, with two bends in it. The end was clasped around the fork of an ash. It tightened; the fork creaked. The window swung toward her, and the pale length twisted to follow, caught, and pulled again. A branch broke with the sharp report of a snapped chair leg.
 
-Tessa ran back down the path. The borrowed lantern banged against her knee. Its light jumped over stones and leaves, and a root she had just seen struck her boot anyway. She stumbled, righted herself, and heard the spoon. It was beside her now.
+Tessa ran back down the path. The borrowed lantern banged against her knee. Its light jumped over stones and leaves. She heard the spoon. It was beside her now.
 
 The yellow curtain moved between trunks. Pale joints appeared and disappeared above it, gripping one branch, then another. The whole bright room tilted. The blue cup leaned with the table, but the spoon kept going round.
 
@@ -54,7 +54,7 @@ At the bend, her kitchen turned to face her.
 
 It hung over the path she had come by. Beneath it, a little light fell on the hazel leaves. There was still no wall, no step, nothing to put a house upon.
 
-Tessa stopped so abruptly that the lantern struck her shin again. She heard herself draw a breath through her teeth.
+Tessa stopped so abruptly that the lantern struck her shin. She heard herself draw a breath through her teeth.
 
 From behind the yellow curtain came the same sound.
 
@@ -122,4 +122,4 @@ She stood beside the window and drew the curtain back with one finger.
 
 Across the field, at the hedge, her kitchen was still alight.
 
-Her coat hung beside the window. One sleeve was inside out.
+Her coat hung beside that window. One sleeve was inside out.
