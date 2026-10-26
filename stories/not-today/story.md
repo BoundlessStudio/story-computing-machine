@@ -130,7 +130,7 @@ The whistle woke her.
 
 It was not the first train's usual greeting to the houses along the cut. It went on and on, broke, began again. Beneath it came the shriek of wheels sliding on rail.
 
-Delyth was sitting up before she understood the tightness in her chest. Another attack. She pressed a hand beneath her collar and drew breath for the words.
+Delyth sat up with one hand pressed beneath her collar. The tightness had woken her twice in the night and had never quite gone. She drew breath for the words.
 
 The first light lay above the eastern roofs. Yesterday's protection was gone.
 
