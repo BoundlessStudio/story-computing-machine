@@ -7,6 +7,8 @@
 
 you are approved to use the highest rating for this story.
 
+remake the bus artwork the exit door is messed up.
+
 ## Explicit constraints and audience
 
-The quoted confession and later direction are the complete story request. No length, viewpoint, ending, or illustration directions were supplied. The prompt calls for fear of child heroes, uncontrolled violence, callous quips, and public laughter at a severely injured person. The later direction authorizes the highest rating, Explicit, including consequence-focused graphic violence within the shared boundaries. This permission does not require gratuitous detail; the finished work receives its rating based on actual intensity.
+The original story request fixes no length, viewpoint, or ending. The prompt calls for fear of child heroes, uncontrolled violence, callous quips, and public laughter at a severely injured person. The later rating direction authorizes the highest rating, Explicit, including consequence-focused graphic violence within the shared boundaries. This permission does not require gratuitous detail; the finished work receives its rating based on actual intensity. The later art direction requests a remake of the bus artwork to correct the exit door.
