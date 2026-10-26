@@ -10,7 +10,7 @@ Vard was sitting on a suitcase full of money when I offered him an easy afternoo
 
 He bounced on the suitcase. One latch caught.
 
-The casino's private box stood three steps above the gaming floor, behind a red velvet rope that no longer kept anyone out. I had ducked beneath it. Below us, empty card tables faced the great windows over the valley. Most of the windows were boarded, but the late sun came through the gaps and laid bright stripes on the floor. Somewhere beyond the far wall, a pulley squealed.
+The casino's private box stood three steps above the gaming floor, behind a red velvet rope that no longer kept anyone out. I had ducked beneath it. Below us, empty card tables faced the great windows over the valley. One table stood on its end near the far wall. Most of the windows were boarded, but the late sun came through the gaps and laid bright stripes on the floor. Somewhere beyond the far wall, a pulley squealed.
 
 Vard looked me over: green coat, reinforced knees, cuffs and a folded prisoner hood on my belt. His attention stopped on the paper-wrapped sandwich sticking out of my breast pocket.
 
@@ -22,7 +22,7 @@ He got the second latch shut, stood, and closed his right hand.
 
 My skeleton gave way. I folded through the velvet rope, bumped down the steps, and arrived on the gaming floor in a shape the coat had not been cut for.
 
-The sandwich landed several feet away. Something inside the paper made a wet noise.
+The sandwich landed several feet away. Pickle juice spotted the boards.
 
 From behind the card counter, a young man in a blue waistcoat stared at me. He had one hand over his mouth. He lowered it just enough to say, "Dude, you must have broke like ALL your bones?"
 
@@ -130,19 +130,7 @@ Vard had booked a private trip. The casino had been closed since autumn; nobody 
 
 Vard tried to pick up the suitcase with his left hand. It was too heavy. He transferred it back to the right, watching me all the while.
 
-I bent to pick a blue casino chip out of my coat lining.
-
-His hand twitched.
-
-"Relax."
-
-"Stay away from me."
-
-I put the chip on the nearest table. "That's going to make the rest of the afternoon difficult."
-
-He shifted sideways. I shifted with him.
-
-Between us stood a double row of gaming tables. I was on the long side by the windows; he had the shorter route down the center aisle. Both routes ended at the downhill door. He was closer to it, but I had empty floor to run on, and he had brought most of a bank.
+A row of tables separated my path along the windows from Vard's path down the center aisle. Both led to the downhill door. He was closer. He had brought most of a bank.
 
 The carriage bumped against the landing. Through the glass door, its gate slid open.
 
@@ -150,7 +138,7 @@ Vard looked at it.
 
 I moved.
 
-He dropped the suitcase and raised his hand. I stopped behind the high wooden back of an upended table, out of his sight.
+He dropped the suitcase and raised his hand. I ducked behind the upended table, out of his sight.
 
 There was a short silence.
 
@@ -158,7 +146,7 @@ There was a short silence.
 
 "So am I."
 
-Behind me, Tavi crawled along the counter until he could see my end of the room. His blue waistcoat now had a grey front.
+Behind me, Tavi crawled along the counter until he could see my end of the room. The front of his blue waistcoat was grey with dust.
 
 "Doesn't it hurt?" he whispered.
 
@@ -176,25 +164,19 @@ He looked at the broad patches over my knees. They were a shade darker than the 
 
 My tailor had stopped asking. This was the coat's third lining. The first had survived a bell tower; the second had stayed on a brewery chimney after the rest of me went home.
 
-Tavi looked toward the front entrance, then toward the downhill door. Vard still stood between the counter and either route.
-
 "When he's looking at me, keep down," I said. "When he's wearing the hood, you can come out."
 
 "And if he doesn't end up wearing the hood?"
 
 "Give me a minute."
 
-"You just said the car only waits a minute."
+"The car only waits a minute."
 
 "Then don't distract me."
 
 He ducked. A moment later, one eye reappeared at the counter's edge.
 
 I checked that the hood hadn't caught under my belt, then loosened its fold. The cuffs were still clipped beside it. Beyond the table, Vard's case scraped forward a few inches, stopped, then scraped again.
-
-He was trying to move without setting it down. If he kept hold of the money, he couldn't make his fist. If he set it down, I could start running.
-
-I could hear him discovering this.
 
 "Leave the case," I suggested.
 
@@ -203,12 +185,6 @@ I could hear him discovering this.
 "Leave the case and I'll think about it."
 
 The scrape stopped.
-
-I waited. I had no desire to spend the rest of the day peeling myself off the floor while Vard made steady progress toward the door. And if he got inside the carriage first, the narrow entrance would put every approach directly in front of him. He could sit on his money and fold me each time I tried to board.
-
-The landing was different. He still had to walk through that doorway.
-
-I looked along the boards. The old wax shone in the sun stripes. On my last slide I had gone farther than either of us expected. Without the roulette wheel, I would have gone farther still.
 
 Outside, the pulley gave a preliminary clank.
 
@@ -258,7 +234,7 @@ I restored my other arm. We wrestled across the suitcase. He tried to drag the c
 
 I closed the second cuff behind his back.
 
-For a moment we were both breathing hard. My left leg lay where I had abandoned it. Vard's expensive watch ticked beside my ear.
+For a moment we were both breathing hard. My left leg was still folded under me. Vard's expensive watch ticked beside my ear.
 
 "Ten seconds," he said.
 
