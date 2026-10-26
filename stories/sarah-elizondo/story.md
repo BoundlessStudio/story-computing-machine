@@ -462,7 +462,7 @@ Less than one hour, after four hundred and eleven thousand years.
 
 *There is nowhere for them to arrive.*
 
-The refuge's destination was an empty interval after the threatened catastrophe. Its designers had believed that making a place on the clocks was the same as making a place for people.
+The refuge's destination was an interval after the threatened catastrophe. Its short trials had worked: patients reappeared seconds later in the same clinic, where the same apparatus was still waiting to receive them. The distant receiving stations were not yet built when Sarah's false extinction alarm brought the unfinished refuge into service.
 
 The ghost showed Sarah the difference. Their own little field could remain sealed, carrying a room's worth of time with it. The human stations were built to open, empty themselves, and be received elsewhere. But there was no receiving station in the interval they had named.
 
@@ -500,13 +500,13 @@ Iru looked back at the display.
 
 ### 14
 
-The last recovered entry had been dictated to the ghost after the failure. The control station cached its text before the local recorder died; the later handwritten page had reached them only now, through the live transmission.
-
 *Ghost has put the entries together.*
 
 *The rings. The hospitals. Beto's father. The ships. The keys.*
 
 *It says the white sky isn't something the refuge saves people from.*
+
+Sarah had dictated this entry in the first minutes after the failure, while the station's diary recorder still worked.
 
 At the last control station, the ghost traced the outgoing command through all the things Sarah had helped make. The command addressed the species. The destination was a call no one had answered. Every field would open into the same unreceived passage.
 
@@ -554,9 +554,9 @@ The faint individual field that had travelled with Sarah through the centuries b
 
 It opened everything.
 
-The passage had no receiver. The joined fields emptied into a force that could not hold their contents. On Earth and on every settled world, the people addressed by Sarah's pattern vanished into the white pulse. The machines they had made continued to ask for rescue.
+The passage had no receiver. As the joined fields began to empty, the ghost shut its own independent wall before the pulse reached Sarah. The human chambers had lost that last separation. On Earth and on every settled world, the people addressed by Sarah's pattern vanished into the white pulse. The machines they had made continued to ask for rescue.
 
-The ghost shut its original field. It could still shut that one wall. By then Tomás's chamber was empty.
+The pulse kept striking the ghost's little wall. Beyond it, Tomás's chamber was empty.
 
 *I had my hand against the glass. He had his hand against mine. There wasn't even enough room between them for a piece of paper.*
 
@@ -576,7 +576,9 @@ They heard her clearly now. A girl's voice, older in its habits than the voice I
 
 “Then before that.”
 
-He sent her the tile. Then the library entry, joined from the nine children's copies. He sent the printer's plate with the first complete diagram and the document with Beto's house drawn on it.
+“I can't carry you on another jump now,” the ghost said. “I'm using everything I have to keep this wall closed.”
+
+Kesh sent her the tile. Then the library account, recovered from a printer's binding, beside the assembled diagram the nine children had carried away. He sent the printer's plate with the first complete diagram and the document with Beto's house drawn on it.
 
 Sarah had lost pages whenever the ghost carried her onward. She had hidden others because people wanted them, or because she could not bear to carry them. The researchers returned the record of those choices to her in the order she had numbered them.
 
@@ -596,15 +598,13 @@ Another voice rose behind Sarah's.
 
 Kesh stopped his hand above the manual contact. He did not tell her that the call was unimportant. For most of his life, a call no one answered had been the most important thing in the world.
 
-“Listen to the end of it,” he said.
+“It's a request,” he said. “It doesn't tell us how many are left.”
 
 The message repeated.
 
-“It says occupied before it counts,” Sarah said.
+“It still says occupied,” Sarah said.
 
-“Yes.”
-
-She listened again.
+“I know. Look at what the stations counted.”
 
 They sent the station's final census, recovered long before they had recovered her words. It counted the living, then the losses. It was one of thousands of matching records. The final number had not changed in six million years.
 
