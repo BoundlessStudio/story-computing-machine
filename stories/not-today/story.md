@@ -62,6 +62,12 @@ When they docked, he brushed crumbs off her borrowed grey coat. Its sleeves were
 
 He checked her last button and let her go.
 
+On the next ship, three sailors were carrying a barbed iron head toward a gun. Cirel stopped to watch them lower it into place.
+
+“For the great ones,” Pellin said. “They pull ordinary nets apart.”
+
+The mooring irons held those whales while the crews filled their breath-flasks. Working a great whale could take weeks. By the time it was released, the migration passage would have closed. One grey whale had been circling Larkglass's outer roots since before Cirel was born; she used to feed it apples from a bridge. At this flowering it would finally be able to go home.
+
 They sailed at noon, following the voice of the wind-bell.
 
 The bell lived in a wooden frame above the quarterdeck. It had a bronze shell, gauzy wings, and six hooked feet. Two black eyes blinked on either side of its rim. When the captain touched the frame, it rang, and the other ships answered with smaller bells. When it sang, the whole fleet altered course.
@@ -408,6 +414,8 @@ Cirel had thought the calf was large. Beside its mother it was a plum beside a b
 
 Orro pressed against her mouth. The mother nudged it over, examined its blue flank, and made a deep, indignant noise at the remnants of net still caught around its tail.
 
+Three other calves circled beyond the passage, beside a dark whale. Each time Orro's mother called, they answered and turned back toward her.
+
 “She's going to tell him off,” Cirel said.
 
 Pellin smiled, then looked toward the hunters.
@@ -444,7 +452,7 @@ Cirel climbed from the skiff onto the mother's flipper. It was warm, and less sl
 
 The bell landed on her shoulder and hooked a foot into her collar.
 
-“Stop,” she told it. “I am helping. You're being horrible about it.”
+“Stop,” she told Orro. “I am helping. You're being horrible about it.”
 
 The calf rolled an eye toward her. She got her knee under the line and began sawing.
 
@@ -472,7 +480,9 @@ The mother saw it too. She turned her body across Orro, sheltering the calf. The
 
 On the ship, the recovery winch began to turn. Chain lifted from the deck.
 
-If Cirel kept the passage open, Pellin could fetch her. The hunters would have time to draw the mother back through it too. She could already see the chain tightening, the white body dragged backward, the little lights waiting on the other side.
+If Cirel kept the passage open, Pellin could fetch her. The hunters would have time to draw the mother back through it too. Weeks of filling flasks would follow. The flower would be closed long before they pulled the iron free.
+
+Cirel thought of the grey whale circling the roots of Larkglass. She could see this white one there instead, in the wrong sky for nineteen years. Beyond the passage, the three calves kept calling.
 
 Pellin's sail trembled on the edge of the turn.
 
