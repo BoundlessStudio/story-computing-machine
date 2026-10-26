@@ -10,7 +10,7 @@ He had to help me turn it over first. The fingers stayed spread, with the last t
 
 “Half now,” he said. “Half when the door's open.”
 
-We sat in the coach station café. Someone had turned the chairs up on every table but ours, and the woman behind the counter was counting her till. My northbound coach was due at one. Nellis had bought a ticket for the midnight service in the other direction. He laid it beside my tea.
+We sat in the coach station café. Someone had turned the chairs up on every table but ours, and the woman behind the counter was counting her till. My northbound coach was due at one. Nellis had bought a ticket for the midnight service back east. He laid it beside my tea.
 
 “You could get that hand done,” he said. “Jaw, too. I asked.”
 
@@ -206,11 +206,13 @@ I waited for him to finish.
 
 It was an ordinary thing to say. I found I had nothing to add to it.
 
+I told him about the ambulance and the man with the phone.
+
 ***
 
 An ambulance came up the street. I heard it before I saw it, and for a few moments the sound took the place of pain. There was something coming that knew what bodies were.
 
-It stopped in the road beside us. Hob was between me and its rear wheel. The gap beneath the vehicle was low but open, bright with the shop lights on the other side. I could see a shoe there. A black shoe with a strip of yellow at the heel.
+It stopped in the road beside us. Hob was between me and its rear wheel. The gap beneath the vehicle was low but open, with sunlit pavement on the other side. I could see a shoe there. A black shoe with a strip of yellow at the heel.
 
 A medic came around the back carrying a bag.
 
@@ -232,7 +234,9 @@ A man in the crowd held up his phone.
 
 “Do it again,” he called. “I missed the start.”
 
-Skip turned toward him. Wallop adjusted his cape. They were talking about where to stand. Hob's good hand scraped the pavement and touched my coat.
+Skip turned toward him. Wallop adjusted his cape. They were talking about where to stand. The medic started around the ambulance again. Wallop held an arm across her path without looking away from the phone. She backed out of sight.
+
+Hob's good hand scraped the pavement and touched my coat.
 
 I knew what he wanted. There was nothing else he could want from me.
 
