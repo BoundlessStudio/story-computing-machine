@@ -10,13 +10,15 @@ He had to help me turn it over first. The fingers stayed spread, with the last t
 
 “Half now,” he said. “Half when the door's open.”
 
-We sat in the coach station café. Someone had turned the chairs up on every table but ours, and the woman behind the counter was counting her till. My northbound coach was due at one. Nellis had bought a ticket for the midnight service back east. He laid it beside my tea.
+We sat in the coach station café. Someone had turned the chairs up on every table but ours, and the woman behind the counter was counting her till. The northbound coach was due at one. Nellis had bought a ticket for the midnight service back east. He laid it beside my tea.
 
 “You could get that hand done,” he said. “Jaw, too. I asked.”
 
 I could feel the envelope against the heel of my hand. Higher up, nothing. I moved it onto the table with my right hand and looked inside.
 
-He had asked. That was the right amount.
+He had asked. That was the surgeon's price.
+
+I picked up the return ticket. The midnight coach would get me there before the clinic opened.
 
 “You heard why I left.”
 
@@ -48,7 +50,7 @@ He didn't know.
 
 “Twenty-three seconds,” I said. “I've watched it, too.”
 
-The return ticket lay between us. I could have picked it up. It was less than a thumb's length from my good hand.
+I put the return ticket down between us. It was less than a thumb's length from my good hand.
 
 ***
 
@@ -212,7 +214,7 @@ I told him about the ambulance and the man with the phone.
 
 An ambulance came up the street. I heard it before I saw it, and for a few moments the sound took the place of pain. There was something coming that knew what bodies were.
 
-It stopped in the road beside us. Hob was between me and its rear wheel. The gap beneath the vehicle was low but open, with sunlit pavement on the other side. I could see a shoe there. A black shoe with a strip of yellow at the heel.
+It stopped in the road with its rear step level with Hob. Through the low gap beneath the step I could see sunlit road on the far side, and a black shoe with a strip of yellow at the heel.
 
 A medic came around the back carrying a bag.
 
@@ -230,7 +232,7 @@ She was gone again. The medic stood with the bag at her knee. Then she backed ar
 
 I wanted to hate her. I also wanted very badly to be where she was.
 
-A man in the crowd held up his phone.
+A man in the crowd held up his phone and backed toward the payroll office. Several people crowded onto the steps behind him. Others stood beside us with their phones raised toward the children's faces.
 
 “Do it again,” he called. “I missed the start.”
 
@@ -266,7 +268,7 @@ Wallop turned back.
 
 Hob came out of the shell a piece at a time. His left arm stayed against his stomach. He used his right hand and his knees, creeping toward the dark beneath the ambulance. One of his boots caught in the lining. He left it there.
 
-Nobody shouted. There was room enough for him below the rear step. I saw his stockinged foot scrape over the road and vanish.
+Someone at the edge of the crowd stepped aside to let Hob's foot pass. Their phone stayed pointed at the children. There was room enough for him below the rear step. I saw his stockinged foot scrape over the road and vanish.
 
 Then it was only me.
 
@@ -306,7 +308,7 @@ The court sent me to prison. When the sentence was done, I took a coach west. Ho
 
 The clip was nearly two years old by then.
 
-You have probably seen it. The version that went everywhere starts just after Wallop turns his foot. There is a thump, and then the camera finds Skip. She lifts my hand. You can see my face at the bottom of the frame, but only if you look there instead of at her. She says the line. Wallop laughs so hard his cape slips off one shoulder.
+You have probably seen it. The version that went everywhere starts with me screaming, just after Wallop turns his foot. Then the camera finds Skip. She lifts my hand. You can see my face at the bottom of the frame, but only if you look there instead of at her. She says the line. Wallop laughs so hard his cape slips off one shoulder.
 
 The little boy in the matching cape jumps up and down. His father has to pull him back from the curb.
 
