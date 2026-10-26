@@ -2,6 +2,12 @@
 
 [WP] Your magic power is to prevent one thing happening per day. All you have to do is think about what you want to stop happening and say the words “Not today.”
 
+## Later user direction — 2026-10-26
+
+nope i straight think you wasted a good prompt and better title...
+
+recreate the story around the title “Not today.” focus on what prevent one thing happening per day, what is the choice, why dose it matter? what dose it cost?
+
 ## Supplied reference images
 
 - None
