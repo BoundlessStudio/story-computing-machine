@@ -506,7 +506,7 @@ Iru looked back at the display.
 
 *It says the white sky isn't something the refuge saves people from.*
 
-Sarah had dictated this entry in the first minutes after the failure, while the station's diary recorder still worked.
+Sarah had dictated this entry just after the white pulse, while the station's diary recorder still worked. It recounted the moments before the light came.
 
 At the last control station, the ghost traced the outgoing command through all the things Sarah had helped make. The command addressed the species. The destination was a call no one had answered. Every field would open into the same unreceived passage.
 
