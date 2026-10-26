@@ -314,7 +314,7 @@ The driver looked back at the wagon. The escort had his horse under control, but
 
 “Well, you've done it,” said Delwin. “This is where we asked to go.”
 
-The drummer moved his drum from behind him to in front, making himself wider. Someone fetched the fair steward. I sat down on the grass because my knee had begun to shake.
+The drummer moved his drum from behind him to in front, making himself wider. Someone fetched the fair steward. After hearing us, he sent a runner for the town constables. I sat down on the grass because my knee had begun to shake.
 
 The young escort approached slowly, empty hands held away from his belt. He looked at me rather than at Delwin.
 
@@ -328,7 +328,13 @@ He looked back at the red rope stretched between the tree and the splintered pos
 
 ***
 
-We got our trunk back while the steward asked questions the driver disliked. The drummer helped me unhook the rope from the chestnut. I unwound it from the broken section of post and ran it through my hands. Soft, dusty, red. My knee was scraped, my arm was bruised, and there wasn't so much as a cut end to trim from the rope.
+Halvern's carriage arrived while two constables were questioning the driver. The man pointed him out with such relief that I almost liked him. Halvern began by asking who had damaged his wagon.
+
+“We'll come to that,” one of the constables said.
+
+They asked whether we had agreed to go. They looked at the padlock, at my arm, at Delwin's wrist. Halvern was still explaining the sum he had offered when they took him to the town lockup in his own carriage, a constable sitting on either side of him.
+
+We got our trunk back while the steward wrote down our account. The drummer helped me unhook the rope from the chestnut. I unwound it from the broken section of post and ran it through my hands. Soft, dusty, red. My knee was scraped, my arm was bruised, and there wasn't so much as a cut end to trim from the rope.
 
 Delwin persuaded the steward to let us keep the piece of door. He said it was evidence. Then he painted the time of our evening performance on it.
 
