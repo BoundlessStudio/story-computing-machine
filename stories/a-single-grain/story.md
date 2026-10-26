@@ -300,13 +300,13 @@ I reached for the release lever on the testing cradle. It would disconnect Ilex 
 
 “Yes,” Caldris said. “They do.”
 
-“Then I must move the edges. Two doors together. Each pair agrees before either changes.”
+“Then each shared edge needs one position, used by both doors. I must work out the whole grid first. Move it on one pulse.”
 
-I could see it on the slate: the squares Ilex had drawn, the lines belonging to two squares at once.
+I could see it on the slate. We had been making each square correct itself. The same boundary was being pulled toward two answers.
 
 “That can use the paths you've got,” I said.
 
-“I know. I need time to change the order.”
+“I know. I need time to work it out.”
 
 Caldris's left knee trembled.
 
@@ -318,13 +318,17 @@ The First Mage looked around her circle. The mage who had asked about the speck 
 
 Caldris turned back to Ilex. “Try.”
 
+I lifted my hand from the release lever.
+
 The white glare dwindled to a dull gleam. Ilex had closed most of the paths. A single gray patch remained at the center of the frame, smaller than my palm.
 
 Another appeared beside it.
 
 They shifted, found an edge, and stayed together.
 
-Across the plate, light ran in a different rhythm. The joined patches grew into a rough cross. Where they met, pieces of a rock fitted themselves together. I had seen mosaics assembled all my life; I had never watched one acquire distance.
+A third patch opened above them. A white crack in the rock split at the new join. Both sides moved on the same beat; the crack became one line. When a fourth patch joined, the first three held. At the next pulse all four shifted together, and the crack remained whole.
+
+Across the plate, light ran in a different rhythm. The joined patches grew into a rough cross. I had seen mosaics assembled all my life; I had never watched one acquire distance.
 
 The cross widened.
 
