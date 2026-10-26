@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-10-26T03:02:24.815516+00:00",
+  "base_revision": "6a8ac11f8b8f2e01fdeddcf612a5d707f54610d7",
+  "unit_tests": {
+    "passed": 34,
+    "network_calls": 0
+  },
+  "data_validation": {
+    "checked_files": 315,
+    "configured_secret_matches": 0,
+    "excluded_draft_matches": 0,
+    "production_story_changes": 0,
+    "original_native_corpus_rows_unchanged": 268,
+    "live_native_results_unchanged": 5,
+    "helper_sha256": "b6aec3439e1014734248472929dcd558f0bfed8d1015b5b07b93593e599d7074"
+  },
+  "browser_validation": {
+    "trialRows": 5,
+    "currentCorpusRows": 268,
+    "earlierBooleanRows": 268,
+    "earlierScoreSlots": 536,
+    "sourceScopeCorrect": true,
+    "draftSourceUiAbsent": true,
+    "mobileGeometry": {
+      "scroll": 375,
+      "viewport": 390
+    },
+    "pageErrors": []
+  },
+  "excluded_scope": "All production story prose, prompts, outlines, notes, ratings, references, generated art and unfinished rewrites."
+}

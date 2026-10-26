@@ -1,0 +1,15 @@
+{
+  "stories": 268,
+  "evaluated_outlines": 267,
+  "evaluated_prose": 268,
+  "native_results": 535,
+  "stage_slots": 536,
+  "original_images": 91,
+  "image_inclusions": 182,
+  "all_sources_unchanged": true,
+  "exact_prompt_and_candidate_submission": true,
+  "all_request_digests_valid": true,
+  "csv_rows": 536,
+  "automatic_actions": 0,
+  "partial_reference_evaluations": 2
+}

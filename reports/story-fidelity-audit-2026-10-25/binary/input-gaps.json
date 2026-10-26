@@ -1,0 +1,8 @@
+{
+  "story": "a-seat-for-the-sun",
+  "named_original": "codex-clipboard-9e728b0e-e2bf-4efe-b0f6-51f92239de4c.png",
+  "working_tree_original_present": false,
+  "targeted_all_refs_git_filename_history_match": false,
+  "search_command": "git log --all --format=%H -1 -- '**/codex-clipboard-9e728b0e-e2bf-4efe-b0f6-51f92239de4c.png'",
+  "handling": "The text was evaluated; the checkpoint is partial evidence and asks the user. No replacement image was invented."
+}

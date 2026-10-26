@@ -1,0 +1,5 @@
+report-app/dist/
+report-app/.data-app-offline/
+report-data.json
+__pycache__/
+*.pyc

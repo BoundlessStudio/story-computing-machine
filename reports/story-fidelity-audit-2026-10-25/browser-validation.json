@@ -1,0 +1,47 @@
+{
+  "browser": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+  "chart": [
+    {
+      "width": 241.3125,
+      "height": 126
+    },
+    {
+      "width": 241.3125,
+      "height": 126
+    },
+    {
+      "width": 241.3125,
+      "height": 126
+    },
+    {
+      "width": 698,
+      "height": 300
+    }
+  ],
+  "images": [
+    {
+      "loaded": true,
+      "width": 720,
+      "height": 288
+    }
+  ],
+  "mobile": {
+    "scroll": 375,
+    "viewport": 390
+  },
+  "pageErrors": [],
+  "checks": [
+    "coverage",
+    "raw score filter",
+    "stage filter",
+    "missing outline detail",
+    "missing reference filter",
+    "saved image filter",
+    "image loading",
+    "full source text",
+    "empty results",
+    "mobile containment",
+    "filtered source inspector"
+  ],
+  "finalBuildLoaded": true
+}

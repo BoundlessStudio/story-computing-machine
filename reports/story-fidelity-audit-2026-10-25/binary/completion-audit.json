@@ -1,0 +1,22 @@
+{
+  "objective": "WP-focused Yes/No checkpoints and full existing-prose audit",
+  "rubric_version": "honors-wp-binary-v2",
+  "helper_sha256": "b6aec3439e1014734248472929dcd558f0bfed8d1015b5b07b93593e599d7074",
+  "requirements": {
+    "outline_and_final_boolean_gates": "verified by 34 unit tests and 9 independent CLI/behavior groups",
+    "confidence_0_80_and_two_restart_limit": "verified inclusive threshold, stage routing, persistent counts, cross-stage and input-error halts",
+    "honors_definition": "actual question and report center the WP narrative promise, explicit story refinements and relevant image guidance",
+    "small_scale_real_story_tests": "5 selected real stories, targeted source readings, and 2 controlled mismatches; semantic miss retained",
+    "all_current_prose_re_evaluated": "268 native prose responses; no outlines rerun; 91 saved original images and one named continuity text included",
+    "report_updated": "same report identity and URL; current WP audit plus preserved broader boolean and score audits; complete build and rendered browser checks",
+    "source_integrity": "all captured prompts, prose and original images unchanged at final check",
+    "portable_artifact": "verified offline HTML exported"
+  },
+  "known_limits": [
+    "One named original image is unavailable; its prose result is explicitly partial evidence.",
+    "The parents-always-knew control returned uncertain Yes at 0.44; the confidence gate asked the user, and the semantic miss remains visible.",
+    "Native confidence is not empirically calibrated judgment accuracy."
+  ],
+  "required_work_remaining": [],
+  "portable_html_sha256": "86fd9116eadb31b9cbff47c1264c3ae84d0e33f6be6bd0c201038171dd77fab4"
+}

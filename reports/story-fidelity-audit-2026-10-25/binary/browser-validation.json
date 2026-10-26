@@ -1,0 +1,31 @@
+{
+  "checks": [
+    "WP-focused prose is default; complete coverage",
+    "rendered confidence chart",
+    "native Yes/No filter preserves booleans",
+    "no confident No triggers a restart in current corpus",
+    "missing original is one partial prose result",
+    "WP-focused Yes at 0.72 remains Needs judgment; image preview and probabilities",
+    "current filtered source inspector",
+    "visible definition centers the WP story promise",
+    "required prior prose is included and reviewable",
+    "earlier broader Yes/No answer and conflict preserved",
+    "earlier outlines preserved, including missing outline",
+    "earlier prose scores preserved",
+    "empty search",
+    "mobile containment",
+    "negative-control semantic miss and confidence halt disclosed"
+  ],
+  "chart": [
+    {
+      "width": 698,
+      "height": 300
+    }
+  ],
+  "loadedImage": true,
+  "mobile": {
+    "scroll": 375,
+    "viewport": 390
+  },
+  "pageErrors": []
+}
