@@ -52,7 +52,7 @@ She pulled the mask down under her chin. Her forehead was damp and a red mark ra
 
 There was a great deal of black between the trees. I had expected the lights of the new houses to show us where to go, but from inside the wood they were harder to see. When I moved my head, a light would appear beside a trunk and vanish behind it again.
 
-The path bent past a fallen beech. We knew that tree. In daylight you could walk the length of it with your arms out, right up to the great fan of roots. I felt better when my foot knocked against its lowest branch.
+The path bent around the upturned roots of a fallen beech. We knew that tree. In daylight you could walk the length of it with your arms out. I felt better when my foot knocked against a root.
 
 Beyond it, somebody laughed.
 
@@ -88,9 +88,7 @@ It wore a rabbit mask with a bent ear. One side of the paper face was stained da
 
 The child didn't move.
 
-Behind it, on the other side of the beech, stood a king in a wet paper crown. There was a clown beside him, and a small figure with a white cloth over its head. I could see the hem hanging in points. They had no torches.
-
-I looked back towards the pumpkins. Between those lights were more children. Some stood so close to the trunks that I hadn't noticed them before. Their costumes had the heavy, collapsed look of clothes left out in the rain.
+Farther back along the path stood a king in a wet paper crown. There was a clown beside him, and a small figure with a white cloth over its head. I could see the hem hanging in points. Their costumes had the heavy, collapsed look of clothes left out in the rain. They had no torches.
 
 Nobody was talking now. Marnie moved close enough to press her elbow against mine.
 
@@ -102,7 +100,7 @@ Its face stayed towards us. The dark eyeholes were too small and too far apart f
 
 I stepped to my left. Leaves cracked under my shoe. The rabbit's face turned with me, but I heard nothing from where it stood. I waited. It waited.
 
-There was room between it and the beech if it would turn a shoulder. I pointed to the gap, smiling the way you smile when somebody is being awkward and you don't want to make it worse.
+There was room between its shoulder and the beech's upturned roots if it would shift a little. I pointed to the gap, smiling the way you smile when somebody is being awkward and you don't want to make it worse.
 
 “Can you move over a bit?”
 
@@ -114,11 +112,11 @@ Marnie caught the back of my sweatshirt.
 
 “There's another one.”
 
-On the far side of the beech, directly where I would have put my foot, something small sat with its knees drawn up. It had a round smiling face. A red ribbon tied beneath its chin disappeared into the collar of a coat. I hadn't seen it arrive. I couldn't see its hands.
+Just beyond the gap, directly where I would have put my foot, something small sat against the roots with its knees drawn up. It had a round smiling face. A red ribbon tied beneath its chin disappeared into the collar of a coat. I hadn't seen it arrive. I couldn't see its hands.
 
 I backed out of the gap. The rabbit's face followed me back. Marnie was looking beyond my shoulder, her mouth open above the green mask at her throat. I turned slowly, wanting to discover that she was looking at a grown-up.
 
-There were rows of them among the trees. A pointed hat. A shiny black cat face. A little girl in a dress with a torn white frill. Some carried bags that hung flat against their legs. All their faces were towards us.
+Children stood between us and the pumpkin lights, their bags hanging flat against their legs. They were facing us too.
 
 The leaves around my feet seemed terribly loud. I tried to shift my weight without making a sound, but they scraped together anyway. I became afraid of the noise of my own breathing. The children stood in the same leaves and made no noise at all.
 
@@ -128,7 +126,7 @@ For a moment I wanted to go towards it. There was a grown-up there. Someone had 
 
 Then a woman called, pleasantly, “You two at the back. Come along.”
 
-Marnie made a small sound in her throat. The king, the clown, the rabbit, all kept their faces turned to us. None of them looked at the door.
+Marnie made a small sound in her throat. I glanced back along the path. The king, the clown, the rabbit, all kept their faces turned to us. None of them looked at the door.
 
 I dropped my pillowcase and caught Marnie's left hand. “This way.”
 
