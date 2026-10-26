@@ -163,7 +163,7 @@ She gave him the bridge.
 
 *I know every dead end the bright maps missed,*  
 *every fence with a bend where the back streets kiss.*  
-*Take the brass from those shutters. Lay a spine on the ridge.*  
+*Shutters, shed brass. Let a spine span the ridge.*  
 *Where your kingdom runs out, I can build me a bridge.*
 
 The fallen panels split into narrow ribs. They sprang from her lowest step to his highest, locked together, and spread into a shining deck. She ran up it before the last echo of *bridge* had left the windows.
@@ -214,7 +214,7 @@ He was still looking for her endings. She could see it in his mouth: the beginni
 
 He had caught her on the landing. He had caught her bridge.
 
-The old prepared finish waited in her head, polished smooth. She could hear exactly how he would break it.
+The unused closing bars waited in her head, polished smooth. She could hear exactly how he would break them.
 
 Ramona set her heel against the scattered brass. Beneath it, the board gave its deep little thump.
 
@@ -224,7 +224,7 @@ She looked up at him.
 
 His eyebrows rose. Again?
 
-She gave him the familiar route, fast enough to make him hurry. The bent fences. The ridge. The brass gathering, still shapeless, at her feet. Her words packed themselves into the approach he knew.
+She gave him the familiar route, fast enough to make him hurry. The bent fences. The ridge. The brass gathering, still shapeless, at her feet. Her words packed themselves into the approach he knew. The crowd let its hooks fall away, listening for his reply.
 
 *Where your kingdom runs out, I can build me a—*
 
@@ -232,16 +232,16 @@ One, two, three.
 
 Keynote was already there.
 
-"Bridge into bricks! Full stop. Drop!"
+"Bridge into bricks—"
 
 She left the fourth beat empty.
 
-No bridge formed. His answer struck the scattered brass and passed through without changing it. She heard the quick intake through his mic as he turned to another line.
-
-Ramona came back between the beats.
+Ramona was already rapping beneath his remaining three words: *Full. Stop. Drop.* She doubled her new line across his long, square stresses.
 
 *Big throne, thin boards. Hear the hollow hum.*  
 *Brass beater. Guest feature. Your boards are my drum.*
+
+His *drop* found no bridge to change. Her *drum* landed in the sharp intake of his next breath.
 
 She put *your* straight at his feet.
 
