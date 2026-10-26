@@ -10,7 +10,7 @@ Vard was sitting on a suitcase full of money when I offered him an easy afternoo
 
 He bounced on the suitcase. One latch caught.
 
-The casino's private box stood three steps above the gaming floor, behind a red velvet rope that no longer kept anyone out. I had ducked beneath it. Below us, empty card tables faced the great windows over the valley. A long card counter ran from the box steps almost to the rear wall, where one table stood on its end. Most of the windows were boarded, but the late sun came through the gaps and laid bright stripes on the floor. Beyond the rear wall, a pulley squealed.
+The casino's private box stood three steps above the gaming floor, behind a red velvet rope that no longer kept anyone out. I had ducked beneath it. Below us, empty card tables faced the great windows over the valley. A long card counter ran from the box steps almost to the rear wall. One table stood on its end halfway along the window side. Most of the windows were boarded, but the late sun came through the gaps and laid bright stripes on the floor. Beyond the rear wall, a pulley squealed.
 
 Vard looked me over: green coat, reinforced knees, cuffs and a folded prisoner hood on my belt. His attention stopped on the paper-wrapped sandwich sticking out of my breast pocket.
 
@@ -146,7 +146,7 @@ There was a short silence.
 
 "So am I."
 
-Tavi crawled to the counter's rear end, a few steps from the downhill door. He peered around it at me, his blue waistcoat grey with dust.
+Tavi crawled to the counter's rear end, a few steps from the downhill door. He peered across at me, his blue waistcoat grey with dust.
 
 "Doesn't it hurt?" he whispered.
 
