@@ -6,3 +6,13 @@
 ## Audience and content direction
 
 No audience or intensity rating was specified. General is the starting target. The request explicitly calls for human extinction, an apocalyptic causal paradox, and a parent-child reunion opportunity; depict the horror through consequence without graphic violence.
+
+## Later user directions
+
+we need a simpler version of the [WP] for the website.
+
+## Website prompt
+
+Display copy responding to that direction:
+
+Millions of years after humanity’s extinction, two researchers piece together the diaries of Sarah Elizondo, an ageless girl who traveled through history with a mysterious ghost. Her journals reveal fifteen events leading to the apocalypse—and how every attempt she made to stop it helped cause it. Now her signal has returned, giving the researchers one last chance to bring their lost daughter home.
