@@ -10,7 +10,7 @@ She came through the stone doorway sideways, with her chin tucked down, and caug
 
 Haverel watched from the far end of a long oak table. He had put on a steel breastplate over his blue velvet, but no helmet. His hair lay neat against his temples. Breska had expected that. A man who won as many duels as Haverel liked people to see his face.
 
-At the far end, the blue boards ran to the rail of a musicians' gallery, its floor shoulder-high to Haverel. The old stone vault rose bare above the raised platform. Nine people sat up there with their wrist irons threaded on a chain.
+At the far end, the blue boards ran to the tall rail of a musicians' gallery, its floor waist-high to Haverel. The old stone vault rose bare above the raised platform. Nine people sat up there with their wrist irons threaded on a chain.
 
 All nine looked up.
 
