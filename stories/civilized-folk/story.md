@@ -10,13 +10,13 @@ She came through the stone doorway sideways, with her chin tucked down, and caug
 
 Haverel watched from the far end of a long oak table. He had put on a steel breastplate over his blue velvet, but no helmet. His hair lay neat against his temples. Breska had expected that. A man who won as many duels as Haverel liked people to see his face.
 
-Beyond him, the painted ceiling ended. The old stone vault rose bare above a musicians' gallery, where nine people sat with their wrist irons threaded on a chain.
+At the far end, the blue boards ran to the rail of a musicians' gallery, its floor shoulder-high to Haverel. The old stone vault rose bare above the raised platform. Nine people sat up there with their wrist irons threaded on a chain.
 
 All nine looked up.
 
 Her sergeant had lost his red cap. The woman beside him was holding one boot against her chest. A strip of linen hid the lowest part of the youngest man's face. Breska could see his breathing move it.
 
-She put her long sword beside the door, beneath the eyes of four spearmen, and came forward bent beneath the boards. Six crossbowmen stood along the gallery rail. Two more men waited at each of its narrow stairs. She counted them without appearing to count.
+She put her long sword beside the door, beneath the eyes of four spearmen, and came forward bent beneath the boards. Six crossbowmen crouched low at the gallery rail, sighting beneath the lip of the painted ceiling. Two more men waited at each of its narrow stairs. She counted them without appearing to count.
 
 “Captain,” said Haverel. “Will you sit?”
 
@@ -130,13 +130,13 @@ She drove him back. Twice his sword slid past hers; twice she turned it before i
 
 She watched his feet.
 
-He would not retreat between the table and the wall. Too narrow. He preferred the open end, where he could turn and leave her struggling to turn after him.
+He would not retreat between the table and the wall. Too narrow. He preferred to circle its free end, turning so she had to struggle after him. On each turn, he passed with his back close to the tabletop.
 
 She let her left knee sag.
 
 He came in.
 
-Breska caught his sword on the thick back of her knife and pushed, making him retreat toward his open space. Her free hand closed around the table's end. She dragged it sideways a foot.
+Breska caught his sword on the thick back of her knife and pushed, making him retreat around that corner again. As he turned, her free hand closed around the table's end. She dragged it a foot toward him.
 
 The oak struck the backs of his legs.
 
@@ -168,7 +168,7 @@ Haverel looked at the gallery.
 
 One of the men up there hesitated. Another did not.
 
-Breska dragged the table up between herself and the rail. The first bolt struck the oak with a crack. Others followed, hard little blows against her hands. Her knife fell somewhere under the table as she took its weight with both arms.
+Breska dragged the table up between herself and the rail. The first bolt struck the oak with a crack. Others followed, each impact jolting through the oak into her hands. Her knife fell somewhere under the table as she took its weight with both arms.
 
 She drove forward.
 
@@ -204,7 +204,7 @@ He stayed.
 
 The keys were hanging from his belt. She tore them free and tossed them up. Her sergeant caught them against his chest.
 
-The four remaining bowmen had drawn swords. One looked at the broken weapon in Breska's hand and laid his sword down very carefully. Two followed his example. The last backed through the musicians' little door and vanished.
+Three of the remaining bowmen laid their drawn swords down. The fourth backed through the musicians' little door and vanished.
 
 Breska dropped the broken bow and lifted the oak table. Bolts bristled from its underside. With the ceiling gone she could turn it upright, lower its far end through the broken rail, and let the near end settle on the flagstones.
 
@@ -212,25 +212,17 @@ Breska dropped the broken bow and lifted the oak table. Bolts bristled from its 
 
 Her sergeant was already unlocking the last wrist. He picked up the surrendered sword and went first. The woman put her boot back on. The youngest man came down with one hand on a companion's shoulder and the other holding a crossbow.
 
-At the farther stair, one guard raised his spear, saw three of the freed prisoners turn toward him, and laid it down. His companion did the same.
+Both guards at the farther stair lowered their spears to the floor as the armed prisoners passed.
 
 Breska waited for the ninth person. Only when the gallery was empty did she turn back toward Haverel.
 
-He had reached the entrance. Four men with spears stood before it, their lord behind them. They were fresh, their weapons level. Breska was bleeding into her boot. The table lay behind her, and there was no knife in her hand.
-
-Haverel pointed at her.
+He had reached the entrance. The four spearmen closed before him, fresh men with their weapons level. Breska was bleeding into her boot. The table lay behind her. Haverel pointed at her empty hands.
 
 “There. Together.”
 
-She picked up the fallen ceiling frame. A length of blue-painted timber hung from it by a bent nail. She shook it loose and took the sound crosspiece in both hands.
+She picked up the fallen ceiling frame and shook the broken boards from its crosspiece. With room to stand, she had room to step. Her injured calf sagged as she met the advancing points, but she drove the timber across them and into the wall. Two shafts snapped. Her people came up on either side of her; the other two spearmen let go before their weapons could be wrenched away.
 
-The spearmen advanced.
-
-With room to stand, Breska had room to step. She met their points with the timber and drove them against the wall. Two shafts snapped. A third man let go. The fourth tried to pull his weapon back, but her people were beside her now, armed from the gallery, and he found a sword against the shaft beneath his hand.
-
-He opened his fingers.
-
-Haverel moved while she was looking at him. A quick little motion, as good as any he had made in the duel: he slipped past his guard and drew the dagger toward her injured leg.
+Haverel slipped between them while she was still braced against the timber. A quick little motion, as good as any he had made in the duel: the dagger coming toward her injured leg.
 
 Breska dropped the crosspiece, caught his wrist and lifted him by the front of his breastplate.
 
