@@ -1,3 +1,7 @@
+# Prompt
+
+Every story ever imagined exists somewhere, separated by the boundaries of time. But when those boundaries suddenly collapse, dragons, starships, pirates, robots, dinosaurs, and armies from a thousand different realities find themselves fighting on the same impossible battlefield. At its center stands a princess whose magic flows like living paint, protected by three ancient knights forged from red, green, and blue light. Nobody knows who started the war, but every invading army is here for the same reason: Capture the Princess before she paints the ending.
+
 # Original request
 
 [WP] Every story ever imagined exists somewhere, separated by the boundaries of its own world. But when those boundaries suddenly collapse, dragons, starships, pirates, robots, dinosaurs, and armies from a thousand different realities find themselves fighting on the same impossible battlefield. At its center stands a princess whose magic flows like living paint, protected by three ancient knights forged from red, green, and blue light. Nobody knows who started the war, but every invading army is here for the same reason: **Capture the Princess before she paints the ending.**
@@ -11,6 +15,9 @@ also the colors choice here matter.
 the focus of the story should be "Capture the Princess before she paints the ending." and i just want to make sure you got those details right as their are import to me.
 
 i want a sub plot to be a meta story about our library how all these The armies’ attempts to seize her come of the pages of the its books...
+
+update the writing prompt on the display to just be the following:
+Every story ever imagined exists somewhere, separated by the boundaries of time. But when those boundaries suddenly collapse, dragons, starships, pirates, robots, dinosaurs, and armies from a thousand different realities find themselves fighting on the same impossible battlefield. At its center stands a princess whose magic flows like living paint, protected by three ancient knights forged from red, green, and blue light. Nobody knows who started the war, but every invading army is here for the same reason: Capture the Princess before she paints the ending.
 
 ## Supplied reference
 
