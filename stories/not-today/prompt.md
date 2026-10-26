@@ -12,6 +12,10 @@ recreate the story around the title “Not today.” focus on what prevent one t
 
 its not fantastical enough; create a new story.
 
+## Further user direction — 2026-10-26
+
+recast the main character to someone younger that is just learning the cost of “Not today.”
+
 ## Supplied reference images
 
 - None
