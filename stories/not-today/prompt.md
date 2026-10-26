@@ -8,6 +8,10 @@ nope i straight think you wasted a good prompt and better title...
 
 recreate the story around the title “Not today.” focus on what prevent one thing happening per day, what is the choice, why dose it matter? what dose it cost?
 
+## Further user direction — 2026-10-26
+
+its not fantastical enough; create a new story.
+
 ## Supplied reference images
 
 - None
