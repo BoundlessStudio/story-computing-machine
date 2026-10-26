@@ -44,7 +44,7 @@ For a moment she thought whoever was there had blown out a lamp. Then the yellow
 
 Something pale unfolded beneath the sill.
 
-Her lantern caught a smooth length as thick as her thigh, with two bends in it. The end was clasped around the fork of an ash. It tightened; the fork creaked. The window swung toward her, and the pale length twisted to follow, caught, and pulled again. A branch broke with the sharp report of a snapped chair leg.
+Her lantern caught a smooth length as thick as her thigh, with two bends in it. The end was clasped around the fork of an ash. It tightened; the fork creaked. The window swung toward her. The pale length twisted to follow, caught in the fork, and pulled again. A branch broke with the sharp report of a snapped chair leg.
 
 Tessa ran back down the path. The borrowed lantern banged against her knee. Its light jumped over stones and leaves. She heard the spoon. It was beside her now.
 
@@ -100,7 +100,7 @@ She let herself go backward just enough to slacken the coat.
 
 The toggle turned.
 
-She folded an arm against her chest and pulled it out of its sleeve. Cold struck her neck and back. The other sleeve held her wrist, turned inside out, and released it.
+She folded an arm against her chest and pulled it out of its sleeve. Cold struck her neck and back. The other sleeve held her wrist, turned inside out, and released it. White lining flashed against the dark wool.
 
 Tessa dragged herself onto the grass. Her hips scraped through, then her knees. As she pulled her boots clear, the hedge bowed above her. The yellow square struck the upper thorns and tipped almost on its side. Something heavy crashed against the stems. A shower of small twigs fell over her hair.
 
