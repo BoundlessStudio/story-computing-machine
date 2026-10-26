@@ -92,7 +92,7 @@ By afternoon, there were whales.
 
 They appeared first as shadows moving in clouds. Then one rolled into the sun, pearl-white and longer than the street where Cirel lived. Light shone through its belly. Inside, little shapes turned like fish in a lantern.
 
-“Young,” Pellin said.
+“That one's young,” Pellin said.
 
 Cirel forgot to be cross with him.
 
@@ -348,11 +348,9 @@ Cirel wanted to leave the waterfall hanging forever.
 
 Then she saw the sails.
 
-The normal spray had wrapped the hollow reef in mist. Now the shaft shone clean through it, a glass finger pointing into the sky. Their own ship was turning toward the impossible brightness. Beyond it, two more sails emerged from cloud.
+The normal spray had wrapped the hollow reef in mist. Now the shaft shone clean through it, a glass finger pointing into the sky. Their own ship was turning toward the impossible brightness. Beyond it, two more sails emerged from cloud. A skiff left their ship's side and turned toward the crown.
 
-Cirel felt the words rise behind her teeth. She stopped herself.
-
-The water hung below her, holding the fish and all the weight of her answer.
+Cirel felt the words rise behind her teeth. She wanted the ships to stop coming. Then she shut her mouth. She had spent today's refusal on the waterfall.
 
 Pellin followed her gaze. He got up without laughing.
 
@@ -544,7 +542,9 @@ Clouds gathered around her flippers. At first Cirel thought she was entering mis
 
 All around them, the migrating whales were opening their cities.
 
-Houses of folded cloud shook themselves wide. Lanterns rose on stems. Rope bridges drifted between the nearest whales, caught and fastened by people leaning from bright balconies. Children ran along a white terrace above a breathing-hole. When the whale beneath it exhaled, every child jumped, and the breath lifted them laughing into the air.
+Houses of folded cloud shook themselves wide. The little lights in the whales' bellies rose into the windows. One lengthened into a woman, yawning and gripping the sill while her feet took shape.
+
+Lanterns rose on stems. Rope bridges drifted between the nearest whales, caught and fastened by people leaning from bright balconies. Children ran along a white terrace above a breathing-hole. When the whale beneath it exhaled, every child jumped, and the breath lifted them laughing into the air.
 
 The bell flew from Cirel's shoulder. Other bells came to meet it. For a while the sky rang with so many notes that she couldn't tell which was its voice.
 
