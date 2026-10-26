@@ -20,7 +20,7 @@ The hand on the page was small and filthy. There was ink beneath its thumbnail. 
 
 Kesh crossed the chamber with the support still in his hands.
 
-For six million years, no human had walked under Earth's sky. Mountains had risen through the sites of cities. Whole seas had appeared in places where their excavations found road signs. The researchers had pursued one child's handwriting through those changes, through other civilizations' mistakes about what they were finding, through the dissolution of the institution that had first employed them.
+The human extinction lay six million years behind them. Mountains had risen through the sites of cities. Whole seas had appeared in places where their excavations found road signs. The researchers had followed one child's handwriting down through those layers, through other civilizations' mistakes about what they were finding. Their search had outlived the institution that first employed them.
 
 They had searched for four hundred and eleven thousand years.
 
@@ -68,7 +68,7 @@ Kesh set the ceramic fragment down. He enlarged the image until the scratches be
 
 There were marks between the rings that the first translators had identified as ritual figures. One had a narrow body and four arms. Beside it stood a larger figure with six fingers on each hand.
 
-Kesh put his own hand beside the tile.
+Kesh put his own hand beside the tile, six dark fingers extending from a broad, bronze-coloured wrist.
 
 Sarah had made the middle fingers too long. She always had.
 
@@ -254,7 +254,7 @@ Kesh studied the receiver.
 
 He looked at her. They had built versions of this machine in valleys that were now under the sea. They had written instructions for people who had been dead so long their descendants had become new species. For much of that time, they had not known whether Sarah was still a person who could be found, or only something that had happened.
 
-Iru opened the control housing with her two lower hands.
+Iru opened the control housing with her two lower hands. Her narrow ceramic shoulders were blue in the light from the screen.
 
 “Help me change it.”
 
@@ -394,7 +394,7 @@ Sarah ordered it erased.
 
 One by one, the network's counts fell. On Earth and beyond it, machines reported that human beings were disappearing from their fields of recognition.
 
-The refuge had been designed to notice precisely this.
+The refuge had been designed to notice precisely this. It restored the last complete recognition pattern from its reserves and declared an extinction emergency.
 
 Doors opened in stations that had never been used. Public screens instructed families to remain together. The simulated sky above Sarah turned white, then cleared to show an evacuation notice.
 
@@ -484,9 +484,7 @@ Her parents' civilization would not exist for millions of years. She knew that. 
 
 Iru had reconstructed that sentence from a carbon film left inside a station's shielding. For years she had thought the pronoun referred to the refuge's designers.
 
-Now the live signal carried the destination written beneath it.
-
-Their first house. The room with the model ship blocking the door.
+Now the live signal carried the destination the damaged entry had lost: their home address, kept through every move and every rebuilt receiver. Sarah would still have pictured their first house, the room with the model ship blocking the door.
 
 “She sent them to us,” Kesh said.
 
@@ -501,6 +499,8 @@ Iru looked back at the display.
 “We have to be there this time.”
 
 ### 14
+
+The last recovered entry had been dictated to the ghost after the failure. The control station cached its text before the local recorder died; the later handwritten page had reached them only now, through the live transmission.
 
 *Ghost has put the entries together.*
 
@@ -582,7 +582,7 @@ Sarah had lost pages whenever the ghost carried her onward. She had hidden other
 
 For a while they heard only the ghost reading the words she could no longer make out.
 
-“I thought some of these hadn't happened yet,” she said.
+“I thought I had stopped some of it,” she said.
 
 Iru looked at the image of her hand. The pen lay beside it now.
 
@@ -638,7 +638,7 @@ She wrapped her fingers around the fitting.
 
 “If I take it out, you won't be there.”
 
-“The voice will go,” Kesh said. “We are holding the field itself now. The whole closed room. You don't have to open a door to get into it.”
+“The voice will go,” Kesh said. “We are holding the field itself now. The whole closed room. You don't have to come out of it to come here.”
 
 “And Ghost?”
 
