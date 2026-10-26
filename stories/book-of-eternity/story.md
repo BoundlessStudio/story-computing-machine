@@ -132,7 +132,7 @@ Ysabet looked at the tiny people crowding the windows. The thought had nowhere d
 
 Orrel looked at her.
 
-“The royal inventory names Harrowick,” she said. “One employment. Nothing before it.”
+“The royal inventory names Harrowick,” she said. “One recorded use. Nothing earlier.”
 
 “It records what the king put in.”
 
@@ -314,7 +314,7 @@ Pellan looked up.
 
 “As evidence.”
 
-“Yes.”
+“Yes. The people in the older leaf have messages we can’t read. I’ll ask the council for someone who can.”
 
 Pellan lifted the order from the stand and read it again.
 
