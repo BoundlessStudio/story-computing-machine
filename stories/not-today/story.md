@@ -224,7 +224,7 @@ He looked at the rope, then at the post.
 
 Our rope could carry two performers through the air. On any other day, asking it to stop a laden wagon would have snapped it before that oak post so much as bent.
 
-I worked through the gaps beside the corner post and tied one end of the rope around the wood itself. The other end would go over the chestnut fork. The post was the thing keeping us in. It was also a thing I had made no promises about.
+I worked the rope through the gaps beside the corner post and tied one end around the wood itself. The other end would go over the chestnut fork. The post was the thing keeping us in. It was also a thing I had made no promises about.
 
 Delwin watched me secure the rope. Then he took off his coat.
 
@@ -248,7 +248,7 @@ I glanced through the bars. The chestnut was coming toward us. Beyond its leaves
 
 I waited until the wagon entered the bend.
 
-The driver took it close to the chestnut, away from a cart coming up the road. Its low fork slid past the side bars, just beyond my shoulder. I reached out through the rear corner and dropped a broad loop of rope over the upward branch.
+The driver took it close to the chestnut, away from a cart coming up the road. The chestnut's low fork slid past the side bars, just beyond my shoulder. I reached out through the rear corner and dropped a broad loop of rope over the upward branch.
 
 The branch held it. For one dreadful instant there was nothing between the tree and the wagon but a slack red line, trailing like something a child had lost.
 
