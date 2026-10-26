@@ -4,13 +4,13 @@ created: 2026-10-26
 canon: false
 ---
 
-The sky in Lord Haverel's hall was seven feet from the floor. Breska was eleven.
+The sky in Lord Haverel's hall was seven feet from the floor. Breska was eleven feet tall.
 
 She came through the stone doorway sideways, with her chin tucked down, and caught a painted star in her braid. It swung on its wire. Somewhere above the blue boards, a mouse ran away.
 
 Haverel watched from the far end of a long oak table. He had put on a steel breastplate over his blue velvet, but no helmet. His hair lay neat against his temples. Breska had expected that. A man who won as many duels as Haverel liked people to see his face.
 
-At the far end, the blue boards ran to the tall rail of a musicians' gallery, its floor waist-high to Haverel. The old stone vault rose bare above the raised platform. Nine people sat up there with their wrist irons threaded on a chain.
+The painted boards covered the main floor right up to the musicians' gallery. Its platform stood three feet above the flagstones, with no wooden ceiling over it, only the high stone vault. Behind its tall railing, nine people sat with their wrist irons threaded on a chain.
 
 All nine looked up.
 
@@ -188,9 +188,7 @@ She caught the falling frame with one hand and flung it down behind her. It stru
 
 A crossbowman leaned over the gallery rail, trying to see past the dust.
 
-Now Breska could reach him.
-
-She seized the bow before he fired, pulled it out of his hands and struck the rail with it. The bow broke. So did the rail. The man dropped flat, covering his head, and she left him there.
+She reached down over the rail, seized the bow before he fired and pulled it out of his hands. She struck the railing with it. The bow broke. So did the rail. The man dropped flat, covering his head, and she left him there.
 
 Another guard was turning his weapon toward the prisoners.
 
@@ -204,13 +202,13 @@ He stayed.
 
 The keys were hanging from his belt. She tore them free and tossed them up. Her sergeant caught them against his chest.
 
-Three of the remaining bowmen laid their drawn swords down. The fourth backed through the musicians' little door and vanished.
+The four remaining bowmen dropped their bows and drew swords. Three laid their blades down almost at once. The fourth backed through the musicians' little door and vanished.
 
-Breska dropped the broken bow and lifted the oak table. Bolts bristled from its underside. With the ceiling gone she could turn it upright, lower its far end through the broken rail, and let the near end settle on the flagstones.
+The bandaged young man swayed as he stood. Breska looked from him to the narrow stairs, then dropped the broken bow and lifted the oak table. Bolts bristled from its underside. With the ceiling gone she could turn it upright, lower its far end through the broken rail, and let the near end settle on the flagstones.
 
 “Down,” she told her people.
 
-Her sergeant was already unlocking the last wrist. He picked up the surrendered sword and went first. The woman put her boot back on. The youngest man came down with one hand on a companion's shoulder and the other holding a crossbow.
+Her sergeant was already unlocking the last wrist. He picked up a surrendered sword and went first. The woman put her boot back on. The youngest man came down with an arm across a companion's shoulders. On the broad oak they could walk side by side.
 
 Both guards at the farther stair lowered their spears to the floor as the armed prisoners passed.
 
@@ -218,7 +216,7 @@ Breska waited for the ninth person. Only when the gallery was empty did she turn
 
 He had reached the entrance. The four spearmen closed before him, fresh men with their weapons level. Breska was bleeding into her boot. The table lay behind her. Haverel pointed at her empty hands.
 
-“There. Together.”
+“Together.”
 
 She picked up the fallen ceiling frame and shook the broken boards from its crosspiece. With room to stand, she had room to step. Her injured calf sagged as she met the advancing points, but she drove the timber across them and into the wall. Two shafts snapped. Her people came up on either side of her; the other two spearmen let go before their weapons could be wrenched away.
 
