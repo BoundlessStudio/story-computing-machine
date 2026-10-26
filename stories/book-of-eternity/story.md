@@ -48,7 +48,7 @@ She expected writing.
 
 There was a street.
 
-It lay below the edge of the cover, farther down than the book was thick. Red roofs crowded one another above a steep cobbled slope. The light came from somewhere to the left: a late sun, although dawn had scarcely passed outside. A cart stood crooked across the street. Two men were arguing over which of them should move it.
+It lay below the edge of the cover, farther down than the book was thick. A stone stair descended from the opening. Its nearest step was broad enough for Ysabet’s boot; the lower steps narrowed into the distance. Red roofs crowded one another above a steep cobbled slope. The light came from somewhere to the left: a late sun, although dawn had scarcely passed outside. A cart stood crooked across the street. Two men were arguing over which of them should move it.
 
 Ysabet bent forward.
 
@@ -110,7 +110,7 @@ Orrel’s hand rested beside the black edge, careful not to touch it.
 
 “The ones who were left told me where their families had been.”
 
-Edris had climbed a narrow stair that rose along the edge of the city and ended just inside the book’s open fore-edge. From its top she could see them over a low parapet. The white thing under her arm was a folded shirt. She laid it down and flattened it with both palms, as if she had remembered she had been carrying it.
+Edris had climbed the narrow stair from the distant street to the book’s open fore-edge. At the top she was only an arm’s length away, looking over a low parapet. The white thing under her arm was a folded shirt. She laid it down and flattened it with both palms, as if she had remembered she had been carrying it.
 
 “My husband was at the south gate,” she said. “Ask him where the south gate is.”
 
@@ -126,7 +126,7 @@ She stepped back so sharply that her heel caught the stool.
 
 “They are. He bound them to the leaf. Their hearts keep it.”
 
-Ysabet looked at the tiny people crowding the windows. The thought had nowhere decent to go. Every sign that they were alive was also proof that the prison was working.
+Ysabet looked at the distant people crowding the windows. The thought had nowhere decent to go. Every sign that they were alive was also proof that the prison was working.
 
 “Then take this leaf out,” she said. “Keep it whole. Could we destroy the rest?”
 
@@ -222,7 +222,7 @@ She did not look at him. She looked at Ysabet, put one foot outside the parapet,
 
 Ysabet had spent the morning pulling people out of broken masonry. Her hand was already moving when she remembered the warning.
 
-Edris’s outstretched hand filled the gap as she reached its lip; the street was far below her now. Ysabet caught it.
+Edris’s outstretched hand came through the gap. Ysabet caught it.
 
 For one instant it was only a hand: warm, with hard skin at the base of the fingers. Then Edris gripped her wrist and pulled.
 
@@ -310,7 +310,7 @@ Ysabet unbuckled her sword belt.
 
 Pellan looked up.
 
-“You can arrest an officer who refuses the order,” she said. “You can seize what she refused to destroy. It goes before the council with her.”
+“You can arrest an officer who refuses the order,” she said. “You can seize what she refused to destroy. Take us both before the council.”
 
 “As evidence.”
 
@@ -358,7 +358,7 @@ Edris lifted her head.
 
 Ysabet looked at Pellan. “No. I’m going with you under guard.”
 
-The woman’s gaze moved from her face to the bare shoulder where her officer’s cord had been. She stood and put on her coat. Down in the street, somebody began passing her words back to the people who could not hear.
+The woman’s gaze moved from her face to the plain shoulder of her coat where the officer’s cord had been. She stood and put on her coat. Down in the street, somebody began passing her words back to the people who could not hear.
 
 “What’s your name?” Edris asked.
 
