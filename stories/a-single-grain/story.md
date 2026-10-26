@@ -306,7 +306,7 @@ I could see it on the slate. We had been making each square correct itself. The 
 
 “That can use the paths you've got,” I said. “Shall we close the frame while you work out the order?”
 
-“The order is ready. I need to see what the edges do with it. Let me keep four openings.”
+“The order is ready. I need to see what the edges do with it. Let me try four first.”
 
 Caldris's left knee trembled.
 
