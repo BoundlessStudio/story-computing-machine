@@ -115,18 +115,18 @@ The DJ gave them four clicks.
 
 Keynote came in precisely on the one.
 
-*Bright brass, bend back. Make room for a throne.*  
-*I built up this name; now I sit on my own.*  
-*Top of the bill and the top of the view.*  
-*I kept this seat warm. I can keep it from you.*
+*Brought your whole notebook? I know it by heart.*  
+*You came for a solo. I still know your part.*  
+*Brass in my backline, bend low for the throne.*  
+*Come get your feature. I headline alone.*
 
-Two brass lighting stands beside the stage bent toward him. Their tubes wove into a high-backed chair, bulbs blazing along the arms. He sat as it finished forming beneath him, one white boot crossed over the other. The crowd caught *keep it from you* and sent it around the roof.
+Two brass lighting stands beside the stage bent toward him. Their tubes wove into a high-backed chair, bulbs blazing along the arms. He sat as it finished forming beneath him, one white boot crossed over the other. The crowd caught *headline alone* and sent it around the roof.
 
 He inhaled. The throne held on their living voices.
 
 Ramona felt the familiar rush behind her teeth. Recorded music could give you a beat. It couldn't lend you a breath. That was why a thousand people still climbed a filthy station staircase to see what happened when somebody said something new.
 
-She let Keynote have two more *keep it from you*s. Then she moved.
+She let Keynote have two more *headline alone*s. Then she moved.
 
 *Big chair, bright glare, little king in the middle.*  
 *Two tons of brass for a two-note fiddle.*  
@@ -201,10 +201,10 @@ Keynote took a breath.
 
 She moved first, chopping her line across his entrance.
 
-*Steps to the top? Let 'em lie, let 'em lie.*  
-*Your palace is a carpet. Watch me flatten that rise.*
+*All these stairs for a throne? You got a fear of the ground?*  
+*Your palace is a carpet. Let me roll it back down.*
 
-The near rhyme rasped in her throat. Not beautiful, but it took. The tiers unrolled into a flat wooden floor, dragging Keynote three paces toward her before he freed his boots. She stayed down in her knees, feeling the boards flex.
+She crowded the first line, then found room for *down*. The tiers unrolled into a flat wooden floor, dragging Keynote three paces toward her before he freed his boots. She stayed down in her knees, feeling the boards flex.
 
 The DJ leaned over his decks. He had heard the change in her flow.
 
@@ -241,11 +241,17 @@ No bridge formed. His answer struck the scattered brass and passed through witho
 Ramona came back between the beats.
 
 *Big throne, thin boards. Hear the hollow hum.*  
-*Brass for the beater. Your boards for my drum.*
+*Brass beater. Guest feature. Your boards are my drum.*
 
 She put *your* straight at his feet.
 
-The planks beneath Keynote drew tight as a drumhead, tilted toward the mats. The brass at her heel snapped into a pedal, its long beater reaching beneath the taut circle. He looked down. His next word was already coming.
+The brass at her heel snapped into a pedal, its long beater reaching beneath his patch of floor. Keynote drove straight into an answer.
+
+"That drum's a dead—"
+
+The planks tightened and tilted toward the mats. His back boot slid; his front knee hit the taut drumhead with a hollow knock. The rest of his line went out in a grunt. He planted his free hand, trying to get a boot beneath him.
+
+Ramona kept her heel over the pedal and rapped over his scramble to stand.
 
 *High seat. Low end. Let the whole roof jump.*  
 *Everybody knows your name. Now they know my—*
