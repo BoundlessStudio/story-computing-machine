@@ -308,9 +308,13 @@ She turned back to the young man.
 
 He looked into the bright passage. “He'll come through.”
 
-“Yes. And I need your scythe.”
+“I need him here. First I break the spell that keeps us alive. Then I take his soul.”
 
-“If you cut that knot, you'll go with him.”
+Tereth looked at the silver blade. “You mean to kill him.”
+
+“Yes. He'll be here, among the dead. He won't be able to cast, or bind me again.”
+
+“The blade is holding both of you.”
 
 “I can hold myself here. You felt me do it.”
 
@@ -436,11 +440,13 @@ The knot opened.
 
 She felt a small release beneath her breastbone, like a hand unclenching after so long that she had forgotten it was a hand.
 
+The spell no longer stood between either of them and death. Her own soul stayed within her. Across from her, Azravan was still alive, but mortal.
+
 Azravan looked down at himself.
 
 “Restorer.”
 
-She let her living power enter the silver. The blade was built for a movement she knew intimately, though she had always worked in the other direction. It took the loosened soul and carried it out.
+She turned the blade towards him and fed it her living power. This time she drew his soul out.
 
 He tried to step away from it. He could move only as fast as a man beneath a heavy cloth.
 
@@ -461,6 +467,8 @@ Belisane lowered the scythe.
 “Yes.”
 
 He waited.
+
+She had only to close her free hand and make the inward call. She left it open.
 
 She turned to the bearers. “Are you hurt?”
 
