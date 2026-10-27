@@ -430,7 +430,7 @@ The king turned his shoulder. The canopy bearers held their corners tight.
 
 He pulled. Azravan staggered to Belisane's left, dragging the canopy with him. The gold from his chest swung left too, clear of the light leading into hers.
 
-Belisane held herself inward. Her own loop folded close against her chest, leaving his alone above the blade. She held that inward pull.
+Belisane held herself inward. Her own loop folded close against her chest, leaving his alone above the blade.
 
 She waited for the fourth step.
 
