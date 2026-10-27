@@ -14,7 +14,7 @@ The King of Seven Orchards could conquer anything except a three-step turn.
 
 He glanced towards the musicians, whose leader raised her bow in warning. Three hundred years ago he had offered her a duchy to play faster. She had asked whether he owned one that still existed.
 
-Belisane took his hand from the small of her back and placed it higher. Her dress was black lace over black silk, with a great gathered bow behind; its maker, dead a hundred and twelve years, was watching from beside a pillar. If the king trod on the hem again, Belisane would hear about it until the next century.
+Belisane took his hand from the small of her back and placed it higher. Her dress was black lace over black silk, its fitted bodice laced down the back above a great gathered bow; its maker, dead a hundred and twelve years, was watching from beside a pillar. If the king trod on the hem again, Belisane would hear about it until the next century.
 
 “One, two, turn.”
 
@@ -210,7 +210,9 @@ The man in gold leaned forward.
 
 “Then we shall keep them ready for you.”
 
-The view shuddered: beds in a long room, shoes in pairs beneath them, and a woman at the far end trying to lift her head. Then a hand, Belisane's own, spreading white paint across a mirror's reflection. The first skull had been a poor one. She had wept while painting it, and the black lines had run.
+The view shuddered: beds in a long room, shoes in pairs beneath them. Azravan had held these soldiers just short of death for weeks. Every morning he asked whether Belisane was ready to restore them to his army. A woman at the far end tried to lift her head; when she saw Belisane, she turned her face away.
+
+Then a hand, Belisane's own, spreading white paint across a mirror's reflection. The first skull had been a poor one. She had wept while painting it, and the black lines had run.
 
 Tereth's scythe trembled. The knot rose another inch, drawing both loops with it.
 
@@ -338,6 +340,8 @@ He braced the heel of the scythe against the stones. The blade stayed bright. Th
 
 Azravan stepped into the square.
 
+The second gold loop followed him out of the pillar. Its far end vanished beneath the clothes at his breastbone; nearer the scythe, it still crossed the light coming from Belisane's chest.
+
 He wore gold as though there were no other metal. Golden cloth, golden rings, a narrow crown with no jewel to disturb it. He had not aged. Neither had she. The same spell had seen to both of them.
 
 He looked at the painted teeth beside her mouth.
@@ -380,11 +384,7 @@ Azravan lifted his right hand.
 
 The force struck the scythe first. The heel scraped a white furrow across the stones. Tereth fell to one knee but kept his grip; Belisane went sideways into the stall. The blade tilted. Gold climbed from her chest and pulled so hard that for an instant she saw her own body from above.
 
-She called herself inward again. The stones, the pressure of silk at her waist, the ache in her shoulder returned. Her loop drew close to her. Azravan's remained stretched across the square.
-
-There. For the length of a breath, they were separate.
-
-She could cut him free if she could draw his strand clear.
+She called herself inward again. The stones, the pressure of silk at her waist, the ache in her shoulder returned. Her loop drew close to her. The other remained taut between the blade and Azravan's chest, changing its angle with each step he took. She needed it clear of her own.
 
 Azravan came towards them, right hand rising again.
 
@@ -424,11 +424,13 @@ She shifted her grip above Tereth's hands.
 
 “Two.”
 
-The king turned. Azravan staggered against the weight of the canopy. His gold loop swung away from Belisane's, opening a dark space between them.
+The king turned his shoulder. The canopy bearers held their corners tight.
 
 “Three.”
 
-She held herself inward. All the strength with which she had once called unwilling souls back to waiting bodies she put into that one act. Her own loop folded against her chest. She could feel its passage into her, distinguish it from the crossing strand without looking.
+He pulled. Azravan staggered to Belisane's left, dragging the canopy with him. The gold from his chest swung left too, clear of the light leading into hers.
+
+Belisane held herself inward. Her own loop folded close against her chest, leaving his alone above the blade. She held that inward pull.
 
 She waited for the fourth step.
 
