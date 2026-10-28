@@ -420,7 +420,7 @@ Orienne pulled the crown sideways.
 
 Orienne brought the crown down over the iron spike of the map table.
 
-The first blow cracked the blue stone. Her mother caught her wrist. Orienne put all her weight against the circlet, driving it down the spike until the golden band tore in two. A piece of the clasp snapped free and hooked in her cuff.
+The first blow cracked the blue stone. Her mother caught her wrist. Orienne put all her weight against the circlet, driving it down the spike until the circlet tore in two. A piece of the clasp snapped free and hooked in her cuff.
 
 The crown came apart.
 
