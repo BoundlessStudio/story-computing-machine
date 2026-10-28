@@ -44,7 +44,7 @@ She meant to say yes, but opened her mouth on another laugh.
 
 “Follow the crown,” he called, pointing toward a great pennant stretched between two palace towers. A golden crown moved across its fabric, keeping ahead of the wind. Beneath it the cloth divided, letting the riders through one by one.
 
-Romy followed. At home, her right hand had begun to ache from gripping the windowsill. She let go. A few blue wings drifted against the glass; others made a shimmering edge along the floral cushions. The room smelled of the garden outside. The kingdom smelled of hot feathers. She wanted both, and the wanting was still simple, still hers.
+Romy followed. At home, her right hand had begun to ache from gripping the windowsill. She let go. A few blue wings drifted out through the open window; others made a shimmering edge along the floral cushions. The room smelled of the garden outside. The kingdom smelled of hot feathers. She wanted both, and the wanting was still simple, still hers.
 
 But when she tried to look down at her hand, a turning palace tower swept across the sight of it. She could not settle her attention long enough to count her fingers.
 
@@ -152,9 +152,9 @@ Romy looked at the book, the shelves, the familiar brown freckles on her wrist. 
 
 “But we'd be back to before.”
 
-“I can't take you back with this operation.”
+“I can't take you back with this operation. It won't run on two people.”
 
-The tower revolved slowly beside her. Romy in the sky was circling it. She could feel the attention required to stay clear of the stone, the tiny adjustments she was not making from the cushions. The thought of being whole had been so comforting. She had pictured all this wonder coming home with her, like a journey remembered. But someone was still taking the journey.
+In the sky, Romy was slowly circling the tower. From the cushions she could feel the attention required to stay clear of the stone, the tiny adjustments she was not making. The thought of being whole had been so comforting. She had pictured all this wonder coming home with her, like a journey remembered. But someone was still taking the journey.
 
 “I can land,” said the voice from the kingdom.
 
@@ -186,7 +186,11 @@ The blue square chimed softly.
 
 “Yes,” they said, and then laughed, a little awkwardly this time.
 
-“I can leave both sessions open while we investigate. Or we can pause them. I'll need an answer from each of you.”
+“I can leave both sessions running while we investigate, or pause them exactly here,” said the administrator. “In a pause, you wouldn't feel the time passing.”
+
+“What happens when the four hours are up?” asked Romy at home.
+
+“Your booking won't close either session while we work this out. I don't yet know how leaving will work for both of you.” The woman looked from one to the other. “For now, do you want the afternoons to continue? I'll need an answer from each of you.”
 
 Romy on the terrace looked up. The white current had begun to run behind the palace, lighting the towers from within. It would take her some time to fly across it. She did not know what would happen when she reached the far side.
 
