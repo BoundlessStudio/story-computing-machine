@@ -1,4 +1,4 @@
-# The Light at the Empty Stair — provisional outline
+# A Photograph Across Time — provisional outline
 
 ## Promised experience
 
@@ -6,7 +6,7 @@ The explicit pleasure is the impossible photographic access in “Every photogra
 
 ## Provisional direction
 
-Close third through **Brinna**, the photographer; **Tamsa** is her purple-haired historian friend. Both are adult field researchers. Their familiarity is lively rather than troubled: Brinna finds the angle and commits to the climb; Tamsa reads what the angle means and proposes the rescue route. The setting is the fictional sunlit coastal ruin of **Halcyra**, in an unspecified modern-looking era. The camera's temporal photographs are impossible according to everything the friends know; no familiar ambient magic explains them. Working title: **The Light at the Empty Stair**.
+Close third through **Brinna**, the photographer; **Tamsa** is her purple-haired historian friend. Both are adult field researchers. Their familiarity is lively rather than troubled: Brinna finds the angle and commits to the climb; Tamsa reads what the angle means and proposes the rescue route. The setting is the fictional sunlit coastal ruin of **Halcyra**, in an unspecified modern-looking era. The camera's temporal photographs are impossible according to everything the friends know; no familiar ambient magic explains them. Title selected by the user: **A Photograph Across Time**.
 
 The antique bellows camera uses self-developing cards, each resolving twenty seconds after exposure; the opening establishes that waiting rhythm. Each exposure shows its actual viewpoint exactly two thousand years earlier, with past time moving at the same rate as present time. It cannot be rewound, entered, or used to move objects. An unexpected second property emerges through evidence: opening its shutter makes a little ring of light visible at the corresponding past viewpoint. The living photographer supplies the effect through her hand on the camera; its origin remains unknown. These are chosen story rules, not prompt requirements. The story will establish reciprocal light without changing an already witnessed event or inventing a replacement timeline. The rescue and its short, established lamp-calls unfold over minutes, allowing that print cadence; they will not exchange implausibly fast sentences.
 

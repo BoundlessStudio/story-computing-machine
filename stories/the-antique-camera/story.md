@@ -1,5 +1,5 @@
 ---
-title: The Light at the Empty Stair
+title: A Photograph Across Time
 created: 2026-10-28
 canon: false
 ---
