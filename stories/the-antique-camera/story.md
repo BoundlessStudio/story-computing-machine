@@ -82,11 +82,9 @@ Tamsa sat down on the low wall.
 
 “Today,” she said. “Today's date.”
 
-Brinna looked at the numerals. She knew enough of the old script to recognize the year.
+Brinna bent to read the old numerals. “Can you place that year?”
 
-“But the year is three forty-one.”
-
-“And this is twenty-three forty-one,” Tamsa said. “Two thousand years.”
+“Two thousand years ago,” Tamsa said. “To the day.”
 
 The breeze lifted the corner of the print. Brinna put a finger on it. She could touch the clerk's torn line, but the surface was perfectly smooth.
 
@@ -198,17 +196,11 @@ She had not imagined it happening on a day with a quarrel over melons.
 
 When they returned to the stage, Brinna's first photograph found a crowd pushing through the far exit. In the second, a yellow sleeve appeared through a side doorway. The woman was lifting a child through a low window in the court beyond. Burning cloth had fallen across the passage between her and the escaping crowd.
 
-They hurried round to their awning. Brinna knelt to aim across the cleared footings.
+Back under the awning, Brinna aimed across the cleared footings. A kneeling shot gave her whitewashed plaster at arm's length. She raised the camera over her head and got roof tiles.
 
-The card showed a whitewashed wall at arm's length.
+“The storerooms,” Tamsa said, spreading the survey beside the picture of the woman at the window. “Our table's inside one.”
 
-She stood, lifted the camera above her head, and tried again.
-
-Roof tiles. One narrow ribbon of smoke.
-
-“The storerooms,” Tamsa said, spreading out the survey. “Our table's inside one. She's in the yard above and beyond them.”
-
-Brinna followed the drawn stair to its ancient upper mouth. Six metres above the excavation floor, it hung dark in a surviving wall. The yard that had once met its threshold had fallen away.
+The old yard had stood above the stores like a balcony. Now its floor was gone; six metres up, its stair entrance hung dark in the surviving wall. Brinna followed the drawn stair down to their excavators' break and on to the beach.
 
 “Can she get them through there?” Brinna asked.
 
@@ -216,15 +208,13 @@ Brinna followed the drawn stair to its ancient upper mouth. Six metres above the
 
 Brinna picked up the camera. “Then I'll try from the stair.”
 
-They went back along the cleared passage and through the excavators' break. Brinna aimed up the blocked flight. The photograph showed intact steps climbing away from her to a closed door, its surface lost in shadow.
+From the excavators' break, Brinna photographed the blocked upper flight. On the card, intact steps rose into shadow. Something shut off their upper end, but she could make nothing of its surface.
 
-She held the picture beside the heap of fallen stone. The camera had seen through the modern collapse, but it could not see through the ancient door.
+She held the picture beside the fallen stone. The camera saw past the modern collapse and stopped at that old obstruction.
 
 “We're inside her wall,” Tamsa said. “Below her floor.”
 
-Brinna looked up the ruined flight. There was nowhere to put a foot, and nothing firm enough to trust with her weight. Beyond its buried top, the old yard was empty air.
-
-She went outside and looked higher.
+The present flight offered nowhere firm to put a foot. Outside, Brinna looked higher.
 
 The old upper gallery ended above the corner of the court. Most of it was sound. Its final section had broken away, leaving an exposed strip along the wall, just wide enough for a boot.
 
@@ -282,7 +272,7 @@ Brinna gave two short openings, then the quick checking exposure. In that pictur
 
 Each pair of openings made Brinna's fingers warmer. On the second set, a gust lifted her hair across the finder. She tucked it behind her ear without moving her feet.
 
-Four commands brought Ivrin under the correct part of the wall. She stood with her hand against an unbroken sheet of plaster.
+Four commands brought Ivrin under the correct part of the wall. She stood with her hand against blank plaster.
 
 Brinna looked over the camera toward the modern opening. It was black and unmistakable, tall enough for a person to enter upright, stranded above the excavation.
 
@@ -306,7 +296,7 @@ Tamsa lifted the new card almost to her glasses.
 
 “There.”
 
-Beside Ivrin's shoulder, a faint rectangle showed through the plaster. At its foot was a mason's mark: three short cuts and one long cut, stepped like a little flight of stairs.
+Beside Ivrin's shoulder, hairline cracks in the plaster traced a narrow rectangle. A chip at one lower corner exposed a mason's mark cut into the stone: three short cuts and one long cut, stepped like a little flight of stairs.
 
 “The lintel's still there,” Tamsa said. “That facing doesn't carry the wall. Our opening is wider because the jamb fell later. She needs to go right a pace.”
 
