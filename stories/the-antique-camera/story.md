@@ -4,9 +4,11 @@ created: 2026-10-28
 canon: false
 ---
 
-By noon, Tamsa had acquired a sunburn in the shape of her necklace and an opinion about every stone in the theatre.
+By noon, Tamsa had acquired a sunburn around her necklace and an opinion about every stone in the theatre.
 
-“Except that one,” she said.
+“Is there anything left you haven't explained?” Brinna asked.
+
+“That one.”
 
 Brinna lowered her camera. On the lintel above the beach stair, someone had scratched a crooked bird beside two circles. The outer circle broke off where the stone had flaked. Below them, the excavated steps dropped through the theatre's foundations, turned once in the cool, and came out above a strip of white beach.
 
@@ -82,9 +84,9 @@ Tamsa sat down on the low wall.
 
 Brinna looked at the numerals. She knew enough of the old script to recognize the year.
 
-“With two numbers missing.”
+“But the year is three forty-one.”
 
-“With two thousand years missing.”
+“And this is twenty-three forty-one,” Tamsa said. “Two thousand years.”
 
 The breeze lifted the corner of the print. Brinna put a finger on it. She could touch the clerk's torn line, but the surface was perfectly smooth.
 
@@ -160,15 +162,15 @@ Tamsa nodded.
 
 Brinna held it for a count of one. Her palm warmed. The card emerged, white as ever.
 
-They waited.
+They waited. The picture caught the woman turning toward the light. Brinna took a quick checking photograph, a fleck of exposure far shorter than the deliberate signal.
 
-The woman had lifted her board above her head. Her other arm was bent, palm forward: acknowledgment. The gesture was on the tile too.
+Twenty seconds later, the woman had lifted her board above her head. Her other arm was bent, palm forward: acknowledgment. The gesture was on the tile too.
 
 Brinna's knees gave a small, absurd tremble. She had an impulse to wave with both hands.
 
 “She can't see us,” Tamsa said softly. “Only the light.”
 
-They tried the long call. On the next card the woman had set down her board and was standing extravagantly still, arms folded, eyebrows raised. Beside her, a small boy copied her pose.
+They tried the long call. Its picture blurred the woman's movement; the checking photograph afterward showed her standing extravagantly still, board at her feet, arms folded, eyebrows raised. Beside her, a small boy copied her pose.
 
 Brinna laughed into her hand.
 
@@ -192,7 +194,7 @@ Brinna had spent three days putting a scale beside its black edges. Nobody knew 
 
 She had not imagined it happening on a day with a quarrel over melons.
 
-When they returned to the stage, the woman in yellow was gone. Brinna's first photograph found a crowd pushing through the far exit. Her second found the woman in the service court behind the stage, lifting children through a low window. A paper bird protruded above them, its wing folded against the wall.
+When they returned to the stage, Brinna's first photograph found a crowd pushing through the far exit. In the second, a yellow sleeve appeared through a side doorway. The woman was lifting a child through a low window in the court beyond. Burning cloth had fallen across the passage between her and the escaping crowd.
 
 They hurried round to their awning. Brinna knelt to aim across the empty modern court.
 
@@ -248,7 +250,7 @@ The card slid into Tamsa's waiting hand. Brinna could see the present court perf
 
 Tamsa held up the print.
 
-There were fourteen people in it. Brinna counted again. A man held a child on each hip; an older woman leaned against him. The yellow-sleeved woman stood on a box beneath the gallery, waving her board toward the open sky. She had written a name below the drawn circle.
+There were fourteen people in it. Brinna counted again. A man held a child on each hip; an older woman leaned against him. Fallen, burning beams blocked the court's street gate. The yellow-sleeved woman stood on a box beneath the gallery. She had written a name below the drawn circle on her board and was pointing to herself.
 
 “Ivrin,” Tamsa read.
 
@@ -256,13 +258,13 @@ Brinna's next breath hurt a little.
 
 “Tell Ivrin to attend.”
 
-One short opening. One new card. Twenty seconds.
+One short opening. A few beats for Ivrin to respond, then a quick checking exposure. They waited twenty seconds for that picture.
 
 Ivrin was looking directly upward now. Her raised palm appeared pale against the darkening yard.
 
 “The entrance is on her left,” Tamsa said. “Six paces, perhaps. We do one at a time.”
 
-Brinna gave two short openings, with a beat between them. Two cards came out. Tamsa tucked the first into her notebook and watched the second develop.
+Brinna gave two short openings, with a beat between them. Two cards came out. She waited a few beats and took the checking photograph. Tamsa tucked the signal pictures into her notebook and watched the third develop.
 
 “She's moved. Again.”
 
@@ -278,9 +280,9 @@ Brinna looked over the camera into the modern yard. The stair's opening was blac
 
 In the photograph, Ivrin had turned both palms upward. Behind her, people were carrying the older woman away from the window. A burning strip of roof cloth had fallen into the court. The great paper bird lay across it, a yellow wing crushing flame beneath its ribs.
 
-“Give me the lens,” Tamsa said.
+“Give me the glass,” Tamsa said.
 
-Brinna reached back for the magnifying glass, realized what she meant, and held the print flat against the camera body. Tamsa bent over it.
+Brinna passed back the magnifying glass, then held the print flat against the camera body. Tamsa bent over it.
 
 “Higher. There's something beside her head.”
 
@@ -296,9 +298,9 @@ Beside Ivrin's shoulder, a faint rectangle showed through the plaster. At its fo
 
 “The lintel's still there,” Tamsa said. “That facing doesn't carry the wall. Our opening is wider because the jamb fell later. She needs to go right a pace.”
 
-Short, long. Two cards. Their white faces slid past Brinna's wrist.
+Short, long. Two signal pictures, then the quick exposure that would tell them what she had done. The white cards slid past Brinna's wrist.
 
-The second showed Ivrin standing in front of the rectangle. Her arm was raised, awaiting the next call.
+The checking picture showed Ivrin standing in front of the rectangle. Her arm was raised, awaiting the next call.
 
 Two longs meant strike.
 
@@ -310,9 +312,9 @@ Tamsa caught the back of her belt.
 
 Brinna pressed her heel down. Stone held beneath it. The present sea shone, the present sky stayed blue, and somewhere a sail snapped sharply in the wind.
 
-Nothing in the first card had moved enough to be certain.
+Nothing in the signal pictures had moved enough to be certain. Brinna took another quick exposure.
 
-In the second, Ivrin held her empty hands toward the light.
+When it cleared, Ivrin was holding her empty hands toward the light.
 
 “She hasn't got anything,” Brinna said.
 
@@ -320,7 +322,7 @@ Tamsa looked at the print, then looked into the actual court.
 
 “The bird.”
 
-Ivrin had already turned. On the next exposure she was pulling a wooden crossbar out of the collapsed frame. Brinna watched the card take colour beneath Tamsa's fingers. The woman came back to the wall with the bar raised above her head.
+Ivrin had already turned. On the next exposure she was pulling a wooden crossbar out of the collapsed frame. Brinna watched the card take colour beneath Tamsa's fingers. Another picture found the woman back at the wall with the bar raised above her head.
 
 They did not send another command.
 
@@ -342,7 +344,7 @@ In the next photograph Ivrin was at the far window. A hand reached through from 
 
 Ivrin took the baby to the man by the opening. The boy scrambled after them. In the card that followed, she had the older woman's arm round her shoulders and was guiding her through the break in the wall.
 
-Brinna widened the composition again. Smoke filled the top half. Below it, a small boy and another child were dragging the yellow bird toward the stair, beak first.
+Brinna widened the composition again. Smoke filled the top half. Below it, two children were freeing a folded wing from the bird's broken frame. A third had taken its hollow paper head. They carried the pieces into the stair.
 
 When the last card cleared, the yard was empty.
 
@@ -366,9 +368,9 @@ Tamsa touched the signal photograph.
 
 “Ask her to wait.”
 
-Brinna gave one long opening. They watched the blank card on Tamsa's knee.
+Brinna gave one long opening, then took a quick picture of the response. They watched it clear on Tamsa's knee.
 
-Ivrin's palm rose in acknowledgment. Then she sat on the lowest step, feet planted wide, hands on her knees: the same extravagant patience she had shown them beneath the painted roof.
+Ivrin sat on the lowest step, feet planted wide, one palm raised in acknowledgment, the other on her knee: the same extravagant patience she had shown them beneath the painted roof.
 
 Brinna started to laugh. It came out in two uneven pieces.
 
@@ -396,15 +398,17 @@ Brinna took the last position she wanted, several paces below the stair, low eno
 
 “I can't tell her where to stand,” she said.
 
-Tamsa crouched beside her. Her shoulder pressed against Brinna's, steadying the camera.
-
 “Let's see where she is.”
 
-Brinna opened the shutter.
+Brinna gave the short call. Its picture caught Ivrin turning toward this new light, one hand rising to her face.
+
+Tamsa crouched beside Brinna. Her shoulder pressed against hers, steadying the camera.
+
+Brinna opened the shutter again.
 
 They waited together on the hot stone. There was salt on Brinna's lips. A strand of Tamsa's purple hair tickled her cheek, and she left it there.
 
-The picture darkened from its edges. Under the intact lintel, the paper bird spread a vast yellow wing. The children had gathered beneath it with the baby in its scrap of painted night. Behind them, smoke hid the top of the theatre; a silver star, still attached to a length of blue cloth, hung from the wall.
+The picture darkened from its edges. Under the intact lintel, the children had raised the salvaged yellow wing above their heads. They gathered beneath it with the baby in its scrap of painted night. Behind them, smoke hid the top of the theatre; a silver star, still attached to a length of blue cloth, hung from the wall.
 
 Ivrin stood a little apart. She had pushed her hair off her face and set the broken crossbar down beside her. One hand rested on the shoulder of the older woman. The other shaded her eyes.
 
