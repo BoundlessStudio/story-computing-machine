@@ -1,0 +1,9 @@
+# Editorial memory
+
+## 2026-10-28 — Independent request readings
+
+Codex promise keeper, before any plot or editorial framing: “The distinctive attraction is having freedom of movement become a terrible responsibility: the one ship that can travel must choose what travels, where, and when.” Explicit: three centuries of wind-borne trade, a calm, one experimental vessel, one cargo at a time, competing city demands. Inferred: materially different needs, persuasive conflicting claims, consequential prioritization and ingenuity. The image suggests maritime grandeur and a commanding silver-braided woman in blue and gold, without specifying her role. No personal relationship, cause, solution, or return of the winds is required. Protect the cargo dilemma from an immediate bypass.
+
+Original image inspected by coordinator and keeper; preserved under its supplied display filename. New story, canon false; no shared facts added. Claude subscription authentication confirmed as claude.ai, active pro subscription, with inherited API key removed from its subprocess environment.
+
+Claude request-only reader: “Triage under scarcity. The story should be a run of hard, consequential choices about who gets served first.” Explicit requirements match the keeper's account. Inferred pleasures: the contrast between the small crew and the vast stranded network, bargaining and pressure, consequential priority choices, perhaps an earned reframing. Claude's preference for claims that are “all legitimate” is an inference, not a requirement. No personal relationship, cause, engine design, or ending is specified. The image supplies heroic maritime fantasy; its wind and lightning need not depict the calm literally. Session 99f1baa9-6089-416d-8c86-dfc6bac4f3d2 inspected only its copied original before receiving a plot.
