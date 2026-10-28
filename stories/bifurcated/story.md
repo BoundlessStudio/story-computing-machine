@@ -8,11 +8,11 @@ Romy had reached the part where the baroness's third husband came back from the 
 
 It went gently, without pain. A blue butterfly lifted from the ivory lace at her neckline. Another opened where the curve of her shoulder should have been, and then a hundred more, until the afternoon shone through her.
 
-Her cheek still rested on her right fist. The skin beneath her knuckles was warm, a strand of her long brown hair caught between them. Across the room, sunlight lay on the bookshelves in long, dusty rectangles. She had chosen this afternoon from the Oasis catalogue because it promised four hours in which nobody would need anything from her. The room had come with floral cushions, an openable window, and every book she had ever abandoned halfway through. It had not come with butterflies.
+She sat in the cushioned window seat, her cheek still on her right fist, her elbow braced on the sill. The skin beneath her knuckles was warm, a strand of her long brown hair caught between them. Across the room, sunlight lay on the bookshelves in long, dusty rectangles. She had chosen this afternoon from the Oasis catalogue because it promised four hours in which nobody would need anything from her. The room had come with floral cushions, an openable window, and every book she had ever abandoned halfway through. It had not come with butterflies.
 
 The book slipped. She caught it against her knees and caught a stone railing, cold beneath her palm. Both touches were complete.
 
-She was seated. She was standing. Her bare right foot pressed into the rug while both soles rested on rough stone. Beyond the railing a city fell away in roofs of green copper, each roof carrying a little lick of silver fire. Farther out, a palace stood on an island of cloud. Its towers rose into a sky crossed by broad, luminous currents, blue and violet and a white so rich it seemed to have weight. On the cushions, the broken edge of her face became wings.
+She was seated. She was standing. Her bare feet pressed into the rug and rested just as solidly on rough terrace stone. Beyond the railing a city fell away in roofs of green copper, each roof carrying a little lick of silver fire. Farther out, a palace stood on an island of cloud. Its towers rose into a sky crossed by broad, luminous currents, blue and violet and a white so rich it seemed to have weight. On the cushions, the broken edge of her face became wings.
 
 She laid the book across her knees and shut her eyes. The room and the kingdom went dark together. The cushion still cupped her thighs. High air still lifted her hair. She could smell old paper and something like cloves burning far below. When she opened her eyes, the palace was still there.
 
@@ -134,9 +134,9 @@ For a moment the only sound in the room was a butterfly touching the window. Ove
 
 “I did.”
 
-Two answers, close enough to overlap. The Romy on the cushions had wanted the room to stop slipping out of reach. The Romy beneath the palace had wanted to see it without a window and bookshelves covering every tower. Neither had asked to disappear.
+Two answers, close enough to overlap. The Romy on the cushions had wanted the room to stop slipping out of reach. The Romy beneath the palace had wanted to see it without a window and bookshelves covering every tower.
 
-The administrator took her hand away from the controls. In the room, Romy lifted her right palm. A red mark crossed it where she had hit the sill. Above the kingdom, she felt the sting and flexed a hand that was only sometimes a hand.
+The administrator took her hand away from the controls. In the room, Romy lifted her right palm. A red mark crossed it where she had hit the sill; blue wings still shifted along her left shoulder. Above the kingdom, inside her drift of butterflies, she felt the sting and flexed a hand that was only sometimes a hand.
 
 “Which one is the extra?” asked Romy on the cushions.
 
@@ -148,11 +148,11 @@ Romy looked at the book, the shelves, the familiar brown freckles on her wrist. 
 
 “If you'd done it,” said Romy in the room, “would I have remembered choosing that turn?”
 
-“The reintegration we prepared assumes there's one person receiving two sets of sensations. It puts them back into one sequence.” The administrator glanced at the white panel. “It can't do that with two people making decisions.”
+“No. You felt the turn, but she chose it.” The administrator glanced at the white panel. “What I was preparing only works when both experiences belong to the same person.”
 
 “But we'd be back to before.”
 
-“That isn't what this operation does.”
+“I can't take you back with this operation.”
 
 The tower revolved slowly beside her. Romy in the sky was circling it. She could feel the attention required to stay clear of the stone, the tiny adjustments she was not making from the cushions. The thought of being whole had been so comforting. She had pictured all this wonder coming home with her, like a journey remembered. But someone was still taking the journey.
 
@@ -168,7 +168,7 @@ The Romy on the terrace turned her face to the sky. A long procession of mounts 
 
 “You wanted to come down.”
 
-“I know.”
+“I know,” said Romy at home.
 
 “I didn't.”
 
@@ -178,7 +178,7 @@ At the terrace's edge a loose butterfly rose, dipped, and returned to the shape 
 
 “Not straight away,” said Romy on the terrace.
 
-She sat on the railing instead. For a moment the home-Romy felt the alarming absence of anything behind her knees; then the balance settled. The sky-Romy wanted to watch the last of the riders pass. The one in the yellow coat lifted two fingers in greeting. In the room, Romy found that she was smiling.
+She sat on the railing instead. For a moment Romy at home felt the alarming absence of anything behind her knees; then the balance settled. On the terrace, she wanted to watch the last of the riders pass. The one in the yellow coat lifted two fingers in greeting. In the room, Romy found that she was smiling.
 
 The blue square chimed softly.
 
@@ -206,13 +206,13 @@ At the railing, she stood. The rider in yellow had turned away from the palace t
 
 The page brightened as blue light moved across it. Romy in the room found the paragraph. The baroness's husband had removed his hat. He had been holding something beneath it all this time. She read the next line.
 
-“Wait,” said Romy in the sky.
+“Wait,” said Romy in the sky. “I can't read while I'm turning.”
 
 The butterfly-shape was turning, pulling itself narrow to pass between two riders. Over the printed words, Romy felt the wind change and the hot brush of feathers.
 
-She kept her eyes on the line. The surprise was there already, delicious and quite unfair to know alone.
+At home, she kept her eyes on the line. The surprise was there already, delicious and quite unfair to know alone.
 
-“Are you through?”
+“Are you through the pennant?”
 
 “Almost.”
 
