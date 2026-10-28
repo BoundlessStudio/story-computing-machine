@@ -56,7 +56,7 @@ Royal light was easy to persuade into steps. Orienne had learned that at eleven,
 
 This time the stair went up until the city became a jeweled clasp beneath her.
 
-The old chart showed a narrow line between the observatory and a mark on the moon. She had thought it might be a surveyor's measurement. Then she unfolded it on the observatory roof and saw that the line was labeled *door*.
+The old chart showed a narrow line between the observatory and a mark on the moon. She had thought it might be a surveyor's measurement. The stone arches above the observatory's great telescope were lashed together with royal light. She had unfolded the chart beneath them and seen that the line was labeled *door*.
 
 The light had answered her hand.
 
@@ -318,7 +318,7 @@ He gathered the smaller children first. An older girl stayed to collect the shee
 
 The girl let it go. White pages skated across the terrace.
 
-In the adjoining bell house, a ringer had his hand on the festival rope. Orienne pointed at the other one, unused so long that a spider had joined it to the wall.
+She crossed a short eastern roof walk to the bell tower. Inside, a ringer had his hand on the festival rope. Orienne pointed at the other one, unused so long that a spider had joined it to the wall.
 
 “The warning bell. Tell them to get off the bridges. Under stone, away from the towers.”
 
@@ -328,13 +328,15 @@ She gripped the crown until its points hurt her palms.
 
 “The moon is going to set.”
 
-He stared at her.
+He stared at her. Through the doorway, she could see the last choir children hurrying under a stone arch. The people on the northern stair had been standing on stone, too. She had told them where to go as if she knew a safe place.
 
-She had nothing else to tell him. After a moment he took the rope.
+“Ring it, then get down,” she said. “Don't wait for me.”
+
+After a moment he took the rope.
 
 The bell's first stroke made people stop dancing. By the third, the square was emptying. Old instructions outlived their reasons; mothers hauled children toward doorways, and the pastry seller dropped his cup and ran.
 
-Orienne climbed to the open platform above the great telescope. Her map table stood where she had left it, its iron spike piercing a small brass globe. She laid the chart beneath the spike. Snow had melted across the western corner.
+Orienne crossed back to the observatory and climbed to the open platform above the great telescope. Her map table stood where she had left it, its iron spike piercing a small brass globe. She laid the chart beneath the spike. Snow had melted across the western corner.
 
 The crown's join was almost invisible. She put her thumbnail into it.
 
@@ -416,7 +418,7 @@ Orienne pulled the crown sideways.
 
 She brought it down over the iron spike of the map table.
 
-The first blow cracked the blue stone. Her mother caught her wrist. Orienne put all her weight against the circlet, driving it down the spike until the gold tore at the join.
+The first blow cracked the blue stone. Her mother caught her wrist. Orienne put all her weight against the circlet, driving it down the spike until the gold tore at the join. A piece of the clasp snapped free and hooked in her cuff.
 
 The crown broke open.
 
@@ -520,7 +522,7 @@ Orienne looked from the retreating moon to the sun. Between them lay a sky too l
 
 “Yes.”
 
-The queen said nothing more. She took off the crown's empty clasp, which had caught in Orienne's cuff, and held it in her palm.
+The queen said nothing more. She eased the broken clasp out of Orienne's cuff and held it in her palm.
 
 On the snow at their feet, two shadows reached across the courtyard.
 
