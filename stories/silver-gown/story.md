@@ -40,7 +40,7 @@ It was not a gesture of greeting. Her palm was uppermost, the fingers slightly c
 
 The staircase rose behind her. Its rail was within reach. Cale looked from it to the waiting hand, then tucked the glove into his pocket and put his hand in hers.
 
-Her fingers were cold. He had expected them to feel warm against his own, but he felt each one distinctly, a separate pressure. The grip was firmer than he had expected.
+Her fingers were colder than his own. He felt each one distinctly, a separate pressure. The grip was firmer than he had expected.
 
 “This way.”
 
@@ -58,7 +58,7 @@ The room stood open at the far end of the landing. He felt its warmth before he 
 
 “Oh,” he said, and could not immediately think of anything else to say.
 
-There was a bed with a high wooden footboard, a chair beside the hearth, and a tall window whose small panes shivered under the rain. An ornate mirror hung above a narrow chest. Much of its silvering had darkened around the edges. In the sound middle of it, he saw the open door and the landing beyond.
+There was a bed with a high wooden footboard, a chair beside the hearth, and a tall window whose small panes shivered under the rain. An ornate mirror hung above a narrow chest. Much of its silvering had darkened around the edges. In its clear centre, he saw the open door and the landing beyond.
 
 “Put your coat by the fire,” she said.
 
@@ -124,7 +124,7 @@ No answer came.
 
 He did not wish to knock at doors. Back in the room, he took out his purse and found the split shilling. She had refused it, but he could not bring himself to leave a stranger to bear the cost of his bed and fuel.
 
-He laid it on the hearth, just outside the fender, where she would see it when she came to tend the fire. The king's head lay uppermost, the little split toward him. He drew his purse shut and put it in his inner pocket.
+He laid it face upward on the hearth, just outside the fender, where she would see it when she came to tend the fire. He drew his purse shut and put it in his inner pocket.
 
 At the foot of the stairs he called his thanks again. Then he lifted the latch and went out.
 
@@ -196,7 +196,7 @@ Cale felt again the sudden pressure of the cold fingers. He saw the front door f
 
 “I don't know what they proved. That was what Mother saw. She never went back to the house.”
 
-He looked down at his coat, hanging from a peg beside the table. Last night it had dripped on the stairs. It was dry. He had slept deeply enough that his neck was stiff from lying in one position. Under the eggs and tea he could still taste the smoke from the first bright crackling of the fire.
+His neck was stiff from sleeping in one position. Under the eggs and tea he could still taste the smoke of the newly lit fire.
 
 The landlady watched him without offering another explanation.
 
@@ -206,7 +206,7 @@ Beyond her shoulder, the boy came through with a basket of bread. He caught his 
 
 He took out his purse. The cord was drawn tight; he had to pick it loose with his nail. He tipped the money into his right palm.
 
-The coppers were cold. Something among them stung him.
+The coppers were cold. One coin was too hot to hold.
 
 He let the coins fall. They struck the cloth, the edge of his plate, the saucer. A shilling spun against his teaspoon and lay still, its split rim beside the king's head.
 
