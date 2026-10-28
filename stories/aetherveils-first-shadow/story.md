@@ -56,7 +56,7 @@ Royal light was easy to persuade into steps. Orienne had learned that at eleven,
 
 This time the stair went up until the city became a jeweled clasp beneath her.
 
-The old chart showed a narrow line between the observatory and a mark on the moon. She had thought it might be a surveyor's measurement. The stone arches above the observatory's great telescope were lashed together with royal light. She had unfolded the chart beneath them and seen that the line was labeled *door*.
+The old chart showed a narrow line between the observatory and a mark on the moon. She had thought it might be a surveyor's measurement. At the observatory's map table, beside a little brass globe on an iron spike, she had unfolded it beneath stone arches lashed together with royal light. There she had seen that the line was labeled *door*.
 
 The light had answered her hand.
 
@@ -412,15 +412,17 @@ She could close it. Her mother would take the crown. They would go down into the
 
 The Dayfarer's free hand moved across the roofs. He turned it palm upward beneath the darkness, trying to lift the thing away from the people below. The band at his throat tightened. His hand fell.
 
+The clasp had opened the sky, but the bands still held him. The gold was drawing his light down into the blue stone. She would break the circle itself.
+
 Orienne pulled the crown sideways.
 
 “No,” her mother said.
 
-She brought it down over the iron spike of the map table.
+Orienne brought the crown down over the iron spike of the map table.
 
-The first blow cracked the blue stone. Her mother caught her wrist. Orienne put all her weight against the circlet, driving it down the spike until the gold tore at the join. A piece of the clasp snapped free and hooked in her cuff.
+The first blow cracked the blue stone. Her mother caught her wrist. Orienne put all her weight against the circlet, driving it down the spike until the golden band tore in two. A piece of the clasp snapped free and hooked in her cuff.
 
-The crown broke open.
+The crown came apart.
 
 ***
 
@@ -430,7 +432,7 @@ For one heartbeat Orienne could see nothing. Her mother's fingers were still on 
 
 Then the light rose.
 
-It streamed out of the broken crown, out of the seven towers, out of the golden birds and jeweled windows and doorway lamps. The bands tore free of the spires and whipped upward. Light poured into the Dayfarer's skin, filling the faded spaces between his stars.
+It streamed out of the broken crown, out of the seven towers, out of the golden birds and jeweled windows and doorway lamps. The bands tore free of the spires and whipped upward. Light poured into the Dayfarer's skin. The stars along his arms flared, but many of the faded points in his chest stayed gray.
 
 He pulled his trapped hand out of the Hollow Star.
 
@@ -502,7 +504,7 @@ Then he went on.
 
 It took them a long time to get down.
 
-The stairs ended two floors above the courtyard. They had to climb out through a window and cross a sloping roof, the queen in Orienne's boots and Orienne in her stockings. A cook and two guards had made a bridge of a fallen door. They pulled them through the last gap without bowing.
+The stairs ended two floors above the courtyard. Orienne gave her boots to her mother before they climbed out through a window and crossed a sloping roof. She went in her stockings. A cook and two guards had made a bridge of a fallen door. They pulled them through the last gap without bowing.
 
 Below, people were calling names. Some called Orienne's. She could not tell, in the confusion, what they wanted of her.
 
