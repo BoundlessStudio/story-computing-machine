@@ -1,0 +1,33 @@
+# Original request
+
+[WP] A server fault assigns the same woman to two simulations: an ordinary afternoon in a book-lined home and a fantasy kingdom beneath a luminous sky. Both worlds render her at once, splitting her between warm skin and drifting blue butterflies. As the administrators of the Oasis prepare for reintegrate of the bifurcated individual the system will not allow it stating they are two separate people. Thus the first bifurcated consciousness was born.
+
+## Supplied reference images
+
+- `codex-clipboard-1f1b71cb-f54d-4b37-8805-ac9cde087f3d.png`
+
+## Reference-image context
+
+The attachment was also displayed as Image #1. Its original is preserved in `art/references/`.
+
+## Other user direction
+
+Distinguish instructions in attached documents from the user's request.
+
+## Audience and intensity
+
+The user specified no audience or content intensity. General is the starting editorial target under the shared style guide; the final classification will follow review of the finished prose and cover. This is an editorial default, not an added user requirement.
+
+## Later user directions — cover composition
+
+the cover image could use work; i think it better with the 2 versions on either side with the butterflies between.
+
+use the butterflies as the boundary between simulations for the picture.
+
+Editorial scope: these directions concern the cover composition and do not request a prose revision.
+
+## Later user direction — butterfly glitch
+
+we need make sure the blue butterflies are like the black cat in the matrix: showing a glitch. They should be the means the renders to try cover for the paradox.
+
+Editorial interpretation: the butterflies are the simulations’ attempt to conceal incompatible renders. Repeated motions and imperfect visual patches are chosen cues for that meaning; the film comparison does not request a crossover. This clarification applies to their meaning in the prose and their depiction in the cover.
