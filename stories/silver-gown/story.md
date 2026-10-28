@@ -8,7 +8,7 @@ By the time he reached the gate, Cale had stopped feeling the water inside his b
 
 The man who had shown him the hill road had said four miles to the village. Cale had asked whether there was an inn, whether the morning coach stopped there, and what he should expect to pay. He had not asked about shelter between the crossroads and the village. It had been a fine afternoon.
 
-Now the road was disappearing beneath his feet. Each flash showed him a little more of it, white stones running into a blackness that swung sideways with the rain. He had walked for some time with one hand against the wall, feeling his way. When the wall gave way to iron bars, he nearly fell through them.
+Now the road was disappearing beneath his feet. Each flash showed him a little more of it, white stones running into a blackness that swung sideways with the rain. He had walked for some time with one hand against the wall, feeling his way. When the wall gave way to iron bars, his hand slipped between them, and he stumbled.
 
 There was a light above him.
 
