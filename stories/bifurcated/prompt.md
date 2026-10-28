@@ -25,3 +25,9 @@ the cover image could use work; i think it better with the 2 versions on either 
 use the butterflies as the boundary between simulations for the picture.
 
 Editorial scope: these directions concern the cover composition and do not request a prose revision.
+
+## Later user direction — butterfly glitch
+
+we need make sure the blue butterflies are like the black cat in the matrix: showing a glitch. They should be the means the renders to try cover for the paradox.
+
+Editorial interpretation: the butterflies are the simulations’ attempt to conceal incompatible renders. Repeated motions and imperfect visual patches are chosen cues for that meaning; the film comparison does not request a crossover. This clarification applies to their meaning in the prose and their depiction in the cover.

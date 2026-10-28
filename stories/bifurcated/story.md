@@ -20,13 +20,13 @@ She laid the book across her knees and shut her eyes. The room and the kingdom w
 
 She had visited beautiful places in the Oasis. Usually she knew where to put her attention. Here the brass window catch and the distant palace occupied the same unmeasurable distance from her. She could see each clearly, but could not make them agree about where she was.
 
-A butterfly settled on the page beside the resurrected husband. She felt its feet touch the paper.
+A butterfly settled on the page beside the resurrected husband. She felt its feet touch the paper. Beneath it, a word briefly acquired the grain of terrace stone. Blue wings opened over the mismatch. Then the butterfly landed again, on the same word, with the same precise tilt.
 
 Romy laughed, then stopped laughing long enough to look at the place where her shoulder should have been. She could feel that too: a soft disturbance in the air, no wound, no waiting pain. She tried lifting her missing arm. Blue wings rose around the window, and on the terrace they made a sleeve through which the sky showed. She wanted to see what would happen outside.
 
 With her solid hand she opened the window. At the railing she leaned forward. The height tightened her belly; the cushion under her made her absurdly brave. She could stay exactly where she was and go.
 
-The first step was a stumble into empty air. Then she discovered how much of her had been holding itself together out of habit. Her legs loosened into a drift of blue. Her hair streamed apart in fine, bright threads. She spread without falling, a long shape of wings with the suggestion of a woman inside it.
+The first step was a stumble into empty air. The outline of her legs jumped back to the terrace, then forward beneath her. Butterflies filled the gap, the same few blue shapes repeating until the broken outline was hidden. Her hair streamed apart in fine, bright threads. She spread without falling, a long shape of wings with the suggestion of a woman inside it.
 
 Below her, the city spread too. Tiny people crossed bridges between roofs. Someone shook a red tablecloth out of an upper window. The silver fires bent in the wind, pointing toward the palace. The bells she had heard from the terrace acquired separate notes as she passed them, one harsh and close, another so deep she felt it through the cushion against her back. She laughed again, helplessly.
 
@@ -75,6 +75,14 @@ There was a pause.
 “To which place?” Romy asked. “Which one am I supposed to be in?”
 
 “Your room,” the woman said. “That's the afternoon you booked. The kingdom was queued for somebody else. Both simulations are rendering you from the same session.”
+
+“The butterflies weren't in the room,” Romy said.
+
+“They aren't part of either place. Both renders are painting them over the places they can't make agree.”
+
+“To repair it?”
+
+“To make the picture hold together while the fault is still there.”
 
 Romy tried to imagine the stranger who was supposed to be here, whoever had chosen bells and bronze feathers. She hoped they had not got a dull error message instead.
 
@@ -220,6 +228,6 @@ At home, she kept her eyes on the line. The surprise was there already, deliciou
 
 “Almost.”
 
-The golden crown raced along the pennant. Blue wings streamed under it, while at home a loose butterfly rose from the window and settled on Romy's wrist.
+The golden crown raced along the pennant. Blue wings streamed under it, while at home a loose butterfly rose from the window and settled on Romy's wrist. It settled twice, the same small movement laid over itself.
 
 Romy held the page.
