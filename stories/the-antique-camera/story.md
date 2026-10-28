@@ -216,7 +216,7 @@ Brinna followed the drawn stair to its ancient upper mouth. Six metres above the
 
 Brinna picked up the camera. “Then I'll try from the stair.”
 
-They went back along the cleared passage and through the excavators' break. Brinna aimed up the blocked flight. The photograph showed intact steps climbing away from her, with a pale, unbroken rectangle closing their upper end.
+They went back along the cleared passage and through the excavators' break. Brinna aimed up the blocked flight. The photograph showed intact steps climbing away from her to a closed door, its surface lost in shadow.
 
 She held the picture beside the heap of fallen stone. The camera had seen through the modern collapse, but it could not see through the ancient door.
 
