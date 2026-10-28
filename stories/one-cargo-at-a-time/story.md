@@ -532,7 +532,11 @@ The quartermaster waited beside the gangway.
 
 “Asterfall's asking for you. Saw it from the tower.”
 
-Ruzha looked at the casks. She could take this food directly to Kersey tonight; another serum chest meant returning to the Spindle first. She had no fresh count from Asterfall's wards.
+“Did they send a new ward count?”
+
+“No. Another urgent request for serum.”
+
+Ruzha looked at the casks. She could take this food directly to Kersey tonight; another serum chest meant returning to the Spindle first.
 
 “Send them our course,” she said. “I'm taking this to Kersey. Tell them their next chest waits for that run.”
 
