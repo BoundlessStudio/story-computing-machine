@@ -6,6 +6,8 @@
 
 - `codex-clipboard-1f1b71cb-f54d-4b37-8805-ac9cde087f3d.png`
 
+## Reference-image context
+
 The attachment was also displayed as Image #1. Its original is preserved in `art/references/`.
 
 ## Other user direction
