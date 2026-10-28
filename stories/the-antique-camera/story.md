@@ -20,7 +20,7 @@ Tamsa wrote *bird, concentric rings; later graffito?* in her notebook. Her purpl
 
 Brinna took the photograph. Beyond the ancient lintel, modern sailboats leaned out across the blue bay. By evening the new survey of Halcyra would have a record of every exposed surface in the theatre, including the unhelpful bird.
 
-They climbed the builders' stair to the service court behind the stage. Its upper entrance, recently cleared, was a tall slit through an immensely thick wall. Excavation tags fluttered beside the missing door. A narrow trench led from it through fallen masonry to the awning, where their table stood among cleared storeroom footings. The rest of the old yard lay buried under blocks nearly to the gallery above. On the table were pottery trays, survey drawings, lunch, and the little black bellows camera Brinna had bought from an antiques stall.
+They climbed the lower flight of the builders' stair and left it through an excavators' break at the turn. Above them, the upper flight vanished into fallen masonry. A tagged jamb stone lay beside the break. Outside, a cleared passage followed the foundation wall round a corner to the awning, where their table stood among storeroom footings. On it were pottery trays, survey drawings, lunch, and the little black bellows camera Brinna had bought from an antiques stall.
 
 Tamsa rescued her pencil and indicated a painted tile in one of the trays.
 
@@ -28,7 +28,7 @@ Tamsa rescued her pencil and indicated a painted tile in one of the trays.
 
 The tile carried six arrangements of dots and strokes, each beside a tiny figure and a brief caption. Some figures stood with their arms spread; one held a mallet. A border of birds ran round the surviving edges.
 
-“Six lamp calls,” Tamsa said. “The words are clear. Their purpose isn't. The catalogue offers ‘procession signals,’ with three question marks and a very confident introduction.”
+“Six lamp calls,” Tamsa said. “The words are clear. Their purpose isn't. The catalogue offers ‘procession signals,’ with three question marks and a very confident introduction. For once I suspect it's right.”
 
 Brinna photographed it, then unfastened her digital camera and set it on the table. She shook out the red-tipped ends of her hair where the strap had caught them.
 
@@ -206,25 +206,33 @@ She stood, lifted the camera above her head, and tried again.
 
 Roof tiles. One narrow ribbon of smoke.
 
-“The storerooms,” Tamsa said, spreading out the survey. “Our table's inside one. She's in the open yard beyond them. We're looking into the buildings between us.”
+“The storerooms,” Tamsa said, spreading out the survey. “Our table's inside one. She's in the yard above and beyond them.”
 
-She drew her finger across the room outlines, into the yard now buried under the fallen blocks, and stopped at its far wall. There the builders' stair opened, at the end of the excavated trench.
+Brinna followed the drawn stair to its ancient upper mouth. Six metres above the excavation floor, it hung dark in a surviving wall. The yard that had once met its threshold had fallen away.
 
-“Can she get them through there?”
-
-Tamsa traced the stair down through the foundations to the beach.
+“Can she get them through there?” Brinna asked.
 
 “Yes. If it was open.”
 
-They knew where the woman was. They knew where a way out stood. Between the two places, a vanished roof filled every photograph.
+Brinna picked up the camera. “Then I'll try from the stair.”
 
-Tamsa looked up.
+They went back along the cleared passage and through the excavators' break. Brinna aimed up the blocked flight. The photograph showed intact steps climbing away from her, with a pale, unbroken rectangle closing their upper end.
+
+She held the picture beside the heap of fallen stone. The camera had seen through the modern collapse, but it could not see through the ancient door.
+
+“We're inside her wall,” Tamsa said. “Below her floor.”
+
+Brinna looked up the ruined flight. There was nowhere to put a foot, and nothing firm enough to trust with her weight. Beyond its buried top, the old yard was empty air.
+
+She went outside and looked higher.
 
 The old upper gallery ended above the corner of the court. Most of it was sound. Its final section had broken away, leaving an exposed strip along the wall, just wide enough for a boot.
 
-“From there,” she said. “Above the roof. We could see both her and the entrance.”
+“From there,” Brinna said. “Above the roof.”
 
-Brinna studied the strip. Below it, in the present, lay a fine collection of sharp stones.
+Tamsa checked the angle against the plan. “Both her and the entrance.”
+
+Brinna studied the strip. Nine metres below it, in the present, lay a fine collection of sharp stones.
 
 “I'll want the survey rope.”
 
@@ -234,13 +242,15 @@ Tamsa was already opening its case.
 
 They took the card packs, the plan and a magnifying glass. Tamsa tucked the signal photograph into her notebook's elastic. Brinna left the digital camera under the awning. She had never felt more peculiar about choosing which camera to carry.
 
-At the gallery's corner, they looped the rope round a massive standing pier. Brinna fastened the free end through her climbing belt and pulled it hard. Tamsa checked the buckle, then checked it again without making a joke.
+They went round through the theatre and climbed the surviving aisle steps to the gallery.
+
+At the gallery's sound corner, Brinna tried a photograph. The vanished stagehouse filled it: they needed to get the lens past its outer edge. They looped the rope round a massive standing pier. Brinna fastened the free end through her climbing belt and pulled it hard. Tamsa checked the buckle, then checked it again without making a joke.
 
 “Can you reach the cards from here?” Brinna asked.
 
 “If you keep your left elbow beside this stone.”
 
-Brinna put her heel onto the exposed strip. The sea widened at her shoulder. She shuffled sideways until the edge of the storeroom roof would, she hoped, lie below the lens.
+Brinna put her heel onto the exposed strip. The sea widened at her shoulder. She shuffled sideways until the lens should have cleared the vanished stagehouse.
 
 Tamsa's fingers touched her elbow.
 
@@ -248,7 +258,7 @@ Tamsa's fingers touched her elbow.
 
 Brinna leaned out and took the photograph.
 
-The card slid into Tamsa's waiting hand. Brinna could see the present court perfectly: dry grass and pottery trays by the table, the fallen blocks beyond, the trench along the stair wall. She pressed her tongue against the back of her teeth while the other court slowly appeared.
+The card slid into Tamsa's waiting hand. Brinna could see dry grass and pottery trays far below, the passage outside the foundations, the dark upper mouth with no floor before it. She pressed her tongue against the back of her teeth while the ancient yard slowly appeared.
 
 Tamsa held up the print.
 
@@ -266,19 +276,19 @@ Ivrin was looking directly upward now. Her raised palm appeared pale against the
 
 “The entrance is on her left,” Tamsa said. “Six paces, perhaps. We do one at a time.”
 
-Brinna gave two short openings, then the quick checking exposure. In that picture, Ivrin had taken a long stride along the wall. One yellow sleeve touched a dark vertical seam in the plaster. She held up her free hand, waiting for the next call.
+Brinna gave two short openings, then the quick checking exposure. In that picture, Ivrin had taken a long stride along the wall. One yellow sleeve touched a blue stripe painted on the plaster. She held up her free hand, waiting for the next call.
 
 “Farther than I expected,” Tamsa said. “Again.”
 
 Each pair of openings made Brinna's fingers warmer. On the second set, a gust lifted her hair across the finder. She tucked it behind her ear without moving her feet.
 
-Four commands brought Ivrin under the correct part of the wall. Her paces were longer than Tamsa had guessed. She stood with her hand against an unbroken sheet of plaster.
+Four commands brought Ivrin under the correct part of the wall. She stood with her hand against an unbroken sheet of plaster.
 
-Brinna looked over the camera into the modern yard. The stair's opening was black and unmistakable, tall enough for a person to enter upright.
+Brinna looked over the camera toward the modern opening. It was black and unmistakable, tall enough for a person to enter upright, stranded above the excavation.
 
-“She ought to be inside it.”
+“Why isn't she opening it?”
 
-“It was faced over.” Tamsa's voice had gone tight. “They closed the builders' entrance when they finished.”
+“It's plaster.” Tamsa's voice had gone tight. “They faced over the builders' entrance when they finished.”
 
 In the photograph, Ivrin had turned both palms upward. Behind her, people were carrying the older woman away from the window. A burning strip of roof cloth had fallen into the court. The great paper bird lay across it, a yellow wing crushing flame beneath its ribs.
 
@@ -340,7 +350,7 @@ Then Ivrin came out again.
 
 “No,” Brinna said. She did not touch the shutter.
 
-In the next photograph Ivrin was at the far window. A hand reached through from beyond the frame. She hauled a boy onto the sill, then turned and caught an infant being passed after him. Someone inside the building had wrapped the baby in a piece of blue cloth. White stars ran along its edge.
+In the next photograph Ivrin was at the far window. A hand reached through from beyond the frame. She had hauled a boy onto the sill; in the following picture she was catching an infant being passed after him. Someone inside the building had wrapped the baby in a piece of blue cloth. White stars ran along its edge.
 
 Ivrin took the baby to the man by the opening. The boy scrambled after them. In the card that followed, she had the older woman's arm round her shoulders and was guiding her through the break in the wall.
 
@@ -376,7 +386,7 @@ Brinna started to laugh. It came out in two uneven pieces.
 
 They unfastened the rope and went down.
 
-At the upper entrance, Brinna stopped. On either side of the excavated slit, remnants of ancient plaster clung to the stone. Behind a tag, three short cuts and one long cut descended beneath her thumb.
+At the excavators' break, Brinna stopped beside the fallen jamb stone. Ancient plaster still clung to one edge. Behind its tag, three short cuts and one long cut descended beneath her thumb.
 
 She left the tag where it was.
 
