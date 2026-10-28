@@ -122,6 +122,8 @@ They circled below it, landed again, and left their spare tool chest on the dock
 
 On their second attempt they rose past the crane arm slowly enough for a gull to walk its length beside them.
 
+Out in clear air, Cobb made her finish the reversing test. Even at harbor speed, with the chest aboard, full astern took four of the Midge's lengths to bring her still.
+
 “Four hundred,” Cobb said. “That's a limit. It's not an invitation to see what else fits.”
 
 Ruzha put her hand flat on the warm wheel and waited for clear sky below the keel.
@@ -274,9 +276,9 @@ The Midge continued turning.
 
 “Steering.”
 
-Cobb was already lifting the stern hatch. She took pressure off the throttle. The engine slowed, but the little vessel kept the turn it had begun.
+Cobb was already lifting the stern hatch. She pulled the reversing lever. The screw faltered, then caught astern; the hull began to slow, still swinging.
 
-Across her bow hung a freighter's open cargo boom. Beyond it were the taut lines of its standing rigging. To port, blue light flickered in the cloud. Ruzha put the throttle back a fraction and hauled at the wheel.
+Across her bow hung a freighter's open cargo boom, less than two of the Midge's lengths away. The loaded stopping run would carry her straight through it. Beyond it were the taut lines of the freighter's standing rigging. To port, blue light flickered in the cloud. Ruzha hauled at the wheel.
 
 “Don't force it,” Cobb said.
 
@@ -332,7 +334,7 @@ The bow lifted.
 
 “Both of you aft,” Ruzha said.
 
-Their weight settled the stern, pointing the airscrew's thrust into the climb. She opened the throttle. Cobb took the jury-lines and hauled the rudder toward center. In the narrow wind behind the screw, the blade bit.
+Their weight settled the stern, pointing the airscrew's thrust into the climb. She put the drive forward and opened the throttle. Cobb took the jury-lines and hauled the rudder toward center. In the narrow wind behind the screw, the blade bit.
 
 The freighter's boom moved down across Ruzha's sight.
 
@@ -520,7 +522,7 @@ He handed her a sheet with the contributing vessels listed, and room for a recei
 
 “I'll take the bill,” Dessi said.
 
-While she arranged the casks, Cobb went with a dock lamp-keeper to fill the working bunker from the fleet's oil reserve. Ruzha checked the jury steering and the new restraints. One cargo. Four hundred pounds. This run would take them directly to Kersey.
+While she arranged the casks, Cobb went with a dock lamp-keeper to fill the working bunker from the fleet's oil reserve. Ruzha checked the jury steering and the new restraints. One cargo. Four hundred pounds.
 
 The quartermaster waited beside the gangway.
 
@@ -530,7 +532,9 @@ The quartermaster waited beside the gangway.
 
 “Asterfall's asking for you. Saw it from the tower.”
 
-“I know.”
+Ruzha looked at the casks. She could take this food directly to Kersey tonight; another serum chest meant returning to the Spindle first. She had no fresh count from Asterfall's wards.
+
+“Send them our course,” she said. “I'm taking this to Kersey. Tell them their next chest waits for that run.”
 
 He looked as though he might say something else. Instead he stepped back so she could lift the gangway clear.
 
