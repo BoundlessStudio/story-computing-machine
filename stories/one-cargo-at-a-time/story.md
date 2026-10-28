@@ -182,6 +182,8 @@ Ruzha read the signal sheet while Dessi swung the first grain sack into the well
 
 Rimehold had closed its upper houses. People were sleeping in the lower halls. Two heating furnaces were out; the third had fuel until morning. The last line was an instruction to recall Captain Ruzha under her commission.
 
+Kersey's latest message lay beneath it. Its children's kitchens had enough for one thin breakfast, then nothing until grain arrived. Ruzha had allowed eight hours for that voyage, twice the clear-air crossing: they would have to thread the stranded fleet in darkness.
+
 She read the figures twice.
 
 “How long for the climb?”
@@ -192,7 +194,7 @@ She read the figures twice.
 
 Dessi stopped with a sack against her shoulder.
 
-“Kersey would get nothing till tomorrow night.”
+“Kersey would get nothing till late tomorrow afternoon.”
 
 “I can count the hours.”
 
@@ -234,7 +236,7 @@ Behind him a chain creaked as Dessi lowered another sack.
 
 Ruzha could remember every handhold on the Vigilance's quarterdeck. That familiarity offered no answer to the man.
 
-“I can bring coal after Kersey,” she said. “I can't bring it before the furnace goes out. Ask your brother. Ask the shipwrights. Ask the council to open the stores aboard the ships they're taking apart.”
+“If we go now, I can get coal to you before dawn,” she said. “But then Kersey's kitchens have nothing after breakfast. I'm taking the grain. That means your furnace goes out before I can reach you. You still have the ships. Ask your brother. Ask the shipwrights. Ask the council to open the stores aboard the ships they're taking apart.”
 
 “They've been arguing about it all afternoon.”
 
@@ -244,7 +246,7 @@ He stayed where he was for a moment. Then he went up to the tower.
 
 Ruzha walked the length of the Midge, checking restraints that Dessi had already checked. Eight sacks. Fifty pounds each. Kersey's agent had obtained an allocation for the children's kitchens, the infirm, and the gangs still doing necessary work on the docks.
 
-“Did you get an answer?” Cobb asked.
+“Has Rimehold agreed to cut the ships?” Cobb asked.
 
 “Not yet.”
 
@@ -364,7 +366,7 @@ He eased one line through his gloves. Ahead, Kersey's answering lamp was asking 
 
 ***
 
-They reached the city in the first gray light. Its houses crowded the top of a flat stone island, with long quays projecting over nothing. People stood at the outer ends, watching for the Midge.
+They reached the city in the first gray light, after a night of picking their way between the ships. Its houses crowded the top of a flat stone island, with long quays projecting over nothing. People stood at the outer ends, watching for the Midge.
 
 A dock gang caught her lines. One man laughed when he got hold of the bow rope, as though he had expected his hands to pass through it.
 
