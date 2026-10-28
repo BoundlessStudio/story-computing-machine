@@ -23,3 +23,11 @@ Title revision request, verbatim:
 Selected title, verbatim:
 
 > A Photograph Across Time
+
+Art correction request, verbatim:
+
+> the image in the last update last there painted theme that should match the rest of the collection. they are also filled your GPT glint; get back to work and fix it.
+
+Further cover-art correction, verbatim:
+
+> the people in the cover still look way to clean we have lost the painted look from the rest of the set; (the background is ok but its getting the GPT look again)
