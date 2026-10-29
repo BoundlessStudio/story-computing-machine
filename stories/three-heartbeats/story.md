@@ -26,7 +26,7 @@ She was. The cut had been so fine that neither half had turned in the air.
 
 He put down the pen. “You still mean to do it.”
 
-From beyond the door came the court's gathering noise: glass on silver, the rustle of gowns, a chair moved for someone too important to move it himself. Asereth laid the second blade across her knees. Its gold hilt was warm from her hand.
+From beyond the door came the court's gathering noise: glass on silver, the rustle of gowns, a chair moved for someone too important to move it himself. Asereth laid the second blade across her knees. Its gold guard gleamed against the brown of her hand.
 
 “I can make the turn.”
 
@@ -132,11 +132,11 @@ PRINCESS ASERETH. THE SEVENTEENTH VIGIL.
 
 “No,” she said.
 
-Tiriel came down the steps. The courtiers drew back to let her through. At the bottom, one of the guards knelt.
+Tiriel came down the steps. A guard moved across her path, one hand going to his sword. She held out her palm without taking her eyes from Asereth.
 
-“Your Majesty.”
+“Stand aside.”
 
-He was looking at Tiriel.
+He did, and the courtiers behind him drew back to let her through.
 
 Asereth let her swords sink. She still had the last movement in her muscles. Her left shoulder burned with the effort of it. A bead of sweat traveled down her temple, past the little amethyst Ruvan had straightened before she went on.
 
@@ -364,13 +364,13 @@ He sat back. “I played to the end of that page after you vanished.” His hand
 
 Asereth set down the swords. “We can leave tonight to Dema.”
 
-He watched her for a moment. Then he reached for the harp. “No. I want to try this.”
+He watched her for a moment. “No. I want to try this.”
 
-“It may go quite wrong,” he added.
+He pulled the harp toward him. “It may go quite wrong.”
 
 “Yes.”
 
-His grin arrived crookedly, much as she remembered it. He drew the harp toward him and sounded the two low notes.
+His grin arrived crookedly, much as she remembered it. He sounded the two low notes.
 
 *
 
@@ -416,7 +416,11 @@ The vigil banner had been taken down. Candlelight filled the pointed windows wit
 
 There were faces Asereth knew among the court, and many she did not. A place had been kept for her at the high table. She saw it, and the queen's chair beside it, and the empty chair where their father would once have sat.
 
-She walked to the center of the floor.
+At the edge of the dancing floor, Asereth stopped with one heel lifted. The marble shone as it had beneath her last landing. She could not make herself put her foot down.
+
+Ruvan rested his hands on the harp's pillar. One finger tapped against the wood, stopped, tapped again. She watched until she could feel the interval in her own breathing.
+
+Then she lowered her heel and walked to the center.
 
 For a moment no one seemed sure whether to applaud. She lowered her head to Ruvan instead.
 
@@ -474,7 +478,7 @@ Ruvan saw her begin to turn. His right hand followed her, note by note, as she l
 
 He sounded the last chord.
 
-In its fading she could hear a string still trembling under one crooked finger. Beyond him, Tiriel sat very straight in her chair. There was no hand descending on the arm of the chair beside her. No one would tell their father what he had missed.
+In its fading she could hear a string still trembling under one crooked finger. Beyond him, Tiriel sat very straight in her chair. There was no hand descending on the arm of the chair beside her.
 
 Ruvan lifted his hands from the harp.
 
