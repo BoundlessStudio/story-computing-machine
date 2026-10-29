@@ -8,7 +8,7 @@ Ruvan let a violet petal fall between them.
 
 Asereth stepped out of time.
 
-The petal hung edge-on above the marble. Behind it, the harpist's thumb rested against a string that would not sound. The candle flame had bent toward the open door and stayed there, a small gold pennant in wind that no longer touched her face.
+The petal hung edge-on above the marble. Behind it, the human harpist's thumb rested against a string that would not sound. The candle flame had bent toward the open door and stayed there, a small gold pennant in wind that no longer touched her face.
 
 She had one heartbeat. She turned the curved blade in her right hand, slipped its point through the petal, and caught the falling silk of her skirt with her left wrist.
 
@@ -214,7 +214,7 @@ The young woman bowed. “I'm glad you're here, Highness.”
 
 “So am I,” said Asereth, and was surprised by the fierceness of it.
 
-She had slept badly. Every time she woke, she expected the door of her room to open on another year. She had held a candle until it burned down, watching the wax travel a distance she could account for.
+She had slept badly. Every time she woke, she expected the door of her room to open on another year. She had no way to tell whether the seventeen years had paid for every mark. She had held a candle until it burned down, watching the wax travel a distance she could account for.
 
 Ruvan had set the old score on a stand. The three crowns were still there. The paper had darkened around them.
 
@@ -360,11 +360,17 @@ He made an uncertain movement toward the old score.
 
 “Then I would spend the feast waiting for you to do what you had done at rehearsal.” She took up the blades. Their guards clicked together in her hand. “I want to see where that goes.”
 
-He sat back and considered her. At last he said, “It may go quite wrong.”
+He sat back. “I played to the end of that page after you vanished.” His hand made a small, plucking movement against his knee. “There was no one on the floor.”
+
+Asereth set down the swords. “We can leave tonight to Dema.”
+
+He watched her for a moment. Then he reached for the harp. “No. I want to try this.”
+
+“It may go quite wrong,” he added.
 
 “Yes.”
 
-His grin arrived crookedly, much as she remembered it.
+His grin arrived crookedly, much as she remembered it. He drew the harp toward him and sounded the two low notes.
 
 *
 
