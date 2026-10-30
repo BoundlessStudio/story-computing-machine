@@ -14,7 +14,7 @@ Light ran through the map. Twelve Archmages, seated around its circumference, co
 
 A third penny slipped from her purse. Her youngest apprentice bent to retrieve it.
 
-“Keep it,” Hedran said. “You may need to see something later.”
+“Keep it,” Hedran said.
 
 Outside, the morning traffic rose between the palace's detached terraces. Licensed coachmen steered their passengers along blue lanes in the air. Six skyroad arches stood on the outer terraces, facing six far regions of the Empire. A woman on a delivery kite stopped at the eastern arch, held up a permit, and waited while its keeper checked the fee. The arch admitted her into a narrow passage of white light and closed again.
 
@@ -116,7 +116,7 @@ From the gallery, they could hear the capital noticing the six. Coach bells rang
 
 “This is the seat of the Imperial authority,” said the Emperor. “You will identify yourselves.”
 
-Tavren glanced at his signet. “Has the directory stopped working?”
+Tavren glanced at the Emperor's signet. “Has the directory stopped working?”
 
 “It has been interfered with.”
 
@@ -129,6 +129,8 @@ The Emperor extended his hand toward the Council rail.
 Every Archmage knew the gesture. Hedran had practiced responding to it since before she earned her first key. She set her palm on the bronze, and the others did the same. The apprentices knelt at the smaller focuses below it.
 
 A diagram opened over the rail: the approved pattern for the Spear of Noon. Twelve living casters, one target group. The price appeared beneath it. The Emperor touched his signet to the charge; a pale line crossed the diagram as the Treasury acknowledged payment.
+
+The arrest had tried to seize the strangers through their own channels. The Spear needed no access to those. It would burn the space they occupied.
 
 Hedran drew a breath. Her shoulders tightened as her strength entered the common channel. Sun-colored fire gathered above the balustrade.
 
@@ -181,6 +183,8 @@ The empty circle opened on her disk. She set it against the apprentice's lens, m
 **REGIONAL LICENSE. CROWN AUTHORITY.**
 
 There were boundaries. There were conditions. There was an issuing grant.
+
+The original boundary enclosed one city and its skyroad stations. Imperial renewals had drawn it outward, conquest by conquest, until every ordinary caster's route into the network passed through the Crown.
 
 “A license,” she said.
 
@@ -250,7 +254,7 @@ Hedran understood what an immediate revocation would have done. The coach. The h
 
 The six were removing it one connection at a time.
 
-“Majesty,” she said, “we should stop casting.”
+“Majesty,” she said, “we should not cast again.”
 
 He did not answer. His thumb was pressed hard against the face of his signet.
 
@@ -342,11 +346,13 @@ Tavren stopped with her wrist half turned.
 
 “How far?” Sathra asked.
 
-“Far side. Under the night. I have the cities. There's a line beyond them.”
+“Far side. Under the night. One coach beyond the cities, still on the Crown. Cut now and it falls.”
+
+The remote entry flickered on Hedran's sleeve: a coach crossing a black mountain pass, its passengers asleep against one another. The driver held a gold-lit focus. No white return line had reached him.
 
 Brannoc's arms moved farther apart. The sphere swelled; a bright thread climbed his throat, and his breath emerged through his teeth.
 
-“Find it,” Sathra said.
+“Reach them,” Sathra said.
 
 Ossan knelt in the air and put his forehead against the staff. All the little wires around its head stood straight.
 
@@ -402,7 +408,7 @@ The blade had a dark seam running along it. When her mechanical fingers tightene
 
 “I have them,” Ossan said.
 
-In the sphere above Brannoc, a last remote line came clear: a cluster of tiny workings on the world's dark curve. The broken note from the staff resolved.
+In the sphere above Brannoc, a last remote line came clear. On Hedran's sleeve, the night coach's connection turned white. The broken note from the staff resolved.
 
 “Vesra?” Sathra asked.
 
