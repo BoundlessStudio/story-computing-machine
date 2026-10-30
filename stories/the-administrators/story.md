@@ -272,11 +272,9 @@ Beside them Tavren moved the cyan disc from line to line. White grants formed in
 
 He touched his staff to the disc. The new grants flowed up its wires and outward across the network. He began speaking place names; after each one, a faint answering note reached the gallery.
 
-The surgeon's casting signature was white now. So were the pilot's and the deck operators'. The old gold still looped around them.
+The surgeon kept her hands spread above the patient. Her new grant shone white on Hedran's sleeve, still circled by gold. That loop ran through the Crown conductor in the sealed core. Until someone cut it, the Emperor could override every personal grant.
 
-Hedran knew that outer path. It ran through the conductor in the sealed core, enforcing the sovereign signature above every other permission. Even a newly prepared personal grant remained subject to the Crown's override until that path was broken.
-
-“Majesty,” she said, “we should not cast again.”
+“Majesty,” Hedran said, “we should not cast again.”
 
 He did not answer. His thumb was pressed hard against the face of his signet.
 
@@ -316,7 +314,7 @@ The capsule dropped. Its pilot cried out. The electric steering fans still turne
 
 At the console, one Archmage fell to a knee, unable to lift her hand. The apprentices' attack cables flared gold.
 
-On Hedran's sleeve, a thousand registered workings opened at once. A woman supporting a field around a neonatal cradle. A construction caster holding a new floor while mechanical clamps closed beneath it. The surgeon, her manipulator arms waiting motionless around the patient. Their faces were tiny, their connections impossibly bright.
+Hedran's sleeve filled with working faces. The surgeon bent over her patient between motionless manipulators; a deck operator clung to his console. Their connections burned impossibly bright.
 
 Living strength rushed toward the capital from every direction. The Emperor raised his free hand and aimed the gathering current at the six.
 
@@ -376,7 +374,7 @@ Tavren stopped with her wrist half turned.
 
 Hedran's live view narrowed to a train halted above a black mountain pass. Its emergency brakes were engaged. Below its wheels, the bridge was made of pale light.
 
-The bridgecaster sat in a control shelter at one end, both palms locked to a neural coupler. Recall was pulling his strength toward the capital while Brannoc held the span in place. The prepared return route ended just short of his signature.
+The bridgecaster sagged over the shelter's neural coupler, both palms still locked to its contacts. Brannoc held his span, but Ossan's white line stopped short of the signature that would let the strength flow back to him.
 
 “Cut now,” Ossan said, “and he loses the span.”
 
@@ -394,7 +392,7 @@ Nhal was no longer beside them.
 
 The hooded figure stood over the spire, looking down through its canopy. White rings expanded from both hands. They passed through ceramic shielding, armored composite, sealed fire partitions, enclosing a shaft straight down into the core.
 
-Hedran had descended there once at her investiture. Behind three hardened service floors stood the Crown conductor: a branching column of metal and light through which the exclusive sovereign command reached every licensed interface. The building's ordinary data cables ran beside it. Those carried records. This carried compulsion.
+Behind three hardened service floors stood the Crown conductor, a branching column of metal and light. Hedran had seen it once at her investiture, beside the building's ordinary data cables. Those carried records. This carried compulsion.
 
 The Emperor saw the widening circles.
 
@@ -430,13 +428,13 @@ The Emperor was still at the console. His thumb had not left the signet. The Arc
 
 Beyond him, the spire opened.
 
-Its structure did not fall. Nhal drew the enclosed shaft sideways as if opening a tall, narrow door. Hedran could see the service floors, the shielded chambers and the core, all turned toward the morning. Operators clung to their stations. Status lamps still burned. Diagnostic drones hovered inside the opened rooms, finding no collision to report.
+Nhal separated both hands. A narrow face of the spire peeled open from canopy to foundation. The armored walls folded into the white rings; the floors stayed level, exposed like shelves, with operators upright at their stations. Status lamps still burned. Diagnostic drones hovered inside the opened rooms, finding no collision to report.
 
-At the bottom of that impossible view stood the branching column.
+Far below, at the bottom of that impossible cutaway, stood the branching column. Hedran brought it close on her sleeve.
 
 Gold loops crowded its limbs. At its base, the conductor narrowed to the thickness of a man's waist before entering the foundation.
 
-Sathra passed through Nhal's lowest ring and stepped onto the core floor. She drew her sword.
+Sathra descended along the opened spire, passed through Nhal's lowest ring and stepped onto the core floor. She drew her sword.
 
 The blade had a dark seam along it. When her mechanical fingers tightened on the hilt, the seam filled with the same white light that shone in the six original signatures.
 
@@ -450,7 +448,7 @@ The woman with the chained headpiece looked through the blazing web toward the c
 
 “Held.”
 
-Sathra glanced back at Brannoc.
+Sathra looked up at Brannoc.
 
 He nodded without taking a breath.
 
@@ -482,9 +480,9 @@ Vesra caught the back of his harness before he could drift.
 
 She kept her hand where it was.
 
-Sathra stepped back through Nhal's lowest ring into the air beyond the gallery.
+Sathra passed back through Nhal's lowest ring and rose to join the others beyond the gallery.
 
-Nhal closed the spire around its rooms. The canopy returned to its place above the operations floor. Operators, drones and severed conductor vanished behind their shielding.
+Nhal drew the walls back around the spire's rooms. The seam in the canopy sealed. Operators, drones and severed conductor vanished behind their shielding.
 
 The Emperor lifted his signet from the console.
 
