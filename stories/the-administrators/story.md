@@ -272,7 +272,7 @@ Beside them Tavren moved the cyan disc from line to line. White grants formed in
 
 He touched his staff to the disc. The new grants flowed up its wires and outward across the network. He began speaking place names; after each one, a faint answering note reached the gallery.
 
-The casting signatures were white now. The old gold still looped around them.
+The surgeon's casting signature was white now. So were the pilot's and the deck operators'. The old gold still looped around them.
 
 Hedran knew that outer path. It ran through the conductor in the sealed core, enforcing the sovereign signature above every other permission. Even a newly prepared personal grant remained subject to the Crown's override until that path was broken.
 
@@ -310,9 +310,11 @@ He began to cast.
 
 Every golden filament reversed.
 
+Hedran caught the rail as her knees weakened. Her own open channel had joined Recall's draw. The live sightlines on her sleeve trembled; the computers' account figures stayed sharp.
+
 The capsule dropped. Its pilot cried out. The electric steering fans still turned; its computer was issuing an emergency docking request to every station within reach.
 
-At the console, one Archmage fell to a knee, unable to lift her hand. The apprentices' attack cables flared white.
+At the console, one Archmage fell to a knee, unable to lift her hand. The apprentices' attack cables flared gold.
 
 On Hedran's sleeve, a thousand registered workings opened at once. A woman supporting a field around a neonatal cradle. A construction caster holding a new floor while mechanical clamps closed beneath it. The surgeon, her manipulator arms waiting motionless around the patient. Their faces were tiny, their connections impossibly bright.
 
@@ -339,6 +341,8 @@ The current that should have struck the six bent toward him. It entered his whit
 The capsule stopped falling.
 
 Across the city, interrupted spells caught and held. The inhabited decks settled level with one another. All their swaying weight passed through the same blazing arc between Brannoc's hands.
+
+The thread from Hedran's cuff ran through his arc with the others, and her sightlines steadied. Her hand still shook against the rail.
 
 Hedran could hear him breathing.
 
@@ -400,7 +404,7 @@ The apprentice beside Hedran reached toward his attack station.
 
 She seized his wrist.
 
-His coupler opened before she could pull him clear. White light climbed the cable. He made a surprised sound, as though someone had taken the floor from beneath him.
+His coupler opened before she could pull him clear. Gold light climbed the cable. He made a surprised sound, as though someone had taken the floor from beneath him.
 
 Recall drew hardest through the widest open channels. Every attempt to launch a spell gave it another mouth.
 
@@ -526,7 +530,7 @@ Hedran opened the grant record. The change ran through the registry to its small
 
 “No.”
 
-Below, the fabrication district's accounts resumed ticking. The chair maker still had to pay for polymer, electricity and delivery. Beside those charges, the Crown's casting levy went dark. She looked at her cuff, then laid her palm on the rig again.
+In the manufacturing view, the fabrication district's accounts resumed ticking. The chair maker still had to pay for polymer, electricity and delivery. Beside those charges, the Crown's casting levy went dark. The maker looked at her cuff, then laid her palm on the rig again.
 
 The eastern transit ring sounded a departure tone.
 
@@ -552,7 +556,7 @@ Sathra looked back at her, then at the living world above the Council table.
 
 “You might visit.”
 
-She stepped through the ring. The others followed, six strangers entering the city on the red cliffs along a route that had been closed to them that morning.
+She stepped through the ring. The others followed, six strangers entering the city on the red cliffs through a passenger route the Emperor had ordered shut that morning.
 
 The people on the far side made room. At the neighboring concourse, a little girl in a blue coat slipped past the watching adults and stepped from winter onto an Imperial deck. Her sleeve changed its street map. Snow fell from her boots into the sunlight.
 
