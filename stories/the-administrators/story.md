@@ -162,7 +162,7 @@ The crowd went quiet.
 
 “Twelve casters,” Tavren said. “Six targets. Civilian surroundings.”
 
-“You are attacking the capital,” said the Emperor.
+“You are attacking the capital,” the Emperor called, turning toward the watching street.
 
 Tavren turned the diagram toward the street below.
 
@@ -224,13 +224,15 @@ Sathra's eyes moved briefly to the oldest grant still visible in the broken lens
 
 “We couldn't come back the way we left.”
 
+The Emperor sealed a closure order on the rail. Its three approvals flashed beneath his signet.
+
 Ossan lifted his head.
 
 “Sathra. He's closed the outer routes.”
 
 At the eastern arch, the passage used by the delivery kite snapped out. The other skyroads darkened in succession. On Hedran's disk, the governor channels changed from blue to sovereign gold.
 
-“Everyone,” said the Emperor, “belongs somewhere.”
+“Everyone,” said the Emperor, “will stay where they belong.”
 
 Vesra made a small, sharp movement with one finger. A red filament broke loose from a gold one. Far below, a coach dipped in its lane, then steadied. The man at its controls clutched his focus with both hands.
 
@@ -292,7 +294,7 @@ The coach dropped a hand's breadth. Its driver cried out. At the palace rail, on
 
 On Hedran's sleeve, a thousand registered workings opened at once. A woman in a room full of sleeping children. A man steadying a suspended beam. An old healer with one hand inside a luminous cast. Their faces were tiny, their connections impossibly bright.
 
-The network carried what the Emperor had ordered. Living strength rushed toward the capital from every direction.
+The network carried what the Emperor had ordered. Living strength rushed toward the capital from every direction. The Emperor raised his free hand and aimed the gathering current at the six.
 
 Nhal snapped the ring shut around the captured spear. It shrank to a white point and went out between two black fingers.
 
@@ -428,7 +430,7 @@ Sathra cut through the trunk.
 
 For an instant the capital was full of gold leaves.
 
-They blew out of the opened heart in a silent storm, each one a severed permission. The Emperor reached toward them with his free hand. They passed through his fingers, fading.
+They blew out of the opened heart in a silent storm, each one a severed permission. The Emperor reached toward them with his free hand. They passed through his fingers, fading. The Crown's grant went gray in the cracked lens.
 
 Above him the world turned white.
 
@@ -446,7 +448,9 @@ Vesra caught the back of his harness before he could drift.
 
 She kept her hand where it was.
 
-Nhal closed the palace around its rooms. The roof returned to its place above the Hall; the guards and their desks vanished behind stone. Hedran felt the broken lens become only a piece of glass in her hands.
+Sathra stepped back through Nhal's lowest ring into the air beyond the gallery.
+
+Nhal closed the palace around its rooms. The roof returned to its place above the Hall; the guards and their desks vanished behind stone.
 
 The Emperor lifted his signet from the rail.
 
