@@ -16,3 +16,11 @@ In a world where magic is executed through a global arcane network, every spell 
 ## Editorial starting target
 
 No audience or intensity was specified. General is the initial content-intensity target; viewpoint, length, conflict, scale, and ending remain creative choices. The six images are supplied visual references, not additional written instructions or shared-universe authority.
+
+## Later user direction — 2026-10-30
+
+you missed the setting it should be int the future fantasy techno union.
+
+Clarification question: By “future fantasy techno union,” do you mean a futuristic society where advanced technology and magic are fully integrated, or an established setting/faction called the Techno Union?
+
+User answer: Futuristic technology-and-magic society
