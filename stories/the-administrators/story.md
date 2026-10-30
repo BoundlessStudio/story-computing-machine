@@ -374,7 +374,7 @@ Tavren stopped with her wrist half turned.
 
 Hedran's live view narrowed to a train halted above a black mountain pass. Its emergency brakes were engaged. Below its wheels, the bridge was made of pale light.
 
-The bridgecaster sagged over the shelter's neural coupler, both palms still locked to its contacts. Brannoc held his span, but Ossan's white line stopped short of the signature that would let the strength flow back to him.
+In a control shelter at the span's end, the bridgecaster sagged over a neural coupler, both palms still locked to the contacts. Brannoc held the span, but Ossan's white line stopped short of the signature that would let the strength flow back to the bridgecaster.
 
 “Cut now,” Ossan said, “and he loses the span.”
 
