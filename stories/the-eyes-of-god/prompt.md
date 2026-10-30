@@ -12,3 +12,14 @@
 
 - No audience or intensity was specified. General is the starting target; assign the final AO3 rating from the finished prose and cover.
 - The prompt calls for a lethal orbital judgment weapon. The story should treat its effects through character and consequence within the project's content boundaries.
+
+## Follow-up art request — 2026-10-30
+
+fix the character sheets form the attached image; to don't match the style of all the others.
+
+## Supplied reference images
+
+- Image #1.png
+- codex-clipboard-d183db8a-1dee-4448-a9da-235649aba4f3.png
+
+The 2026-10-30 screenshot identifies the character sheets for style correction and shows neighbouring collection artwork for comparison. It supplies no story text or new in-world facts.

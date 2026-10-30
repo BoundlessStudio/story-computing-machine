@@ -13,3 +13,14 @@ Follow-up requests (verbatim):
 > character references sheets should look like this.
 
 Follow-up reference image display name: Image #1. Original file: `art/references/codex-clipboard-03058305-b8dc-4528-bd11-d84bd2c4543c.png`. Use its sheet layout and painterly presentation as a format reference; its character and story-specific props do not belong to this story.
+
+## Follow-up art request — 2026-10-30
+
+fix the character sheets form the attached image; to don't match the style of all the others.
+
+## Supplied reference images
+
+- codex-clipboard-03058305-b8dc-4528-bd11-d84bd2c4543c.png
+- codex-clipboard-d183db8a-1dee-4448-a9da-235649aba4f3.png
+
+The 2026-10-30 screenshot identifies the character sheets for style correction and shows neighbouring collection artwork for comparison. It supplies no story text or new in-world facts.

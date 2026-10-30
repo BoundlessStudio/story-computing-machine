@@ -39,3 +39,7 @@ The selected cover, Sera character reference, and corrected square painting were
 ## Character sheet completion
 
 The first Sera image was a scene portrait, not the character sheet format used by the other story packages. The requested `art/characters/sera.webp` adds front, profile, and back views of the same Sera; two expression studies; and separate bread basket, pocket watch, and charcoal studies. It takes Sera's visual identity from the accepted portrait and its layout from existing character sheets. The saved 1536×1024 pixels were inspected for readable labels, consistent face and coat, coherent hands, and prose-matching props. The original portrait remains as a separate illustration. No prose or cover changed, so the Teen rating still applies.
+
+## Character-sheet style correction — 2026-10-30
+
+Repainted the existing Sera sheet in place after the user identified its style mismatch in a gallery screenshot. Onyx at the Cove and Sena and Button guide softer facial modelling and flowing hair; Apple Orchard Hillside guides the oil-brush rhythm. The accepted sheet has a plain white ground, the same front/profile/back clothing and identity, two head studies, and separate basket, pocket-watch and charcoal details. Inspected the final saved pixels against the prose and accepted portrait for consistent identity, coherent hands, readable labels and the same props. The standalone Sera portrait remains its own illustration. No stronger content was added; the finished prose, selected cover and Teen rating still apply.
