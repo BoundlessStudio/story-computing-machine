@@ -100,7 +100,7 @@ Vesra spread her fingers. Red characters slipped from them and vanished down int
 
 The Emperor had entered without announcement. The chamber doors had read his approach through his uniform and opened before he reached them. His white coat carried no visible controls except the sovereign signet at his hand.
 
-He crossed the globe's light, his boots passing through the provinces. Hedran bowed and submitted the arrest pattern waiting in her cuff. Restraint, grade twelve. Authorized by the Council. Fee charged to the sovereign reserve.
+He crossed the globe's reflection on the polished floor, his boots passing over the provinces. Hedran bowed and submitted the arrest pattern waiting in her cuff. Restraint, grade twelve. Authorized by the Council. Fee charged to the sovereign reserve.
 
 The first two seals lit. The third remained dark.
 
@@ -134,7 +134,7 @@ The gallery surrounded the operations floor, high above the occupied decks. Air 
 
 “This is the seat of the Imperial authority,” said the Emperor. “You will identify yourselves.”
 
-Tavren glanced at his signet. “Has the directory stopped working?”
+Tavren glanced at the Emperor's signet. “Has the directory stopped working?”
 
 “It has been interfered with.”
 
@@ -410,7 +410,7 @@ Recall drew hardest through the widest open channels. Every attempt to launch a 
 
 She had heard that tone from the Emperor before. People generally obeyed it once.
 
-Hedran pulled the mechanical release on the boy's coupler. The cable dropped. His contribution vanished from the gold total rising above the Emperor's hand.
+Hedran pulled the mechanical release on the boy's coupler. The cable dropped. His Survey winked out as the cuff isolated his living channel. His contribution vanished from the gold total rising above the Emperor's hand.
 
 She unfastened the next cable herself.
 
@@ -420,7 +420,7 @@ The boy hesitated at the safety doors.
 
 “Go.”
 
-He helped another apprentice through. Hedran held the local release while the others stumbled inside, disconnected and breathing again. She remained at the transparent threshold, the damaged projector braced against its frame.
+He helped another apprentice through. Hedran took the damaged projector from him and held the local release while the others stumbled inside, disconnected and breathing again. She remained at the transparent threshold, the projector braced against its frame.
 
 The Emperor was still at the console. His thumb had not left the signet. The Archmage on her knees crawled toward the doors.
 
@@ -518,7 +518,7 @@ She signed.
 
 The spell took a little of her strength, exactly as it always had. Far rain, sunlight and the blue darkness of the world gathered again over the table. No Treasury debit followed.
 
-Behind her, the youngest apprentice was checking his training wallet. The two credits she had given him were still there.
+Behind her, the youngest apprentice rearmed his cuff and opened another Survey interval. His empty wallet displayed an approved charge of zero. Far light gathered above his palm.
 
 “Only for us?” he asked.
 
