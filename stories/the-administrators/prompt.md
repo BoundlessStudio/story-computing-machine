@@ -24,3 +24,7 @@ you missed the setting it should be int the future fantasy techno union.
 Clarification question: By “future fantasy techno union,” do you mean a futuristic society where advanced technology and magic are fully integrated, or an established setting/faction called the Techno Union?
 
 User answer: Futuristic technology-and-magic society
+
+## Later cover direction — 2026-10-30
+
+in the cover image the 2 left characters are doing the same action. mix it up based on the original reference sheets.
