@@ -20,13 +20,13 @@ He tried to push himself up. The platform came down another inch.
 
 Corporal Bera lay with one foot trapped beneath a crossbeam. Her radio handset was still clipped to her collar. Its little speaker was shouting at both of them.
 
-Sevrin got an elbow under himself and looked out. The square ended halfway across. Beyond that, there was a white furrow through the buildings, running straight to the distant hills. The angel hung above it. One vast ribbon of a wing passed through the smoke, dark purple along its edge and lit a brilliant green from within.
+Sevrin got an elbow under himself and looked out. A white furrow ran from the distant hills through the southern half of the square and on between the buildings. The angel hung above it. One vast ribbon of a wing passed through the smoke, dark purple along its edge and lit a brilliant green from within.
 
 Then the defensive fire began to arrive.
 
 He saw the rounds bursting against the wings. From the gun positions beyond the city, that was all there was to hit: layers of moving black armor, folded around the central body. The explosions left pale stains that vanished as the wings turned.
 
-The angel drifted toward the station. People were running down the station steps. Its underground platforms were the nearest shelter. Sevrin watched a man come back up, catch someone by the sleeve, and pull them toward the entrance. Above them, the wings spread again.
+The angel drifted toward the station on the square's northern edge. People were running down the station steps. Its underground platforms were the nearest shelter. Sevrin watched a man come back up, catch someone by the sleeve, and pull them toward the entrance. Above them, the wings spread again.
 
 From directly below, Sevrin saw something the distant gunners could not. Beneath the central pyramid, armored plates drew apart. Behind them was a deep chamber full of white light. Rings were turning inside it, each turning faster than the one around it.
 
@@ -38,9 +38,9 @@ She unclipped the handset and gave it to him.
 
 “Station entrance, clear it,” he said. “It's going to fire down the steps.”
 
-There was no answer he could pick out of the shouting. A moment later, the man at the entrance flung himself backward. The steps disappeared in white light.
+There was no answer he could pick out of the shouting. The man at the entrance hauled his companion down past the first turn in the stairs. They vanished from sight. The steps disappeared in white light.
 
-The blast passed over Sevrin's shelter. The bolt beside his cheek grew hot. When he could see again, the shutters had closed. He looked at them for a long time. Then he gave Bera the handset and started digging around her boot.
+The blast passed over Sevrin's shelter. The bolt beside his cheek grew hot. When he could see again, the shutters had closed. Voices rose from below the station entrance, calling for people to keep moving. He watched the place where the plates had met as he gave Bera the handset, then started digging around her boot.
 
 ---
 
@@ -116,6 +116,8 @@ The plate broke inward. For a moment the angel's whole underside vanished in a b
 
 The severed wing was falling slowly, folding over itself as it came. Above it, the pyramid rolled. The torn joint turned toward him, and through the wrecked shutters he could see the chamber. There was no outer armor in the way now.
 
+The remaining wings stiffened and leveled the body. Inside the torn chamber, the rings spun faster. White light was gathering to a point again.
+
 Sevrin shoved the muzzle higher. The sight came off his eye. He bent his knees, set his boots farther apart, and found the opening again.
 
 The gun's ready light turned green. He put the sight inside the torn rim and fired his second dart.
@@ -138,9 +140,9 @@ Bera said nothing.
 
 “Bera. It's down.”
 
-“I can see.” Her voice was different now. “Tell me where.”
+“I can see.” Her voice was different now. “Where did you hit it?”
 
-“Beneath the body. The plates open when the wings spread. Get directly underneath and wait until you can see into the chamber. Don't shoot the light on the plates. Get it inside.”
+“Beneath the body. The plates open when the wings spread. Get directly underneath and wait until they're clear. Put the round into the rings.”
 
 She began repeating his words on the wider band. He heard another voice ask her to repeat them, and then another.
 
@@ -154,7 +156,7 @@ The largest angel had been above the western hills. Now it was turning.
 
 Sevrin watched its wings rise out of the smoke. He had thought the first one enormous. This one's trailing ribbons reached from the hilltops to the edge of the city. Black pyramids hung around its central mass, turning without touching it. Light moved along its wings in bands of red and gold and colors that made his eyes water.
 
-It came toward the square.
+It followed the white furrow toward the square. The station stood north of its path, though the ribbons of its wings reached across the roofs.
 
 “One more round,” he told Bera.
 
@@ -180,7 +182,7 @@ He lowered himself onto one knee. With the sling still tight across his back, he
 
 Above him, the black seam was still closed.
 
-He had one dart. He had seen one chamber break. This chamber would be larger, deeper inside the body. He could put his last round against the rim and accomplish nothing except being heard.
+This chamber would be larger, deeper inside the body. He had needed two darts to finish the first angel; now he had one.
 
 He looked along the rails until his eye found the sight. The wings spread. His view was steep enough now. He saw the plates begin to slide apart.
 
@@ -188,7 +190,7 @@ He did not fire.
 
 A white crescent appeared behind the first plate. His hands shook. The crescent moved to the edge of the sight, and he hauled it back into the center.
 
-More of the chamber came into view. The machinery inside was already turning. Far above his head, light began gathering into a single point.
+More of the chamber came into view. The machinery inside was already turning. It was going to fire straight down at him. Far above his head, light began gathering into a single point.
 
 He waited for the last plate to clear.
 
@@ -208,7 +210,7 @@ Sevrin tried to get up and couldn't. The gun lay across his thighs. He pushed it
 
 It would have been easier to leave it. There were more darts in the army trucks. Somewhere, there were more darts. He got it off the ground and ran for the narrow stair beside the shop.
 
-The angel was still carrying forward. Its central body passed above the station roofs as it fell, and the wings came after it, folding through the smoke. Sevrin could hear stone breaking ahead of the shadow.
+The angel was still carrying forward. Its central body dropped along the furrow, past the square toward the burned blocks. A trailing wing raked the station roof. Tiles cascaded down its walls, and Sevrin could hear stone breaking ahead of the shadow.
 
 He reached the stair with the gun across his body. The muzzle struck the handrail. He turned, dragging the power block against the wall, and fell down the steps sideways.
 
@@ -230,9 +232,7 @@ Sevrin put a hand against the stair wall and sat up.
 
 He could see the faint glow of the ruined street between the broken steps above him. He worked the railgun up first, rail by rail, then climbed after it. At the top he had to rest on both knees before he could lift it onto its sling.
 
-The great pyramid lay beyond the station, broken into black slabs. One of its wings had curled over the roofs and come to rest above the square. Color still flickered along it, fading in little patches.
-
-From here he could see both angels he had killed.
+The great pyramid lay in the furrow beyond the square, broken into black slabs. One of its wings had curled over the station and come to rest above the square. Color still flickered along it, fading in little patches. Most of the ticket hall's roof was gone, but the side stair was still open. A lamp moved below its first turn, and voices were coming up from the platforms.
 
 The radio carried more voices. A southern team had fired. A northern one needed another minute. Red Plain Three was already moving toward a second target.
 
