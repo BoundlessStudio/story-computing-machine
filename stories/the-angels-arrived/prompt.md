@@ -20,3 +20,24 @@ No audience or content intensity was specified. General is the starting target u
 The user selected this earlier coordinator text as the context for that direction:
 
 > The main risk in this direction is giving the angels an easy, convenient weakness. The outline needs to establish what the man knows, what he can attempt, and why the attempt might fail.
+
+## Later user direction — 2026-10-30 (simpler approach)
+
+i think we should go for something simpler... not tricks, no weird setup;
+just a man and a really big gun and plan where to angles are vulnerable...
+
+The user selected this earlier coordinator text as the context for that direction:
+
+> The writer has proposed a stronger version of the climax: the man exploits the angels’ own careful handling of damaged machinery. That could make the behavior first mistaken for mercy central to his counterattack. The readers are testing it now.
+
+## Later user direction — 2026-10-30 (weapon preference)
+
+i was thinking more a rail gun a lazzer cannon but that works...
+
+The user selected this earlier coordinator text as the context for that direction:
+
+> The new direction is a direct artillery battle: a gunner with a six-metre cannon aims beneath an angel’s armor as it opens to fire. The tension comes from reaching the angle and surviving long enough to take the shot.
+
+## Later user direction — 2026-10-30 (carried weapon)
+
+they need to be able to cary it so it got to be big enough to make it seem unwheling and hard to move around but not so large its static or needs a mech to move...
