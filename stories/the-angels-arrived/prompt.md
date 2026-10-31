@@ -61,3 +61,7 @@ the art for needs to match the original reference images. dark, nighttime, etc
 ## Reference roles
 
 The original apocalypse image (`codex-clipboard-c17a4332-223c-4ac1-b2d3-640f0e12119b.png`) guides this story's immense iridescent angels, ruined city, human scale, and dark nighttime art. The two later landscape screenshots identify the repeatedly sampled style examples the user wants the workflow to broaden. They are context for that correction; their daylight scenery does not request a forest, stream, or daylight scene in this story. The user's nighttime direction governs the scene art; required white character-sheet backgrounds remain a presentation format.
+
+## Later user direction — 2026-10-31 (location repaint)
+
+the location images so far have the GPT issues... do a repaint of them in landscape style.
