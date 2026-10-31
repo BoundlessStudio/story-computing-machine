@@ -182,7 +182,7 @@ He lowered himself onto one knee. With the sling still tight across his back, he
 
 Above him, the black seam was still closed.
 
-This chamber would be larger, deeper inside the body. He had needed two darts to finish the first angel; now he had one.
+He had needed two darts to finish the first angel; now he had one.
 
 He looked along the rails until his eye found the sight. The wings spread. His view was steep enough now. He saw the plates begin to slide apart.
 
@@ -200,13 +200,13 @@ The plate moved.
 
 He fired into the open chamber.
 
-The recoil drove him backward onto his heel. Through the lifting muzzle he saw a small, violent burst deep inside the angel. The point of white light spread sideways. A crack ran up one face of the pyramid, bright all the way to its apex.
+The recoil knocked his elbow off his knee and flung him onto his back. The gun landed across his thighs. High above him, a small, violent burst lit the chamber. The point of white light spread sideways. A crack ran up one face of the pyramid, bright all the way to its apex.
 
 For a moment the wings held their full reach above the city.
 
 Then the white point went out. The great body pitched forward.
 
-Sevrin tried to get up and couldn't. The gun lay across his thighs. He pushed it aside, got both feet underneath himself, and pulled at the sling.
+Sevrin rolled the gun off his thighs and struggled onto his feet, pulling at the sling.
 
 It would have been easier to leave it. There were more darts in the army trucks. Somewhere, there were more darts. He got it off the ground and ran for the narrow stair beside the shop.
 
