@@ -44,6 +44,8 @@ Magnificence, Talven explained, had been the finest parade champion in the weste
 
 "Quite well."
 
+A file of mounted archers hurried past us toward the gate. Their gray-haired sergeant slowed to salute Magnificence. Magnificence lifted one silver hand in return.
+
 Across the valley, the enemy mech bent to hitch a string of gun carriages to her towing harness. She had shoulders like a pair of fortified barns. Magnificence watched her for a moment, then looked down at his sword.
 
 Beside the gun carriages stood a round, ribbed object on a thick metal stem.
@@ -408,7 +410,7 @@ Talven rode along the ribbon, waving the cavalry back. Nobody argued. The peony 
 
 * * *
 
-The enemy commander was the first to understand.
+The enemy commander lost patience first.
 
 "Tenderness! Fall in!"
 
@@ -436,7 +438,7 @@ Talven pulled up beside his marshal.
 
 "And I arrange introductions," I shouted back. "We've all brought different books."
 
-The first gun carriage began to turn toward the lists.
+The first gun carriage began to turn. Its black muzzle lifted toward Magnificence.
 
 Tenderness looked at it. Then she looked at Magnificence.
 
@@ -476,7 +478,7 @@ Magnificence turned his head.
 
 "Marshal," he said.
 
-He had been leading parades since the man's grandfather was small. The archers waited.
+The gray-haired sergeant's bow dipped. He looked up at Magnificence, then lowered it altogether. The men beside him eased their strings.
 
 "I am taking a lady home."
 
