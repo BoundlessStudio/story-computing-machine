@@ -106,7 +106,7 @@ I looked down at the compact.
 
 Every phone along the barrier was pointing at me.
 
-The costumier rose past my shoulder on his tawny wings. He settled into the machinery booth, now hanging above the street like a royal box, and spread his hands over the controls.
+The machinery booth rode out on iron supports above the stage's left edge. A narrow stair still joined it to the boards, with the open theatre behind it and the bookshop crowd in front of me. The costumier rose past my shoulder on his tawny wings, settled into the booth, and spread his hands over the controls.
 
 “Lovely projection,” he said. “I knew you had it.”
 
@@ -192,7 +192,11 @@ I shut the compact.
 
 The black sleeves stayed on my arms.
 
-I turned it over, looking for the catch, a button, a tongue of metal hidden under a pearl. I ran my nail down every seam. Then I set it on a broken bench and backed away.
+I turned it over, looking for the catch, a button, a tongue of metal hidden under a pearl. It had sprung open for the ribbon and the comet; under my nail, every seam stayed shut.
+
+I put it on the boards and lifted my heel. Then I saw my own eye in the little mirror clasp. If I broke it while I was still inside, what would happen to me?
+
+I set my foot down beside it, then moved it onto a broken bench and backed away.
 
 My crown went with me.
 
@@ -216,7 +220,7 @@ The costumier pulled a handle. A painted palace wall rolled towards the bookshop
 
 Briony caught it with a band of gold light. Her feet skidded across the boards.
 
-“The star and the whistle,” he said. “Give them to your understudy. She knows how to collect things she hasn't earned.”
+He called down to Daystar and Redshift. “The star and the whistle. Give them to your understudy. She knows how to collect things she hasn't earned.”
 
 “Stop the wall.”
 
@@ -224,7 +228,7 @@ Briony caught it with a band of gold light. Her feet skidded across the boards.
 
 There were people behind that painted wall. My hands were shaking. I put one flat against my skirt to stop it and felt the hard round edge of the compact through the silk.
 
-The maker watched me from above, smiling with my mistake.
+The maker watched me from above, smiling.
 
 I looked at Briony. At the ribbon holding the wall. At the fallen bookshop banner tangled in its wheels.
 
@@ -252,7 +256,7 @@ The machinery halted with the painted wall a hand's width from Briony's face. Sh
 
 The costumier climbed onto the rail of his booth. His wings spread, dusty gold against the wrecked plaster, and he drifted down to the stage.
 
-He could fly over the broken stair. Of course he could. He'd known which of us would need it.
+He drifted over the broken stair. He hadn't needed it at all.
 
 I went behind the fallen banner, pulling its free end across my arms as though I was frightened of dropping the things on the floor. Briony came to my left. Tansy remained beside the scenery ropes to my right.
 
@@ -300,7 +304,7 @@ I jumped. Redshift's legs carried me over his hands and up onto the fallen palac
 
 But when he turned towards Briony, the compact snapped open, ready for the light gathering between her hands.
 
-It still knew her. It still knew all the things I'd learned.
+It still knew her.
 
 I put the whistle between my teeth.
 
@@ -326,13 +330,13 @@ Its first loop caught his wrist. The rest shot back twice as fast, binding her h
 
 Tansy hauled on the scenery rope.
 
-The ballroom's painted balcony swung down behind his heels, hemming him against the edge of the stage. He flinched, then turned back to me. His mirror was still raised. He was waiting for the last note, the one he knew how to turn.
+The ballroom's painted balcony swung down behind his heels, hemming him against the edge of the stage. He flinched, then turned back to me, the mirror braced in front of him.
 
 I let it die in my throat.
 
 The comet shuddered. I hung in the same horrible, brilliant pause as the day the monster had hit me with a bench.
 
-My own transformation was watching a spell. Its open mirror had been made to catch the next piece of that spell.
+He tilted the open glass towards my mouth.
 
 I took the whistle out of my mouth and threw it.
 
