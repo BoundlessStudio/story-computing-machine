@@ -456,21 +456,7 @@ I ran ahead, waving both hands.
 
 Talven put his horse between the gunners and their carriages. The men looked past him at Tenderness approaching without the towing harness they had strapped on her that morning. They left the guns.
 
-She took the front of the first carriage. Magnificence took the back.
-
-"Ready?" she said.
-
-"Your lead."
-
-They lifted it together, turned, and stood the great siege gun on its muzzle in the soft earth.
-
-Tenderness gave it a little pat.
-
-They did the same to the next one. Then the next. Magnificence learned to catch the carriage as she raised it; by the fourth, the turn was almost part of the music. Four enormous bronze guns stood nose-down along the ridge, their useless wheels revolving gently in the air.
-
-The enemy commander made a sound I could hear from two hundred yards away.
-
-The marshal, meanwhile, had reached his horse archers.
+As Tenderness bent over the first gun, the marshal wheeled toward his horse archers.
 
 "Loose on the blue one!"
 
@@ -491,6 +477,20 @@ He looked at her. She looked back.
 "Ah," he said.
 
 She laughed, a great low clangor that rang across the valley.
+
+She took the front of the first carriage. Magnificence took the back.
+
+"Ready?" she said.
+
+"Your lead."
+
+They lifted it together, turned, and stood the great siege gun on its muzzle in the soft earth.
+
+Tenderness gave it a little pat.
+
+They did the same to the next one. Then the next. Magnificence learned to catch the carriage as she raised it; by the fourth, the turn was almost part of the music. Four enormous bronze guns stood nose-down along the ridge, their useless wheels revolving gently in the air.
+
+The enemy commander made a sound I could hear from two hundred yards away.
 
 On the far side of the ridge, an officer began turning the ladder wagons away from the town. Without their guns or their mech, his men had no business approaching its walls. The retreat spread along the column, untidy and quick.
 
