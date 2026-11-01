@@ -196,7 +196,7 @@ I turned it over, looking for the catch, a button, a tongue of metal hidden unde
 
 I put it on the boards and lifted my heel. Then I saw my own eye in the little mirror clasp. If I broke it while I was still inside, what would happen to me?
 
-I set my foot down beside it, then moved it onto a broken bench and backed away.
+I set my foot down beside it, then moved the compact onto a broken bench and backed away.
 
 My crown went with me.
 
@@ -228,8 +228,6 @@ He called down to Daystar and Redshift. “The star and the whistle. Give them t
 
 There were people behind that painted wall. My hands were shaking. I put one flat against my skirt to stop it and felt the hard round edge of the compact through the silk.
 
-The maker watched me from above, smiling.
-
 I looked at Briony. At the ribbon holding the wall. At the fallen bookshop banner tangled in its wheels.
 
 “All right,” I said.
@@ -256,7 +254,7 @@ The machinery halted with the painted wall a hand's width from Briony's face. Sh
 
 The costumier climbed onto the rail of his booth. His wings spread, dusty gold against the wrecked plaster, and he drifted down to the stage.
 
-He drifted over the broken stair. He hadn't needed it at all.
+He flew straight over the broken stair. He hadn't needed it at all.
 
 I went behind the fallen banner, pulling its free end across my arms as though I was frightened of dropping the things on the floor. Briony came to my left. Tansy remained beside the scenery ropes to my right.
 
@@ -332,11 +330,11 @@ Tansy hauled on the scenery rope.
 
 The ballroom's painted balcony swung down behind his heels, hemming him against the edge of the stage. He flinched, then turned back to me, the mirror braced in front of him.
 
-I let it die in my throat.
+He tilted the open glass towards my mouth.
+
+I let the fifth note die in my throat.
 
 The comet shuddered. I hung in the same horrible, brilliant pause as the day the monster had hit me with a bench.
-
-He tilted the open glass towards my mouth.
 
 I took the whistle out of my mouth and threw it.
 
