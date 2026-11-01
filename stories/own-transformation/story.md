@@ -320,9 +320,7 @@ I could feel the fifth waiting in the whistle. The high, clear note that would d
 
 The compact opened wide. He lifted it towards me, its naked glass facing the comet.
 
-Briony threw her ribbon at his wrist.
-
-Its first loop caught his wrist. The rest shot back twice as fast, binding her hands together. She fell to one knee, holding on, her weight pulling the unbroken line tight between them.
+Briony cast a loop round his wrist. The free length shot back and bound her hands. She kept making it. Dropping to one knee, she leaned back until the gold line jerked taut between them.
 
 “Tansy,” she gasped.
 
@@ -418,6 +416,8 @@ Briony glanced towards the corridor. Tansy was there with the bound costumier, k
 
 She took me through the surviving side door. The room beyond had a cracked mirror and a rail of old coats. Briony shut the door, unpinned her star, and held it out on her palm.
 
+“Use the side exit,” she said. “Wait for us round the back.”
+
 I didn't take it straight away.
 
 “The catch still works?”
@@ -428,4 +428,4 @@ She pressed it. The gold went out of her hair. For a moment it was only my frien
 
 I took the star and pressed the point that woke it. Her light spread through me.
 
-Outside, someone started calling for Daystar. Other voices took it up. I waited until Briony was safely behind the door, and went out in her face.
+Out at the front, someone started calling for Daystar. Other voices took it up. I waited until Briony was safely behind the door, and went out in her face.
