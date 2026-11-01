@@ -96,7 +96,7 @@ An old woman passed through the arch. She brushed two fingers against the gap, t
 
 “Seven. I escaped the first before anyone could write it down.”
 
-More places flickered in the air: a mark beneath a barred window, one cut into a saddle, one painted inside a child's little fist. The child was singing a song I had taught somebody in my last life but two. She had been seventy when she died.
+More places flickered in the air: a mark beneath a barred window, one cut into a saddle, one painted inside a child's little fist. The child was singing a song I had taught somebody in my last life but two. The woman I taught had been seventy when she died.
 
 “They invoke you,” Lethra said. “Before an escape. Before a dangerous journey. When a corner looks particularly tight. There is worship enough. You have demonstrated power. We are offering the authority.”
 
@@ -160,9 +160,11 @@ She looked at my legs. “You may keep your present appearance if you wish.”
 
 My hands were broad and brown and creased. A long grey braid lay over my shoulder. I had been prettier, but this was the face in which people had begun taking my advice about horses. I was fond of it.
 
+I put the apricot stone on the window ledge.
+
 “All right,” I said. “Tell me about leaving.”
 
-Lethra walked to the great black table in the middle of the hall.
+Lethra walked to the great black table in the middle of the hall. I followed her. My chair stood beside it, facing the other thrones.
 
 The world's coasts were inlaid across it in silver. Tiny lights shone on the mountains and cities. One, a pale blue point on the coast, moved a short distance while I watched.
 
@@ -196,11 +198,9 @@ My hand stopped on the back of the chair.
 
 “One year here,” she said. “First.”
 
-I put the apricot stone on the window ledge.
-
 “No.”
 
-“To learn your office. To understand what you can do.”
+“To learn your office. To understand what you can do. How to close a way you've opened, for a start.”
 
 “You can teach me while walking.”
 
@@ -217,6 +217,8 @@ That was the name I had worn in this last life. Lethra said it very softly. The 
 “I practised. They came every year.”
 
 I remembered the mask's heavy tassels brushing my neck, the living dancers' hands hot in mine. We had passed through the gate singing. I had nearly wept at the smell of their sweat.
+
+Outside the gate, the living had gone on in their bodies. I had had to be born into mine. My next triumph was learning to sit up.
 
 “You persuaded your mourners to put your favourite song into the funeral rite,” Lethra went on. “You waited for the next singer to take a breath and followed it back.”
 
@@ -266,7 +268,11 @@ She looked out at the orchard. One of the figures on the new wall had stopped to
 
 Lethra shut her eyes for a moment.
 
-“There will be rules,” she said.
+“If I can always find you,” she said, “I can teach you wherever you are.”
+
+I waited.
+
+“There will be rules.”
 
 “Yours too?”
 
@@ -322,13 +328,13 @@ We looked at each other.
 
 Then I let the way close and went to buy a pepper cake.
 
-The cook wanted three coppers. I had no money, which felt like an oversight in a goddess. While I was considering my credit, a hand laid three coins on his counter.
+The cook wanted three coppers. I had no money, which felt like an oversight in a goddess. While I was considering my credit, Lethra laid six coins on his counter.
 
-“Two,” Lethra said. She added three more.
+“Two cakes,” she said.
 
 She had arrived in a doorway across the street. Above it hung a little earthen figure of a woman with a silver pin in her hair. I had passed it for years without once considering where it might lead.
 
-The cook looked from her to the coins. He put a fourth cake on the plate and retreated to the far end of his pan.
+The cook looked from her to the coins. He put an extra cake on the plate and retreated to the far end of his pan.
 
 I carried the plate to a low table in the shade. Lethra followed with two stools. She set mine where she could sit opposite me.
 
