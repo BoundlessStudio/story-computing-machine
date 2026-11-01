@@ -166,7 +166,7 @@ I put the apricot stone on the window ledge.
 
 Lethra walked to the great black table in the middle of the hall. I followed her. My chair stood beside it, facing the other thrones.
 
-The world's coasts were inlaid across it in silver. Tiny lights shone on the mountains and cities. One, a pale blue point on the coast, moved a short distance while I watched.
+The world's coasts were inlaid across the table in silver. Tiny lights shone on the mountains and cities. One, a pale blue point on the coast, moved a short distance while I watched.
 
 “Our brother,” she said. “At his temple.”
 
