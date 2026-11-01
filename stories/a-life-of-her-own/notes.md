@@ -1,0 +1,7 @@
+# Editorial notes
+
+2026-11-01. New story; no supplied images. The quoted request, rather than any chosen marriage, motive, or moral, controls fulfillment. No shared-universe additions are proposed.
+
+Codex keeper, independent request-only understanding: Explicitly, a Lady Knight has notable “achievements, prowess, and renown,” and someone doubts she wants “just being a housewife.” “Discovering what this formidable woman values, and hearing her answer the belittling ‘just’” is an inferred pleasure; “a promise of personal agency” does not require any particular model of marriage. Wit, warmth, or a pointed reversal are suggested, but tone and present scale remain open. No spouse, children, conflict, or ending is specified. The anticipated payoff is a revealing response or choice that gives her ambition weight.
+
+Claude, independent request-only understanding: “Her greatness is a stated premise, not something to question.” It reads a prior expressed wish for domestic life in the speaker's response, and infers “domesticity treated as a real and chosen good,” reversed expectations of ambition, and “her agency.” It favors warm, wry intimacy but explicitly labels tone and scale as inferences. Partner, motive, external conflict, trauma, and viewpoint remain open. Coordinator: an intimate scale and earned rest are possibilities, not user requirements. Claude was authenticated through claude.ai with an active Pro subscription and no inherited API key; each initial reading uses a separate safe-mode session.
