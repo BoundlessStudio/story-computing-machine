@@ -94,6 +94,8 @@ I pulled my hand back.
 
 Someone behind me said, “There’s an escape-room thing, apparently. The front door’s amazing.”
 
+“Well, they can pack it in,” someone else said. “My taxi’s outside.”
+
 The man in green took my elbow.
 
 “He’s here sooner than I expected.”
@@ -132,7 +134,7 @@ He lifted the red ribbon. In one of its tiny openings, the skeleton’s plastic 
 
 “Tell me where Ephraim is,” he said, “and I can give you a way out.”
 
-I could see the bright kitchen through the blank places where his eyes should have been.
+The kitchen light shone on the blank places where his eyes should have been.
 
 “What about everybody else?”
 
@@ -212,7 +214,15 @@ Below him, a door stood against the cellar’s brick wall. It was narrow, painte
 
 Above us, the collector asked someone whether they had seen a gentleman in a green coat.
 
-“There’s another problem,” Ephraim said. “I left blood behind when I stole my daughter. He grew something out of it. Every child of hers is on that tree. Every child of theirs. Whenever there’s a way through, he can follow it to us.”
+“There’s another problem,” Ephraim said. “I left blood behind when I stole my daughter. He grew something out of it. Every child of hers is on that tree. Every child of theirs. Whenever there’s a way through, he can use it to find us.”
+
+“Use it how?”
+
+“The branches point the way. He reads them and follows.”
+
+“If he didn’t have the tree?”
+
+“Then he’d have to find us like anyone else.”
 
 Through the cabinet glass, a small copper leaf turned. For an instant I could read the writing on it.
 
@@ -292,7 +302,7 @@ The tree’s branches stirred towards me.
 
 There was my mother’s name. My father’s appeared on a smaller leaf joined to hers by a curling tendril. Above them were grandparents, great-grandparents, more names than I had ever managed to learn.
 
-Two branches had withered. Their leaves were black, although I could still read the writing.
+High branches bore dark, shrivelled leaves. My grandmother’s name was among them. Lower down, beside the living copper, two short branches had withered. I could still read the writing on their leaves.
 
 *Hettie Penrose.*
 
@@ -356,13 +366,15 @@ He closed his fingers around the watch.
 
 I turned back to the tree.
 
+In the Devil’s cabinet, it would keep pointing to us. In my pocket, it could tell him nothing.
+
 Its roots filled a black iron pot. I got both hands under the trunk and lifted. The pot came with it, impossibly heavy. A branch scraped my cheek.
 
 “What are you doing?”
 
 I hooked the pot over the mouth of the coat pocket.
 
-The weight went away. I fed the roots after it, then the trunk. Copper leaves brushed my chin. My own name passed my face, still bright.
+The weight went away. I fed the trailing roots after it, then the trunk. Copper leaves brushed my chin. My own name passed my face, still bright.
 
 “He’ll come for that,” Ephraim said.
 
@@ -402,7 +414,7 @@ We went through the white frame together. He shoved me up the cellar stairs ahea
 
 The collector caught his shirtsleeve at the bottom step.
 
-I stopped. Ephraim twisted, leaving a strip of linen behind, and slammed the cellar door between them. Its latch bounced. He held it with both hands.
+I stopped. Ephraim twisted, leaving a strip of linen behind, and followed me up. At the top he slammed the cellar door between them. Its latch bounced. He held it with both hands.
 
 “Into the crowd,” he said.
 
@@ -416,11 +428,11 @@ I clung to her for a second. Warm silver cloth crackled under my fingers.
 
 “The doors are broken,” I said.
 
-“I know. We’ve been trying to find the person doing it. Is it your guy?”
+“I know. It was funny twenty minutes ago. Is it your guy? People want to leave.”
 
 Across the room, the kitchen door opened. Ephraim backed through it. The collector followed, his fist closed round the watch.
 
-He would take Ephraim downstairs. He would secure him. If I could get the ribbon, I could let everyone out and take the treasury doorway away behind them.
+He would take Ephraim downstairs. He would secure him. If I could get the ribbon, I could let everyone out. Then I could use the coat to take the treasury doorway away behind them.
 
 I could close it with Ephraim on the other side.
 
@@ -448,7 +460,7 @@ He looked at my pockets, then at the collector. He seemed smaller in his torn sh
 
 He looked back at me.
 
-“Something small.” I held my fingers apart. “One link in a chain.”
+“Something small.” I held my fingers apart. “The clasp on a chain.”
 
 For the first time that night, he waited for me to go on.
 
@@ -468,17 +480,15 @@ His delight was a movement of the blank mask, a slight lift towards the ceiling.
 
 “You see?” he said to Ephraim. “They learn.”
 
-He took a chain out of his jacket. There were shackles at intervals along it. He fastened one around his own wrist, then held Ephraim’s hands together for the next two.
-
-I stood close, still holding Ephraim’s elbow. The watch had a long silver chain. To use both hands, the collector tucked it into his breast pocket.
+He took a pair of shackles and a short lead out of his jacket. The watch had a long silver chain. He tucked it into his breast pocket, then held Ephraim’s wrists together to fasten the shackles. The lead clipped onto them with a small iron clasp.
 
 “And the coat,” he told me.
 
-I made a fuss of undoing the buttons. They were old, and my fingers were trembling. People pressed against us. One of the vampires leaned over my shoulder to congratulate Ephraim on his costume.
+I made a fuss of undoing the buttons. They were old, and my fingers were trembling. People pressed against us. One of the vampires leaned over my shoulder to congratulate Ephraim on his costume. I got the coat off and held it bunched between the collector and me.
 
 I had spent years looking innocent while my hands did something else.
 
-When the collector reached for my collar, I stumbled into him. My right hand went between our bodies. The watch came out by its chain and dropped into the coat. Then I caught the red ribbon, slid its loop off his belt hook, and let the pocket take its folds.
+When he reached for it, I stumbled into him. My right hand went between our bodies, hidden by the wool. The watch came out by its chain and dropped into the front pouch of my sweatshirt. Then I caught the red ribbon, slid its loop off his belt hook, and tucked its folds beside the watch.
 
 The collector’s other hand closed on my shoulder.
 
@@ -488,35 +498,37 @@ The collector’s other hand closed on my shoulder.
 
 That, at least, was easy to believe.
 
-He pulled the coat down over my arms. The sleeves bunched thickly around my wrists. With the coat half off, I couldn’t reach its pockets or make a useful grab for anything. He fastened the last shackle over the piled cloth at my left wrist and drew the chain tight.
+He took the coat from me. He folded it over his arm, covering the torn pocket where the last twig had gone. His other hand took up Ephraim’s lead.
 
-“Both of you, then.”
+“Wait here,” he told me. “Once he’s safely shut away, you shall have your way out.”
 
-He led us towards the kitchen. Behind us, someone wolf-whistled. Someone else wanted to know whether this was a show.
+He led Ephraim towards the kitchen. Behind them, someone wolf-whistled. Someone else wanted to know whether this was a show.
 
-I kept my hands low. As the coat slid farther down my shoulders, I worked my left hand backwards through the sleeve. The shackle had closed on a fistful of folded wool. My wrist came free inside it.
+I stood in my red sweatshirt with my hands in its pouch until they reached the cellar stairs. Then I followed.
 
-I left the cuff hanging where he expected my hand to be.
-
-The collector didn’t look back. Ephraim went quietly on the chain. I followed at its end, carrying the coat around my elbows.
-
-We reached the cellar. The white door was still open against the wall.
+The white door was still open against the wall.
 
 The collector crossed first.
 
-Ephraim went after him. The chain lifted between them.
+Ephraim went after him, quietly on the lead.
 
 I stayed on the exercise mat.
 
-Inside the treasury, Ephraim closed his hands on a single link. I saw it bend. Then there was a little length of iron between his fingers and a gap where it should have been.
+Inside the treasury, Ephraim closed his fingers over the clasp at his wrists. The end of the lead dropped free. A little iron fastening showed between his fingers.
 
 The collector turned.
 
-Ephraim threw his hand back towards me.
+Ephraim hooked his bound hands under the coat on the collector’s arm and flung it through the doorway. It landed across my arms.
 
-I caught it.
+The collector caught his sleeve as he turned to follow it.
 
-For an instant, the collector had his other arm. Ephraim’s young face tightened. His shoes slid on the stone. I braced my foot against the frame and pulled with everything I had.
+I had the coat. The collector and Ephraim were both on the other side. I could take the doorway now.
+
+Ephraim reached his bound hands towards me.
+
+I let the coat fall across my shoulders and caught them.
+
+The collector still gripped his sleeve. Ephraim’s young face tightened. His shoes slid on the stone. I braced my foot against the frame and pulled with everything I had.
 
 “You shut it before,” the collector said to him.
 
@@ -526,7 +538,7 @@ I pulled again.
 
 His torn sleeve gave way. He fell through the doorway onto the mat, taking me down with him.
 
-I scrambled up, got the coat over my shoulders, and seized the white frame by its handle. The collector was coming towards us, trailing the broken chain.
+I scrambled up and seized the white frame by its handle. The collector was coming towards us, the empty lead hanging from his fist.
 
 The door tipped. For one moment it was as heavy as any door I had ever tried to carry. Then its lower corner touched the open pocket.
 
@@ -540,7 +552,7 @@ I stayed on my knees, holding the pocket shut.
 
 Above us, the song ended. People shouted for another.
 
-Ephraim was lying on his back, laughing without much breath. The broken shackles lay across his chest.
+Ephraim was lying on his back, laughing without much breath. His bound hands lay across his chest. He turned them over, and the shackles clicked open.
 
 I didn’t laugh with him.
 
@@ -624,7 +636,9 @@ I sat until it stopped ticking.
 
 Then I folded the shirt around what remained and put it carefully into the coat.
 
-Outside, the sky was beginning to pale. Devin walked back to campus with me. She lent me her phone charger, and didn’t ask about the coat again.
+Devin sat with me on the front steps until the first buses began to run. My phone charged just inside the hall. People said goodbye over our heads, and she didn’t ask about the coat again.
+
+When the sky began to pale, we walked back to campus.
 
 I called my mother from the steps of our residence.
 
