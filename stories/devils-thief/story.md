@@ -498,7 +498,7 @@ The collector’s other hand closed on my shoulder.
 
 That, at least, was easy to believe.
 
-He took the coat from me. He folded it over his arm, covering the torn pocket where the last twig had gone. His other hand took up Ephraim’s lead.
+He took the coat from me. He folded it over his arm, covering the torn lining where the last twig had caught. His other hand took up Ephraim’s lead.
 
 “Wait here,” he told me. “Once he’s safely shut away, you shall have your way out.”
 
@@ -520,7 +520,7 @@ The collector turned.
 
 Ephraim hooked his bound hands under the coat on the collector’s arm and flung it through the doorway. It landed across my arms.
 
-The collector caught his sleeve as he turned to follow it.
+Ephraim turned to follow the coat. The collector caught his sleeve.
 
 I had the coat. The collector and Ephraim were both on the other side. I could take the doorway now.
 
@@ -552,7 +552,7 @@ I stayed on my knees, holding the pocket shut.
 
 Above us, the song ended. People shouted for another.
 
-Ephraim was lying on his back, laughing without much breath. His bound hands lay across his chest. He turned them over, and the shackles clicked open.
+Ephraim was lying on his back, laughing without much breath. His bound hands lay across his chest.
 
 I didn’t laugh with him.
 
