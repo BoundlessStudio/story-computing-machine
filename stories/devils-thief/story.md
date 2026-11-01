@@ -186,6 +186,10 @@ He showed me the inside of his wrist. Beneath the skin, something moved slowly, 
 
 “Long enough.”
 
+“Then you want it started.”
+
+“Yes.”
+
 I looked at his young face again.
 
 “Why me?”
@@ -302,9 +306,11 @@ The tree’s branches stirred towards me.
 
 There was my mother’s name. My father’s appeared on a smaller leaf joined to hers by a curling tendril. Above them were grandparents, great-grandparents, more names than I had ever managed to learn.
 
-High branches bore dark, shrivelled leaves. My grandmother’s name was among them. Lower down, beside the living copper, two short branches had withered. I could still read the writing on their leaves.
+High branches bore dark, shrivelled leaves. My grandmother’s name was among them. Beside the branch for my great-grandmother, a short fork had withered. I could still read its leaf.
 
 *Hettie Penrose.*
+
+Farther down, close to my mother’s generation, another branch had stopped short.
 
 *Christopher Penrose.*
 
@@ -322,13 +328,13 @@ His hand stopped.
 
 “Hettie. Christopher. Did you take them?”
 
-“They came with me.”
+“They came with me. Hettie first. Christopher years later.”
 
 I looked back at the white doorway. It was broad enough for a person to run through. It was narrow enough for someone to close.
 
 “What happened?”
 
-“We were discovered.”
+“Each time, we were discovered.”
 
 “And?”
 
@@ -354,7 +360,7 @@ I could hear a laugh from upstairs. For a second, I hated whoever had laughed. T
 
 “Laurel.”
 
-“When you shut it. Were they there?”
+“Both times. When you shut it, were they there?”
 
 “Yes.”
 
@@ -430,6 +436,8 @@ I clung to her for a second. Warm silver cloth crackled under my fingers.
 
 “I know. It was funny twenty minutes ago. Is it your guy? People want to leave.”
 
+Two people had propped the front door wide with a chair. A third stood on it, working at the upper hinge with a screwdriver. Through the gap they had made beside the frame, I could see the kitchen again. A man in a Dracula cape was on the phone, insisting that he was at his front door and his taxi driver must be at the wrong house.
+
 Across the room, the kitchen door opened. Ephraim backed through it. The collector followed, his fist closed round the watch.
 
 He would take Ephraim downstairs. He would secure him. If I could get the ribbon, I could let everyone out. Then I could use the coat to take the treasury doorway away behind them.
@@ -442,7 +450,7 @@ I could close it with Ephraim on the other side.
 
 I went back into the kitchen.
 
-Ephraim had ducked behind the fridge again. The collector was working through the dancers, lifting masks to look beneath them. No one yet understood that he wasn’t part of the evening.
+Ephraim had ducked behind the fridge again. The collector was working through the dancers, lifting masks to look beneath them. A werewolf knocked his hand away and demanded that he open the doors. The collector slipped past, leaving the werewolf shouting after him.
 
 “He has the doors on his belt,” I whispered.
 
@@ -454,13 +462,19 @@ Ephraim nodded. His hands were shaking.
 
 He looked at my pockets, then at the collector. He seemed smaller in his torn shirt.
 
-“Fair enough.”
+“Fair enough. He’ll take the coat as well.”
+
+I pressed my hand over the pocket with the tree in it.
+
+“Then get that back to me first. I can’t take the doorway without it.”
+
+He nodded.
 
 “Can you steal something with your hands tied?”
 
 He looked back at me.
 
-“Something small.” I held my fingers apart. “The clasp on a chain.”
+“Something small.” I held my fingers apart. “The fastener on whatever he ties you with.”
 
 For the first time that night, he waited for me to go on.
 
@@ -474,17 +488,23 @@ I caught his elbow and took him out among the dancers.
 
 “Here!” I called. “I found him.”
 
-The collector turned. Everyone else kept dancing.
-
-His delight was a movement of the blank mask, a slight lift towards the ceiling.
+The collector turned. His delight was a movement of the blank mask, a slight lift towards the ceiling.
 
 “You see?” he said to Ephraim. “They learn.”
 
-He took a pair of shackles and a short lead out of his jacket. The watch had a long silver chain. He tucked it into his breast pocket, then held Ephraim’s wrists together to fasten the shackles. The lead clipped onto them with a small iron clasp.
+Music still thudded from the living room, but people crowded towards us, angry and curious. The man in the Dracula cape put his phone away.
+
+“Are you the one doing this?” he asked the collector. “It’s my house.”
+
+“One last thing to put away,” the collector said. “Then you can all go.”
+
+“Now,” the householder said.
+
+The collector took a pair of shackles and a short lead out of his jacket. The watch had a long silver chain. He tucked it into his breast pocket. Ephraim held out his wrists, and the collector fastened the shackles. The lead clipped onto them with a small iron clasp.
 
 “And the coat,” he told me.
 
-I made a fuss of undoing the buttons. They were old, and my fingers were trembling. People pressed against us. One of the vampires leaned over my shoulder to congratulate Ephraim on his costume. I got the coat off and held it bunched between the collector and me.
+I made a fuss of undoing the buttons. They were old, and my fingers were trembling. People pressed against us. Someone shoved through from the hall, carrying a useless hinge pin, and the householder had to make room. I got the coat off and held it bunched between the collector and me.
 
 I had spent years looking innocent while my hands did something else.
 
@@ -498,11 +518,17 @@ The collector’s other hand closed on my shoulder.
 
 That, at least, was easy to believe.
 
-He took the coat from me. He folded it over his arm, covering the torn lining where the last twig had caught. His other hand took up Ephraim’s lead.
+He took hold of the coat. For a moment I couldn’t release it. My mother’s name was in there. All of us, back in his hands.
+
+Ephraim met my eyes. I made my fingers open.
+
+The collector folded the coat over his arm, covering the torn lining where the last twig had caught. His other hand took up Ephraim’s lead.
 
 “Wait here,” he told me. “Once he’s safely shut away, you shall have your way out.”
 
-He led Ephraim towards the kitchen. Behind them, someone wolf-whistled. Someone else wanted to know whether this was a show.
+He led Ephraim towards the kitchen. The householder shoved a chair out of their way.
+
+“Get on with it, then.”
 
 I stood in my red sweatshirt with my hands in its pouch until they reached the cellar stairs. Then I followed.
 
@@ -604,7 +630,7 @@ I kept the watch in my hand.
 
 He nodded.
 
-“What you did. That you heard them and shut the door.”
+“What you did. That you heard each of them and shut the door.”
 
 “Yes.”
 
@@ -652,7 +678,7 @@ There was a silence at the other end.
 
 Her breath caught. I heard my father wake beside her.
 
-“I’m here,” I said quickly. “I came back. But I know what happened to Hettie and Christopher. He left them there, Mum. He shut the door.”
+“I’m here,” I said quickly. “I came back. But I know what happened to Hettie and Christopher. He left them there, Mum. He shut the door on each of them.”
 
 She made a small sound. My father was asking for the phone.
 
