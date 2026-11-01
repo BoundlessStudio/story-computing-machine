@@ -116,7 +116,7 @@ Lethra closed her hand.
 
 She drew a breath. I watched it lift the fabric at her shoulders. The gods were alive. They could fill their lungs, bruise a knuckle, bite an apricot. I had to remember to breathe in the orchard; nothing happened when I forgot.
 
-Lethra picked an apricot from the small tree beside the window and gave it to me. A small warmth ran from her fingers into mine. When I bit, sharp juice filled my mouth.
+Lethra picked an apricot from the small tree beside the window and gave it to me. A small warmth ran from her fingers into mine. For a few breaths my chest rose by itself. When I bit, sharp juice filled my mouth.
 
 I had been dead for less than an hour. I wanted the whole tree.
 
@@ -200,7 +200,7 @@ My hand stopped on the back of the chair.
 
 “No.”
 
-“To learn your office. To understand what you can do. How to close a way you've opened, for a start.”
+“To learn your office. To understand what you can do. Under my eye.”
 
 “You can teach me while walking.”
 
