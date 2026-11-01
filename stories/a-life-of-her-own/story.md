@@ -38,7 +38,7 @@ That reached her more readily than the silver. She put a hand on the baton.
 
 “No border duty. No sitting outside another fortress for six months. The first circuit would be north, after midsummer. Inspect the remounts, choose your officers. Take the long road if you please. You would be the marshal.”
 
-She could see it: the line of horses climbing out of the woods, their own mountain shadows overtaking them. There was a little inn on the northern road with a bed too short for her and a landlord who insisted on singing duets. Her old company would make her take the other part. She had never managed it sober.
+She could see it: the line of horses climbing out of the woods into the long shadows of the northern peaks. There was a little inn on the northern road with a bed too short for her and a landlord who insisted on singing duets. Her old company would make her take the other part. She had never managed it sober.
 
 She turned the baton beneath her fingers. It would travel easily in a saddle case.
 
@@ -64,7 +64,7 @@ Berolt glanced toward the singing, then back at her.
 
 “And you have had this offer for three minutes.”
 
-She smiled at him. It was a fair objection.
+She smiled at him. Before she answered, she would spend an afternoon in her own house.
 
 “Until evening, then.”
 
@@ -262,7 +262,7 @@ Piers rose to take the dishes from beside the oven. Berolt watched him, then loo
 
 “Yes, of course.” He turned the cup between his hands. “I admit I am at a loss.”
 
-She looked at the cup, correctly placed at his left hand.
+She looked at the wine she had warmed for him.
 
 “Piers doesn't like pears,” she said.
 
@@ -314,9 +314,9 @@ She considered. She would enjoy walking about the town with him. There was also 
 
 “What is the hill like behind the town?”
 
-“Steep. A good view at the top.”
+“Steep. A good view at the top. I sometimes take my lunch up and watch the hawks.”
 
-“Next week, then. On your afternoon off. We could take something to eat.”
+“Next week, then. On your afternoon off. Take me with you.”
 
 He looked up from his shoe.
 
