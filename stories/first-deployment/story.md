@@ -10,11 +10,11 @@ The photograph had been printed large enough to show the dents in my shoulder an
 
 “Departure,” I said.
 
-She turned it over again. There I was, coming out of smoke, one arm crooked against my chest, the other extended. Someone had made the sky very dark. I did not remember it being dark.
+She turned it over again. There I was, coming out of smoke, left hand spread against my chest, right-arm cannon angled down beside my leg. Someone had made the sky very dark. I did not remember it being dark.
 
-“Yours?”
+“You were leaving?”
 
-“The train’s.”
+“The train was.”
 
 Renn put the photograph beside her recorder. She was collecting interviews for the twentieth anniversary of the war’s end. Most of the soldiers she had spoken to were old now. I was old in a somewhat different way: the museum had had to check the floor loading before inviting me upstairs.
 
@@ -144,9 +144,7 @@ Forty-Four held the north end of the platform with six soldiers. More infected w
 
 There were too many to hold at the broken gate.
 
-The freight yard lay on the other side of the train, parallel to the passenger line. Beyond its nearer shed ran a narrow loading lane, open at the north end toward the street. A loading gantry leaned across it. One leg stood crooked on a foundation torn by earlier shelling. I had marked it as an obstacle when we arrived.
-
-Now I marked the southern end of the lane, where a service opening came out below the sheds.
+Across the train's track, a row of freight sheds screened a loading lane from the platform. Its north end opened toward the street crossing; a service gap at the south end led around the sheds to the road. Halfway down it stood a leaning gantry, one leg crooked on a foundation torn by earlier shelling. I had marked it as an obstacle when we arrived.
 
 “Sergeant,” I said, “I can take the ones at the crossing away from you.”
 
@@ -158,7 +156,7 @@ Dace was helping a soldier into the rear carriage. She looked out at them, then 
 
 “And how do you get out?”
 
-I sent her the route.
+“Through the south service gap.” I sent her the route.
 
 She looked along the sheds. “We’ll be on the south road. Don’t wait for an order.”
 
@@ -172,7 +170,7 @@ I did not use the voice setting.
 
 I passed behind the last carriage and stepped across its track into the freight yard. The warning siren was already sounding.
 
-Even with my hearing turned down, I felt it through the horn’s casing and the damaged bones of my arm. I held it high, facing the street crossing, and walked toward the loading lane.
+Even with my hearing turned down, I felt it through the horn’s casing and my damaged elbow. I held it high, facing the street crossing, and walked toward the loading lane.
 
 The infected nearest the train kept coming for the soldiers. Forty-Four met them.
 
@@ -250,11 +248,11 @@ I pushed again.
 
 The leg came off the foundation.
 
-I let myself drop away from it and scrambled south on my feet and one elbow. The chain hoist struck first. Then the crossbeam hit the lane behind me, with roof sheets and a mass of brick dragged down from the shed. Something caught the rear edge of my shoulder. I pulled free and kept moving.
+I let myself drop away from it and scrambled south on my feet and right elbow. The chain hoist struck first. Then the crossbeam hit the lane behind me, with roof sheets and a mass of brick dragged down from the shed. Something caught the rear edge of my left shoulder. I pulled free and kept moving.
 
 The lane was blocked. Not permanently. Shapes were already climbing into the wreckage. But they had lost their continuous signal, and the last loud thing had fallen behind me.
 
-I went through the service opening without firing again.
+I went through the service gap without firing again.
 
 On the far side of the sheds, Forty-Two and Forty-Three were moving toward the south road. The train was gathering speed beside them. They had cleared the lorry off the points and left it upside down in the weeds.
 
@@ -284,7 +282,7 @@ I heard him that time.
 
 He stepped back, pulling people out of the doorway, making a space where the suitcase had been.
 
-My shoulders were wider than the opening. Even undamaged, I could not have climbed those steps while the carriage moved. He must have been able to see that. He kept pushing the people back.
+My shoulders were wider than the opening. Even undamaged, I could not have climbed those steps while the carriage moved. He kept pushing the people back.
 
 “Come on!”
 
@@ -292,7 +290,7 @@ For a moment I continued beside him.
 
 That was when somebody took the photograph.
 
-I had not been raising my arm to fire. The cannon was pointed at the ground. I was lifting the fingers that still moved, trying to show him that I had heard.
+I could no longer raise my left elbow. I spread the fingers against my chest, trying to show him that I had heard. The cannon hung down beside my right leg.
 
 “I’m all right,” I called.
 
