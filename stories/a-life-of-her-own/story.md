@@ -14,7 +14,7 @@ The king had signed the peace that morning. Now he was appointing his officers t
 
 “I also want hens,” she said.
 
-Chancellor Berolt shut his mouth. Behind him, beyond the open doors, the farewell reception continued. A boy in livery was trying to carry away the great silver dish on which the king had presented Ameline with her spurs. The dish was wider than the boy. She caught his eye and indicated that he should put it down and fetch somebody to help.
+Chancellor Berolt shut his mouth. Behind him, beyond the open doors, the farewell reception continued. A boy in livery was trying to carry away the great silver dish on which the king had presented Ameline with a new pair of gold spurs. The dish was wider than the boy. She caught his eye and indicated that he should put it down and fetch somebody to help.
 
 “Hens,” Berolt repeated.
 
@@ -180,7 +180,7 @@ He picked up the bag, but she took it back.
 
 He kissed her cheek and went back to his bench. From the doorway he said, “There is something else. That blue coat you sent. I had the sleeves shortened.”
 
-“I know. I measured you in the dark.”
+“I thought you might. I measured you in the dark.”
 
 “I wondered.”
 
@@ -210,25 +210,15 @@ Piers came in carrying a candle that had burned almost down to its holder.
 
 “It was beginning to smell unfair,” he said.
 
-He lifted a fresh candle from the table and held the wicks together.
+He lifted a fresh candle from the table and held the wicks together. When the new wick caught, he set both candles down.
 
-“I have a confession,” Ameline said.
+“I never liked your aunt's song at our wedding,” Ameline said. “Whatever I wrote in my first letter.”
 
-“About the sleeves?”
+“Neither did I.”
 
-“About our wedding.”
+“You asked her to sing it.”
 
-He became still, the old candle tilted in his hand.
-
-“The song,” she said quickly. “During the feast. I wrote to say I wished I could hear it every night.”
-
-Piers looked at her. The new wick caught, and he set both candles down.
-
-“My aunt's song?”
-
-“I was trying to say something affectionate about your family.”
-
-“So was I when I asked her to sing it.”
+“She was very pleased to be asked.”
 
 “It had eleven verses.”
 
@@ -236,7 +226,7 @@ Piers looked at her. The new wick caught, and he set both candles down.
 
 Ameline leaned back against the table. Piers began to laugh, silently at first, then with such helplessness that he had to sit down.
 
-She watched him, delighted. There had been so little time at the wedding. She had been leaving at dawn; everyone had wanted to wish them joy, and then to wish her luck, and she had spent half the feast trying to say something memorable to her new husband. They had both praised the song.
+She watched him, delighted.
 
 “What else?” she asked.
 
@@ -248,7 +238,7 @@ She watched him, delighted. There had been so little time at the wedding. She ha
 
 Berolt arrived as the light began to leave the lane. He had a narrow leather case under his arm and no attendants.
 
-Piers admitted him and brought a third chair from the workroom. Ameline warmed a cup of wine by the hearth and set it on Berolt's left, where he could reach it without knocking his stiff elbow against the wall.
+Piers admitted him and brought a third chair from the workroom. Ameline warmed a cup of wine by the hearth and set it on Berolt's left.
 
 “Thank you,” he said automatically.
 
