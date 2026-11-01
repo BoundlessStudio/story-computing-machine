@@ -106,11 +106,11 @@ I put the cannon through the bars and fired until I had room. Then I stood, catc
 
 Dace pulled me through the opening.
 
-“Can you use that arm?”
+“Can you straighten that arm?”
 
-I tried to straighten it. The fingers worked. The elbow made a noise I had never heard from an elbow before.
+I tried. The elbow had jammed at a right angle. My shoulder still lifted it; my fingers still worked. Trying to straighten it produced a noise I had never heard from an elbow before.
 
-“Not usefully.”
+“No.”
 
 “Then stop trying.”
 
@@ -158,13 +158,13 @@ Dace was helping a soldier into the rear carriage. She looked out at them, then 
 
 “Through the south service gap.” I sent her the route.
 
-She looked along the sheds. “We’ll be on the south road. Don’t wait for an order.”
+She looked along the sheds. “We’ll be on the south road. Come out when you can.”
 
 I went to the small booth beside the platform stairs. Its door was gone. Inside, the station amplifier sat on a shelf under a row of switches. I shut it off.
 
 For the first time since we had arrived, the woman stopped asking people to board.
 
-There was a portable horn on the wall for use if the station system failed. I lifted it down with the hand that still closed, pulled its dead battery out, and connected it to my auxiliary supply.
+There was a portable horn on the wall for use if the station system failed. I lifted it down with my left hand, pulled its dead battery out, and connected it to my auxiliary supply.
 
 I did not use the voice setting.
 
@@ -192,19 +192,17 @@ The driver answered with two short blasts.
 
 A few heads turned back toward the sound. I raised my horn toward them, and they came on again.
 
-The train was clear to move. That did not mean it could move yet. Dace’s last people were still outside it. Forty-Four was walking backward along the platform, firing, with the soldiers in the space behind its armour.
+The points were clear, but Dace’s last soldiers were still boarding. Forty-Four walked backward along the platform, firing, keeping them behind its armour.
 
 I needed the crowd farther into the lane. I kept going.
 
-I had begun with enough ammunition to make the soldiers cheer. I had very little left. My cannon barrel was too hot for the next sustained burst, and the cooling system wanted more power than the horn could spare.
-
-I cut the barrel’s cooling cycle. A warning occupied part of my vision. I moved it aside so that I could see my footing.
+I had begun with enough ammunition to make the soldiers cheer. I had very little left, and my cannon barrel was too hot for another sustained burst. A warning occupied part of my vision. I moved it aside so that I could see my footing.
 
 Then I went under the gantry.
 
 Its crossbeam carried a chain hoist, black against the sky. The hoist rolled a short distance as the structure shifted in the wind. One of its hooks touched the shed roof. I heard that small knock distinctly through the siren.
 
-There was nobody in the lane but me and the infected. No heat in the open loading bays. No one hidden beneath the freight wagons at its mouth. I checked once more, then turned.
+No living heat showed in the open loading bays or beneath the freight wagons at the lane's mouth. I checked once more, then turned.
 
 The closest infected were nearly under the beam.
 
@@ -306,7 +304,7 @@ I told her I could walk.
 
 “You’ve had enough practice. Get on.”
 
-They lowered the ramp. Forty-Two moved across to give me room, and I put the damaged arm against its side so it would not swing on the journey out.
+Forty-Four was already aboard, watching the north approach. They lowered the ramp. Forty-Two moved across to give me room, and I put the damaged arm against its side so it would not swing on the journey out.
 
 ***
 
