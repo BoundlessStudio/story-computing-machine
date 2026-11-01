@@ -18,7 +18,7 @@ She came ashore when she saw him, lifting her white wings clear of the reeds. A 
 
 “Still asleep.”
 
-He had passed four of them in the fortress gallery: stone men, each with a stone sword resting between its feet. Their faces were the larger likenesses of those on Halla's collar. He had also climbed a chimney, crossed a floor that wasn't entirely there, and opened a cabinet whose lock bit him. The little punctures in his thumb had stopped bleeding. He kept that hand behind his back.
+He had passed four of them in the fortress gallery: stone men, each with a stone sword resting between its feet. Halla had told him the enchanter had carved them himself from blocks of granite. Their faces were the larger likenesses of those on Halla's collar. He had also climbed a chimney, crossed a floor that wasn't entirely there, and opened a cabinet whose lock bit him. The little punctures in his thumb had stopped bleeding. He kept that hand behind his back.
 
 Halla noticed anyway.
 
@@ -210,7 +210,7 @@ She reached up, seized the hilt, and pulled. The brackets tore out of the wall.
 
 For a moment she stood looking at the blade. Her thumb found a worn place on its grip.
 
-Then the last soldier came at her down the steps.
+Then the last soldier came at her across the terrace.
 
 Halla met it in two strides. Her sword swept up, took its stone weapon near the hilt, and broke it. A second blow struck the soldier across the waist. Its upper half slid sideways and fell with a thud that Roland felt through his boots.
 
