@@ -6,9 +6,9 @@ canon: false
 
 Sir Roland had brought a cloak, a pair of slippers, and the enchanter's knife.
 
-The cloak was his best one. The slippers, purchased that morning, were soft green leather with little silver roses at the toes. The knife had required considerably more trouble than either, but he did not mind. Halla was waiting under the willow.
+The cloak was his best one. The slippers, purchased that morning, were soft green leather with little silver roses at the toes. The knife had required considerably more trouble than either, but he did not mind. Halla was waiting under the willow. He stepped over a fallen limb on his way down the bank.
 
-She came ashore when she saw him, lifting her white wings clear of the reeds. A narrow silver collar lay against the feathers of her throat.
+She came ashore when she saw him, lifting her white wings clear of the reeds. A narrow silver collar lay against the feathers of her throat. Four tiny faces were worked into its clasp, their eyes closed.
 
 “You got it,” she said.
 
@@ -18,7 +18,7 @@ She came ashore when she saw him, lifting her white wings clear of the reeds. A 
 
 “Still asleep.”
 
-He had passed four of them in the fortress gallery: stone men, each with a stone sword resting between its feet. He had also climbed a chimney, crossed a floor that wasn't entirely there, and opened a cabinet whose lock bit him. The little punctures in his thumb had stopped bleeding. He kept that hand behind his back.
+He had passed four of them in the fortress gallery: stone men, each with a stone sword resting between its feet. Their faces were the larger likenesses of those on Halla's collar. He had also climbed a chimney, crossed a floor that wasn't entirely there, and opened a cabinet whose lock bit him. The little punctures in his thumb had stopped bleeding. He kept that hand behind his back.
 
 Halla noticed anyway.
 
@@ -64,7 +64,7 @@ For weeks her voice had been supplying the details of a woman he had never seen:
 
 He slipped the knife under the clasp.
 
-The collar opened with a snap. It struck the earth in two pieces. Halla's white wings swept upward, filling his sight, and the air smelled suddenly of snow.
+The four silver faces opened their eyes. Then the collar sprang apart with a snap and struck the earth in two pieces. Halla's white wings swept upward, filling his sight, and the air smelled suddenly of snow.
 
 Roland scrambled backward.
 
@@ -164,7 +164,7 @@ Halla glanced at their joined hands, and her mouth trembled with another suppres
 
 “I'm finding her difficult to remember.”
 
-She grew pink again. For a while neither spoke. Roland could feel the rough places on her palm, and the slow, careful pressure of her fingers around his. He put the slippers away, then laid his free hand over hers.
+Her thumb went still against his knuckles. For a while neither spoke. Roland could feel the rough places on her palm, and the slow, careful pressure of her fingers around his. He put the slippers away, then laid his free hand over hers.
 
 “May I—” she began.
 
