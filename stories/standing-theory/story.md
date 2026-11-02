@@ -196,19 +196,15 @@ I put it back.
 
 “So did I,” he said.
 
-I lifted the packet from the back. It was green along one edge and white over most of the rest. The picture showed several pale objects on a pale background. There was writing in small black print, but I couldn't decide which way up to hold it.
+I lifted the packet from the back. It was green along one edge and white over most of the rest. The picture showed several pale objects on a pale background. There was also writing in small black print.
 
-“Is there a label?” Helen asked.
+“Can you read the label?” Helen asked.
 
-“Yes.”
-
-“What does it say?”
-
-“I don't know.”
+“I can't tell which way up it goes.”
 
 “Send me a picture later. My sister buys a lot of that sort of thing.”
 
-I said I would. I put it down beside the blue dish and looked for a place to set my tea.
+I said I would. I put it down beside the blue dish.
 
 “What does Bram think it is?”
 
@@ -248,7 +244,7 @@ There was a little paper sticker on one side of the tub. Marden's, it said, abov
 
 “What's Marden's?” I asked.
 
-“I assume it's the restaurant.”
+“I assume it's a restaurant.”
 
 “Have you ordered from there?”
 
@@ -274,7 +270,7 @@ I turned the tub a little.
 
 “I'm not sure it is lengthwise.”
 
-Bram looked from the tub to its lid. I pressed the lid back on, working round the rim until the last corner held.
+I pressed the lid back on, working round the rim until the last corner held.
 
 “I'll just put this back.”
 
