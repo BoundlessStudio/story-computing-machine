@@ -98,7 +98,7 @@ The fridge made a small noise. It was the noise fridges make, although I listene
 
 “The things I bought.”
 
-He'd also thrown away a few things he didn't recognize.
+He said he'd also thrown away a few things he didn't recognize.
 
 “There were more things later,” he said. “I don't know if they were the same ones.”
 
