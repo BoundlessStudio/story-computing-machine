@@ -15,3 +15,7 @@ do not do something silly like that keep it dry humor based on vague obstavation
 ## Audience and content
 
 No audience, intensity, or further content direction was supplied. General is the shared starting target for content intensity; narrative ambition and scale remain open. The finished prose and cover will receive a reviewed rating.
+
+## Later art review request — 2026-11-02
+
+double check the character reference iamges.
