@@ -4,11 +4,11 @@ created: 2026-11-02
 canon: false
 ---
 
+Bram was in the living room, taking his washing off the end of the sofa. We had ordered dinner, and I had gone to find milk for the tea.
+
 “Hey, what is all that weird stuff in your fridge?”
 
 “Standing theory is that it opens up to and gets stocked from alternate realities.”
-
-Bram was in the living room, taking his washing off the end of the sofa. We had ordered dinner, and I had gone to find milk for the tea.
 
 “Where is the milk?”
 
@@ -22,7 +22,7 @@ I took out the milk and put it on the counter.
 
 “Are these things yours?”
 
-Bram came into the kitchen with the television remote in his hand. He looked into the fridge.
+Bram came into the kitchen and looked into the fridge.
 
 “Some of them.”
 
@@ -46,11 +46,7 @@ I poured milk into the mugs. Bram closed the fridge and took his tea.
 
 “How long has it been happening?”
 
-“I first noticed that packet on Tuesday.”
-
-“This Tuesday?”
-
-“Yes. But I think I'd been moving it out of the way for a while.”
+“I first noticed that packet on Tuesday. But I think I'd been moving it out of the way for a while.”
 
 He was wearing a grey jumper with one cuff turned back. I had known him for years. He had always been reasonably clear about ordinary events, provided you didn't ask him when they had happened.
 
@@ -62,9 +58,7 @@ He was wearing a grey jumper with one cuff turned back. I had known him for year
 
 “No.”
 
-He put the remote on the windowsill so he would be able to find it again.
-
-I opened the fridge for another look. The pale thing occupied a dish I had seen Bram use before. It was blue around the rim and had a chip shaped roughly like a thumbnail.
+I opened the fridge for another look. The folded thing occupied a dish I had seen Bram use before. It was blue around the rim and had a chip shaped roughly like a thumbnail.
 
 “This is your dish.”
 
@@ -88,10 +82,6 @@ He put his mug down and leaned against the counter, waiting while I looked. The 
 
 “There was a long dish once. I thought it was going to stop the door closing, but it didn't.”
 
-“It went farther back?”
-
-“I suppose it must have.”
-
 “How long was it?”
 
 He held his hands apart, considered the gap, then lowered them.
@@ -102,23 +92,15 @@ He held his hands apart, considered the gap, then lowered them.
 
 “It could have.”
 
-“Did you take it out?”
-
-“Not then. I was on my way to work.”
-
 The fridge made a small noise. It was the noise fridges make, although I listened to the rest of it.
 
 “Have you eaten any of this?”
 
 “The things I bought.”
 
-“And you've tried getting rid of the other things?”
+He'd also thrown away a few things he didn't recognize.
 
-“Yes.”
-
-“They came back?”
-
-“There were more things later. I don't know if they were the same ones.”
+“There were more things later,” he said. “I don't know if they were the same ones.”
 
 My phone rang before I could ask how much later. It was Helen, who had said she might come round. I let the fridge door shut.
 
@@ -154,7 +136,7 @@ I opened the fridge again.
 
 “Only from this side,” Bram said.
 
-He reached past me and turned the blue dish. At the back, the pale folds ended in a fine, rather even roughness. I had been about to call them leaves.
+He reached past me and turned the blue dish. At the back, the folds ended in a fine, rather even roughness. I had been about to call them leaves.
 
 “It could be fennel,” Helen said. “Does it have stalks?”
 
@@ -226,7 +208,7 @@ I lifted the packet from the back. It was green along one edge and white over mo
 
 “Send me a picture later. My sister buys a lot of that sort of thing.”
 
-I said I would. I put it down beside the pale thing in the dish and looked for a place to set my tea.
+I said I would. I put it down beside the blue dish and looked for a place to set my tea.
 
 “What does Bram think it is?”
 
@@ -282,7 +264,7 @@ I eased one corner of the lid up. Bram waited beside me while I went round the o
 
 “What's in it?” Helen asked.
 
-It was brown, with a pale line through some of it and sauce collected in one corner. There appeared to be less of it at one end. It looked sliced, but I couldn't find a cut face I was certain about.
+It was brown and low, with a thin cream-coloured line running along it. Sauce had collected in one corner. At one end, it looked as though someone had started cutting slices.
 
 “It's been cut lengthwise,” I said.
 
@@ -304,7 +286,7 @@ There was a knock at the front door. Bram went down the short hall, and a moment
 
 “Yes. It's here.”
 
-I closed the fridge and took the phone and my mug through. Bram had put the remote on the low table beside the plates. He checked the slip stapled to one bag, then took out the rice and the two dishes we had ordered. The portions were generous. He passed me a fork.
+I closed the fridge and took the phone and my mug through. Bram unpacked the rice and the two dishes we had ordered. The portions were generous. He passed me a fork.
 
 “I'll let you eat,” Helen said. “Did you work out what the other stuff was?”
 
