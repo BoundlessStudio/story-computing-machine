@@ -28,7 +28,7 @@ Anjet held out two fingers beside the pencil. Virelle stepped onto them and felt
 
 “All of me.”
 
-Anjet corrected the number's heading on her paper.
+Anjet crossed out *occupants* and wrote *forms* above the number.
 
 “Yes, I can do it. A body with places for you to rest against the nerves. You supply the thinking. While enough of you is in contact, you'll be able to speak and move through it.”
 
@@ -86,7 +86,7 @@ That night, when Sef asked over the reading line why she sounded tired, she said
 
 “Splendid. That's the interesting part.”
 
-Someone else joined the line, apologizing for being late, and he did not ask what it was.
+Someone else joined the line, apologizing for being late, and Sef did not ask what it was.
 
 He had first stayed on after the others left to argue about a carriage. Virelle had said the heroine of *The Ninth Horseman* could have escaped six chapters earlier if she had taken the carriage standing in the courtyard. Sef had said the driver was in it. The following night, he returned with the book and the page number.
 
@@ -324,7 +324,7 @@ She had caught the book by its pages. They were crumpling in her fingers. Carefu
 
 “How long have you had this?” he asked.
 
-“Since yesterday afternoon.”
+“It was finished yesterday afternoon.”
 
 The flower above his shoulder had opened while they were reading. Its white petals turned slightly backward at the ends. From her place on the leaf she could smell it; from her new nose she could smell Sef's coat, warm wool and a trace of smoke.
 
@@ -334,7 +334,9 @@ He was looking at her hand now. The little door stood open.
 
 “I didn't know.”
 
-He took a breath, then let it out again without speaking.
+He took a breath, then let it out again.
+
+“I wish you'd told me on the line.”
 
 She could shut the palm. Bring herself back inside, put on her coat and walk away. She knew how to do all those things now.
 
@@ -378,11 +380,11 @@ He looked from his palm to her face. She could feel his breath against the small
 
 “A little.”
 
-He said her name, much more softly than he had at the door.
+He said her name, much more softly than he had when he arrived.
 
 “Yes,” she said. “Like that.”
 
-He sat back against the bench. There was space between their shoulders. After a while she lifted her grown hand from her knee, and he met it with his other one.
+He sat back against the bench. There was space between their shoulders. After a while she closed the little door in her palm and lifted that hand from her knee. He met it with his free one.
 
 They stayed there until the bell sounded from the entrance gallery.
 
@@ -394,7 +396,7 @@ Sef looked down at the book between them.
 
 “I'd like to finish the page.”
 
-She moved from his palm to his wrist so he could pick it up. He hesitated with the volume in one hand, then shifted closer and laid it across both their knees. The crushed pages would not lie flat. He smoothed one with his thumb.
+She moved all three small bodies from his palm to his wrist so he could pick it up. He lifted the book with that hand, then shifted closer and laid it across both their knees. The crushed pages would not lie flat. He smoothed one with his thumb.
 
 “Here?” Virelle said, finding the line.
 
@@ -408,4 +410,4 @@ He followed her glance, then nodded. She moved from his wrist and settled beneat
 
 Then he read. The first words were uneven. She felt them forming against her feet before she heard them.
 
-Her new hand lay warm inside his. She held the page down with her thumb, and when her line came, she answered.
+Her new hand lay warm inside his. With her free hand she held the page down, and when her line came, she answered.
