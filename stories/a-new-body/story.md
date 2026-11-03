@@ -294,7 +294,7 @@ She opened the seam. It rose in a small curved door beneath her fingers. One par
 
 Then he jerked away.
 
-His heel struck the leg of the bench. The book slipped. Virelle caught it with her other hand before it reached the floor, and at the same time flew upward to a leaf.
+His heel struck the leg of the bench. The book slipped. Virelle caught it with her other hand before it reached the floor, while one of her small bodies flew up to a leaf. The other two clung to her green cuff.
 
 “Wait,” he said. “Give me a moment.”
 
@@ -352,7 +352,11 @@ He shook his head, then stopped, as though even that had been too quick.
 
 He gave a short, uncertain laugh. Then he looked toward the path, where the other visitors were moving beneath the plants. Virelle waited with her hand open. It had begun to feel heavy.
 
-“Are they fragile?” he asked at last.
+Sef moved back along the bench, toward her, and looked into her face.
+
+“I don't want you to go.”
+
+He looked down at her cuff. “Are they fragile?”
 
 “My wings are.”
 
@@ -364,7 +368,7 @@ She looked at his fingers. They were not quite steady.
 
 He laid it palm up on the bench.
 
-She left the leaf and came down slowly. He flinched when her feet met his skin, but he kept his hand open. She stood on the pad beneath his thumb. It was warmer than the air. Another part of her came from the edge of the cuff and settled on his first knuckle. The third followed to the base of his little finger.
+She left the leaf and came down slowly. He flinched when her feet met his skin, but he kept his hand open. She stood on the pad beneath his thumb. It was warmer than the air. Another part of her left her green cuff and settled on his first knuckle. The third followed to the base of his little finger.
 
 His pulse reached her in three places.
 
@@ -406,7 +410,7 @@ Before he began, she looked at the grey curl lying against his collar.
 
 “Could I sit there?”
 
-He followed her glance, then nodded. She moved from his wrist and settled beneath the curl, barely touching the skin. He raised his shoulder at the tickle, lowered it carefully, and waited until she was still.
+He followed her glance, then nodded. One of her small bodies lifted from his wrist and settled beneath the curl, barely touching the skin. She kept the other two at his wrist. He raised his shoulder at the tickle, lowered it carefully, and waited until she was still.
 
 Then he read. The first words were uneven. She felt them forming against her feet before she heard them.
 
