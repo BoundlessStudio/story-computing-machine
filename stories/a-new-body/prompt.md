@@ -3,6 +3,12 @@
 ## Supplied reference images
 - None
 
+## Later user directions
+
+i read it and dont enjoy it; try again;
+
+its needs a new direction
+
 ## Explicit constraints and audience
 
-No audience, intensity, genre, length, or ending was specified. The dialogue above is the complete request. General is the starting content target under the shared style guide, subject to a final rating of the finished prose and cover.
+No audience, intensity, genre, length, or ending was specified. The original dialogue and later user directions above control this remake. General is the starting content target under the shared style guide, subject to a final rating of the finished prose and cover.
