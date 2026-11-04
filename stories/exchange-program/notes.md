@@ -1,0 +1,9 @@
+# Editorial notes
+
+2026-11-04. New non-canon story; no supplied reference images or later story directions. Initial content target: General, with final classification deferred until prose and cover are finished.
+
+Codex keeper, request-only understanding before plot selection: "The difficulty must run both ways." Explicitly, two groups agree to a temporary location exchange and meet consequential weaknesses against corruption versus supervillains/crime. Its inferred pleasure is "reciprocal genre collision"; the understatement suggests amusement alongside possible danger. No particular friendship, romance, mentor relationship, tone, or resolution is required. The payoff may be adaptation, cooperation, rescue, or retreat, but should enact the mismatch on both sides. These inferences remain open to challenge.
+
+Claude, isolated request-only subscription reading: "Both are ensembles, not solo leads" and the incompetence "is discovered after the swap." Its inferred pleasure is "each genre's logic failing in the other's world," with affectionate, wry action-comedy and possible real stakes. Claude expects escalation and changed appreciation but marks those as interpretations; the ending, viewpoint, age, precise darkness, team size, and central relationship remain open. Its proposed parallel structure and short-story scale are preferences, not user constraints. Authentication checked with inherited API key removed: claude.ai, active Pro subscription.
+
+Authority read: the existing Solstice and Northbridge traditions and local superhero college do not govern all magical girls or superheroes. This story introduces distinct local teams and places, with no claimed links or additions to shared canon. A magic-active modernity is consistent with the shared premise without fixing it to the literal contemporary era.
