@@ -9,13 +9,21 @@ i read it and dont enjoy it; try again;
 
 its needs a new direction
 
-### Context for the latest reply
+### Context for the heist-direction reply
 
-The latest reply below answered this assistant question: “The fresh outline is a romantic space heist: Ilex sells his warship body to fund a date, then discovers Fara plans to steal it. Which direction should guide the remake?”
+The reply below answered this assistant question: “The fresh outline is a romantic space heist: Ilex sells his warship body to fund a date, then discovers Fara plans to steal it. Which direction should guide the remake?”
 
 ### User reply
 
 the idea is good but is dose work if you dont setup carefully.
+
+### Context for the body-role reply
+
+The following reply answered this assistant question: “The current outline has Ilex transfer back into the warship to escape, keeping the purchased body for future jobs. Which role should the new body have in the climax?”
+
+### User reply
+
+she ai cant she do both?
 
 ## Explicit constraints and audience
 
