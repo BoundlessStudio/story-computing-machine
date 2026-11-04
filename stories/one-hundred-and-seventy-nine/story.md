@@ -58,7 +58,7 @@ Vaska struck the harness inside her own body and felt the whole weight of Furnac
 
 The dragon stumbled. She dragged its head away from the ground and got the good foreleg beneath it before its throat struck the wrecked gun.
 
-Her synchronization climbed from 88.6 to 89.9. The limit alarm sounded once, a low note behind her left ear. Everything stopped getting closer. She knew the hind legs were still there, knew the live wing could lift, but her access to them had narrowed to the feeling of limbs going numb. The surviving relays were carrying all they could.
+She reached harder for the hind legs. Her synchronization climbed from 88.6 to 89.9, and the limit alarm sounded once, a low note behind her left ear. The ceiling held. She knew the hind legs were still there, knew the live wing could lift, but her access to them had narrowed to the feeling of limbs going numb. The surviving relays were carrying all they could.
 
 “Furnace Nine, status.”
 
@@ -86,7 +86,7 @@ The carrier's ramp remained open.
 
 Vaska brought up the neural map.
 
-The damaged trunk had forced most of Furnace's body off the filtered network. Beneath that network lay the direct pathways: every pressure sensor under every plate, every tendon motor, every vane along the throat. They were all still connected to the cockpit. The filters kept those signals from reaching a human nervous system together.
+The damaged trunk had forced most of Furnace's body off the filtered network. Beneath that network lay the direct pathways: the surviving pressure sensors, tendon motors, and throat vanes. Those branches still led back to the cockpit. The filters kept their signals from reaching a human nervous system together.
 
 She could open them. She would have control of the whole body again. For a little while.
 
@@ -166,7 +166,7 @@ On the forward view, the north gun flashed.
 
 Furnace turned.
 
-Vaska had not moved it. She felt its decision take shape before the impact: the ruined wing drawn in, the shoulder lowered, the cockpit tucked behind the thickest remaining armor.
+Vaska had not moved it. She felt its decision take shape before the impact: the good foreclaw hooking through a broken spar, hauling the dead wing across the cockpit, the shoulder lowering behind that shield of armor.
 
 The shell struck. A slab of black plating flew away into the salt. Her harness tightened and released. Furnace kept its feet.
 
@@ -244,7 +244,7 @@ Above the gun line the air was full of smoke. Vaska understood the direction of 
 
 “I can get above them.”
 
-A shape opened in the link. She saw the jump as Furnace felt it: the initial thrust, the roll that would follow, the sweep of the dead wing around its chest. That wing still held tons of armor. Its broken spars could turn toward the guns while the head came over the top of them. From there the throat would have a clear line into the open charge chambers.
+She felt the proposed jump: thrust, then a roll above the guns. The good foreclaw would hold the dead wing across the cockpit. The wing's armor could take the return fire.
 
 “The roll will pull your head down,” she said.
 
@@ -252,7 +252,7 @@ The tail moved in answer, carving an arc through the salt.
 
 “And the throat will overheat.”
 
-Furnace showed her the dead wing again. Beneath the plates, its heat channels remained whole. It could pour the excess there until the wing's great surface melted. It would never be a wing again.
+Furnace showed her the intact heat channels beneath that armor. They could take the surplus until the wing melted. It would never be a wing again.
 
 Vaska stared at the route. She had been trying to hold a broken aircraft level long enough to die in the right place. This would be a body throwing itself across the guns, spending what it could bear to lose.
 
@@ -294,7 +294,7 @@ For a moment the gun line vanished beneath the lip of the forward view. The sky 
 
 The launch drove Vaska into her seat.
 
-Furnace rolled. Salt fell from its belly in a pale stream. Below, the guns turned after it, barrels climbing together. The world swung across Vaska's sight; she resisted the urge to correct it. She could feel the tail, but Furnace was moving it. She could see the dead wing being drawn over the cockpit, but she did not have to fold it herself.
+Furnace rolled. Salt fell from its belly in a pale stream. Below, the guns turned after it, barrels climbing together. The world swung across Vaska's sight; she resisted the urge to correct it. She could feel the tail, but Furnace was moving it. The good foreclaw held the dead wing over the cockpit. She kept her own hands still.
 
 The first shot struck that wing. A second punched through it. Broken plates streamed behind them.
 
@@ -386,7 +386,7 @@ Vaska looked at the counter.
 
 179%.
 
-The second pattern was still there, attending to the ruined wing, to the air, to her. She had felt it become someone. She had trusted it with the carrier and her life. Yet she could not stop looking at the places where its trace met hers.
+The second pattern was still there, attending to the ruined wing, to the air, to her. She had trusted it with the carrier and her life. She had only known it where her own thoughts lived. She wanted it to be there when she was outside.
 
 “Furnace.”
 
