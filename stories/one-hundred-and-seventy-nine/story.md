@@ -72,7 +72,7 @@ She stopped trying.
 
 “No.”
 
-On the plain, the charge shutters along the guns' backs slid apart. The exposed chambers glowed dull red. At white heat the shutters would spread fully to vent, then slam shut an instant before firing. Vaska had watched that cycle through eleven campaigns, had taught other pilots to judge the last seconds of it from the light leaking under the armor.
+On the plain, the charge shutters along the guns' backs slid apart. Most chambers glowed dull red; farther north, some were already orange. At white heat each gun's shutters would spread fully to vent, then slam shut before it fired. Vaska had watched that cycle through eleven campaigns, had taught other pilots to judge the last seconds of it from the light leaking under the armor.
 
 These guns would be ready before the last carrier lifted.
 
