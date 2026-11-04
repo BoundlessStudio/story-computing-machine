@@ -164,11 +164,11 @@ There was no voice channel marker. The words had arrived where her own thoughts 
 
 On the forward view, the north gun flashed.
 
-Furnace turned.
+Furnace turned, sinking onto its haunches.
 
 Vaska had not moved it. She felt its decision take shape before the impact: the good foreclaw hooking through a broken spar, hauling the dead wing across the cockpit, the shoulder lowering behind that shield of armor.
 
-The shell struck. A slab of black plating flew away into the salt. Her harness tightened and released. Furnace kept its feet.
+The shell struck. A slab of black plating flew away into the salt. Her harness tightened and released. Furnace held.
 
 Behind the impact, under the alarms, she felt an enormous relief.
 
@@ -176,7 +176,7 @@ It was not hers. She was still afraid.
 
 “Who is that?” she asked.
 
-The answer took a moment. In that moment, Furnace shifted its weight off the crushed foreleg with an exactness she could not have managed through the broken relays.
+The answer took a moment. In that moment, Furnace let the wing fall and planted its good foreclaw beneath its chest. It stood with the crushed leg lifted clear.
 
 “Me.”
 
@@ -314,7 +314,7 @@ The northern galleries were white, their shutters drawn fully back. At the south
 
 She made herself wait.
 
-The dragon held its throat shut. Heat gathered behind the teeth. It was still turning, the last of the dead wing coming around its chest, bringing the ridge behind its right shoulder as she had asked.
+The dragon held its throat shut. Heat gathered behind the teeth. It was still turning, bringing the ridge behind its right shoulder as she had asked.
 
 The last yellow chamber went white. Its shutters spread wide. To the north, the first pair had just begun to close.
 
@@ -340,7 +340,7 @@ Its shutters snapped shut, covering the chamber before the beam reached it. The 
 
 “Stop,” Vaska said.
 
-The breath ceased. In the sudden change of light, she could see the last gun lifting toward Furnace's exposed throat. The dragon was coming down almost on top of it. There was no room to open the wing.
+The breath ceased. In the sudden change of light, she could see the last gun lifting toward Furnace's exposed throat. The dragon was coming down almost on top of it. There was no room to open the live wing.
 
 “Under us,” she said. “Barrel.”
 
