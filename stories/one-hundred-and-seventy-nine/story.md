@@ -178,7 +178,7 @@ The answer took a moment. In that moment, Furnace shifted its weight off the cru
 
 “Me.”
 
-Her map still showed the severed control trunk. Nothing had been repaired. Under the neural counter, the diagnostic trace had divided. For nine years there had been one source of decisions in that display, the activity of a human brain spreading into a machine. Now a second pattern was coming back along the paths she had opened. The instrument was counting both directions; no one had built it expecting the machine to reach back.
+Her map still showed the severed control trunk. Nothing had been repaired. Under the neural counter, the diagnostic trace had divided. For six years there had been one source of decisions in that display, the activity of a human brain spreading into a machine. Now a second pattern was coming back along the paths she had opened. The instrument was counting both directions; no one had built it expecting the machine to reach back.
 
 She could feel the one that was hers. It ended at an edge that was being held carefully in place.
 
