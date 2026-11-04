@@ -468,7 +468,7 @@ The gate opened.
 
 “Gladly,” said Fara.
 
-I passed between the lights. Once the crowded approaches were behind us, I opened my main drive. The station shrank in my stern cameras.
+I passed between the lights. Once the crowded approaches were behind us, I checked the traffic plot. The boarding launch was still rounding the station, three minutes from holding point six. I opened my main drive. The station shrank in my stern cameras.
 
 “Slight correction?” I asked.
 
