@@ -12,7 +12,7 @@ Its tracks came up first. Then the armored belly, shedding cables and white-hot 
 
 Inside the cockpit, her hands never moved. They lay open on her knees. The dragon's hands were hers, and its tail was hers, and the enormous black head bowed above the wreck was hers. She could feel the heat trapped between its teeth.
 
-The right wing was no longer hers. A shot had severed its control lines at the root. It dragged across the plain, plowing a furrow through the salt, although the furnace at its tip was still firing. She shut that furnace down before it could turn them in a circle.
+The right wing was no longer hers. A shot had severed its control lines at the root. It dragged across the plain, plowing a furrow through the salt, although the thruster at its tip was still firing. She cut the thrust before it could turn them in a circle.
 
 “Easy,” she told the machine. “We need the other one.”
 
@@ -28,6 +28,8 @@ Across the plain, the siege guns were moving again. Their low carriages followed
 
 On the rear display, the ridge was a black line against the dawn. White boarding lights ran along its edge. A carrier hung over them on its launch clamps, its vast lifting fans turning slowly enough that she could count the blades. Ground vehicles were still going up the ramp into its belly.
 
+At the foot of the ramp, a groundhand walked backward ahead of the last vehicle, one arm raised to guide it. He kept looking over his shoulder toward the guns.
+
 She put the dragon between the gun line and those lights.
 
 “How long?”
@@ -36,7 +38,7 @@ She put the dragon between the gun line and those lights.
 
 Vaska flexed Furnace's jaw. There was the familiar catch in the left hinge. She had flown with that hesitation for six years and knew precisely when to pull against it.
 
-She opened its mouth and let the furnace breathe.
+She opened its mouth and let it breathe.
 
 Orange light poured through the teeth. On the plain, salt lifted in a white wall. The beam struck the nearest siege carriage, ran up its forward armor and tore the barrel from its mounting. She kept the breath narrow, drawing a line across the ground ahead of the others. They turned away from it. One crawler backed into another and stopped.
 
@@ -70,7 +72,7 @@ She stopped trying.
 
 “No.”
 
-On the plain, the charge shutters along the guns' backs slid apart. The exposed chambers glowed dull red. Vaska knew that color. She had watched it brighten through eleven campaigns, had taught other pilots how to judge the last seconds before a shot from the light leaking under those shutters.
+On the plain, the charge shutters along the guns' backs slid apart. The exposed chambers glowed dull red. At white heat the shutters would spread fully to vent, then slam shut an instant before firing. Vaska had watched that cycle through eleven campaigns, had taught other pilots to judge the last seconds of it from the light leaking under the armor.
 
 These guns would be ready before the last carrier lifted.
 
@@ -84,7 +86,7 @@ The carrier's ramp remained open.
 
 Vaska brought up the neural map.
 
-The damaged trunk had forced most of Furnace's body off the filtered network. Beneath that network lay the direct pathways: every pressure sensor under every plate, every tendon motor, every vane on the furnace throat. They were all still connected to the cockpit. The filters kept those signals from reaching a human nervous system together.
+The damaged trunk had forced most of Furnace's body off the filtered network. Beneath that network lay the direct pathways: every pressure sensor under every plate, every tendon motor, every vane along the throat. They were all still connected to the cockpit. The filters kept those signals from reaching a human nervous system together.
 
 She could open them. She would have control of the whole body again. For a little while.
 
@@ -178,13 +180,9 @@ The answer took a moment. In that moment, Furnace shifted its weight off the cru
 
 “Me.”
 
-Her map still showed the severed control trunk. Nothing had been repaired. Under the neural counter, the diagnostic trace had divided. For six years there had been one source of decisions in that display, the activity of a human brain spreading into a machine. Now a second pattern was coming back along the paths she had opened. The instrument was counting both directions; no one had built it expecting the machine to reach back.
+The control trunk still showed severed. Under the neural counter, the diagnostic trace had divided. One pattern was hers. A second was coming back along the paths she had opened. The instrument was counting both directions; no one had built it expecting the machine to reach back.
 
-She could feel the one that was hers. It ended at an edge that was being held carefully in place.
-
-Beyond that edge was Furnace.
-
-It was taking the weight of itself: the motor timings, the furnace currents, the shudder of damaged armor. What reached her came through its attention. A shape to the left was a gun it was watching; the pull beneath them was a leg it was using. She could bear to know those things without becoming all of them.
+Her thoughts ended at an edge that was being held carefully in place. Beyond it was Furnace, taking the weight of itself. What reached her came through its attention: a gun it was watching, a leg it was using. She could bear to know those things without becoming all of them.
 
 “Furnace?”
 
@@ -195,8 +193,6 @@ Vaska stared at the black neck curving above the forward camera. On her right, a
 “You can hear me.”
 
 “I could feel you going.” Its attention tightened around the little rhythm in her chest. “There had to be somewhere for you to stay.”
-
-She understood it in the same way she understood the claw pressed into the plain. It had made that somewhere by finding the difference between them. The effort had gathered into someone who could do it.
 
 “Control to Furnace Nine. Vaska, respond.”
 
@@ -242,7 +238,7 @@ Through the link came the sensation of a hand closing around something small. Th
 
 It looked up.
 
-Above the gun line the air was full of smoke. Vaska understood the direction of its attention before she understood the proposal. The live wing folded against its back, furnace pointing down. Its good hind foot searched for a purchase in the bedrock.
+Above the gun line the air was full of smoke. Vaska understood the direction of its attention before she understood the proposal. The live wing folded against its back, thruster pointing down. Its good hind foot searched for a purchase in the bedrock.
 
 “You can't fly on one wing.”
 
@@ -294,7 +290,7 @@ She kept her fingers curled.
 
 Furnace rose on its hind legs.
 
-For a moment the gun line vanished beneath the lip of the forward view. The sky filled it instead. The surviving wing's furnace opened, white at its center, and the whole dragon left the plain.
+For a moment the gun line vanished beneath the lip of the forward view. The sky filled it instead. The surviving wing's thruster flared, white at its center, and the whole dragon left the plain.
 
 The launch drove Vaska into her seat.
 
@@ -310,17 +306,17 @@ Furnace's attention flicked toward it.
 
 The head came round.
 
-Below them, the backs of the siege engines lay open. Their thick forward shields faced the ridge. From above, Vaska could see the long charge galleries shining between rows of raised armor.
+Below them, the siege engines' thick forward shields faced the ridge. From above, Vaska could see the long charge galleries shining through gaps in their back armor.
 
 Not yet.
 
-The nearest gallery brightened to white. The next was still yellow. If she fired now, Furnace would strike the raised shutters on the far side before it could reach the rest of the battery.
+The northern galleries were white, their shutters drawn fully back. At the southern end of the line, one chamber still shone yellow beneath half-open armor. A sweep now would reach that gun before it opened. She needed the whole line exposed at once.
 
 She made herself wait.
 
 The dragon held its throat shut. Heat gathered behind the teeth. It was still turning, the last of the dead wing coming around its chest, bringing the ridge behind its right shoulder as she had asked.
 
-The second gallery went white.
+The last yellow chamber went white. Its shutters spread wide. To the north, the first pair had just begun to close.
 
 “Now. Start north and sweep with the turn.”
 
@@ -334,17 +330,17 @@ Fire struck the northern gun straight down its exposed spine.
 
 For an instant, every seam in the carriage shone. Then the armor burst outward, and Furnace's turning body carried the beam into the next gallery, and the next. Barrels toppled across one another. The ground between the guns became a single moving sheet of light.
 
-Vaska kept the attack's far edge in her mind. Behind the right shoulder. Below the ridge. Furnace felt the boundary she was holding and bent its neck to follow it. On the rear view, firelight washed across the carrier's belly. The beam itself stayed beyond the dragon, pointed away from the ridge.
+Vaska kept the attack's far edge in her mind. Behind the right shoulder. Below the ridge. Furnace felt the boundary she was holding and bent its neck to follow it. On the rear view, firelight washed across the carrier's belly. The dragon's body remained between the ridge and the sweep of fire.
 
 The dead wing glowed along every spar. Its heat channels were taking more than they had been built to carry. Plates sagged. A long strip of armor peeled away, orange and soft, and flew spinning into the smoke.
 
 There was one gun left beyond the fire.
 
-Its shutters snapped shut.
+Its shutters snapped shut, covering the chamber before the beam reached it. The dead wing's heat channels burned through, going black on the map. Heat was backing into the throat.
 
 “Stop,” Vaska said.
 
-The breath ceased. In the sudden change of light, she could see the last gun lifting toward Furnace's exposed throat. The dragon was coming down almost on top of it. There was no room to open the wing, and the furnace's heat warning filled half her display.
+The breath ceased. In the sudden change of light, she could see the last gun lifting toward Furnace's exposed throat. The dragon was coming down almost on top of it. There was no room to open the wing.
 
 “Under us,” she said. “Barrel.”
 
@@ -382,7 +378,7 @@ Furnace turned away from the burning battery. It took them back toward the ridge
 
 Furnace tried it. Adjusted it. Found a way to carry the weight.
 
-At the shelter of the ridge, it lowered itself onto its belly and shut the wing furnace down. Steam rose around the neck. The distant guns made little ticking noises as their metal cooled.
+At the shelter of the ridge, it lowered itself onto its belly and shut the wing thruster down. Steam rose around the neck. The distant guns made little ticking noises as their metal cooled.
 
 “Rescue flight's coming back for you,” Control said. “Can you disconnect?”
 
