@@ -1,0 +1,5 @@
+# Editorial notes
+
+2026-11-04. New story; no canon promotion requested. The original image was inspected and preserved. No audience was specified; General is the starting content target, without limiting scale. No existing story is being edited and no new shared facts are being established.
+
+**Codex keeper, request-only first reading:** Explicit requirements are the unaware painted population, free-spirited ranch girl, three material anomalies, centuries-abandoned unfinished painting, and the question of becoming real without destroying home. No specific interpersonal relationship or ending is requested. Inferred pleasure: “beautiful things becoming disquieting clues, then possibilities she can investigate or act upon”; “the central specified tension is between her desire for a different existence and the continued existence of her home.” The keeper expects discovery to change her choices, with a personal viewpoint and world-wide possible cost. The image's warm ranch, horses, black-haired smiling woman, red clothing, gold leaf and dissolving edges guide appearance and atmosphere; exact pose and jewelry are incidental.
