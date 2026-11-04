@@ -112,7 +112,7 @@ For the sale, I closed the hull connection. The outer cameras and the long sensa
 
 My keys still appeared in my paired-body list.
 
-“Once they seat their new ownership module, your keys stop working,” the bodywright said. He pointed out the slot beside the aft bridge door, presently occupied by my old key block. “Their crew will do it at collection.”
+“Once they seat their new ownership module, your keys stop working,” the bodywright said. He pointed out the ownership slot beside the aft bridge door, where my old block sat behind a bolted retaining frame. “Their crew will do it at collection.”
 
 He used the manual helm to test a steering vane. The room obeyed him without my assistance. I disliked that more than I had expected.
 
@@ -268,7 +268,7 @@ The man looked at the warrant in Fara’s hand.
 
 He held out his hand.
 
-The technician went to the slot beside the bridge door and opened the retaining clips on my old module.
+The technician set the replacement on the console ledge and began working a driver around the old block’s security bolts.
 
 Fara turned to me. Her voice went quiet.
 
@@ -286,7 +286,7 @@ Her eyes flicked down my new suit, then to the old ownership slot.
 
 “I’m *Indemnity*.”
 
-The technician tugged out my old key block.
+The driver clicked behind me.
 
 “This is also me,” I said, touching my chest. “I didn’t want you to know.”
 
@@ -300,7 +300,7 @@ For one second Fara said nothing.
 
 “I was hoping to be impressive.”
 
-She looked at the collection officer, the restraint bands, the technician holding my replacement, and finally back at me.
+She looked at the collection officer, the restraint bands, the technician working at my ownership slot, and finally back at me.
 
 “You’ve made an impression.”
 
@@ -326,7 +326,7 @@ The collection officer’s complaint was brief and muffled.
 
 “PLEASE RETURN TO YOUR RECEIVING VESSEL,” I added through the passage speakers.
 
-The technician had the replacement module in her right hand. She lunged towards its slot.
+The last bolt came free. The technician put down her driver, drew out my old block, and scooped up the replacement. Her right hand moved towards the empty slot.
 
 Fara threw the folded warrant at her face.
 
@@ -396,9 +396,9 @@ She looked at the green light on her wrist, then at me.
 
 “Yes.”
 
-She took one more look at the tug.
+She showed me the breaker’s offer on her controller, then declined it. The figure for my engines disappeared. She laid her free hand on the helm.
 
-“Show me its clamps.”
+“I still want the tour,” she said. “Show me its clamps.”
 
 I put the stern cameras on the main display.
 
@@ -464,7 +464,7 @@ Fara put a hand out without looking. I put mine into it and pulled her away from
 
 The gate opened.
 
-“Proceed to holding point six. Await inspection,” said control.
+“Your warrant is disputed,” said control. “I want that live reactor clear of the passenger moorings. Proceed dead slow to holding point six. No main burn. Security will board you there.”
 
 “Gladly,” said Fara.
 
