@@ -294,6 +294,8 @@ Beyond the clear wall, Iona was watching us. She could not hear.
 
 I touched the storage body. I had left it with Thren because, if I came apart, I had wanted to be returned by someone who knew what mattered. There was nothing cruel in the offer. I could have accepted it and spent the next thousand years with my oldest friend, beginning with the story of an astonishing thing I had almost done.
 
+With Iona there might be decades. Her body would age, and we had no tested way to carry a joined mind beyond it. Thren was offering me centuries in which I could still change my mind.
+
 “Will you stay?” Thren asked.
 
 Behind it, a low-bodied Oru was singing the wrong chord to itself. I remembered the sleeve against my cheek. I remembered lying on heated glass beside Thren, waiting until I was ready to get up.
@@ -348,7 +350,15 @@ I could hear a small mechanism working inside the chair as she adjusted it.
 
 She left the paper bag on the table between us.
 
-When Iona returned, I asked whether she wanted more time.
+When Iona returned, she brought a notebook. Most of its pages were careful copies of city views I had sent. On the last she had drawn the square from the trial, with a crooked line disappearing between two houses.
+
+“I keep trying to follow this,” she said.
+
+“It's the way home.”
+
+“I know. I want to stop at the right door before I have to think which one it is.”
+
+She left the page open beside the chair. I asked whether she wanted more time.
 
 “Yes,” she said. “I also wanted more time yesterday. I expect I could want it for years.”
 
