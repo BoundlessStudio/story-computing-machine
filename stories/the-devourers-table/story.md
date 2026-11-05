@@ -324,23 +324,13 @@ The Whale's lower jaw was lifting. On the mountain, the nearest village slid tow
 
 I had lost more than the butter.
 
-I lunged for the stove. One claw caught its iron handle. With my other hand I sent a fan of silk around the falling village. I had used this much strength that morning and thought it remarkable.
+I caught the stove by its iron handle and the falling village in a fan of silk. My other six bodies heaved against the breaking ground: a collapsing hill in the red country, a split road in the forest, a wall beneath the white city.
 
-Now six other bodies were pulling with me.
+The Whale flexed its keeping-organ. The piece in my pan began to curl. I breathed frost over it and killed the flame.
 
-In the red country I stood against a collapsing hill. In the forest I held two sides of a split road. Beneath the white city I braced my shoulders under a wall and pushed.
+I could still cut through the great muscle and leave the mountain's people outside my mouth. The six other suns shone through the Whale's ribs.
 
-The Whale flexed its keeping-organ. The piece in my pan began to curl.
-
-I breathed frost over it and killed the flame.
-
-For a moment everything held.
-
-I could still cut the great muscle all the way through. The mountain would settle. Its people would live outside my mouth.
-
-The six little gold suns shone through the Whale's ribs.
-
-I put the little pan out of my thoughts. The flavor did not go with it.
+I turned back to my pan. The flavor I had refused did not leave me.
 
 There was no more butter. I had no time to warm another bath. I had a strip of citrus peel, the last of the amber fruit, and the clean fat the keeping-organ itself was beginning to release.
 
@@ -352,8 +342,6 @@ I lowered my mouth to the board and used my teeth to hold the little packet shut
 
 Behind the cold, the organ was still warm. I put it in the copper pan, covered it, and held the pan between my palms. The fire I made there was small and exact.
 
-There was nothing else to do but keep it steady.
-
 The Whale began its final swallow.
 
 Around the mountain, the last six thresholds tore out of their stone frames. A line opened in the sky above the bell tower. I had spent the time in which I could have kept that sky outside.
@@ -362,7 +350,7 @@ I let the gale serpent's body move through mine. My spine lengthened. My legs to
 
 With my hooked right hand I caught the upper jaw. The lower one pushed against my feet.
 
-I opened my throat and sang the song that kept injured flesh together. I spread the stormback's shelter around the mountain. My six bodies breathed the frost-fox's cold against the walls of their six failing skies.
+I opened my throat and sang the song that kept injured flesh together. I spread the stormback's shelter around the mountain. My six bodies breathed frost against the walls of their six failing skies.
 
 I held the pan against my chest with my chin.
 
