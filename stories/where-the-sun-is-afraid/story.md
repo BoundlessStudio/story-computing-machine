@@ -256,6 +256,6 @@ She found her hands again.
 
 The small black shape waited in the thought before her. Within it was room for an awakening she had only begun to imagine.
 
-“Show me that part again,” she said. “Before the mouth.”
+“Show me what it could become,” she said. “I need to tell them what they would be taking.”
 
 The Sun's light trembled. She held it while the unwakened brightness opened before her, and the morning climbed around them.
