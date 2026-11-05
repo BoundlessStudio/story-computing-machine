@@ -16,6 +16,10 @@ its not a normal prequel/squeal its setup and payoff..
 
 yes exactly. the warning is the setup and the vampire story is the payoff. focus on that and write the story.
 
+## User clarification about readers
+
+i would like to understand why its so low; i think it fits the [WP] nicely even if the reader dose not know the connection exists...
+
 ## Located continuity source
 
 Coordinator identification of the user's vampire-story reference: *What the Sun Is Owed*, at stories/what-the-sun-is-owed/story.md. Its existing prose supplies the continuity and later-payoff context for this story; it remains non-canon and is unchanged. This identification does not add user requirements or promote shared facts.
