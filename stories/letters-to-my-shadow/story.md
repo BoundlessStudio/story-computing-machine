@@ -172,17 +172,7 @@ I made it peck his sleeve. He darted away so quickly that I laughed and dropped 
 
 He asked me to do it once more, slowly. I showed him my fingers as well as the shape they made. He moved between them, inspecting the arrangement. I was used to people asking how a trick worked and being disappointed when you told them. Nadrel looked more interested with every answer.
 
-By the time the sun had gone behind the beech trees, we were kneeling on opposite sides of the edge of the bandstand floor, trying to make my goose acquire a respectable neck.
-
-“It needs another thumb,” I said.
-
-“You could borrow mine.”
-
-“I need it attached to me.”
-
-“Then I cannot help.”
-
-We moved under the roof for the torches.
+When the sun went behind the beech trees, we moved under the roof for the torches.
 
 I pulled on my cardigan and set the torches a yard apart on the front ledge, aiming them toward the back wall. Nadrel stood well to one side of the beams while I took my place between the lights and the boards.
 
@@ -201,8 +191,6 @@ Nadrel's hand moved. He stopped it before he reached the blank boards.
 “I haven't hurt anything,” I said.
 
 “I can see that.” He looked at me, then back at the wall. “I needed to see that.”
-
-I put the first light on again and switched off the second. The remaining figure vanished and its twin took its place.
 
 I turned both beams on again. Nadrel came closer. He passed one hand through the gray place where the two shadows overlapped. His fingers remained distinctly his own. Mine stayed down by my side.
 
