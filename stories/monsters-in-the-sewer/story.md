@@ -118,7 +118,11 @@ The man held a monitor against his chest. In its top corner Tikka recognized the
 
 He lowered his voice. “People like the promise.”
 
-The woman extended a metal pole. At its end, a padded loop opened and closed. With it she lifted the mat over Tikka's first pit.
+The woman held a laminated card in front of the crawler. Tikka could read EXOTIC ANIMAL RECOVERY and a telephone number.
+
+“Leave that in for customers,” the woman said. “Everything we take is quarantined before sale.”
+
+She extended a metal pole. At its end, a padded loop opened and closed. With it she lifted the mat over Tikka's first pit.
 
 Tikka's tail tightened around a rung.
 
@@ -136,7 +140,7 @@ Tikka had not understood the flat wire things at first. Then the man opened one,
 
 “The buyer wanted an adult pair. Young, if there are any.”
 
-“Then keep your voice down.”
+“Then keep your voice down. You'll send them deeper.”
 
 The woman looked up.
 
@@ -230,11 +234,13 @@ The head retreated, beckoning with its open mouth. The crawler followed. So did 
 
 “Keep them together,” the woman said. “Don't let them get down those side holes.”
 
-Tikka, under the dragon's chin, could see a procession of feet: clawed feet beneath cloth, then two pairs of enormous boots. The net moved over her back and was gone. High on the kitchen gallery, the bicycle bell gave one soft, indignant ping.
+Tikka, under the dragon's chin, could see a procession of feet: clawed feet beneath cloth, then two pairs of enormous boots.
 
 They were in the hall.
 
-The man stepped over the threshold for a better view, planting a boot on the trailing cloth. The woman followed, pinning another fold and reaching for the dragon's head. Its jaws opened, and Tikka saw her raincoat still caught in the loop of the capture pole.
+The net slid over Tikka's shoulders toward the open mouth. Hidden by the long skirts, its bearers spread it flat between the threshold and the head. They left the cloth lying over the mesh and crept clear along either wall. Tikka backed the helmet to the far edge of the net. High on the kitchen gallery, the bicycle bell gave one soft, indignant ping.
+
+The man stepped over the threshold for a better view, planting a boot on the dragon's spread skirt. The woman followed, pinning another fold and reaching for the dragon's head. Its jaws opened, and Tikka saw her raincoat still caught in the loop of the capture pole.
 
 She snapped the jaws again. Vetch, beside her under the helmet, hissed, “It's three at the door.”
 
@@ -244,9 +250,9 @@ She snapped the jaws again. Vetch, beside her under the helmet, hissed, “It's 
 
 Tikka snapped a third time.
 
-At the tail, a flap of sleeping bag dropped over the crawler. Its light vanished beneath blue cloth. The dragon split along its back.
+Beside the head, a flap of sleeping bag dropped over the crawler. Its light vanished beneath blue cloth. The dragon split along its back.
 
-Kobolds came up out of it and down off the shelves. The long body fell away from the grocery net; ropes tightened; the humans lurched into each other. Someone in the gallery pedaled furiously. The man dropped his monitor, and it swung against his knee on its strap.
+Kobolds burst from its sides, clear of the net; others came down off the shelves. The long skirts lifted with the ropes beneath them, and the humans lurched into each other. Someone in the gallery pedaled furiously. The man dropped his monitor, and it swung against his knee on its strap.
 
 The net rose around them.
 
