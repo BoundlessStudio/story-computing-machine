@@ -296,7 +296,7 @@ I touched the storage body. I had left it with Thren because, if I came apart, I
 
 With Iona there might be decades. Her body would age, and we had no tested way to carry a joined mind beyond it. Thren was offering me centuries in which I could still change my mind.
 
-“Will you stay?” Thren asked.
+“Will you come home with me?” Thren asked.
 
 Behind it, a low-bodied Oru was singing the wrong chord to itself. I remembered the sleeve against my cheek. I remembered lying on heated glass beside Thren, waiting until I was ready to get up.
 
@@ -304,7 +304,7 @@ Behind it, a low-bodied Oru was singing the wrong chord to itself. I remembered 
 
 Thren closed its hand over the record.
 
-“Then I won't go,” it said.
+“I won't join a human mind,” it said.
 
 I had prepared a great many things to say to it. None was useful.
 
@@ -468,7 +468,7 @@ Sov joined a woman who had spent most of her life restoring old musical recordin
 
 There were disappointments. A pair who loved each other chose the boundary and kept it. Some Oru went home. Some humans decided that the longing they had felt did not extend to becoming someone who had always longed differently.
 
-By the time Thren came down to visit me, more than half the people aboard our fleet had joined human minds. There were Oru arguments at human breakfast tables, ancient skills interrupting familiar hands, whole fields of inquiry whose questions had changed. Our old institutions began receiving proposals from people who signed human names. Nobody could agree which side was conducting first contact any longer.
+When Thren came down to visit me three years after my joining, more than half the people aboard our fleet had joined human minds. There were Oru arguments at human breakfast tables, ancient skills interrupting familiar hands, whole fields of inquiry whose questions had changed. Our old institutions began receiving proposals from people who signed human names. Nobody could agree which side was conducting first contact any longer.
 
 We met Thren on the departure field below the station's tether. I wore my mustard cardigan against the wind. Thren put one silver hand above the other when it saw me approaching.
 
