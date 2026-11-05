@@ -258,4 +258,8 @@ The small black shape waited in the thought before her. Within it was room for a
 
 “Show me what it could become,” she said. “I need to tell them what they would be taking.”
 
-The Sun's light trembled. She held it while the unwakened brightness opened before her, and the morning climbed around them.
+The Sun offered a possible beginning.
+
+Her sense of herself opened into fire. Light ran outward in every direction. Far away, a tumbling stone brought a narrow ridge into that brightness, then turned it into darkness again. Evara felt an attention catch on the change. It followed the stone, waiting for the bright ridge to come round again, and found another speck beyond it.
+
+Her fingers were in sunlight. The Sun's thought still trembled around them. She held it, and the morning climbed around them.
