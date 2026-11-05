@@ -122,7 +122,7 @@ Rose's ribbons went slack.
 
 Bellflower gave Highguard a quiet first day. Quickstep rescued a cat, then had to rescue it again because it wanted to be on that roof. Relay examined the city's silver warning bells and could find no circuitry to improve.
 
-At four the following afternoon, an object like a black glass chrysalis appeared above the shopping square.
+At a quarter past five the following afternoon, an object like a black glass chrysalis appeared above the shopping square.
 
 It was wider than the bandstand. People stopped beneath it with their parcels in their hands. Its shadow fell toward the sun.
 
@@ -190,7 +190,7 @@ The inspector had officers checking freight routes. Rose asked to help.
 
 They spent the morning taking descriptions. Starling drew the stolen machine on a whiteboard, adding a labeled arrow: NOT THIS ONE, THE OTHER ONE.
 
-At a quarter past four, Highguard called.
+At half past five, Highguard called.
 
 “Settling in?” he asked.
 
@@ -208,13 +208,17 @@ The call ended. Blue looked at Rose.
 
 “Everybody?”
 
-Rose called back. There was no answer.
+Rose called back. There was no answer. Relay's number failed too. So did Quickstep's.
 
-At half past five, a boy in a courier's yellow jacket came to the police command post. He had a split shoe and a phone full of photographs of a freight depot.
+She called Bellflower's emergency dispatcher while Blue rang the shuttle driver. The dispatcher could confirm a gold barrier around the shopping square, no serious injuries reported, and no contact with the heroes.
+
+“Get Relay onto a wired phone,” Rose said. “Keep everyone else away from the square.”
+
+The driver would have their recall car waiting. Rose was still talking to the dispatcher when, five minutes later, a boy in a courier's yellow jacket came to the police command post. He had a split shoe and a phone full of photographs of a freight depot.
 
 “My brother works there,” he told Rose. “I saw the crab go in. They're unloading money. I didn't know who else to tell.”
 
-The inspector was at the bank, overseeing the search of the wrecked first machine. Rose sent her the photographs and the address. Then she looked at the boy.
+The stolen crab filled one photograph, the bank's name still visible on the vault between its claws. Rose ended her call and sent the photographs and address to the inspector, who was at the bank overseeing the search of the wrecked first machine. Then she looked at the boy.
 
 No darkness. No foreign will curled about his heart. He was afraid of her, and eager for her to believe him. She knew the shape of that eagerness: people often wanted a rescuer to stop asking questions and come.
 
@@ -222,7 +226,9 @@ No darkness. No foreign will curled about his heart. He was afraid of her, and e
 
 “Just now.”
 
-“Come on,” said Rose. The four bank employees had been inside a steel box for a day.
+The train was waiting. So were four people in a steel box, at the first address anyone had been able to give her.
+
+“Get them out,” Rose told Blue and Starling. “Then straight to the station.”
 
 At the depot, the boy pointed them toward a long building with roof windows. Then he said he had to warn his brother and ran around the corner.
 
@@ -232,9 +238,9 @@ The doors opened. Beyond them stood the second crab, its claws folded around the
 
 Rose's phone rang in her belt. A Bellflower number.
 
-She answered without looking away from the machine.
+She answered before the next ring.
 
-“I'm a little busy.”
+“Relay?”
 
 “Rose,” said Relay. “I need you to tell me what the darkness sounds like.”
 
@@ -338,7 +344,7 @@ The finishing light tugged at her wand. There was enough in it to burn away the 
 
 “I see them.”
 
-The crab tilted its cabin forward. A small craft detached from its far side, below the roofline. Overdraft's escape, already moving.
+The crab tilted its cabin forward and released its mounting catches. The cabin slid off the machine's back, dragging torn cables behind it. At the same moment, a small craft detached from the crab's far side, below the roofline. Overdraft's escape, already moving.
 
 Rose pointed her wand away from the cabin.
 
