@@ -4,6 +4,14 @@
 
 i think this is great as prequal story to some stories we already have the sun (like when the vampires stole from it)
 
+## Later user correction
+
+the check is correct that dose not like into the vampire story nor pay of the long term warning.
+
+## Later user clarification
+
+its not a normal prequel/squeal its setup and payoff..
+
 ## Located continuity source
 
 Coordinator identification of the user's vampire-story reference: *What the Sun Is Owed*, at stories/what-the-sun-is-owed/story.md. Its existing prose supplies continuity for this prequel; it remains non-canon and is unchanged. This identification does not add user requirements or promote shared facts.
