@@ -298,9 +298,9 @@ That was the movement I remembered afterward.
 
 I had not only imagined the flavor. I had reached for the pan I would use to make it.
 
-I spooned a little of the warm butter into it. I gave it a sharper flame.
+I spooned a little of the warm butter into it and gave it a sharper flame. Only butter was in it yet. On one spoon I lifted the organ's outer fold, where the first street of the white city showed through. It still joined the rest of the tissue in the copper pan. I was about to lay its edge in the hotter butter.
 
-The sauce gathered along the edge. I watched it thicken.
+The butter browned along the rim.
 
 One of my bodies in the white city looked up. A boy was standing in an upper window with a brass basin. He was beating it with a spoon. He had heard the distant mountain bell and was trying to tell the people below him to climb.
 
@@ -310,7 +310,7 @@ I thought, very distinctly: *Only that street.*
 
 My hand stopped.
 
-The boy struck the basin again. I caught the little pan by its handle and flung it out between the Whale's teeth. The sauce made a brief gold fan in the dark.
+The boy struck the basin again. I lowered the fold back into the copper pan. Then I caught the little pan by its handle and flung it out between the Whale's teeth. Brown butter made a brief gold fan in the dark.
 
 I stood with both hands flat against the board.
 
@@ -368,9 +368,9 @@ I held the pan against my chest with my chin.
 
 Every faculty I had ever acquired seemed to be trying to make room in me. I saw the Whale's muscles in the dark. I heard houses settling through miles of flesh. Tiny hairs on my shoulders told me where each gust would strike. The deepweb spider gave me another strand. The cliff bear gave me another moment.
 
-Under my chin, the little packet warmed through. The edges of its folds grew clear.
+Under my chin, the little packet warmed through. I kept my right claw hooked in the Whale's upper jaw. With my free left hand I tipped off the lid and unwound the silk, then gripped both spoon handles in that hand like tongs.
 
-I withdrew the silk and lifted it with the two spoons.
+The edges of the folds had grown clear. I pinched the packet gently between the spoon bowls and lifted it to my mouth.
 
 There was enough for one mouthful.
 
