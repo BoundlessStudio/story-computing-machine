@@ -274,15 +274,7 @@ Dessa touched the warm rock with the toe of her boot.
 
 Only a small opening remained around her, where she knelt half in the country and half against the shelf. When she took her hands from its edges, the new ridge began to lift at its near end.
 
-She pinched the edges together.
-
-The rock settled.
-
-She loosened her grip. A white lip rose, and grass pulled free of the slope.
-
-“All right,” she said, and held on.
-
-She brought the treated end of her lasso through the last loose fibers, lacing the opening. A pull on the running end kept the edges snug against her waist. She eased one knee away from the lower edge. A slit opened between her leg and a loop of rope, and the white lip began to lift again.
+She pressed the edges together until the rock settled, then threaded the treated end of her lasso through the loose fibers. A pull on the running end kept the edges snug against her waist. She eased one knee away from the lower edge. A slit opened between her leg and a loop of rope, and the ridge's pale lip began to lift again.
 
 She pushed her knee back. The slit filled; the rock settled.
 
