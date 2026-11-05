@@ -19,3 +19,11 @@ fix these issues and open a new PR since the old has already been merged.
 ### Reference role (editorial interpretation)
 
 The supplied image shows the cover faults to correct; it is a reference for this localized art edit.
+
+## Further user direction — 2026-11-04
+
+try again; on the shadow its better but still has stills and remove the flashlight.
+
+## Latest user direction — 2026-11-04
+
+maybe just remove the shadow on the floor since it cause issues
