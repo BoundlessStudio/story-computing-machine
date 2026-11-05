@@ -14,7 +14,7 @@ its not a normal prequel/squeal its setup and payoff..
 
 ## Located continuity source
 
-Coordinator identification of the user's vampire-story reference: *What the Sun Is Owed*, at stories/what-the-sun-is-owed/story.md. Its existing prose supplies continuity for this prequel; it remains non-canon and is unchanged. This identification does not add user requirements or promote shared facts.
+Coordinator identification of the user's vampire-story reference: *What the Sun Is Owed*, at stories/what-the-sun-is-owed/story.md. Its existing prose supplies the continuity and later-payoff context for this story; it remains non-canon and is unchanged. This identification does not add user requirements or promote shared facts.
 
 ## Supplied reference images
 - None
