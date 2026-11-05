@@ -282,7 +282,11 @@ She loosened her grip. A white lip rose, and grass pulled free of the slope.
 
 “All right,” she said, and held on.
 
-She brought the treated end of her lasso through the last loose fibers, lacing the opening. A pull on the running end kept it snug around her waist. For now she could tie it off against the frame. To get out, she would have to loosen it; afterward, the whole opening would have to close.
+She brought the treated end of her lasso through the last loose fibers, lacing the opening. A pull on the running end kept the edges snug against her waist. She eased one knee away from the lower edge. A slit opened between her leg and a loop of rope, and the white lip began to lift again.
+
+She pushed her knee back. The slit filled; the rock settled.
+
+She tied the running end against the frame, keeping the edges pressed to her clothes. Her body was part of the patch. When she left, she would have to draw the sides together behind her and cover the join with fresh color.
 
 The raw ground was the only way through she had found.
 
@@ -426,7 +430,7 @@ She laughed, and could not manage anything after it.
 
 He let her fingers go one at a time.
 
-Dessa withdrew her hand. The lacing drew tight behind it. Her father tied off the rope; the ridge held. She laid fresh color over the closed seam, a long pale stroke that joined the mountain from top to foot.
+Dessa withdrew her hand. The lacing drew tight behind it, leaving a hairline of white between two turns. The ridge's edge shivered. Her father tied off the rope, and she swept fresh color across the join, a long pale stroke from the mountain's foot to its summit.
 
 The rock settled into its new shape.
 
