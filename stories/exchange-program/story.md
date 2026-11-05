@@ -360,13 +360,15 @@ Blue put a shield beneath it. Starling caught the highest ribbon and flew, her w
 
 “Keep the rest,” said Relay.
 
-“What?”
+“What?” Rose hooked a ribbon beneath the bottom panel and wrenched it clear.
 
 “Controls, recorders, everything. You don't know what matters yet.”
 
-There was a scream from the cabin. A seam opened along Blue's shield.
+Starling released her end of the sling and dived through the opening. In two trips she carried all four captives to shelter behind the containers.
 
-Rose could release the wreckage, pull four people out, and fly after Overdraft. Perhaps she could still reach him. Perhaps a ribbon around his whole coat this time—
+“All clear!” she called.
+
+A seam opened along Blue's shield. Rose could drop the empty cabin and fly after Overdraft. Perhaps she could still reach him. Perhaps a ribbon around his whole coat this time—
 
 One ribbon slipped through her stinging hands.
 
@@ -470,7 +472,11 @@ On her phone was a picture from Relay: the familiar square under a gold dome, th
 
 The inspector looked at the picture. “What do you need?”
 
-Their chartered shuttle left at half past six. Blue fell asleep before the depot disappeared behind them. Starling sat with her head against the window, watching the darkening fields.
+“Straight to the station.”
+
+The inspector took their account on the walk to her car, handed the cabin over to her officers, and drove the girls straight across Steelfall to the waiting shuttle.
+
+Their chartered shuttle left at half past six. Blue fell asleep before the station disappeared behind them. Starling sat with her head against the window, watching the darkening fields.
 
 Rose opened Highguard's tablet. There were whole pages about witnesses. She read the first paragraph three times and couldn't make it stay in her head.
 
@@ -508,7 +514,7 @@ He had built something they could not get through.
 
 Rose looked at him for a long moment. The silver bell went silent in his belt. He could no longer hear the city at all.
 
-“I can't promise that,” she said. “I'm coming in with a weapon. It's going to hurt. I need you to let me.”
+“I can't promise to keep you safe,” she said. “I'm coming in with a weapon. It's going to hurt. I need you to let me.”
 
 The blackness inside him rose, giving him a hundred excellent reasons to refuse. She was exhausted. Her hands were shaking. Someone had let this child be responsible for a whole city—
 
