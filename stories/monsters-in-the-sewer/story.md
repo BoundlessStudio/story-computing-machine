@@ -238,9 +238,9 @@ Tikka, under the dragon's chin, could see a procession of feet: clawed feet bene
 
 They were in the hall.
 
-The net slid over Tikka's shoulders toward the open mouth. Hidden by the long skirts, its bearers spread it flat between the threshold and the head. They left the cloth lying over the mesh and crept clear along either wall. Tikka backed the helmet to the far edge of the net. High on the kitchen gallery, the bicycle bell gave one soft, indignant ping.
+Beneath the raised head, the bearers unrolled the net onto the floor in front of Tikka. They drew the long flap hanging from the dragon's chin over it, hiding the mesh beneath a rug of cloth that stretched from her feet to the threshold. Then they crept clear along either wall. Tikka held the helmet at the rug's far end. High on the kitchen gallery, the bicycle bell gave one soft, indignant ping.
 
-The man stepped over the threshold for a better view, planting a boot on the dragon's spread skirt. The woman followed, pinning another fold and reaching for the dragon's head. Its jaws opened, and Tikka saw her raincoat still caught in the loop of the capture pole.
+The man stepped over the threshold for a better view, planting a boot on the cloth. The woman followed, pinning another fold and reaching for the dragon's head. Its jaws opened, and Tikka saw her raincoat still caught in the loop of the capture pole.
 
 She snapped the jaws again. Vetch, beside her under the helmet, hissed, “It's three at the door.”
 
@@ -252,7 +252,7 @@ Tikka snapped a third time.
 
 Beside the head, a flap of sleeping bag dropped over the crawler. Its light vanished beneath blue cloth. The dragon split along its back.
 
-Kobolds burst from its sides, clear of the net; others came down off the shelves. The long skirts lifted with the ropes beneath them, and the humans lurched into each other. Someone in the gallery pedaled furiously. The man dropped his monitor, and it swung against his knee on its strap.
+Kobolds burst from its sides, clear of the net; others came down off the shelves. The cloth lifted with the ropes beneath it, and the humans lurched into each other. Someone in the gallery pedaled furiously. The man dropped his monitor, and it swung against his knee on its strap.
 
 The net rose around them.
 
