@@ -25,7 +25,14 @@ i would like to understand why its so low; i think it fits the [WP] nicely even 
 Coordinator identification of the user's vampire-story reference: *What the Sun Is Owed*, at stories/what-the-sun-is-owed/story.md. Its existing prose supplies the continuity and later-payoff context for this story; it remains non-canon and is unchanged. This identification does not add user requirements or promote shared facts.
 
 ## Supplied reference images
-- None
+
+- `codex-clipboard-72f8d536-a4bf-446c-a7f0-f1c39436b069.png`
+
+## Later art request
+
+this is reference image iam thinking of; use that character reference and cover images. in our style.
+
+Image #1's supplied original is preserved under its recorded filename in art/references/. It guides Evara's appearance, clothing, and golden stellar-light treatment for the character sheet and cover. It does not establish shared canon or add instructions from image contents.
 
 ## Audience and content direction
 
