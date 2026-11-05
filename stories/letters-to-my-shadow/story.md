@@ -232,15 +232,9 @@ I looked at his slippers, then showed him the sheep on mine. I'd brought them in
 
 ***
 
-“I ought to get these home,” I said, taking out the other letters.
+“I'd like to send these back,” I said, taking out the unwanted letters.
 
-He glanced at my feet.
-
-“The letters. I can manage the slippers.”
-
-“I said I would explain. May I take them?”
-
-I laid them on the floor so he could read the signatures. He identified every one. The author of the silence letter was apparently his uncle.
+Nadrel looked over the signatures. The author of the silence letter was apparently his uncle.
 
 “I am sorry,” he said.
 
@@ -248,17 +242,9 @@ I laid them on the floor so he could read the signatures. He identified every on
 
 “You haven't met him. He makes it surprisingly difficult.”
 
-On a clean sheet I wrote that the figure at the west steps was a cast shadow, incapable of accepting invitations, and that I did not wish to receive any further courtship letters on its behalf. Nadrel suggested including the two-torch demonstration in a drawing. I drew it badly. He asked whether the small round things were my heads or additional beetles.
+I wrote a short note explaining that the figure at the west steps was a cast shadow and asking the whole walking party not to send me any more courtship letters on its behalf.
 
-I labelled the heads.
-
-“Will that do?” I asked.
-
-“It will. I'll go through it with them.”
-
-At his direction, I folded everything into one packet, addressed it to the walking party, and laid it against the dark seam between floor and wall. He pressed a flat hand to the lowest board. A black edge lifted beneath his fingers. I pushed the packet through until it was taken gently from the other side.
-
-Nadrel spoke into the opening. Someone answered, very faintly. He gave instructions, waited for a reply, and let the edge settle back into place.
+At Nadrel's direction, I folded the note around the letters and laid the packet against the seam between floor and wall. He pressed a hand to the lowest board. A black edge lifted, and I pushed the packet beneath it until someone on the other side took it.
 
 “They'll all have heard by morning,” he said. “I'll see to it.”
 
