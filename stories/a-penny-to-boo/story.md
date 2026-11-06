@@ -28,7 +28,7 @@ The gatekeeper started to open the gate and put a hand out to stop me. “Run an
 
 “We're on a date,” said the prince.
 
-The gatekeeper took his hand away. He looked at me, then at the prince, and muttered that he begged my pardon. It was the first time I'd ever got out of going back for a cloak with both feet still pointing towards the gate. I took advantage of it. Cader caught up to me halfway down the hill.
+The gatekeeper took his hand away. He looked at me, then at the prince, and muttered that he begged my pardon. Usually I'd be half turned towards the stairs before anybody finished asking for a cloak. Both my feet still pointed at the gate. I took advantage of it. Cader caught up to me halfway down the hill.
 
 “Does that work with all the gatekeepers?” I asked.
 
@@ -118,7 +118,7 @@ The cloth went up. Out came the puppet prince, in a fine embroidered coat with a
 
 “Your Highness,” I called in my horse's voice. “Next time you want to ride out with a goose, get it to carry you home.”
 
-A boy laughed, high and sudden, and hid his face in his mother's sleeve. The puppet prince turned his head very slowly until he was looking at Cader. I was about to ask for my wages when a noise like a rusty hinge came from the bench beside me. Cader had put one hand up like a long neck with a beak at the end of it.
+A boy laughed, high and sudden, and hid his face in his mother's sleeve. The puppet prince turned his head very slowly until he was looking at Cader. I took a breath for the speech about my wages. A noise like a rusty hinge came from the bench beside me. Cader had put one hand up like a long neck with a beak at the end of it.
 
 “I'd have left him alone,” said the goose, “if he hadn't stuck a currant bun in his pocket.”
 
@@ -138,7 +138,7 @@ Cader leaned his goose close to me. “Can he swim?”
 
 “It's a very shallow fountain,” I said.
 
-At that the mother laughed too. The roses went down out of sight. Up came the horse, and the boy came out of his mother's sleeve long enough to shout that His Highness should look behind him. Of course His Highness was too busy waving. The goose came out from under the horse and seized the puppet prince by the pocket. Someone on the back bench yelled, “The fountain!” The prince went sailing into a tin basin that somebody behind the cloth hit with a spoon. The whole square cheered. For a while it was all I could do to stay on the bench. Every time I got hold of myself Cader would lift a finger to his mouth like a man who knew the terrible punishment for laughing at a prince, and then he'd go again.
+At that the mother laughed too. The roses went down out of sight. Up came the horse, and the boy came out of his mother's sleeve long enough to shout that His Highness should look behind him. Of course His Highness was too busy waving. A goose with a chipped wooden beak shot out from under the horse and seized the puppet prince by the pocket. Someone on the back bench yelled, “The fountain!” The prince went sailing into a tin basin that somebody behind the cloth hit with a spoon. The whole square cheered. For a while it was all I could do to stay on the bench. Every time I got hold of myself Cader would lift a finger to his mouth like a man who knew the terrible punishment for laughing at a prince, and then he'd go again.
 
 After the show, he stood by the end of the bench while I got my scarf back round my neck. The girl in the apron stacked the two dining chairs. Cader started to step aside as if he meant to let me go ahead without him.
 
