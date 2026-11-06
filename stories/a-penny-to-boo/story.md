@@ -32,7 +32,7 @@ The gatekeeper took his hand away. He looked at me, then at the prince, and mutt
 
 “Does that work with all the gatekeepers?” I asked.
 
-“I've only tried it with that one.” He looked terribly pleased with himself. I could see why. I'd have been pleased too if I'd found a word that opened a gate.
+“I've only tried it with that one.” He looked terribly pleased with himself, and I had to bite the inside of my cheek. I'd have been pleased too if I'd found a word that opened a gate.
 
 He followed me down the narrow steps between the dyer's wall and the backs of the houses. I was wearing shoes I could run in for once and went down fast enough that he had to turn sideways to get his feet on the treads. At the bottom there was a smell of hot currants. I stopped, and he walked into my elbow.
 
@@ -76,7 +76,7 @@ The girl looked up at us. “Is it true, then?”
 
 “I'd like the riding scene,” I said.
 
-The man looked at Cader to see if I'd got it right. The gatekeeper's head had turned exactly the same way. You could have pulled them both with the same string. Cader opened his mouth. I took hold of his sleeve and walked him around the corner of the booth.
+The man looked at Cader to see if I'd got it right. I thought of the gatekeeper that morning, his head swinging from me to Cader. You could have pulled them both with the same string. Cader opened his mouth. I took hold of his sleeve and walked him around the corner of the booth.
 
 “Who are you trying to tell?” I asked.
 
@@ -96,7 +96,7 @@ I remembered doing it in the linen room. I'd put my head through a towel as if i
 
 “How did that part go?”
 
-“I asked if I could come. Then I told the gatekeeper. I liked saying it. And when I said it to him, he let you go.”
+“I asked if I could come. Then I told the gatekeeper. I liked saying it. And when I said it to him, he let you go. You almost laughed on the hill. I thought you might say it back.”
 
 “I told him I was off. It was you he listened to.” I nodded towards the chairs. “So did that man out there.”
 
@@ -122,9 +122,9 @@ A boy laughed, high and sudden, and hid his face in his mother's sleeve. The pup
 
 “I'd have left him alone,” said the goose, “if he hadn't stuck a currant bun in his pocket.”
 
-I turned to look at him. “You took a bun on parade?”
+I leaned around the beak to look at Cader. “You took a bun on parade?”
 
-His hand swiveled to face me. “I took a bun *off* a parade.”
+The goose swiveled to face me. “I took a bun *off* a parade.”
 
 He held the beak open for one more solemn instant, and I lost the rest of my speech. I could see it all. Cader at the head of the parade, sitting up as straight as he did for a portrait, with breakfast sticking out of his coat. The goose must have thought it was its birthday.
 
