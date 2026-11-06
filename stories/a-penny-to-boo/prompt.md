@@ -9,3 +9,7 @@
 ## Audience and content
 
 The request specifies no audience, intensity, or content restrictions. General is the starting target under the shared style guide.
+
+## Later cover direction
+
+the cover images is messed up the body positions are imposble.
