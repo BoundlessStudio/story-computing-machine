@@ -13,3 +13,7 @@ The request specifies no audience, intensity, or content restrictions. General i
 ## Later cover direction
 
 the cover images is messed up the body positions are imposble.
+
+## Later cover direction on the audience
+
+ok, now with the cover they fill disconnect from the rest of the people watching the show...
