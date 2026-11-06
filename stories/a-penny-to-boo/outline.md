@@ -1,0 +1,12 @@
+# A Penny to Boo
+
+The request puts a maid on her day off. She decides to visit the city, a prince tags along, and he keeps telling people they are on a date. "You decide" and "tagging along" suggest the fun of a prince following a maid's lead for once. The two questions invite both a reason for wanting her company and a reason for declaring it a date in public. I read "to everyone" as an invitation to let the city react, with accumulating mischief and some room for flirtation. How well they know each other, what he means by a date, and what she wants once she finds out are open.
+
+## Provisional direction
+
+First person from Rilla, a palace maid in a city that sells penny seats at an outdoor puppet show making fun of the royal family. She has saved her best heckle for the puppet prince's riding scene. At the palace, only Cader has heard the voice she does for his long-suffering horse. He heard her do it one night and came back with a joke that made her laugh in turn.
+
+- Cader catches up with Rilla on the road down and asks to walk with her. She lets him come as far as the square if he can keep up. When a bun seller assumes she's out on a palace errand, he brightly says they're on a date. She finds that one funny enough to tell the seller to charge them separately.
+- At the puppet booth Cader announces the date again when the ticket seller assumes Rilla will be tending him. This time the news goes down the queue. The puppeteer brings out chairs for the couple and offers to swap the mock riding scene for a love duet. Rilla was looking forward to shouting from the cheap seats. Now people are looking at her to choose what the prince would like.
+- Rilla turns down the chairs and asks what he's doing. Cader wanted a date with her, specifically with the woman who made him laugh at himself and then laughed right back. He thought telling people would establish that she'd chosen her own company, since people kept assuming he had brought her to work. He sees what he's claimed on her behalf and offers to go. She asks him to stay if he's willing to sit in the cheap seats and get laughed at.
+- Rilla pays her penny and calls out to the puppet in the horse's voice. Cader answers as the goose that once frightened his mount, following her lead and taking the joke further in front of people who can laugh freely at him. The puppeteer puts the riding scene back on around them. Afterwards, Rilla leads him back to the bun stall and makes the announcement herself. This time she wants to share a bun with him.
