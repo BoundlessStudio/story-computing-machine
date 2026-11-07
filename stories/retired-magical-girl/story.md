@@ -54,7 +54,7 @@ The enormous loop was the only bit of the ribbon that didn't look made for getti
 
 “Why'd you stop?”
 
-Mom ran her thumb back and forth over the edge of the loop in her hand. “Those three notes at the start of the tram film? That was the sound the dispatch box made. By the end I heard it when the microwave went off.” She picked a speck off the satin at her wrist. “I handed in my box. On the way home I came up here thinking I'd take one last ride. I wound it up again without stepping on. Then I went out for a pizza.”
+Mom ran her thumb back and forth over the edge of the loop in her hand. “Every call started with three notes from my dispatch box. By the end I heard them when the microwave went off.” She picked a speck off the satin at her wrist. “I handed in my box. On the way home I came up here thinking I'd take one last ride. I wound it up again without stepping on. Then I went out for a pizza.”
 
 “By yourself?”
 
@@ -68,7 +68,7 @@ She looked at the single hand loop. “This is built for one.”
 
 “I want to see you do it. I mean from up there.” In the tram film I could never make out her face.
 
-Mom looked out at the big loop. Then she took her hand out of the little one and worked her thumb under a knot just above it. She stood that way a long time with her thumb still and the whole pink course shining. When she tugged, the far loop came open. A curve I could have fit half the town inside slipped out of the sky and came running through her hands. She caught the spare length against her hip. It was only cloth again. She doubled it, made a second hand loop, and tied it beside the first.
+Mom looked out at the big loop. She slipped her hand out of the little one and went to the other end, where the ribbon dipped into the lot. She worked her thumb under the knot there. She stood that way a long time with her thumb still and the whole pink course shining. When she tugged, the far loop came open. A curve I could have fit half the town inside slipped out of the sky and came running through her hands. She caught the spare length against her hip. It was only cloth again. The course ended out over the roofs now, pointing away from the hill. Mom carried the cloth back to the gap and tied a second hand loop beside the first.
 
 “Now we can both hold on,” she said. “I'll have to make the turn home while we're coming down. I can show you how I did the tram.”
 
