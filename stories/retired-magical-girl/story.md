@@ -42,11 +42,11 @@ Behind her, the ribbon gave a little shiver all the way out over town. I put a h
 
 There was so much I could have asked that for a minute all I could think was that I had a picture of Comet Lace in a shoebox somewhere. I'd drawn it for school. Mom had helped me make the wings the same size.
 
-“This was my first route.” Mom held up the little hand loop. “I used to go up and down the hill until my legs shook. The way I've laid it, you can hold on and coast all the way around to here. It carries you like a slide.” She indicated the start at the gap and the place where the far end dipped into the lot. “Once you ride it, it wears away behind you. I've been keeping it coiled up.”
+“This was my first route.” Mom held up the little hand loop. “I used to come up here with a pocketful of ribbons and fly until my legs shook. The way I've laid it, you can hold on and coast all the way around to here. It carries you like a slide.” She indicated the start at the gap and the place where the far end dipped into the lot. “Once you ride a ribbon, it wears away behind you. I've been keeping this one coiled up.”
 
 “You want me to go on it?”
 
-“At the permit office you said you couldn't wait to be able to go somewhere. I thought you'd like to see the first place I could.” She was looking at the far end now. “You can just see it, too. I can wind it up again.”
+“At the permit office you said you couldn't wait to be able to go somewhere. I thought you'd like to see the first place I could.” She was looking at the far end now. “We can just look at it from here, if you like. Then I can wind it back up.”
 
 The enormous loop was the only bit of the ribbon that didn't look made for getting anywhere. It went up out of the course and doubled back on itself like the swirl on a soft ice cream. “What's that bit for?”
 
@@ -54,7 +54,7 @@ The enormous loop was the only bit of the ribbon that didn't look made for getti
 
 “Why'd you stop?”
 
-Mom ran her thumb back and forth over the edge of the loop in her hand. “Those three notes at the start of the tram film? That was the sound the dispatch box made. By the end I heard it when the microwave went off.” She picked a speck off the satin at her wrist. “I handed in my box. On the way home I came up here and took a run at the big loop just because I could. Then I rolled this up and went out for a pizza.”
+Mom ran her thumb back and forth over the edge of the loop in her hand. “Those three notes at the start of the tram film? That was the sound the dispatch box made. By the end I heard it when the microwave went off.” She picked a speck off the satin at her wrist. “I handed in my box. On the way home I came up here thinking I'd take one last ride. I wound it up again without stepping on. Then I went out for a pizza.”
 
 “By yourself?”
 
@@ -66,7 +66,7 @@ She had her face turned into the wind. Her free hand made a little turning motio
 
 She looked at the single hand loop. “This is built for one.”
 
-“I want to see you do it. I mean from up there.” I tried to think of what I would say if she just gave me the ribbon and I took it. I'd come down wanting to tell her something she knew by heart.
+“I want to see you do it. I mean from up there.” In the tram film I could never make out her face.
 
 Mom looked out at the big loop. Then she took her hand out of the little one and worked her thumb under a knot just above it. She stood that way a long time with her thumb still and the whole pink course shining. When she tugged, the far loop came open. A curve I could have fit half the town inside slipped out of the sky and came running through her hands. She caught the spare length against her hip. It was only cloth again. She doubled it, made a second hand loop, and tied it beside the first.
 
@@ -84,9 +84,9 @@ Behind us the ribbon had begun to break into threads. They hung in the air for a
 
 She hauled up on the ribbon. The crease spread into a broad, deep U. I felt the pull in my knees as we went through the bottom of it. Two streets that had been coming right at us swept underneath instead. Mom turned her wrist, drawing the rise around toward the hill. Our speed carried us up until I could see the car again, over the wall and a little to the left.
 
-“Straight in from here,” she called. She had to catch her breath. “Or do you want to turn over once? I need your end for that.”
+“Straight in from here,” she called. She had to catch her breath. “Or do you want to turn over once? Give me your loop for that.”
 
-It was warm where the loop went around my hand. I could have kept it. The wall was right there. Mom reached her free arm behind me. I leaned into it and let go on her count. For an instant I was holding on to nothing. Then she had both ends in one hand and turned her fist over. The ribbon turned with it like the flap of a page.
+It was warm where the loop went around my hand. I could have kept it. The wall was right there. Mom put her free arm around my waist and brought the hand with her loop next to mine. I leaned my weight against her arm and let go on her count. For an instant I was holding on to nothing. Then she had both loops in one fist. She rolled her wrist and the ribbon turned with it like the flap of a page.
 
 All the roofs hung above my head with the late sun in the spaces between them. A tram came out onto the span, its windows lit even at that hour. It looked like it could let go of the hill and sail away. I held my breath and waited for it to go. Mom gave me just that long. Then she leaned and put the hill back under us.
 
