@@ -28,9 +28,9 @@ Miri came up on Nera's other side. Scales the color of the inside of a peach cli
 
 The Angels had prepared for the possibility of a hit somewhere during Paris Fashion Week. They'd spent six weeks getting themselves booked on the same show without making it look like a reunion. Tala was on a bus shelter outside the hall advertising perfume. A buyer in Milan had once seen a dress on Miri for eleven seconds and paid the asking price without knowing how it did up. Nera's old agency in Paris still knew her shoe size. The towers of red lacquer on her feet made her wish they'd forgotten.
 
-The voice said, “I can get the house to stop the show.”
+The voice said, “I can have our people pull the evacuation alarm.”
 
-Out past the curtain the audience had gone quiet. One cue and they could put eight hundred people and a killer on the same narrow path to the doors. They had nobody to pull from the crowd.
+Out past the curtain the audience had gone quiet. An alarm would put eight hundred people and a killer on the same narrow path to the doors. They had nobody to take aside first.
 
 “Put our people at the wing exits,” Nera said. “We can still see where everybody's going.”
 
@@ -84,7 +84,7 @@ The dressers were calling the final lineup. Nera watched Aveline glance once at 
 
 “Get word to Rafa Maret,” Nera said into her earring. “Tell him to stay below the rigs for the flash.”
 
-“Our people are at the wing exits. Ninety seconds to the pit around the seats.”
+“I can't get a message to him. Our people are at the wing exits. Ninety seconds to the pit around the seats.”
 
 The clock above the monitor read 1:14. The shortest way to Rafa was straight down the runway. Nera could go as far as the edge of the T. Her red sleeve could go farther.
 
@@ -104,9 +104,9 @@ The bone model saw the close camera waiting for her and put a hand over the new 
 
 Nera took her new mark at the front edge of the T, a step closer to the cameras than Aveline. She saw the opal cape sweep between Aveline and the X. It would be in that line for a count of three. Aveline turned her face out of the house camera, then out of the pit's. She put her arm past the moving edge of the cape. The rubies fell away from her wrist, leaving the rigid gold cross pointing through the gap between the rigs. The riser was still empty.
 
-Nera struck her heel down twice. Aveline. Tala came up beside Aveline on the inside turn and planted a platform close to her toe. The pearl sleeve almost brushed Tala's face. Nera saw Tala's chin lift when the receiver found the charge. As Aveline leveled her cuff, a sharp red point moved up the underside of the opal fold. The other colors rolled with the cape. The fold dropped away and the red point reappeared between the rigs, on the tape X.
+Nera struck her heel down twice. Aveline. Tala came up beside Aveline on the inside turn and planted a platform close to her toe. The pearl sleeve almost brushed Tala's face. Nera saw Tala's chin lift when the receiver found the charge. Aveline pressed her thumb against the cross, and a sharp red point lit the underside of the opal fold. The other colors rolled with the cape. The fold dropped away and the point reappeared between the rigs, on the tape X.
 
-Rafa stepped up onto the riser. His shoulders rose into the gap and his camera came up. From the house speakers came the pickup to the last beat. Through her earring Nera heard the little breath Miri had been taking for years just before she did something too fast to explain. Nera reached up for the red as if she had all the time in the world.
+Rafa stepped up onto the riser. His shoulders rose into the gap, his camera came up, and the red point climbed his shirt. From the house speakers came the pickup to the last beat. Through her earring Nera heard the little breath Miri had been taking for years just before she did something too fast to explain. Nera lifted the long edge of her red sleeve as if she had all the time in the world.
 
 Aveline saw her start the turn. She slipped her wrist lower and back, trying for a shot under the rising sleeve. Nera pivoted on the ball of her foot and let her elbow drop. The lacquer shifted against her ribs. Six feet of red opened from her shoulder to the edge of the stage.
 
