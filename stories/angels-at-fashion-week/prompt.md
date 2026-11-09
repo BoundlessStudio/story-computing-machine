@@ -20,3 +20,9 @@ Three elite secret agents have spent years saving the world, but their latest as
 ## Audience and content direction
 
 The user specified no audience or intensity. The collection starts from General and rates the finished work. The request calls for a timed spy caper with extravagant runway fashion and an assassination threat.
+
+## Later user direction
+
+make sure they match the reference images that import for this story about fashion and they are multiple outfits.
+
+include all 4 women on the cover if they are all import to the story.
