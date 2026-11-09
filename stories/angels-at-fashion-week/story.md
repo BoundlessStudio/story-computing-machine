@@ -82,13 +82,19 @@ Tala found her in front of the monitor. “The dragon's wing opens. I got Bréva
 
 The dressers were calling the final lineup. Nera watched Aveline glance once at the monitor, where the riser sat empty. On the other side of the curtain Rafa would be changing lenses. He'd changed lenses at the port fence, too, in the dark with one of the guards close enough to hear him breathe. Those photographs had kept six freighters' worth of missiles out of a war. She remembered putting a hand out where he could find it as they ran.
 
+“Get word to Rafa Maret,” Nera said into her earring. “Tell him to stay below the rigs for the flash.”
+
+“Our people are at the wing exits. Ninety seconds to the pit around the seats.”
+
+The clock above the monitor read 1:14. The shortest way to Rafa was straight down the runway. Nera could go as far as the edge of the T. Her red sleeve could go farther.
+
 Miri came through the line, lifting her cape. A dresser asked her to be careful of the pearl. She looked at Nera and slowed.
 
-“Aveline keeps the old mark for Rafa's shot,” Nera said. “Or for the man who'll be standing behind the camera. I want to see what she does if you give her a better picture and take the old line away.”
+“Aveline keeps the old mark for Rafa's shot,” Nera said. “Or for the man behind the camera. Put me between her and the pit so I can cover him. Then give her a better picture and see if she'll come to you.”
 
 “And I want the inside of her wrist,” Tala said.
 
-Miri watched the Arquent dresser put a strip of tape on the curtain to show who went first. She had thirty seconds to talk the woman out of it. “How much room does it take to open a dragon?” she asked.
+Miri watched the Arquent dresser mark the first two places on the floor by the curtain. She had thirty seconds to talk the woman out of it. “How much room does it take to open a dragon?” she asked.
 
 The final procession was supposed to break into three groups at the crossbar, one for each house. Miri stopped where the curtain opened. Her cape was spread behind her, right over the tape for the next two models. The dresser whispered that she had to move. Miri looked through the curtain as though she'd been given the wrong table at dinner.
 
@@ -98,7 +104,7 @@ The bone model saw the close camera waiting for her and put a hand over the new 
 
 Nera took her new mark at the front edge of the T, a step closer to the cameras than Aveline. She saw the opal cape sweep between Aveline and the X. It would be in that line for a count of three. Aveline turned her face out of the house camera, then out of the pit's. She put her arm past the moving edge of the cape. The rubies fell away from her wrist, leaving the rigid gold cross pointing through the gap between the rigs. The riser was still empty.
 
-Nera struck her heel down twice. Aveline. Tala came up beside Aveline on the inside turn and planted a platform close to her toe. The pearl sleeve almost brushed Tala's face. Nera saw Tala's chin lift when the receiver found the charge. A pinpoint of light ran along the underside of the opal fold. From where the audience sat they'd see the cape give back a dozen colors. Nera had the one angle from which the dot stayed sharp, like the head of a pin.
+Nera struck her heel down twice. Aveline. Tala came up beside Aveline on the inside turn and planted a platform close to her toe. The pearl sleeve almost brushed Tala's face. Nera saw Tala's chin lift when the receiver found the charge. As Aveline leveled her cuff, a sharp red point moved up the underside of the opal fold. The other colors rolled with the cape. The fold dropped away and the red point reappeared between the rigs, on the tape X.
 
 Rafa stepped up onto the riser. His shoulders rose into the gap and his camera came up. From the house speakers came the pickup to the last beat. Through her earring Nera heard the little breath Miri had been taking for years just before she did something too fast to explain. Nera reached up for the red as if she had all the time in the world.
 
@@ -110,6 +116,6 @@ Miri put a hand on Aveline's free shoulder and pulled her into the line. Rafa's 
 
 In the dark past the curtain, the two people waiting for Aveline put out their hands the way dressers do for a particularly heavy train. Tala lowered her sleeve and let them take the wrist with it. On the other side of the curtain, Bréval and Vardelle and Arquent went out to take their bows.
 
-By the time Nera got one boot off, she had a picture from Rafa. The dragon had its wings out in the background. In the foreground, four gowns opened from the same point in red and pearl and blue and a spill of pink light. The flash showed the underside of Nera's sleeve in every detail, down to the last gold stitch. It was the first picture of her in nine years of working with Rafa that he'd been able to put his name to.
+By the time Nera got one boot off, she had a picture from Rafa. The dragon had its wings out in the background. In the foreground, four gowns opened from the same point in red and pearl and blue and a spill of pink light. She could see every gold stitch under one of her sleeves and right through the other, where the red was the color of glass with light coming through it. It was the first picture of her in nine years of working with Rafa that he'd been able to put his name to.
 
 *Got them both,* he wrote.
