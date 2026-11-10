@@ -16,6 +16,9 @@ Three elite secret agents have spent years saving the world, but their latest as
 - `codex-clipboard-fe5de97f-ffca-4093-b2b8-b77f5772e09d.png`
 - `codex-clipboard-ecd3d39f-0cc7-426f-8e3b-91db75521ea1.png`
 - `codex-clipboard-1be9bd97-0878-4981-be8c-dd7e1c78031c.png`
+- `codex-clipboard-6c359fb3-d0cc-48fe-a9a0-93f48a0b5865.png`
+- `annotated-cover.png`
+- `codex-clipboard-34ba84bc-97ef-45ba-bb6b-98ff8c71d505.png`
 
 ## Audience and content direction
 
@@ -26,3 +29,23 @@ The user specified no audience or intensity. The collection starts from General 
 make sure they match the reference images that import for this story about fashion and they are multiple outfits.
 
 include all 4 women on the cover if they are all import to the story.
+
+## Later user direction for the remake
+
+I want you to redo the "angels-at-fashion-week" story (using the new agent's, skills and rules) and compare the resulting outlines/stories.
+
+## Later user direction for the runway
+
+this is not best stage for a high end pair-tokey what ever fashion week... try again..
+
+## Later user direction for the cover
+
+this arm bending this way dose not look natural. try again
+
+## Later user direction for Mireille’s pose
+
+now the two ladys read as the same pose change mireille so her hand is placed at her stomach
+
+## Later user direction for publication
+
+this should replace the old story; so remove the existing one and only publish this version its lot better.
