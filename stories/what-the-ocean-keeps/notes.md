@@ -1,0 +1,5 @@
+# Editorial notes
+
+**2026-11-10 · Codex keeper, request only.** The encounter specified is between a daring hunter and the ocean. The first pocketed coin silences the surf, and the offer exacts equal value. The keeper expected “the turn from the glee of finding a real fortune to the uncanny realization that the sea can collect its price.” They read “little thief” as cutting familiarity and the single coin quieting the whole surf as scale. They expected value to shape her choices and costs, with the terms and ending open. The red coat, ready blade, reaching hand and grin cast a hunter thrilled by risk. The rock mouth and breakers suggest the sea could close over the hoard at any moment.
+
+**2026-11-10 · Claude, request only.** The thief and the ocean are the central pair. Claude expected the “eerie, almost courteous menace” of a sea that keeps its word and suspense over the meaning of equal value. A personal cost and a test of cleverness were inferences. The words leave a trick, a fair trade, or tragedy open. Claude read the reaching hand, raised blade, and “gleeful, slightly manic grin” as someone who reaches first and counts the cost later.
