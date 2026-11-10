@@ -49,3 +49,5 @@ The final Decisions checkpoint returned Yes at 0.96 native confidence and procee
 ## Art
 
 The supplied original determined the violet city light, the train and coping geography, and the pair’s silhouettes. Cutline’s character sheet from *The Fourth Beat* supplied white-sheet layout and figure brushwork, and its rooftop arena supplied night-city oil handling. The front-facing features are interpretations of the two figures seen from behind. Built-in imagegen produced separate sheets for Nima and Emil and one Vane House painting. The story’s action stays on that roof. After inspecting the references, the cover used all three for the held-moon scene, with the original as a guide to scale and posture. The saved sheets and cover have their titles in the artwork.
+
+The later art direction makes the commercial sky in the Vane House painting a continuous grid of projection panels. The falling drink carton and the constellation occupy separate slots, and the seams recede toward Needle Bend. The supplied edit target is preserved with the story references.
