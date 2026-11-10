@@ -54,7 +54,7 @@ On the tower a white circle rose through a stack of numbers. The tower’s scree
 
 The moon Daymark had sold was so smooth there was nothing to look at on it but the price. Over High Bank it would be the only light in the sky till morning. The rest of New Eden got the rise for free. For one minute the old line at Vane sent the same picture to every projector in the city. Afterward the cartons could start their fall again outside High Bank. She had watched the company do it all summer with its most expensive sunsets. For that minute the seams came out of the sky.
 
-She moved her hand down to the thick plug. With the whole sky on that line she could hold one picture the way she’d held the drop in the neck of the carton. She could see someone from Daymark coming out through the roof door to put the plug back. They’d put a lock on the box while they were here. She pressed the pad of her thumb against the brass plate and then took her hand out of the cabinet.
+She moved her hand down to the thick plug. Daymark could paint over her again from the tower while the line was live. With the whole sky on that line, she could pull the plug and hold one picture the way she’d held the drop in the neck of the carton. Then a crew would have to come up to Vane House and push it home. They’d put a lock on the box while they were here. She pressed the pad of her thumb against the brass plate and took her hand out of the cabinet.
 
 She opened her study from the old lunar atlas. The two facing pages in the scan had been crushed down hard enough to show the stitching. She had spent a week getting rid of the spine and longer on the dark shapes on either side of it. She set the tablet on her knee. “Put that under here. It keeps sliding.”
 
