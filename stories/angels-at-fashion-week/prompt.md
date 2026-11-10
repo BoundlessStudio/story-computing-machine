@@ -45,3 +45,7 @@ this arm bending this way dose not look natural. try again
 ## Later user direction for Mireille’s pose
 
 now the two ladys read as the same pose change mireille so her hand is placed at her stomach
+
+## Later user direction for publication
+
+this should replace the old story; so remove the existing one and only publish this version its lot better.
