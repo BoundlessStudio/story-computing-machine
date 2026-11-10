@@ -6,15 +6,15 @@ canon: false
 
 # A Good Enemy
 
-At my first Super Speed Dating I wrote my own alias in the box marked *Who would you fight again?* I was still at the registration desk. The fellow behind it gave me a fresh form without a word. It was the tact of the thing that did me in. I'd been laughed at by a whole sidewalk once, when I sent a papier-mâché swan up into the light fixture at Vickery's, where I dressed the windows. I had put out the second swan and made a sign that said MIGRATION, and business went on at Vickery's. If the fellow had laughed I might have been able to do something with it.
+At my first Super Speed Dating I wrote my own alias in the box marked *Who would you fight again?* and slid the form over the registration desk. The fellow behind it gave me a fresh form without a word. It was the tact of the thing that did me in. I'd been laughed at by a whole sidewalk once, when I sent a papier-mâché swan up into the light fixture in the window at Vickery's. I had put out the second swan and made a sign that said MIGRATION, and business went on at Vickery's. If the fellow had laughed I might have been able to do something with it.
 
-From inside my coat I could get the tip of a nail into the U in UPDRAFT. I'd bought the coat for the occasion, green wool with the kind of shoulders they used to give women going into battle on the front of the movie houses. The cards had been printed on Wednesday, though of course I'd ordered them as if there had been a previous batch and I was running out. The woman had talked me into a hundred. I thought of the people I might have to fight to get rid of a hundred cards, and then it occurred to me that if it went the way I hoped I could give the whole box to one person.
+I could get the tip of a nail into the U in UPDRAFT on the first card in my coat pocket. I'd bought the coat for the occasion, green wool with the shoulders of a woman going into battle on a movie poster. The cards had been printed on Wednesday, though of course I'd ordered them as if there had been a previous batch and I was running out. The woman had talked me into a hundred. I thought of the people I might have to fight to get rid of a hundred cards, and then it occurred to me that if it went the way I hoped I could give the whole box to one person.
 
-The Comet Roller Palace was still clearing away its last skating lesson. I could smell the wet coats before I got past the rental counter, where the attendant was spinning each wheel of a little pair of white boots and laying a finger on it to stop it. I could have stayed there a good while watching him. Out on the maple, a girl whose father had come for her followed a red stripe toward the gallery stairs. She kept her eyes on him the whole way, even when she had to swing both skates out from under herself to stop. “All the way to me,” he said, and held her coat open for her.
+The Comet Roller Palace on Garnet Street was still clearing away its six o'clock skating lesson. I could smell the wet coats before I got past the rental counter, where the attendant was spinning each wheel of a little pair of white boots and laying a finger on it to stop it. I could have stayed there a good while watching him. Out on the maple, a girl whose father had come for her followed a red stripe toward the gallery stairs. She kept her eyes on him the whole way, even when she had to swing both skates out from under herself to stop. “All the way to me,” he said, and held her coat open for her.
 
-The old changeover bell stuck out over the open side of the stairs at the top. The stripe ran right under it. From the floor you could look straight up its mouth. I'd have lit just the brass if I'd had it in a window. The attendant went up and pulled its rope to let us hear what four minutes sounded like when they were over.
+At the end of the stripe you could look straight up into the mouth of the old changeover bell, which hung off the open side of the top landing. I'd have lit just the brass if I'd had it in a window. The attendant went up and pulled the rope to let us hear what four minutes sounded like when they were over. The clapper gave the brass a hard knock and a high note went out over the rink. I could still hear it over the thud of his shoes coming back down the stairs.
 
-All the heroes had to do the moving at Super Speed Dating. They put the villains at little tables on the rink. That way we could spend the interval watching somebody come toward us in full knowledge of what was waiting at the other end. This had always struck me as the chief inducement to a life of crime, though when the time came I picked up the spoon they had left with the tea and found that it rattled against my glass. I put it down very flat.
+All the heroes had to do the moving at Super Speed Dating. They put the villains at little tables on the rink. That way we could spend the interval watching somebody come toward us in full knowledge of what was waiting at the other end. When I'd read about that part it had struck me as the chief inducement to a life of crime, though when the time came I picked up the spoon they had left with the tea and found that it rattled against my glass. I put it down very flat.
 
 The first man took his last step a foot above the boards. “I hear you get things off the ground,” he said, and sat down without doing any of the ordinary things you do with your knees.
 
@@ -26,23 +26,23 @@ He put his elbows on the table. “How long will it stay up?”
 
 I held the spoon out by the handle and let go. It went toward the underside of the gallery, bowl first. The flier had it before it touched wood. He came back holding it in the palm of his hand, so gently that I could believe it had landed there of its own accord.
 
-“With the E,” he said, laying the spoon between us, “you have to let me get to it before it gets away over the rooftops. That's a lot of weight to bring down and it's a different thing entirely once you've got somebody underneath you. I've been practicing with a sandbag at the high school and I could set the letter down on those brass studs so easy you'd swear it had never been gone. I'll tell you where you can stand to see it.”
+“With the E,” he said, laying the spoon between us, “you have to let me get to it before it gets away over the rooftops. That's a lot of weight to bring down and it's a different thing entirely once you've got somebody underneath you. I've been practicing with a sandbag at the Merritt gym and I could set the letter down on those brass studs so easy you'd swear it had never been gone. I'll tell you where you can stand to see it.”
 
 He pulled the saucer toward him and traced out Garnet Street with a finger, all the way from the tobacconist to the pawnshop. I watched the fingertip take the corners and thought how nice it would be to want the thing he was offering. He had actually gone out and lifted a sandbag in preparation for somebody like me. I asked him whether I could get away with the letter sometimes.
 
 “We can work up to a big night for you,” he said. He went over my corner of Garnet Street a second time, adding a cross for the best place to put the cameras.
 
-I kept the spoon and he left at the bell. Next came a woman dressed as a white tiger who wanted someone to lift the train of her coat just as she emerged from an explosion. She drew the entrance for me on a napkin, with flames in the shape of peacock feathers. I could see where she needed the effect and had to sit on my own hand to keep from taking the pencil. Then there was a man who had made every door in his apartment impenetrable and wanted to know what I had that would make him get up out of a chair. By the time he got up out of his I was grateful the attendant had given me a new slip. There would be nobody looking over it later to see where I'd rubbed out my name.
+I kept the spoon and he left at the bell. Next came a woman dressed as a white tiger who wanted someone to lift the train of her coat just as she emerged from an explosion. She drew the entrance for me on a napkin, with flames in the shape of peacock feathers. I could see where she needed the effect and had to sit on my own hand to keep from taking the pencil. Then there was a man who had made every door in his apartment impenetrable and wanted to know what I had that would make him get up out of a chair. When he got up I slid the form under my saucer, just far enough to cover the empty box.
 
 ***
 
-By the last round, the chill from the front doors had got to the tea. It tasted of the pot. I'd finally handed over my coat at the skate counter, keeping a single calling card. In exchange they'd given me a little silver tag. There was a fourteen stamped into it, and a hole through the top for hanging it on the peg. I knew how long I could let my nail go round the hole before I had to look at the man who'd come to my table. I'd just heard a woman up the row say, “Oh, you again,” with such frank pleasure that I could feel it behind my eyes.
+By the last round, the chill from the front doors had got to the tea. It tasted of the pot. I'd finally checked my coat at the rental counter and kept a single calling card. They'd given me a little silver tag stamped fourteen, with a hole through the top for the peg. I knew how long I could let my nail go round the hole before I had to look at the man who'd come to my table. I'd just heard a woman up the row say, “Oh, you again,” with such frank pleasure that I caught myself pressing my back teeth together.
 
-“Still Life,” said the man. He said it in the tone people use to explain that the seat they're about to take is theirs. He had a dark red jacket with white piping and a wrist bare where it had gone white under a watch. He put his glass of water at the one corner of the table where it stayed steady, then put both hands on his knees. He looked capable of waiting while I finished with the tag.
+“Still Life,” said the man. He said it in the tone people use to explain that the seat they're about to take is theirs. He had a dark red jacket with white piping. He set his glass of water on the one steady corner of the table, and I saw where his watch had kept the sun off his wrist. He put both hands on his knees. He looked capable of waiting while I finished with the tag.
 
 “What have you got?” he said finally.
 
-“I can make things fall up.” That was all I'd put on my entry, thinking anybody would ask for particulars. By now I could say it quite fast, so I didn't have to hear it taking up the space where other people had their trained clouds of bees or their armor.
+“I can make things fall up.” I'd left it at that on my entry, thinking anybody would ask for particulars. By now I could say it quite fast, so I didn't have to hear it taking up the space where other people had their trained clouds of bees or their armor.
 
 “What are you thinking of making fall up?”
 
@@ -50,15 +50,15 @@ I nearly told him about the E. I'd gone up to the King Edward one morning when t
 
 “Something you were hoping would stay put,” I said.
 
-“There was a woman here who can get out of any room with the door shut. You can hear her knock from the other side before you've heard the latch catch. I thought I'd put her onto the school cup, which they keep in a cabinet with a little brass lock. She'd get it out of the cabinet all right. What happens after that might be worth seeing. I got quite far into telling her where it was in the school when she opened her diary. She had the next three Saturdays marked for me to catch her, then on the fourth I was to watch her get away over the athletic field. She said she wanted blue smoke for that one. I spent half our time asking her where she'd get the blue smoke. With the right kind I'd be able to see where she'd passed through it. I wanted to know how long that place would hold.”
+He put his hand around his glass. “There was a woman here who can get out of any room with the door shut. You can hear her knock from the other side before you've heard the latch catch. I thought I'd put her onto the school cup, which they keep in a cabinet with a little brass lock. She'd get it out of the cabinet all right. What happens after that might be worth seeing. I got quite far into telling her where it was in the school when she opened her diary. She had the next three Saturdays marked for me to catch her, then on the fourth I was to watch her get away over the athletic field. She said she wanted blue smoke for that one. I spent half our time asking her where she'd get the blue smoke. With the right kind I'd be able to see where she'd passed through it. I wanted to know how long that place would hold.”
 
-He said this without looking around to see if she could hear him. Down the table someone was trying to keep a length of twine from crawling into his tea. Its loose end came up and tapped him quite distinctly on the knuckle. Still Life leaned over to pass him a saucer to set on it, then waited for me to say whether there was anything wrong with wanting blue smoke.
+He said this without looking around to see if she could hear him. At the next table someone was trying to keep a length of twine from crawling into his tea. Its loose end came up and tapped him quite distinctly on the knuckle. Still Life leaned over to pass him a saucer to set on it, then waited for me to say whether there was anything wrong with wanting blue smoke.
 
 “If she did take the cup,” I said, “would you go after her?”
 
-“I'd like to get her as far as the field, at any rate. The whole stretch from the cabinet to the door is in sight from the gym. People look at you very seriously if you stand in the gym and stare, even if there's a good reason. I spend all day looking at swimmers over at Foster Pool, and if I do it anywhere else they wonder what's the matter with me.” He had been running a finger along the side of the glass as he talked. He took his hand away and hooked his nail under the handle of my spoon. “May I?”
+“I'd be out on the field, where I could see her come out of the building and keep seeing her. I spend all day looking at swimmers over at Foster Pool, and if I stand around inside looking at anybody else the same way, they wonder what's the matter with me.” He had been running a finger along the side of the glass as he talked. He took his hand away and hooked his nail under the handle of my spoon. “May I?”
 
-He lifted it to the height of his chin and let go. I heard its small noise leaving his nail. It hung there with the bowl toward me. My face was much too close in it, with the part in my hair on the wrong side. The instant he took his eyes off it, the spoon dropped and struck the table.
+He lifted it to the height of his chin and let go. I heard its small noise leaving his nail. It hung there with the bowl toward me. My face was much too close in it, with the part in my hair on the wrong side. He looked me in the face and the spoon struck the table.
 
 He slid it back to me. His hand had left a damp crescent where he'd been holding the glass.
 
@@ -66,13 +66,13 @@ I held the spoon the way I'd held it for the flier. In the street there'd be all
 
 “I think I can get the bell to ring before our time's up,” I said. “Without touching it.”
 
-He looked up at it, with an expression that made me think he was adding up stairs.
+His eyes went from the bell to the bottom of the stairs and came slowly back up.
 
 “If you don't like the idea,” I said, “I can take the spoon home.”
 
 “I was just wondering where I'd have to stand.” He wiped his fingers on his trouser leg and got up. “Let me have a look while you're thinking about how you're going to do it.”
 
-I had been thinking about it from the minute I could see into the mouth of the bell. I got up too. People went on talking behind me, though a heel caught the back rung of my chair and pulled it clear. Whoever had done it was decent enough to make it sound accidental. The boards gave a little when I went across them. I went as far as the bottom stair, then took a step out onto the stripe till I could see the ends of the joists and a scrap of green paint where they'd brushed too close to the brass. If I let the spoon go with my arm straight up, it would strike the bell where a clapper would.
+I had been thinking about it from the minute I could see into the mouth of the bell. I got up too. The boards gave a little when I went across them. I went as far as the bottom stair, then took a step out onto the stripe till I could see the ends of the joists and a scrap of green paint where they'd brushed too close to the brass. If I let the spoon go with my arm straight up, it would strike the bell where a clapper would.
 
 I had thought he would go straight for the stair, and he went the other way. He took himself out where he could see the open stair and the bell in the same look. He'd left his jacket open, and it swung behind him as he stopped.
 
@@ -82,23 +82,25 @@ It rose as easily as it had the first time, picking up speed as it went. The pla
 
 Somebody near my table put a cup down. I backed toward the foot of the stairs. Another step and I could look like somebody who'd come over to see what was holding up the spoon. Still Life had one hand half open at his side, his weight forward on his feet. I wished I had given him more to watch.
 
-He began to back toward his chair. He found the back of it with both hands, a little clumsily, and brought it with him. Two of the feet squealed on the varnish. He followed the red stripe with his head up, just as the girl in the white boots had skated to her father. At the end of it he drew the chair under the spoon and set a foot on the seat. He kept a hand on the back of the chair and lifted the other toward the spoon.
+He backed up for his chair and caught hold of it on the second try. Its front feet squealed on the varnish as he dragged it along the red stripe with his head up, the way the girl in the white boots had skated to her father. Under the spoon he braced the chair with one hand and put a foot on the seat.
 
-I went up the stairs fast enough to set their hollow undersides ringing, and he shifted his shoulders a little, in a way that let me know I still counted. The handrail was gritty where they had repainted it. I could see the rim of the bell getting lower with each step and the spoon waiting below it, and then I could see down into his open collar. He had a hand on the back of the chair and was about to put his full weight on his foot. I could still beat him to the bell. If I waited to get all the way to the landing and lift the tag right up next to it, he would have the spoon in his hand and be free to watch whatever I did next.
+I went up the stairs fast enough to set their hollow undersides ringing, and he shifted his shoulders a little, in a way that let me know I still counted. The handrail was gritty where they had repainted it. I could see the rim of the bell getting lower with each step and the spoon waiting below it, and then I could see down into his open collar. His free hand had come up as far as his face. I could still beat him to the bell.
 
-I stopped two treads down. I put my arm over the open rail where he could see what I had in my hand. I didn't have the tag as straight under the rim as I'd had the spoon. The back of my hand grazed the cold iron. I rolled my wrist a little until I had it lined up and I heard myself say his name. It was the first time I'd said it.
+I stopped two treads down and reached out where he could see what I had in my hand. I rolled my wrist till the cold iron grazed the back of it and the tag was right under the rim. I said “Still Life” out loud for the first time.
 
 His eyes were on the spoon when I opened my fingers. The tag rose beside the rail. I saw his face turn, the tag stop on its edge, and the spoon shoot up the instant he took his eyes off it. The chair took his weight with a sharp complaint of wood on wood. He was up on it with his eyes still on the tag and his hand going for the spoon.
 
-I'd have known from that hand how much he wanted to catch it if I'd seen no other part of him. His cuff slipped down, and I could see the white band round his wrist and the tendons on the back of his hand sticking up as he tried to get his fingers far enough apart. He was doing it by the place where he'd last seen the spoon. There was the width of his thumbnail in it, maybe less. I felt my own thumb go to meet my fingers. If he got it, I was going to need something else to send up at him as soon as he turned around. The spoon passed his fingers and struck the bell.
+I'd have known from that hand how much he wanted to catch it if I'd seen no other part of him. His cuff slipped down, and I could see the white band round his wrist and the tendons on the back of his hand sticking up as he tried to get his fingers far enough apart. He was doing it by the place where he'd last seen the spoon. There was the width of his thumbnail in it, maybe less. I felt my own thumb go to meet my fingers. If he got it, I was going to need something else to send up at him as soon as he turned around.
+
+The spoon passed his fingers and struck the bell. There was a little tap, like somebody putting down her spoon too hard at the end of her tea. Then the high note came out clear. I had a hand on the iron, and I felt it tremble under my palm.
 
 All down the row nearest the stairs, people stood up, including a man who'd been halfway through saying “and that's why I never go anywhere with just one cape.” He had both hands flat on the table and stayed like that while he tried to see whether the bell was going to finish his sentence for him.
 
-The attendant came to the foot of the stairs to see who'd rung it. By then Still Life had stepped down and caught the spoon coming down. He was still watching the tag. I went up another tread and took it out of the air. It had turned edgewise and I had to feel with my fingertip to find the hole. Only when I had a good hold of it did he let himself look down. There was a flush all the way up his neck.
+The attendant came to the foot of the stairs to see who'd rung it. By then Still Life was off the chair with the spoon in his hand. He was still watching the tag. I went up another tread and took it out of the air. It had turned edgewise and I had to feel with my fingertip to find the hole. Only when I had a good hold of it did he let himself look down. There was a patch of red in the open collar that nearly matched his jacket.
 
 ***
 
-The pencil at the matching desk had worn right down to its ferrule. I put down STILL LIFE as evenly as I'd ever put down my own name. The attendant took the slip. At my table there were two rings on the wood from the glass he'd put down, and for a little while I occupied myself trying to figure out when he'd moved it.
+The pencil at the matching desk had worn right down to its ferrule. Behind me a chair leg kept catching in the groove at the threshold as they cleared the rink. I put down STILL LIFE as evenly as I'd ever put down my own name. The attendant took the form. At my table there were two rings on the wood from the glass he'd put down, and for a little while I occupied myself trying to figure out when he'd moved it.
 
 He came back from the desk holding my spoon by the bowl.
 
@@ -108,14 +110,14 @@ He came back from the desk holding my spoon by the bowl.
 
 “I put yours in too. Did you see the star out front when you came in?”
 
-The star was the bit of the Comet Roller Palace sign that looked in daylight as though it had been knocked there from somewhere else. It was taller than Still Life and had one point bent up where a wind had got behind it. As a girl I'd spent a whole bus ride with my neck against the window, keeping sight of that point till the bus went around a corner. On wet nights the marquee gave the star a different sort of light from the lettering. It would take that light along with it if it went.
+The star was the bit of the Comet Roller Palace sign that looked in daylight as though it had been knocked there from somewhere else. It was taller than Still Life and had one point bent up where a wind had got behind it. As a girl I'd spent a whole bus ride with my neck against the window, keeping sight of that point till the bus went around a corner. On wet nights the pink lettering shone on the pavement. The star caught the white lamp they'd set over the C and held a patch of light of its own. It would take that light along with it if it went.
 
 “They've got a notice up at the rental counter,” he said. “It's coming down on Saturday to be painted. I'd like to be there when they take it off the front of the building. They've got to get it past the canopy and lower it into the street. There'll be a lot of chances for me to lose sight of it if you're any good at getting up there.”
 
 “Is that what you'd do, if it was you?”
 
-“I'd get up there before they did. But I wouldn't know what to do after that.” He put the spoon in my hand and looked out at the marquee while I picked the lid off my pen.
+“I'd get up there before they did. But I wouldn't know what to do after that.” He put the spoon in my hand and we left the rink together.
 
-I took the calling card I'd kept out of my coat, put SATURDAY at the bottom and gave it to him. He waited a little for me to add to that, then slipped it into the pocket of his red jacket. From where I stood, I could still see the top of the U.
+In the lobby I took the calling card out of my pocket and used the windowsill to write SATURDAY at the bottom. I gave it to him. He waited a little for me to add to that, then slipped it into the pocket of his red jacket. From where I stood, I could still see the top of the U.
 
-He went out to see what kind of a view he'd get from Garnet Street. The door closed with a shudder and the damp air rolled in as far as the rental counter. I got my coat. Somebody had wedged the side door open with a long wooden dolly, with a new quilt folded on it and a card tied to the handle. FOR THE STAR. They'd bring the star around the back to where there was room to get the truck in. I put a hand on the quilt. Above the delivery ramp I could see all the way past the roof to the first low clouds. From the same spot I could see him through the front glass taking another step back, looking for a place where the marquee wouldn't hide anything from him.
+He went out to see what kind of a view he'd get from Garnet Street. The door closed with a shudder and the damp air rolled in as far as the rental counter. I set the silver fourteen down on the wood. The attendant hung it back on its peg and passed me my coat with one shoulder turned in. I shook it out before I put it on. Somebody had wedged the side door open with a long wooden dolly, with a new quilt folded on it and a card tied to the handle. FOR THE STAR. They'd bring the star around the back to where there was room to get the truck in. I put a hand on the quilt. Above the delivery ramp the sky was clear all the way to a low bank of cloud. From the same spot I watched him through the front glass take another step back, looking for a place where the marquee wouldn't hide anything from him.
