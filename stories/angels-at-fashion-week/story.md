@@ -26,7 +26,7 @@ Romi lowered her train across my foot while I shifted it. “I can have you out 
 
 “We’d lose her in the first one.” I could picture a woman stepping out of a dress and away from a rail, becoming one of a hundred people I’d stood beside all week. I’d spent enough of my life being that woman. “Get me close to her. Nari can tell me when.”
 
-Nari touched her platform toe to the floor. “My camera’s down here.” I felt two distinct knocks through my own heel, right under the weight. “When you get that from me, hold.” She had used two taps with her knuckles once to keep me from lifting my head while a transport plane came apart around us and Romi tried to get three men in dinner jackets into parachutes.
+Nari touched her platform toe to the floor. “My camera’s down here.” I felt two distinct knocks through my own heel, right under the weight. “When you get that from me, wait for my hand.” She had used two taps with her knuckles once to keep me from lifting my head while a transport plane came apart around us and Romi tried to get three men in dinner jackets into parachutes.
 
 At the entrance I waited for a woman whose gold earrings threw spots onto her bare shoulders whenever she turned. She went in sideways to take the length of her teal skirt past the pier. The caller waved me out into the space she’d made. The loose silver jaw kept time all the way up the slope.
 
@@ -94,23 +94,23 @@ The caller had heard enough. He put the dragon model at the head of the line and
 
 “I can reach your left cuff from here,” she said. I let the other sleeve fall in behind me to give her room. Romi went past us on the side of the pit to come up on Mireille’s other shoulder.
 
-The dragon model had a blue stone the size of a plum set among the peach scales on her bodice. Her copper braids went up in a knot so the pale wings could open all the way below them. When she started up the plywood I could see the cape had dragons of its own, stitched in colors you had to catch sideways. At the new tape she glanced back at me and spread both hands under the folds. Her blue nails went all the way around a chain at the edge of the cape. I could see the dents left by the wire that had held the big red jewel in place on her first walk. She caught me looking and raised an eyebrow, then went through the gap she’d made for herself. The last lavender dragon went round the pier and out of the light.
+The dragon model had a blue stone the size of a plum set among the peach scales on her bodice. Her copper braids went up in a knot so the pale wings could open all the way below them. When she started up the plywood I could see the cape had dragons of its own, stitched in colors you had to catch sideways. At the new tape she glanced back at me and turned both palms up to catch the folds. There was a pale groove around one finger of her right hand where the big red ring had sat. Her blue nails closed round the chain at the edge of the cape. She caught me looking and raised an eyebrow, then went through the gap she’d made for herself. The last lavender dragon went round the pier and out of the light.
 
 I was looking at Mireille’s hands when she came beside me. She gave the velvet one good lift. Her left hand had hold of it and her right hovered over the floor, perfectly disposed to take the rest. The rest dropped. I saw the border turn under at her feet, all the tiny gold figures her dresser had laid out for the camera, and she let it go. In the white dress she had held her hand clear of the jeweled crosses as though making room for someone to pass. The courtesy was the same now. Her thumb slid up the side of the red stone and lifted it. There was a slot in the metal underneath.
 
 She came at me a pace before the mark. The block of her heel caught the floor-skimming hem of Romi’s trousers. Romi stopped with her weight forward, the cloth tight from knee to floor. I felt her single knock through my heel. Then the photographer came up on one knee and swung his lens down toward the snag.
 
-Mireille drew the open ring back against her velvet. Nari’s eyes followed the lens and the hand she’d raised for me came down. Two knocks. Hold.
+Mireille drew the open ring back against her velvet. Nari’s eyes followed the lens and the hand she’d raised for me came down. Two knocks. I kept my left wrist straight.
 
 The pier was one long step away. I could have had a woman’s hand out of sight there before anybody in the front row saw it close. Out here the man in the pit could see my whole face. My tongue was jammed against a tooth and I’d have liked to be able to turn my head. I put my foot down in the light, spending the weight the way the woman with the wings had shown me, and let my left wrist come out of the sleeve. I left it palm up between us.
 
 Mireille looked down at the lens and took my wrist. She tugged the long point of the lacquer across her ring, turning the slot up toward the gap above my collar. From the pit it must have looked like a woman trying to get a better hold of my hand. I could see the little gap she’d left for the dart.
 
-She leaned in to come under the cuff. Her heel lifted. Romi pulled her hem free and finished her turn, bringing a copper sleeve up across our hands. The light went straight back into the lens.
+She leaned in to come under the cuff. Her heel lifted. Romi pulled her hem free and came round toward the pit. Her copper sleeve shone between our hands and the lens.
 
 Nari brought her left hand across my waist as if she meant to settle the fold of my sleeve for the picture. I felt the filament close round both wrists. Mireille’s chin came up. When I twisted my hand the loop brought hers with it. I bent my wrist hard and the plate came across the open stone. On the next beat of the music the dart struck it. Through the lacquer it felt exactly the way a door feels through your knuckles when somebody knocks from the other side.
 
-Mireille pulled once. I let my weight follow, and the two of us came up on the mark together. Romi was still turning. When she lifted her sleeve past us the light fell back into the pit, and Nari raised her hands just far enough to make a frame of the long blue drops. The photographer got his four faces. Someone clapped out of time, and the rest of the room went with her. It sounded as though we’d done a second turn to be kind.
+Mireille pulled once. I let my weight follow, and the two of us came up on the mark together. Romi finished her turn and let the sleeve fall. Nari raised her hands just far enough to make a frame of the long blue drops. The photographer got his four faces. Someone clapped out of time, and the rest of the room went with her. It sounded as though we’d done a second turn to be kind.
 
 At the pier I said Mireille’s name into the silver cross. The clock on the other side of the drape had just turned to nine. The handler thanked me in the same voice she’d used to ask. Nari slipped the ring off while Romi gathered the velvet to keep it clear of the service door. Two people from our car were waiting there. When they took Mireille’s arms, Nari opened the loop. Mireille asked if they would let her take the dress off before they took her out into the rain. She said it the way she had offered us the turn. One of them went for her dresser.
 
