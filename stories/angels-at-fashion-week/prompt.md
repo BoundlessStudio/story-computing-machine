@@ -26,3 +26,7 @@ The user specified no audience or intensity. The collection starts from General 
 make sure they match the reference images that import for this story about fashion and they are multiple outfits.
 
 include all 4 women on the cover if they are all import to the story.
+
+## Later user direction for the remake
+
+I want you to redo the "angels-at-fashion-week" story (using the new agent's, skills and rules) and compare the resulting outlines/stories.
