@@ -1,0 +1,91 @@
+---
+title: An Unreasonable Moon
+created: 2026-11-09
+canon: false
+---
+
+The sun went down for the third time that evening while Nima knelt on the roof of Vane House trying to get the underside of a leaf right. Someone had bought this one for nine, in time for supper on the high terraces along the bend. She could see the green in the shelter of the dish. Move the tablet six inches into Daymark’s sunset and there went the green. The backs of her hands looked scorched all the way to the cuticles.
+
+Emil came out for the blackout cloth with a jar of clothes pegs knocking against his thigh. He took three steps toward the line before he turned and came to see what she had. The vent behind them was giving off the accumulated heat of the building. You could dry one side of a sleeve in it while rainwater crept down the other.
+
+“Is that wind?” he asked. She held the tablet farther into the shade and played the sequence again. There were no birches left near enough for her to have stood under one. In the film she’d found, a truck going past on a road sent a gust along the ditch and up into the trees. Nobody had thought the smallest tree worth getting all the way into the picture. She had put it back in and given it room to shake.
+
+A train took the Needle Bend close below them. The coping hummed. Every shade in the first carriage was down, and in the second a man was leaning out of his seat to stuff a corner of the blind behind his headrest. Nima could see the whole business of it in the second or two it took him to pass. She wanted to see him try to get it out again.
+
+“Leave me the cloth a minute,” she said. “I can see under it.”
+
+Emil had already undone the first two pegs. He rolled the sleeve of his blue overshirt out of the way and gave her an end. “Next time tell me you need a darkroom. I could get you a whole roll of sign vinyl with a white side and a black side. The woman at the counter says you hang it white side out and it stays cool. She says that to everybody in the shop at the top of her voice, and I’ve seen her flat and she’s got blue curtains you could read through. She likes to know what’s going on in the street.”
+
+Nima wanted something light enough to hold in one hand. She took the end he offered. It smelled of his orange laundry soap and was cold enough to cling to the neck of her pullover. As she bent under it, she reached past the dish’s rusted foot and pushed her plug into Daymark’s relay.
+
+This much she had done almost every night since the warm weather began. The house had once been taller than anything to the west of the tracks. It still had the relay where the company’s painters used to stand to see their proofs go up. The box answered the tablet as if Nima had come out to check a bit of color for Daymark, which had taken her the better part of June to arrange. Then she had spent July finding out how many of the projectors she could reach from here. She could reach six without drawing attention. Six, out of all New Eden, still meant more wall than she could have covered in a year.
+
+The customer’s sunset drained off the tower. A white R appeared in the sky in a scatter of stars, then an S close enough to share three of them. By the time the price came up on the tower for a constellation of your own, the proof had faded and a carton of some pink drink was falling through the old sunset. It made the same fall every eight seconds, shoulder first, turning just enough to show a bright belt of rind. Nima let it go round twice. When the carton was upside down she took the signal off that one projector.
+
+The carton stayed upside down. A drop hung from the neck. The same pink lay on the rails and on the flat roofs beyond them, and when Nima took her hand off the tablet the drop stayed where it was. She counted to five before she let the signal back in. The carton righted itself and fell out of sight.
+
+Emil had made a tent of the cloth with one arm. He was looking at the thin streak of ad light coming in beneath it. “You could stop it there every night,” he said. “Give it a chance to wonder how it got itself up there.”
+
+“Go over to the edge. Give me two if you can tell what it is.”
+
+When she painted the retaining wall at Needle Bend he had stood across the street for her. One finger for a color that carried and two if he could make out what she was doing. There was a woman bending to lace a boot on that wall, and Nima still saw a little chip out of her lip where Emil had persuaded her to keep the mortar bare. The place to look from here was the far end of the coping, where there was a gap in the buildings past the curve. He knew it. He lowered the cloth and went there with the pegs still in his fist.
+
+Nima sent up the trees. The carton vanished before it could finish its next fall. She had painted the pale trunks very narrow and she saw them first, right above the tracks, close enough together that the wind, when it came, passed through them like a thing with a body. She forgot to watch Emil. She had put three weeks into those leaves and the instant they turned she had to get out from under the cloth. Her hair caught on a peg still clipped to the hem, and she kept her head bent while she opened it, afraid to look down for the time it would take. Above the roof of the last low building the little tree lifted every leaf and went white. Emil was holding up two fingers.
+
+* * *
+
+Nima let the birches have another gust. Then she called up the kelp and put the first panel over the trees. She had fitted five more panels to the ad strips from the bend to the far side of the tower. When she reached the last strip she felt her stomach tighten and touched it too. It was easy to see six pictures on the tablet. Out there the edges came together. What she had drawn in the square two inches from her hand had to go over a mile of roofs before it met the thing she had drawn next to it.
+
+The color went all at once from the birches. Brown blades rose above the buildings and spread out just under a moving ceiling of light. It had been hard to get that color. Somebody had written *golden* under a picture of the whole forest, which would have been fine for a picture small enough to fit on a packet. Up close there was brown and the pale sour green of the new tips, and where the light passed through the blades there were thin places the color of a pear held up to a lamp. The blades gathered toward the tower. Then the swell passed and each one came slowly back on its own stem, some catching at each other, with the light running down through the places they had opened.
+
+“Which way’s the surface?” Emil asked. He was still standing where she had put him. His head was tipped so far back that his hair stood off his forehead. Nima pointed out where the light broke and came together again. A shoal of little gray fish was making its way through the gaps. For two nights she had sat up taking fish out, to get that thin scattering that bent before any one fish seemed to have given a signal.
+
+“Wait,” he said. “That’s kelp? I’ve had that out of a foil bag my whole life. If I were selling it I’d have put this on the bag. I’d have left the little window out entirely. The sight of what’s in the bag has never done them any favors.” He watched the next swell reach the surface. “I keep thinking that’s going to come out the top.”
+
+A light went on in the stairwell of the building opposite. Somebody pushed open the wire-glass door that let out onto the roof and stood with one slipper in the doorway. The person behind them was still in the stairwell, trying to get past. Nima was wondering if she could bring a patch of the forest down a little, into the gap between those roofs, when a hard pink light came on at the far end. Half a blade went white and vanished. A carton fell in its place and began its old turn.
+
+She took the kelp nearest the carton and shifted it into a strip above the tracks. She had the canopy there, and the tops of the blades with none of the weight dragging from below. Another strip came back pink. Daymark was sending its own pictures through the relay again, starting at the tower and working toward Vane House. By the time she had the forest arranged over three strips a fish could swim into the edge of a carton and disappear.
+
+Emil came back from the coping. Wind pressed his overshirt flat against him. “Take it down yourself, would you? If they’ve only got as far as going over it they might leave the box alone. You’ve got all those others on there. Show me that one with the cloud again. I keep thinking about the birds in it, how it takes your eyes a while to find out which ones are actually turning. I could get my supper early tomorrow and come up while there’s still enough light to see where to put my feet.”
+
+She had made a little schedule for the birds. One strip tonight to see whether anything held, two tomorrow, by next week a turn around the whole bend, if she was lucky. The woman from the sign shop would leave her curtains the way they were and begin to know what time to look out. There was a perfectly good life in it. Another carton came back over the corner where the fish had gone. Nima reached for her plug and held it where it was.
+
+On the tower a white circle rose through a stack of numbers. The tower’s screens named the last bid, then put the name of the winning district across the circle. HIGH BANK. Emil pulled the rest of the wet cloth in from the line. “That much money to spend the evening in the dark,” he said. “My mother would ask them to throw in a fan.”
+
+Daymark’s new moon was so smooth there was nothing to look at on it but the price. Over High Bank it would be the only light in the sky till morning. The rest of New Eden got the rise for free. Daymark put all the projectors on the same picture through Vane House for the length of that rise, then gave everybody outside High Bank the ads again. Nima had watched the company do that all summer with its most expensive sunsets. For that minute the seams came out of the sky.
+
+She pulled up a study she’d done from an old lunar atlas. The two facing pages in the scan had been crushed down hard enough to show the stitching. She had spent a week getting rid of the spine and longer on the dark shapes on either side of it. There was a way to have the whole thing, from here out past the end of the line where the light of the city went up the hills, if she was still connected when the preview began. She set the tablet on her knee. “Put that under here. It keeps sliding.”
+
+Emil tucked a fold of cloth under the tablet. “Can we still come back tomorrow?”
+
+She remembered the little iron plate with the house number on the cabinet. They would come straight to it if she cut the line. That was how you got a visit up here. She could have the roof again tomorrow and plenty of dark in which to use it. The way through the box would be gone.
+
+“I’ll want you where you were,” she said. “It has to read from there.”
+
+The last carton fell without making its turn. On the tablet the separate rectangles went out and there was one wide frame. Nima took it. She let the background go dark and put up a pale disk with her gray work over it. From the roof there was a good deal more white than there had been on the tablet. She could make out a stain near the middle and a little roughness at the edge if she knew where to look. The places she’d been most careful of, where the pale and the gray met in little bites out of each other, were gone in the glare. Emil had one finger in the air.
+
+“You’ve got a bit out, up on that side.” He moved the finger to show her. “Could it be the dish? It’s full of rain.”
+
+She knew the bit. She could have covered it with white from the next part over in one pass. It would have gone up smooth as the picture on the tower, without even that much in it to keep a person’s eye. There was a thumbprint on the glass where she’d caught the tablet going off her knee. She wiped it with the cuff of her pink pullover and tried to get a look at the actual sky with a piece of her own black hair blowing back and forth across one eye.
+
+“That bit’s miles of rock,” she said. “Keep looking there. See if you can find the edge this time.”
+
+She brought the white down and spread the disk till it hung almost twice as wide over the bend. The three towers down by the signal gantry could have stood inside it with room between them. With the heel of her hand against the tablet she took the stain out toward the edge in a broad sweep, where the dark plain ran up against an arc of mountains. She had made that edge with a soft brush for the small picture. Now she took little bites of the darkness back out. The curve broke into a scatter of high pale ground and at the lower end of it she put in the edge of a crater that she’d had to go over twice on the scan to see. She looked up between strokes. The arc was there now and there was even a way into the plain, a dark reach between two horns of light, and when her hand dropped back to the glass she knew what it would do before she’d looked.
+
+The damp was cold through the knees of her jeans. At the bottom of the tablet the lines dividing the sky into districts began to show again. Nima had time to go along the pale south of the disk once more and bring out the spray of bright scratches she had seen coming off the deepest crater. A few crossed into the plains. One ran all the way to the limb. She watched it go that far with a kind of greedy happiness. She’d never had enough wall to make a mark that went on as long as she wanted it to.
+
+Emil had dropped his hand. She was still waiting for him to put it up again when she saw the light on the side of his face. He had that look he got when he went very slowly by something somebody else had made. If she said his name she’d have to say it twice. She set the tablet down and reached inside the relay cabinet for the thick cable that took the picture out. There was grit on the sleeve of the plug and it turned a little without coming free. She got her other hand around it and pulled.
+
+The tower still said HIGH BANK. The pink lamps on the roof were still on. Above them, where the separate stretches of sky ought to have filled up with ads again, hung the full moon. Its light showed Nima the red scrape the cabinet had left across her knuckles. She put her hands flat on the concrete and waited for the first carton.
+
+* * *
+
+The open cabinet whistled in the wind. Emil came for the blackout cloth and Nima followed him back to the coping with her tablet. The concrete felt colder away from the vent and the rain was working its way through the seat of her jeans. He put the loose end of the cloth under his knee to keep it from going over. With the hand he had free he tried the shape of the dark plain, moving his finger in the air until he found where the mountains broke.
+
+“I can get in there,” he said. He leaned a little closer to her, his elbow still over his knee, so she could sight up his arm. “There’s that place where it narrows. If you went through that way I could stand right here and watch you go and there’d come a point where I’d lose you. See where I mean?”
+
+She saw. She had been looking at photographs of the plain since she was small and had never thought how far you could go into it before somebody would lose you. The two pale horns of the mountains had a little hook apiece. She remembered one of them hanging for a while on the tablet, almost too fine to have a color. Now she could hold her thumbnail up against the hook and there would be room to draw around the nail. She lowered her hand and leaned back on both palms. Her hair blew across her mouth. She could leave it there.
+
+The train came round the bend with the usual squeal. It took the tightest part of the curve close enough for her to see somebody stand up in the first carriage. A shade went up beside him. Two behind it went up together and then came a long window where a child had both hands on the glass, its mouth open to make a spot of mist. The wind of the train came over the coping with the smell of hot brakes. Emil put his palm down on the cloth, and for a little while she could see the passengers’ faces, tipped up one after the other like the undersides of the leaves.
+
+Past the tracks the people in the flats were lifting their own lengths of blackout cloth. The roof door across the way was standing open now. Up toward High Bank there were people at the windows too, in the square of the tower’s light and farther back, where the bank went up into streets Nima had never painted. The train ran out past them with its shades up. There was still room above the last carriage for the whole of her moon.
