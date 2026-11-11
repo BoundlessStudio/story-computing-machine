@@ -2,7 +2,7 @@
 
 ## Promised experience
 
-For “ten thousand years” a colossal woman has sat motionless against the sun, worshipped as the creator of a civilization that has forgotten she was an ordinary girl. Its great libraries were built to preserve the memories she sacrificed to keep the heavens alive. A young librarian finds the forgotten book with her true name and must decide whether to wake her at the cost of everything she dreamed into existence. The distance between the figures in the image and the intimacy of what he learns suggest awe, tenderness and dread. The discovery should make both her release and the destruction of an inhabited world feel possible. How they meet, how he decides and who tells the story are open.
+For “ten thousand years” a colossal woman has sat motionless against the sun, worshipped as the creator of a civilization that has forgotten she was an ordinary girl. Its great libraries were built to preserve the memories she sacrificed to keep the heavens alive. A young librarian finds the forgotten book with her true name and must decide whether to wake her at the cost of everything she dreamed into existence. The distance between the figures in the image and the intimacy of what he learns suggest awe, tenderness and dread. The discovery should make both her release and the destruction of an inhabited world feel possible. The later user direction favors Iven’s refusal. How they meet, how he arrives at that decision and who tells the story are open.
 
 ## Takes considered
 
