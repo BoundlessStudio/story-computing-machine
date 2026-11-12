@@ -15,3 +15,5 @@
 **Outline Decisions.** Yes. Native confidence 0.98, Yes 0.99 and No 0.01, source ambiguity 0. Proceed with zero restarts and no user ruling.
 
 **Voice trial.** Both readers wanted to keep reading sample 1, Catrin’s dry first-person account, at “Somebody may still be teaching it,” after a whole ballroom copies her step over a lapdog. The keeper found the street and tower more physical in sample 2. Claude heard the private warmth of the mother’s taps and the bodily pleasure of shoes off on the parapet. The writer chose sample 2’s close third for its uninterrupted solitude, using the comic memory and the heir’s particular attention as the music calls them up.
+
+**First draft.** The writer kept two scenes and brought the lapdog into the close-third view as a memory called up by the tune. The draft profile found a mix of sentence lengths and longer spoken turns. The writer used the read-through to check the market’s objects, the stair decision, and the final sightline.
