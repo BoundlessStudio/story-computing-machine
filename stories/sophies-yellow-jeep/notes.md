@@ -10,24 +10,6 @@
 
 **Outline fidelity.** Decisions returned **Yes**, native confidence 1.00, P(Yes) 1.00, P(No) 0.00, source ambiguity 0.00. Action proceed, zero restarts. The on-page error governs the length of the stay and changes what Sophie does at the first start. The Saturday and the steady needle give each side of her choice concrete weight.
 
-## Opening trial archive
+**Voice trial.** Both readers picked the retrospective first at “You can get a tremendous amount of courage out of something that takes two seconds.” The keeper heard a person who loved her solo trip in the cherry pits and “The next person to unfold it would be me.” Claude heard the mechanical overconfidence as character and wanted the roadside sooner. Both prized the grade and the socket escaping through the open door in close third. The writer chose first person for the starter, horn and cherries, and carried the tool, open doorway and grade into scenes Sophie can still misread as she lives them.
 
-## Opening 1
-
-Before I left Halifax I painted all five wheels of the Jeep the same yellow. I did the spare twice. I kept walking into the driveway to look at it, and once I caught myself looking out through the kitchen window with a paintbrush in my hand, while the kettle boiled itself dry. The starter was the first thing I ever changed in that Jeep. I turned the key and the engine caught. I laid on the horn till my neighbour came out in his socks. You can get a tremendous amount of courage out of something that takes two seconds.
-
-I bought a red toolbox with a tray you could lift right out and wrote CHESTERMAN BEACH at the top of a sheet of scrap sign board. My first solo trip had an average speed of four kilometres an hour if you counted the nights. In Quebec I turned around and went six kilometres back the way I'd come for a paper cup of cherries. I can still see the two dark stains on the map where I put the pits down and left them. The next person to unfold it would be me.
-
-It was three weeks before I had to open the toolbox. Outside Desbarats, on a little road lined with hayfields, the Jeep began to give off the sweet, cooked smell of a car that is going to stop wherever it wants. I pulled over just short of the top of the hill and propped up the hood. After a while I could hear grasshoppers in the ditch. I'd been carrying the little bent card with my reservation for Pancake Bay in my back pocket, and I could feel the card there each time I bent down to pick up a wrench.
-
-When Vern pulled alongside I asked if he could see a socket anywhere near his front wheel. I remember thinking this was a promising start. There was one thing I knew exactly how to put back.
-
-## Opening 2
-
-The trouble with pulling over in a yellow Jeep was that anybody who came over the rise could see from two fields away that you had stopped. Sophie knew about yellow. At the sign shop they used it for things you were meant to be able to read at ninety with a truck coming the other way. She had even painted the rims.
-
-Nothing had come over the rise in twelve minutes. There was cut hay on one side of the road and grass high enough to hide her shoes on the other. The Jeep had stopped hissing. The sweet smell still came through the gap under the hood. All the way up the concession she'd been telling herself the needle would come back down when the road levelled out. She could see from here that the road went on rising.
-
-She was supposed to sleep at Pancake Bay. She'd picked that stop first, sitting on the kitchen floor in Halifax with a map that wanted to fold itself back up. For three weeks, whenever she'd come up to water, she'd had the pleasure of deciding how long to look. She wanted to see water all the way out to the sky and find out whether a lake that size had a smell.
-
-She lifted the red toolbox onto her thighs. The seat cover had left a pattern of little squares above the torn hems of her shorts. She watched them go pink as she tipped up the lid. One corner of the tray caught the lip of the box and a socket rolled off her leg and fell through the open doorway. When she got down to look, her hair slid into her eyes. She pushed it away with the back of her wrist, in time to see the shadow of a pickup come across the grass.
+**First complete draft.** The writer's diagnostic profile and reread focused attention on the contrast between brief mechanical actions and longer voices, bringing the pictured Sophie through the teardown and finding the market's own sound and taste. The writer asks whether the market visit and later returns give the friendships as much consequence as the mechanical setback.
