@@ -4,6 +4,8 @@ created: 2026-11-12
 canon: false
 ---
 
+# The Two-Day Repair
+
 The first part I ever changed on the Jeep was the starter. I turned the key and the engine caught. I leaned on the horn till my neighbour came out in his socks. You can get a tremendous amount of courage out of something that takes two seconds.
 
 Three weeks out of Halifax, on a concession road near Desbarats, I came off the gas and heard a hiss under the hood. The temperature needle was right up at the far end of its little arc. I'd been watching it climb on the theory that it would come back down when the road levelled out. I could see now that the road went on rising. There was a flat patch where a tractor had been turning in and out of a field, and I pulled two wheels onto it and shut the engine off. The hiss went on. A sweet smell came into the Jeep.
@@ -54,7 +56,7 @@ He put the coffee down on the plywood and lowered himself far enough to see the 
 
 “I don't know. I got everything else off in about an hour.”
 
-He considered this. “There's a machine shop in the Sault that got a piece out of my baler once. I'd had the baler since I was twenty-six and they gave me a card to fill in, wanted to know how long I'd owned it. I had to work it out on the back of the card. I stood there doing the long subtraction with the fellow behind the counter watching. Well, I was thirty years the owner of a machine I couldn't get one piece out of.” He picked up his cup. “Do you want their number?”
+I pushed the wrench toward him. He slid it aside to put my coffee in front of me. “There's a machine shop in the Sault that got a piece out of my baler once. I'd had the baler since I was twenty-six and they gave me a card to fill in, wanted to know how long I'd owned it. I had to work it out on the back of the card. I stood there doing the long subtraction with the fellow behind the counter watching. Well, I was thirty years the owner of a machine I couldn't get one piece out of.” He picked up his cup. “Do you want their number?”
 
 I wanted to get it out before anybody at a machine shop saw the hole I'd made. I looked down into it. There was a bit of the broken spiral I could see by putting my face almost to the radiator. It was shiny at one edge. I couldn't get any closer to it than that.
 
@@ -66,11 +68,17 @@ The pushrods had to go back where they'd come from. I marked their places on a s
 
 * * *
 
-The head went to the Sault on Tuesday. I did a few things to the Jeep I could have left till I got home, and on Saturday I rode with Vern to the market at the community centre in Desbarats. The woman at the bread stall had written her prices on a strip of corrugated cardboard that had been wet. It kept folding into the gap between the loaves. I made her a card out of a piece of the board I'd been carrying since Halifax. I went back to give it to her on the second Saturday. Her name was Marla.
+The head went to the Sault on Tuesday. For the first few mornings I took my coffee down to the gate, where I had enough signal to call the shop. Vern would come and get the cup around the time I'd stopped being able to find anything else to ask. He had two chairs in the shed. I began to take the one with a rung missing and leave him the one he could hook his heel over.
 
-I got there toward closing and found her eating an apple behind a stack of loaf tins. A woman wanted two brown and kept calling for Marla from the other end of the table. I'd been surprised the week before that brown meant the pale ones, with the wheat bran coming off them. I tucked the price card under a tin and started putting the loaves in a bag. Marla caught my eye over the apple. She took another bite.
+Rain fell till late in the morning of my second Saturday. I had put the map in my pocket to go and see what was at the end of the road that led down to the water. When Vern came out with his truck keys he offered me a lift to the corner. I said I'd walk. He went on toward the truck and I went as far as the gate. Then I took the two chairs to the dry strip just inside the shed door and went to the house for coffee.
 
-I stayed through the last of it. A boy counted quarters into my hand and had one left. He told me he was saving it, and went off in the direction of the jam stand. The vendors called to one another as they folded their tables under the pavilion. Somebody backed a buggy up to the end and the horse rattled one of the little bowls of water people had put out for dogs. I found the price card again and gave it to Marla, who held it at arm's length and tried it out on the end of the table.
+“Have you got time for a cup before you go?” I called.
+
+He sat down with his keys still in his hand. A tractor came up from the fields. I waited for the two bangs the hitch made where the wagon came up onto the road. Vern put his keys down on the floor long enough to wave, although from where we were all I could see of the driver was the top of his cap. We stayed till the rain quit dripping off the roof. By then I had time to take the short way to town. I put the map back in the tent.
+
+Vern and I had bought bread at the community centre my first Saturday in Desbarats. Marla's price card had been a wet piece of cardboard that folded over when you took the loaves off it. I'd made her a new one on a scrap of sign board. I got there just before closing and found her eating an apple behind a stack of loaf tins. “Two brown,” a woman called from the other end of the table. I set the sign by the till and started bagging the kind we'd bought last week. Marla caught my eye over the apple. She took another bite.
+
+I stayed through the last of it. A boy counted quarters into my hand and had one left. He told me he was saving it, and went off in the direction of the jam stand. The vendors called to one another as they folded their tables under the pavilion. Somebody backed a buggy up to the end and the horse rattled one of the little bowls of water people had put out for dogs. Marla picked up the price card and tried it out on the end of the table.
 
 “That's the first time anybody'll have known the bread was five dollars before they asked me,” she said. “I may have to get a new sentence.”
 
@@ -78,9 +86,9 @@ She brought out a loaf with a shoulder sunk in on one side and started sawing it
 
 “Do you stay for lunch with him?” she said.
 
-“Vern? We have coffee.” I wanted to explain that it had started with the Jeep, although some days he'd come out with two cups by the time I had the tent unzipped. “Do you have plans this afternoon?”
+“Vern? We have coffee.” I moved a canvas bag out of the way of my chair. There was a towel coming out of it.
 
-She put a heel of bread on my knee. “Once I took the van up to Superior straight from here with an apron still on, and a woman asked if I had a loaf in the back. I'd just been sitting on a stump looking out at the water. I got up and opened the back for her, too. There was one oven mitt and a can of soup. After that I started taking my car. I take it right past the places with picnic tables if I've got the time.”
+“That's my bag for Superior,” she said. “I'm taking the car up after this. If I take the van I spend half my time on the beach telling people I'm out of bread.” She put a heel of bread on my knee. “Give me a minute before you go. I have to sit down before I get in the car, which is going to sound ridiculous to you.”
 
 I liked the burnt taste at the part where the loaf had sunk in. Marla asked when I'd last driven anywhere. I said it depended if she counted being towed. What she wanted to know was where I'd gone with the whole day in front of me. I got as far as telling her about the cherries. I'd told other people at home how many kilometres I'd done. I had never told anybody that I could smell those cherries in the car for a day and a half. She took the knife back out to cut the other heel and I moved my chair a little closer to hers because by then a man with a broom was going round us.
 
@@ -112,7 +120,7 @@ I went back and parked a little way out of the shade. Marla was coming across th
 
 “You missed a man who wanted to know who'd made my price sign. I told him I'd known you all summer. He asked why I hadn't got you to make it sooner.”
 
-I put my hand into the bag. The bread was warm in the middle. I'd been thinking what I could say when she saw the Jeep running, and had prepared something involving a towel to check for drips, which she gave me no occasion to say.
+I had a rag in my hand from going round to the front of the Jeep again. I stuck it into my back pocket and put my hand in the bag. The bread was warm in the middle.
 
 “Do you want to come to my place next Saturday before the market?” she said. “I can get breakfast on the table at seven. There's no sense making a whole pan of eggs for myself.”
 
@@ -124,13 +132,13 @@ Vern came out of the shed with the two chairs we'd been using for coffee, a chai
 
 “You can leave your tent up where it is, if you like,” he said. “I'll get my mower round it. The grass is slowing down by itself, anyhow.”
 
-I was waiting for him to tell me if the Jeep was up to another week on the road. He shook one of the chairs by the back until all four legs were on the ground and left his hand on it. Marla tore a bigger piece of crust off the bread and gave it to him.
+I wanted him to tell me whether he'd take the Jeep past the Sault. He shook one of the chairs by the back until all four legs were on the ground and left his hand on it. Marla tore a bigger piece of crust off the bread and gave it to him.
 
 “After the cows went I came out with my coffee same as ever,” he said. “The second morning I carried it all the way to the back stall. There was a cow back there used to stand with a foot down in the gutter, and I could hear her shift about before I got up to her. I'd put my cup up on the sill before she went and set the foot down. I put the cup up and I stood there waiting. I must have stood quite a while. The coffee was cold by the time I went to drink it. There was a chair nobody was using in the house, so the next morning I brought that out.”
 
-He bit into the bread and looked toward the open door of the shed. I had been in and out of that door for three weeks, and every time I'd passed the stalls I'd had a drawer to open or a tool I was trying to find. I could picture Vern at the far end with his cup. I could see a Saturday in which I got up early and walked to Marla's in my good shoes, and that afternoon we'd bring back a loaf for Vern and get him to tell us the cow's name. Marla could show me how to make eggs for more than one person without having to keep the pan on the heat till the edges curled. I could have another week and leave from the same place with the same Jeep.
+He bit into the bread and looked toward the open door of the shed. I sat down in the chair with the rung missing. I'd been in and out of that shed for three weeks with a drawer to open or a tool I was trying to find. For the first time I wanted to go down to the end of it and ask which stall he'd meant. Next Saturday I could walk to Marla's in my good shoes, come back with a loaf for Vern after market and ask him what he'd called that cow.
 
-Marla leaned against the fender, working a crease out of the bread bag with her thumbnail. I had a vivid sense again of the hill, of the worn place in the mat under my right heel and the way the Jeep had pulled when I pressed against it. There was a hill and then there was another one after that and I wanted to get to them. I wanted the breakfast too. I'd driven out of campsites all the way from Halifax while the people in the next site were setting up their little stoves, and I'd never known what any of them were making.
+Marla leaned against the fender, working a crease out of the bread bag with her thumbnail. I stretched my right leg out and could feel again the worn place in the mat under my heel. At the top of the hill I'd already had my hand on the gearshift for third. I'd taken it off to turn round, and I wanted to get back there and keep going. I wanted the breakfast too. I'd driven out of campsites all the way from Halifax while the people in the next site were setting up their little stoves, and I'd never known what any of them were making.
 
 “I'm going to go in the morning,” I said. I could hear a mower starting up down past the house, where you couldn't see the next place for the trees. “I wish I'd said yes when you asked about the eggs.”
 
