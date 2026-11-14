@@ -16,7 +16,7 @@ The scout's plating came up in the apron of a man who'd been driving wagons sinc
 
 “I know.”
 
-She left the gun on the bench. Through the cracked upper panes she could see the farm wagons crossing the stone road into Cairn End. It came straight out of the earth on the far side of the cleft, but on this side it rested on a hinge. When she was small her foster father would point out the stone shoulders that stuck out of the wall on either side of the gates. The road used to rise like the lid of a box and come to rest against those shoulders, covering the gates. It had stood that way for nine days. On the tenth day a blow split the drive and the road came down. Neris's mother, Linet Tann, had died defending the gates on that day. The city had paid for a likeness of her in clean white armor, with a red stripe so fresh it looked wet in rain. The actual stripe went under an ugly buckle where the suit had been struck.
+She left the gun on the bench. Through the cracked upper panes she could see the farm wagons crossing the stone road into Cairn End. The road rested on a ledge on the far side of the cleft. Here an iron hinge joined it to the city. When she was small her foster father would point out the stone shoulders that stuck out of the wall on either side of the gates. The road used to rise like the lid of a box and come to rest against those shoulders, covering the gates. It had stood that way for nine days. On the tenth day a blow split the drive and the road came down. Neris's mother, Linet Tann, had died defending the gates on that day. The city had paid for a likeness of her in clean white armor, with a red stripe so fresh it looked wet in rain. The actual stripe went under an ugly buckle where the suit had been struck.
 
 The farm wagons came over with people piled as high as hay. Every other human stronghold had fallen by winter. There was nowhere for the wagons to go after Cairn End.
 
@@ -84,7 +84,7 @@ Neris took three steps toward the window. She could see a length of the road fro
 
 She pulled up a drawing of the gate on the terminal. The empty cradle ran out under the first few feet of road beyond the hinge. It was cut into bedrock with a stair up to the city. She swung the drawing until she could look up at the underside of the road. Two stone sockets still marked where the old hoist had pressed against it. She could stand in the cradle and reach them.
 
-“Without a pilot,” said Stave, “I can lift something till it starts to turn in my hands. Then I have to put it down. I can keep a field even across the shoulders. I need a pilot for the hands. If you lose either grip under load, the field collapses.”
+“I can keep the field even across the shoulders,” said Stave. “When the road turns in our hands, I need you to keep hold of it. If you lose either grip under load, the field collapses.”
 
 “Show me in here.”
 
@@ -118,7 +118,7 @@ It opened. She stood with her hand against the breastplate, trying to get enough
 
 The light in the visor went and came back. In the quiet she could hear the men at the gates beating something into place, with a hammer large enough that they hit twice and rested.
 
-“We went back and found you in the watchroom,” Stave said. “Linet was hurt so badly by then I had to take every step for her. The inner gate was down. There was a slit for the chains above us. You lay in my palm and she had her good hand over you. When we reached up her hand slipped away. I pushed you through the slit. There was a watchman on the other side and he took you.”
+“We'd left you with the gate crew in the watchroom,” Stave said. “We went back for you. Linet was hurt so badly by then I had to take every step for her. The inner gate was down. There was a slit for the chains above us. You lay in my palm and she had her good hand over you. When we reached up her hand slipped away. I pushed you through the slit. There was a watchman on the other side and he took you.”
 
 Neris thought of the bent right fingers, curled against the blow. She had worked them apart one at a time.
 
@@ -132,7 +132,7 @@ Neris got the arc gun off the bench and set it on the scrap scale. She stripped 
 
 The gate crew had walked out as far as the hinge to furl a flag that had hung from the wall since Linet's battle. Wind from the cleft made the faded red cloth stiff in their hands. The woman from the wagon had been let through already. She stood in the shadow of the gate with the baskets and called up to them that it would tear if they pulled it like that.
 
-“We can stand in the cradle,” she said. “My fingers in the old hoist sockets. If it's too much, you'll feel it first. Tell me. Give me a chance to get my feet under me, and I'll tell you when to let go.”
+“We can stand in the cradle,” Neris said. “My fingers in the old hoist sockets. If it's too much, you'll feel it first. Tell me. Give me a chance to get my feet under me, and I'll tell you when to let go.”
 
 “They'll be right above us.”
 
@@ -156,7 +156,7 @@ There was a blow so close that Neris knew it had broken the gate. The left socke
 
 “Hold,” she said.
 
-All the weight came onto her fingers. For an instant the field pulsed in her teeth. She felt the armor gather itself against the pull. Stave left the other hand where it was and took her weight, the way it had all those nights when there had been only a child to carry. Neris could move the slipped hand just enough. She got a third finger in, then the heel of the glove. She felt Stave feel it, and the two of them rose.
+The left socket dragged at her two fingers. For an instant the field pulsed in her teeth. Her right hand was still seated. Stave braced her over her feet and took her weight, the way it had all those nights when there had been only a child to carry. Neris could move the slipped hand just enough. She got a third finger in, then the heel of the glove. She felt Stave feel it, and the two of them rose.
 
 The far end of the road went up over the last light. The machines on it slid toward the broken gates. As the angle steepened, their legs folded under them and they spilled off either side into the cleft. For a moment Neris could see the gates above the hinge, open at the middle with one half buckled inward. The road rose across them until it struck the stone shoulders on either side. The hinge tore loose. The road slipped a little and stayed where it was, leaning on the shoulders. Far off, where the road had used to lie, the next machine reached the brink and stopped. The whole length of the cleft lay between it and the city now.
 
@@ -166,7 +166,7 @@ In the cradle the whole front of the suit was gray with dust. Neris could see th
 
 She let her fingers uncurl. The suit let its hands down.
 
-The stair was choked with fallen stone. Far above, between the road and the wall, there was just room to see someone lie down and look in. The gate crew had brought ropes. A voice called down to ask how many were alive.
+The stair was choked with fallen stone. Far above, a gate worker lay down beside the raised road and peered through the gap. Someone lowered a rope. A voice called down to ask how many were alive.
 
 Neris put her hand flat to the inside of the breastplate.
 
