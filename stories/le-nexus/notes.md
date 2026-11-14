@@ -15,3 +15,5 @@ The **Codex keeper** protected “Odile answering the arm with fingers at the ra
 **Outline Decisions.** Yes at 0.98 native confidence, with Yes 0.99, No 0.01 and source ambiguity 0. No restarts. Proceeded to the voice trial on the revised outline and original image.
 
 **Voice trial.** Both readers chose the first-person past at “I had already had one arm that obliged people to ask what happened to it.” The keeper wanted the felt reply from the other opening. Claude heard the public room carry on in “The man was still talking.” The writer chose Keva’s social confidence and plans to bring the first reach into the first paragraph, carry the zinc’s vibration through her wrist, and let Odile take time to answer while Keva has little to say.
+
+**First draft.** The voice profile prompted a reread of the rail lesson and the entrance onto the floor. The writer reordered the pressure test and cut some of the entrance so the dance could slow around the three taps and leave Odile time to move. The draft ends with Keva putting her steel hand into Odile’s open hand.
