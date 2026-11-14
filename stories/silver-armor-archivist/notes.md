@@ -51,3 +51,18 @@ The profile found 3,958 words in three scenes, with longer developed paragraphs 
 ## Art
 
 The built-in imagegen tool used the supplied portrait to cast the woman and the finished prose to establish her armor's damage. Marshal Drost and Imogen's sheets guided paint handling and presentation. The Lantern Theater and Haverel's Hall studies guided timber, stone, and cloth. Bellwether's booking hall also informed the ticket room and stair textures. The finished sheets show Ireta and the woman separately. The location references cover the gallery and dais, the former ticket room where Ireta restores the print, and the exterior stair. The cover uses the accepted principal sheets and Hall study to show Ireta finding the door while the woman holds the bar.
+
+## 2026-11-14 · Haunting revision
+
+**Codex keeper, independent reading of the new direction.** “I’d want the first discovery to feel uncanny before Ireta finds the second image, and each new record to deepen that feeling as the armor’s damage gives her something concrete to follow.” The new opening and living encounter both need to carry the haunting. The keeper reads the portrait's watchful face, ragged hood, and solid, illuminated plates as the recognizable body that makes her presence uncanny. Literal death, the nature of the manifestation, motives, and a mournful or frightening register are open.
+
+
+**Claude, independent request reading.** “The reader should feel her presence before anyone explains it.” It sees the armor as a clock and wants each image to increase the wrongness until the apparition reaches the archivist's room. It inferred an encounter driven by recognition and described the portrait as patient, with brushwork that makes her look “half-ghost.” It left literal death, allegiance, and the ending open.
+
+
+**Direction, independent readings.** The keeper saw the new opening begin with “the fingers catch at the margin, and she hears them rap when she covers it again.” It wanted the last drawn reach to be for someone she chose and the camera to interrupt a new choice. Claude called the tearing execution sheet the strongest image and saw the woman drive the escape with Ireta giving up the record. Its concern was “‘Security footage finally shows how to read the marks.’ This turns the footage into a rule reveal,” especially if the conditions that hold her invite explanations. Both wanted the final touch to stay voluntary. Claude asked for a concrete trace of departure and for Ireta's desire for a living witness to arrive earlier.
+
+
+**Comparison before redrafting.** The writer and readers agreed to make the photograph move and sound while Ireta is still restoring it. The paint catches in a broken cuff, the execution paper lifts toward the space left by the royal boy, and security footage interrupts the woman mid-reach and takes her hood. Claude and the keeper agreed that showing whose hand she lost keeps the explanation from taking over. The new turning point gives Ireta a choice about recording a living witness and the woman a distinct request for privacy. Her return touch is hers to give, and the two sets of frosted footprints show where she has chosen to go. The earlier draft's physical rescue and engineering are gone in this direction. The archive and the same white armor serve the succession of apparitions through to the encounter.
+
+**Haunting outline fidelity.** Yes, native confidence 0.82 (P(Yes) 0.91, P(No) 0.09, source ambiguity 0). Proceeded to the new draft with zero restarts. The early moving photograph, the child she reaches for in drawings and footage, and the private crossing establish the new direction.
