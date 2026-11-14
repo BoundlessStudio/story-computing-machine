@@ -1,0 +1,8 @@
+# Editorial notes
+
+## 2026-11-14 · Independent request readings
+
+The Codex promise keeper read the original as “an advancing, civilization-scale siege experienced at the scale of a workbench and a person making consequential choices.” It expects the recognition to change the engineer's options, trust, or choice in the defense and the defense to bring the meaning of “daughter” into sharper focus. The machine's claim and its addressee are explicit. The pilot's identity and gender, the nature or truth of the claim, and who pilots or survives are open. The battered white-and-red armor and cyan screens suggest improvised military SF. The two helix designs suggest lineage.
+
+Claude called the turn “a recognition jolt” that “turns a repair job into an inheritance.” It inferred that the dead pilot was her parent and expected the suit's eventual acceptance to grow out of that relationship. It left open whether the intelligence is itself a parent and whether the engineer pilots, wins, or survives. It read the scuffed suit, winged banner, and rocky outpost as a setting for “one woman inside a war for the whole species.” The biological connection and the suit's eventual acceptance are inferences.
+
