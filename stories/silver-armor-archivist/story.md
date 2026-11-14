@@ -1,0 +1,89 @@
+---
+title: "What Won’t Take the Light"
+created: 2026-11-14
+canon: false
+---
+
+# What Won’t Take the Light
+
+Something rapped under the black card as Ireta lifted it off the photograph. She stopped with the little flat knife in her hand. Four small hard taps had come in a row, followed by a fifth so close to her wrist that she could have put a finger down on the place.
+
+She had spent much of the late shift taking off the card. The republic had kept the photograph in its old mount, which cut the royal family off at the shins, and the paste had hardened where the last person to open it had tried to put it back together. She'd got as far as the corner behind the king. The king had ridden straight here from the victory parade. Somebody had fixed a sprig of rowan at his collar and given one to each of his sisters. While all three adults looked into the camera, the king's small son was reaching back into the part of the picture she'd just uncovered.
+
+Behind his hand, where the rest of the family made room for a piece of wall, stood a woman in white armor. She had long silver hair and a hood that came down over her eyebrows. The boy's fingers were curled around air. The woman's hand was low at her side, with each white joint distinct enough for Ireta to see the places where they fitted together, even without her glass. She saw the hand turn. The lower joints straightened first. The last two fingers were still opening when she laid the card down again.
+
+Ireta waited. It was a warm room, set well back from the windows so that an April freeze could take the old palace gardens overnight and she'd still have paste at the right temperature next morning. The heating pipe gave a little tick every few seconds. With the card flat she could see a patch of whitish green where her thumb had pressed against the knife. She set the knife down. The five taps came again, each a little farther up from the table, and the card lifted.
+
+She got up so quickly her chair fell over. It did it in two parts, first the scrape and then the bang. The little sounds under the card were over.
+
+There was a camera clipped to the edge of the table to record her work. She'd swung its head away that evening because the bright circle of its lamp was making it hard to see what she was doing with the paste. She righted the chair, sat down, and dictated the time and the number on the mount into the recorder of the bench camera. When someone asked why she'd changed a date in the register or put one more person on the list of sitters, she liked to have the bench recording to show them. After the work was done they could look at the same thing she'd been looking at. She left the lens as it was. The whole room still felt as if somebody had just come into it.
+
+She lifted the black card by its corner. Nothing moved. The woman's hand was still open. The boy wore his sash with the tails coming out of the same side of the knot, dragging nearly all the way down to his knee. His boots were well apart. He looked ready to turn round and plant both of them on her foot.
+
+The district store had a coronation painting of his father with the boy standing in much that attitude. Ireta had seen it often enough: you could tell the painter had given up expecting him to stay on his patch of carpet, because he'd painted the boy straddling an edge. His foot on the carpet was dry, the other dark to the ankle with April mud. Ireta began putting away her tools. She could leave the photograph here, or she could put it under a sheet and carry it with her to the picture room. She had made it halfway to the door with it under her arm before she realized she was carrying it with the uncovered side turned against her chest.
+
+She took it back to the table. When she went out she left the lamp burning and the photograph uncovered where anyone could see it.
+
+* * *
+
+The picture room had the cold of a place somebody meant to come back to and never did. A hook in the door still held the canvas coat provided for people who carried the big oils. Ireta took it down and slipped it on. She felt a bar of soap in one pocket. The royal family had put their linen cupboards here. Now there were steel racks standing in them with the things the republic had inherited when it turned out that a government with no room for kings needed to store an awful lot of them.
+
+She pulled out the boy's father, newly crowned. One of the sisters had a hand raised to tell him to keep off the carpet until both boots were clean. A bare patch of floor behind the boy was where Ireta had always looked for the rest of his shadow. By the pillar there was a shoulder as white as the diagonal of sunlight across the floor. The woman standing there had been put in with the same brush as the faces in the foreground. The painter had used the smallest dab of blue at the corner of her mouth. She was watching one of the boy's boots. Along the edge of her glove there was a chip with a dent in the middle, like a bitten seed.
+
+The second painting was of his aunt's coronation. The boy's sash lay across the seat of the empty chair beside her. The ends still came through on the same side. Under it was a square of black cloth edged with little crowns, the kind the court put out for a dead child. Even the woman in white had bowed her head. The whole of her left gauntlet had cracked across, and she had that hand half open at her side. She might have lifted it to the boy's chair, if the painter had given her room.
+
+Ireta took one step to the right to get her own reflection out of the varnish. In the new light she could see a ridge of old white paint where the woman's hand was. She stood quite still. That ridge was coming loose from the canvas. The long joint of the forefinger lifted, bringing a curl of paint with it, and just below it a thread of red went running down the break in the wrist. Ireta put out her hand because there was about to be a piece of the painting on the floor. The raised fingers moved, all of them together. One long end of the sash slid a little nearer the edge of the chair. Then the paint settled flat. All the way down the white glove there was a long, very fine line of red.
+
+Ireta kept her hand just where she had held it, a few inches from the canvas. There had been a lock of hair coming down across the woman's cheek. It was still in exactly the place where the painter had put it. It was the reach she remembered from the photograph. The boy had known exactly where to put his own hand.
+
+The executions were drawn on the backs of six leaves taken from the keeper's accounts. Ireta got them out of the next cupboard, where anybody expecting to find the monarchs all in one place generally stopped looking. On the first leaf the artist had rubbed out part of the king to get his likeness right before they took him away from the rail. The last generous mark was an ear he must have drawn twenty times in other people's portraits. The heads of two of the king's sisters were just suggestions inside the borrowed shawls that kept them warm while they waited. One of them sat with a sash folded in her lap. The two ends came out on the same side of the knot. Her sister had asked the artist for a pinch of tobacco. He'd thought that worth putting down on the back of the drawing, where the price of nails was still visible.
+
+When the artist drew the sister with the sash again, she was waiting by herself. She was the last queen. In the first rough view of her she was leaning quite far over the rail, looking down at the people who had come to see. The woman in white was in the familiar place behind her. As the artist filled the rest of the leaf he left both figures where they were and drew the queen at two later instants, with her hands behind her back and again with them folded. Across one side of the paper, out of the way of the people he was drawing, ran an impression Ireta had always thought came from the page being tied up wet. She had taken the word of the person who catalogued it. He'd said it was from a fold.
+
+Here it was, lifted almost clean of the page, the height of a boy's head against the knees of the women in the sketch. She could see one shoulder and the long tails of a sash where the paper had gone smooth from underneath. On the last leaf the rail stood empty. The boy's raised shoulder was at its very edge, turned away. The woman in white had followed as far as the margin. Three graphite fingers curved round the shape of the boy's sleeve. A fourth had caught under the paper. The knuckle lifted the white of the page. The paper parted. Below the woman's wrist a little white plate came away with the torn flap, leaving the black of the account book showing through her arm. Her thumb was still making its way through.
+
+Ireta slid the leaves back into their box. She didn't want to see the end of what she had begun to understand. Her hands were steady with the particular steadiness she got after nicking a picture, while she worked out whether she could put the mistake back under the glass before anybody came in.
+
+The first security recordings of the republic were filed under the palace room names. Ireta had gone through the Linen Passage reel once looking for a delivery. She remembered a low door swinging open and staying that way, with nobody coming through it. She found the place by ear. There was a dead lamp halfway through each sweep, and when the picture went dark you could hear the camera motor dragging.
+
+The camera faced down the passage. At the far end the low door moved outward until its chain caught. Four links came cleanly into view and began to rock. Paint was worn away along the bottom rail. Just to the right stood the woman in white armor with her hand turned out low and one boot above the tiles. The chain was still rocking when the camera swung on. The boot sounded the instant the hem of the cloak slid out of the picture. There was another footfall much farther away.
+
+When the camera came round again the woman had almost reached the door. The moving edge of the picture took in the raised boot first, and it hung there in the act of coming down. The hand stopped next, just short of the wood. Only her silver hair went on moving. A piece of the hood snapped off. When the picture went black the piece was still in midair.
+
+The north side of the passage still got a little garden light where the brick had been laid thin behind the grille. Ireta could see it on the tiles when she leaned out of the picture room. It had gone blue by then. All the way to the low door it was possible to hear the building keeping warm. A tick came down the pipe at short intervals.
+
+Beyond the low door something ran. Ireta stepped out into the passage. There were five or six soft slaps all quite close to the floor, followed by such a quiet on the other side as she remembered from the corners of her own house when she used to chase her brothers. She made a little movement to get clear of the doorway so the runner could come past her. The quiet lasted. When the feet moved again they were going the other way, trying to be very soft.
+
+* * *
+
+Ireta was still in the passage when the light from the conservation room went out. She stood looking at the black on the other side of its high door. Then the light came back. Something had passed between the lamp and the open door.
+
+The woman in white stood just inside the conservation room. The lamp was on full, but Ireta had to come all the way to the threshold before she saw the woman, taller than the hook where she hung her coat. Her left arm hung low. At the wrist a gap opened all the way to the long white bones of the armor, and through the gap Ireta could see a length of the cane seat of the chair. She saw the split the chair had got when she knocked it over. She had been going to put some glue under it in the morning.
+
+The woman turned her head. Two pieces of the hood moved a little apart, uncovering the thin red line that came down from her temple. Her face was very still. Ireta remembered the blue the painter had used for the shadow at the corner of the mouth. The color was just right, a shade colder than the shadows in the rest of the room. The woman's lips parted and all that happened was the ticking of the pipe behind her.
+
+A small sound came again from the far end of the passage. It had already turned the woman's head by the time Ireta heard it. Her head went down, her free hand already at a child's height. The end of her silver hair swung right through the doorknob. Ireta stood near enough to see the individual strands come out on the other side. Through it all she heard the tick of the pipe and the light scrape of something in the passage. She had yet to hear the woman breathe.
+
+Beside her on the table the old victory print lay open under the lamp. The place behind the boy was empty. He was still looking there. Ireta thought of all the reproductions in the district that put him at the front of the line, facing the proper way. They'd taken the ends of the sash off in one of them. In the original they had just enough length for someone to take hold of if he got too far ahead.
+
+The woman lifted the hand that used to be in the photograph. With the print still under the lamp Ireta could keep a picture of both. She could show the size of the hand and what was visible through it, with the ordinary chair behind. She caught the rounded grip behind the bench camera and swung the lens toward the woman.
+
+The picture on the bench monitor took in the sleeve, then a few inches of the glove. Beside it Ireta could see the woman's real fingers still opening. As they came onto the little screen the hand drew taut, joint by joint, and stopped. Her silver hair kept going over the front of the breastplate. A piece came free from one of her fingers and hit the tile with a small tin sound. It rolled over, red on the underside. Ireta saw again the white piece of hood in the passage before it could fall.
+
+She turned the camera back to the wall. The woman's hand went on opening. Between them the broken finger stood a little higher than the other four. Then the woman lowered her hand and the red on the floor went out.
+
+“Does he still run ahead?” Ireta asked.
+
+The woman looked at the door. “He waits where he thinks I can't see him. You hear him hold his breath.”
+
+They listened. Ireta could remember how much noise it took a child to be that quiet. Her little brother used to go on breathing through his nose even when he had both hands over his mouth. The woman leaned her ruined shoulder against the old doorpost. The end of the cloak ran down both sides of the wood, as if it belonged to a draft that moved through the grain. She could have made it from there to the door in a few steps. She waited until Ireta set her hands flat on the table, with the camera in front of them.
+
+“Would you face the other way, please?”
+
+The woman's voice had an ordinary tiredness in it, which made Ireta feel more strongly what she was being asked. Ireta thought she might remember every one of these minutes except the one in which the boy took her hand. For the rest of her life the old picture would be as close as she could get to seeing it. The woman waited. A strand of her hair, lifted by a little stir from the passage, passed through the knob again. Ireta pushed the chair out a little farther to give the woman room to come around her and turned until all she could see was the part of the worktable where she'd set down the knife.
+
+The first footfall came so close to the chair that it made the cane seat stir. The next came level with Ireta. She curled her hands under the edge of the table to keep from putting one out. She could feel the steam from the little paste pot. Before she heard the next footfall, a hand slipped under the collar of her coat. It rested flat against her shoulder, all of it cold, and for the first time she could feel the weight of every joint. There were four points of pressure and a space where the other one ought to be. Ireta bent her head. The hand came away of its own accord.
+
+She heard one long step into the passage. Another ought to have followed, but there was a pause. Ireta let the whole length of it go by with her hands still curled around the table. A child whispered something at the low door. She heard the soft bare feet start toward them, stop, then turn and run a little way back. The woman went down the passage to meet him, each of her heavier steps with room now for the lighter ones to come between.
+
+By the time Ireta turned, the low door was open. The pipe was still warm enough to sting, but between the doorway and the lamp were two tracks of frost on the tiles. One had short wide toes and a gap in the print where a child's foot narrows under the arch. Beside it, turned inward a little wherever the child's prints came to a stop, the armor had left the squared edges of its boots. The prints had begun to run away into water. Ireta could see the order in which they had been made, all the way down the passage, with the smaller feet planted one on each side of the threshold so they could wait there.
