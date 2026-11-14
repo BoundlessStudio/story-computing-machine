@@ -19,23 +19,3 @@
 
 **Voice trial.** The keeper chose the retrospective opening at “When the silver moved off his face I was glad for him,” hearing a person implicated in the archive. Claude chose close third at “She put her wrist against its edge until the vibration passed,” where the Hall acts on Ireta before she knows why. The writer took the close third for the discovery and crossing, with the retrospective voice's sympathy for the shut-eyed king and Ireta's own experience of cropping folded in. The two openings are preserved in the branch history.
 
-
-## Voice samples
-
-### 1. Retrospective
-
-Of all the people you can see in the print, the one I used to get asked about was the little girl. Had she been tired of standing, did I suppose? Was the rabbit on the lead hers, was it really a rabbit? A rabbit would have known to run away. The small animal somebody brought for the photographer had a look of perfect contentment. Its tether lay across the boot of a man who'd come straight from the battlefield, with ferns from the ridge still caught in his laces. Whatever kind of animal it was, it had come out on the winning side.
-
-I didn't know one animal's foot from another's at that scale. I had to use a sewing needle to get the dots somebody had put in the eyes of the dead King. Every school child in Tarse could have drawn those dots for you. The publisher of the first history of the war had added them on a copy of the print, which my predecessor had borrowed to fill in missing areas of a second copy. I had the original on my table in Hundred Steps Hall, and the King's eyes were shut. I'd moved my lamp out of the way of the silver sheen. When the silver moved off his face I was glad for him. Imagine having to look pleased for another hundred years.
-
-The steward sent someone to tell me what width the image on the screen could be. This was my fourth crop for a public hanging in his tenure and the first time I'd been given the original to do it from. I was deciding how much I wanted the city to see at the left of the King's sister, in a grey field barely twice as wide as my thumbnail. A long piece of silver hair fell into it and came to a point on the white plate of a shoulder. The little girl had half turned in the photographer's hold. All those years I'd have sworn she was looking at the animal. The woman she was looking at was holding on to something in the dark.
-
-### 2. Close third
-
-The royal family had won the war at noon and by three the little girl had had enough of it. She was twisting out of her mother's hand. Ireta worked on the hem of her white stocking, where a patch of silvering took away the pink seam and put it back as the lamp swung over. A mended stocking was unusual on a future queen. The palace must have dressed her in a hurry. The King still wore his field boots, with curled fern fronds stuck in the lacing, although the weather in the city had been dry for six weeks.
-
-Someone in the stairwell put down a tray of cups. From inside the former ticket room it sounded as though they'd dropped them down the stairs. Ireta's worktable stood where, in the photograph, people would have queued to give up their good coins for a seat in the east gallery. She put her wrist against its edge until the vibration passed. The fan ticked off the seconds the hall steward had agreed to give her before asking again for a file he could open.
-
-She moved the light to the torn bottom corner. Behind the King's sister there was a line too fine for the fibers of the paper. It belonged to the photograph. It came down from a woman's bowed head, slid across her mouth, and ended where the light caught the top of her shoulder. Once Ireta had picked that hair out of the paper she could see how much of it there was, lying loose down the front of a chalk-white breastplate.
-
-Ireta looked back at the little girl. It was the armored woman she'd been twisting to see. One shoulder was lower than the other and her gauntleted hand disappeared into the dark beside a pillar. There was a chip out of the plate just above the knuckles, in the shape of a bitten seed. The hall steward knocked the way people knocked when they already had the door open.
