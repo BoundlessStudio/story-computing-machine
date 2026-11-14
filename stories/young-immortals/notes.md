@@ -15,3 +15,7 @@
 - **Coordinator, 2026-11-14.** Marlis controls the original wager and the decisive turn inside. The unmarked fall and the shrinking space answer “nothing can hurt them” with an outcome survival cannot solve. Delk's belay and his remembered summer make his caution legible before she has earned her own. The narrowed view of sky still offers a chance she wants, so choosing the dark route can change her fate through a judgment about time. The exposed stairs then cost the youth's prize of finishing before dusk. The wager and Delk's attention give her something to want. The ice controls what it will cost her, and her choices carry the ending.
 
 - **Outline Decisions.** Yes. Native confidence 0.98, Yes 0.99, No 0.01, source ambiguity 0.00. Proceeded with zero restarts. The reviewed outline gives the same undamaged body the wager, the centuries inside, and the choice at the opening. The keeper checked that the opening can be used when Marlis turns away.
+
+## Voice trial
+
+Both readers would keep reading the first-person opening at “Since nothing could so much as bruise either of us, I thought this ought to make the game more enjoyable for him.” Claude heard the same pleasure in the way Marlis gives away her misdirection and enjoys it all over again. The close third gave the keeper a better view of the white cairn stone and the pop through her knee. Those belong in the more particular voice, with the later teller letting go of her assurance as the ice hems her in. Both full trials are preserved in the voice trial commit.
