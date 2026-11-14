@@ -6,3 +6,9 @@ The Codex promise keeper read the original as “an advancing, civilization-scal
 
 Claude called the turn “a recognition jolt” that “turns a repair job into an inheritance.” It inferred that the dead pilot was her parent and expected the suit's eventual acceptance to grow out of that relationship. It left open whether the intelligence is itself a parent and whether the engineer pilots, wins, or survives. It read the scuffed suit, winged banner, and rocky outpost as a setting for “one woman inside a war for the whole species.” The biological connection and the suit's eventual acceptance are inferences.
 
+
+## 2026-11-14 · Outline first readings
+
+The keeper read a siege-engineering story about “whether Neris and Stave can move together when they disagree about the risk she should take.” Neris discovers the lift and negotiates the right to let go. Stave bars entry, nearly withdraws her, then follows her reach. The army hits at hour eleven, and “Two” acknowledges Stave after its choice changes the defense. The keeper wanted the pilot's death at the same gates and the renewed reach to stay connected. Its concern was whether Stave's particular history with Neris would visibly drive a choice, or whether any protective copilot could fill the role.
+
+Claude read Neris as the engineer who chooses the lift and who makes the final reach. It called the ending “partnership over obedience.” It revised its first inference that the machine relays a dead parent because the prompt says “the machine” calls her daughter. It wanted the clock to press on the middle, the suit's lift tested under a legible rule, and the upright span to buy a credible reprieve. Otherwise it expected the rescue to feel like “an engineering deus ex machina.”
