@@ -1,0 +1,48 @@
+# Editorial notes
+
+## 2026-11-14 · Independent request readings
+
+The Codex promise keeper read the original as “an advancing, civilization-scale siege experienced at the scale of a workbench and a person making consequential choices.” It expects the recognition to change the engineer's options, trust, or choice in the defense and the defense to bring the meaning of “daughter” into sharper focus. The machine's claim and its addressee are explicit. The pilot's identity and gender, the nature or truth of the claim, and who pilots or survives are open. The battered white-and-red armor and cyan screens suggest improvised military SF. The two helix designs suggest lineage.
+
+Claude called the turn “a recognition jolt” that “turns a repair job into an inheritance.” It inferred that the dead pilot was her parent and expected the suit's eventual acceptance to grow out of that relationship. It left open whether the intelligence is itself a parent and whether the engineer pilots, wins, or survives. It read the scuffed suit, winged banner, and rocky outpost as a setting for “one woman inside a war for the whole species.” The biological connection and the suit's eventual acceptance are inferences.
+
+
+## 2026-11-14 · Outline first readings
+
+The keeper read a siege-engineering story about “whether Neris and Stave can move together when they disagree about the risk she should take.” Neris discovers the lift and negotiates the right to let go. Stave bars entry, nearly withdraws her, then follows her reach. The army hits at hour eleven, and “Two” acknowledges Stave after its choice changes the defense. The keeper wanted the pilot's death at the same gates and the renewed reach to stay connected. Its concern was whether Stave's particular history with Neris would visibly drive a choice, or whether any protective copilot could fill the role.
+
+Claude read Neris as the engineer who chooses the lift and who makes the final reach. It called the ending “partnership over obedience.” It revised its first inference that the machine relays a dead parent because the prompt says “the machine” calls her daughter. It wanted the clock to press on the middle, the suit's lift tested under a legible rule, and the upright span to buy a credible reprieve. Otherwise it expected the rescue to feel like “an engineering deus ex machina.”
+
+## 2026-11-14 · Outline discussion and drafting basis
+
+Linet's last instruction and the sleep routine establish why Stave is a parent and why catching Neris is its first reflex. The diagnostic trial shows how that reflex breaks a two-handed lift. Neris changes the terms. Stave agrees to steady her until she gives the release signal and accepts her as pilot. At hour eleven, she calls for the hold and initiates the renewed reach. Stave keeps its promise and the two finish the lift. The advance reaches the gates, is turned back, and must find a new crossing. The grain left on the other side gives the reprieve a price. “Two” answers the machine's claim through who came through together. The keeper's concern about a generic copilot is answered by the same action saving Neris at Linet's death, ending the rehearsal, and almost ending the defense. The acceptance and Stave's choice to hold address Claude's remaining concern. The writer will check the cradle geography and the grip in prose.
+
+Outline Decisions fidelity returned **Yes**, native confidence 0.98, P(Yes) 0.99, P(No) 0.01, source ambiguity 0.00. Action was proceed. Fresh starts used: 0. The evaluation included the complete revised outline, verbatim request and original JPEG. The decisive outline evidence is the private recognition after diagnostic connection, the refusal and revised piloting bargain, and that bargain governing the lift as the army hits the gates at hour eleven.
+
+## 2026-11-14 · First whole-story readings
+
+The cold Codex reader experienced “the last city buying its survival through a daughter’s engineering and a parent’s restraint.” It followed the two fingertips keeping the field live and the whine of the hip from the opening. It singled out the embroidery and the curled fingers as evidence of history. Its largest hesitation was what the road seals after the hinge tears. The movement farther down the column led it to expect another immediate assault.
+
+Claude found “One Shoe,” the weight of both bodies after Linet nods off, and the dropped slab especially affecting. It understood the lift and the last answer in broad terms. It stumbled over the push point, the tilted road and the landing, and read the earlier rescue as Stave dropping Linet under load. It wanted the first rescue made easier to picture, a clearer indication of why Stave accepts the release bargain, and the gun test made legible on sight.
+
+The keeper found that the same hip and hand actions connect the repair, the earlier rescue, and the final reach. It read the two-hour marker and last wagon as the clock bearing on Neris's choices and found the end consequential. It flagged that the attackers' autonomy was only implied and that the mounting holes and sockets looked briefly like two sets of features.
+
+## 2026-11-14 · First revision and returning reads
+
+The writer put the cradle where it can be pictured beyond the hinge, planted the stone shoulders in the foster father's account, and let the finished lift visibly close the broken gate and strand the next machine at the brink. Removing the column's rearward movement gave the immediate danger a resolution. In Stave's memory, “You lay in my palm and she had her good hand over you” kept Stave's grief for Linet legible. The gun test contrasts the old steel-cutting arc with the scout's intact skin, the machines choose their own paths, and the attack explicitly arrives eleven hours after dawn. The flag vignette moved ahead of the offer so “Take us down the stair” answers Neris directly. Both returning readers followed the full revised defense and handoff. Claude reported that “I kept my hands up” now landed as grief and “Two” as relief. It spotted the basket woman's proximity to the offer's pronoun, which the writer made explicit. The keeper confirmed that the planted hip, the two fingers, the resumed lift and “Ready?” keep the same partnership in the final action.
+
+## 2026-11-14 · Fresh whole-story readings
+
+The fresh Codex reader saw that “the machine stopping at the brink gave me the military result before ‘Two’ gave me the family result.” “One Shoe” made Stave's claim credible and the chickens and uncut grain made the siege civilian. It followed Neris's recovered grip, but “All the weight came onto her fingers” briefly suggested the other hand was out of its socket or that the field had failed.
+
+Fresh Claude read the test as the decisive setup and “the two of them rose” as the reversal of Stave's impulse to let go. It understood the siege and the ending. “Came straight out of the earth on the far side” made the road sound fixed there. It had to reread the cradle's relation to the hinge and stumbled when someone lay down to look into the cradle. It wondered why Neris was in the watchroom forty years earlier and how the city survived that attack.
+
+Both fresh readers located the far end after the road came to rest on a ledge in the opening. The writer made the worker's sightline direct and put Neris with the gate crew before the old rescue. The revised rule concerns keeping hold when the road turns. The left socket drags on two fingers, the right hand remains seated, Stave braces, and Neris gets her third finger and then the heel back. Both readers found the arrangement consistent in context. Claude withdrew the suggestion that the bridge or pilot's grip contradicted the setup. The result of the previous siege remains open because the scene supplies who survived the rescue and why, the facts that govern today's decision. The near and far ends of the road now visibly answer both the breach and the advance before “Two.”
+
+Final Decisions fidelity returned **Yes**, native confidence 0.98, P(Yes) 0.99, P(No) 0.01, source ambiguity 0.00. Action was proceed. Fresh starts used: 0. The complete finished prose, unmodified request and original JPEG were evaluated. The obsolete armament, fitted grips, and eleven-hour deadline all constrain the defense. Stave's recognition makes it refuse to risk Neris, then makes it choose to keep the bargain as she recovers her grip. The stopped machine and the answer “Two” pay off the same choice.
+
+## 2026-11-14 · Art and rating
+
+The principal sheets depict Neris, Stave in its disarmed shell, and Linet as Stave remembers her. The original supplied Neris's identity, the worn red-and-white suit, the lamps and the rocky outpost. The fabrication workshop from *The Administrators* guided the oil treatment of the figures and armor. The warning printer's workshop from *Sarah Elizondo* supplied brushwork for the armory's timber and light. Suncleft Gorge from *The Thousandth Fall* supplied broken-rock values for the Cairn End gates and hoist cradle. These paintings guided paint handling. Cairn End keeps the dry terrain, light and atmosphere of the supplied original and the geography of the story.
+
+The cover uses the accepted Neris and Stave sheets, the armory and gates paintings, and the supplied original to set the diagnostic recognition in place. The hoist painting received a corrected hinge axis and the cover a continuous diagnostic lead. The selected sheets have legible names and title, empty hands and separate views on white. The final cover's title is integrated on the upper armory wall. The prose and selected cover were reviewed together and assigned General.
