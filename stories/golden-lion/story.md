@@ -280,7 +280,7 @@ The master released the cord. "This is not the place for distress to become test
 
 "I have considered House Heron every day of my life."
 
-Rafe looked between them. "Did they know?"
+Rafe looked between them. "Did House Heron know?"
 
 "The gentleman who raised me knew what name I arrived with. He also kept me alive. I will not make him a monster for your convenience."
 

@@ -160,7 +160,7 @@ Together they tilted it free. It was heavier than it looked, and the narrow pass
 
 Oshara lowered her end to the carpet.
 
-"What?"
+"Why are we stopping?" Dabria asked.
 
 "You pinned the first evening card to this door."
 

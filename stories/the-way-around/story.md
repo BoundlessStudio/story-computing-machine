@@ -228,7 +228,7 @@ Tressa hauled Mazin upright. “Can we leave now?”
 
 Ivara looked for the stairs and could not remember what *up* felt like.
 
-“I don't know where they are,” she said.
+“I can't find the stairs,” she said.
 
 Tressa did not let go of Mazin's arm.
 

@@ -248,7 +248,7 @@ He nodded several times. I hated that more than if he'd shouted.
 
 “You mustn't think this is because—”
 
-“Because of the sword? I heard you. You bought it this morning.”
+“Because of the sword? I heard you. You bought the ticket this morning.”
 
 “I meant you mustn't think it's because of you.”
 

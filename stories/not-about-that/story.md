@@ -144,7 +144,7 @@ She tugged one silver knot loose from her wrist. The wind holding it went slack.
 
 “Where are you going?” he asked.
 
-“To put these inside.”
+“To put the groceries inside.”
 
 “I’m still stuck.”
 

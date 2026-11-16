@@ -198,7 +198,7 @@ Rasden found the woman wedged beneath a rail, broke the rail with two fingers, a
 
 He did not climb as other people climbed. His fingers struck cracks and released. His feet touched stone just long enough to drive him upward. He reached the rim, placed both pilgrims in waiting hands, and turned without letting his heels become still.
 
-“Two,” Palla said.
+“Two safe,” Palla said.
 
 “Where?”
 

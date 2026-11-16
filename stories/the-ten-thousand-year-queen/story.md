@@ -286,7 +286,7 @@ Ramesses touched the back of his throne as if steadying it. “You carry office.
 
 Merneith had prepared concessions: a five-year term instead of life, independent budget, veto over new accessions. Each one sounded smaller in the Vault.
 
-“You could have told me before the chairs were installed,” she said.
+“You could have told me you meant to leave before the chairs went in,” she said.
 
 “I have told you for thirty years. You hear engineering beautifully.”
 

@@ -300,7 +300,7 @@ I almost apologized. I drank instead.
 
 At dusk she knocked on my open doorframe with a supper tray balanced on one hand. I had left the door open because closing it before I had decided to stay felt dishonest. Kethra pointed into the room and raised her brows.
 
-"Please leave it there," I said.
+"Just inside the door, please," I said.
 
 She set the tray just inside, where I could reach it, and stepped away. No offense, no revised price. She signed good night from the passage and went down the stair.
 

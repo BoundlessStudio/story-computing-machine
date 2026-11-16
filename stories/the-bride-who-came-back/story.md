@@ -178,7 +178,7 @@ Ylva could not make her voice work. Marzena straightened, filled her lungs, and 
 
 Tirza’s answer came thin across the ice. “We have the marriage record.”
 
-“You have the arrivals!” The shout broke into coughing. Marzena bent over it, and when she could speak again it was only to Ylva. “This is the rest.”
+“Yours ends when we arrive!” The shout broke into coughing. Marzena bent over it, and when she could speak again it was only to Ylva. “This is the rest.”
 
 The queen’s white figure did not move.
 

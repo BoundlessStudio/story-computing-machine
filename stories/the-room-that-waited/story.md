@@ -56,7 +56,7 @@ By the time the sun touches the wash rim, you have uncovered one edge and a hing
 
 “Air,” you say.
 
-“Mine was first.”
+“I said empty first.”
 
 You widen the gap until a person can pass. Beneath it, narrow metal steps descend beyond the reach of daylight.
 

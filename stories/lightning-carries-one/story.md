@@ -96,7 +96,7 @@ At the first stop, Tobin’s hand came up off his lap toward the cord and stoppe
 
 “You said you would direct us.”
 
-“Not this one.”
+“Not this stop.”
 
 “Then why did you reach for the cord?”
 

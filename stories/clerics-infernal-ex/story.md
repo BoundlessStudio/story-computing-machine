@@ -48,7 +48,7 @@ Now his leaf was mounted in a stranger's ironwork, and the ironwork filled the s
 
 Lacrixa followed his stare. “That does not look like ash.”
 
-“I didn't mount it.”
+“I didn't mount my leaf.”
 
 “You kept it long enough for someone else to do so.”
 

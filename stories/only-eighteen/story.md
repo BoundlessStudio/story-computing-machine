@@ -256,7 +256,7 @@ Romy let go of her finger. “Well.”
 
 She had, in fact, put off visiting an old friend for eleven years because the journey involved an inconvenient ferry. “Send me the date. I will come for that date.”
 
-Romy nodded. Then she turned around. “Can you do the back? It's coming out.”
+Romy nodded. Then she turned around. “Can you fix my hair at the back? It's coming out.”
 
 Ceveth removed two pins, held them between her lips, and caught the slipping weight of hair. Romy had cut a section of it herself the previous autumn, denying it even while loose clippings clung to her collar. The shorter strands escaped Ceveth's fingers now. She smoothed them in with the rest as well as she could.
 
