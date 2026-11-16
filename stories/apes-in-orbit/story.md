@@ -484,7 +484,7 @@ They stopped shouting.
 
 “Low end first. Two more on the cracked side. You, bring the jack.”
 
-The hatchery messenger, his arm still strapped, had tied himself into the beam sling. “I can pull.”
+The hatchery messenger, his arm still strapped, had tied himself into the beam sling. “I can pull one-handed.”
 
 “You can count.” Qemri cut him free and handed him the crew board. “South braces. Heat-trunk leak. Egg sledges returned. Keep those columns separate.”
 

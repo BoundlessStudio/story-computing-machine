@@ -511,7 +511,7 @@ Perren brought over two bowls of porridge.
 
 “Promises keep having conditions with you.”
 
-Brelva took the smaller bowl before he could offer it. “Tomorrow, then.”
+Brelva took the smaller bowl before he could offer it. “Stew tomorrow, then.”
 
 The node gave one faint tremor toward the road. The stranger saw it. So did Brelva.
 

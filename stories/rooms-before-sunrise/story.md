@@ -396,7 +396,7 @@ Lirenn read them: return flow, gill interval, rib load, bud deflation, the twelv
 
 Mular placed the broken comb in the quarantine jar. His fingers stayed on the lid after he had sealed it.
 
-“It comes with us,” Lirenn said.
+“The jar comes with us,” Lirenn said.
 
 “I heard.”
 

@@ -145,7 +145,7 @@ Evadne asked a woman hurrying along the upper road whether she could stay to hel
 
 The woman stayed a moment. “What about what Gran said? After the fire?”
 
-“I'll release it. You're needed at home.”
+“I'll release the promise. You're needed at home.”
 
 The woman pulled her collar up and ran. Evadne took the blankets from me and laid them over the chair's back. I could have gone upstairs then. Instead I held the lantern while she separated two blankets that clung together with an old safety pin.
 

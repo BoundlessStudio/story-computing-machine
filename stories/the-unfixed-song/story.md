@@ -344,7 +344,7 @@ Mazhira held the stick toward Zulmec.
 
 He shook his head. “You signed it.” He folded his hands on his knees and left them there.
 
-The worker shifted on the wet deck. “Can we start before breakfast? They're serving the thick porridge.”
+The worker shifted on the wet deck. “Can we start? The thick porridge won't wait.”
 
 “You hate the thick porridge,” Mazhira said.
 

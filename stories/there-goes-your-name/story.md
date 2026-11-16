@@ -367,7 +367,7 @@ She called my old name. Her voice came from the fae under its dock leaf instead 
 
 "Still broken," she said.
 
-"Mine, not yours."
+"The name's broken. You called it right."
 
 The fae sat on the wall under a dock leaf, keeping one fist closed. "Broken is harsh. Empty has more room in it."
 

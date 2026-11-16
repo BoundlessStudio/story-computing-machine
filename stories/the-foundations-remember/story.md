@@ -430,7 +430,7 @@ The absence did not make him peaceful. It made him check his pockets. He found a
 
 "Not after service restarts. There's a warming bay by the freight lifts. It doesn't scan housing status until five."
 
-Haru buttoned his coat. At the door he glanced back at the crown. "Was I right? Whatever it was."
+Haru buttoned his coat. At the door he glanced back at the crown. "Was I right to file the report?"
 
 Amel cut the pickup. The tunnel waited inside her with the fixed patience of masonry. Beneath it, a gauge might still be signing each passing train against an old wall.
 

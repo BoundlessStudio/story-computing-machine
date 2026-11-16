@@ -268,7 +268,7 @@ The bar across the outward doors had swollen into its brackets with the damp and
 
 Behind me, the man remained still. Steam had stopped rising from his coat.
 
-“There are many of me?” he asked.
+“There really are others like me?” he asked.
 
 His breathing had slowed to something I could count.
 

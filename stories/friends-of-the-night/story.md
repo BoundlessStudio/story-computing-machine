@@ -324,7 +324,7 @@ Torma put the carpenters on the gate and went to argue about grain stores. Denek
 
 Near midday, Crooktail appeared beyond the hazels. A band of fur had been rubbed raw around its hindquarters. It watched me tap the stone level with the butt of my knife.
 
-Denek glanced over from the den. “Left edge is high.”
+Denek glanced over from the den. “Stone’s high on the left.”
 
 “I know.”
 

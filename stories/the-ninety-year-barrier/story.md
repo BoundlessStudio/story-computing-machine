@@ -402,7 +402,7 @@ The Witch tested it with your hook from outside. It held. She wiped the handle o
 
 You waited, but she had already turned to inspect the nearest stake.
 
-“That’s all?”
+“That’s all I owe you?”
 
 “It is enough for one day.”
 

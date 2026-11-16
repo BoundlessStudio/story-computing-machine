@@ -293,7 +293,7 @@ Your brother rubbed his hidden palm against his trousers. "You said you didn't w
 
 "I heard you."
 
-"Then what?"
+"What did you think I meant?"
 
 He picked at a loose thread on his cuff. "Nothing."
 

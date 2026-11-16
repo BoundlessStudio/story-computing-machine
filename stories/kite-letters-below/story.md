@@ -68,7 +68,7 @@ Lassan watched the frames three times before saying anything. The maintenance ar
 
 "They're going soft."
 
-"That doesn't improve them."
+"Soft won't make them sweeter."
 
 "It improves the urgency."
 

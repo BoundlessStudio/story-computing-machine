@@ -346,7 +346,7 @@ Zorevi picked it up. “This does not authorize you to redistribute stress at th
 
 “Wasn’t planning to.”
 
-“Or diagnose while the stiffness persists.”
+“Or diagnose by magic while the stiffness persists.”
 
 “The keeper can drain the line while these rest. Then I measure the seats. If my hands open, diagnosis. If they don’t, eyes and tapping.” Pelmara shouldered open the source-room door. It caught on the damp floor, and she kicked the lower corner without looking. “Then I replace the failed run the ordinary way, if he stocked the right diameter for once.”
 
