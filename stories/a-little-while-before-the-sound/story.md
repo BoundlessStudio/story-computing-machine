@@ -40,7 +40,7 @@ Mieke swept the shavings away from the gate with the side of her blade. I could 
 
 “I can do it from here if you take a step sideways.”
 
-“Try it for me once with the light on you. Then we’ll have both.”
+“Try it for me once with the light on you. I’ve got your first run on the phone if you want to send that.”
 
 She put the toe of one skate in, ready to push, the way she used to do when I gave her two errands and she wanted me to say which one I was actually going to make her do. Then she set off for the windows. It took her three strokes to get there. She wanted to find a line she could do twice without looking down for a mark, so I watched while she worked it out. From the end of the bench I could measure her progress by the mullions. The first time two of their shadows went across her face. The next time I asked her to go deeper into the light and she came back with both palms open to show me she’d found it. I put up a finger for one more. Her skates made two new curves beside the faceoff dot before I was satisfied. By then I’d spent so long with one hand in my pocket that I could feel the raised edge of the phone case through my glove.
 
@@ -52,9 +52,9 @@ I took out the phone. There on the screen was the warning I’d left sitting the
 
 When I came to that last sentence I went back and read it again. The windows were still there. All that time we’d been turning Mieke around under them, somebody up the street might have been getting his children away from the glass. I had the thought that there was still a way to make what I’d said to her come out all right. The mistake would end up being the funny part of the story, if I could get her off there before the sound came.
 
-I put the phone back into my pocket. “Mieke. Back here.” I could hear the second word coming back to me from high up as if somebody had tried to do it in my voice with their mouth full. She turned her head, then kept going. I could see her lifting her chin to look through the glass above the boards. The gate to the gallery was right by the place where we’d got the light on her face.
+I put the phone back into my pocket. “Mieke. Back here.” I could hear the second word coming back to me from high up as if somebody had tried to do it in my voice with their mouth full. She turned her head, then kept going. I could see her lifting her chin to look through the glass above the boards. The public gate was right by the place where we’d got the light on her face.
 
-I’d come out of the passage a hundred times on wet skates. To get there now I could go straight back through the bench and round the concrete turn in a few seconds. I took a step the other way before I’d decided how far I meant to go. The sole of my shoe skated out on its heel. I put it down again on the whole of the foot, as if I’d got something balanced across my palms. Six paces diagonally out from the bench I could see the side of Mieke’s face. I put one hand high, palm out. I thought if I shouted again she’d keep looking around for the sound, so I held the hand there, which left me with the other arm to steady myself as the foot I’d put down went on drifting.
+I took a step toward the passage behind the bench. Three more and I could get round the concrete turn. Out on the ice Mieke was letting her last stroke carry her. I turned and went through the bench gate. The sole of my shoe skated out on its heel. I put it down again on the whole of the foot, as if I’d got something balanced across my palms. Six paces diagonally out from the bench I could see the side of Mieke’s face. I put one hand high, palm out. I thought if I shouted again she’d keep looking around for the sound, so I held the hand there, which left me with the other arm to steady myself as the foot I’d put down went on drifting.
 
 She saw me. She drew her feet together and came round so fast the free skate passed her other leg cleanly in front of the knee. I’d seen her get a mark for that turn as a child. Now she had both arms out and the point of one shoulder forward and I could see she was going to come past me close enough for me to speak without shouting.
 
@@ -76,7 +76,9 @@ I took the phone out again and put it on the floor between us. Mieke leaned over
 
 “Four fourteen,” she said. “I’d just got that ice out of my lace. I was going to tell you I liked the first take. I’d done the part with my arms exactly the way I wanted and it bothered me having to do it again.”
 
-My first impulse was to tell her it had been four fourteen all over Raincross. There must have been a thousand people who got the sound at the same time I did. Anyone could have guessed and kept on with what they were doing. But I’d had plenty of time to get the phone out of my pocket, and there was Mieke with the pink skin at the top of one boot where her tights had slipped down, touching the numbers on the screen. I had kept her on the ice through the entire part of the afternoon when she could have walked in here in her own time. All those pictures I’d been taking in my head of worse light, better light, and her face in it. I could have asked her to come sit here with me six or seven minutes ago, and we could have taken the skates off.
+I was about to tell her how many people in Raincross must have got the same sound I did. Mieke’s finger rested on the numbers. There was a strip of pink above her boot where her tights had slipped down, and if I’d read the message when I got it we’d have had time to take the skates off in here.
+
+“You held your arms out till you were coming straight back at me,” I said. “We could’ve sent that one. I had room to move down the bench if I wanted another.”
 
 “Does it say how long we have after the light?” she said.
 
