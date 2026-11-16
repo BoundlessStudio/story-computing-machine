@@ -20,7 +20,7 @@ Alis comes up with damp pin curls and the papers braced against her hip. She's s
 
 “Her husband minds the coat while she changes. That's what men used to be for down there.”
 
-“He offered her to me all winter. Tonight she asked for herself. I wanted to say something nice to her, so I asked if I could see her ticket, and she took out every one she's bought since December.” Alis feels in the apron pocket to bring out a little yellow wad held with a red rubber band. “'I'd like her to have them,' she said. I told her I'd put them somewhere good.”
+“He offered her to me all winter. Tonight she asked for herself, and there was my hand out for her ticket. I'd torn the stub myself at the start of the set.” Alis feels in the apron pocket to bring out a little yellow wad held with a red rubber band. “She'd kept the lot since December. 'I'd like Rilla to have them,' she said. I told her I'd put them somewhere good.”
 
 Rilla slides the oldest ticket out. Its corners have gone soft, and someone has written the date on the back in a hand she recognizes from the requests that used to come up to the piano. On the new one on top there's still a little tag of blue paper where the stub was torn. *Rilla Dacre's Late Set. Arrangements performed by the Lark house orchestra.*
 
@@ -50,7 +50,7 @@ The music downstairs has passed into a tune that begins with eight bars of piano
 
 “I'd still have to leave the floor to see you. I'd say, 'Excuse me, I have something to do upstairs,' and they'd let me go because they know me well enough to give me an hour to myself.” Alis sets an elbow down on the table. “If you're in the ballroom, I can take you over to Freda and ask her for another chair. That's the chair I'm asking you for.”
 
-Rilla looks at the plate she'd put by Alis's elbow and the clean spoon she'd put beside it. The spoon is bent at the neck. Alis once tried to get a tram fare out of a crack in the floor with it. The prospect of bringing up company had cheered Rilla briefly when she thought of it, and now she can see exactly where Freda would sit and how Alis would get out of her own chair every time she heard somebody test the wrong door.
+Rilla moves the plate over to make room at the corner of the table for Freda. The spoon catches under it. Alis bent the neck trying to get a tram fare out of a crack in the floor. When a board creaks on the landing Alis is halfway out of her chair. They listen to the steps go on past the door.
 
 “What's so fine about the ballroom if you're still going to be at the till?” she says. “You come up here with half a hand frozen every Saturday. Suppose I want the whole hand.”
 
@@ -64,7 +64,7 @@ Alis picks up the contract. Rilla expects her to turn it so it can be read from 
 
 “I'll marry you in the ballroom, if you'll have me there. I came up to ask in plenty of time because I thought you'd say yes. I've thought about leaving it blank since you put the cup down.”
 
-Alis's damp sleeve has left an oblong on the tabletop. Rilla watches her move the paper out of its reach. *Since you put the cup down*. Rilla took longer than that to get the good chair out. She puts a hand on Alis's cuff and can feel the notch where her wrist bends. If Rilla closes her fingers she can get two of them under the cuff, to the bare skin. Alis lets her. They have twenty minutes. It has always been easy to want more of Alis than she has any present use for. She holds on a little harder now and has to think what she meant to take hold of, Alis's wrist or the paper.
+Alis's damp sleeve has left an oblong on the tabletop. Rilla watches her move the paper out of its reach. *Since you put the cup down*. Rilla took longer than that to get the good chair out. She puts a hand on Alis's cuff and can feel the notch where her wrist bends. If Rilla closes her fingers she can get two of them under the cuff, to the bare skin. Alis lets her. The little beat in the wrist comes against the side of her finger. They have twenty minutes. She holds on a little harder now and has to think what she meant to take hold of, Alis's wrist or the paper.
 
 The rattling in the grille has ceased. A man's voice comes up clearly through it. “Can we have 'The Red Fan' the way she played it?” Music begins below before Rilla has altogether stopped waiting for the pianist to call back. In the hall, when she'd done “The Red Fan,” the drummer used to roll so softly in the measure before the first chord that she could hear the cashbox shut across the floor.
 
@@ -74,13 +74,15 @@ Alis picks the spoon up with her free hand. “I sat there till half past twelve
 
 Rilla lets go of the cuff and takes a drink of tea. It has the taste it gets when she leaves the bag in the cup. She had come up slowly that night, playing the last phrase to herself in case she remembered how to improve it. There had been Alis, up on her feet at the top of the stairs with a hand to the front of her dress where it tended to gap. Rilla had been so pleased to have someone to take home while the rest of the band went looking for their cases. She would have taken the stairs two at a time if she'd known how long Alis had been on them. She would still have made her wait for the man and his daughter.
 
-“If we have the ballroom,” she says, “I'll need you to take my name off the bills. I can do that for the length of a year. I want you to give the two of us a Saturday a month down there, with nobody paying either of us for the evening.”
+“If we have the ballroom,” she says, “take my name off the bills for the year. Give us a Saturday a month down there with the doors open to anybody who wants to dance. Let them keep their money. I want to spend that evening with you.”
 
 Alis keeps hold of the spoon and draws the proof out from under Rilla's cup. “Would you mind moving your cup another inch? I can't see the whole line.” She takes the pencil from the apron pocket. It runs from the first letter of Rilla's name to the last, breaking halfway on the damp spot from the cup. She goes back over the break.
 
+The first time they'd announced her name for the late set after she died, Rilla had stood up and straightened her skirt on the way to the door. The next Saturday she was already on her feet by the grille when they said it. She turns the proof far enough towards herself to see she can still read the blue letters through the pencil.
+
 “I can lose the name,” Alis says. “They'll have to decide if they like the band for themselves, which is about time. I can't lose a whole Saturday on top of it. It costs the very same to heat the hall if everybody walks in off the street. I could give you a Tuesday for free. I'll pay a pianist myself and keep it open till the tram stops.”
 
-Rilla looks at her name under the pencil line. It cost Alis a walk in the rain, as well as what it will cost her in money. There would be a lovely small party on a Tuesday. A pianist who knew two dances, and ladies who meant to stop after eight for fear of how they'd get home. “Freda comes on Saturdays. You can have one of the Saturdays you asked me for, and I'll have one evening that belongs as much to us as it does to anybody else on the floor.”
+There would be a lovely small party on a Tuesday. A pianist who knew two dances, and ladies who meant to stop after eight for fear of how they'd get home. “Freda comes on Saturdays. Let's have the room on a night when she's there and we really will have to ask her for a chair.”
 
 Alis lifts the oldest of Freda's tickets from beside the proof. “Would you settle for the late set? The first set pays for the room, generally, and a good late set pays for the band. I'd keep the orchestra on its regular money. I'd stand the difference on those nights. We could say the first Saturday of every month so people would know when the doors would be open.” She hands the ticket to Rilla.
 
@@ -100,7 +102,9 @@ Alis goes out carrying the proof and the contract under the arm Rilla has never 
 
 The ballroom comes back to her with a draught. The doors are open to the tram turnaround and the smell of the wet street comes in where a bank of coats used to keep it out. She arrives at the end of a banquette, close enough to the floor to feel the small separate shocks of the people putting chairs back under their tables. Across the room one of the staff closes the cash drawer and calls out that the orchestra will play one more. Anybody who wants it can come in for free. A couple just outside stop looking for their money.
 
-A man backs away from the coat rail and knocks his elbow against her. He turns and puts a hand on her forearm. “Excuse me, love,” he says, and lifts a woman's raincoat clear of her head. Someone else wants a passage and Rilla moves out onto the edge of the floor. The stage is nearer than she remembered it. There is a clean place on the piano where the little gold lamp stood that used to show up the biscuit crumbs on the keys. She wonders where the lamp's got to. At the bench the new man is spreading a stack of music with both hands, and she could walk up there and turn straight to the piece she wants if the book's still the same. She goes past the three steps up to the piano and on as far as the big table in the draught.
+A man backs away from the coat rail and knocks his elbow against her. He turns and puts a hand on her forearm. “Excuse me, love,” he says, and lifts a woman's raincoat clear of her head. Someone else wants a passage and Rilla moves out onto the edge of the floor. The stage is nearer than she remembered it. There is a clean place on the piano where the little gold lamp stood that used to show up the biscuit crumbs on the keys. She wonders where the lamp's got to.
+
+At the bench the new man is spreading a stack of music with both hands. Rilla puts her hand on the rail at the foot of the steps and sees the blue binding of her book at the bottom of the stack. She could open it at “First Night on the Hill” by putting her thumb in the split beside the spine. The rail is worn smooth all along the part where her hand fits. She lets go of it and walks on as far as the big table in the draught.
 
 Alis has taken the chair that faces the door. She has her winter cardigan on over the green dress, with both ends of the belt hanging free. Rilla can see the place where her hand will fit when they stand up, between the last small button and the seam at Alis's waist. She gets close enough for Alis to reach her before she asks.
 
