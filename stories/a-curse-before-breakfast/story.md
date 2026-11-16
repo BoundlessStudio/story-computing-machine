@@ -378,7 +378,7 @@ I stopped in the doorway.
 
 She coughed a little and pointed at the bread. "Toast?"
 
-"It ended. I saw it end."
+"Your spots went last night. I watched them go."
 
 "I may be having complications."
 

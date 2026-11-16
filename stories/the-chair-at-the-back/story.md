@@ -412,7 +412,7 @@ Berrit cleared away his bowl and came back with more juice. The man at the front
 
 The fruit was good even with no appetite. Jemby ate another piece while Pemric told him which stair squeaked and where the upstairs candle would be. There was an empty room beside theirs. If he woke frightened, he could knock.
 
-"I probably won't," Jemby said.
+"I probably won't knock," Jemby said.
 
 "You can, though."
 

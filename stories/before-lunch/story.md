@@ -336,7 +336,7 @@ He doesn't reach for it.
 
 Your hand hangs between you. The money is enough to pay your rent for a long time. You bring it closer to him before you can think about that properly.
 
-“Every penny,” you say. “And it goes. Now.”
+“Every penny,” you say. “And Vhulcren leaves. Now.”
 
 Behind Dott, Sathrie puts down a bottle with an impatient clack. “Are you two going to be much longer?”
 

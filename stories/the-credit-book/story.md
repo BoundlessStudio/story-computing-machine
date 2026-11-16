@@ -114,7 +114,7 @@ He took her into a back room so narrow that they could not stand facing each oth
 
 This time she told it briefly. Fodric listened with his thumb pressed into the blue chalk stain on his cuff.
 
-“I can't get them to give up warehouse space. But there's a dining room to let up here. You'd need a loan. I could manage one, if she agreed to charge properly.”
+“I can't get the guild to give up warehouse space. But there's a dining room to let up here. You'd need a loan. I could manage one, if she agreed to charge properly.”
 
 “She does charge.”
 

@@ -216,7 +216,7 @@ Barnaby looked at her.
 
 He could. He had forgotten the crack, and now hoped she would discover some useful depreciation in it. Instead she wrote six crowns beside the circlet.
 
-"For that?"
+"Six crowns with that crack?"
 
 "It works through walls."
 

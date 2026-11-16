@@ -46,7 +46,7 @@ The door opened inward. Viveca didn't immediately stand.
 
 Mabry had seen the blade when she inventoried the confiscated belongings: broad as her palm, with coarse teeth along its back. Her father kept everything he took, though he sometimes threw away shoes.
 
-"He'll kill me if I go out without it," Viveca said. "Then he'll take you to your father."
+"The driver will kill me if I go out without it," Viveca said. "Then he'll take you to your father."
 
 The dress smelled stale. There were no shoes in the cupboard. Under the folded hem lay Arvid's wedding ring and the paper that certified his death. Renwick had brought them to Viveca himself. When Mabry asked why he kept her locked up, he showed her the scar Viveca had left beneath his jaw that day.
 

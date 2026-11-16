@@ -62,7 +62,7 @@ Jovie held out her empty hand for the key.
 
 The cat stretched. Its rear rose, its shoulders sank, and the claw in the chair pulled free with a strip of silk attached. It shook the fabric off. The woman watched it land beside her shoe.
 
-"That's going to need recovering," Harcott said.
+"That chair's going to need recovering," Harcott said.
 
 "So does my bike."
 

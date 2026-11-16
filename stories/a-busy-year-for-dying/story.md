@@ -194,7 +194,7 @@ Ruldo regarded him. "So we're finished with the brother?"
 
 Glessa laid the coat inside her cart. "And the wound on your head?" She nodded at the man in the scarf. "He told me about it when he sold me the coat. Blood all over you, then nothing."
 
-"There was," the man said. "No cut when I looked."
+"There was blood," the man said. "No cut when I looked."
 
 "His wrist, too," said Ruldo. "Wouldn't let me look at it until later."
 

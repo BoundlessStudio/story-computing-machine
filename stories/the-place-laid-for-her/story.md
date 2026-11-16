@@ -196,7 +196,7 @@ When the music ended, Brevot thanked the player with evident feeling. Ildesse wa
 
 “Yes.”
 
-He glanced at the pages beside his bowl. “Should I leave this?”
+He glanced at the pages beside his bowl. “Shall I put the poem away?”
 
 “No, go on.” She meant it. Something might yet happen in the poem that would bring the evening round. The blade might be taken dancing.
 

@@ -224,7 +224,7 @@ Lachesis checked her phone. The music was to start at half past, but getting up 
 
 "Have they looked at your future?" the goddess asked me.
 
-Atropos answered before I could. "About three seconds of it. For the tea."
+Atropos answered before I could. "About three seconds of it. I saw an elbow coming for my tea."
 
 "Only that?"
 

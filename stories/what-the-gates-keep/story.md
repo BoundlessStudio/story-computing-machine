@@ -84,7 +84,7 @@ Ismeret had noticed the movement too. She came around the table, but stopped bey
 
 “From where?”
 
-“Once we're home.”
+“From the palace, once we get you home.”
 
 She looked toward the stair door. For the first time I understood that she was measuring the way past Haldis rather than waiting for us to lead her to it.
 

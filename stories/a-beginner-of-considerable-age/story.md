@@ -182,7 +182,7 @@ The badger rounded the corner. Orsugal shot beneath the bench and came out on th
 
 She thrust her hand down. He seized the cuff of her gauntlet with both foreclaws and felt himself lifted clear just as the badger's teeth snapped beneath his hind feet. Halfway up, the gauntlet began to slide off.
 
-"My gauntlet!" said Melicent.
+"The gauntlet's coming off!" said Melicent.
 
 "Pull me!"
 
