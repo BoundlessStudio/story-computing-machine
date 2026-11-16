@@ -50,7 +50,7 @@ I remembered him standing in a room where there was nowhere to sit, asking if on
 
 “He asked me himself when I gave him back his ship,” I said. “I told him I would.”
 
-The first note of the departure bell came from behind her, and then the second, which had a pull in it like a door refusing to shut. A deckhand sang out for Orwick. The man with the lamp held it up. His coat had been mended at the cuff with thread several shades too pale, and I could see the light through the part of the seam that was beginning to come apart again.
+The first note of the departure bell came from behind her, and then the second, which had a pull in it like a door refusing to shut. A deckhand sang out for passengers going to Orwick. The man with the lamp held it up. His coat had been mended at the cuff with thread several shades too pale, and I could see the light through the part of the seam that was beginning to come apart again.
 
 “He comes across that carpet every morning with his lamp,” Rell said. “Sometimes I go down there to tell him he can't take his ship out. He always asks me to tell the people waiting. He says they should hear it from whoever's keeping them there. I'd like to go down there tomorrow and tell him he can fly.” She put her hand out for the letter and I gave it back to her.
 
