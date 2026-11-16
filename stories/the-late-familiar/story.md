@@ -206,7 +206,7 @@ Thrum was heavy against my chest.
 
 “I have no intention of dropping him.”
 
-“Not what I meant.”
+“Keep hold so you'll know where he really is.”
 
 The cat put one paw on my shoulder and looked over it. My shadow rose from the floor, climbed the wall, and spread itself across the open window.
 

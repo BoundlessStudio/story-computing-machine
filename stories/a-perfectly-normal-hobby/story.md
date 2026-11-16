@@ -262,7 +262,7 @@ Orson swallowed. “Trying something.”
 
 He took the plate in his free hand.
 
-“Please don't put it in the chat.”
+“Please don't tell the family chat I'm making a film.”
 
 Mum glanced at the folded tripod. “You haven't even made your film yet, have you?”
 

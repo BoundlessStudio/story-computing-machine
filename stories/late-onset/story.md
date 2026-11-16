@@ -128,7 +128,7 @@ Joss caught my ankle before my head reached a light fitting.
 
 For a few seconds I floated above him. My cardigan had migrated over my face.
 
-"Take your time," he said. "Normal down when you're ready. I'll lower you."
+"Take your time," he said. "Tell me when you're ready to let your weight come back. I'll lower you."
 
 I had to trust that he could. I pulled the cardigan away from my eyes and looked at him, his hand secure around my ankle, his boots clear of the floor.
 

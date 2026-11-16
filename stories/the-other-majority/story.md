@@ -530,7 +530,7 @@ Isabet had imagined the broadcast ending when she finished her statement. Instea
 
 Isabet touched the square behind her ear.
 
-“So have I,” she said.
+“I've wondered about my own papers, too,” she said.
 
 She could not answer much more than that. She had to let the question remain.
 

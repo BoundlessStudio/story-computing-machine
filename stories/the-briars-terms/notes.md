@@ -40,3 +40,6 @@ Built-in imagegen produced separate white multi-view sheets for Dulcie, Rhaedren
 
 The coordinator independently inspected all three character sheets and the selected cover: consistent adults and clothing, readable labels and exact title once, visible crutches, coherent saddle/support, torn sleeve, antlerless hind and flowering grove. All six reference WebPs are 1536×1024; the cover is an 864×1536 JPEG. After the prose and cover were final, the coordinator assigned General with specific content notes in ratings.md. The clothed affectionate cover does not raise the prose’s rating. The story remains non-canon and no universe files change.
 
+## 2026-11-16 dialogue edit
+
+Dulcie asks whether Rhaedren can change what the gate requires. The independent reader heard the question in the voice of someone who remembers writing the rule. His answer makes clear what changing it would cost him.
