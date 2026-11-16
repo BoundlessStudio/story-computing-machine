@@ -60,11 +60,11 @@ She saw me. She drew her feet together and came round so fast the free skate pas
 
 “The light was a meteor,” I said. “The blast could still be on its way. Get off by the bench.”
 
-Mieke looked down at my shoes. “Stay where you are till I get past you.” She gave me room, using an edge I could hear cut in. I turned too quickly. I got one hand down before my knee struck the ice, right where I used to have a pad in the beginner classes. The cold came straight through the denim. I got back up with my hands on the ice. When I looked up, Mieke was already at the bench. She put both blades sideways to stop in time for the latch and the switch of her hips brought her through the gate and onto the mat.
+Mieke looked down at my shoes. “Stay where you are till I get past you.” She gave me room, using an edge I could hear cut in. I turned too quickly. I got one hand down before my knee struck the ice, right where I used to have a pad in the beginner classes. The cold came straight through the denim. I got back up with my hands on the ice. When I looked up, Mieke was already at the bench. She lifted the latch and stepped through onto the mat.
 
 “Give me your sleeve when you get here,” she called.
 
-She held the gate out of the way with her shoulder. I came the last two steps with my hand stretched toward her and when she took me by the sleeve I could pick my head up and see the passage. There was an old crease in the mat where its edge wanted to come up. The toe of my shoe slid over it and landed on rubber. My heel came down and stayed where I put it. Mieke sent me ahead through the first part of the passage and clattered along behind. At the turn I put an arm out, felt the concrete at my fingertips and stopped there. She came round the bend and took a seat on the floor right up against my leg. I sat.
+She held the gate out of the way with her shoulder. I came the last two steps with my hand stretched toward her and when she took me by the sleeve I could pick my head up and see the passage. There was an old crease in the mat where its edge wanted to come up. The toe of my shoe slid over it and landed on rubber. My heel came down and stayed where I put it. Mieke sent me ahead through the passage and clattered along behind. I got round the turn with one hand on the concrete and slid down the wall. She sat right up against my leg.
 
 For a little while we could hear the fans from the other room. I used to get children to sit there and calm down before we went out for their first test. I would put my back against the concrete, just like that, and get them to set their hands on their knees. In here I could talk quietly and they’d still hear me.
 
@@ -74,7 +74,7 @@ For a little while we could hear the fans from the other room. I used to get chi
 
 I took the phone out again and put it on the floor between us. Mieke leaned over it and moved a finger back to the top of the message.
 
-“Four fourteen,” she said. “I’d just got that ice out of my lace. I was going to ask you to play the first take again. I’d had my hands where I wanted them without having to think about them, and I could feel myself thinking about them the whole time we were doing it over.”
+“Four fourteen,” she said. “I’d just got that ice out of my lace. I was going to ask you to play the first take again. I’d got my hands where I wanted them without having to think.”
 
 I was about to tell her how many people in Raincross must have got the same sound I did. Mieke’s finger rested on the numbers. There was a strip of pink above her boot where her tights had slipped down, and if I’d read the message when I got it we’d have had time to take the skates off in here.
 
@@ -82,7 +82,7 @@ I was about to tell her how many people in Raincross must have got the same soun
 
 “Does it say how long we have after the light?” she said.
 
-“Four fourteen’s when we got the warning. I’d like to be able to tell you.”
+“It doesn’t say. I’d like to be able to tell you.”
 
 She reached over me and put the phone down against the wall. I’d been holding my head so far forward that I could see my knee shaking. Mieke had her hands flat on the floor. She took one off and put it against the back of my neck. I let my chin come down till it rested on my chest.
 
