@@ -17,3 +17,7 @@ The fresh Codex reader believed the encounter through the hair passing through t
 The final gate returned Yes, native confidence 0.98, P(Yes) 0.99, P(No) 0.01, and no source ambiguity. Art followed with zero restarts.
 
 The built-in imagegen tool used the original portrait for the woman's identity and the earlier character sheets for visual continuity. The palace writing room and lowest gallery studies guided the texture of timber and masonry in the three new locations. The cover follows the accepted woman, conservation room, and passage references. It shows the encounter at the door, with the boy reaching into the vacant corner of the photograph.
+
+## 2026-11-16 dialogue edit
+
+The woman asks Ireta to listen for the boy’s intake of breath before he goes quiet. The independent reader could hear what the line meant and had a reason to stay with Ireta through the silence. The woman’s familiar way of describing the boy leads into Ireta’s memory of her brother and the small footprints waiting at the threshold.

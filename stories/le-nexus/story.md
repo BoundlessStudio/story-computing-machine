@@ -36,9 +36,9 @@ She let her hand drop between us. “See where it goes when I turn.”
 
 I put down my whiskey. She turned until we were both facing the bar. My left hand slipped behind her and shut around her waist. The red light under the rail shone between the plates where the wrist had bent. She put a little of her weight against it and I felt the strap take hold of my back. Her shoulders had scarcely moved. The curl beside my gold hoop stirred when she breathed out.
 
-“Would you do the whole thing if I stood here?” I asked the hand. I straightened my elbow and the strap let up. She’d only just begun to lean when I got the fingers open.
+“Are you going to dip her while I just stand here?” I asked the hand. I straightened my elbow and the strap let up. She’d only just begun to lean when I got the fingers open.
 
-“Here’s how to change.” She caught my steel hand and rapped three quick times on its back with one finger. “My knee went through a deck board once. For quite a while I had to stay up when we danced, and the minute a man came in thinking he was going to sweep me down, I’d give him that and put my own arm round his waist. Down he’d go in my arms and he’d have to wait till I stood him up again. Some of them got a taste for it. That lot at the corner can tell you.”
+“If you want me to do the dipping, give me this.” She caught my steel hand and rapped three quick times on its back with one finger. “My knee went through a deck board once. For quite a while I had to stay up when we danced, and the minute a man came in thinking he was going to sweep me down, I’d give him that and put my own arm round his waist. Down he’d go in my arms and he’d have to wait till I stood him up again. Some of them got a taste for it. That lot at the corner can tell you.”
 
 She had a way of delivering a sentence to me and then turning the end of it out toward everybody within reach. She lifted her glass at the tram driver. He bowed from the neck, as much as he could spare her without getting off his stool.
 

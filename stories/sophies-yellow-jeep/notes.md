@@ -29,3 +29,7 @@
 **Final fidelity.** Decisions returned **Yes**, native confidence 0.98, P(Yes) 0.99, P(No) 0.01, source ambiguity 0.00. Action proceed, zero restarts. The complete final prose and original were evaluated after the whole-story discussion and contextual checks. The continuing and fresh readings found the pictured Sophie's temperament in her work and in her choice to ask for help. Desbarats shapes the delay, the market rhythm, and the westward route.
 
 **Art and rating.** The supplied original guided Sophie's work clothes and posture and the Jeep's open yellow body. Separate sheets show Sophie, Vern and Marla. The concession road, barnyard and market pavilion each have a location painting. The cover uses the accepted Sophie, Vern and barnyard references at the seam before the first start. The finished prose and cover were rated General.
+
+## 2026-11-16 dialogue edit
+
+Sophie tells Vern why she would have to start the Jeep and names the bolt before showing him what broke inside it. The independent reader could follow both exchanges from Sophie’s words. Naming Vern at the market keeps the question on their time together. When Sophie brings up how the Jeep will start tomorrow, the reader heard her putting off the breakfast decision and recognized the later invitation as an answer to that hesitation.

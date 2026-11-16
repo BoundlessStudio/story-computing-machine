@@ -24,7 +24,7 @@ I knew how far away you could read yellow. At the sign shop we used it for the t
 
 “There's a wagon comes over that rise this time of day,” he said. “The fellow driving it can't see this patch till he's on top of it. Can you get the back end in any farther?”
 
-“I think it's a hose. I was going to wait for it to cool.”
+“I'd have to start it. I think it's a hose, so I was going to wait till it cooled.”
 
 He put his arm on the window ledge. “What did it do?”
 
@@ -44,7 +44,7 @@ I started a hole in the stub with Vern's drill. I'd bought a set of screw extrac
 
 The shade had moved off my knees and the parts on the plywood were warm to the touch. A wasp worked its way along the wet streak left by the hose. I kept putting my thumb over the place where the bolt had been, and I was doing that when Vern called to ask if I had hands for coffee.
 
-“In a bit,” I said. “I have one that won't come out.”
+“In a bit,” I said. “I've got a bolt I can't get out.”
 
 He came around the open hood with the cups. His overalls had two buttons down the side, and one of them made a little knock against the fender. I sat up. There was a space in the extractor case and the loose end wouldn't stay in it. I held it out to him.
 
@@ -100,9 +100,9 @@ I stayed through the last of it. A boy counted quarters into my hand and had one
 
 She brought out a loaf with a shoulder sunk in on one side and started sawing it in two. The bread was still soft enough to bunch under the knife. I thought she meant me to take some to Vern, and was getting my bag out when she drew up a second chair. There were threads of baked-on flour in the folds of her apron. She brushed at the worst of it and sat.
 
-“Do you stay for lunch with him?” she said.
+“Do you stay for lunch with Vern?” she said.
 
-“Vern? We have coffee.” I moved a canvas bag out of the way of my chair. There was a towel coming out of it.
+“We have coffee most days.” I moved a canvas bag out of the way of my chair. There was a towel coming out of it.
 
 “That's my bag for Superior,” she said. “I'm taking the car up after this. If I take the van I spend half my time on the beach telling people I'm out of bread.” She put a heel of bread on my knee. “Give me a minute before you go. I have to sit down before I get in the car, which is going to sound ridiculous to you.”
 
@@ -152,7 +152,7 @@ I stuck the rag into my back pocket and put my hand in the bag. The bread was wa
 
 “Do you want to come to my place next Saturday before the market?” she said. “I can get breakfast on the table at seven. There's no sense making a whole pan of eggs for myself.”
 
-“It depends what it does in the morning,” I said.
+“I suppose it depends how the Jeep starts tomorrow,” I said.
 
 “Whatever's easiest.” She took the bag back to fold down the top. I stood with a piece of crust between my finger and thumb and thought she might go back to her car.
 

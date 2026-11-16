@@ -50,7 +50,7 @@ They joined the line. Bess’s hand was warm, with a grain of sugar in the fold 
 
 “I’ve kept you long enough,” Catrin said. She gave Bess her hand as she said it.
 
-“Oh, all right.” Bess put Catrin’s hand down gently. She stepped past her to call to a girl coming the other way and was carried off with the line. Her sleeve disappeared behind somebody’s lantern, and then Catrin caught sight of the end of the plait, swinging away again.
+“All right. Mind that stone on your way out.” Bess put Catrin’s hand down gently. She stepped past her to call to a girl coming the other way and was carried off with the line. Her sleeve disappeared behind somebody’s lantern, and then Catrin caught sight of the end of the plait, swinging away again.
 
 Catrin walked back past the bench to the stair. Somebody had turned the paper over on the board, and the white side shone under the blue bird. The man whose sleeve she’d taken was telling his friends how near he’d come to a bath. At the mouth of the stair she put a hand on the stone and started up. There was time to get to the top and settle herself in her place. The next rocket went up with a sound like cloth tearing, and through the first slit in the wall she saw a streak of white thin as a needle, which bent at the tip and vanished. It would be fine to have the sky whole again, with room to watch the gold go down over every separate roof. She could take those shoes off and stay as long as she liked.
 
