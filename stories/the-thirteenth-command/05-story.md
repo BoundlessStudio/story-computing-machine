@@ -600,7 +600,7 @@ about the state of the gate. She embraced Edda once, hard, then stepped back.
 
 "The city will build another command board," she said.
 
-"Harven will."
+"You mean Harven will."
 
 "A civilian one. Repair crews, ration stewards, east-bank signals if they
 choose. Current maps. Shared costs."

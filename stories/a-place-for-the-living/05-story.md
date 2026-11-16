@@ -388,7 +388,7 @@ Outside, the rain had thinned to a cold mist. Imani stood under the porch eave w
 
 Greer let it fall.
 
-“No surprises,” Imani said.
+“You promised me no surprises,” Imani said.
 
 “I lied by making the promise smaller in my head.” Greer swallowed. “I knew she might be invited. I knew my mother meant to judge you. I knew taking the key meant living here someday, and I talked to her about marriage because talking to you felt like I could lose something.”
 

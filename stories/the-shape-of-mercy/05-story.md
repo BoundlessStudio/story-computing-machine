@@ -372,7 +372,7 @@ I read the account twice. I could not make myself remember the act. Evidence did
 
 "About the stewardship," Rowena began.
 
-"I accept."
+"I'll take the office."
 
 Marcus blinked. "You might at least bargain before surrendering."
 

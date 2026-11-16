@@ -338,7 +338,7 @@ Bash waited outside the threshold. He did not touch her.
 
 “Want company?” he asked.
 
-Nell looked at the store map. “You take the back two.”
+Nell looked at the store map. “Can you count the two at the back?”
 
 He counted them. Then he tapped three-pause-two against the cart handle, a question offered instead of demanded.
 

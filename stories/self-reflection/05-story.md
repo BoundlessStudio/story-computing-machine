@@ -394,7 +394,7 @@ Then Anin asked Nina about the first lunch—the one Anin had not attended. Nina
 told her about Daphne's question, Ben's pigeon, and the sentence that had
 escaped before she could make it harmless. Anin listened with her eyes closed.
 
-"I wish I remembered it," she said.
+"I wish I remembered that lunch," she said.
 
 "I wish I remembered the opera."
 

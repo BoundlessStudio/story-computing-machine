@@ -545,7 +545,7 @@ I showed her the blank paper. “I didn’t look.”
 
 “The gates won’t open for me.”
 
-She glanced toward the tracks. “Was it worth it?”
+She glanced toward the tracks. “Was it worth staying here?”
 
 “Sabine paid for part of it,” I said.
 
