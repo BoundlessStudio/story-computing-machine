@@ -306,7 +306,7 @@ Clorinda glanced toward the departing guests. Then she raised her magnificent so
 
 Lavinia covered her mouth. It was worse from this close. Clorinda began laughing too, losing the face she was trying to make, and caught hold of Lavinia's shoulder.
 
-“They'll think that was you,” she said.
+“They'll think you were trying to whistle,” she said.
 
 “I should like the credit.”
 

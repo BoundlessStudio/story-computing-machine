@@ -114,7 +114,7 @@ Her mother's face was suddenly there, as Clarimond had seen it, before anyone ha
 
 When Clarimond opened her eyes, Belda was smiling at her feet.
 
-“I expect those fit better.”
+“I expect the boots fit better.”
 
 “No,” Clarimond said. “These pinch too.”
 

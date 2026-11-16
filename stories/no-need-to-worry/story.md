@@ -22,7 +22,7 @@ Ogden lifted his face. A grey curl from the hunter's chest was caught between hi
 
 “Take the jacket off.”
 
-“You said we were keeping it.”
+“You said I could keep this one.”
 
 They had paid a tailor for expansion pleats. Ogden had agreed to stop growing when he felt them pull, and once again he had got excited. She put her bag over her shoulder and went behind him. A button on the back vent had caught in the new ridge of flesh along his spine. She picked the thread out with her nail. The smell made her breathe through her mouth.
 

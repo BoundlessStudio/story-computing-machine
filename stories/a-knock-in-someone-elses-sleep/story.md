@@ -186,7 +186,7 @@ Buses. Garnet had once made a bus whose top floor belonged to a different bus. T
 
 It wanted to ask about every day Garnet had lived. It wanted the house at the turning place. It wanted to know if she still preferred eggs with handles. The questions arrived together, as its thoughts always did; choosing one felt like letting the others sink out of reach.
 
-“Tell her I stopped because I was hurting her.”
+“Tell her I stopped coming into her dreams because I was hurting her.”
 
 Cleo looked at the places where the houses had been.
 

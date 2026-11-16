@@ -190,7 +190,7 @@ The guard came closer. Elspeth could hear the small squeak of his shoe against t
 
 “You sold me to him.”
 
-“I booked you. You asked for twenty percent.”
+“I booked you. You asked for twenty percent of the booking.”
 
 “I asked for a fifth of his business.”
 

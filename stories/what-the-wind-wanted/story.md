@@ -242,7 +242,7 @@ The pressure left her wrist.
 
 “Maybe. Close to it.”
 
-“If it happens halfway?”
+“If I have to breathe halfway?”
 
 The breeze passed once across the tunnel mouth, no farther than her outstretched arm. It returned with a falter she could hear.
 

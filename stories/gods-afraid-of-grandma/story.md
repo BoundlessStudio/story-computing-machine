@@ -196,7 +196,7 @@ All three answered at once.
 
 Silence followed. The road god stared at his knees.
 
-“Explain the last one.”
+“What contract?”
 
 “No.”
 

@@ -50,7 +50,7 @@ She caught me looking and ran a gloved finger down the front of the skirt.
 
 “I finished it yesterday.”
 
-“The whole thing?”
+“You made the whole outfit?”
 
 “The dress. The boots I bought.”
 

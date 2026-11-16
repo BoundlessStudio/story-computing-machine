@@ -286,7 +286,7 @@ Delsie took one skate off. A red seam marked her ankle above the sock. The skate
 
 She was tying the second one when Bettina came through the barrier.
 
-“Have you finished?”
+“Are you done skating?”
 
 “No.”
 

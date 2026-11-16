@@ -256,7 +256,7 @@ They slept above the orchards and left at sunrise. On the return journey, they m
 
 They reached the Wall on the fifth morning. In the barracks, before either had washed, she opened their strongbox and divided the savings into two bags. Dunley watched from his bunk.
 
-“I'm keeping mine here for now,” he said.
+“I'm leaving my share in the box for now,” he said.
 
 She set his bag back inside, then worked the strongbox key off the cord around her neck and put it in his hand. “Then you hold it.”
 
