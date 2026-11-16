@@ -21,6 +21,14 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
 - First established: user decision, 2026-07-22 ([initial decision record](https://github.com/BoundlessStudio/story-computing-machine/blob/4dcb2e92275eb7454a037c12ee0b9463d7518eb5/sources/decisions/2026-07-22-universe-grill.md) Q043, Q046, Q101)
 - Prefer precise, concrete, varied prose over canned phrasing, repetitive rhythm, or exposition that exists only to display lore. Use em dashes sparingly. Treat paragraphs as units of attention and reserve isolated one-sentence paragraphs for earned emphasis. Let viewpoint, distance, and rhythm serve this particular story. A deliberate voice may depart from these defaults.
 
+## Literary standard
+
+- Status: CANON
+- First established: user direction, 2026-11-09
+- New stories aim at the level of published literary short fiction, not at competent delivery of a prompt. [The craft standard](../.agents/skills/story-create/references/craft-standard.md) describes the bar and how readers test it. In brief: plan a short story with few, fully inhabited scenes and a small cast; give the narrator a stance and the sentences more than one speed; let each person speak in their own way and at their own length; treat a supplied or established reference character as casting, keeping temperament as well as appearance from first scene to last; and choose a particular, named place that acts on the story.
+- The collection's recurring manner is itself a default to notice under Collection variation: uniformly short sentences and one-line paragraphs, uniformly dry and economical dialogue, emotional peaks stepped around, and plots explained through question and answer. These remain available as deliberate choices for a story that calls for them.
+- Like the other craft defaults, this guides new work and authorized edits. It does not reopen finished stories.
+
 ## Story craft defaults
 
 - Status: CANON
