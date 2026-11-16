@@ -1,0 +1,5 @@
+# Editorial notes
+
+**November 16, 2026.** The Codex promise keeper read the request before seeing a plot. The explicit elements are a spouse’s own marriage, a one-year contract, and a renewal negotiation now due. Their inferred pleasure is “hearing spouses use offers, conditions, and counters to say what another year together would cost or be worth.” The previous year's consequences should matter to the bargain, and the deadpan premise allows wit, tenderness, comedy, or dread. Legal status, identities, and outcome are open.
+
+The authenticated Claude subscription returned a usage-limit error on the request-only reading. A separate Codex outline reader took that seat and gave an independent request-only account: “I’d miss the premise’s bite if the couple could make all the same choices without the renewal coming due.” The reader expects an ask, a response, and the possibility of changing terms or walking away. They take the focal scale to be intimate, with room for wider consequences and no prescribed tone or outcome.
