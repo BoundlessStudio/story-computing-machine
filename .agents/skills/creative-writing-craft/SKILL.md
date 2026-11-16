@@ -10,6 +10,8 @@ model-invocable: true
 
 Craft references for prose, scenes, style, voice, and genre. They help a writer or reader solve a specific problem; they are not a production process.
 
+In this repository, start from `story-create/references/craft-standard.md`, which sets the bar and names the collection's habits, and `story-create/references/story-development.md` for planning. The resources here go deeper on particular techniques.
+
 Load only the resource needed for the task:
 
 - `resources/prose-writing.md` — psychic distance, free indirect discourse, rhythm, sensory grounding, interiority, POV.

@@ -274,6 +274,100 @@ inside a functioning exchange is not automatically a defect.
 
 ---
 
+### State D7: Uniform Economy
+
+**Symptoms:** Every line makes sense and nothing is wasted, yet the whole cast
+speaks in the same short, dry, well-judged sentences. More than half of all turns run five
+words or fewer, and often nobody speaks forty words together. Turns alternate
+strictly. A speaker echoes one word of the previous
+line as a question, and scenes close on a neat understated reply. This is the
+most common state in this repository's finished stories, and it usually follows
+from applying the other states' cures (cut, compress, imply) to everyone equally.
+
+**Key Questions:**
+- Does anyone in the story talk for a whole paragraph? Who would, in life?
+- Who is the talker, the mumbler, the one who answers a different question?
+- If the prompt quotes a character, do they still sound like that line in the
+  hardest scene?
+- Is brevity this character's nature, or the author's habit?
+
+**Diagnostic Checklist:**
+- [ ] Turn lengths vary widely within a scene
+- [ ] At least one principal's speech has a recognizable source: trade, region,
+  reading, age, temperament
+- [ ] Not every exchange ends on its sharpest line
+- [ ] A reference character keeps the voice their prompt or source established
+
+**Interventions:**
+- Decide each principal's manner of speaking before the scene, including how
+  much they say
+- Give the person with the most to sell, confess, or avoid a long turn and let
+  the listener's short reply land against it
+- Replace an echoed-word question with what this listener would actually ask
+- Let warmth, digression, and saying the wrong thing back in
+
+### State D8: Author's Knowledge
+
+**Symptoms:** Each line is well made, and the exchange can only be followed by
+someone who has read the outline. A speaker opens on "he", "it", "that", or a
+bare question with nothing behind it, and the listener answers correctly anyway.
+An account of past events is cut to three or four cryptic lines. The narration
+then explains what a line meant. Model readers rarely report this state, because
+they resolve the missing reference without noticing they have done so.
+
+**Key Questions:**
+- For each pronoun or bare question, which words or established observations
+  make its meaning recoverable when it is spoken?
+- Could the listener have given that reply from the current line and prior
+  context, including shared history and ordinary inference?
+- Read an account as speech alone: could a stranger repeat back what happened?
+- Was this line added to close a gap a reviewer found?
+
+**Diagnostic Checklist:**
+- [ ] References are recoverable from prior context or the current line, or the
+  scene registers the listener's confusion
+- [ ] New names and facts can be introduced by the line itself
+- [ ] Each reply's knowledge or inference has a basis available to the listener
+- [ ] An account runs long enough, and in enough order, to be retold
+- [ ] Narration adds a response or perspective without having to decode speech
+  the listener has already understood
+
+**Interventions:**
+- Name the person or thing when cryptic fragments merely delay the account
+- Rewrite the reply from the listener's knowledge; let them get it wrong
+- Give an account room, in the teller's idiom, or move it out of the scene
+- Take a reviewer's missing fact out of the dialogue and restage the moment
+
+### State D9: The Conversation Not Had
+
+**Symptoms:** The exchange the story has been building toward is interrupted by a
+dash, closed with "I know" or "Yes", or replaced by a sentence reporting that
+someone did not or could not answer. Two people on the same side trade facts and
+agree. The effect is offered as restraint, but nothing has been said for the
+silence to hold back.
+
+**Key Questions:**
+- What do these two have to say to each other before the story can end? Is it on
+  the page, aloud?
+- What does each want from the other in this scene, even as allies?
+- If the speaker were not allowed to say "I know", what would they say?
+
+**Diagnostic Checklist:**
+- [ ] The exchange delivers the conversation the premise and relationship set up
+- [ ] A cut-off line or silence carries an understood response or a deliberate
+  refusal with a consequence
+- [ ] Allies have individual wants and attention, including when they agree
+- [ ] An acknowledgement that ends an important exchange carries enough meaning
+  for the listener and reader at that moment
+
+**Interventions:**
+- Write the line the dash cut off, then decide whether the dash stays
+- Replace "I know" with what this character has been waiting to say
+- Give each ally a want the other is not meeting
+- Move the owed conversation into the scene with the most room
+
+---
+
 ## Anti-Patterns
 
 ### The Exposition Dump
@@ -381,9 +475,11 @@ charitable metaphor, to state what each participant could understand.
 ### 2. Identify the Layer
 
 Which layer is failing?
-- **Ground:** Broken action-language fit, knowledge, reference, uptake, or reply causality
-- **Text:** Undifferentiated voices, wooden delivery
-- **Subtext:** On-the-nose where the moment creates a reason for indirection
+- **Ground:** Broken action-language fit, knowledge, reference, uptake, or reply causality;
+  lines that depend on the author's knowledge (D8)
+- **Text:** Undifferentiated voices, wooden delivery, uniform economy (D7)
+- **Subtext:** On-the-nose where the moment creates a reason for indirection; or
+  nothing said for the silence to hold back (D9)
 - **Context:** Unclear power dynamics, missing history
 
 ### 3. Apply the Purpose Test

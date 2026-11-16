@@ -28,7 +28,7 @@ Prose style operates at multiple levels simultaneously:
 - **Paragraph flow** (rhythm)
 - **Voice** (the writer's distinctive presence)
 
-**The fundamental principle:** Vigorous writing is concise. Every word earns its place.
+**The fundamental principle:** Every word earns its place. Concision is not the same as shortness: a long sentence in which every clause works is concise, and a page of uniformly brief sentences can be thin.
 
 ---
 
@@ -200,6 +200,35 @@ Prose style operates at multiple levels simultaneously:
 
 ---
 
+### State P7: Staccato Default
+
+**Symptoms:** Clean, concrete, economical sentences that are nearly all short.
+Paragraphs of one line. Emotional peaks rendered in fewer words than the
+approach to them. Little interior life, few senses besides sight. Each sentence
+passes inspection; the page reads like a summary of a story. Across this
+repository's finished stories, narration averages under ten words a sentence
+and only about three sentences in a hundred reach twenty-five. Treat this as the likeliest state of any
+new draft here. It is P4 reached by obeying "omit needless words" everywhere.
+
+**Key Questions:**
+- Where does a sentence carry the reader through a whole movement of thought or
+  action without stopping?
+- Does the prose slow down and move closer at the moment that matters most?
+- What does the viewpoint character think, want, and misjudge on this page?
+- Is a short sentence here an emphasis, or just the default?
+
+**Interventions:**
+- Combine a run of short declaratives into one sentence that shows how the
+  observations relate
+- Build paragraphs that develop: notice, complicate, turn
+- Give the peak scene more room and more interiority than any other
+- Keep the short sentence for the place where something stops
+
+See `story-create/references/craft-standard.md` for the full standard and
+`story-create/scripts/prose_profile.py` to measure a draft.
+
+---
+
 ## The Strunk & White Principles
 
 From *The Elements of Style*, foundational guidance:
@@ -331,6 +360,7 @@ When a writer presents prose problems:
 - Does everything sound the same? → P4 (Monotonous)
 - Does it feel weak/indirect? → P5 (Passive Overuse)
 - Does the voice shift randomly? → P6 (Inconsistent Voice)
+- Is it clean but all one clipped speed? → P7 (Staccato Default)
 
 ### 2. Apply the Read-Aloud Test
 
