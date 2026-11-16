@@ -32,7 +32,7 @@ She crossed the hall and pulled him to his feet. He let her hold him. That was t
 
 He glanced at the axe on her back, then at the black bands round her arms. She had gone away to learn a trade. He had seen her once in the first year, with a bruised face and a bowl of stew she could not hold because her hands shook. He had called her a fool. She had not come again.
 
-"You still doing that?" he asked.
+"You still earn your keep with that?" he asked.
 
 "Well enough."
 

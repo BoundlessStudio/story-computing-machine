@@ -204,7 +204,7 @@ He was looking at Vane.
 
 He glanced at the roof behind me.
 
-“Back there.”
+“The station roof.”
 
 We were below the station roof now. I couldn't get us up there. I could barely go forward. For one stupid moment I thought of how annoyed the examiner would be with me for having to explain that.
 

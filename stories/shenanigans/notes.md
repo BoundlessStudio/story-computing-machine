@@ -41,3 +41,7 @@ The writer made Parget's established hat slip as he rises, then kept him turned 
 ## Art and final rating
 
 The finished prose guided the cover, Hobnob's multi-view sheet and the reviewing-ring painting, generated with the built-in imagegen tool using inspected collection oil-painting references. The goat sheet supplies the cover's consistent grey coat, cream beard, crooked left horn and irregular patch. The cover combines his stubborn attention with Nico's torn crowned-turnip costume and the wagon's promise of shelter; it invites the caper without illustrating the whole rescue. Actual saved pixels were inspected for identity, anatomy, readable labels/title and specified clothing. The location's selected correction restores the blue leaves described in the prose and makes the gate-to-tailboard route easier to read; its original remains beside it. Prompts, selection and visual interpretations are in `art/selection-notes.json`. After final prose and cover inspection, General was assigned for mild intimidation, goat confiscation, slapstick physical action and a brief chase without graphic injury. The art and rating add no shared canon.
+
+## 2026-11-16 dialogue edit
+
+A reader recognized Tansy's half-loaf joke as a reference to the failed banquet. Her brisk order to ask questions cuts across the narrator's temptation to try magic again.

@@ -178,7 +178,7 @@ He spoke without looking at me. He had both feet planted firmly now. I remembere
 
 Talven gathered the loose cloth around Biri's legs. His left hand shook too much to tuck it in. I did it for him.
 
-“Can you wait?” I asked.
+“Can you hold it here a little longer?” I asked.
 
 He looked at the doubled loop.
 

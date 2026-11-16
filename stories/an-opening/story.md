@@ -274,7 +274,7 @@ Harn nodded. She laid its long haft across two chairs. Vorrick set his book well
 
 Laureth crouched beside him. "They're going to hear you rattling in that."
 
-"Who?"
+"It hardly makes a sound."
 
 She tapped his breastplate.
 

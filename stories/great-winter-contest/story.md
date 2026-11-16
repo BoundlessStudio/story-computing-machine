@@ -274,7 +274,7 @@ Rilka stood on the saddle, which was a foolish thing to do with two shaking knee
 
 Torren slid off his stag. Without his touch, it sank a little at the knees and stood still.
 
-"You came straight down," he said.
+"You took every drop headfirst," he said.
 
 "I noticed."
 

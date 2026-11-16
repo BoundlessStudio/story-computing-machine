@@ -208,7 +208,7 @@ The man laughed with him. The shrouded thing in the coffin said, “Move them on
 
 “I saw your shoe,” Oswin told the coffin.
 
-“Keeps you looking this way.”
+“You're meant to. Keeps you looking at me.”
 
 Len raised the clacker in a small salute.
 

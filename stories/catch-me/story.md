@@ -220,7 +220,7 @@ Nika had watched Alma's little knot outlast a bag handle. The knot would hold. T
 
 Alma was already feeding out cord.
 
-"Mavis, go. Tell me when you're there."
+"Mavis, get below me. Tell me when you're there."
 
 Mavis looked from the knot to Nika. She had been speaking in her ordinary voice, small and practical and high. Now she said, "Don't move until I tell you," and something in it reached all the way down to the pavement.
 

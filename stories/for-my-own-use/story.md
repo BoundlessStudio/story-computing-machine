@@ -66,7 +66,7 @@ The bot's answer began, *Absolutely. We can simplify this.*
 
 Neri reported the exposure and the copied material. A box thanked her for helping improve the experience. She put her grimoire in her bag and called the woman who had once spent most of a night getting her out of page forty-one.
 
-“It got copied,” she said. “People are doing it.”
+“My book got copied,” she said. “They're using the hold you got me out of.”
 
 Her former teacher asked where, and which version, and whether Neri was alone. She did not ask why Neri had put it on a website. That made Neri briefly, horribly close to crying.
 

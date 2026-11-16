@@ -41,3 +41,7 @@ Both fresh readers then reread the complete current story after the actual local
 ## 2026-10-04 — Art and final rating
 
 The built-in image generator used the inspected Apple Orchard Hillside painting for brushwork. The initial cover appeared to seat Fenna in the dog’s cart; a selected correction puts her on the path in blouse/skirt with the blue coat rolled inside beside cushion and blanket. Its integrated title is legible once. The accepted cover guided Crumb’s sheet: multiple full-body angles, contact and sniffing poses, and expression studies with readable character/story labels and consistent identity. The lane’s original and selected nettle-detail correction are both preserved, with selection and full prompts in `art/selection-notes.json`. Final saved art was inspected for story fidelity, anatomy, consistency, text and mood; format normalization supplies the required 864×1536 JPEG and 1536×1024 WebP without painting text afterward. The finished prose and selected cover were then classified General, with school disappointment, an older dog’s mobility and comic spoiled-food disgust noted. No prose or cover changed after that rating.
+
+## 2026-11-16 dialogue edit
+
+A reader could follow how Hasp keeps the bond open while Fenna lets her side go quiet. Naming Crumb lets his brief reaching and later turn toward the wastebasket answer the test.
