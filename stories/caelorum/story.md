@@ -158,7 +158,7 @@ Hadran wanted to come with her. Then a carpenter arrived to say that the lowest 
 
 She showed him the little survey bell on her belt. He took it off her and tied it to a cord leading back through the gap.
 
-“You will not be where we can hear that.”
+“Leave the bell with us. Take the end of the cord.”
 
 He held the lamp while she squeezed between the stones. Her coat caught. For an instant she was wedged with her arms in darkness and her cheek against the moving city. Then she pulled free, leaving a scrap of green wool on the rough edge.
 
