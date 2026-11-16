@@ -46,7 +46,7 @@ It sounded worse aloud. "To ask. You don't have to."
 
 I opened the portfolio at the first page, a charcoal head of a woman with a wide jaw and a knowing tilt to her mouth. The sitter had chosen the tilt. The pale-haired woman studied the paper without touching it. I turned two more pages: a stern baker, a girl holding her own ears back so I could draw them. She laughed at that one.
 
-"She asked for that," I said.
+"It was her idea to hold them back," I said.
 
 "I believe you. Can you make me look like me?"
 

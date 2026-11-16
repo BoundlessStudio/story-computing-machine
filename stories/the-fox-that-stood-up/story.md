@@ -46,7 +46,7 @@ A blue hand reached down. Two fingers touched the inside of my wrist, without we
 
 I ducked to see beneath it. A woman's shoe stuck out from under a collapsed folding table. One of its braces had locked across her boot, and the far corner of her stall was under the sign's waiting edge. The place I had told Mica to drop it was not empty.
 
-"There's someone here," I called to the cook. He started toward us with the boy still holding his apron. "Take him away from the lane."
+"There's someone here," I called to the cook. He started toward us with the boy still holding his apron. "Take the boy back to your counter."
 
 The woman beneath the table turned her face toward my voice. "I can't get my leg out."
 

@@ -72,7 +72,7 @@ Maren looked at her. “You think the book tells you whether there's a God?”
 
 “No.”
 
-“Neither do I.”
+“A book can't tell me that either.”
 
 On the wall a red pin of light appeared. It passed yesterday's mark and kept moving. Sera felt her body answer before her mind did: shoulders drawing in, breath shortened. The Eye had passed over this room hundreds of times. Stone still held. Fear did not become smaller through repetition.
 

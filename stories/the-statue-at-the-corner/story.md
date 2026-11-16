@@ -302,7 +302,7 @@ The statue looked toward the square, where her sister's voice rose through the n
 
 Iona considered the doorway. She would have to get out of it eventually. Across the street a woman was unlocking a bicycle, and soon there would be nothing between the doorway and the statue but pavement.
 
-“What if I have to get back?” she said. “I hide, and then I have to come and touch you. If you see me first, you call my name.”
+“What if I have to get back to you?” she said. “I hide, and then I have to come and touch you. If you see me first, you call my name.”
 
 “Iona.”
 

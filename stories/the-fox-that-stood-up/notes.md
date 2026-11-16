@@ -17,3 +17,7 @@ In final discussion, the Codex reader accepted the cook/counter ambiguity as a r
 Ready for review: the narrator's life is plainly threatened, the lifelong small light fox becomes the supplied reference's dark-faced, star-eyed, blue-and-rose personlike form, and Mica's psychic hold matters to both the rescue and their relationship. The augments affect who can witness Mica; the future market has lived texture. The sign, people, bird, and brace remain in consistent places through the action. “Mica” has no conflicting entry in the checked shared name/universe files. The story introduces no shared-universe fact or canon status. The selected 864×1536 cover was inspected at final size: the exact title appears once, the standing fox and hands are coherent, and its eyes, ears, colors and tails answer [Image #1].
 
 Cover correction: the user liked Mica's flowing robe but found the ordinary pants wrong. A revised cover keeps the robe's sleeves and replaces the belt, trousers, and shoes with one long starry robe. The selected JPEG was inspected at 864×1536: the title remains legible once, and Mica's ears, eyes, hands, tails, and market setting remain clear. The superseded cover stays in Git history; rejected generated candidates remain outside the story package.
+
+## 2026-11-16 dialogue edit
+
+A reader followed the cook and boy back to the counter, the same place the narrator brings the woman. Mica keeps the weight above them while the narrator goes in.

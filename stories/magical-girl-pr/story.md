@@ -240,7 +240,7 @@ He sneezed into the flowers. The guests at the counter backed into one another. 
 
 I had brought it outside. I tucked the clipboard and comb under my arm and picked up the board beneath what remained. There was nobody at the far end of the square.
 
-"Pearl, clear the doorway. Fanfare, cloth. Petal, stay where you can see me."
+"Pearl, clear the doorway. Fanfare, get Mr. Bell's cloth. Petal, stay where you can see me."
 
 I carried the cake toward the empty end of the square. The sugarwing followed, leaving the photographer to wipe his cheek with his own sleeve. Mr. Bell tried to intercept it with his cloth, but it climbed beyond his reach.
 

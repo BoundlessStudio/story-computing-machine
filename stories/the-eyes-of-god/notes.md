@@ -43,3 +43,7 @@ The first Sera image was a scene portrait, not the character sheet format used b
 ## Character-sheet style correction — 2026-10-30
 
 Repainted the existing Sera sheet in place after the user identified its style mismatch in a gallery screenshot. Onyx at the Cove and Sena and Button guide softer facial modelling and flowing hair; Apple Orchard Hillside guides the oil-brush rhythm. The accepted sheet has a plain white ground, the same front/profile/back clothing and identity, two head studies, and separate basket, pocket-watch and charcoal details. Inspected the final saved pixels against the prose and accepted portrait for consistent identity, coherent hands, readable labels and the same props. The standalone Sera portrait remains its own illustration. No stronger content was added; the finished prose, selected cover and Teen rating still apply.
+
+## 2026-11-16 dialogue edit
+
+A reader heard Maren distinguish what the book can tell them about the satellite from the question of God. The exchange leaves her free to press Sera about why she withheld what she knew.

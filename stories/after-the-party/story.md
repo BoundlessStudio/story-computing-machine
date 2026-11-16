@@ -50,7 +50,7 @@ She slid a second memory crystal into the viewing glass.
 
 A chamber of red stone appeared. An adventurer held a trophy horn up to the lens, grinning. The party departed. When the last torch vanished, the chamber's inhabitants came from cracks too small for the adventurers to have noticed. They bound a wounded one's leg with strips torn from their own bedding. A third recording, which Irel had watched that morning, showed people at the foot of a stair carrying smaller bodies away from a collapsed barricade. They were not the same kind of people as those in the Hall of Teeth. Irel could not tell what any of them called themselves.
 
-"How many?" Harrow asked.
+"How many show people left behind?" Harrow asked.
 
 "Five recordings show survivors. Four are from rooms we reported as cleared. Four show people who never held a weapon on the recording."
 

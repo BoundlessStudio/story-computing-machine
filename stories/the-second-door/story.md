@@ -298,7 +298,7 @@ Sahar rubbed the last trace of glue off her fingers.
 
 “No.”
 
-“I use the side door. Blue when I'm out in the wing; two knocks when I'm back inside. Let go, then.”
+“I use the side door. Blue when I'm out in the wing. I'll knock twice when I'm back inside. That's when you let go of the handle.”
 
 He tried the handle. The repaired hinge made no sound.
 

@@ -254,7 +254,7 @@ Nobody said anything until we had landed in the garden. Grandma dismounted, lean
 
 “It was the only rule I knew until I read the booklet.”
 
-“Then they ought to tell people why it was there.”
+“Then the booklet ought to say why we gave way going up.”
 
 Hesta took out her pencil again.
 

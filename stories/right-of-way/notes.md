@@ -15,3 +15,7 @@ The writer agreed: “The original sentence gives licensing credit for an obliga
 Readiness: the argument has a demonstrated cause, the elders keep their skill and substantive objections, and cake and formation enact the narrator's return. The exact prompt is fulfilled. Maud Flax, Hesta Flax, and Minta Rose Flax were checked for confusing reuse. The unnamed magic-active modern setting adds no shared canon; living riders supply broom power. Practice precedes Friday's requirement, Thursday testing uses another examiner, and Sunday follows licensing. No material objection remains. Modest stakes and the restrained ending are deliberate.
 
 Art and rating: Maud's multi-view sheet anchors her identity; the selected cover corrects her signal to the left arm and puts the cake bag on the narrator. The original ridge painting is preserved beside its selected correction, which moves high procession-like silhouettes into ordinary traffic over the market and clock tower. The coordinator inspected all four saved images, including readable labels/title, consistent identity, and coherent brooms. Exact built-in imagegen prompts and provenance are in `art/selection-notes.json`. Finished prose and selected cover are General for gentle family conflict and controlled fantasy flight; specific notes are in `ratings.md`.
+
+## 2026-11-16 dialogue edit
+
+A reader heard Grandma ask for the reason behind the climbing custom, which she gave at the crossing. Her complaint still follows from the two riders having different rules in mind.

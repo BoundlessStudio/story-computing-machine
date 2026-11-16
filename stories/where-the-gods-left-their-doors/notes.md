@@ -96,3 +96,7 @@ At the user's request, the coordinator audited the whole story against the saved
 ## 2026-09-29 — plate count correction
 
 The user correctly identified a mismatch the prior cover review had missed: the story lays nine divine places and a tenth, human place, while the shown image had only seven divine plates. The previous decision to treat missing plates as selective framing was mistaken for a fully visible table. The selected cover now shows nine individually countable pale plates along the far curve and one distinct plate at the near human place. The coordinator counted those ten in the saved 864×1536 JPEG and checked the whole hall passage against it: nine marked seats and matching closed doors, centered round table, cosmic sky through high arches, no banners or people. The side hearth and mortal benches are outside the image's chosen view. No prose change was needed. The AO3 review of the finished prose and corrected cover remains General; the ten empty settings add no new intensity or content note.
+
+## 2026-11-16 dialogue edit
+
+A reader followed the worker from the temple-side arrival and soot to the question about how many people there are. Talia can name the size of the group and say what it needs.
