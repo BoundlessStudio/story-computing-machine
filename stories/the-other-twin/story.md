@@ -298,7 +298,7 @@ At the sink in February, my sister set down the tweezers beside my razor.
 
 “Hold still,” she said.
 
-“You’ve got one.”
+“One above your lip.”
 
 I leaned our weight toward the mirror while she plucked the dark hair above her lip. Her eyes watered.
 

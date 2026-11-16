@@ -362,7 +362,7 @@ For thirteen years the choice had been onward. Thirteen heartbeats, one offered 
 
 I raised Calo’s hand halfway. He allowed that much, then stopped.
 
-“May I?” I asked aloud.
+“May I take your hand?” I asked aloud.
 
 Nivra looked at our suspended hand. “Observation. No movement.”
 

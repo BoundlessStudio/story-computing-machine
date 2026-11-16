@@ -396,7 +396,7 @@ I looked. It was dry, human-sized, and completely open on one side.
 
 I looked at my left hand, cut before the rope ever burned it. The edge of a copper arm band would open a palm like that, if someone held on to it hard enough.
 
-“In the basin,” I said. “How many times did I ask you?”
+“In the basin,” I said. “How many times did I tell you not to drop me?”
 
 “I stopped counting on the climb,” she said. “By then you had no breath for it. You held on to my arm band until the ledge.”
 

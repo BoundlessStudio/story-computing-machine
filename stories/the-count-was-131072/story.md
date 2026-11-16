@@ -32,7 +32,7 @@ The curator entered something on the tablet. “May I record that?”
 
 “You just heard it.”
 
-“For the engineers.”
+“So the engineers can hear it too.”
 
 The guide at your chest began again because you had remained inside the entry beacon. “Sol-steece Evening Bell—”
 

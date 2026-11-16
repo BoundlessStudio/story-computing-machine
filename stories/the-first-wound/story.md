@@ -402,7 +402,7 @@ She waited until he looked at her.
 
 She turned the slate upright but did not switch it on. “Do you want the earlier room audio kept?”
 
-He considered the little black square. “Keep the tram. Take out both places where I said the years.”
+He considered the little black square. “Keep the tram account. Cut both times I gave you the years.”
 
 “Done.”
 

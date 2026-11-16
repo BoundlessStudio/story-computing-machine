@@ -280,7 +280,7 @@ Nimelza gathered her papers and the half-roll. "The registrar needs an answer. T
 
 "You are not crossing."
 
-"I heard you the first time."
+"I heard you. I can answer from this side."
 
 She walked out carrying the small case she had packed before asking permission.
 

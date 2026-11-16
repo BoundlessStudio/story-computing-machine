@@ -376,7 +376,7 @@ She shoved him off and sat against the wall until the corridor stopped leaning.
 
 The lieutenant came up beside her. His hand was still clamped to his side.
 
-“You good?” he asked.
+“You still with me?” he asked.
 
 Elspeth looked at him.
 

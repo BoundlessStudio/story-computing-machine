@@ -304,7 +304,7 @@ I righted it. We waited.
 
 Rain drummed over the roof until speech would have been work. A thin stream appeared along the far rafter and dropped into the basin. The patched lath darkened at one nail, then stopped. Beneath it, the cutting bench stayed dry. So did the boots, the remaining hide, and the shelves of finished shoes.
 
-The slater touched his bound knee. "That corner needs proper lath. Not me today."
+The slater touched his bound knee. "That corner needs proper lath. The patch is as far as I go."
 
 "I know."
 

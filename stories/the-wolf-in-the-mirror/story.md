@@ -292,7 +292,7 @@ I gave them my bottle. They drank half, sat on the outer threshold, and looked t
 
 "You tested the gate once. The first tone oriented you. You found water without help."
 
-"You're arranging the facts."
+"You're leading with the good news."
 
 "I'm giving them in order."
 
