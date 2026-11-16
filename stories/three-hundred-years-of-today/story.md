@@ -16,7 +16,7 @@ I keep my left hand on the stick and open my right. The gust comes up under the 
 
 I want her looking for the landing field beyond the ridge. It gives her something to do while I take us down the face, and it keeps her from taking the stick when she sees my hands. Both of them are shaking now. I put the pad of my thumb under the button on the stick. Bet taught me that on a morning when we had nearly an hour to spare. You can do an astonishing amount of shaking without moving the stick if you have your thumb there.
 
-Our shadow comes out of the cloud onto the first of the Nine Tines. I could draw it with my eyes shut, right down to the pleat where the cliff breaks in two. In most of the versions where I get as far as seeing it, I’m overhead looking down. Today I push the nose over while there’s still a way to get around that first long point of rock. Looking ahead, I find a whole slab of daylight where I’ve never put a wing. Then the shadow starts to climb, faster than we’re going down. Somewhere off to my right the captain scuffs a heel against the floor. I can taste my own teeth.
+Our shadow comes out of the cloud onto the first of the Nine Tines. I could draw it with my eyes shut, right down to the pleat where the cliff breaks in two. In most of the versions where I get as far as seeing it, I’m overhead looking down. Today I push the nose over and get us around the white knuckle of rock low on the face. Looking ahead, I find a whole slab of daylight where I’ve never put a wing. Then the shadow starts to climb, faster than we’re going down. Somewhere off to my right the captain scuffs a heel against the floor. I can taste my own teeth.
 
 “Kitt. I’m going to need you to level off.”
 
@@ -36,7 +36,7 @@ We’re high enough at this hour to see the frost on both wings. The smell of we
 
 “Captain’s pencil,” he says. “She gives me one every flight and raises hell if I keep it. You’ll have to ask her what you’re allowed to do to the point.”
 
-The boy stops kicking me. He wants to see me sharpen the pencil with my thumbnail, which is a cheap little thing I do at shows. I turn over my breakfast ticket and draw the cleft between the first two Tines. I thought there was a hole in the air by the first Tine even when I was up well above it. A great black ribbon of cloud would drop into the hole and vanish, except for a few wisps that rose sticky and fast on the other side. I spent a great deal of time back when I thought it was a small hole trying to fly right through it. What I have on the back of the ticket now is a long pocket of air running so close to the rock you can barely draw a line to separate them. The red cloth had gone up with its ragged end coming after it. I draw a mark where it rose, then a line from the point far outside the cleft where I can get the nose down early.
+The boy stops kicking me. He wants to see me sharpen the pencil with my thumbnail, which is a cheap little thing I do at shows. I turn over my breakfast ticket and draw the cleft between the first two Tines. The white knuckle is so much in the way from above that I draw it bigger than it really is. I put in the shelf that sticks out from the right wall of the cleft. Just beyond it I mark where the cloth went up, close against the rock. I stop with the pencil point on the ticket to make sure of what I saw. Even the ragged end had gone up.
 
 The boy comes around the seat to see. His orange is in his fist with the peel standing out in one piece. On one of the good mornings I taught him how to get it off without breaking it, and he has done just as well without me.
 
@@ -50,11 +50,11 @@ He walks up the aisle with his right shoulder to the wall, touching the backs of
 
 The left seat has a cushion in fine red leather where I’m supposed to sit for the pictures. Bet’s cushion has a slit up the side with a ragged seam that she picks with her thumb. By the time the boy goes back she’s worked a little blue loop loose. She puts the pencil behind her ear.
 
-“Your man wants a picture of both of us when the sun comes in,” she says. “He’s welcome to it, provided you do your turn while there’s light and give me the aircraft back when I ask for her. People will think we nearly tipped over if you let your elbows go loose and grin at the camera. That should be all you need.”
+“Your man wants his picture of the clairvoyant at the controls,” she says. “When the sun comes in, have him stand where the boy was. People will think we nearly tipped over if you let your elbows go loose and grin at the camera. Give me the aircraft back when I ask for her and we’ll get along fine.”
 
-I lay the ticket on my knee and point to the narrow part between the Tines. “Would you give me the pencil again? I’ve got a line through this cleft, and there’s a ledge I’ll need you to see from your side.”
+I lay the ticket on my knee and point to the narrow part between the Tines. “Would you give me the pencil again? I want to show you a way into this cleft. There’s a shelf I’ll need you to see from your side.”
 
-She hands me the pencil with the tip toward herself, something she does with children and people she considers incompetent with a sharp thing. I spread the ticket on my leg. The pencil needs a fine point for the tight space between the ledge and the line I’ve drawn. I come to the end of a tune without remembering the start of it. “Dolly has the bedroom, we sleep on the stair.”
+She hands me the pencil with the tip toward herself, something she does with children and people she considers incompetent with a sharp thing. I spread the ticket on my leg. I need a fine point to get the line through the gap beside the shelf. I come to the end of a tune without remembering the start of it. “Dolly has the bedroom, we sleep on the stair.”
 
 Bet’s hand goes down flat on my ticket. “Where did you hear that?”
 
@@ -62,9 +62,9 @@ Bet’s hand goes down flat on my ticket. “Where did you hear that?”
 
 “The apple tree’s in the first verse. I made up the line about Dolly. I was six, and my mother had brought her pony into the house in a storm.”
 
-I know the next line. The pony ate the ribbons they put out to dry. Something round with a hole in it was what my family used to sing. I can still get pretty close to the feeling of my mother’s hands going under my ribs to pick me up high enough to see what she was doing at the stove. If she said anything while she had me up there it’s lost as soon as I try to get near it. The only words I can find are Bet’s, and I can hear Bet stumbling a little where she has to get the pony’s name in. I’ve surprised her by joining in before. Now she holds my ticket hard enough that the paper is starting to tear on the bend in my knee.
+I know the next line. The pony ate the ribbons they put out to dry. My mother had words of her own for that verse, about something round with a hole in it. I can still get pretty close to the feeling of her hands going under my ribs to pick me up high enough to see what she was doing at the stove. If she sang anything while she had me up there it’s lost as soon as I try to get near it. The only words I can find are Bet’s, and I can hear Bet stumbling a little where she has to get the pony’s name in. I’ve surprised her by joining in before. Now she holds my ticket hard enough that the paper is starting to tear on the bend in my knee.
 
-“If he put that on his list of things for you to find out, you can give the man with the camera his film and go and sit down. I’ll still let him have his picture. I don’t want you touching the stick.”
+“If he put that on his list of things for you to find out, the man with the camera can still have his picture of us sitting here. I don’t want you touching the stick.”
 
 “He has nothing to do with it.”
 
@@ -74,7 +74,7 @@ I pull the ticket out from under her hand. I’d have her good and cheered up by
 
 “My super power isn’t actually clairvoyance. I don’t see the future, I live it. Whenever I die I can Groundhog Day and wake up the previous morning in a time loop.”
 
-She lifts her hand off my knee. “Why are you telling me this now?”
+She takes her hand off my knee and puts it back on the stick with the other one. “Why are you telling me this now?”
 
 “Because I’ve been stuck on today for three hundred years!” I have to put the pencil down. I’ve been trying to get it back in her hand as if that’s an apology. “I have something new I want you to see. I can get us into that cleft. If I tell you I’ve seen us come out, you might let me take us the whole way in and do everything I say until I get us killed again. I need you to know where I’ve been and how much of it I still have to guess.”
 
@@ -94,35 +94,39 @@ She drives the loose loop of blue thread into the cushion with the pencil point.
 
 “You’re sitting with me now, Sayer. What did you come up here to ask me?”
 
-I set the ticket flat where we can both see it. “Get us through a bit of weather you’ve never been in. I’ve got an approach in here from all the times I’ve been down a piece of it. When I get the nose into the cleft, I want you to look over the wing on your side and tell me when we’re past this shelf.”
+I set the ticket flat where we can both see it. She gives me the pencil. I put it on the lump I drew too big. “I’m going to go down while I’m still a long way out from the knuckle. I can be lined up for the cleft by the time we get around it.” I run the pencil in from the edge of the ticket, past the knuckle and into the cleft. I stop it beside the shelf. “I can see the way ahead. I want you to look down over the wing on your side and tell me when we’ve passed this.”
 
 She puts her thumb on the bit of rock I’ve drawn sticking out beside the wing. “Have we been this close to it? Were you flying then, or was I?”
 
-“I had the stick. Once I was looking straight past the end of the stone. The noise stopped in this window. I banked right, and it brought the wing down hard on a piece of rock that was still beside us. Other times we didn’t even get that far. But the last time I got in further down the face. I saw a piece of our wing go straight up beside the rock while we were falling. There’s air rising there. I think it’ll take the weight of the aircraft if I can get to it before we lose too much more height.”
+“I had the stick. Once I was looking straight past the end of the stone. The noise stopped in this window. I banked right, and the wing came down hard on the shelf that was still beside us. Last time I went down as far as I could while there was still a way around the knuckle. I only saw this much of the cleft.” I set the pencil point in the cross I’ve drawn. “A piece of our wing went straight up beside the rock while we were falling. There’s air rising there. I think it’ll take the weight of the aircraft if we can get into it high enough.”
 
 “While you were looking up at that piece of wing,” she says, “what was I doing?”
 
 “You were telling me to level off. I was so glad to see the cloth that I went on looking. When I turned to you I could see your mouth going again, right where I could hear you if I’d had a little more time, and everything went into the side of the hill.”
 
-She shifts herself up in her seat until the belt lies flat. “I’m going to ask you to sit there for a bit. Go slow with me. I can follow one thing at a time. You’ll fly between the walls until I can see the whole shelf behind the right wing. Then I have to tell you to turn before we sink out of the cleft.” She slides the ticket toward herself. “Can you keep her level that long? Look at how close you’ve drawn this.”
+She shifts herself up in her seat until the belt lies flat. “I’m going to ask you to sit there for a bit. Go slow with me. I can follow one thing at a time. You’ll fly between the walls until I can see the whole shelf behind the right wing. Then I have to tell you to turn before we sink out of the cleft.” She slides the ticket toward herself and takes back the pencil. “Can you keep her level that long? Look at how close you’ve drawn this.”
 
-“I can give you longer than I had the last time. I’ll start down out here where I have some air under me. I’d like something from you when the shelf passes. Just say clear. I can hear that through a good deal of noise.”
+“I can give you longer than I had the last time. I’d like something from you when the shelf passes. Just say clear. I can hear that through a good deal of noise.”
 
-Her eyes go to the front. From here the bad air starts with a dent in the cloud across the width of a field. There are strands of it falling off the ridge and through the bottom of the dent. We are going in high enough to see it drop for another thousand feet. When I fly the stunt in good light, I raise one hand to an audience who usually have no idea whether I am greeting them or asking divine assistance. Today I keep both hands in my lap until Bet lifts hers off the stick.
+She puts the pencil behind her ear and looks out the front. From here the bad air starts with a dent in the cloud across the width of a field. There are strands of it falling off the ridge and through the bottom of the dent. She can see all the way down where they go.
 
-The glider goes slack on my side first. There’s a hiccup in the floor where the weight drops away. I’m ready for the fall and for the little shove in the opposite direction after it. People usually shout here. I let the nose go down the little bit it wants and the wings come level in time for the boy behind me to ask at full volume if that was the trick. The wood and cloth go on making their big airy racket, and otherwise the boy has the cabin to himself. Bet comes forward far enough that I can feel her sleeve on my arm. The left window is whistling hard now.
+“We’ve got room up here,” she says. “Before I give you the descent, tell me what I’ll feel in the air between here and the rock.”
+
+“See the dent? The left side will fall when we go in. Then you’ll get a kick up under that same wing, quite a sharp one. I’ve flown that bit more often than I’ve done the stunt.” When I do the stunt in good light, I raise one hand to an audience who usually have no idea whether I am greeting them or asking divine assistance. Today I keep both hands in my lap.
+
+The glider goes slack on my side first. There’s a hiccup in the floor where the weight drops away. Bet’s fingers close on the stick. She looks out at the left wing and back at the space between her knees. “Take her, Kitt.” She lets go, and the kick comes up so hard that her fingertips strike the underside of the dash while I’m getting a hand around the stick. People usually shout here. I let the nose go down the little bit it wants and the wings come level in time for the boy behind me to ask at full volume if that was the trick. The wood and cloth go on making their big airy racket, and otherwise the boy has the cabin to himself. Bet comes forward far enough that I can feel her sleeve on my arm. The left window is whistling hard now.
 
 “I’d like him buckled in when we get down beside the rock,” she says. “Him and everybody else. I’m going to put the word down the aisle while you take us into the cleft.” She has one hand on her own belt. “Tell me before you start down. I want to feel it coming.”
 
 * * *
 
-The steward has to kneel down to help with the boy’s belt. The cabin is full of small sounds as people put away bottles and clean things off their laps. From the mark on my breakfast ticket that says go down, I have the whole ridge in front of me. There’s more daylight low down than anyone would look for. I’ve flown over it with a hundred wrong ideas about what it might be. From high enough and far enough back, I can see the lengths of bare stone where the clouds go by in pieces, and the single white knuckle that has been big enough to hide most of the cliff from most of the places I’ve gone looking. I can keep that knuckle out in front of me all the way down if I start here. It will put me in the cleft well above where I saw the cloth go up.
+The steward has to kneel down to help with the boy’s belt. The cabin is full of small sounds as people put away bottles and clean things off their laps. I have the white knuckle out in front of me with room enough to go down and get pointed at the opening. The last time I started down, it was already almost under my feet. I wait until the steward is buckled in at the front. He tucks his hands between his knees, in the way I used to when I rode out the descent in the back.
 
 “We’re going down now.”
 
 Bet puts her boots flat on the floor. The nose comes down farther than seems a decent thing to do with people sitting upright, and as the glider gathers speed my skin goes tight on the bones of my face. The rough air has shaken grit out of the seam around the window. I get some between my teeth. There’s a sound behind me of people moving all together. I can’t tell how frightened they are from the sound. I have a good deal of memory of what it’s like to sit back there and watch the front of the aircraft go down, but I have very little idea how I sounded any of the times I did it.
 
-The cleft comes out from behind the knuckle at last and I take us into it while I have the height. There are little bushes on the right face of the rock, moving in the wind and showing white underneath. For the length of the first one I have to think about Bet putting the pencil behind her ear in the morning and how close to the wingtip she’ll have to look. I can hear the window over on my side and the wind outside doing different things at once. A band the color of cream goes by the whole length of the windshield. Beyond it the cleft opens. I can see sky where the nose is pointed.
+The white knuckle slides up the windshield and the cleft opens beneath it. I have the nose pointed straight down the gap and take us in well above the place the cloth went up. There are little bushes on the right face of the rock, moving in the wind and showing white underneath. For the length of the first one I have to think about Bet putting the pencil behind her ear in the morning and how close to the wingtip she’ll have to look. I can hear the window over on my side and the wind outside doing different things at once. A band the color of cream goes by the whole length of the windshield. Beyond it I can see sky where the nose is pointed.
 
 The whistle in the window stops.
 
@@ -140,6 +144,6 @@ By the time I think to look at Bet, she’s upright again with both feet on the 
 
 “I’ll come down with you,” says Bet. “We can go down over the low fields and see where they’ve put the lights.”
 
-We have so much room once we’re over the ridge that we can fly as far as that. We can turn and see the whole green top of the Nine Tines shining brown along one side in the late light, from the first cleft to the long smooth end where the ground goes out beneath them like a coat spread out and left to dry. The landing is a long wet slap that brings everything in the cabin that’s been hanging on somewhere under a seat into the aisle. For a startling length of time we keep going after the wheels touch. I catch first one, then the other of Bet’s little breaths through her nose. When we stop she asks me to open the door. She wants the passengers in a line on the grass where she and I can see them from one end to the other.
+We have so much room once we’re over the ridge that we can fly as far as that. We can turn and see the whole green top of the Nine Tines shining brown along one side in the low light, from the first cleft to the long smooth end where the ground goes out beneath them like a coat spread out and left to dry. The landing is a long wet slap that brings everything in the cabin that’s been hanging on somewhere under a seat into the aisle. For a startling length of time we keep going after the wheels touch. I catch first one, then the other of Bet’s little breaths through her nose. When we stop she asks me to open the door. She wants the passengers in a line on the grass where she and I can see them from one end to the other.
 
 In the night I wake with my hand going out toward a tray that isn’t there. They’ve given me a room over the field office with a low bed and a window I can push open with my knee. Bet is sleeping on the other side of a wall thin enough for me to hear her turn. After a while I get up and pull my coat over my nightdress. Nobody’s put the landing lights on yet. In the east there’s a little color coming out on one side of a cloud, and enough underneath it for me to pick out the far face of the ridge. In a little while the first Tine will throw a shadow. I can’t tell where it’s going to go from here. I get as close to the glass as I can and wait to see it move.
