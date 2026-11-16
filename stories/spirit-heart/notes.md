@@ -59,3 +59,7 @@ Both genuinely fresh final readers checked the affected passages in the whole cu
 The accepted cover, title-image.jpg, is an 864×1536 portrait JPEG with “From the Middle” legible once. It uses [Image #1] as a reference for the lone figure, immense layered heart, and paint texture, while creating a distinct city-square composition matching the finished story. I inspected the saved pixels: the figure and silver tether are coherent, the title is readable, and the image retains the story's beauty and distance rather than promising a resolved reunion.
 
 Final checks: the prompt's physical/spirit heart and silver tether appear on the page; love from strangers enlarges and colours Vera's heart without supplying personal knowledge; the old single and public story remain historically unretrievable while the new tape and anniversary edition are stopped. Vera is seventeen and Iona fifteen on the childhood tape; the anniversary is fifteen years later. The fan's boy has an audience pass and is present for the broken promise; the live song omits the recorded count-in. Vera and Iona do not duplicate names in the existing frozen names list or relevant universe character entries. No shared universe fact is added by this story. The rating is General.
+
+## 2026-11-16 dialogue edit
+
+A reader heard Iona turn from the trailer excerpt to the whole tape scheduled for the broadcast. Her objection about the kitchen still comes in its own time.

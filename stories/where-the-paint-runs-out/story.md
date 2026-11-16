@@ -180,7 +180,7 @@ Calico stood trembling below the split.
 
 Dessa crawled to her, caught the trailing reins, and pressed her face against the mare's neck. The familiar smell nearly undid her.
 
-“I know,” she whispered. “I know. I won't.”
+“Easy,” she whispered. “I won't lift the sky again.”
 
 Above them, a narrow piece of purple lifted away from East Tooth.
 
@@ -348,7 +348,7 @@ She could slide down from the shelf. They could close the gap, and there would b
 
 Through the gap, rain struck the floor. Each drop broke into smaller drops. Beyond the distant doorway, a branch moved in wind she had never felt against her whole body.
 
-“I want to go,” she said.
+“I want to go on out there,” she said.
 
 Her father looked down at the rope.
 
@@ -358,7 +358,7 @@ He pulled a little slack through his hand, then took it up again.
 
 “I came to fetch you.”
 
-“I know.”
+“I'm glad you're here.”
 
 For a while there was only the rain, and Calico breathing between them.
 

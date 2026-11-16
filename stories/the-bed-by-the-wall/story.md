@@ -128,7 +128,7 @@ We crossed the quarry track. The house stood on the shelf of land above it, wher
 
 “If they come after us?” I whispered.
 
-“They have until moonset. If they miss the road, they stay here a year.”
+“They can follow us till moonset. If they miss the road, they stay here a year.”
 
 “Then they can stay.”
 

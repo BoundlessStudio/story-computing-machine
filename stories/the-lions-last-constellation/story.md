@@ -350,7 +350,7 @@ Then she checks its nose and ribs with a shaking hand.
 
 The account takes less time than the bandaging. Kletho finds a sliver of wax among the pieces caught in her belt and writes with her hairpin while you hold the bandage around her arm. There is room for three cramped lines. She writes the first and the last and leaves a gap between them.
 
-"Put the rock in," you say.
+"Put down that you threw the rocks," you say.
 
 "The council will strike it."
 

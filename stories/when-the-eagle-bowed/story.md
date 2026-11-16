@@ -142,7 +142,7 @@ The talonmail hesitated. Then it resumed climbing toward her heat, consuming eve
 
 Yavren was still gripping her own wrist. "I don't know. I've done it before. I've never—"
 
-"Did it end with us alive?"
+"Would it get us out alive?"
 
 "Maybe. Not them." She was looking past the soldiers at the roofs.
 

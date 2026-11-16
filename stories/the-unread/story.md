@@ -294,7 +294,7 @@ Meret showed the summons. It took five minutes of argument to secure what, a mom
 
 “I was opening a gate.”
 
-“I know.”
+“The guard reached for his sword. Give me a chance to speak first.”
 
 At the inner stair, she saw a page coming down with the silver cup. She guided Oreth aside and caught the page before he turned toward the kitchen. The foot was chipped exactly where she remembered.
 

@@ -180,7 +180,7 @@ She put the long tabard over my grey hoodie and pulled up my hood. The tabard ha
 
 “I could do the moustache again.”
 
-“You could also do the bread again. Ask questions.”
+“Or you could make me another banquet out of half a loaf. Ask questions.”
 
 She handed me the pasteboard crown. “Put that in your belt. If he sees it he'll want to finish his act, and I don't need him stopping to perform.”
 

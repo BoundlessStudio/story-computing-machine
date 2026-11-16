@@ -52,7 +52,7 @@ His left palm wore a fresh bandage. She tore it off. The cut ran diagonally unde
 
 “Where?”
 
-“In the universal location called none of your business.” He tried a smile. “You look tired, Siv.”
+“As if I’d tell you with that thing in my face.” He tried a smile. “You look tired, Siv.”
 
 She pressed the pistol harder. “Eleven.”
 

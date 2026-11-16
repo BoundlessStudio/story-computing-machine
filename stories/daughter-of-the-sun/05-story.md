@@ -296,7 +296,7 @@ The Daughter refused the coronation offered by the frightened capital. She also 
 
 Her first covenant was witnessed in the Ninth Hollow greenhouse: one hour of solar heat, one growing room, a steward chosen by the households, and any three witnesses able to end the gift. Calvea tended a dusk-dark flame between bandaged hands. Orrin repaired a water pump after confirming no directive had called him there.
 
-A small projection of Tovan flickered above a seed tray. “Do you think she would understand?” he asked.
+A small projection of Tovan flickered above a seed tray. “Do you think she would understand why they can end the gift?” he asked.
 
 The Daughter knew whom he meant. She looked up through layers of stone toward a sun she could not see.
 

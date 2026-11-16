@@ -56,9 +56,9 @@ Our task was to reopen the railway. The last passenger train stood at the platfo
 
 “Keep your knees moving,” Dace told me.
 
-“There is no infection risk.”
+“My joints are in working order.”
 
-“I didn’t mention infection.”
+“Good. Keep using them.”
 
 I was taller than she was by most of a metre. I had armour, independent targeting, and a cannon in place of my right forearm. I could remain functional after damage that would have killed every soldier on the transporter.
 

@@ -32,7 +32,7 @@ The Fox saw himself running through all eleven kingdoms without once being caugh
 
 “Each shall have what it sees.”
 
-“With what?” asked the Boar.
+“What land have you got to give?” asked the Boar.
 
 “I have no country. I have no quarrel. Lay your shadows on me, and let each show the others how far its kingdom ought to reach.”
 

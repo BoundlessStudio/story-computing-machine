@@ -416,9 +416,9 @@ Their white separated slowly. Each color returned to its own hands, its own armo
 
 She held it out to him.
 
-“I was there,” he said.
+“I stood back when they took you,” he said.
 
-“I know.”
+“I asked you to. All three of you came back for me.”
 
 He laid his hand beneath hers without closing it.
 

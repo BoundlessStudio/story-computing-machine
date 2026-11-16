@@ -220,7 +220,7 @@ She helped with the fastening. Her traveling chest stood where she had left it, 
 
 “Sometimes for months.”
 
-He touched the cupboard door. “I left you half.”
+He touched the cupboard door. “I left you half the cupboard.”
 
 “I saw.” She caught his hand before he could move away. “I want to live here.”
 

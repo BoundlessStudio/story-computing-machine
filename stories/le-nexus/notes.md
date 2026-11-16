@@ -43,3 +43,7 @@ The story is ready on the strength of the arm’s repeated reach, the stranger�
 The supplied image casts the two dancers and sets the bar’s lighting. The Ameline sheet from *A Life of Her Own* guided the spacing and brushwork of the two figures’ white-background studies. The observation lounge from *Grand Theft Me* guided the industrial surfaces and connected shadows in the Le Nexus painting. We checked the three saved references before making the cover. The cover uses those references for the exchange over the zinc, with Keva’s cuffed right hand pinning her steel left wrist and Odile’s red cocktail already down. The reviewed prose and cover are General for their mild flirtation, bar drinking, and implied past limb loss.
 
 **Cover revision.** The steel wrist now follows the line of the forearm, and the relaxed fingers rest on the zinc. Keva pins the wrist with her cuffed right hand as Odile taps back. The revised cover and prose were reassessed as General.
+
+## 2026-11-16 dialogue edit
+
+Keva names the dip the arm is starting, and Odile tells Keva what a request to switch roles will get her. The independent reader could follow the two interrupted taps at the bar, the completed three, and Odile’s pause and choice on the dance floor.

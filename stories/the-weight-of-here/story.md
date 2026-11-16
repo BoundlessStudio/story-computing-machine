@@ -208,7 +208,7 @@ It tried. Its caught antler pulled the lintel sideways, and the pressure across 
 
 Osa was down on her belly beside it, looking into the den. Between my child's flank and the right jamb was a low strip of daylight. She pushed her brushes through, then crawled after them. I could not have fitted my head into that gap.
 
-“Can you take the side away?” she asked.
+“Can you pull that cracked stone out?” she asked.
 
 I lifted a front foot towards the broken jamb.
 

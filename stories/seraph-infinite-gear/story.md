@@ -126,7 +126,7 @@ Under the lowest feathers, a wheel no wider than her palm kept her own recollect
 
 One feather beside the rim was bent against its grain. Bronze dust lay in the little drive teeth.
 
-“You touched this.”
+“My wheel. You touched it.”
 
 He nodded.
 

@@ -28,7 +28,7 @@ For three evenings afterward, she had found reasons why the cart needed attentio
 
 Anka looked up at the ceiling. Not quite in the right place. Then she untied her work scarf from the bundle.
 
-“Until noon,” she said. “If you haven't fixed it by then, I'll leave things.”
+“Until noon,” she said. “If you haven't fixed it by then, I'll leave what I can't carry.”
 
 Sivet took her mallet from beside the door. It had belonged to her mother, its pale head worn shallow in the middle. She could swing it all morning with either hand. Her left knee troubled her on slopes, and lately she needed Anka to go into narrow places, but there were still jobs in the waste nobody did as well as she did.
 

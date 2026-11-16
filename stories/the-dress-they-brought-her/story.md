@@ -122,7 +122,7 @@ Her custody record filled the display. The booking portrait appeared beside the 
 
 Before either man moved, she hooked the star of the wand through the strap on the suited man's tablet. She pulled its lower edge across the counter and under the red beam.
 
-The guard drove her forearm down against the laminate. "Let go of it." Pain struck from wrist to elbow, and the wand clattered onto the counter. The suited man caught his tablet with both hands.
+The guard drove her forearm down against the laminate. "Drop the wand." Pain struck from wrist to elbow, and the wand clattered onto the counter. The suited man caught his tablet with both hands.
 
 The scanner had already read the packet code. Both records appeared side by side. Between them, `P-80417` burned red.
 

@@ -290,7 +290,7 @@ The hands on your bindings tighten, but no one strikes.
 
 You turn your face toward the drain. “There may be survivors. I can show you the chambers.”
 
-“And the monsters?” someone asks. “The tracks in the grass?”
+“Those tracks in the grass,” someone says. “Were there monsters with you?”
 
 The brush has stopped moving. You cannot tell where the guardian went.
 

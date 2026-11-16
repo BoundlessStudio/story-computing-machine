@@ -380,7 +380,7 @@ After a while he turned to look back through the passage.
 
 “Yes,” Neral said.
 
-“I keep thinking of the doors.”
+“I keep thinking of the doors under the lake.”
 
 “So do I.”
 

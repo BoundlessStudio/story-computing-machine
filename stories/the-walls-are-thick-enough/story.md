@@ -366,7 +366,7 @@ Tazri wiped away the last shine of oil. “He has the register.”
 
 “Did the gate open?”
 
-“Yes. From the path you can hear the bar. It went up and came down again.” Mireth started on the remaining hairpins, then stopped with one in her fingers and met Tazri's eyes in the glass. “Was it what you wanted?”
+“Yes. I heard the bar lift. Then it came down again.” Mireth started on the remaining hairpins, then stopped with one in her fingers and met Tazri's eyes in the glass. “Was it what you wanted?”
 
 “Some of it.”
 

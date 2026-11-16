@@ -344,7 +344,7 @@ Then Nilo climbed the first stair.
 
 Every muscle in her wanted to order him back. That desire had worn two faces now: sacrifice him because the verse guaranteed others, save him because her love outweighed them. Both made his life into a thing she owned.
 
-"What safeguards?" she asked.
+"How will you keep your crew safe?" she asked.
 
 His anger flickered—not gone, but forced to share space with thought. "Two ropes, not one. Knots checked by different hands. Nobody goes alone. We change pullers before they're exhausted."
 

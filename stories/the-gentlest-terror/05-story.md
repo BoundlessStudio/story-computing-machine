@@ -408,7 +408,7 @@ until the sluice opens."
 The torn-looking edge of his left wing would lie beneath the failing ledge.
 Olyra saw it. So did he.
 
-"It may crush the joint," she said.
+"That could crush your wing," she said.
 
 "Yes."
 

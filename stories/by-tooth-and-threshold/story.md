@@ -292,7 +292,7 @@ Dev opened the tool bag. "Can I wrap it now?"
 
 He did. Her skin was hot even through his gloves. She took three measured swallows from the bottle and refused a fourth by turning her face away.
 
-"You don't owe me anything after this."
+"We're square, Audra."
 
 Audra pulled the cut trouser seam closed over the new bandage and fumbled a pin through it. "Good. I'm tired of owing you."
 

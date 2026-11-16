@@ -180,7 +180,7 @@ Her head followed their hand. When they moved a finger toward the rose light, he
 
 The message bead burned blue at the keeper's wrist.
 
-“I need it,” they said.
+“I need to find my daughter a way out,” they said.
 
 Nothing of their voice entered the sphere. The woman stayed against the glass, her own hands making a small dark shape inside the larger one.
 

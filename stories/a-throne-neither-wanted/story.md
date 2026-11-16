@@ -363,7 +363,7 @@ Instead I picked up the blanket.
 
 “I’m taking this to Father.”
 
-She lowered her hands. “Then what?”
+She lowered her hands. “What will you say to him?”
 
 “I don’t know yet.”
 

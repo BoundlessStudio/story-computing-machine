@@ -366,7 +366,7 @@ Your mouth had gone dry. “I think one hundred sixty should be ordinary. If tha
 
 “And if a wagon tips like the fifth one did?” the leader said.
 
-“Then I put it down.”
+“Then I put my load down.”
 
 The leader tapped the wax board against her palm. “If putting it down endangers someone?”
 

@@ -342,7 +342,7 @@ The wizard asked how account books were repaired. The young man told him about s
 
 "Because the weight is uneven?" the wizard asked.
 
-"Because then I have two jobs."
+"Because I end up repairing the ones on top."
 
 "Of course."
 

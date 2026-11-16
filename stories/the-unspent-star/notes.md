@@ -95,3 +95,7 @@ Both fresh readers reread the entire saved revision and answered the writer and 
 ## Revised art and final rating
 
 The cover restores the first supplied figure as the prominent woman inside the clear sphere, with a distinct cyan keeper outside. The saved 864×1536 JPEG was inspected for identity, enclosure, hands, and the exact title rendered once. The 1536×1024 WebP sheet uses consistent fully draped mantle views, faceless hood and hand gestures, and readable name/story/panel labels. A first sheet generation was blocked by the image safety filter; the accepted version materially changes the studies to loose opaque draping. Its final targeted correction replaces an unsupported Earth-like planet with the small dark rough world from the opening. The location painting's selected correction moves the oversized distant rose comet into the small wandering light beside her shoulder; original and correction remain separate. Saved pixels were inspected against prose and both originals. Full built-in generation prompts and selected paths are in `art/selection-notes.json`; format conversion alone used Pillow. No former expedition art remains selected. The final General rating reviews the finished prose and inspected cover together, with captivity, exploitation, stellar peril, companion loss, and unresolved confinement recorded in `ratings.md`.
+
+## 2026-11-16 dialogue edit
+
+A reader heard a quiet plea tied to the daughter in the failing star's reach. Orya can't hear it. She still acts on what the keeper's hand is doing.

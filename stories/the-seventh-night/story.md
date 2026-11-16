@@ -78,7 +78,7 @@ It was hers: dark green-black leather, narrow in the wrist, worked with a gold l
 
 "Traitor," she told the gauntlet.
 
-"It was in my pack. Under your left boot."
+"Your gauntlet was in my pack. Under your left boot."
 
 "My left boot was also lost."
 

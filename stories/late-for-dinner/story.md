@@ -264,7 +264,7 @@ Rellan pulled free, snatched the linen, and climbed onto the overturned wagon. T
 
 He raised the dirty cloth.
 
-Nerava’s gaze moved from it to his face. “Is that yours?”
+Nerava’s gaze moved from it to his face. “Is that your offer?”
 
 “Yes.”
 

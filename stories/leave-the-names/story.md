@@ -346,7 +346,7 @@ Kedra made the disposition by lantern beside the provision wagon. The crew neede
 
 “Your buying and cutting privileges are removed,” she told him. “Your next share goes to keeper labor, including hours after sunset today. You stay here until Sovet finishes the present inventory.”
 
-Beshan looked toward the court. Lurem’s last mixed bin still stood open under canvas. “All of it?”
+Beshan looked toward the court. Lurem’s last mixed bin still stood open under canvas. “That whole bin?”
 
 “Every lot opened by that strip. You will be provisioned for twelve days. Bedding, water, meal, lamp oil. No trade seal. No cutting kit.”
 

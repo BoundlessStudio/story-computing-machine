@@ -662,7 +662,7 @@ Damaris pulled a chair beside the cot and sat down, her rifle across her knees.
 
 “That won't help,” Ione said.
 
-“I know.”
+“I'm staying till you wake.”
 
 From the courtyard came Agnet's voice, stumbling over an old word, and Kem gently correcting her. Ione could hear the palms moving above the roof.
 

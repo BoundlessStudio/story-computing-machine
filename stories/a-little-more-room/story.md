@@ -190,7 +190,7 @@ I kept my eyes on hers. "Okay."
 
 The singer on the record reached the chorus for the third time. Suzette's blush had not faded.
 
-"Does that always mean you're embarrassed?" I asked, tapping my own cheek.
+"Does the blush always mean you're embarrassed?" I asked, tapping my own cheek.
 
 "No. I always blush." Her shoulders lowered a fraction. "Sometimes embarrassment contributes. Sometimes temperature. Sometimes speaking. Often I don't know."
 

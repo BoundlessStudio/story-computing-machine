@@ -204,7 +204,7 @@ Below them the woman at the gate had stopped calling. Her son had turned his hea
 
 My producer touched my shoulder.
 
-"Darya. They're asking where."
+"Darya. Where in the city? People are asking."
 
 I had said the city into the microphone. I had not known I was saying it. There were streets full of people there, listeners with family somewhere among them, and I had no turn to give them, no building number, no way to make a girl land where she wanted.
 

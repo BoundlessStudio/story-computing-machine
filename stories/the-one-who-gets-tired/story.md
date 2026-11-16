@@ -294,7 +294,7 @@ Zulema thrust one arm into it and began explaining the problem with breathing. M
 
 He stopped picking at the cardboard but didn't come closer.
 
-“I'm sorry I snapped. And said that about your friend.”
+“I'm sorry I snapped. And I shouldn't have said your friend wouldn't come.”
 
 “He didn't say he wouldn't come. He can't.”
 

@@ -31,3 +31,7 @@
 **Final Decisions.** Yes. Native confidence 0.98, Yes 0.99 and No 0.01, source ambiguity 0. Proceed with zero restarts and no user ruling.
 
 **Art and rating.** The principal sheets show Catrin in her thick cloak and thin court shoes, and Bess with her black plait, apron and gingerbread board. Rilla’s sheet from *A Penny to Boo* guided the white-page presentation. The lantern bridge painting from *A Crown in the Bargain* guided the oil handling of roof and castle light, and the Halloween Crescent from *Woods at Night* guided the market’s connected shadows. The battlements, the working market, and the round-towered royal castle have separate location studies. The cover uses the accepted Catrin sheet and all three place studies to return to the private pleasure of the first scene. The title is legible on the exported portrait. The finished prose and cover rate General.
+
+## 2026-11-16 dialogue edit
+
+Bess warns Catrin about the stone she just tripped on. The independent reader heard a practical goodbye in Bess’s own voice and could see why Catrin later realizes she’d been waiting for a contradiction. Catrin still has to come back and ask for what she wants.

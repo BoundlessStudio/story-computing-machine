@@ -35,3 +35,7 @@ Coordinator's final judgment: the live population weight creates wonder and the 
 ## Art and final classification
 
 After the prose discussion, built-in imagegen made separate white-background multi-view sheets for Merryn, Halden, Lenet, and Lenet's son, plus the market/weigh-house exterior and collection chamber. The supplied original anchors Merryn; the two collection paintings named in `universe/art.md` guide the oil treatment. Illustrator and coordinator inspected actual pixels. Halden's duplicated cuff jewel was corrected before acceptance. All six 1536×1024 references were complete and inspected before the 864×1536 cover used the accepted Merryn, Halden, and market references. Its market offer preserves mystery without depicting the seal solution. Identity, readable labels/title, distinct location geography, small balance, gold seal/red ribbon, and final formats were checked. Only accepted art and the preserved original are in the package; candidates and exact prompts remain in worktree `tmp/`. Final prose and selected nonviolent cover were rated together as General, with specific fantasy-peril and struggle notes in `ratings.md`.
+
+## 2026-11-16 dialogue edit
+
+Lenet names Halden when she tells him to stay put. The independent reader could hear exactly who she’s addressing from Merryn’s position on the floor, where Merryn can hear the order and misses his answer.

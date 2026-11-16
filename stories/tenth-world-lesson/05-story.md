@@ -246,7 +246,7 @@ Eiren closed her eyes. “No. I have made too many assignments out of your life 
 
 At station nine, Jori and six crew members hauled open the dead housing. Wind threw rain through the arches. They reached bare hands into the mechanism and fed their own small currents into it: a tremor of diverted air, a blue crawling spark, a pressure change Ryo felt in his teeth.
 
-“My crew’s got their bare hands in that housing, Ryo!” Jori called. “Stop taking away everyone else’s chance to act!”
+“My crew’s got their bare hands in that housing, Ryo!” Jori called. “Give us room to work!”
 
 The ninth station’s indicator stuttered amber.
 

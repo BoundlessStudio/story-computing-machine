@@ -204,7 +204,7 @@ I waited for him to finish.
 
 “Once you were down.”
 
-“Yes.”
+“I’d already said we were giving up.”
 
 It was an ordinary thing to say. I found I had nothing to add to it.
 

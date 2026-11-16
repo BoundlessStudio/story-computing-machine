@@ -104,7 +104,7 @@ He looked at her, and for a second I thought he would go over and apologize agai
 
 Innes closed his hand around my wrist and put his other hand over the card before the clerk could take it. He smiled at her. “She isn't well. I'll look after that.”
 
-The clerk left the stamp tray where it was. “Does she want to send it?” she asked me.
+The clerk left the stamp tray where it was. “Do you want to send it?” she asked me.
 
 I could have told her what I was. She might not have believed it. Innes might have moved us outside before I finished. What I needed from her was smaller and within her power.
 

@@ -252,7 +252,7 @@ The road forked beyond a low spreading tree. Matchstick flew under its branches 
 
 Idrella stopped long enough to shove her hat straight. Velzie had stopped too. Her face was blotched, and without the dragon or the bundle she looked much smaller.
 
-“Where?” Idrella said.
+“Where does that lane go?” Idrella said.
 
 “That's our lane.”
 

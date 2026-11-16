@@ -220,7 +220,7 @@ Near midnight the healer came through the storm with a lantern and a sack of bar
 
 “The shelf iced over,” she said. “The mule’s staying below.”
 
-“You walked.”
+“You climbed the shelf in this?”
 
 “Yes.” She stamped snow from one boot, then the other. “Is it done?”
 

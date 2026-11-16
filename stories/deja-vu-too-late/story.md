@@ -342,7 +342,7 @@ Pavax called with final separation and a recovery vector. Dalsen asked for the s
 
 At `12:04`, Kessa opened the damage ledger. Orivan lay strapped beside the cockpit with his leg splinted and the analgesic working. She entered the sheared port thruster cluster, the bent service collar, the fused reprise bridge, and the loss of all six cargo drums.
 
-“All six?” Orivan asked.
+“All six drums?” Orivan asked.
 
 “All six.”
 

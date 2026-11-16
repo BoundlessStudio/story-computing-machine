@@ -25,3 +25,7 @@
 **Final Decisions.** Yes, native confidence 0.96, P(Yes) 0.98 and P(No) 0.02. Source ambiguity 0. The full repaired prose and supplied original proceeded with zero restarts.
 
 **Art and rating.** Built-in ImageGen used the supplied painting for Ness and the cave. *Hollow Reef* from *Not Today* informed the brushwork at translucent water and rock edges. *Black and Silver Reef* from *Rooms Before Sunrise* informed the dawn and shale brushwork. Ness and the ocean have separate white-background sheets. The cave and outer reef paintings establish the ledge and cleat, the anchorage, and the passage between the two reef teeth. The cover takes the instant when Ness toasts the incoming breaker with the coin and uses the inspected Ness, ocean, and cave references. The saved cover and prose were rated General after inspection.
+
+## 2026-11-16 dialogue edit
+
+Ness puts the bargain’s events in the order she means to carry them out. The independent reader could follow the tow through the reef, the transfer into the tender and the cut of the line. The ocean repeats the timing in its own terms. Ness’s wish to see *Spite* under full sail still carries into the last image.

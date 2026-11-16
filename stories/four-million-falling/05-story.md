@@ -324,7 +324,7 @@ Inez tried to stand. Her left ankle refused her weight.
 
 "Sit," Damas said.
 
-"I can bring up the shelter ledger."
+"Let me check the shelter ledger."
 
 "No console. That's an order."
 

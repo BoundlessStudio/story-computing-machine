@@ -220,7 +220,7 @@ Orsen passed beside Iria, keeping himself between her and the officer's sword. B
 
 They reached the magistrate's table in the open court just before noon. The table stood at the edge of the square, in sight of the west gate. The magistrate did not ask Orsen for his badge. The recorder gave her the gate order, with its blue cord still attached, and placed Iria's notice beside it. Calen added her own account beneath Orsen's: she had held Iria back while he took Tovin from the weaving shed. Orsen signed with his uninjured hand, and Calen signed below him. Then the magistrate asked Iria whether she still claimed the words written there.
 
-“I tried to kill him,” Iria said. “I claim the rest.”
+“I tried to kill him,” Iria said. “I stand by what I said about my brother.”
 
 The magistrate asked Pel to read the account aloud, while her clerk made a second copy under the eyes of the people waiting with their ordinary quarrels. She signed for custody. Iria would be tried; the order to take her brother was now entered beside the charge against her. Pel left one copy on the public table and carried another across the square to the city archive. He walked quickly, with no armor at his back. Calen stood beside Iria while the constables took her into custody.
 

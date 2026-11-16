@@ -398,7 +398,7 @@ Renata considered the two blurred figures at the curtain.
 
 "For the assessment, yes."
 
-Jonas looked at the empty spaces on either side of her. "Left or right?"
+Jonas looked at the empty spaces on either side of her. "Which side do you want me on?"
 
 "Left."
 

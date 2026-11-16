@@ -528,7 +528,7 @@ I looked at the cuff, the bandage, and the faint gold under my skin. “No.”
 “Then if there's a next time, you ask. Before another transfusion. Before
 another miracle. I get a vote.”
 
-“You get a vote,” I said. “And I don't donate again unless the clinic says it's
+“I’ll ask you first,” I said. “And I don't donate again unless the clinic says it's
 safe enough, you want it, and our mother agrees. I stay for the monitoring. All
 of it.”
 

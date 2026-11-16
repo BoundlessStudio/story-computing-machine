@@ -248,7 +248,7 @@ Veslina arranged her fork and knife, then rearranged them. “I’ve been seeing
 
 “Since late winter. Properly. Before that, it depends what counts.”
 
-“Who counts?”
+“Who gets to decide when it started?”
 
 “We do. Differently.” Veslina’s tail tip tapped once against the chair leg. “I wanted to ask whether they could come to supper sometime.”
 

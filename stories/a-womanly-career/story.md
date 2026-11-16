@@ -60,7 +60,7 @@ It was not a new rifle. Mother had carried it through seventeen years, and Cress
 
 Cressida had won the college match. She had enjoyed winning it. She could see the room: the red lamps, the women she had known since she was small enough to be handed from knee to knee, somebody already ordering her a drink before she asked.
 
-“I haven't accepted the school place yet,” she said. “Today is a trial. On both sides.”
+“I haven't said yes to Little Orchard,” she said. “Today is a trial. On both sides.”
 
 “Then try it,” said Grandmother. “But ask whether that pay continues through the holidays. And whether you can afford to be ill.”
 

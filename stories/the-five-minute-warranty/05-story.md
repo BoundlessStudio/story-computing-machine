@@ -282,7 +282,7 @@ At a makeshift desk, Nalda dictated two records. The first admitted that she had
 
 Nalda gave him a tired, unwilling smile. Then she paid the emergency invoice in full from the lift office's upper reserve. On a fresh work order, she commissioned a new pedestal and crown gear, named Kezli's workshop as paid lead, and assigned the ordinary lift mechanics as independent inspectors.
 
-"A permanent repair," Nalda said, offering Kezli the pen.
+"Will you lead the permanent repair?" Nalda asked, offering Kezli the pen.
 
 This time the phrase did not sound like a verdict on everything temporary.
 

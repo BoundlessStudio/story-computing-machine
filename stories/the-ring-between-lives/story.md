@@ -166,7 +166,7 @@ Sidonie glanced at the bowl again.
 
 The laugh that escaped Sidonie was brief and startled. Rhazelle was grateful for it. She could have gone on into the last winter: the astronomer's breath clouding the glass while she tried to see a comet, Rhazelle warming her wool stockings between her palms. She had been dead for over a hundred years and Rhazelle still disliked a clear winter sky.
 
-“Did they remember?” Sidonie asked.
+“Did the astronomer remember her first life?” Sidonie asked.
 
 “The astronomer didn't remember the carpenter. You don't remember either. Both went into the country of the dead before they were born again. I couldn't go with them, or bring them back.”
 

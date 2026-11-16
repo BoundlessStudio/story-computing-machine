@@ -208,7 +208,7 @@ My hand stopped on the back of the chair.
 
 That was the name I had worn in this last life. Lethra said it very softly. The light in the room dimmed a little, except for the square of sunlight. Its owner drew her feet into it.
 
-“You walked out with the midsummer procession wearing a mask,” Lethra said. “I had to take the privilege of visiting away for seven years while we established how you had done it.”
+“You walked out with the midsummer procession wearing a mask,” Lethra said. “I had to keep the living out of the orchard for seven years while we established how you had done it.”
 
 “The dancer was sick.”
 

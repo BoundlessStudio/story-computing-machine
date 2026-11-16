@@ -212,7 +212,7 @@ The warmth vanished from that arm. Cold air touched the spaces between her finge
 
 The contrast nearly made her release the other hand as well.
 
-“Tell me who,” she said. “If I knew who to warn—”
+“Show me whose mouth that is,” she said. “Give me someone I can go and warn.”
 
 The light brought her the enclosed seed again. No face came with the mouth. She could find no mark, no place, nothing she might search for in the city below. She tried to send the shape of a year, the succession of days people wrote on their letters. The Sun's frightened thought pressed through it.
 

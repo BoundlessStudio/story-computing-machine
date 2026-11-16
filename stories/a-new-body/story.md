@@ -496,7 +496,7 @@ Fara read them over my shoulder. I was still standing beside her while I flew us
 
 She folded her arms.
 
-“I had a different job. Somebody disabled my engines.”
+“I had a different job. Then somebody stopped the engines on the ship I was stealing.”
 
 “I’m sorry.”
 

@@ -216,7 +216,7 @@ She had heard the first two answers he hadn't given anyway. She wanted to keep h
 
 He closed his eyes briefly. She could see him choosing what to say, the same way he chose which bit of bad news to give her first when somebody had posted something. Usually she let him.
 
-"I don't want to keep meeting the next people," he said.
+"I don't want to keep meeting people after he's got to them," he said.
 
 She couldn't answer that. She wanted him to have said something stupid.
 

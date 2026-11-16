@@ -74,7 +74,7 @@ She turned the camera back to the wall. The woman's hand went on opening. Betwee
 
 “Does he still run ahead?” Ireta asked.
 
-The woman looked at the door. “He waits where he thinks I can't see him. You hear him hold his breath.”
+The woman looked at the door. “He waits where he thinks I can't see him. Listen for the great big breath he takes before he goes quiet.”
 
 They listened. Ireta could remember how much noise it took a child to be that quiet. Her little brother used to go on breathing through his nose even when he had both hands over his mouth. The woman leaned her ruined shoulder against the old doorpost. The end of the cloak ran down both sides of the wood, as if it belonged to a draft that moved through the grain. She could have made it from there to the door in a few steps. She waited until Ireta set her hands flat on the table, with the camera in front of them.
 

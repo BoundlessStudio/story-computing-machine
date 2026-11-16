@@ -592,7 +592,7 @@ The keyboard case stood by the sofa. Miri opened it and put the song sheet insid
 
 “Even if you think it's good.”
 
-“Yes.”
+“I heard Dulcie say she had to go. I should have opened the doors then.”
 
 She closed the case.
 

@@ -37,3 +37,7 @@ Art and rating, 2026-10-24: built-in imagegen made separate white-background she
 Final name check found Senn already used in Wrath Limit Break and as Mr Senn in The Final Familiar. The supporting character is now **Sivven**, with no matching collection/universe/name-memory entry. The writer mechanically replaced twelve name occurrences and verified that reversing that substitution reproduces the reviewed prose exactly; outline contained none. The sheet was relabeled and inspected with the same face, silver-threaded hair, grey clothing, and poses, saved as art/characters/sivven.webp; the prior label is retained only in tmp/. Earlier attributed reader effects retain the name they read. This label correction changes no action, voice, personhood, or content intensity; General remains appropriate to the same finalized prose and cover.
 
 Handoff checks: five existing media tests passed with subprocess temporary paths inside this worktree; git diff --check is clean. The accepted cover is an 864×1536 JPEG, all four separate sheets are 1536×1024 WebP, and all four location paintings are 1536×1024 PNG. The original remains 1432×2048 PNG under its supplied name. The final story is about 4,050 words. These file checks support delivery; editorial readiness rests on the concrete story evidence and conversations above.
+
+## 2026-11-16 dialogue edit
+
+The white-bearded man names the doors under the lake. The independent reader could connect his wish to return to what he watched in the projection. Neral’s reply carries their curiosity into the new valley.

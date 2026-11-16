@@ -174,7 +174,7 @@ He had to look twice.
 
 Ilario unwrapped the apron, put it on, and reached into the drawer for the knife. His hand found it before he looked. Nerina was standing on tiptoe beneath a little portrait of him at about her age, wearing striped trousers and gripping a wooden horse.
 
-"Did you choose those?"
+"Did you pick the trousers yourself?"
 
 "I did. I liked the stripes."
 

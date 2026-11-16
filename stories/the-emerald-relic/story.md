@@ -178,7 +178,7 @@ She watched him. “They can't even burn them in the fields.”
 
 “I know.”
 
-“Did you see?”
+“Did you see the fields?”
 
 He pulled the sheet over her feet. “I was told. You need to sleep. Let them bring their complaints to me.”
 

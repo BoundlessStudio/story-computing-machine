@@ -152,7 +152,7 @@ Talia moved. The worker turned the trolley toward the door they had just opened.
 
 “From the temple,” Talia said.
 
-“I thought the temple side had died.” She glanced at Talia's soot-black sleeve. “How many?”
+“I thought the temple side had died.” She glanced at Talia's soot-black sleeve. “How many of you are there?”
 
 “Ten. Two are children. We need a place to sleep.”
 

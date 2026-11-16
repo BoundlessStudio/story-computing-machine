@@ -310,7 +310,7 @@ He nodded and began assigning hands. The first brace crew was moving before anyo
 
 Derva watched the memory drum until its metal cooled from red to ordinary black. The god stood beside her shadow. He was still fully present, but the gallery lamps no longer leaned toward him.
 
-"Can you still hear it?" she asked.
+"Can you still hear it running?" she asked.
 
 He listened with his head a little to one side, the way she listened to a cable under load.
 

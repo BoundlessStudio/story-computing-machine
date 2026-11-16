@@ -894,7 +894,7 @@ Nora’s relief was not graceful. Her shoulders dropped; one hand flew to her mo
 
 The wind pushed the nearest rose away from Claire’s sketchbook. Nora reached for the stem and stopped.
 
-“Do you want me to hold it?” she asked.
+“Do you want me to hold the rose?” she asked.
 
 Claire opened to a new page. “Yes, please.”
 

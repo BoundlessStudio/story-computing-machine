@@ -284,7 +284,7 @@ He touched the first mark. “You designed the voiced lattice, then proved you u
 
 The second. “You diagnosed my error, mapped every load, and ordered three effects so none destroyed what the next required.”
 
-The third. “Your callers understood their tasks, named their limits, stopped, waited, and chose again. That cost time. It also kept them people.”
+The third. “Your callers understood their tasks, named their limits, stopped, waited, and chose again. That cost time. Each could refuse the next call.”
 
 The fourth. “You destroyed the work meant to win this seal, because keeping it would have killed those we teach.”
 

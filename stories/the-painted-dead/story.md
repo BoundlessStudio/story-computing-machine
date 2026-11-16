@@ -494,7 +494,7 @@ Afterward Tereth found her on the ballroom steps. His hood was folded over his a
 
 He held the scythe across his palms.
 
-“You said you were alive,” he told her.
+“You told me to put the scythe away,” he said.
 
 “Yes.”
 

@@ -310,7 +310,7 @@ Miles opened his mouth, and she pointed at him.
 
 “It was a short speech.”
 
-“Then write it down.” She pushed a pen across the table to him, and kept one for herself. “On the new one.”
+“Then write it down.” She pushed a pen across the table to him, and kept one for herself. “On the new sheet.”
 
 They wrote the next page together. Symptoms got said out loud before a cycle. Decisions about Luz’s body were Luz’s. Either of them could decline their own part in a plan. Until the shutoff had an extension they could work from outside the cabinet, radios that could survive a soaking, and a dry route they had both checked, Luz chose no shrinking around live plumbing.
 

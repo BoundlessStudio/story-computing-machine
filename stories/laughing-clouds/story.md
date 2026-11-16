@@ -262,7 +262,7 @@ Ianthe followed her gaze to the child.
 
 “A supervised cooling and planter-watering device for small play or repair courts,” she said. “It does not make drinking water, and it cannot keep a bed watered on its own.”
 
-“Who does it miss?”
+“Who gets left out?”
 
 “Anyone who does not laugh, anyone who cannot or does not wish to enter the rain field, and anyone beyond the range. It is unsafe near smooth paving or exposed equipment.”
 

@@ -322,7 +322,7 @@ The cousin sat almost before the note was gone. Four other children found seats,
 
 He snatched his hand away. Nika looked from her wrist to the cousin's pleased face. While the players got up and the boy carried a chair out, she stood, picked up the little chalk sun, and set it down facing the cake table. Tebbit watched her sit with her back to the players.
 
-“But you won't see when to stop.”
+“But you won't know when to stop.”
 
 Nika reached round and turned his chair to face the table beside hers. “Neither of us will.”
 

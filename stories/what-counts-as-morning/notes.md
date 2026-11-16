@@ -48,3 +48,7 @@ The standalone Tern portrait and a first combined character page did not follow 
 ## Character-sheet style correction — 2026-10-30
 
 Repainted Leda, Moth and Tern as three separate landscape sheets on plain white to answer the user's gallery style comparison. Onyx at the Cove and Sena and Button supply softer figure and material modelling; Apple Orchard Hillside supplies broad oil-brush rhythm. Each retains three body views, two larger studies and story-relevant details. Leda keeps her grey-streaked bob, navy coat, recovery clothes, cup and daughter's photograph; Moth keeps its side receiver and antenna; Tern keeps its round head, chest speaker, frosted hand and beetle tray. The robot refinements reduce the first tests' repetitive chip texture while keeping the two designs distinct. Inspected every accepted saved sheet for consistent anatomy and design across views, labels and detail coverage. No stronger content was added; the finished prose, selected cover and General rating still apply.
+
+## 2026-11-16 dialogue edit
+
+A reader heard Leda name what Tern used up by waking her. Her later willingness to hear Moth's recording can coexist with that objection.

@@ -390,7 +390,7 @@ She gave them. Then the two bridge watchers. Hovan repeated the count while Imer
 
 Imer nodded.
 
-She took the writ out again and pressed it flat beneath her palm. “I’m taking the long road back. She can read this with me.”
+She took the writ out again and pressed it flat beneath her palm. “I’m taking the long road back. My mother can read this with me.”
 
 Imer handed Daziel the dry end of Hovan’s bandage, and she tied it off.
 

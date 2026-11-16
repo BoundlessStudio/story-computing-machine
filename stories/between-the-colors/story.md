@@ -208,7 +208,7 @@ There was a hot rush behind me. I leaned over her and felt the heat pass across 
 
 She put my wrist against its edge. We changed our positions in a series of awkward, frightened movements. I pressed my shoulder under the rail while she worked her heel sideways. Something at my left palm hurt; I ignored it until the hurt became too large to ignore, and by then she was free.
 
-She said, “I've got it out,” twice before I understood.
+She said, “My foot's free,” twice before I understood.
 
 Below the window, someone shouted that the ladder was ready. A wooden end struck the sill. I began to stand and hit my head on the rail.
 

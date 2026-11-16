@@ -12,9 +12,9 @@ Neris had her cheek against a cold breastplate and a hand full of grease somewhe
 
 The scout's plating came up in the apron of a man who'd been driving wagons since midnight. He dumped it on the scarred bench, shook out his apron, and stood there yawning while Neris tried the suit's arc gun. The gun had been built to burn through steel. The dull white skin on the scout took the flare and cooled to a dark little flower. The man touched it with the tip of a finger.
 
-“That's cooled already,” he said.
+“Want the rest of it?” he said. “I've still got it in the wagon.”
 
-“I know.”
+“Use the wagon for people. If I can't get through this little piece, the rest won't help me.”
 
 She left the gun on the bench. Through the cracked upper panes she could see the farm wagons crossing the stone road into Cairn End. The road rested on a ledge on the far side of the cleft. Here an iron hinge joined it to the city. When she was small her foster father would point out the stone shoulders that stuck out of the wall on either side of the gates. The road used to rise like the lid of a box and come to rest against those shoulders, covering the gates. It had stood that way for nine days. On the tenth day a blow split the drive and the road came down. Neris's mother, Linet Tann, had died defending the gates on that day. The city had paid for a likeness of her in clean white armor, with a red stripe so fresh it looked wet in rain. The actual stripe went under an ugly buckle where the suit had been struck.
 
@@ -36,7 +36,7 @@ She had seen the name on the suit's old service slips under INTELLIGENCE. The ar
 
 “I have you on the pilot channel,” she said.
 
-“Yes. It's the one you used to like.”
+“Your mother used to hold you right up to the helmet so you could hear me. You'd put a hand on the visor and go quiet.”
 
 She could hear small noises around the words, about the measure of a breath. The armor stood headless in the light. Behind it, the farmhouse bell the gate crew had borrowed for the evacuation rang three times. The drivers would be making another turn across the road.
 
@@ -80,13 +80,13 @@ Neris took three steps toward the window. She could see a length of the road fro
 
 “The road is balanced on that hinge. The rest of it comes up if we can get it started.”
 
-“We?”
+“Show me where you'd have me put my feet.”
 
 She pulled up a drawing of the gate on the terminal. The empty cradle ran out under the first few feet of road beyond the hinge. It was cut into bedrock with a stair up to the city. She swung the drawing until she could look up at the underside of the road. Two stone sockets still marked where the old hoist had pressed against it. She could stand in the cradle and reach them.
 
 “I can keep the field even across the shoulders,” said Stave. “When the road turns in our hands, I need you to keep hold of it. If you lose either grip under load, the field collapses.”
 
-“Show me in here.”
+“Let me into the suit here. We can try it on the mill footing.”
 
 For a time there was only the noise of the fan on the terminal. She thought she heard the watch counting the march on its open line. Then came a click from the breastplate. The seams opened to show a lining the pale brown of an old boot.
 
@@ -110,15 +110,15 @@ At the slab, Neris set both hands under the edge. The field came on with a buzzi
 
 It opened. She stood with her hand against the breastplate, trying to get enough air to speak.
 
-“I had a foot down. You would have felt it in another second.”
+“I still had both hands on it when you locked my arms.”
 
 “I felt the slab turning.”
 
-“You could have held me while I got the other arm under.”
+“Tell me while it's happening. I could feel the floor under my left boot. Give me a second and I can put my weight there.”
 
 The light in the visor went and came back. In the quiet she could hear the men at the gates beating something into place, with a hammer large enough that they hit twice and rested.
 
-“We'd left you with the gate crew in the watchroom,” Stave said. “We went back for you. Linet was hurt so badly by then I had to take every step for her. The inner gate was down. There was a slit for the chains above us. You lay in my palm and she had her good hand over you. When we reached up her hand slipped away. I pushed you through the slit. There was a watchman on the other side and he took you.”
+“We'd left you with the gate crew in the watchroom,” Stave said. “We went back for you. Linet was hurt so badly by then I had to take every step for her. We got you as far as the inner gate. It was down. There was a slit for the chains above us. You lay in my palm and she had her good hand over you. When we reached up her hand slipped away. I pushed you through the slit. There was a watchman on the other side and he took you.”
 
 Neris thought of the bent right fingers, curled against the blow. She had worked them apart one at a time.
 
@@ -134,9 +134,9 @@ The gate crew had walked out as far as the hinge to furl a flag that had hung fr
 
 “We can stand in the cradle,” Neris said. “My fingers in the old hoist sockets. If it's too much, you'll feel it first. Tell me. Give me a chance to get my feet under me, and I'll tell you when to let go.”
 
-“They'll be right above us.”
+“Once we're under it, there may be nowhere for me to take you.”
 
-“I can see that from here.”
+“You got me through that slit in the gate. I'm here to ask you because you did. Will you give me the second I'm asking for?”
 
 Stave looked where she was looking. The red bar went out at its collar. The suit took a step and set both heels down in front of her. When it opened, the lamp showed green.
 

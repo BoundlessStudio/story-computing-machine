@@ -196,7 +196,7 @@ Ivrine glanced down at the visible pouch. Behind her collar, the borrowed spider
 
 “She said to leave it alone.”
 
-“Did it eat for her?”
+“Did it take a working from her?”
 
 “No.”
 

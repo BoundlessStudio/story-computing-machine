@@ -474,7 +474,7 @@ Her soul's weight returned so abruptly that she sat down on the floor.
 
 For several breaths she could only be pleased by the floor. It was cool. It was solid. She was a woman sitting on it, and likely to remain so.
 
-Above her, Lenet was saying, “Stay where you are.”
+Above her, Lenet was saying, “Halden. Stay where you are.”
 
 Halden said something Merryn did not hear. Lenet repeated herself, with less courtesy. Two door guards came in. The census clerk pointed a shaking finger at Halden's blue hand.
 

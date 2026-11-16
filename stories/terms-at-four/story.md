@@ -278,7 +278,7 @@ At four fifty-one, she lifted the cloth from the pie. Steam brought up apples, b
 
 You stared at her.
 
-“It is getting warm.”
+“The cream is getting warm.”
 
 “No cream.”
 

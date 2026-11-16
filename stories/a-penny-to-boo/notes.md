@@ -37,3 +37,7 @@
 **Cover audience revision, 2026-11-05.** The front-facing arrangement made Rilla and Cader read as a portrait in front of the show. The replacement looks across the aisle and seats them beside the mother and boy on one continuous bench. Their sightlines and laughter join the crowd's reaction to the goose catching the puppet prince. The final JPEG was inspected for shared perspective, supported seated poses, legible title and consistency with the character and booth references. The finished prose and revised cover merit General.
 
 **Cover viewpoint and selection, 2026-11-05.** The user flagged the incompatible sightlines of the preceding cover. The new aisle view looks over the backs of the spectators toward the puppet window from one position. Rilla and Cader share the front bench and face the same way as the mother and boy. The user selected this exact image by attachment. The saved JPEG was inspected for sightlines, bench support, title and continuity with the references. The cover and prose were reassessed as General.
+
+## 2026-11-16 dialogue edit
+
+Rilla tells Cader where the puppeteer looked when she asked for the riding scene. The independent reader could distinguish that look from the gatekeeper actually hearing Cader’s words. Rilla’s account makes it clear why Cader offers to leave and why the next invitation has to come from her.

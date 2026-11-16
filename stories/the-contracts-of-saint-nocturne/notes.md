@@ -65,3 +65,7 @@ Corrections made before reference acceptance: Peret's dressing stays consistent 
 ## Cover and final classification
 
 The cover chooses Ione and Damaris's joint turn toward the camera, after their disagreement has become a shared physical act. Accepted character and vault references, together with the supplied original, guided the built-in ImageGen composition. One correction lowered a mistakenly leaning door onto the threshold floor. The artist and coordinator inspected the actual final 864×1536 RGB JPEG: exact title once, coherent hands on the amended grey sheet, consistent sister identities, an ordinary broadcast camera, and the Guest's six closed eyes and vertical mouth. The image adds no graphic injury or sexual framing. The finished prose and cover together are rated Teen for non-graphic combat and supernatural coercion, including the distressed sleeping child; specific notes are in `ratings.md`. The prose is unchanged after the final discussion, all accepted art is complete, and no shared facts or canon status have been changed.
+
+## 2026-11-16 dialogue edit
+
+Damaris tells Ione she will stay until she wakes. The independent reader heard the reply as a promise of company, with Damaris’s memory of being pulled awake giving it weight.

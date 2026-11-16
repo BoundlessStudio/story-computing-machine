@@ -78,7 +78,7 @@ Her eyes met his in the glass.
 
 “People sometimes arrive in this weather.”
 
-“They're fortunate, then.”
+“They're fortunate you answer the door.”
 
 She looked at him for a moment. Then she came to the fire and moved a log with the iron poker. A tongue of flame ran along its underside.
 

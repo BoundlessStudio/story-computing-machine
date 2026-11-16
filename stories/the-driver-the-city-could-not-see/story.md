@@ -62,7 +62,7 @@ Arovi showed four roads branching from the opposite bank. None carried a destina
 
 The four roads remained. Arovi added the small figure at their junction, then moved it onto one road, back to the junction, onto another.
 
-Kaith looked through the mirror. "Your choice? This trip. Not an instruction left in you. Not somebody arranging freight."
+Kaith looked through the mirror. "This trip. Did you choose it? Not an instruction left in you. Not somebody arranging freight."
 
 Two images: the service cradle and the ferry. Between them Arovi placed an open hand. The hand turned toward the ferry.
 

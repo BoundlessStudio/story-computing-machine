@@ -76,7 +76,7 @@ She sat upright. It reappeared.
 
 Utta remained crouched on the other side of him, one empty hand on her knee.
 
-“You could give me room,” she said.
+“You could let me hold his hand,” she said.
 
 Belise looked down at Jowan instead. His thumb had a white ridge across the nail. A lid had fallen on it in the summer, and he had complained for three days whenever she asked him to open anything. She rubbed the ridge. It was almost grown out.
 

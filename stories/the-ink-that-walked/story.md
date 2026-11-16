@@ -298,7 +298,7 @@ Desra looked at her own hands. She could feel every place where the stone had sc
 
 “You came back.”
 
-“I wanted my step. I didn't ask for your head.” Ildenne pulled the torn wool over her knees. “Where are the others?”
+“I wanted my step. I didn't ask for your head.” Ildenne pulled the torn wool over her knees. “Where did the other gifts go?”
 
 Desra pointed toward the sky.
 

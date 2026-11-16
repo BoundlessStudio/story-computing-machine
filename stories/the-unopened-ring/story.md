@@ -132,7 +132,7 @@ Vessarine looked at the handkerchief on Merovel's lap.
 
 “I'd like to hear them.”
 
-Merovel disliked the careful kindness in her voice. “Was that one true?”
+Merovel disliked the careful kindness in her voice. “Was Mother right that he didn't beg?”
 
 The queen placed her knife beside her plate. “He did ask me to spare his friends.”
 

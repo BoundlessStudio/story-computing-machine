@@ -16,7 +16,7 @@ She came ashore when she saw him, lifting her white wings clear of the reeds. A 
 
 “And the soldiers?”
 
-“Still asleep.”
+“They were asleep.”
 
 He had passed four of them in the fortress gallery: stone men, each with a stone sword resting between its feet. Halla had told him the enchanter had carved them himself from blocks of granite. Their faces were the larger likenesses of those on Halla's collar. He had also climbed a chimney, crossed a floor that wasn't entirely there, and opened a cabinet whose lock bit him. The little punctures in his thumb had stopped bleeding. He kept that hand behind his back.
 

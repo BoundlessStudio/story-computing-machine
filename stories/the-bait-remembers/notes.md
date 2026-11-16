@@ -62,3 +62,7 @@ After prose readiness, I generated and inspected a cover, Ada character sheet, a
 ## Character-sheet style correction — 2026-10-30
 
 Repainted Ada's existing sheet in place to match the softer facial modelling, flowing hair and broad oil-painted forms of Onyx at the Cove and Sena and Button, with Apple Orchard Hillside as a brushwork reference. The portrait-format panel grid becomes a landscape sheet on plain white, matching the other corrected sheets while retaining the coat, scarf, satchel, three body views, two head studies, palm gesture, shoe and bird postcard. The first test was rejected for keeping the old hard faceting. Inspected the saved pixels for consistent identity, complete figures, readable labels and an uninjured palm. The sheet adds no stronger content; the finished prose, cover and Teen rating still apply.
+
+## 2026-11-16 dialogue edit
+
+A reader heard the clerk give Ada the question Innes had taken from her. Her ordinary answer is enough to make him choose whether to let go of the card in public.

@@ -300,7 +300,7 @@ The warden writes: alarm delayed seven minutes after first observed color patter
 
 You watch the nib. "Five before the crack. Two after."
 
-She inserts the figures. "Reason?"
+She inserts the figures. "Why did you wait?"
 
 The answer you want is that no junior keeper should be blamed for failing to understand several dozen common slimes. The answer she can use is shorter.
 

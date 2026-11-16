@@ -525,7 +525,7 @@ blue claw crescent like the mark on a receipt. With it came a freight list,
 three pepper sweets for the road, and a warning that all three were separate
 items and only two were billable.
 
-"Will you go back if I find the route?" I asked.
+"Would you go back to the ice if I found the route?" I asked.
 
 Urumet considered this while fitting coins into a little stack.
 

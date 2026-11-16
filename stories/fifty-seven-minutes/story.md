@@ -344,7 +344,7 @@ Rulik's face folded around a reply and failed to produce it. At last he said, "I
 
 "Good," Orselle said.
 
-"I know what I don't want. Don't spend this to make the ferry clean."
+"I know what I don't want. Don't spend this trying to clear our names over the ferry."
 
 The storm shoved at Orselle's chest. Her heart had not worked this hard in decades. Perhaps that was fear. Perhaps the old salt-breath was already loosening.
 

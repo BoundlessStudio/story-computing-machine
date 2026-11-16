@@ -286,7 +286,7 @@ Zuri looked down at her phone.
 
 Anchor took off a glove, revealing a hand with chipped purple nail polish, and held it out for Zuri's phone. She gave it to them. I watched them enter a number under ANCHOR CONTACT. We were going to have to trust a name we hadn't been given, and a person we hadn't met.
 
-"I need to talk to them before Sunday," Zuri said. "If I can't, I'm not going out with you."
+"I need to talk to them before Sunday," Zuri said. "If I can't, I'm sitting Sunday out."
 
 "Tomorrow. I'll tell them you're calling."
 

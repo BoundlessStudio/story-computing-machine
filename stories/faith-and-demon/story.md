@@ -142,7 +142,7 @@ He rubbed at the marks the post had left on his palms. “I think it was evil.�
 
 She had no wish to try to settle that while its ash might still be on the stairs. “You can think that.”
 
-“I still believe what I told you.” He looked at her then, not at the cord under her sleeve. “You told me this morning. I understood. I asked anyway. I won't keep at you about your faith.”
+“I still believe what my church teaches.” He looked at her then, not at the cord under her sleeve. “You told me this morning. I understood. I asked anyway. I won't keep at you about your faith.”
 
 Anwen let out the breath she'd been holding. “All right.”
 

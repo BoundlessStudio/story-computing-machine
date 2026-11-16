@@ -58,7 +58,7 @@ He glanced at her bow, then at the doorway behind her. “Thirteen years.”
 
 She looked again at the blanket. Her twenty years of practice for the choosing had included winters when she hated the bow and put it away. Thirteen years here: the same walls in every weather, that little square of bed.
 
-“Kostral knows?”
+“Kostral knows you're inside the walls?”
 
 “He knows I'm somewhere. I wish you hadn't left him up there.”
 

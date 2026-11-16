@@ -102,7 +102,7 @@ Daybreak let her hand fall from the harness.
 
 She waited, but that was all he had for her. He had avoided the reports afterward. Obscurity had made that possible as well.
 
-“I'm frightened of that man,” he said.
+“I'm frightened of the man who kept them waiting,” he said.
 
 “So am I, now.” Her voice had lost its impatience. “But I still have to ask.”
 

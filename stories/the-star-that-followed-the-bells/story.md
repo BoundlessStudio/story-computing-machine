@@ -244,7 +244,7 @@ The ship brightened too quickly, and its harmonic filled the channel. The waveri
 
 "It talked over them," Nali said.
 
-"Low one's gone off my set."
+"Low reply's gone off my set."
 
 The starship's vanes tightened. Its magnetic pulse rattled stones against the low bell.
 

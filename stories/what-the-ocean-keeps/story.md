@@ -86,7 +86,7 @@ A draught across the shelf brings me the bird stink again. The bottom of the sac
 
 I put my heel down on the mouth of the sack. From where I sit I can see the cut in the outer reef, and the water is going across it faster now that the tide has turned. I would get an oar blade in twice before the bow of a loaded tender went broadside to that current. I get up and lift the bottom of the sack toward the heap. The red clasp slides to the mouth and I stop it with my palm.
 
-“The tender won't get past those rocks on her own. Hold the cut deep and I'll bring you *Spite* with her sail full. I'll put the gold in the tender and take her out on a line behind me. When I've got into the tender and cut the line and have the whole length of the reef behind me, you'll get a ship with all her way on her. You can take her straight down if you like. I want to see if she can do it.”
+“The tender won't get past those rocks on her own. Hold the cut deep and I'll bring you *Spite* with her sail full. I'll put the gold in the tender and tow it behind me. When the whole length of the reef is behind us, I'll get into the tender and cut the line. Then you'll get a ship with all her way on her. You can take her straight down if you like. I want to see if she can do it.”
 
 I set the sack upright. The next breaker lifts the tender until its side is a hand's width from the cleat. Then the wave stops. There's a twist of weed under the bowline. I get my hand between the iron and the wood and pick at it. If the sea lets the wave go, I won't get my hand out in time.
 

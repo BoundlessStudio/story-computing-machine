@@ -148,7 +148,7 @@ Her hand stayed flat on the metal tape.
 
 The tape snapped into its case. My sister stood.
 
-"How long?"
+"When did you know?"
 
 "It wasn't one moment."
 

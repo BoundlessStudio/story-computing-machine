@@ -236,7 +236,7 @@ Mae looked at the row of shortbread. “Did you eat mine?”
 
 For one second they were themselves again: older sister prosecuting a theft too trivial to matter, younger brother already constructing a defense. Then he noticed how tightly her hands were folded.
 
-“Do you remember?” he asked.
+“Do you remember the times I tried?” he asked.
 
 Mae's smile went away.
 

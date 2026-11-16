@@ -100,7 +100,7 @@ I touched the edge of the page. The vellum was thin enough to show the writing o
 
 “How old?”
 
-“The binding is four hundred years old. We've replaced it twice, according to the first page.”
+“These boards went on four hundred years ago. The first page says we've had it bound twice since it was made.”
 
 “And the picture?”
 

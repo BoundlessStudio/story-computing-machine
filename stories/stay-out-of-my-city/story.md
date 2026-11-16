@@ -90,7 +90,7 @@ Elvi was thirteen when Candescent next asked to see him. They met at the disused
 
 “Two days a month,” Candescent said. “We'd transport you. You would retain command of every deployment.”
 
-“Who looks after things here?”
+“Who looks after the city while I'm gone?”
 
 “I'd stay myself.”
 

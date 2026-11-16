@@ -236,7 +236,7 @@ Sovel could not hear it. She looked at Neris's raised hand.
 
 “Habit,” Neris said.
 
-“You could watch her for a thousand years. You would never do that again.”
+“You could watch her for a thousand years. You would have no hand to raise.”
 
 She lowered her hand. Her fingers were shaking.
 

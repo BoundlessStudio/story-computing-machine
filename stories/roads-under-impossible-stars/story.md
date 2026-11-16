@@ -390,7 +390,7 @@ Hollis sat sideways in the driver's seat. "Every six weeks."
 
 Keely looked up.
 
-"That one," Hollis said. "What was around it?"
+"That one," Hollis said. "What else did we say?"
 
 "I said I could visit every six weeks after I moved. You said visits weren't the same as telling you I'd applied."
 

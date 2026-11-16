@@ -70,6 +70,6 @@ The cup was warm. The official who gave it to her had been standing with it in t
 
 Later she found Corl back at her wing, looking at a wrinkle where the cloth had pulled against the spar. He made a little swooping motion with one hand.
 
-“Here?” he said.
+“How far out were you when you turned in?” he said.
 
 She set the cup in the grass and took a piece of race chalk from her pocket. She drew the two spires on the wing cloth, then the long arc she'd made past them. He borrowed the chalk and drew a line farther out than hers. He put the chalk down at the point where he would open up the engine. She leaned close to see if it would work.

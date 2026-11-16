@@ -408,7 +408,7 @@ That is all. She goes.
 
 The man with the hearing implant is still waiting by the narrow end of Bevro's stall. He has bought the last two pepper buns and is holding them under his coat for warmth.
 
-"You said battery cradle," he reminds you.
+"Still time for the battery cradle?" he asks.
 
 You look at the green contacts, the six-part gasket kit, and the gate with half a metre left to fall.
 

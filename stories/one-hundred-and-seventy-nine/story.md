@@ -206,7 +206,7 @@ She looked at the other pattern on the display.
 
 “Your telemetry is reading one hundred and seventy-nine.”
 
-“I know.”
+“I see it here, too.”
 
 The gun line flashed again. Furnace crouched, dragging the dead leg close beneath its chest. A shell passed over its neck and burst against the ridge. On the rear view, a column of stone lifted beside the carrier's launch cradle.
 

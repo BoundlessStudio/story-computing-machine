@@ -48,7 +48,7 @@ There it was. The word made their familiar kitchen briefly strange.
 
 Nobody in the family had had a job for five generations. Her father had once researched his ancestors and found a woman who had stood at a till for nine hours a day. He had spent the rest of the afternoon unable to settle to anything. The woman had needed to do it to keep her children in a house.
 
-"You wouldn't lose anything," Romy said quickly. "If I stopped. I know that."
+"We'd still get the same deliveries," Romy said quickly. "Even if I stopped. I know that."
 
 "Then what would you be earning a living *for*?" asked Lise.
 

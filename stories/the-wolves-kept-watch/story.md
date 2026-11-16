@@ -370,7 +370,7 @@ He looked at the ankle chain.
 
 “They couldn't let her starve. They'd sworn to keep her alive.”
 
-“And you?”
+“They swore to keep you alive too?”
 
 She could hardly speak round the cloth. She lowered it. “They'd sworn the same about me. Any of her blood.”
 

@@ -344,7 +344,7 @@ Light ran over her fingers.
 
 The voice of the Dayfarer came through the metal, a note too low for words.
 
-“I know,” she said, though she did not know whether he could hear her.
+“I have the crown,” she said, though she did not know whether he could hear her.
 
 She opened the clasp.
 

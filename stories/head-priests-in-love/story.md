@@ -324,7 +324,7 @@ That startled another laugh out of him. This one broke in the middle.
 
 On the return to the harbor mouth, they settled only one thing. Six days after the circuit, before the noon bell, they would meet at the baker's back table above the rope market. Ambel rejected Levara's first proposed hour because it coincided with his blessing of a westbound grain ship. Levara rejected his because the bakery closed then. They would wear ordinary coats over their vestments and each pay for their own meal.
 
-"Why that last condition?" Ambel asked.
+"Why pay separately?" Ambel asked.
 
 "So neither god can call it tribute."
 

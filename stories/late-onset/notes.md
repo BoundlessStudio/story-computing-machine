@@ -47,3 +47,7 @@ Coordinator readiness: the menopause onset upends a deliberately liked adult lif
 ## Art and rating
 
 Built-in imagegen produced separate white-background Delia and Joss sheets, then references for the Number Six bus stop, old airship training hangar, and exhibition arena/cable route/ridge. Artist and coordinator inspected the saved pixels of all five references before the cover used the accepted character and arena images. The cover preserves Delia's age, glasses, buttoned green coat and wool hat, Joss's youthful curls/yellow jacket, their independent flight, the arena below, western cable route and eastern gap. Its exact title appears once. The five references are 1536×1024 WebP; the cover is 864×1536 JPEG. Ordinary format/size conversion used Pillow; visual corrections used imagegen. Delia's salt-and-pepper bob, unspecified facial designs, bus colour and architecture are visual interpretations, not shared facts. Drafts and full prompts remain in ignored worktree `tmp/`. After the final discussion, resulting prose repairs, and selected-cover inspection, the prose and cover together were rated General: bodily symptoms and non-graphic rescue peril, with no material above that intensity. No further prose or art changes followed this rating.
+
+## 2026-11-16 dialogue edit
+
+Joss tells Delia to say when she is ready to let her weight come back. The independent reader could understand the instruction, hear Delia give the cue, and follow Joss bringing her down.

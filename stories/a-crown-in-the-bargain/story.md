@@ -240,7 +240,7 @@ Osvan nearly missed the next grate. "Six."
 
 "If there is a tomorrow in this arrangement."
 
-"Then find out anyway. I need to know who chooses the keys."
+"Then find out anyway. I want to know whose doors those would be."
 
 He gave a short, unhappy breath.
 

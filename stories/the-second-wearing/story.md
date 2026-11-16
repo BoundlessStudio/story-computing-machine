@@ -438,7 +438,7 @@ Odelia reaches behind her neck with both ends of the chain. My clasp closes; I f
 
 *Seven has dignity.*
 
-“Do you want it?”
+“Do you want the six minutes?”
 
 *Yes.*
 

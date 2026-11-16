@@ -60,7 +60,7 @@ Kivik beside me. Sella in the galley. The other four, one after another, from th
 
 “Here.” She sounded winded. “I caught it.”
 
-“You caught it. Let it go.”
+“The fire, Hedra. Let the fire go.”
 
 On the camera she opened her hands. The flower split, and a spear of light crossed the darkness, scattering the broken drive into sparks. Beyond it, a mountain on the moon lit from the side.
 

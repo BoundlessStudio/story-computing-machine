@@ -92,7 +92,7 @@ It was the hour when the last pair should sound. The first note came up through 
 
 The father and daughter were still on the broad stair below my window. The wall by them had the same pale seam between the courses as the stones that had vanished. The girl had one hand on it. Her father was turning his head very slowly, following the sound up through the air as if the bell was still swinging somewhere he couldn’t see. I could still see the white of the open book on the girl’s knees. The stair held. I kept waiting to see how long it would.
 
-“That’s as much as I let go of,” she said. “There’d be the rest to come.”
+“I only let go of the tower,” she said. “There’d be the rest to come.”
 
 I wanted to put my head down somewhere. There was room for it on my forearm the way there had been when I was small and used to fall asleep at the kitchen table, and I had already put the arm down along the sill without thinking. At the end of it my own fingers were bent around the edges of the book. I tightened them a little. I thought of the tin handle a girl had taken up to go look at a moth, and how little the thing would have weighed when she had it safe in her hand and was on her way. The father had put both feet on the same step as his daughter now. At the shop below them the shoemaker was standing with a shutter in either hand. A second stroke should have sounded.
 

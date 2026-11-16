@@ -268,7 +268,7 @@ A shot struck the tower across the square. Stone fragments rattled over the terr
 
 Nettle's smoke caught the next shell. I saw it slow inside the black, a little brass shape turning end over end. Then she folded her fingers, and it was gone.
 
-“He signed in my hand,” she said.
+“He signed the surrender in my hand,” she said.
 
 She put me behind a mooring post.
 

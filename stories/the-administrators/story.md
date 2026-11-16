@@ -526,7 +526,7 @@ Behind her, the youngest apprentice rearmed his cuff and opened another Survey i
 
 Hedran opened the grant record. The change ran through the registry to its smallest class of caster: each living signature could now authorize its own spells. The registered patterns and their records remained. The sovereign signature and its casting toll were gone.
 
-“No.”
+“For every caster in the registry,” she said.
 
 In the manufacturing view, the fabrication district's accounts resumed ticking. The chair maker still had to pay for polymer, electricity and delivery. Beside those charges, the Crown's casting levy went dark. The maker looked at her cuff, then laid her palm on the rig again.
 

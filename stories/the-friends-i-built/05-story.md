@@ -571,7 +571,7 @@ time, the couch snapped upright and deposited Belphegor on their feet.
 
 They blinked, offended by their own success.
 
-*My consequence,* they signed. *My maintenance.*
+*My consequence,* they signed. *I'll keep it working.*
 
 Bexel laid the agreement on the table. It made her the school contact when a
 guardian task was missed, gave her authority to activate transport, and

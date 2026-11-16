@@ -461,7 +461,7 @@ opened for inspection. City depots would resume release at the audited margin.
 Terrace districts would withdraw from the provincial storehouses. Detained
 shipments would proceed.
 
-"How long?" I asked.
+"How long will you sign for?" I asked.
 
 "Until the next harvest," Ludo said.
 

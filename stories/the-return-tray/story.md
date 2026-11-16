@@ -252,7 +252,7 @@ At five fourteen she tips her king on its side, stops the clock, and lies face d
 
 “Don't be dramatic,” you say. “I've got to fold the board.”
 
-“I prepared for that.”
+“I had that attack worked out.”
 
 “You prepared for me to take the bait. I didn't.”
 

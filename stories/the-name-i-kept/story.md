@@ -397,7 +397,7 @@ They look at the bare place on your uniform where the crest used to sit. Their h
 
 "Same buckle."
 
-"You fastened it again."
+"You left it buckled again."
 
 "I was reading your messages."
 

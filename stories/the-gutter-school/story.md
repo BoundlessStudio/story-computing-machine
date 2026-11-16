@@ -44,7 +44,7 @@ I finished the sleeve, gave back her needle, and put my mitten on. Seven mages w
 
 The caller fitted us with white vests bearing square red patches over the breastbone. Mine went over my sleeveless shirt and under my coat. She folded the coat's fronts back and tied them behind me, leaving the patch entirely exposed.
 
-“First bare hand to the other patch wins. No hiding it. Clothing holds are allowed. No fire, no cutting, no spells on flesh. Obey a halt at once.” She tapped my left mitten. “That hand won't score.”
+“First bare hand to the other patch wins. No hiding it. Clothing holds are allowed. No fire, no cutting, no spells on flesh. Obey a halt at once.” She tapped my left mitten. “That hand won't score with the mitten on.”
 
 “The other one will.”
 

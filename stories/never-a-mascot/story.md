@@ -236,7 +236,7 @@ They used the unburned slowcord to lash two spear shafts into a litter. The serg
 
 The scout studied the fork beyond the marsh. “The shouting's gone north with the smoke. Both lots. East branch drops more gently.”
 
-“Water?” the sergeant asked.
+“Any water down that branch?” the sergeant asked.
 
 “I saw willows. I didn't see water.”
 

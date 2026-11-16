@@ -180,7 +180,7 @@ Its force pressed the air against Ilessa's face. Every shutter in the avenue sho
 
 She stopped where the street widened before the palace. The paving here was bare for a hundred paces. Behind her, an iron bolt was drawn very softly.
 
-“Where are you?” she asked.
+“Are you still on the high throne?” she asked.
 
 “Where this kingdom kneels.”
 

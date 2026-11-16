@@ -182,7 +182,7 @@ The sketched branches matched the ones in the wall. Late entries grew meaner: *b
 
 “I wanted the place shut.”
 
-“You wanted the evidence shut.”
+“You wanted your family's part kept quiet.”
 
 The gallery lurched. A peg sprang across the room and struck the hearth. Silas flinched, then caught the prop Agnes shoved at him.
 

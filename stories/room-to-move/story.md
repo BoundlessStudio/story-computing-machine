@@ -186,7 +186,7 @@ She had been looking forward to sitting opposite him. She wanted his face, his u
 
 He called back while she was pinning up her hair.
 
-“They've given the seven away. They can keep the nine.”
+“They've given the seven away. They'll still hold us a table for nine.”
 
 She closed her eyes. “Otis.”
 

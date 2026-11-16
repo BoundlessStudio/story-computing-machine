@@ -112,7 +112,7 @@ He reaches for the shoe, but she leaves her hand on it.
 
 “I'll inquire,” he says.
 
-“You did. They restored the old debt and added an exit tax. Is that forbidden?”
+“You did, when she appealed. They restored the old debt and added an exit tax. Is that forbidden?”
 
 Orsivet says nothing. Behind him, his murmuring robe goes on receiving promises.
 

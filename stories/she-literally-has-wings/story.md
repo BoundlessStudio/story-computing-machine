@@ -322,7 +322,7 @@ Outside, rain had thinned to a cold mist. Their building stood one block away. O
 
 Tomas walked on her right, the side where the pavement narrowed around three overfilled bins. He did not take her elbow. He only moved outward so she had room.
 
-At the corner he said, “Was any of my guess close?”
+At the corner he said, “Were any of my guesses close?”
 
 Coralie watched rain bead on the barbs of her outer feathers. “Close in appearance.”
 

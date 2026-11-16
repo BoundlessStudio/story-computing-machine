@@ -158,7 +158,7 @@ For a long while Leda said nothing. Then: “You chose this.”
 
 “Yes.”
 
-“And you chose yours.”
+“And you used one for what you wanted.”
 
 “Yes.”
 

@@ -160,7 +160,7 @@ Werrit knew where the speech rose. He knew where to turn so the sword caught the
 
 “Just the opening. Through the dragon. Then we can change back.”
 
-“What do I do in these letters?” Nalla asked.
+“And who am I in these letters?” Nalla asked.
 
 Werrit looked at the heap of green cloth.
 

@@ -310,7 +310,7 @@ I scored the second release.
 
 Rain burst outward. The fliers below us vanished behind silver. The captain’s left wing shuddered but kept its rhythm, and the harness-keeper wedged the wandering chest strap beneath my knee where I could pin it.
 
-“Keep that,” she said.
+“Keep your knee there,” she said.
 
 I pressed harder.
 

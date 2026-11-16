@@ -266,7 +266,7 @@ I waited.
 
 “I saw it on the dryer. Sitting in all the lint. So I thought that was where it went, and I put it there.”
 
-“So it was never a warning.”
+“I thought you were warning me.”
 
 “I didn’t know it was anything. And then the shelf broke. Maybe because you put the sugar up there instead, and the sugar was heavy, and the whole thing was my fault.”
 

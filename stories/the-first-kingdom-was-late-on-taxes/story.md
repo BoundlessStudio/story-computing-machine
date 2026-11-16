@@ -154,7 +154,7 @@ Sevri translated. The answer traveled through three officials and came back poli
 
 “That's not what she asked,” Ormela said.
 
-“No,” Sevri said, before any of the three officials could add to it. “They cannot prove family.”
+“No,” Sevri said, before any of the three officials could add to it. “They have no proof they’re your kin.”
 
 The widow chose two people to remain with her at the window. She did not ask to open the containers. She asked for the room to stay locked, for no ceremony, and for time to choose more representatives. Another villager whose family used a different burial slope wanted no part in that choice. Aruz said the distinction must be recorded too.
 

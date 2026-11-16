@@ -94,7 +94,7 @@ Rovandis already had. The connection opened on chain noise and wind.
 
 “Caelumar?” Rovandis said. “Pull over.”
 
-“I am over.” Caelumar sounded irritated, then less certain. “I’m by the... the blue...”
+“I’m at the edge of the lane.” Caelumar sounded irritated, then less certain. “I’m by the... the blue...”
 
 “Shop?”
 

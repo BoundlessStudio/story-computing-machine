@@ -288,7 +288,7 @@ Petra watched until the foundation opened and the wig became ordinary loose hair
 
 “No.”
 
-“People heard me.”
+“They heard me say it.”
 
 “Yes.”
 

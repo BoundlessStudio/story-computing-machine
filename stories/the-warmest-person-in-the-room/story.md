@@ -266,7 +266,7 @@ I waited. When Mirelle wanted to be exact, questions could make her narrower. Si
 
 “I iced the south practice court during an evacuation,” she said. “They say it was two buildings. I failed a group whose shields cracked. They say I froze them deliberately. I told someone not to touch me from behind. They say I threatened the entire dining hall.”
 
-“Did you?”
+“The whole dining hall?”
 
 “I threatened his hand.”
 

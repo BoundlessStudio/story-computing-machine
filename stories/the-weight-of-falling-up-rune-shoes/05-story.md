@@ -378,7 +378,7 @@ I lay on my back with my knees up. “If that was the posture component, I reque
 
 “You identified visible wear and declined an offered repair pause.”
 
-“I remember that less fondly.”
+“I was hoping you’d forgotten that part.”
 
 “You continued into a high-load reverse brake without an adequate margin.”
 

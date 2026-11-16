@@ -33,3 +33,7 @@ The selected cover, Anwen sheet, and corrected belfry painting were inspected as
 ## Character-sheet style correction — 2026-10-30
 
 Repainted Anwen's existing sheet in place to address the user's screenshot comparison with neighbouring collection art. The accepted pass uses Onyx at the Cove and Sena and Button for softer facial modelling and flowing hair, and Apple Orchard Hillside for broader oil-brush masses. It replaces the cream textured ground with plain white while retaining her three body views, two head studies, rope, wrist cord, pencil and working clothes. Earlier tests retained too much angular faceting and stayed in ignored tmp/. Inspected the finished saved pixels for the same Anwen across views, legible title and labels, coherent hands and story-matching props. The sheet adds no stronger content; the prose, cover and General rating still apply.
+
+## 2026-11-16 dialogue edit
+
+A reader heard Mikkel state his belief plainly and name exactly what he did after Anwen asked him to stop. His later admission to the steward carries the same directness.

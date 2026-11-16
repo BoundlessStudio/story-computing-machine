@@ -302,7 +302,7 @@ Hugo nodded once. He did not tell me what I was.
 
 "Agreed. I don't want anyone told I can shapeshift. No filming a change, no touching me during one, and no demonstrations unless I say yes to that exact thing."
 
-"And 'changing' means clothes unless somebody supplies a better noun."
+"And 'changing' means clothes unless we say otherwise."
 
 "Yes." A weak joke presented itself. I put it down before it could hurt anyone. "I'm retiring my private shorthand. Transmutable was never useful enough to cause this much damage."
 

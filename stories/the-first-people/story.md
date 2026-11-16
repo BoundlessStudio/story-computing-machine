@@ -134,7 +134,7 @@ At last Martin pointed to the pale scratch pulsing beyond the window. He set one
 
 Heshi nodded. He pointed to the spindle, then to the black-bound counter.
 
-“Why bring this here?”
+“Why bring your count to Earth?”
 
 “The road begins here.”
 

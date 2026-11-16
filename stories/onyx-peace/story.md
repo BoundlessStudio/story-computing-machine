@@ -142,7 +142,7 @@ In the morning, Neri read the pages standing at her bench. She stopped at the li
 
 “You’ve written that you knew before you gave the order,” Neri said. “The last account said nobody did.”
 
-“That account was mine too. I let it stand.”
+“The first account went out under my name. I let it stand.”
 
 Neri looked at the signature. “I’ll take this to Sal’s daughter first. I won’t tell her it answers where Sal is.” She trimmed a loose end of binding from the frame. “She may come here and ask you herself. I won’t keep your room a secret.”
 

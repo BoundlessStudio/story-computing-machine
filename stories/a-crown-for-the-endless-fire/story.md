@@ -306,7 +306,7 @@ At the stair head, the first junction where the air ran cool, she sat with her b
 
 “Too tight?” I asked.
 
-“Left side.”
+“It pulls on the left.”
 
 I shifted the knot.
 

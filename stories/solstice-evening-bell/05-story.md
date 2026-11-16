@@ -174,7 +174,7 @@ partner began to fray. Through that widening seam lay the southern breakwater.
 
 She could save the tone and lose the corridor.
 
-"No," she said, though the refusal hurt before the command did.
+"The corridor stays," she said, though the refusal hurt before the command did.
 
 She burned it.
 

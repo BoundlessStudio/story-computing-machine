@@ -58,7 +58,7 @@ When they docked, he brushed crumbs off her borrowed grey coat. Its sleeves were
 
 “I said you would.”
 
-“I know.”
+“I can stand behind a net-line, Pellin.”
 
 He checked her last button and let her go.
 

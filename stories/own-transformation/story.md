@@ -262,7 +262,7 @@ I went behind the fallen banner, pulling its free end across my arms as though I
 
 I lifted the cloth. The brass whistle gleamed on top of it. Beneath the fold, my fingers closed around the compact.
 
-“You want to wear her?” I asked.
+“You want to try on Redshift?” I asked.
 
 “I want to see what she can really do.”
 

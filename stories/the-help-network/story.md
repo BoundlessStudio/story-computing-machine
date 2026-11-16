@@ -76,7 +76,7 @@ At school, Drita put a carton of juice on Cassia's worksheet.
 
 Cassia peeled the straw from its wrapper. Her phone vibrated twice against the desk. She turned it over without looking, which felt so virtuous that she expected Drita to notice.
 
-Drita did not. “How many last night?”
+Drita did not. “How many messages did you answer last night?”
 
 “Two.”
 

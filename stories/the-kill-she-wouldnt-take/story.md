@@ -266,7 +266,7 @@ Dax looks toward Caro. “We still have credentials?”
 
 “It was resisting.”
 
-They are both still live. Caro sees the red air bars and swings back into sequence before the gap can widen. “The official sheet records a medical no-contest. Harl leaves this final alive and unverified.”
+They are both still live. Caro sees the red air bars and swings back into sequence before the gap can widen. “The official sheet records a medical no-contest. Harl leaves this final alive. His return status is still unverified.”
 
 A rematch line slides onto the program beside the mandatory review replay. Zindra opens as a four-to-one favorite in a bout not yet booked. The network adds a live price pulse before either fighter reaches medical clearance.
 

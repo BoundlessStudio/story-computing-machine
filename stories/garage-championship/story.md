@@ -260,7 +260,7 @@ At the high gate I was nearly at her tail.
 
 She placed the silver bike exactly where I wanted mine. I stayed behind. On the descent she stretched the gap to a length, then less as I kept the power on toward the last pair.
 
-“She's coming in,” Cora said.
+“She's taking the inside,” Cora said.
 
 I could see it. Saskia was taking the first gate tight, denying the inside before I could even ask. If I followed her in, her better drive would carry her away down the straight. I could get second. I could see second laid out in front of me, every tidy movement required to keep it.
 

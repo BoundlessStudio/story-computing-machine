@@ -52,7 +52,7 @@ Iona arrived wearing a raincoat damp at the shoulders. She had cut her hair much
 
 Vera touched the case. "They used the bit I sent them. Not the rest."
 
-"Tonight is the rest."
+"They're playing the whole tape tonight."
 
 Iona spoke quietly, without the great, injured voice Vera had prepared herself to resist. That made it harder to answer.
 

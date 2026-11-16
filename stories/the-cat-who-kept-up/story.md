@@ -134,7 +134,7 @@ Ina turned the little key beneath its wing. The bird’s wings beat softly again
 
 Sena’s stomach tightened. She thought of the landing, the opened case, the scuff on the wing. Ina wound the key once more. Again the fourth note was followed by silence.
 
-“He left it,” Ina said softly. “I thought he’d fix that one.”
+“He left that gap,” Ina said softly. “I thought he’d fix that one.”
 
 She smiled down at the bird before the tune had finished. Behind her, the train rolled in and filled the platform with wind.
 

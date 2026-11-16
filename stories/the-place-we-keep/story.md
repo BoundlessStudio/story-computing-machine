@@ -304,7 +304,7 @@ I put my hand around her warm, narrow ribs. She breathed under it, watching some
 
 She paused, then rubbed her cheek on my wrist. "And I like going under hedges. I thought I'd do it for a week when I first learned. Then there kept being things I wanted to do the next day."
 
-"You didn't tell us," I said.
+"You didn't tell us what you liked about being a cat," I said.
 
 "I tried. You asked when I was coming back."
 

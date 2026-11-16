@@ -276,7 +276,7 @@ After the bench examination, Elska carried Scathe back to the dressing room. The
 
 She shut the curtain, set the rapier across the arms, and sat opposite her. Her hand was tired. It had held up.
 
-“How long?”
+“How long since you sent the letter?”
 
 “I had the polish boy write it down and post it three weeks ago. While you were at the foundry.”
 

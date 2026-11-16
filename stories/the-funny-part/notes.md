@@ -43,3 +43,7 @@ The user identified the coach's malformed exit door and requested a remake; that
 ## Coach art removal — 2026-10-26
 
 At the user's subsequent request, the coach artwork was removed from the story package. The package now contains five character sheets, four location paintings, and the cover. Earlier art decisions above remain historical; Git preserves the removed image. The prose, cover, and Explicit rating remain unchanged.
+
+## 2026-11-16 dialogue edit
+
+Len names the surrender that came before Nellis’s account of when the children should have stopped. The independent reader could trace the wording to Len’s earlier “Giving up. Both of us,” a moment the public clip leaves out.

@@ -164,7 +164,7 @@ Knight took her teapot down from the shelf. "Could you wait until eight?"
 
 "Who's Rafa?"
 
-He looked down at the book between them. "He started the argument."
+He looked down at the book between them. "He's the one who argued with you about the two pages."
 
 Marnie had her finger under the line. She could point to it. She could point to his hands, ask about the watch, get all the questions out before he had time to choose better answers.
 

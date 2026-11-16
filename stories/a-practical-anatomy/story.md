@@ -158,7 +158,7 @@ We exchanged arms carefully. I wrapped a warm towel around hers where the scales
 
 "Comfortable?" I asked.
 
-"No. Are we right?"
+"No. Have I got her right?"
 
 "Yes."
 

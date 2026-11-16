@@ -158,7 +158,7 @@ At Seventh, Orli's brother made the opening turn with his board tucked under one
 
 On Twenty-Third, Kemi's mother had finally come off the crate. Half the pepper cakes were spoiled; one side of the canvas had torn. The laughing face on the wall still had a ring around it, but its closing stroke was blank. Kemi put her palm there and felt only brick.
 
-“Did you get it?” her mother asked.
+“Did you get the awning-hold back?” her mother asked.
 
 “No.”
 

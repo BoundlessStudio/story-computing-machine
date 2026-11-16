@@ -33,3 +33,7 @@ The draft spends about half its length in the ice. The prose profile sent the wr
 ## Art and rating
 
 The built-in ImageGen tool made separate sheets for Marlis and Delk and paintings of the packers' crossing, the crevasse and the lower valley. Bess Gault and Hadran supplied sheet layout and oil handling. The Caelorum snowy shoulder supplied mountain texture and the buried bridge supplied a model for opaque paint in a confined space with distant light. The lower valley keeps the forked cliff and lowers the ice line. The cover uses the accepted Marlis sheet, crevasse and lower valley, with Marlis's planted hand and daylight within reach. Faces, apparent ages and clothing colors were chosen for this package. The finished prose and inspected cover rate Teen for sustained conscious entrapment and claustrophobic danger.
+
+## 2026-11-16 dialogue edit
+
+Delk now points to the seam and tells Marlis where to put a finger. The independent reader could follow the instruction before Marlis acted. Marlis’s finger going through still reveals the snow’s thickness, and the seam still gives Marlis a way to distract Delk and leave the rope behind.

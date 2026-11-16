@@ -292,7 +292,7 @@ Vask glanced back at the overturned box. "I require a larger stage."
 
 He looked at me as though I had offered him a spoon with a hole in it.
 
-"Eight names," he said. "I counted."
+"Eight names for the next one," he said. "I counted."
 
 Then he ducked through the door and went down my steps, growing smaller as he went. At the gate he was once again nine inches tall. He stood on the top rail, very far from his painted boards, and looked in both directions along the street.
 

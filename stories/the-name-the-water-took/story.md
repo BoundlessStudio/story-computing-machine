@@ -304,7 +304,7 @@ Braska pulled them on. “Which side shows less?”
 
 “In the channel, none. After the red stone, south bank.” She adjusted the wallet under her arm. “I go first.”
 
-“You know the route.”
+“Do you know the whole way?”
 
 “I know this part.”
 

@@ -208,7 +208,7 @@ Nimare looked at her mother's bent head.
 
 Nimare could move as far as the spindle's light would reach. She took the three steps to the bench. Odel pulled the gold border straight and began to unpick a crooked length of basting.
 
-“Would you be ashamed if I did?” Nimare asked.
+“Would you be ashamed of me if I stayed?” Nimare asked.
 
 Her mother held the small scissors still.
 

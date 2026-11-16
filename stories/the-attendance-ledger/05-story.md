@@ -525,7 +525,7 @@ give us the facts once and hang up.”
 The next morning, Mr. Tolland did not call the register aloud. Silent
 self-check-in slips waited on every lab bench.
 
-“Permanent?” Drita asked.
+“Are the slips permanent?” Drita asked.
 
 “Trial policy,” Gideon said. “It reduces the number of opportunities for me to
 drop important documents.”

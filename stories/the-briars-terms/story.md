@@ -256,7 +256,7 @@ I looked beyond him, at the pale path, and tried to remember the girl who had wr
 
 There were things she had not thought to include.
 
-“Can you open it?” I asked.
+“Can you change what the gate asks for?” I asked.
 
 Rhaedren looked back at the gate.
 
