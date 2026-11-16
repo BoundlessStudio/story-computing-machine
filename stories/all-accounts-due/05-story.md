@@ -28,7 +28,7 @@ Their knees bled through their clothes, but Tessellate Grace cared less about pa
 
 “Do not step on anything beautiful,” she called.
 
-“I'm not stepping on anything,” Faris called back. “I'm lying down.”
+“I'd have to get off my belly first,” Faris called back.
 
 He lay flat in a trench of unfinished stone beside the stairs. He had no counter-pattern to wear and no inner gift for the pavement to recognize. That did not make him safe. A prepared surface could arrange an unmagical body as easily as a chair. He crawled where the mortar was still raw, testing it with the brass tongue from his sandal buckle. Plain grit crumbled. Worked grit hummed against the metal.
 

@@ -527,7 +527,7 @@ His whole face changed.
 “You may choose the stall,” she added, “but if you choose the one that burns
 the onions, I reserve the right to regret my consent.”
 
-“Continued consent was explicitly covered.”
+“You may revoke it at the first burnt onion.”
 
 “Good. You were listening.”
 

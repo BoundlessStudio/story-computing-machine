@@ -334,7 +334,7 @@ Ombria marked the terms in chalk at the map's margin. Her handwriting was usuall
 
 Ombria turned the chalk to the weekly duty slate and drew two small blocks. “These hours are private. The ward office does not summon me except for immediate danger to life.”
 
-Draxenne looked at the blocks. “Private for whom?”
+Draxenne looked at the blocks. “May I ask for one of those hours?”
 
 Ombria gave her a cold, level glance over the cup. The effect was impaired by the cloak, which had slipped over one eyebrow. “Administration first.”
 

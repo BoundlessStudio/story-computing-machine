@@ -182,7 +182,7 @@ The braid braced backward along their chosen pull. Aven hauled; I kicked against
 
 When the breath ended, Aven rolled onto their back with their injured arm clutched close.
 
-“Shoulder?” I asked.
+“How’s the shoulder?” I asked.
 
 “Strained.” Their face said more than the word did.
 

@@ -302,7 +302,7 @@ He closed his fingers around the cold metal, then opened them again. Formal rele
 
 Sigrun checked the last toll figure. "You may write one letter."
 
-"And after that?"
+"Will I hear from you?"
 
 "I may answer it."
 

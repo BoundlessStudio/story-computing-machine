@@ -491,7 +491,7 @@ beginnings, not wishes. Plant it if you like.”
 
 Miriam put it in Mateo’s palm.
 
-“Ms. Dallow,” he said, “will Route 0 come again?”
+“Ms. Dallow,” he said, “will Route 0 stop for us again?”
 
 “I promised one return,” Maude said. “Do not embroider that into two.”
 
