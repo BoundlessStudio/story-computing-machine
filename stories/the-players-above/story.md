@@ -288,7 +288,7 @@ They threw themselves clear. A white-hot spur broke from the center and snapped 
 
 Veysa approached first, testing each stone before trusting it. The closed course had exposed a dark metallic pod among the kiln bricks. It was the size of Reniya’s two fists and folded around itself like a seed. No light moved in its seams.
 
-“Cold?” Reniya asked.
+“Is the pod cold?” Reniya asked.
 
 “You’re already holding a bit of it.”
 

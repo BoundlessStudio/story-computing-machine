@@ -258,7 +258,7 @@ Inside were obsolete switch housings wrapped in invoices from eight years ago. T
 
 Pevin held one housing, looked at the label, and put it back. "Wrong crate."
 
-"My call," Cira said. She drew a line through `claims archive` in the ledger and wrote `obsolete housings`.
+"I chose that crate," Cira said. She drew a line through `claims archive` in the ledger and wrote `obsolete housings`.
 
 "The sleeve might be in the other one," Pevin said.
 

@@ -248,7 +248,7 @@ Her thumb went to the dark brooch and stayed there. “Hate it... dark.”
 
 “I know. It'll come back.”
 
-She did not ask how I knew. “Keep... talking. Ribbon.”
+She did not ask how I knew. “More about... the ribbon.”
 
 So I told it again, slower.
 

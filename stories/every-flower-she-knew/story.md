@@ -156,7 +156,7 @@ The millwright arrived in her work apron with grease dried black at the hem. Saf
 
 “It won’t find a fact you never had,” Safra said. “And it won’t tell you which memory is true.”
 
-“I had it,” the millwright said. She was already reaching for paper. “I stood inside that wheel all winter with the pins in my mouth. I can tell you what I ate that week, and I can’t tell you which tooth went in first. It’s in there.”
+“I knew the order,” the millwright said. She was already reaching for paper. “I stood inside that wheel all winter with the pins in my mouth. I can tell you what I ate that week, and I can’t tell you which tooth went in first. It’s in there.”
 
 For the next forty minutes she wrote without looking up: tooth counts, the side from which she had driven each pin, the order in which the old axle rings had come free. Twice she crossed out a line and placed it lower. Once she wrote *uncertain* beside a number rather than polish it into confidence. When the sand ran out, her pencil slowed. The memory did not vanish; access to it narrowed to its ordinary width. She had a sequence for the morning repair and three marked places to verify against the wheel itself.
 

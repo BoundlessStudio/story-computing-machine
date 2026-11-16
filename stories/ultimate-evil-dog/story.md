@@ -416,7 +416,7 @@ Maledict looked at the paperwork waiting on three screens, at his butler, and at
 
 “Will the heated bed be of equivalent quality?”
 
-“It will be appropriate to your size,” the butler said.
+“It will fit you, sir,” the butler said.
 
 Maledict kept his hand down.
 

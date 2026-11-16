@@ -296,7 +296,7 @@ The family stall was another five minutes along the service side. By the time sh
 
 Her sibling looked at the skates in her hand. “What happened?”
 
-“Clasp is on. Go, or you’ll miss them.” She slid behind the counter.
+“Clasp is on. Go, or you’ll miss her row.” She slid behind the counter.
 
 “You’re half an hour—”
 

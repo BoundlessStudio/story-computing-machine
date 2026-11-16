@@ -350,7 +350,7 @@ Pippa and I went to the kitchen alone. She asked whether emergency shelter meant
 
 “Yes,” I said. “Separately. With the usual rules.”
 
-“Group messages?”
+“Can we message each other?”
 
 “On the family account, where I can see them. For now.”
 

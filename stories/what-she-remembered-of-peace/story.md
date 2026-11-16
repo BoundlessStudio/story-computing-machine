@@ -336,7 +336,7 @@ Olyne crouched on Anvek’s damaged side. In the kitchen drawer she kept a list 
 
 “May I take off your jacket?” she asked.
 
-“Not yet. Cut the shoulder seam. I like this jacket.”
+“Leave it on. Cut the shoulder seam. I like this jacket.”
 
 Olyne found she still had Gess’s master keys clenched in her hand. The little brass radio key had stamped a rectangle into her palm. “We left the kitchen latch in pieces.”
 

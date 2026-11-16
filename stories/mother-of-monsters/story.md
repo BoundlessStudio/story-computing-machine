@@ -192,7 +192,7 @@ At the winding drum, Halwen hauled the brake lever and failed to move it. She ha
 
 Kritt dragged the last medicine bag to the ramp. Behind him the north roof burned through, dropping sparks into the grain bins.
 
-“Oil?” he called.
+“Do we take the oil?” he called.
 
 “Leave it,” Halwen tried to say. The word was only voiceless air. No rasp, vibration, or clicks followed. She lurched against the brake stand and pressed both hands to her throat.
 

@@ -262,7 +262,7 @@ Zunel drew new routes in charcoal on the terrace wall.
 
 Polaq followed the charcoal with one finger. “The copyist's son can't manage those steps. The old dog won't either. Give them the lower seed shed, and the blue fever case needs a runner every hour.”
 
-“Mark both.”
+“Mark the shed and the hourly run.”
 
 Yeshal had set three plumbs where the forearm began to curve toward the wrist. “I need people who can call intervals without rounding them.”
 

@@ -266,7 +266,7 @@ Beatriz was already at a small table near the window. The pencil was gone from h
 
 "I am tired. First contract weekend." She peeled the tape from her cuff and wound it around one finger. "I carried a fake brick wall up two flights because someone measured the freight elevator emotionally."
 
-Wesley sat across from her. "Did the wall fit on the stairs?"
+Wesley sat across from her. "Did it make it up in one piece?"
 
 "After we removed a door. The door was real and heavier than the wall."
 
