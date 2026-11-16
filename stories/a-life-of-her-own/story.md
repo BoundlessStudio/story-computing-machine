@@ -206,9 +206,9 @@ Outside, somebody was teaching a child to whistle. The child managed a sharp, st
 
 She sprinkled a little more sugar over the fruit. There was nobody else to please with it. She liked that, too.
 
-Piers came in carrying a candle that had burned almost down to its holder.
+The edge of the tart had started to brown in the oven when Piers came in carrying a candle that had burned almost down to its holder.
 
-“It was beginning to smell unfair,” he said.
+“I could smell supper from the bench,” he said. “It was beginning to seem unfair.”
 
 He lifted a fresh candle from the table and held the wicks together. When the new wick caught, he set both candles down.
 

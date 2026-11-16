@@ -27,3 +27,7 @@ All four reference images inspected and accepted at 1536×1024: separate consist
 Cover accepted after inspecting the exported 864×1536 JPEG: title readable once; both adults recognizable from sheets; Halla's strength, healed scars, blue tunic, and short borrowed olive cloak remain coherent; the knight is lifted clear of the ground, with both swords set aside beneath the willow at dusk. No prose changed after the final fidelity gate. Final AO3 classification of prose and cover together: General, for gentle adult romance, non-graphic construct combat, minor thumb bleeding, and references to captivity/past cruelty; specifics in ratings.md. Both reference coverage and cover inspection are complete before rating/handoff.
 
 Handoff checks: all five media unit tests pass; the full media manifest validates 2,509 selected files, including exactly this story's four references and cover. Drafts and raw review/API/art artifacts remain ignored under tmp/. Final package is ready for a draft pull request.
+
+## 2026-11-16 dialogue edit
+
+Roland confines his first answer to what he saw before leaving. The independent reader connected it to the four faces opening their eyes and Roland’s surprise when the soldiers appear. The reader suggested letting the narration supply their number and location, so Roland uses the same words both times.

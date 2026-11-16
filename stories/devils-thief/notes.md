@@ -28,3 +28,6 @@ Art follows the completed prose and final gate. Fresh collection browsing select
 
 Cover completed from accepted Laurel, Ephraim, Collector, and party references, then inspected as the saved 864×1536 JPEG: identities, coat, scar, plastic costume, coherent hands, background mask/ribbon, night setting, and exact title rendered once agree with the prose/references. Built-in image_gen made every drawing; ImageMagick performed format/size export only. Final AO3-style rating is **Teen**, assigned after prose and cover were complete: sustained supernatural coercion/pursuit, historical abductions and young relatives' deaths, requested release from cursed immortality, and non-graphic aging/death to dust. Specific notes are in ratings.md. No canon promotion or shared-universe addition is proposed.
 
+## 2026-11-16 dialogue edit
+
+Laurel names how close the collector is, asks for the coat she needs, and repeats what Ephraim admitted about Hettie and Christopher. The independent reader could follow the threat from the silence upstairs and distinguished the coat she needs from the tree she’s holding through its pocket. Her account of the two deaths stays with Ephraim’s admission.

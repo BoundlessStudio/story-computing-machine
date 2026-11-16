@@ -222,7 +222,7 @@ Bram came back for the forks.
 
 “He does have quite a lot of containers.”
 
-“That's usually what it is.”
+“Mine have clear lids. Mostly I can see the condensation.”
 
 I moved the blue dish back onto its shelf. On the shelf below was a rectangular plastic tub, the sort with a lid that bends when you try to get it off. I took it out. Someone had written Bram's name across it in black marker.
 

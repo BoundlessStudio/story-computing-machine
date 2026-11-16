@@ -29,3 +29,7 @@ Art followed prose readiness/fidelity: built-in ImageGen made separate white mul
 After prose and selected cover were final, the combined work was rated **General** for mild uncanny food descriptions; see ratings.md. No subsequent prose or cover change.
 
 2026-11-02 — Character-art recheck: inspected all three saved sheets at full resolution, with enlarged hand/cuff views and comparison to the cover. Labels, identities, outfits, props and Bram's single turned cuff are consistent; no obvious anatomy defects found. Romy's decorative beige title strip was the one presentation mismatch with the plain-white-background requirement. A localized built-in ImageGen edit removed it; the corrected saved WebP was inspected again for identity, hands, readable lettering and cover consistency. Bram and Helen needed no changes. The previous sheet and inspection crops remain in tmp/; Git preserves the prior accepted art. Prose, cover and General rating are unchanged.
+
+## 2026-11-16 dialogue edit
+
+Helen replies to Romy’s observation about containers with what she can actually see through her own lids. The independent reader heard her dry humor in the condensation and could follow Romy from that observation to the tub with Bram’s name.

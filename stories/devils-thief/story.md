@@ -264,7 +264,7 @@ The singing had stopped. Someone was explaining, at length, that they had bought
 
 “And you believed him?”
 
-“I believed you could make me loud enough to find.”
+“I believe he’ll hear me from six steps away.”
 
 We stayed like that, his hand around my wrist, the party moving over our heads.
 
@@ -466,7 +466,7 @@ He looked at my pockets, then at the collector. He seemed smaller in his torn sh
 
 I pressed my hand over the pocket with the tree in it.
 
-“Then get that back to me first. I can’t take the doorway without it.”
+“Then get the coat back to me first. I can’t take the doorway without it.”
 
 He nodded.
 
@@ -630,7 +630,7 @@ I kept the watch in my hand.
 
 He nodded.
 
-“What you did. That you heard each of them and shut the door.”
+“What you did. That they were both at the door when you shut it.”
 
 “Yes.”
 
