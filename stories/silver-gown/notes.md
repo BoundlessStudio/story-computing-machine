@@ -51,3 +51,7 @@ Subjects chosen from final prose before cover: separate Mrs. Aderley, Cale, and 
 Built-in image generation used the original for Mrs. Aderley's pale adult identity, loose white hair, silver gown, offered hand and atmosphere. Apple Orchard Hillside supplied Group of Seven inspired oil brushwork, not story facts. Only after reference inspection, the cover used accepted Mrs. Aderley, Cale, hall and guest-room images plus the original. Joined hands, identities/clothes, architecture, and exact title once were checked in the accepted 864×1536 JPEG. Working native copies and full prompts stay in tmp/silver-gown/art/ and tmp/silver-gown/art-prompts.md; only accepted exports enter the package.
 
 Finished prose and accepted cover reviewed together after art completion: General. Reported murder, mild ghostly unease, and a small heat mark remain non-graphic; the cover shows a clothed adult welcome without violence or sexual activity. Specific notes are in ratings.md.
+
+## 2026-11-16 dialogue edit
+
+Cale thanks the woman for answering her door by speaking of other travellers. The independent reader heard his formal courtesy on the first encounter and recognized its echo at breakfast, when the landlady describes the other man Mrs. Aderley let in.

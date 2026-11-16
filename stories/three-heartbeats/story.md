@@ -42,7 +42,7 @@ Nine days had been taken from Asereth at her last repayment. She had reached for
 
 Since then, two hundred and twenty marks.
 
-“We don't know what it will take,” Ruvan said.
+“We don't know how much time it will take back,” Ruvan said.
 
 She stood and let the purple silk drop from her wrist. Fine gold chains settled against the fitted bodice. One had caught in her silver hair; Ruvan freed it with the quick, familiar motion of a man accustomed to untangling a princess from her own costume.
 
@@ -170,7 +170,7 @@ Tiriel unpinned her crown. A shallow red mark crossed her brow.
 
 Her sister's hands stopped.
 
-Asereth looked at the black ribbon tied below her shoulder. “That's for him.”
+Asereth looked at the black ribbon tied below Tiriel's shoulder. “That's for him.”
 
 “Yes.”
 

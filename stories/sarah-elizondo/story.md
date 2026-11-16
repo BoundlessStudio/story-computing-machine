@@ -14,7 +14,7 @@ Then the hand holding the pen moved into view.
 
 He was at the far end of the chamber, fitting a piece of human ceramic into a support. He did not turn. Their work had taught them to finish delicate motions before answering.
 
-“Put it down,” she said.
+“Come and look at the page,” she said.
 
 The hand on the page was small and filthy. There was ink beneath its thumbnail. Beside it, in writing they knew from fourteen recovered entries, someone had written **15**.
 

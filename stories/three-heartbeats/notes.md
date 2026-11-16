@@ -45,3 +45,7 @@ Art references were selected from the finished prose before choosing a cover: se
 Cover made only after the complete reference set was accepted, using Asereth, Ruvan, the hall, an inspected supplied original and the collection painting as inputs. It depicts the completed landing into the vigil, an unchanged princess, aged harpist and empty royal chair. One targeted correction separated the exact title into three lines and removed a duplicated held cane, retaining the dropped cane. The accepted 864×1536 JPEG was inspected for title, identity, clothing, anatomy, paired blades, single cane and setting consistency. All art used built-in imagegen; exact prompts, input paths and accepted output paths are preserved locally in `tmp/three-heartbeats/art-prompts.md`.
 
 Final AO3 classification, after selected cover and prose were finished: **General**. Restrained fantasy peril, bereavement and temporal disorientation; the cover's adult stage costume is revealing but nonsexual. Specific content notes and the combined-work reason are in `ratings.md`. This classification follows actual content intensity, not the initial target or story scale.
+
+## 2026-11-16 dialogue edit
+
+Ruvan names the loss of time in his warning. The independent reader could follow Asereth’s answer about when the debt comes due. Seeing the black ribbon on Tiriel gives Asereth a reason to ask what it means and makes the question about their father’s death follow plainly.

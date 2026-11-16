@@ -136,7 +136,7 @@ She had taken the ribbon out of her mouth. One hand shaded her eyes. The other p
 
 Brinna lowered the camera.
 
-“Did she see that?”
+“Can she see the camera?”
 
 “Take another.”
 
@@ -258,7 +258,7 @@ There were fourteen people in it. Brinna counted again. A man held a child on ea
 
 Brinna's next breath hurt a little.
 
-“Tell Ivrin to attend.”
+“I'll give her the short call.”
 
 One short opening. A few beats for Ivrin to respond, then a quick checking exposure. They waited twenty seconds for that picture.
 

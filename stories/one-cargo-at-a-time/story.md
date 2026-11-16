@@ -102,11 +102,11 @@ Four hundred pounds was the Midge's loaded allowance. Below the deck, the engine
 
 Ruzha looked from one agent to the next.
 
-“Asterfall first. Kersey, Rimehold, I'll give you the next departure when we get back. Tell your cities how long this trip takes.”
+“Asterfall first. Kersey, Rimehold, I'll tell you which load goes next when we get back. Tell your cities how long this trip takes.”
 
 The factor folded the offer carefully.
 
-“You should tell mine yourself.”
+“Come tell me yourself when you've decided.”
 
 “I will.”
 

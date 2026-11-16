@@ -206,7 +206,7 @@ Behind him someone was saying, “Let us out.”
 
 The call ended. Blue looked at Rose.
 
-“Who’s he got in there?”
+“Who's he got in there?”
 
 Rose called back. There was no answer. Relay's number failed too. So did Quickstep's.
 

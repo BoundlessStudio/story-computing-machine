@@ -52,7 +52,7 @@ She could stand if she leaned against something. Other people were crawling out 
 
 “For the gun.”
 
-“They're putting everything into it.”
+“They've been firing at the angel all this time.”
 
 “From the wrong angle.”
 

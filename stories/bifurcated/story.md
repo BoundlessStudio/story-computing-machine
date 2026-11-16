@@ -180,7 +180,7 @@ The Romy on the terrace turned her face to the sky. A long procession of mounts 
 
 “I didn't.”
 
-“I know that now.”
+“I felt how glad you were when you got under the tower.”
 
 At the terrace's edge a loose butterfly rose, dipped, and returned to the shape of a shoulder. Romy in the room felt the small effort of holding together.
 

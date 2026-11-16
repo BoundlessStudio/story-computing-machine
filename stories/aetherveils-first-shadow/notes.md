@@ -68,3 +68,7 @@ The five existing media-selection/publication tests pass. Final public-media man
 
 
 The full public-media manifest builds successfully across 2,467 tracked final art files, including this story's nine selected images and excluding its supplied original. The five media tests, dimensions/formats, source preservation and whitespace checks pass. The package is ready for a draft pull request; no story-page publishing or canon promotion is included.
+
+## 2026-11-16 dialogue edit
+
+Orienne tells the Dayfarer she has reached the crown. The independent reader could distinguish the voice she recognizes from words she cannot make out, and heard her reply as an attempt to reach him before she opens the clasp.

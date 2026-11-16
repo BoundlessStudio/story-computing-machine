@@ -180,7 +180,7 @@ Calico stood trembling below the split.
 
 Dessa crawled to her, caught the trailing reins, and pressed her face against the mare's neck. The familiar smell nearly undid her.
 
-“Easy,” she whispered. “I won’t lift the sky again.”
+“Easy,” she whispered. “I won't lift the sky again.”
 
 Above them, a narrow piece of purple lifted away from East Tooth.
 
@@ -358,7 +358,7 @@ He pulled a little slack through his hand, then took it up again.
 
 “I came to fetch you.”
 
-“I’m glad you’re here.”
+“I'm glad you're here.”
 
 For a while there was only the rain, and Calico breathing between them.
 
