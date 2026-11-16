@@ -29,3 +29,7 @@ Art subjects were chosen from finished prose before cover composition: separate 
 All art used built-in imagegen. Accepted sheets have consistent views, expressive/detail studies and readable labels. One mirrored rear-wing panel was corrected; the dead right wing/crushed left foreleg and functional left wing/intact right foreclaw remain consistent. Rejected raw art stays in tmp. Both location paintings were inspected, including the small single-seat harness/neck connection/two-way 179% display and dawn ridge/carrier/fans/gun geography. The four accepted references are 1536×1024 WebP. Only then was the outside-link cover made from relevant accepted references and the original. Its inspected 864×1536 JPEG preserves identities/damage, exact title once, salt/ridge/dawn and a departing carrier. No title or compositional art was added afterward.
 
 Finished prose and selected cover together are Teen for sustained non-graphic combat, deliberate fatal risk and vivid neural-overload peril; specific content notes are in ratings.md. Names, six-year familiarity, timing, control/limb continuity, original preservation and universe authority were checked. The package is ready for draft-PR review with canon: false.
+
+## 2026-11-16 dialogue edit
+
+Vaska tells Control she sees the same reading. The independent reader heard a brief confirmation over the radio and could still distinguish Vaska’s knowledge of Furnace from what Control can see.

@@ -444,7 +444,7 @@ I wanted someone to hold my hand.
 
 This desire had two histories. I could trace neither without finding the other in the way.
 
-“Would you?” I asked.
+“Would you take my hand?” I asked.
 
 The woman came around the chair and took my hand.
 
@@ -512,6 +512,6 @@ After a while I asked whether it had room for a human sleep berth on its ship.
 
 “I'd like to come back with you. To the square.”
 
-“I can send the exact dimensions.”
+“I can send you the square's exact dimensions.”
 
 “Bring them,” I said. “I want to see what they look like when we get there.”

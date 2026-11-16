@@ -212,7 +212,7 @@ I hung it on my wrist and raised my arm. Its handles made enormous loops beside 
 
 “Oh,” he said.
 
-“I know.”
+“It goes with everything,” I said.
 
 “I spent some time considering what to wear.”
 

@@ -98,7 +98,7 @@ I remembered doing it in the linen room. I'd put my head through a towel as if i
 
 “I asked if I could come. Then I told the gatekeeper. I liked saying it. And when I said it to him, he let you go. You almost laughed on the hill. I thought you might say it back.”
 
-“I told him I was off. It was you he listened to.” I nodded towards the chairs. “So did that man out there.”
+“I told him I was off. It was you he listened to.” I nodded towards the chairs. “I asked for the riding scene and the man out there looked straight at you for his answer.”
 
 Cader leaned far enough around the corner to see the chairs. The girl was smoothing down the cushion. People were waiting in a little semicircle with an opening where we were supposed to come through.
 

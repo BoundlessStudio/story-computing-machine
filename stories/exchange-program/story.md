@@ -206,7 +206,7 @@ Behind him someone was saying, “Let us out.”
 
 The call ended. Blue looked at Rose.
 
-“Everybody?”
+“Who’s he got in there?”
 
 Rose called back. There was no answer. Relay's number failed too. So did Quickstep's.
 
@@ -560,13 +560,9 @@ Highguard found himself on the ground with his hands open. Rose sat a few feet a
 
 For a while they listened to Quickstep running toward them.
 
-“The folder,” Highguard said at last.
+“I did read your folder,” Highguard said at last.
 
-Rose turned her head.
-
-“I did read it.”
-
-“I know,” she said. “So did I.”
+Rose turned her head. “I read your instructions about the hands, too.”
 
 ***
 

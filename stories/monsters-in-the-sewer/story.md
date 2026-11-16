@@ -176,7 +176,7 @@ Tikka knew the other ways out. Most were body-wide pipes, branching into dark th
 
 Vetch paused with the banner across her arms.
 
-“Two humans. One thing with wheels. They're expecting two of us and some little ones. We can give them something bigger to chase.”
+“Two humans. One thing with wheels. They came for two grown ones and any little ones they could catch. We can give them something bigger to chase.”
 
 Tikka took hold of the dragon's jaw. “Hang this over the east drop. Put the body on it. I can make the head move from the gallery.”
 
@@ -308,7 +308,7 @@ Vetch approached the table. There was a split in her shawl and flour between her
 
 “I think so.”
 
-“Everyone out, then.”
+“Into the hall, all of you. Where they can see us.”
 
 Tikka looked at her.
 
@@ -322,7 +322,7 @@ Vetch beckoned to the gallery, then the kitchen door. “Come down. Bring the on
 
 Vetch rubbed her thumb along the tear in her shawl. For a moment she looked toward the little passage behind the kitchen, one of the ways out that would fit a person who left everything behind.
 
-“I know,” she said. “Get the banner straight.”
+“They can see all eighty-seven of us together,” she said. “Get the banner straight.”
 
 It took a while. Nobody could find the youngest of the second hearth, who was eventually discovered asleep inside the dragon head. One household insisted on standing together. Another couldn't stand together because two of its members were not speaking. Skillet wanted the bowls picked up first.
 
