@@ -94,7 +94,7 @@ The bride lowered her bow. “Then tell her a good one.”
 
 One of my strings had begun to fray. She took it off and replaced it with a bright strand pulled from her sleeve. It hummed before I touched it.
 
-“Play this under those trees when you want us,” she said. “We shall hear.”
+“Play on that string under those trees when you want us,” she said. “We shall hear.”
 
 I thanked her. I thanked them all. On my way out the little gentleman tried to kiss my hand, but his beard caught on a chair and he had to bow from some distance.
 

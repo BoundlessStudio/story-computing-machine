@@ -176,7 +176,7 @@ Now he put a plan on my kitchen table. The south court was outlined in blue. Thr
 
 “And the permit holders?”
 
-“The rest of the bill goes through.”
+“They get their tenancies. The workshops in their wing keep their hours.”
 
 I looked at our court. My bedroom was a small blue rectangle. So were Mrs. Kett's and Folio's. In the next wing, where people on temporary permits lived among their worktables, the rooms were grey.
 

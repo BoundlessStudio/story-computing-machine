@@ -178,7 +178,7 @@ Nort tells you that the apple roots have begun to tear. Something below them is 
 
 Mysie's expression changes. Elspie, who is listening from the next stall, folds her arms.
 
-“Then tonight we don't.”
+“Then nobody else learns the words tonight.”
 
 Tib comes out of Hett's shop with two friends. She has brought them to you. You feel, before anything else, the delicious anticipation of their faces changing when they understand.
 

@@ -55,3 +55,7 @@ The user found the first character sheets’ backgrounds too busy and requested 
 All four distinct location paintings were completed and inspected before the cover: lake and fish above the moss-floored hall; the remaining trees, root, low fence and modern church-side street; the shop’s three hanging fiddles and digital listening arrangement; and the Crown’s players’ table, food counter and dance space. The cover then used the accepted Dinah, Fae couple, wedding hall and mortal copse references. The title is exact and rendered once; Dinah’s face, hair, plum dress, charcoal shawl and fiddle agree with her sheet, and the groom’s yellow coat and moth-braided hair agree with his. The accepted image keeps her outside while the offered hand and bride’s music remain inside. The final JPEG is 864×1536. No generated candidate was substituted for a supplied original; none were supplied.
 
 The finished prose and selected cover were rated together after the final discussion and image inspection. General is justified by non-graphic grief and separation, fully clothed cover figures, and the absence of intense material. Specific content notes are in ratings.md. All generated art used built-in ImageGen; exact prompts and final asset paths are available locally in tmp/fae-art-prompts.md.
+
+## 2026-11-16 dialogue edit
+
+A reader linked the bride's instruction to the bright strand she has just fitted. Dinah touches that string at the copse, and the answering fiddle fulfills the invitation.

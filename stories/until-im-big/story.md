@@ -308,7 +308,7 @@ She sat down properly on the floor.
 
 “I know.”
 
-“I didn't know I could do it in summer.”
+“I didn't know I was doing it when I had your sleeve.”
 
 “I know that, too.”
 

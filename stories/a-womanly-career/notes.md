@@ -35,3 +35,7 @@ The resumed fresh Claude session received both participants' actual findings and
 ## 2026-10-16 — Art and final rating
 
 Built-in ImageGen produced separate white-background multi-view sheets for Cressida, Mother, Father, Grandmother, Mr. Brindle and Orri. The important played settings have references: the connected Varn breakfast/hall/drawing rooms, Little Orchard's classroom and its gate/garden. Supplied originals: none. The inspected orchard painting named in `universe/art.md` guided the oil handling. All nine saved references were inspected before the cover used the accepted Cressida, Mother and gate images. Father's pear study was corrected to six identical wedges; the cover's invented flower drawing was replaced by the paper's blank reverse. The saved 864×1536 JPEG has the exact title once, consistent identities and gate geography, empty-handed Mother and the two cardigans. Only final accepted art is in the package; rejected candidates, QA previews and the exact prompt set are under the worktree's ignored `tmp/a-womanly-career/`. After the final prose discussion and saved-cover inspection, the coordinator assigned General to prose and cover together, with specific content notes in `ratings.md`.
+
+## 2026-11-16 dialogue edit
+
+A reader confirmed that Cressida's answer names the nursery trial and leaves Thursday open for her mother to ask about directly. Both Cressida and Mr. Brindle still have a choice after the trial.

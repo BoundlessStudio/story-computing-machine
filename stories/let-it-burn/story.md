@@ -146,7 +146,7 @@ I looked at her. She was silently rehearsing our first line, the one we had copi
 
 There was still time. My hand had begun to shake, but hers was steady. She had a message of her own to spend. I could warn my mother, and Eddra could write to the boy at the shop, on the day before I had first gone there. Tell him where I would be. Arrange an encounter. Give us a chance.
 
-“You could send to your father,” I said.
+“You could write to your father,” I said. “To the boy at the shop.”
 
 She drew the paper from her sleeve.
 

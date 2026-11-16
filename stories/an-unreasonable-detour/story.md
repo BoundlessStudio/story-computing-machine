@@ -168,7 +168,7 @@ They tied the knot four times. By the fourth, the pack train had gone.
 
 Haddie handed her back the cord. “Don't tell Osnet.”
 
-“Doesn't he know?”
+“Does he know about the horses?”
 
 “He knows. Don't tell him you know.”
 
