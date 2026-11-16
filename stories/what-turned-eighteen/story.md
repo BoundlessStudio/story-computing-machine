@@ -174,7 +174,7 @@ I hummed, then put six hands on the cake box.
 
 Maela looked at him. “Stop answering for them.”
 
-“Fine. Asking.” He pointed at the ceiling, then the cake, then me. “Upstairs?”
+“Fine. Asking.” He pointed at the ceiling, then the cake, then me. “Cake on the roof?”
 
 I touched Aluna’s palm once.
 

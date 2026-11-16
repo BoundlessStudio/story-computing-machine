@@ -244,7 +244,7 @@ Nothing in the table said what had awakened in Unit 02. Nothing recorded whether
 
 “Seed located,” Mursa said. “It's coupled to the challenge-response table. Forty seconds to copy.”
 
-Loxan looked at the woman under the cover. “Taken how?”
+Loxan looked at the woman under the cover. “Can you copy it without making her do it again?”
 
 Mursa pulled a page across her desk hard enough for the microphone to catch it. “Run one challenge and I can trace—”
 

@@ -130,7 +130,7 @@ She sat because he was right, which remained one of the least attractive things 
 
 He tore a strip from his shirt and wrapped her heel. The cloth smelled like him: cedar smoke, sweat, and the bitter soap he claimed not to use. His thumb rested a moment against the inside of her ankle. Sennara could feel his pulse there, too quick.
 
-She caught his wrist. "You're hotter."
+She caught his wrist. "You're hotter than before."
 
 "You say the sweetest things."
 

@@ -368,7 +368,7 @@ The next morning I returned with work gloves, labels, and no cart.
 
 My uncles had already moved the washbasin to the dining room. The side door was visible behind it, still blocked by six crates of drawer hardware.
 
-Sael had chalked a lane from the front door to the side door and drawn a line under it in his book. “That’s today,” he said.
+Sael had chalked a lane from the front door to the side door and drawn a line under it in his book. “Today we clear this lane,” he said.
 
 Tobren sat on one of the hardware crates. “Drawer fittings. Nothing else. And nothing goes till I’ve tried it.”
 

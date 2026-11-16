@@ -300,7 +300,7 @@ Ilvara read it twice. “We should determine whether a more secure central refug
 
 Breqen shut the forwarding plate.
 
-She looked at the workers resetting storm-tilted mirrors along the bank. “No. Strike that. I remain here tonight. Tomorrow I will ask again.” She picked up the bone scraper. “This hinge is still salted.”
+She looked at the workers resetting storm-tilted mirrors along the bank. “No. Strike that. I remain here tonight. Tomorrow I will ask my sisters where they wish to stay.” She picked up the bone scraper. “This hinge is still salted.”
 
 In Rusk Hollow, Brikka found a hairline crack where the high bell's mounting met the wall. Mirdakai held the lamp close and began listing repair times, then crossed out all but the first.
 

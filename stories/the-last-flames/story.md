@@ -344,7 +344,7 @@ She carried him to the outer shelf. Ceryth came behind with the ash cloth, limpi
 
 "They'll want you inside," Alexstrasza said. "You needn't do this."
 
-"It's counted." Ceryth went around to the far side of the cairn.
+"Sixty-one. They can spare me." Ceryth went around to the far side of the cairn.
 
 Together they settled Ygdrane inside the ring of cairn stones. Alexstrasza spread the cloth over him. Ceryth held one corner against the wind without being asked.
 

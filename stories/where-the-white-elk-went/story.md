@@ -42,7 +42,7 @@ Avarra knew that motion. He had lowered himself for her on mornings when ice sti
 
 Not carrying her away, then. Not refusing to release her. Asking something, perhaps, though asking was her word for it.
 
-“You could have done that before the branch.”
+“You could have knelt before the branch.”
 
 Winterbough waited.
 

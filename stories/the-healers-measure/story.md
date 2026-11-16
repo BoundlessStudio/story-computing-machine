@@ -300,7 +300,7 @@ Fremda called her into the equipment room, where rain ticked on the narrow windo
 
 Rhoswen had answered versions of the question for twenty-seven months. "The bleed wasn't pulsing. He could hold pressure, and he was still answering me. You were holding the outer growth by yourself."
 
-"And after?"
+"When did you stop healing?"
 
 "I stopped when he could be carried."
 

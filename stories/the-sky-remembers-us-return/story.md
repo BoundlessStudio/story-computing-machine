@@ -410,7 +410,7 @@ He went quiet.
 
 Across the sky, Keshen examined Dalo's planted hand, her bent elbow, the edge behind her. She moved farther from her own drop. Dalo understood the rebuke and shifted back from the chasm.
 
-Miraq noticed. "Oh, she tells you once."
+Miraq noticed. "Oh, she tells you to step back once."
 
 "Her version had visual aids."
 

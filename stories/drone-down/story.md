@@ -274,7 +274,7 @@ The drone faced the post where Sevi hid.
 
 “Sevi.”
 
-“I thought if I got one, you’d stop treating me like the furniture.”
+“I thought if I scored a point, you’d stop treating me like the furniture.”
 
 Kero made a sound too sharp to be a laugh. “So you found an active unit alone.”
 
