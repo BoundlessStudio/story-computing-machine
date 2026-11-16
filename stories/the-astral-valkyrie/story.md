@@ -210,7 +210,7 @@ For a moment I could not work out what answer she needed.
 
 “I have given you very little,” I said.
 
-“You stopped where I wanted to stay. Then you made me go on.”
+“You stopped at the dancing, where I wanted to stay. Then you made me go on.”
 
 Vasketh struggled to stand. “Wait. There are eight hundred years behind her little court. There are things nobody knows now except me.”
 

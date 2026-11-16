@@ -34,7 +34,7 @@ I stayed facedown for a moment. After what had just happened, I felt entitled to
 
 I lifted my head. The child was seven feet tall, pink, and wearing a yellow party dress with cherries embroidered around the hem. Ivory ribbons hung from her two small black horns. Her mother stood behind her in a blue silk gown; the tips of her own horns almost brushed a chandelier full of smouldering cones. One long hand still gripped the edges of a dark opening in the hearth. Through it, sideways, I saw my altar and the priest peering into the crack.
 
-“Did it take?” he whispered.
+“Have you accepted my offering?” he whispered.
 
 The mother blew into the opening. Its edges folded together beneath her claws, and the priest vanished.
 

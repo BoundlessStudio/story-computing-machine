@@ -128,7 +128,7 @@ He hadn't known that. She'd never been there when he came. He had imagined the l
 
 “I never touched her.”
 
-“I read what you wrote.”
+“I read what you wrote about Alvera.”
 
 He could feel the folded photograph becoming wet in his fist.
 

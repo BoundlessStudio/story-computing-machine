@@ -66,7 +66,7 @@ I could demonstrate how much louder. Instead I ask, in the opera star's offended
 
 He looks at me without laughing. For a moment I keep the grand lady's mouth arranged on my face. Then the stage runner calls his name, and he gets up.
 
-“Hair,” I say.
+“Your wig,” I say.
 
 He puts the wig on, checks it in the black monitor frame, and goes.
 

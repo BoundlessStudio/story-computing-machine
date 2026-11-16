@@ -64,7 +64,7 @@ They passed the tombs of the family her grandfather had displaced, then a queen 
 
 “Was that yours?”
 
-“My sixth life. She thought I might wander into the kitchens and get lost.”
+“I wore it in my sixth life. She thought I might wander into the kitchens and get lost.”
 
 The next chamber held square coffins and no likenesses. Lower still, the kings lay on their sides inside jars. Murrant had served them all: these people whose crowns had different shapes, whose prayers Isabet could not read, who had killed one another and kept the cat. Nine lifetimes, the histories said. She had accepted the number as she accepted the nine golden points on his seal, something too old and official to question.
 

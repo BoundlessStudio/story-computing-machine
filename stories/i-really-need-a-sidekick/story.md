@@ -192,7 +192,7 @@ I looked down. Four broad castors, each with a foot brake. A wide timber frame s
 
 I laughed before I could help it. He'd had a splendid entrance, rolling down a hillside in pursuit of a tenor. They'd repeated it twice because the audience wouldn't stop stamping.
 
-He shifted the bird into one arm. “I had hoped this might be rather like that.”
+He shifted the bird into one arm. “I was hoping I'd get an entrance like that again.”
 
 “You could have said.”
 

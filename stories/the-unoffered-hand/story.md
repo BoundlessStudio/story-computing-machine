@@ -274,7 +274,7 @@ The bone was sound. A growing feather had broken near its base; the skin beside 
 
 “An apple branch,” Sovelda said.
 
-“Calling him in?”
+“Was he coming back to your glove?”
 
 She nodded.
 

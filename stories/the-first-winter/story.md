@@ -148,7 +148,7 @@ Her left arm rested crookedly against her ribs. She could use that hand to hold 
 
 "I did fall. After."
 
-I looked at the arm against her ribs. "And this stayed."
+I looked at the arm against her ribs. "The day went back and your arm stayed like that."
 
 She pulled her sleeve back. The scar puckered across the inside of her elbow. I had seen it hundreds of times while we washed clothes.
 

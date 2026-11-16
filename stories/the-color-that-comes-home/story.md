@@ -60,7 +60,7 @@ She wanted a better look. She also wanted the last of her eyebrows. When a hot g
 
 Bozren was grinning at her over the top of his collar.
 
-“A silver piece to look,” she said. “Two if they want the front.”
+“A silver piece to look,” she said. “Two to stand at the sill.”
 
 “You were meant to find buried plate.”
 

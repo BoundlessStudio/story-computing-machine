@@ -268,7 +268,7 @@ He moved the camera. For a moment she saw only his fingers; then the city appear
 
 "She might have liked this," he said.
 
-Zinnet listened to the clumsy tune beneath the hiss of the connection. "Can you keep it there? I want that picture. With the sound."
+Zinnet listened to the clumsy tune beneath the hiss of the connection. "Can you hold the camera there? I want that picture. With the sound."
 
 "The streamers are a mess."
 

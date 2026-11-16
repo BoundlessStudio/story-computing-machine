@@ -50,7 +50,7 @@ He glanced down at his red shirt. “I was doing it at the coast. This is my fir
 
 “Very well.”
 
-“You've been here?”
+“Here all this time?”
 
 “Seven years.”
 
