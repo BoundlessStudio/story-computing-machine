@@ -174,7 +174,7 @@ His ears sank a little. He seemed hurt to be asked something so elementary.
 
 Harnet made a short sound. He was trying to stand.
 
-“How many?” he asked.
+“How many went with her?” he asked.
 
 Vask did not look at him. “Enough.”
 

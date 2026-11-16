@@ -366,7 +366,7 @@ There it was: a room with a door that would stay shut against the world. Their n
 
 Nim got there first.
 
-“And if we leave?”
+“If we accept, can we ever leave?”
 
 “Members of the sovereign's permanent household serve for life.”
 
