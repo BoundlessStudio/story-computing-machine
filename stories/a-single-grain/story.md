@@ -116,7 +116,7 @@ Caldris followed their pointing finger.
 
 I put a hand on the demonstration cloth.
 
-“Ilex. The rings.”
+“Ilex. Show her how you solve the ring-lock.”
 
 “I know. But is that a door to the moon?”
 

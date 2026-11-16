@@ -238,11 +238,11 @@ I closed the second cuff behind his back.
 
 For a moment we were both breathing hard. My left leg was still folded under me. Vard's expensive watch ticked beside my ear.
 
-"Ten seconds," he said.
+"You took ten seconds before," he said.
 
 I put my jaw right.
 
-"Only if you want all of them."
+"Only when I do the whole job."
 
 The carriage gate began to close.
 

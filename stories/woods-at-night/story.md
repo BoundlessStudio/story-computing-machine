@@ -68,11 +68,11 @@ One of the lights was close enough now to illuminate the edge of a stump. A jack
 
 Marnie took a step sideways, trying to see past the first pumpkin.
 
-“That's not the houses.”
+“The houses should be on our right.”
 
-“I know. It's for Halloween.”
+“Maybe it's a Halloween trail.”
 
-“No. Look where they go.”
+“Look where it goes.”
 
 The lights receded into the thickest part of the wood. The new houses ought to have been on our right, beyond the thin fringe of trees. I looked that way. I couldn't find a window.
 

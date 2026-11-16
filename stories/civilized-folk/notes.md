@@ -37,3 +37,7 @@ Only after all three references were accepted was the cover generated using them
 ### 2026-10-26 — User's artwork selection
 
 The user judged the cutaway redundant and requested its removal. The original interior painting now occupies the single accepted hall-image path; the cutaway is no longer selected artwork. The user's supplied image is retained solely as rejection-reference evidence in `art/references/`, which is excluded from the public art selection. The earlier account above preserves the cover's actual generation history. Prose, cover, and their Teen rating are unchanged; this finished-story art selection does not reopen the generation fidelity checkpoints.
+
+## 2026-11-16 dialogue edit
+
+Breska answers the offer of a chair and makes her own position at the table. The independent reader heard the blunt refusal in the same voice she later uses when Haverel offers to let her fetch her sword.

@@ -356,7 +356,7 @@ Edris lifted her head.
 
 “And now you have the keys.”
 
-Ysabet looked at Pellan. “No. I’m going with you under guard.”
+Ysabet looked at Pellan. “Pellan will take the keys. I’ll be with you. Under guard.”
 
 The woman’s gaze moved from her face to the plain shoulder of her coat where the officer’s cord had been. She stood and put on her coat. Down in the street, somebody began passing her words back to the people who could not hear.
 

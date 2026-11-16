@@ -71,7 +71,7 @@ She drew a hard line through *cut with a twist*. He smiled into his tea.
 
 "You won't hear this version from a chair."
 
-"Was planning to get one made."
+"Give me four bars. I'll have a chair."
 
 He stepped aside, and she climbed past him before she smiled.
 

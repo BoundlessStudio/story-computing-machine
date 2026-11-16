@@ -22,7 +22,7 @@ She put her long sword beside the door, beneath the eyes of four spearmen, and c
 
 There was a chair waiting for her. Someone had taken the trouble to polish it.
 
-“I'll manage.”
+“Keep your chair.”
 
 She lowered herself to one knee and set a leather sack on the table. The coins settled with a dense, unlovely noise.
 
