@@ -286,7 +286,7 @@ The youngest singer looked from me to Odrienne. "She just told us to."
 
 "That doesn't answer him," Felisane said.
 
-"I don't know what answers him."
+"Then how am I supposed to tell?"
 
 The first violin tapped the score with her bow. "My lady, the fourth entry is still late. Do you want it corrected or not?"
 

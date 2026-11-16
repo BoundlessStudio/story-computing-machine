@@ -218,7 +218,7 @@ The executor examined the magnified track without touching it. “Can you certif
 
 “Yes. With operating restrictions.”
 
-The brother bent to the magnifier beside her. “That first one’s yours. Right up against Mum’s.”
+The brother bent to the magnifier beside her. “Look. Yours runs right alongside Mum’s.”
 
 The executor pulled the blue folder from under her arm and found a contents form. “The sale of the house continues. The door comes off the fixtures schedule and goes on the estate chattels list as removable personal property, working condition subject to certificate. Net proceeds remain divided in four equal shares.”
 

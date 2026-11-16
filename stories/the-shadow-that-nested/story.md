@@ -326,7 +326,7 @@ Adal set the jack case against the truss, not the housing. "Dog ready. Clutch re
 
 The light reached H. Wings opened. One strand unhooked and drew back. The second followed. The third stayed across the gap, tied into a cup cluster on the fixed housing.
 
-Pado did not offer a meaning. "One remains."
+Pado did not offer a meaning. "One span left."
 
 Ten seconds. The animal beside the cluster spread its sail, gathered the line twice around a forelimb, and pulled it clear before launching along the light edge.
 

@@ -32,7 +32,7 @@ The mill turned seven times. Eight. Nine. Beskaret opened the grain lever and li
 
 Someone had already found you. A hand appeared around the mill door, holding a child’s blue blanket.
 
-“Aumiri? We’re done with the warm.”
+“Aumiri? Can you take the warm back?”
 
 You took the blanket from the child’s aunt. The old wool remembered what you had lent it three nights ago: keep this child comfortably warm. It was still feeding on your attention in a thin, sleepy way. You pressed your palm to the faded hem and took the intention back. The returning thread gave a little pluck, like a weed coming free whole.
 

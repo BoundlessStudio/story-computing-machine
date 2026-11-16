@@ -320,7 +320,7 @@ Korrin's face had settled into broad dark brows, a high crooked bridge, and a mo
 
 "The winter lungs stay. Everything else with my permission expires."
 
-Korrin glanced at the reader. "Dad's base."
+Korrin glanced at the reader. "And Dad's?"
 
 Erisel looked at the gold cell, then at her sister. "Do you want it?"
 

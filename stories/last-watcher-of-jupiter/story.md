@@ -438,7 +438,7 @@ Nadja came onto the private channel. “Four is stable. My hand's warm now.”
 
 “It's swollen.”
 
-“Can you close it?”
+“Can you make a fist?”
 
 “Most of the way. Medical's meeting me at the lock. They asked whether I pulled the link against load.”
 

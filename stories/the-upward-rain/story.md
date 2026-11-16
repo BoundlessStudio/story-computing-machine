@@ -376,7 +376,7 @@ She cut it free.
 
 At marker four the salt cloud darkened from below. What had been a ceiling became a hanging sea, mottled by currents no shore instrument could see. Jessa's continuous tone sounded in their radios, three pulses first.
 
-“Turn signal already obeyed,” Anouk said, breath clipping the words. “Why repeat?”
+“We’ve turned,” Anouk said, breath clipping the words. “Why the signal now?”
 
 “Now it means time,” Jessa replied. “You have seventy-three minutes to the high line by present pressure trend. That is a warning, not a promise. Acknowledge.”
 

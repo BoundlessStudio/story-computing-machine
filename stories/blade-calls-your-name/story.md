@@ -414,7 +414,7 @@ Kosca let out a breath. “People can go home in twelve minutes if the second re
 
 “I said go home. I didn't say sleep.”
 
-Yevet tore a temporary tag from her book and tied it to the tenth tooth, well clear of the chain. “Guild membership?”
+Yevet tore a temporary tag from her book and tied it to the tenth tooth, well clear of the chain. “Do I put the guild on your tag?”
 
 Odmara pulled off her scorched glove. “No.”
 

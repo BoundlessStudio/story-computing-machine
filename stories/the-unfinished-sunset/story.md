@@ -186,7 +186,7 @@ Ilessa had opposed the risk. Arveth had cut the release braid and crossed the di
 
 Neth had been winding the blue thread around their fingers. “I sat on the mill wall every turn the first year. I had a count going. Turns to a day, days to the pass opening, how long the road up would take you.” They pulled the thread tight. “I kept it four years.”
 
-“In spring I was east of the river,” Arveth said.
+“I stayed east of the river that spring,” Arveth said.
 
 She looked up toward the lane she had not entered. A loom knocked there again. Three beats, pause, two beats. Her mouth formed the beginning of a word and stopped.
 
