@@ -21,3 +21,7 @@ In the final exchange, the keeper proposed a physical heading cue and the writer
 Final Decisions checkpoint: Yes, native confidence 1.00, P(Yes) 1.00, P(No) 0.00. Proceed to art and rating. Zero restarts.
 
 Built-in imagegen made separate Ione and Corl sheets and paintings of the quarry road, the bay and rock channel, and the spires and finish. The Veska sheet guided layout and brushwork only. The Open Quarry Road guided rock handling and the Sheltered Bay and Swimming Rock guided freshwater color and brushwork. The accepted sheets and the spires painting guided the cover, which shows the final approach before release. The inspected cover preserves Ione's pull ring and jacket, Corl's propeller plane, and the gate and stripe from the location painting. General fits the finished prose and cover.
+
+## 2026-11-16 dialogue edit
+
+Corl asks where Ione began her turn. The independent reader could place the question in what he saw around the gate and at the finish. Ione’s chalk line answers it, and the line Corl draws in return puts their racing curiosity in the foreground of the last beat.

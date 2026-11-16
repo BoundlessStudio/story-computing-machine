@@ -44,7 +44,7 @@ Brown blades rose above the buildings and spread out just under a moving ceiling
 
 “Which way’s the surface?” Emil asked. He was still standing where she had put him. His head was tipped so far back that his hair stood off his forehead. Nima pointed out where the light broke and came together again. A shoal of little gray fish was making its way through the gaps. For two nights she had sat up taking fish out, to get that thin scattering that bent before any one fish seemed to have given a signal.
 
-“Wait,” he said. “That’s kelp? I’ve had that out of a foil bag my whole life. If I were selling it I’d have put this on the bag. I’d have left the little window out entirely. The sight of what’s in the bag has never done them any favors.” He watched the next swell reach the surface. “I keep thinking that’s going to come out the top.”
+“Wait,” he said. “That’s kelp? I’ve had that out of a foil bag my whole life. If I were selling it I’d have put this on the bag. I’d have left the little window out entirely. The sight of what’s in the bag has never done them any favors.” He watched the next swell reach the surface. “That long leaf looks like it’s about to come right out the top.”
 
 A light went on in the stairwell of the building opposite. Somebody pushed open the wire-glass door that let out onto the roof and stood with one slipper in the doorway. The person behind them was still in the stairwell, trying to get past. Nima was wondering if she could bring a patch of the forest down a little, into the gap between those roofs, when a hard pink light came on at the far end. It took a blade off halfway up the stem. A carton fell in its place and began its old turn.
 
@@ -66,7 +66,7 @@ She opened her study from the old lunar atlas. The two facing pages in the scan 
 
 Emil tucked a fold of cloth under the tablet. “What about the birds?”
 
-She wanted to give him a time to be here for the birds. She looked out past the end of the line where the light of the city went up the hills. “I’ll want you where you were,” she said. “It has to read from there.”
+She wanted to give him a time to be here for the birds. She looked out past the end of the line where the light of the city went up the hills. “I’ll want you where you were,” she said. “I need to see if my moon reads from there.”
 
 Emil picked up the jar. She thought he was going to take it to the door. He carried it the length of the coping and set it down where she’d asked him to stand.
 
@@ -92,7 +92,7 @@ Its light showed Nima the red scrape the cabinet had left across her knuckles. S
 
 The open cabinet whistled in the wind. Nima counted to eight twice. The moon was still there when Emil came for the blackout cloth. She slipped her own plug out of the socket and followed him to the coping with her tablet. The concrete felt colder away from the vent and the rain was working its way through the seat of her jeans. He put the loose end of the cloth under his knee to keep it from going over. With the hand he had free he tried the shape of the dark plain, moving his finger in the air until he found where the mountains broke.
 
-“I can get in there,” he said. He leaned a little closer to her, his elbow still over his knee, so she could sight up his arm. “There’s that place where it narrows. If you went through that way I could stand right here and watch you go and there’d come a point where I’d lose you. See where I mean?”
+“I can see a way in,” he said. He leaned a little closer to her, his elbow still over his knee, so she could sight up his arm. “There’s that place where it narrows. If you went through that way I could stand right here and watch you go and there’d come a point where I’d lose you. See where I mean?”
 
 The two pale horns of the mountains had a little hook apiece. She remembered one of them hanging for a while on the tablet, almost too fine to have a color. Now she could hold her thumbnail up against the hook and there would be room to draw around the nail. She lowered her hand and leaned back on both palms. Her hair blew across her mouth. She could leave it there.
 

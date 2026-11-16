@@ -17,3 +17,7 @@
 **Final Decisions checkpoint:** Yes; native confidence 1.00 (Yes 1.00, No 0.00; source ambiguity 0). Proceed; 0 restarts, no user ruling. The finished story delivers the permit-day discovery and lets the retired Comet Lace use her skill on a flight they choose together.
 
 **Art and rating.** Built-in ImageGen made two character sheets and three location paintings. The Tansy/Redshift sheet from *Yours to Keep* guided the presentation and oil handling. *Right of Way*'s ridge supplied light and aerial depth for the lookout, *The Sky in His Teeth*'s town and tower supplied rooftop rhythm for the high span, and *The Funny Part*'s payroll street supplied brushwork for the car interior. These informed handling, with no borrowed characters or places. Inspected the five saved WebPs before using both sheets and the lookout and high span on the cover. The saved JPEG preserves their faces, ages, clothes and geography, with the exact title once. General for the finished prose and cover: brief peril and a non-graphic recollection of a rescue.
+
+## 2026-11-16 dialogue edit
+
+Mom answers Nola’s question about eating alone and spells out what she ordered. The independent reader heard the mushrooms as Mom’s own small choice after her last dispatch, in the same dry voice as her joke about getting winged boots through doors.

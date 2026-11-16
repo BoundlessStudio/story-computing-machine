@@ -41,3 +41,7 @@ The final Decisions checkpoint returned Yes with native confidence 0.94, P(Yes) 
 The two character sheets study Iven and Bess Gault. The location paintings establish the Tall Sill reading room and Lask's broad stair and separate clock tower, the two sides of Iven's sightline at the decision. The supplied image governs casting, architecture, and the summer light. The Library Keeper sheet from *Before She Paints the Ending* informs the arrangement and paint handling of the character studies. The bookbinder's workroom from *A Life of Her Own* supplies the treatment of a working interior, and *Smoke Over the Roofs* from *Between the Colors* supplies the brushwork and depth of the townscape.
 
 The cover uses the accepted character and location references with the original. It shows Iven at the sill with the green copybook before Bess takes the tower. The exterior sightline was corrected so Tall Sill's arch frames the view and the broad stair and clock tower occupy separate sides of the gulf. The four saved references and the cover were inspected against the final prose and original. The prose and cover received a General rating.
+
+## 2026-11-16 dialogue edit
+
+Bess names the tower when she tells Iven what she let go. The independent reader could tell why the stair still held and hear “the rest” as the consequence of waking her. The tower, the father and daughter, and the remembered pail still carry the two costs into Iven’s refusal.

@@ -24,7 +24,7 @@ Nari was beside me in black chiffon, with wine-red webs of it trailing from her 
 
 Romi lowered her train across my foot while I shifted it. “Say your boot has split. I’ll walk you out to our car before they put on the second record.”
 
-“We’d lose her in the first one.” I could picture a woman stepping out of a dress and away from a rail, becoming one of a hundred people I’d stood beside all week. I’d spent enough of my life being that woman. “Get me close to her. Nari can tell me when.”
+“She’ll see me go. We’ll lose her before I reach the car.” I could picture a woman stepping out of a dress and away from a rail, becoming one of a hundred people I’d stood beside all week. I’d spent enough of my life being that woman. “Get me close to her. Nari can tell me when.”
 
 Nari touched her platform toe to the floor. “My camera’s down here.” Two taps came up through my own heel. “Wait for my hand.” She had used the same two taps with her knuckles once to keep me from lifting my head while a transport plane came apart around us and Romi tried to get three men in dinner jackets into parachutes.
 
@@ -42,7 +42,7 @@ Mireille’s card listed the red crosses hanging from her white sleeves and ever
 
 I went to the dragon’s rail to see the underside of that stone. A woman coming the other way on clear blocks lifted a great drift of lilac gauze so I could duck under. I got to the rail as the dragon model’s dresser was lifting off the wing. The metal caught on an upright. I took the weight of it and the model ducked her head. Her freckles ran down to where the dress took over. She smelled of orange peel and hairspray.
 
-“Pass me the ring too. She’ll want her hands for this bit.” I held my hand out for it.
+“Shall I take the ring while you get clear of the wing?” I held my hand out for it.
 
 She slid it off with her other hand. I saw the back of the stone for less than a second before she closed it into her fist. “They made me promise to give that one back myself.”
 
@@ -58,7 +58,7 @@ Coming back past the pier I caught the third designer laying a new strip of tape
 
 Romi was at the quick-change rail in silver net and starry boots, her long braid looped up so the dressers could get to the rings in it. Beside her the wing dresser had opened a velvet box with two places for rings. Both had worn the same little hollow in the lining.
 
-“Best have them bring the rings back themselves,” Romi told her. “Let the other dresser send one across and you’ll be getting it in an empty powder tin next week. Which girl did you lend it to? I can fetch her.”
+“Best have them bring the rings back themselves,” Romi told her. “Let the other dresser send one across and you’ll be getting it in an empty powder tin next week. Which girl has the other one? I can fetch her.”
 
 The dresser shut the box with her thumb and leaned in close to Romi. “Mireille.” Across the aisle Mireille’s designer was telling an interviewer how her own workroom had made every piece of her jewelry.
 

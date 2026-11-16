@@ -60,3 +60,7 @@ Clean remake of *The Last Look* from the original request and all 15 supplied fi
 **Operational reply.** The user replied “yes” to retrying with the verified lossless copies and finishing Mireille’s cover pose and the draft replacement pull request.
 
 **Final fidelity and cover.** The lossless retry covered the complete prompt, finished prose and all 18 supplied reference images at identical pixels. Decisions returned Yes at native confidence 0.86, with P(Yes) 0.93, P(No) 0.07 and source ambiguity 0. The action was proceed with zero restarts. The final 864 × 1536 cover places Mireille’s hand on her own stomach and gives her a distinct pose from Della. The finished prose and cover were reviewed together and rated General.
+
+## 2026-11-16 dialogue edit
+
+Della says why leaving would cost them the suspect, addresses Tilda directly while taking the wing’s weight, and Romi asks who has the second ring. The independent reader could tell what each woman knew at each point. Della’s polite offer still gives Tilda room to refuse, and Romi’s powder-tin story gives the dresser a reason to answer.

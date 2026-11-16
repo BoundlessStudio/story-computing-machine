@@ -58,7 +58,7 @@ Mom ran her thumb back and forth over the edge of the loop in her hand. “Every
 
 “By yourself?”
 
-“I got mushrooms. The whole thing.”
+“Just me. Mushrooms on the whole thing.”
 
 She had her face turned into the wind. Her free hand made a little turning motion. I could practically see her going through it.
 

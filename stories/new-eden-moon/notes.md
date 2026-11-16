@@ -53,3 +53,7 @@ The supplied original determined the violet city light, the train and coping geo
 The later art direction makes the commercial sky in the Vane House painting a continuous grid of projection panels. The falling drink carton and the constellation occupy separate slots, and the seams recede toward Needle Bend. The supplied edit target is preserved with the story references.
 
 The updated cover uses the Vane House panel grid in the held-moon scene. Fine joins cross one continuous lunar disc, and the dark surrounding panels carry the rest of the shared frame. The revised cover and the prose were reassessed as General.
+
+## 2026-11-16 dialogue edit
+
+Emil singles out the kelp blade he’s watching, Nima tells him to look for her moon, and his last line names the opening he can see. The independent reader could follow Nima’s choice from his question about the birds through the one-finger signal to the moment he can imagine her going through that opening.
