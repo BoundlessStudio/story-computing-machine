@@ -316,20 +316,24 @@ then explains what a line meant. Model readers rarely report this state, because
 they resolve the missing reference without noticing they have done so.
 
 **Key Questions:**
-- For each pronoun or bare question, which earlier words in this scene tell the
-  listener what is meant?
-- Could the listener have given that reply from what was said aloud?
+- For each pronoun or bare question, which words or established observations
+  make its meaning recoverable when it is spoken?
+- Could the listener have given that reply from the current line and prior
+  context, including shared history and ordinary inference?
 - Read an account as speech alone: could a stranger repeat back what happened?
 - Was this line added to close a gap a reviewer found?
 
 **Diagnostic Checklist:**
-- [ ] Every reference points at something already said or visible in the scene
-- [ ] No reply depends on knowledge the page has not given the listener
+- [ ] References are recoverable from prior context or the current line, or the
+  scene registers the listener's confusion
+- [ ] New names and facts can be introduced by the line itself
+- [ ] Each reply's knowledge or inference has a basis available to the listener
 - [ ] An account runs long enough, and in enough order, to be retold
-- [ ] No sentence of narration translates a spoken line
+- [ ] Narration adds a response or perspective without having to decode speech
+  the listener has already understood
 
 **Interventions:**
-- Name the person or thing instead of making the listener ask
+- Name the person or thing when cryptic fragments merely delay the account
 - Rewrite the reply from the listener's knowledge; let them get it wrong
 - Give an account room, in the teller's idiom, or move it out of the scene
 - Take a reviewer's missing fact out of the dialogue and restage the moment
@@ -349,10 +353,12 @@ silence to hold back.
 - If the speaker were not allowed to say "I know", what would they say?
 
 **Diagnostic Checklist:**
-- [ ] The question, apology, accusation, or offer is spoken, not implied
-- [ ] At most one cut-off line or narrated silence, and the story has earned it
-- [ ] Allies want something from each other in every scene they share
-- [ ] Bare acknowledgements do not end the exchanges that matter
+- [ ] The exchange delivers the conversation the premise and relationship set up
+- [ ] A cut-off line or silence carries an understood response or a deliberate
+  refusal with a consequence
+- [ ] Allies have individual wants and attention, including when they agree
+- [ ] An acknowledgement that ends an important exchange carries enough meaning
+  for the listener and reader at that moment
 
 **Interventions:**
 - Write the line the dash cut off, then decide whether the dash stays

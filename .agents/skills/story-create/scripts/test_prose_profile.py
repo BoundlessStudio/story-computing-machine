@@ -110,6 +110,32 @@ class ProseProfileTests(unittest.TestCase):
         self.assertNotIn("bare acknowledgement", notes)
         self.assertNotIn("listener's side", notes)
 
+    def test_uppercase_speech_counts_toward_dialogue_and_avoided_talk(self):
+        p = pp.profile("“I KNOW.”\n\n“I—”\n\n“WHO?”\n")
+        self.assertEqual(p["speech_count"], 3)
+        self.assertEqual(p["dialogue_share_of_words"], 1.0)
+        self.assertEqual(p["i_know_turns"], 1)
+        self.assertEqual(p["bare_acknowledgements"], 1)
+        self.assertEqual(p["cut_off_lines"], 1)
+        self.assertEqual(p["one_or_two_word_spoken_questions"], 1)
+        self.assertIn("WHO?", p["pointing_lines"])
+
+    def test_curly_apostrophes_preserve_non_answers_and_mannerisms(self):
+        text = "She didn't answer. He couldn't reply. It wasn't anger. It was fear."
+        plain = pp.profile(text)
+        curly = pp.profile(text.replace("'", "’"))
+        self.assertEqual(plain["narrated_non_answers"], 2)
+        self.assertEqual(curly["narrated_non_answers"], plain["narrated_non_answers"])
+        self.assertEqual(curly["mannerisms"], plain["mannerisms"])
+
+    def test_paragraph_and_exchange_runs_stop_at_scene_breaks(self):
+        scene = "\n\n".join(["“Fine.”"] * 4)
+        p = pp.profile(f"{scene}\n\n***\n\n{scene}")
+        self.assertEqual(p["scenes"], 2)
+        self.assertEqual(p["longest_run_of_short_paragraphs"], 4)
+        self.assertEqual(p["longest_run_of_bare_exchange"], 4)
+        self.assertNotIn("long stretch of bare short lines", " ".join(pp.observations(p)))
+
     def test_meaning_it_or_meaning_to_is_not_a_gloss(self):
         p = pp.profile("“Go,” she said. She meant it. She had meant to say more.\n")
         self.assertEqual(p["narrator_glosses"], 0)

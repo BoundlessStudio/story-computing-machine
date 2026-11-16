@@ -177,33 +177,36 @@ Readers report honestly or the process is theatre. Competence is not the standar
 
 ## G. Plain reading
 
-*For one new, isolated Claude session each time it is run: once on the first complete draft, alongside the cold readings, and once more after the last change to the prose, before the final fidelity gate. If Claude is unavailable, a fresh Codex reader that has seen nothing of this story. Input: the whole prose and nothing else. No request, no outline, no images, no notes.*
+*For one new, isolated Claude session each time it is run: once on the first complete draft, alongside the cold readings, and once more after final discussion and revisions, with repairs rechecked at the scale set out below before the final fidelity gate. If Claude is unavailable, a fresh Codex reader that has seen nothing of this story. Input: the whole prose and nothing else. No request, no outline, no images, no notes.*
 
-*Why it exists: every other reader has seen the request, and a model resolves an unanchored “he” or a clipped fragment so easily that it does not notice doing it. The person the story is for cannot. This reading is built to make that work visible. The late run matters most, because repairs made in the last round are where opaque lines enter.*
+*Why it exists: other readers have seen the request. A model can silently fill a gap from that context or from later prose. This reading records what the page makes available when each line arrives. The late run matters most, because repairs made in the last round are where opaque lines enter.*
 
 > You are checking whether a stranger can follow what the people in this story say to each other. You have been given the story and nothing else, on purpose. Everyone else who has read it knows what it is supposed to say, and they can no longer tell which lines depend on knowing.
 >
-> You are a far better guesser than the person this story is for. From what comes later you can work out what almost any line must have meant. That ability is the problem being tested, so do not use it. A reader meets each line once, at reading speed, knowing only what came before it.
+> Work in story order. For meaning and knowledge, use the current spoken turn and what came before it. A line can introduce a person or fact itself. Ordinary inference from established action, shared history, and subtext is allowed, but quote its basis and name the inference. Keep the reader's knowledge and each listener's knowledge distinct. A speaker tag attached to the turn can identify its speaker.
 >
-> **Part one: the ledger.** Go through the story in order and number every spoken line. For each, give three things, briefly:
+> Do not silently use later speech or narration to supply a missing meaning. If later text resolves a difficulty, retain your initial observation and say where it resolves. A deliberate mystery or a listener who asks for clarification can make temporary uncertainty legible. Say whether the scene lets the reader follow that uncertainty or expects understanding the page has not supplied.
+>
+> **Part one, the ledger.** Go through the story in order and number every spoken turn, joining speech split by a tag when the speaker continues. For each, give three things, briefly. If there is no spoken dialogue, say so and continue with any applicable findings.
 >
 > - *Speaker and listener.*
-> - *Plain meaning,* in twelve words or fewer, with every “he,” “she,” “it,” “they,” “that,” “this,” and “there” replaced by what it stands for.
-> - *Anchor:* the earlier words, quoted, that tell the listener and the reader what is meant. Earlier means before this line. If the only support comes afterwards, or you supplied it by inference, write NONE.
+> - *Plain meaning,* briefly, replacing references with their referents where the page establishes them. Leave an unresolved referent visibly unresolved.
+> - *Support.* Quote the words in this turn or earlier text that make the meaning available. Label an inference and show its basis. A complete introduction can support itself. If the meaning requires an invented fact or later clarification, write UNRESOLVED and name the missing information. Track who knows it when that affects the reply.
 >
-> **Part two: findings.** List each line that fails, quoted, under one of these heads:
+> Before moving to findings, check the support column. If it cites something that happens after the turn, replace that support with evidence already available or mark the first encounter UNRESOLVED. Put the later resolution in a separate note, keeping it out of the first-encounter paraphrase.
 >
-> - *No anchor.* A pronoun, a bare question, or a fragment that points at something not yet named.
-> - *The listener could not have said that.* A reply to something nobody said aloud, or one that uses knowledge the page has not given that person.
+> **Part two, findings.** Check every UNRESOLVED ledger entry here. Quote the line and explain the difficulty under the relevant heading, or give the textual reason the temporary uncertainty works. Keep observations about clear but emotionally unsatisfying exchanges distinct from failures to understand what was said.
+>
+> - *No anchor.* A reference or fragment whose needed meaning is unavailable from this turn and the preceding context. Identify what the listener or reader would have to invent.
+> - *The listener could not have said that.* A reply that uses knowledge or an interpretation unavailable to that person from the current turn, established shared history, and what they have heard or seen.
 > - *Cannot be restated.* You could not put the line in plain words without guessing.
 > - *Speaker unclear.* You had to count back to know who was talking.
-> - *Translated by the narrator.* The narration after the line says what it meant or how to take it.
-> - *Not answered.* A question or statement cut off, met with “I know,” or followed by a sentence saying nobody replied, where you wanted the reply. Say what you wanted to hear.
+> - *Translated by the narrator.* Later narration has to supply the line's missing meaning. Quote both passages and identify what could not be understood when the line arrived. A reaction, emotional depth, or a viewpoint character's interpretation can add to an already legible line.
+> - *Not answered.* An exchange cuts off or falls silent where the story has made a reply consequential. Quote the setup, say what remains unresolved, and consider whether the silence or action itself communicates a response. A short reply or interruption alone is insufficient evidence of avoidance.
 >
-> **Part three: retelling.** From the spoken words alone:
+> **Part three, retelling.** Retell any account a character gives of past events or of how something works, using the speech and context established before the account. Identify what the speaker actually tells the listener and what the earlier context supplies. Mark gaps that prevent following the account or a consequential reply. Preserve mysteries the story makes intelligible as mysteries.
 >
-> - Retell any account a character gives of past events or of how something works. If you cannot retell it, say what is missing.
-> - Say what the two central people said to each other in the conversation that mattered most. If that conversation is not on the page, say so.
+> Say what the central people communicated in the conversation that mattered most. If the story builds an expectation of a conversation and leaves it out, quote the setup and say what remains unaddressed. Judge this expectation from the story's own form and events.
 >
 > Then quote any sentence of narration, anywhere in the story, that you could not restate in plain words.
 >
@@ -211,7 +214,7 @@ Readers report honestly or the process is theatre. Competence is not the standar
 >
 > [STORY]
 
-**Answering a plain reading.** Its findings are demonstrated problems and are not weighed as taste. The writer answers each by rewriting the line or restaging the moment. Two responses are not available. Explaining what the line means confirms the finding. Adding a sentence of narration that explains the line fixes nothing, and neither does a new spoken line whose only purpose is to supply the missing fact. A finding may stand only when the confusion is the point of the scene and someone in it registers the confusion. Send the reporting session the rewritten passages in context and ask whether each can now be followed.
+**Answering a plain reading.** Examine every finding with the reporting reader and answer it using quoted evidence from the page. A reading can be corrected when it missed available support, or when the text makes uncertainty or subtext legible. Record that reason and any continuing reader difficulty. If the defense requires the outline, later clarification that the reader needed earlier, or an explanation of private intent, repair the line or restage the moment. A confirmed failure to follow the exchange requires a repair. Avoid adding narration that translates the line or a spoken line whose sole job is to patch the missing fact. Send the reporting session the rewritten passages in context and ask whether each can now be followed. Review changes to a decision, revelation, relationship, or ending at the whole-story scale required by story-create.
 
 ---
 
@@ -224,5 +227,5 @@ When readers, writer, and keeper exchange findings, each reader should:
 - Test proposed repairs by asking what they will cost: which good sentence, which silence, which strangeness goes if this is fixed that way?
 - Prefer restaging or cutting to explaining. When the proposed repair is an added clause of clarification, say so.
 - Keep repairs out of dialogue. When the answer to a gap in the logic is a new spoken line, ask who in the room needed telling.
-- Do not file a line-level finding under taste because it is small. “I could not tell what this meant” and “these two could trade lines” are demonstrated problems. Disliking a line is taste only when the reader can say what the line means and why that person would say it.
+- Take a difficulty with one line as seriously as a difficulty with a scene. Test claims such as “I could not tell what this meant” and “these two could trade lines” against the quoted passage. Correct mistaken diagnoses with textual evidence and repair sustained problems at their cause.
 - Keep craft and promise findings both alive. Neither is polish.

@@ -124,9 +124,15 @@ def share(values, predicate) -> float:
     return round(sum(1 for v in values if predicate(v)) / len(values), 3) if values else 0.0
 
 
-def longest_run(flags) -> int:
+def longest_run(flags, scene_ids=None) -> int:
     best = run = 0
-    for flag in flags:
+    previous_scene = None
+    for index, flag in enumerate(flags):
+        if scene_ids is not None:
+            scene = scene_ids[index]
+            if scene != previous_scene:
+                run = 0
+            previous_scene = scene
         run = run + 1 if flag else 0
         best = max(best, run)
     return best
@@ -147,7 +153,7 @@ def profile(text: str) -> dict:
     # One paragraph is one speaker's turn, so quoted pieces split by a tag or a
     # beat ("Now," she said, "sit down.") are joined and counted as one speech.
     speeches = [" ".join(QUOTE.findall(p)) for p in paragraphs]
-    speeches = [s for s in speeches if re.search(r"[a-z]", s)]
+    speeches = [s for s in speeches if any(character.isalpha() for character in s)]
     speech_lengths = [words(s) for s in speeches]
     spoken_words = sum(speech_lengths)
 
@@ -161,7 +167,7 @@ def profile(text: str) -> dict:
     for scene_id, p in zip(scene_ids, paragraphs):
         quotes = QUOTE.findall(p)
         speech = " ".join(quotes).strip()
-        if not re.search(r"[a-z]", speech):
+        if not any(character.isalpha() for character in speech):
             continue
         key = normal(speech)
         first_in_scene = scene_id not in scenes_with_speech
@@ -177,11 +183,11 @@ def profile(text: str) -> dict:
             or (first_in_scene and PRONOUN_START.match(speech))
         ):
             pointing.append(speech)
-    narration_lower = " ".join(narration).lower()
+    narration_lower = " ".join(narration).lower().replace("’", "'")
     non_answers = len(NON_ANSWER.findall(narration_lower))
     glosses = len(GLOSS.findall(narration_lower))
 
-    lower = body.lower()
+    lower = body.lower().replace("’", "'")
     senses = {name: len(re.findall(r"\b(?:" + pattern + r")\b", lower)) for name, pattern in SENSES.items()}
     mannerisms = {name: len(re.findall(pattern, lower)) for name, pattern in MANNERISMS.items()}
     mannerisms = {name: count for name, count in mannerisms.items() if count}
@@ -207,14 +213,14 @@ def profile(text: str) -> dict:
         "paragraph_mean": round(statistics.mean(para_lengths), 1) if para_lengths else 0,
         "paragraphs_12_words_or_fewer": share(para_lengths, lambda n: n <= 12),
         "paragraphs_60_words_or_more": share(para_lengths, lambda n: n >= 60),
-        "longest_run_of_short_paragraphs": longest_run(n <= 12 for n in para_lengths),
+        "longest_run_of_short_paragraphs": longest_run((n <= 12 for n in para_lengths), scene_ids),
         "dialogue_share_of_words": round(spoken_words / total_words, 3) if total_words else 0,
         "speech_mean": round(statistics.mean(speech_lengths), 1) if speech_lengths else 0,
         "speeches_5_words_or_fewer": share(speech_lengths, lambda n: n <= 5),
         "speeches_40_words_or_more": sum(1 for n in speech_lengths if n >= 40),
         "longest_speech": max(speech_lengths, default=0),
         "one_or_two_word_spoken_questions": sum(1 for s in speeches if s.strip().endswith("?") and words(s) <= 2),
-        "longest_run_of_bare_exchange": longest_run(bare),
+        "longest_run_of_bare_exchange": longest_run(bare, scene_ids),
         "speech_count": len(speeches),
         "bare_acknowledgements": acknowledgements,
         "bare_acknowledgement_share": round(acknowledgements / len(speeches), 3) if speeches else 0,

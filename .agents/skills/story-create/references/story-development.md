@@ -8,7 +8,7 @@ This guide is for the writer, and for the outline readers who test the result. [
 2. **Takes considered** – the stories this could have been, and the one chosen.
 3. **Provisional direction** – the chosen story in a few paragraphs.
 4. **Craft plan** – teller, cast and speech, the conversation the story owes, reference character studies, setting.
-5. **Scene briefs** – the two to four scenes the story will inhabit, and the ending.
+5. **Scene briefs** – the scenes the story will inhabit, often two to four, and the ending.
 
 The promise and the fidelity comparison are covered in `story-create`. Everything below serves that promise; none of it licenses a cleverer story than the one that was asked for.
 
@@ -36,7 +36,7 @@ Record the rejected takes in a line each. The outline readers can then see what 
 
 ## Know the people
 
-A character is someone who could surprise the reader and still be themselves. For each of the two or three principals, decide:
+A character is someone who could surprise the reader and still be themselves. For each principal, usually two or three in a short story, decide:
 
 - What they want in this story, concretely, and what they want that they would not admit.
 - A contradiction: brave and vain, generous and controlling, devout and curious.
@@ -44,9 +44,9 @@ A character is someone who could surprise the reader and still be themselves. Fo
 - What they are good at, and how that shows in what they notice.
 - How they talk (next section).
 
-Give the second principal a want that crosses the first one's even when they love each other. Two people who agree are one character.
+Give each principal their own wants, attention, and way of acting, including when they love each other and share a goal. Look for the points where those wants cross and where agreement itself costs or reveals something.
 
-That want has to reach into each scene. For every pair who share one, name what the first wants from the second that day and is not getting: thanks, an apology, permission, to be trusted with the hard part, to be asked, to be left alone. This matters most when the two are on the same side. The collection's talk is alive between opponents and goes flat between friends, because friends are given a shared goal and nothing to win from each other.
+That want has to reach into each scene. For every pair who share one, name what each wants from the other that day and how it shapes the exchange. Thanks, an apology, permission, trust, company, or a moment alone can matter between allies. Let any friction grow from those people and the situation. The collection's talk is alive between opponents and goes flat between friends when a shared goal replaces individual attention and desire.
 
 Keep the cast small enough to know. Everyone past the principals is functional. Name them only if they return, and resist giving each a single identifying trait; a chorus can stay a chorus.
 
@@ -66,11 +66,11 @@ Then let each of them talk for six or eight lines about something that is not in
 
 You have read the request and will have written the outline. Nobody in the story has. For each principal, note what they know when the story opens, what they do not, and what they believe that is wrong. Do the same for the reader: what has the page told them by the start of each scene?
 
-Lines written from the writer's knowledge are the ones a stranger cannot follow. A character asks “How many?” and is given the casualty figure, because the writer knew which number was meant. Another says “He found me” to a friend who has never heard of him. When a speaker refers to something, either the listener already knows it from the page or the line has to carry it.
+Lines written from the writer's knowledge are the ones a stranger cannot follow. A character asks “How many?” and is given the casualty figure, because the writer knew which number was meant. Another says “He found me” to a friend who has never heard of him. Establish what the listener can recover from prior context and the current line, including ordinary inference. A line can introduce its own new information. If a character's reference is deliberately unclear to the listener, stage that confusion and its consequences. Later information cannot justify an earlier reply that required knowledge the listener lacked.
 
 ### The conversation the story owes
 
-Most premises set up one conversation the reader starts waiting for as soon as they understand the situation: where have you been, what did you do, why didn't you tell me, will you come. Write down, in a plain sentence and not yet as dialogue, what these two people have to say to each other and which scene will hold it. Put it in the long scene or at the ending, and plan for it to be spoken aloud and to take room.
+Most premises set up one conversation the reader starts waiting for as soon as they understand the situation. Where have you been, what did you do, why didn't you tell me, will you come? Write down in a plain sentence what these people have to say to each other and which scene will hold it. Give it the room its importance requires. If the requested form centres on solitude or leaves a relationship deliberately unspoken, identify the action that carries that expectation and payoff instead.
 
 If the prompt quotes a line that raises a question (“Well, I did my half”), the owed conversation includes the answer, in that character's voice.
 
@@ -137,7 +137,7 @@ Most stories of three to five thousand words are best served by two to four scen
 
 Mark the **long scene**, the one the reader came for. Give it a third or more of the story, and plan for the talk in it to wander, for someone to change their mind, and for the room to interfere.
 
-List what will be summarized in a paragraph and what is simply left out. If the briefs come to more than four scenes or three locations, cut before drafting. A test for each brief: could this scene be moved to a different room without rewriting it? Then the place is not in it yet. Could its dialogue be spoken by two other people? Then the characters are not in it yet.
+List what will be summarized in a paragraph and what is simply left out. If the briefs come to more than four scenes or three locations, check whether the decisive scenes have enough room. Combine or cut where the story is compressed, and retain the travel or ensemble the request needs. For each brief, ask whether it could move to a different room without rewriting, and whether two other people could speak its dialogue. Those answers reveal where setting and character still need work.
 
 Keep any speculative rule simple enough to state in a sentence and to matter in one choice. If a scene exists to explain how something works, change the rule.
 
