@@ -12,10 +12,12 @@ like update the rating to Mature/**Explicit** so we can so the cost (aka the dea
 
 make the characters young and relatable; make the setting exotic
 
+make him die even when he tries to leave. show him trying different ways out and dying over and over, with death itself sending him back to the previous morning. go ahead and write it.
+
 ## Supplied reference images
 
 - None
 
 ## Audience and content
 
-The latest direction requests Mature or Explicit treatment so the cost of repeated deaths is felt on the page. The finished prose and cover will determine the classification.
+The user requests Mature or Explicit treatment so the cost of repeated deaths is felt on the page. The finished prose and cover will determine the classification.
