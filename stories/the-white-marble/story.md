@@ -60,9 +60,9 @@ I stood in one of the wheel ruts and put an eye to the crack. I'd thought the go
 
 “I’m going to make it a little wider,” I said. Then I put the hammer down. “Who would I be opening the gate for?”
 
-“I’ve given you the teaching. Come round here with the light, where you can see my shoulder. Something’s coming away under it as I push. I’d like to see the other side of the wall too, but I’d like to do it on my feet.”
+“I’ve given you the teaching. Come over here and look at my shoulder. Something’s coming away under it as I push. I’d like to see the other side of the wall too, but I’d like to do it on my feet.”
 
-While I'd been at the relief Sevra had worked her elbow out. She felt for my sleeve again while I worked down by her collar. I could see the fold ready to separate the instant she leaned. She gave a low grunt as she moved, and I put my hand in under her arm to carry some of the weight.
+While I'd been at the relief Sevra had worked her elbow out. She felt for my sleeve again while I worked down by her collar. A lip of stone lifted from her shoulder as she leaned. She gave a low grunt as she moved, and I put my hand in under her arm to carry some of the weight.
 
 “You said you were going to finish this,” she said. “If you’d go round to the foot, there's one place I can almost get through if I push. And don’t let me fall on you.”
 
@@ -108,7 +108,7 @@ I put my other foot over the threshold, where I had always stopped because of th
 
 “Through the Carving House,” I told him, pointing behind me. “Will you help me move the king?”
 
-I gave the king's bed a shove from the end I had wedged up, and between us the man and I cleared a way wide enough to walk side by side. I could feel my own back again after we moved it.
+I gave the king's bed a shove from the end I had wedged up, and between us the man and I cleared a way wide enough to walk side by side.
 
 While the man from the palace stood at the hoist door, I ran to unbolt the front. There was my master in the yard with his hand out for the door. From where we stood we could both see Sevra in the old gateway. She’d gone out far enough to look down the hill. When the master saw her he took his hand off the door and looked at the block. Even at that distance there was no missing the shape she had left in it.
 
