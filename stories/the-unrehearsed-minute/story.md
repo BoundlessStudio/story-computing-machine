@@ -44,7 +44,7 @@ When he took my wrist last night I thought he wanted to see the gold bracelets t
 
 “I told you last night what would happen at two minutes past ten,” he says. “I did it so I could have one day in which you’d take me seriously. The hand that made it can take it off. I came to see if you had anything you’d like to say to me while I’m here to hear it.”
 
-I put my hand back in my lap. I’ve tried the next bit on him long and short. I give him the three sentences I can get out at the pace of a turn. “My super power isn’t actually clairvoyance. I don’t see the future, I live it. Whenever I die I can Groundhog Day and wake up the previous morning in a time loop.”
+I put my hand back in my lap. I’ve tried the next bit on him long and short. I give him the three sentences at the pace I use for my opening onstage. “My super power isn’t actually clairvoyance. I don’t see the future, I live it. Whenever I die I can Groundhog Day and wake up the previous morning in a time loop.”
 
 He looks along the corridor. The girls have turned up the weather. I hear the woman say it’ll be fine on the coast before he goes over to their door and shuts it far enough for the latch to catch.
 
@@ -58,7 +58,7 @@ It comes out at the volume I use to reach the standing room. When Ivo comes back
 
 “I went off to North Market in the first week. I had everything for the journey except dry shoes, and people were very kind to me about the shoes. I sat in a station café in a pair of slippers somebody had lent me, looking at the time on a clock with a round green face. Your mark stopped my heart at ten-oh-two there as well. I was halfway through saying thank you to the woman who’d lent me the slippers. In the morning I was back in my bedroom and I could still feel the breath I’d taken to get to the end of it. I used to lie with my eyes shut, afraid I was still in some bit of dying I hadn’t managed to finish. Then I’d smell the yeast coming up through the floorboards and know where I was, and for a second I was glad of it, every morning. When I thought what I’d have to do to get out of the bed I could have done without the second.”
 
-He looks down at his thumb. It’s moved a little way out of the hollow. “The last bus up Gannet Lane goes at two minutes to ten. I was going to be on it. I thought I’d stay on past my stop and get off somewhere I wouldn’t meet anybody who’d heard. I kept thinking I’d given you a whole day. It didn’t occur to me you’d be up in the morning.”
+He looks down at his thumb. It’s moved a little way out of the hollow. “The last bus up Gannet Lane goes at two minutes to ten. I was going to be on it. I thought I’d stay on past my stop. I didn’t want to be home when somebody came to tell me you were dead. I kept thinking I’d given you a whole day. It didn’t occur to me you’d be up in the morning.”
 
 “The last time I got to ten-oh-two you stayed. I was dying by then, and you came out of the wing and got down on one knee and put your hand out. I got up this morning thinking if I had another second of that I could see what you meant to do. It was the way you’d come to me once before.”
 
@@ -116,21 +116,21 @@ For a second I’ve got my head turned to give Ivo the old nod, and he’s comin
 
 “Where did you leave my lamp, Vella?”
 
-I’d thought it would be about what I said in court. There’s half an answer to that in my mouth, about how beautifully I’d said it and where they’d put the witness chair. I can see the loft plain as if I’m standing at the top of the stairs. I’d balanced the lamp on the edge of the shelf, because I meant to go down with my shoes and come right back, and if I could just hold Ivo here while I found a way to make that sound like what anyone would do, I could perhaps tell it to the whole room.
+I’d thought it would be about what I said in court. There’s half an answer to that in my mouth, about how beautifully I’d said it and where they’d put the witness chair. I can see the lamp balanced on the edge of the shelf. If I could just hold Ivo here while I found a way to make it sound like what anyone would do, I could perhaps tell it to the whole room.
 
-“On the shelf in the scenery loft. I stood at the bottom of the stairs with your lamp in my hand and watched you leave by the stage door. Then I took it upstairs and left it burning. When I brought the scene crew up in the morning, the shelf was on fire. In court I swore I saw you carry the lamp up there. I lied.”
+“On the shelf in the scenery loft. I left it burning while I took my shoes downstairs. I meant to go back for it once I had my shoes on. I went home and forgot it. When I brought the scene crew up in the morning, the shelf was on fire. They brought down your lamp. The night before, when you went out the stage door, I was at the bottom of the stairs with that lamp in my hand. In court I swore I saw you carry it up to the loft. I lied.”
 
 The boards give under somebody on the far side of the stage. I glance that way because I owe a great deal of my living to knowing when a person is about to come and relieve me of an awkwardness. The boards go back up. Whoever it was has stepped off again.
 
-The editor stops two rows back where the stage light reaches his notebook. “Now, if I put down that you left the lamp there yourself and then gave evidence against him, am I going to have you in my office at eight telling me I’ve missed the point?”
+The editor stops two rows back where the stage light reaches his notebook. “Now, if I print that you remembered taking the lamp up there when you swore it was him, am I going to have you in my office at eight telling me I’ve missed the point?”
 
-“That I left it burning. I knew he’d gone out.”
+“I knew I’d taken it up. Put down that I swore it was him anyway.”
 
 The pencil makes its little circuit over the page and this time I see him write it. He puts the last word down and lifts his elbow, holding the book out where the light will show him the pencil strokes. Ivo watches him the whole time he’s making room. I’d seen him write all the way through my evidence. I’m trying to remember whether I saw the good shirt while I was speaking or only when the officer took Ivo away.
 
 “Mr Rusk,” the editor says, “what did you tell the court?”
 
-“I told them I’d lent it to her. She was standing there in her stocking feet, asking me for a light to find her shoes. I’d already got my coat on. I showed her how to open the little door on the lamp if it went out, and put my hand underneath hers until I knew she had the weight. Then I went home. I said it three times and the last time one of the men from the court asked where I’d got my coat, because he could remember the coat and couldn’t remember the lamp.” Ivo puts his thumb in the cuff of the coat he has on now. The best of the stitching is coming out of it. “You can write it once if you’ve got it.”
+“I told them I’d lent it to her. She was standing there in her stocking feet, asking me for a light to find her shoes. I’d already got my coat on. I showed her how to open the little door on the lamp if it went out, and put my hand underneath hers until I knew she had the weight. Then I went home. I got the whole thing out twice. The third time I got as far as saying I had my coat on and one of the men asked where I’d bought it.” Ivo puts his thumb in the cuff of the coat he has on now. The best of the stitching is coming out of it. “You can write it once if you’ve got it.”
 
 “The coat might be worth a photograph,” says the editor. “Is that it you’re wearing?”
 
