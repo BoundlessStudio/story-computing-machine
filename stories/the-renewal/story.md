@@ -4,7 +4,9 @@ created: 2026-11-16
 canon: false
 ---
 
-The day I meant to ask Rilla to marry me again, I carried a printer's proof home on the tram as if the printer had buttered it. A man in front of me asked if I'd mind lowering it so he could read out the dates to his wife. I had to put my chin right into the wet fringe of her umbrella to oblige him. I'd had Rilla's name made bigger this year. Mine was at the foot of the bill, under *Lark Assembly Rooms, Fellcross*. I couldn't expect to get the thing home without folding it and then complain because somebody read it.
+The day I meant to ask Rilla to marry me again, I carried a printer's proof home on the tram as if the printer had buttered it. A man in front of me asked if I'd mind lowering it so he could read out the dates to his wife. I had to put my chin right into the wet fringe of her umbrella to oblige him. I'd had Rilla's name made bigger this year. *The Lark house orchestra plays the arrangements of Rilla Toller.* My own name was at the foot of the bill, under *Lark Assembly Rooms, Fellcross*. I could hardly carry the thing above everybody's heads and complain when somebody read it.
+
+We'd written *Band Room* on last year's marriage contract. Rilla signed it lying down, with me holding the paper against a book. We'd chosen a room where we could meet after she died. In December she came back to it and sat in the good chair as if I'd got up to make her tea five minutes earlier. Miss Hurst brought up two cups and Rilla took one out of her hand. Our year was up at midnight. I'd brought the proof to persuade her to put the ballroom down this time.
 
 That Saturday, the first of November, Freda Searle came to the till at eleven with her dance shoes in one hand. Every week since Rilla died, she'd found a way to offer me a dance. This time she set her shoes down and waited, her weight on the knee she could still turn on. Rilla had written two extra beats into “First Night on the Hill” for that knee.
 
@@ -12,11 +14,9 @@ That Saturday, the first of November, Freda Searle came to the till at eleven wi
 
 “I'll let you know in time for the late set.” I did have something else in mind. Come back at twelve, Freda, and ask my wife for yourself whether I ever could dance.
 
-The cloakroom attendant let me out from behind the till. Miss Hurst had done the job all the time I was bringing Rilla her meals in bed. I told her she could put another tray of change in if she liked, and I'd take over at twelve. “Take your time, Mr. Galt,” she said, already reaching down for the tray. I took the proof and the renewal upstairs without troubling to tell her which drawer it was in.
+Miss Hurst let me out from behind the till. She'd done the job all the time I was bringing Rilla her meals in bed, as well as minding the coats. I told her she could put another tray of change in if she liked, and I'd take over at twelve. “Take your time, Mr. Galt,” she said, already reaching down for the tray. I took the proof and the renewal upstairs.
 
-On the landing I put my thumb against the brass knob in the place where the polish had worn away. I had stood there the first time I saw Rilla go home after she died. She pulled the door open from inside and stepped through. I watched the landing for her shoe, which ought to have followed the hand, and there was nothing on the boards but the light from downstairs. I put my own foot where hers would have fallen and felt the loose board give. My old habit until then had been to go after her as far as the next room and try to remember what I'd wanted to say.
-
-We'd written *Band Room* on the last year's contract. Rilla signed it lying down, with me holding the paper against a book. She had chosen a room where I could find her when she died, and she came back in December and sat in the good chair as if I had got up to make her tea five minutes earlier. Our year was up at midnight. I'd brought the proof to persuade her to put the ballroom instead.
+On the landing I put my thumb against the brass knob in the place where the polish had worn away. I'd stood there the first time Rilla left the band room after she died. She pulled the door open from inside and stepped through. I watched the landing for her shoe, which ought to have followed the hand, and there was nothing on the boards but the light from downstairs. I put my own foot where hers would have fallen and felt the loose board give. When she was alive I'd had the next room to go after her into, even if by the time I got there I'd forgotten what I meant to say.
 
 Rilla was in the good chair tonight with her coat folded over her lap. The room smelled of dust off the radiator. I put the proof down and she took hold of my thumb, turned it over and rubbed at a little crescent of blue I'd picked up at the printer's.
 
@@ -36,19 +36,17 @@ I'd heard Rilla's own tunes with her through that grille all year. I wanted to s
 
 Rilla lifted her cup to expose the lettering. “You've given me the good size.” She set it down again.
 
-“It's the same amount of ink as it ever was. We were already having the dates in blue.” I ran my thumbnail down one of the edges. The nick I'd made opening an envelope kept catching on the paper and I could see her watching it. “I think they'll want to ask you for a few tunes. I'll tell the band to give you the whole evening off if you want it.”
+“I was already paying for blue. I could have put your name right across.” I ran my thumbnail down one of the edges. The nick I'd made opening an envelope kept catching on the paper and I could see her watching it. “I think they'll want to ask you for a few tunes. I'll tell the band to give you the whole evening off if you want it.”
 
-“I'd like a ballroom,” she said. “Put your hand in my coat pocket.”
+“I'd like a ballroom,” she said.
 
-I got out a stiff sheet of paper folded twice. I opened one fold and found her name. For a second I thought she'd been to my printer on Booth Street, and I wondered why he hadn't had the grace to tell me. I opened the other fold. *The Plover Rooms, Old Market. Saturday Late Set. Rilla Toller and her orchestra.* The names of seven players came after hers, in letters small enough for me to bring the paper closer to the lamp. Some of the folds were already going white.
+I got the pencil from my apron and put the point to the room line. Rilla took a folded programme out of her coat and opened it right across the line, under my hand. *The Plover Rooms, Old Market. Saturday Late Set. Rilla Toller and her orchestra.* The folds were already going white.
 
-“Where's the Plover?”
+“That's the ballroom where I play, where I live now,” she said. “I want you to come across to me this year, Ellis. Put the Plover down.”
 
-“In the old market where I live. I want to put it on the contract.” She reached across to turn the paper so it faced her. “There's a chair by the piano steps where you can see just about everything. I could get you a place there on Saturdays.”
+I put the pencil down and brought the programme closer to the lamp. Seven players' names followed hers. I read her name again. I would have reached for my spectacles if it had been any smaller, and I wished it had been. “I thought you played one or two numbers when people asked you.”
 
-I read her name again. I would have reached for my spectacles if it had been any smaller, and I wished it had been. “I thought you played one or two numbers when people asked you.”
-
-“At first I did. I went in for tea in February and there was a piano with two keys that wouldn't come back up. I played round them for a few weeks till Ned Spald got the man who used to tune it to come down. When we got the two notes back I said I'd play a whole Saturday if he'd find me a drummer. By August we were taking money at the door. There's a woman who saves me the last of her lemons every week because I played for her and her brother the first time he came out dancing. Her name's May. I've told her about you, and she'll give you her chair if you like, although she wants it back for the polka.”
+“At first I did. I went in for tea in February and there was a piano with two keys that wouldn't come back up. I played round them for a few weeks till Ned Spald got the man who used to tune it to come down. When we got the two notes back I said I'd play a whole Saturday if he'd find me a drummer. By August we were taking money at the door, with Ned at the piano for the early set and me for the late one. There's a woman who saves me the last of her lemons every week because I played for her and her brother the first time he came out dancing. Her name's May. I've told her about you, and she'll give you her chair if you like, although she wants it back for the polka.”
 
 She'd told me about the two keys one night when I was doing the books. I'd asked her if the man had charged for tuning the whole piano. I remembered waiting for her to tell me how much so I could tell her what I'd paid the last time ours needed doing.
 
@@ -56,49 +54,49 @@ She'd told me about the two keys one night when I was doing the books. I'd asked
 
 “I thought if you came to the Plover you could see what I'd done, too.” Rilla ran the backs of her fingers along the old fold. “These people know I've got a husband. I want them to meet him.”
 
-I had my hand out for the renewal. “Well, there's still the band room. You've got your Saturdays and I've got mine. I could finish sooner and get upstairs on Fridays. We could have as much of the evening as you like up here and leave the tunes to the people who can do them.”
+I had my hand out for the renewal. “Well, there's still the band room. You've got your Saturdays and I've got mine. I could close the till early on Fridays and come up before the last dance. We'd have that much more of the evening to ourselves.”
 
-“I can tell how busy you've been by how far up your sleeve your arm is cold when you get here. I've got very good at warming it up. I want to take you over to May and get two chairs at her table. I'd rather leave the room blank than sign up for another year of hearing you take the stairs when you think you've finished.”
+“I can tell how busy you've been by how far up your sleeve your arm is cold when you get here. I've got very good at warming it up. I want to take you over to May and get two chairs at her table. I'd rather let our year run out than sign up for another one of hearing you take the stairs when you think you've finished.”
 
-She turned the paper so that it sat square to her and laid her hand across both spaces for our names. My fingers were still out for it and I caught her cuff against the edge of the table. There was enough room to put two fingers under the cuff, and she held very still while I put them there. The watch on my own wrist said twenty minutes to twelve. It was a long time to have hold of her if she'd already decided she could let the year run out. There were things I'd have liked to say about that if I could have got hold of the paper instead.
+She turned the contract face down. My fingers were still out for it and I caught her cuff against the edge of the table. There was enough room to put two fingers under it, and she held very still while I put them there. My watch said twenty minutes to twelve. I could still come upstairs tomorrow and put the good chair by the radiator. I could bring two cups and set the one without a crack in the place she'd always put out a hand for it. I held on a little harder.
 
-“I've spent enough time in the chair by the piano,” I said. “If I cross over to the Plover, will you be in the next chair when the set starts?”
+“That chair you want me to have at the Plover,” I said. “Where will you be when the music starts?”
 
 Rilla looked down at my hand. The bass cut out and the grille gave one last knock against the skirting. A man's voice came up through it. “Can we have 'The Red Fan' the way she played it?”
 
-Rilla used to make the drummer roll so softly before the first chord of “The Red Fan” that I could hear the cashbox shut across the floor. There was the piano already, without a space for anybody to shut a thing.
+Rilla used to make the drummer roll so softly before the first chord of “The Red Fan” that I could hear the cashbox shut across the floor. The piano came in before the drummer tonight.
 
-“I promised you that one at eleven,” Rilla said. “Our anniversary, when you wore the shoes with the patent toes. When eleven came somebody wanted to dance with his daughter before they caught the tram. I played for them and then I saw you fetch your chair up close. A boy came to the piano with three more requests on the back of a programme. I took it out of his hand. I could see your face from the bench. I was quite pleased with myself because I could play the whole list and still have you sitting there when I'd finished.”
+“We were going to dance 'The Red Fan' at eleven,” Rilla said. “Our anniversary, when you wore the shoes with the patent toes. I'd left the music out for the band so I could get down and dance with you. When eleven came somebody wanted to dance with his daughter before they caught the tram. I played for them and then I saw you fetch your chair up close. A boy came to the piano with three more requests on the back of a programme. I took it out of his hand. I could see your face from the bench. I was quite pleased with myself because I could play the whole list and still have you sitting there when I'd finished.”
 
 “I sat there till half past twelve,” I said. “Then I took my shoes up to the landing outside this door. There was one of those screws that won't quite go down in the edge of the step, and I had a foot on it all through the last dance. I heard you play 'The Red Fan' without anybody asking what I'd done with my shoes. When you covered the keys I got them back on so you'd think I'd just come up. You asked whether I'd had a good night and I told you I thought you'd played very well.”
 
 Rilla turned her wrist till I could feel the soft inside of it against my thumb. “I'd still have played for the man and his daughter,” she said. “They were going to miss their tram. I could have left the boy to take his list home.”
 
-I let go of her and brought my cold hand round the side of her cup. She'd told me afterwards that night that my new shoes looked as if they'd hardly touched the floor. I'd taken it for a compliment about the polish. I might have danced with her in my stockings if she'd come up before closing the piano. I had polished the toes myself that afternoon and by the time I took them home there was a fleck of varnish on one from the stair.
+I let go of her and brought my cold hand round the side of her cup. She'd told me afterwards that night that my new shoes looked as if they'd hardly touched the floor. I'd taken it for a compliment about the polish. I remembered scraping a fleck of varnish off one of them before I put the shoes away.
 
-“Would you let somebody else play the late set?” I asked. “I'd come to the Plover for it if you'd give me the whole set. You can dance with me if you feel like dancing. I'd like to be able to ask you while the music's on.”
+“I'd have come down in my stockings if you'd come up for me while the music was still on,” I said. “Would you let somebody else play a late set at the Plover? I'd come for it if you could give me the whole set. I'd like to be able to ask you to dance while everybody else is getting up.”
 
-“I could have you there after it's over. We'd have the place to ourselves once Ned puts his music away. There are two lamps by the piano I could leave on.”
+“I could have you there after it's over. There are two lamps by the piano I could leave on for us.”
 
 “And I'd hear you do the last one from the side of the floor. You could still come up here after my late set and we'd have about the same thing.”
 
-Rilla glanced down at the programme. I could see her putting her thumbnail in the creases the way she did when she was listening and wanted to finish a job first. “Give me a night I can see coming,” she said. “Ned's been asking me if he can take the late set since I got it. He's good at the fast things. If I tell him to bring his own book I'll have to listen to what he does with it. I'd let him do it on the first Saturday of the month, and give him my fee for that set. Can you get away on a first Saturday?”
+Rilla drew the pencil over to her and turned her programme to the row of dates. She put a short line through her name above the first of November and wrote Ned's beside it. “I'll give Ned the set tonight,” she said. “He's been asking since August, and he can have what I'd make for it. I want to be there when you come in.”
 
-“It's my busiest one. Miss Hurst knows the till. I could pay her to have the late set once a month, if she wants it. Would you keep the hour clear if I did?”
+The pencil was still across the programme. “Would you do that next month, too?” I asked.
 
-“Come before the market bell. I'll be on the floor by the time Ned starts.” She put her cup off the proof, onto a clean bit of table. “It's the first Saturday tonight.”
+“Give me the first Saturday,” she said. “Ned's good at the fast things. If I tell him to bring his own book, I'll have to listen to what he does with it. I can do that once a month. Can you get away on the first Saturday?”
 
-There was a quarter of an hour left. Downstairs they would be getting the yellow tickets out for the late set. I could go to the Plover as soon as the clock struck and be back at the till before anybody had the nerve to ask the price again, if I knew how to get there in the first place.
+“That's our busiest night,” I said. “Miss Hurst has done the late set before. I'll offer to pay her to keep the till.”
 
-“Which door do I use if I want to come home?” I asked her.
+Rilla lifted her cup clear of my proof and set it beside the Plover programme. “We ring the old market bell a little after your twelve to start the late set. I'll be on the floor when it goes.”
 
-Rilla got up and took hold of the brass knob. “This one, from the landing. Think of the Plover when you open it after twelve. When you want to come back, turn round and go out the way you came in. That's what I do here every time I go home.”
+There was a quarter of an hour left. I looked at the door. “If I needed to get back to Miss Hurst, could I?”
 
-I had meant to ask her how she'd manage if I slipped away before the end of a tune. I could see the little way she had her thumb on the brass, the way I'd seen her hold it when I thought there would be a shoe on the landing. She had left the room for where she wanted to go and had come back week after week to see me. I took hold of the knob beside her hand long enough to feel what part of it she'd got warm.
+She got up and took hold of the brass knob. “Open this one after twelve and think of the Plover. If you want to come home, step back through. You've seen me do it.” She turned her hand so I could take the knob beside it. Where her thumb had been was warm.
 
-“I'd better give Miss Hurst the cashbox key,” I said. “I can pay her what I paid her when you were ill. She used to earn more than I liked to think about by finishing the whole night for me.”
+“I'd better go and offer Miss Hurst the key,” I said.
 
-“Write it down before you go.” Rilla came back to the table with me. She took the fountain pen from behind the upright of the radiator where she'd put it to get warm. I wrote *The Plover Rooms, Old Market*, as it was on the programme. Under it I put in the first Saturday of each month and that I'd be free for the whole late set. She wrote Ned Spald's name and what she'd pay him to take her place. In the space we had left she put *together*. She signed while I kept the paper steady with my thumb. I turned it round and signed my own line, which I'd scarcely looked at before I came upstairs.
+“Write it down before you go.” Rilla came back to the table with me. She turned the contract over and took the fountain pen from behind the upright of the radiator where she'd put it to get warm. I wrote *The Plover Rooms, Old Market*, as it was on the programme. Under it I put the late set on the first Saturday of each month and that I'd be free for it. She put down Ned Spald and the fee, then set the nib to the paper in the space we had left and wrote *together* in a hand I could have recognized across the room. She signed while I kept the paper steady with my thumb. When she passed me the pen I lifted my hand and she put hers down where it had been. I let her hold the paper for me while I wrote my name.
 
 * * *
 
@@ -116,8 +114,8 @@ The Plover still had the old iron columns from when it was a market, and lamps h
 
 A woman pushed a chair round the column towards me. “Ellis?” She had one hand around a glass with a curl of lemon in it. “I'm May. You can have this till the polka.”
 
-She set the chair next to hers. Before I could put a hand on the back of it, the market bell sounded and Rilla came round the column to where I was standing.
+She set the chair next to hers and pulled it a little forward so I could see past the column. I sat down in it. I heard Ned try a note twice, with a little click when the key came up each time. A man at the foot of the steps put a folded request into Rilla's hand. She had her thumbnail under the fold before she looked over and saw me sitting there. She gave the request up to Ned still folded and came round the column as the market bell sounded.
 
 “Will you dance with me, Ellis?”
 
-Ned gave them a chord to start from and I put out the hand I used at home when we went around the table. Rilla took it and let me change hands at the edge of the boards. A couple ahead of us had got up close to the iron and were trying to turn. Rilla put her whole hand flat on my back and gave them their two beats. Then she took me round in the space they'd made, with the piano at our backs and the late set barely begun.
+Ned gave the band a chord to start from and I put out the hand I used at home when we went around the table. Rilla took it and let me change hands at the edge of the boards. A couple ahead of us had got up close to the iron and were trying to turn. Rilla put her whole hand flat on my back and gave them their two beats. Then she took me round in the space they'd made, with the piano at our backs and the late set barely begun.
