@@ -1,0 +1,37 @@
+## Promised experience
+
+A powerful battle mage stands convicted of saving a whole village by breaking the kingdom’s strict ban on altering the natural order. She faces the royal executioner beneath the High Court’s golden-star banners and refuses to beg for mercy as luminous threads are forcibly pulled from her heart. “An entire village” calls for a rescue whose reach we can feel. “As” puts the defiance where it costs her most. The image suggests a solemn public ordeal, with the executioner intent and the mage in visible pain. I expect the ending to leave both the rescue and the loss real. The condemned woman and the officer who punishes her are given. Their history, the forbidden act and the ending are open. The later direction distinguishes attachment instructions from the user’s request.
+
+## Takes considered
+
+- **The open assize.** Follow the mage from the instant she sends a mountainside falling sideways to the public extraction. The executioner asks her to disavow the choice while stripping the power with which she made it.
+- **The executioner’s account.** Begin with the first thread and let the executioner discover during the punishment why the mage left her regiment to save the village. The climax is finishing the sentence in full knowledge of what it costs.
+- **Across a single threshold.** A village that escaped a fire through an impossible step into the capital gathers in the witness gallery. Their account supplies what it feels like to owe your life to the person being punished for it.
+
+Choose the assize. The mage makes both choices in view, and the landscape changed by the first remains visible from the place of the second.
+
+## Provisional direction
+
+Ivet Serr, a battle mage, braces a rockslide with the force she normally trains on siege gates. The face of the mountain keeps coming. Lammet and its roads lie in the path. Ivet changes what the loosened mountainside falls toward. It falls sideways into an empty gorge, enough stone and timber to leave a new ridge. The village is safe when ordinary gravity resumes.
+
+A week later, Ivet stands convicted at the High Court of Brevast. Royal executioner Rinne Cade can halt the sentence if Ivet petitions the Crown for mercy and swears publicly to observe the ban even in the same circumstances. Ivet could keep her power and return to her company. Rinne wants a commander her fellow mages can trust to uphold the ban. Ivet wants her company and the faculty she has lived by. She also wants those listening to hear her stand by what she did. Rinne can draw the faculty from Ivet’s heart against her will. Ivet nearly petitions once she feels it leaving. She says she would save Lammet again. Rinne strips her magic completely.
+
+## Craft plan
+
+**Teller.** Try close third past through a practical, irreverent soldier who judges a room by what could come down in it. Also try Ivet in first person looking back, keen to tell us about the split mountain and embarrassed by how badly she wanted to make the oath.
+
+**Ivet.** The image shows a freckled redhead in layered leather belts and a crimson cloak pinned at her left shoulder with a gold star. She plants, appraises, braces and lifts her face. She comes in ready to find who’s in charge and get started. Her speech moves in practical orders and expands when she needs others to picture a situation. Under strain she gets impatient and particular. She’s proud of being needed and guards her appetite for the power itself. The belts take the strain of bracing against the land. She clears the partly loosened braid from her line of sight during the slide. It shifts again when her chin rises under extraction. Her campaign star stays in view as she refuses. She knows what the rescue took and expects Rinne to mistake resolve for ease.
+
+**Rinne.** The white-and-gold figure has dark hair in coils, a gold star high on the visible shoulder, gold at the cuff and an extended open hand. She squares, fixes her attention, measures and draws. She would enter a room ready to wait everyone else out. She uses the full terms when making a promise or assigning a consequence. She gets even more precise when she wants to spare somebody. The open hand is the offer and then the instrument. The cuff shakes as the pull gets harder, and Rinne keeps her eyes on Ivet’s face when others look at the light. She knows what the last pull will cost and expects Ivet to take a way back when she feels it. The image suits the intended non-graphic treatment. Both stars are service badges. The dark-cloaked officials form a watching group, with the gray-bearded judge giving the sentence voice.
+
+**Owed conversation.** In the arcade, Rinne must tell Ivet what the kingdom fears if a commander can set the natural order aside. Ivet must answer what upholding the ban would have meant at Lammet. Let her set Rinne down there and tell the seconds in order, from the first movement of the mountain to the moment she saw where the road went.
+
+**Place.** The High Court’s east arcade over Lammet makes the deed visible. The enclosed Fork Hall would give the bench control of what people could see. Lammet’s weighing shed would make the village host to a circuit assize. In the arcade, a week into the spring thaw, morning sun comes through unglazed arches. Clerks hear disputes over roads and flock passage. The bells from below echo under the vault, the wind pulls blue banners against brass rings, ground slate slips underfoot, the courthouse stone stays cold, and waxed oak smells sweet. A damaged parapet has been replaced by an iron railing. The standing circle looks straight through it to the village and scar. Lammet’s bell square, with wet wool on racks and slate roofs crowded around it, gives the slide its human scale.
+
+## Scene briefs and ending
+
+1. **Lammet bell square, morning, 30 percent.** Ivet sounds the warning by moving the clapper through magic from the road. A woman rounding people up wants her to go to the far houses. Ivet has felt the face move behind them and needs the woman to get everybody down on the ground. Ivet changes where the mountain falls. Stay with the sideways slide long enough to see whole trees wheel through it.
+2. **East arcade, a week later, 60 percent. Long scene.** Rinne needs a plain petition and oath. Ivet makes her say what keeping the oath would mean if it happened again, then tells her why Lammet’s roads offered nobody a way out. Rinne begins the extraction after Ivet refuses. Ivet’s instinctive grab for her faculty sends a stool clattering into the rail. Rinne braces and keeps pulling. With luminous strands stretched between bare palm and heart, Rinne offers the terms once more. Go as close as the braid against Ivet’s throat and the thought of the soldiers who would hear her oath. Ivet lifts her face, says she would do it again and endures the last forced pull.
+3. **East arcade, immediately after, 10 percent.** Ivet steps to the rail. The displaced rock stays in the gorge and the belfry she rang by magic stands above Lammet’s roofs. She reflexively reaches for its weight and feels only the iron. The bell rings for the ordinary hour. She sees it swing and has to wait for the sound to cross the valley.
+
+Summarize the trial and Ivet’s service where either matters in the arcade. Load the closing wait with the opening reach, the mountain falling across its slope and the last pull taking away a sense Ivet has used from the first page.

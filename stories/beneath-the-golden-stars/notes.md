@@ -1,0 +1,7 @@
+# Editorial notes
+
+## November 16, 2026 · Request readings
+
+**Codex promise keeper.** The explicit story is a convicted battle mage who saved the entire village and refuses to beg during the forcible extraction before the High Court. The keeper anticipates “the collision of a village-sized act of rescue and a kingdom’s judgment, made bodily in the extraction,” and expects “holding her ground [to matter] during the punishment or in its consequences.” It leaves survival, vindication, and the completion of the sentence open. The auburn-haired mage is visibly strained and still standing. The ivory-clad executioner’s “set gaze and careful fingers give the extraction the concentration of practiced work.” Their matching insignia suggest a possible shared allegiance. The witnesses, deep arches, and high banners give the scene a public scale.
+
+**Claude outline reader.** The required action takes place during the sentence and the mage’s refusal. Claude anticipates grave ceremony and the mage emerging “diminished in power but undiminished in will.” Its expectation that the stripping runs to completion is an inference about the cost a reader should feel. The red cloak and heavy belts suggest a field fighter. The executioner’s “knitted brows, a set mouth” suggested conscientiousness and possible grief to this reader. The stars on both women and the formal witnesses suggest a shared order performing a rite before its own members.
