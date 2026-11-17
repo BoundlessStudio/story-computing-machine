@@ -6,9 +6,9 @@ canon: false
 
 # The White Marble
 
-The king was going to the palace at supper. I was given a rag to wash him with and told to leave the rest of him alone. There was chalk on his nose and a great shelf of marble on the back of his neck. I put one finger behind my own ear and felt how far down the bone came. You could hardly turn your head on a neck like the one my master had given the king. He turned his own to see where a noise came from, like anybody else.
+The king was going to the palace at supper. I was given a rag to wash him with and told to leave the rest of him alone. There was chalk on his nose and a great shelf of marble on the back of his neck. I put one finger behind my own ear and felt how far down the bone came. You could hardly turn your head on a neck like the one my master had given the king. I'd seen the master turn his own head to see where a noise came from, like anybody else.
 
-My mother used to leave her dinner until the light went, because she could see to eat in the dark. I was living at home then. Some days I minded waiting for her and would give her the piece of bread with the heel on purpose, and some days I watched her work and wanted the sun to stay where it was. She did a great deal of carving after hours for people who wanted a likeness and could do without a guild seal. She had a way of working round an ear from the front, so she could see the instant it stopped looking stuck on. At the Carving House she polished the work. The old master used to send her home with the cloths to wash, which was counted as a kindness because she was allowed to keep the soap.
+My mother used to leave her dinner until the light went, because she could see to eat in the dark. Some days I minded waiting for her and would give her the piece of bread with the heel on purpose, and some days I watched her work and wanted the sun to stay where it was. She did a great deal of carving after hours for people who wanted a likeness and could do without a guild seal. She had a way of working round an ear from the front, so she could see the instant it stopped looking stuck on. At the Carving House she polished the work. The old master used to send her home with the cloths to wash, which was counted as a kindness because she was allowed to keep the soap.
 
 I hadn't meant to take the whole shelf off. Once I got round the king's ear I wanted to see his head meet his shoulders. I put a folded rag over the chisel to quiet it, which also made it difficult to see what I was doing, and kept running round the bed to see how he looked from the front. By the time his head sat right, I was hungry enough to taste the dust. The shim under one leg of the bed had worked loose and I could feel the whole thing rock when I leant on it.
 
@@ -50,7 +50,7 @@ I was still standing with my weight against the block. Sevra picked grit off my 
 
 “Set the chisel up here where I can reach it,” she said. “I want you to watch.”
 
-I went back down the length of the slab and looked at the god’s hand again. The sign of the pot rim came up to my shoulder. I could have cut our shoe with my arm straight out, without having to stoop like a polisher. When I went back to Sevra I set the chisel down on the block and kept the hammer. She put a thumb on the iron and rolled it back toward me. I put my thumb where hers had been. She laid her hand across my fingers. “Gather the heat from your fingertips now. Let the iron have it all the way to the point. I'll keep my hand here till you get the feel of it.” I thought I was only feeling the heat of her hand. The iron grew hotter than either of us. There was a swelling hard to locate in my hand, as if I had a second pulse farther down my thumb. She waited until I could do it without her.
+I went back down the length of the slab and looked at the god’s hand again. The sign of the pot rim came up to my shoulder. I could have cut our shoe with my arm straight out, without having to stoop like a polisher. When I went back to Sevra I set the chisel down on the block and kept the hammer. She put a thumb on the iron and rolled it back toward me. I put my thumb where hers had been. She laid her hand across my fingers. “Gather the heat from your fingertips now. Let the iron have it all the way to the point. I'll keep my hand here till you get the feel of it.” I thought I was only feeling the heat of her hand. The iron grew hotter than either of us. By the time she lifted her hand, my fingertips were cold. She waited until I could do it without her.
 
 I wanted to try the little shoe. Sevra asked me to start with the nail at the end of the god's smallest finger. “Take the corner off,” she said. “You’ll be able to tell what you did, all the way across the room.”
 
@@ -62,7 +62,7 @@ I stood in one of the wheel ruts and put an eye to the crack. I'd thought the go
 
 “I’ve given you the teaching. Come round here with the light, where you can see my shoulder. Something’s coming away under it as I push. I’d like to see the other side of the wall too, but I’d like to do it on my feet.”
 
-While I'd been at the relief Sevra had worked her elbow out. She felt for my sleeve again while I worked down by her collar. I could see the fold ready to separate the instant she leaned. She gave a low grunt as she moved, and I put my hand in under her arm to carry some of the weight. A gray piece of the stone settled on the floor near my feet.
+While I'd been at the relief Sevra had worked her elbow out. She felt for my sleeve again while I worked down by her collar. I could see the fold ready to separate the instant she leaned. She gave a low grunt as she moved, and I put my hand in under her arm to carry some of the weight.
 
 “You said you were going to finish this,” she said. “If you’d go round to the foot, there's one place I can almost get through if I push. And don’t let me fall on you.”
 
@@ -102,13 +102,13 @@ There was a place underneath the third finger where Sevra’s point had hit too 
 
 I saw the man turn from me to the old threshold. The wind hit us hard enough to whip my braid across my face. I put a foot out to steady myself and felt the place where the old wheel ruts met the flagstones of the street. The wall above them stood wide open. It was getting dark in the street beyond and one house already had lamplight behind its shutters. A man with his supper on a plate in front of him got up from a bench and came to look at us with the napkin still in his hand.
 
-I put my other foot over the threshold, where I had always stopped because of the wall. Away to either side, down a hillside I knew as a bare slope, I saw houses in rows running out almost as far as the palace. The lamps were coming up house by house, first in the street nearest me, then down where the roofs changed and all the chimneys were tall enough for a smith’s fire. On our side the palace lights were already up. The two cities were close enough together for the people at one end to see the people at the other holding lanterns to get a better look.
+I put my other foot over the threshold, where I had always stopped because of the wall. Away to either side, down a hillside I knew as a bare slope, I saw houses in rows running out almost as far as the palace. The lamps were coming up house by house, first in the street nearest me, then down where the roofs changed and all the chimneys were tall enough for a smith’s fire. On our side the palace lights were already up. People in the old streets were holding up lanterns to get a look at the palace. Down on the palace road I could see lanterns going up to look back.
 
-“Is this the south gate?” the man in the street asked. He had to ask me twice.
+“Where's the road from the south gate?” the man in the street asked. He had to ask me twice.
 
-“It is now,” I told him. “The road out goes through the Carving House. Will you help me move the king?”
+“Through the Carving House,” I told him, pointing behind me. “Will you help me move the king?”
 
-I gave the king's bed a shove from the end I had wedged up, and between us the man and I cleared a way wide enough to walk side by side. I could feel my own back again after we moved it. I had some idea how long I'd been leaning over the block only once it began to hurt.
+I gave the king's bed a shove from the end I had wedged up, and between us the man and I cleared a way wide enough to walk side by side. I could feel my own back again after we moved it.
 
 While the man from the palace stood at the hoist door, I ran to unbolt the front. There was my master in the yard with his hand out for the door. From where we stood we could both see Sevra in the old gateway. She’d gone out far enough to look down the hill. When the master saw her he took his hand off the door and looked at the block. Even at that distance there was no missing the shape she had left in it.
 
@@ -116,7 +116,7 @@ While the man from the palace stood at the hoist door, I ran to unbolt the front
 
 “I cut the gate open,” I said. I had to stand quite close to him so the people coming from the far end knew they could go around me. He looked down at my right hand. I still had the hammer. I laid it on the king’s bed.
 
-The man from the palace came toward us. My master stepped between us and put his hand on the king's bed. “I gave her a rag and told her to clean him,” he said. The palace man went round the bed to the side I was on.
+The man from the palace came toward us. My master stepped between us and put his hand on the king's bed. “I gave her a rag and told her to clean him,” he said. The palace man went right round the end of the bed to look at me.
 
 “I saw you. What's your name?”
 
@@ -126,7 +126,9 @@ The man from the palace came toward us. My master stepped between us and put his
 
 My master looked at me as if he'd found me with the king’s ear broken off in my hand. There was a folding of the skin around his eyes that I was sure he would take away with him and wear in front of my mother. I remember wanting him to ask me if I’d done the king’s neck too.
 
-I went back to the threshold. A girl in a green coat was coming up to the wheel ruts. White hair had come free of the marble at Sevra’s temples. The girl looked right past it into the shop. She could have walked a long way past her mother without knowing her.
+I went back to the threshold. One of the palace men was standing by the relief, and as I passed him I saw the blank beside the feather. Tomorrow when my mother came home with the master’s polishing cloths, I'd have to tell her how close I’d come to putting her mark there.
+
+A girl in a green coat was coming up to the wheel ruts. White hair had come free of the marble at Sevra’s temples. The girl looked right past it into the shop. She could have walked a long way past her mother without knowing her.
 
 “Asta,” Sevra said. The girl started.
 
