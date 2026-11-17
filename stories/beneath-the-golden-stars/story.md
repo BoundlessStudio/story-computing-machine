@@ -46,7 +46,7 @@ In the gorge the stone had settled in a ridge tall enough to catch the sun. In t
 
 It took a week for the High Court to convict me. The third day they put a man in the witness chair who had measured the new ridge in the gorge. He had done it by walking from one end to the other along the crest. The judge kept asking if the slide could have uncovered a spine of rock that had been there all along. In the end the man had to tell him three times where he'd found the roots of the trees.
 
-They kept me in a room off the pass road with soldiers my own age to watch the door. I lay awake the night before they took me to the arcade. There was a great deal of running I could have done from that room, if I'd started by putting both soldiers down. One of them used to bring his deck of cards after the watch changed and let me have my pick of the bent ones. They walked me up the road in my red cloak. I'd scrubbed the dirt off the star the night before. The cloth around it was still wet.
+They kept me in a room off the pass road with soldiers my own age to watch the door. I lay awake the night before they took me to the arcade. There was a great deal of running I could have done from that room, if I'd started by putting both soldiers down. One of them used to bring his deck of cards after the watch changed and let me have my pick of the bent ones. They walked me up the road in my red cloak. I'd scrubbed the dirt off the gold star at my shoulder the night before. The cloth around it was still wet.
 
 The High Court has three arches opening on the valley. At the end of a hearing the people who run livestock through the pass put their feet up on the rail and reckon what the judge has cost them a head. From the middle arch it's a clear mile down to Lammet. The ground had shaken hard enough to open a crack all the way across the low parapet next to it. Higher up, a bar of iron had been taking the wobble out of that arch since before I was born. I could feel it working as soon as I came out of the stair. There was a little tug on one end when the wind hit the stone, and a longer pull through the middle as it settled.
 
@@ -66,7 +66,7 @@ She handed it to the clerk who was setting his ink out. I had known the king mig
 
 “He can put whatever strength he can summon between the village and the mountain. I want him to hear from you where it has to end.”
 
-“Walk over here.” Rinne came the two steps with me to the open arch. We could see the break in the mountain and the upper roofs beneath it. “You see where the road goes behind the first house? The ledge came loose above it. If we'd had a minute we could have got two or three people past there. Your oath would have left Lammet under the fall.”
+“Walk over here.” Rinne came the two steps with me to the open arch and set a hand on the rail. We could see the break in the mountain and the upper roofs beneath it. “You see where the road goes behind the first house? The ledge came loose above it. If we'd had a minute we could have got two or three people past there. Your oath would have left Lammet under the fall.”
 
 Rinne looked where I was pointing. From up here you could see more of the road than you ever could at the bell. It went from one end of the village to the other, with the short turn up to the far houses and the strip I had ridden by the gorge. The distance had made all the dangerous points look like places a person might pass in a few good strides.
 
@@ -96,7 +96,7 @@ She went to the table and took the stool from where I might have sat. She set it
 
 I wanted to tell her I knew how to stay up. She pulled before I'd had time to say it. My cloak lifted at the front and my breath came out with it. Her hand was a full pace from me, so for the first few beats I couldn't credit how quickly she'd found a hold. I felt the first strand draw through the place where I would have laid a hand to count my heart. It came out gold against the wool. Under it another strand was drawing tight, and as it came free I could see it turn in the air toward the hollow of her palm.
 
-I tried to put what strength I had left against her wrist. I caught a little weight just past it, and when I shoved, the stool came out from behind her cloak and struck the rail on its side. The sound came back off all three arches. Rinne had to put a foot back and bend her knees, and I could see the cuff jerk back down over her wrist. Her fingers stayed open as she drew her hand back toward her chest.
+I tried to put what strength I had left against her wrist. I caught a little weight just past it, and when I shoved, the stool came out from behind her cloak and struck the rail on its side. At the crack Rinne set one foot back and bent her knees. Her cuff jerked back down over her wrist. The sound came back off all three arches. Her fingers stayed open as she drew her hand back toward her chest.
 
 I reached for the weight I'd felt all morning in the iron above us and got a flicker of the short tug at the end where it entered the stone, and when I waited for the long pull through the middle I could almost have had it again if something at my breast hadn't pulled loose.
 
