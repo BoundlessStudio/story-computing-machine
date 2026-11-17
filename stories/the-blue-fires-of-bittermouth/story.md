@@ -44,7 +44,7 @@ I asked Merrin to let me take the cage all the way down while she was still gett
 
 I heard the hammer as I got to the fork. I’d spent two years feeling for a way through the rock at the back of the weighing shelf. I could find its cracks with my fingers in the dark. One night the fumes came up while I had my ear to the longest crack. My teeth hit the stone each time I tried to cough. I died with my cheek against it and woke with the desk against the same spot.
 
-Whenever Rian asked me to go down there after that, I told him I would once I’d got him out. I’d meant to find the people I’d heard from the boat this time. When he knocked, I still hurried. He’d been twenty-four for nine days. I’d bought him a birthday card with a miserable little dog on it and kept leaving it different places where he’d have to see it again.
+This time I meant to find the people I’d heard while I was out in the boat. When he knocked, I still hurried. He’d been twenty-four for nine days. I’d bought him a birthday card with a miserable little dog on it and kept leaving it different places where he’d have to see it again.
 
 The old stair rose from the fork into a blind notch in the rock. The lower path went around the shoulder out of sight. In my lamp I could see the hammer handle sticking out past Rian’s wrist. His arm lay along the edge of the slab, where he had about three inches of swing. He pulled the hammer back a little to give me room.
 
@@ -120,7 +120,7 @@ I looked down at the bag. There was a small patch of wool where she’d mended t
 
 The rollers stopped squealing. Merrin slid open the hatch in the wall and told the waiting searchers that the cage would be coming up with two in it. She asked one of them to look in the locker for a boot. She left the hatch open when she sat down again. You could smell the rock dust on the man’s coat as he went by.
 
-“I drowned trying the dock,” I said. “I’d heard people answering Rian from the boat, so I went to ask him. He sent three under the scale. Two of them can’t walk.”
+“I drowned trying the dock,” I said. “From the boat I’d heard people answering Rian, so I went to ask him. He sent three under the scale. Two of them can’t walk.”
 
 Merrin looked at the map over the radio. “There’s a cross over that end of the tunnel too. Did you see it open?”
 
@@ -140,7 +140,7 @@ She kept her hand on the charger cord. “Has he had water this morning?”
 
 “All right. I want two people with you. Send somebody back as soon as you’re out and tell me there’s air. I can start sending everybody in the camp down.” She slid the charger into her pocket and took her bottle off the shelf. “Get this to him on the way. Tell him I’m here. He’ll be waiting for me to come down.”
 
-I reached for her hand. She set the water bottle in mine. She looked as young as I could remember her looking, which in my case was a long way back. The last time she asked when I was moving out of our room I’d told her it was when the company went out of business or I’d made a fortune at cards. She’d gone out and looked at a room for herself that same afternoon. She was twenty and she’d paid for the key in installments.
+I reached for her hand. She set the water bottle in mine. She looked as young as I could remember her looking, which in my case was a long way back. The last time she asked when I was moving out of our room I’d told her it was when the company went out of business or I’d made a fortune at cards. She’d gone out and looked at a room for herself that same afternoon. She was twenty and she’d put down half the deposit out of last week’s pay.
 
 “I can tell you what he said about your room,” I said.
 
