@@ -10,7 +10,7 @@ I used to do my sums in the goods lift. It took a long time to reach the gallery
 
 On the evening Bellac came I had a cheaper printout in my pocket. Eighteen months, to be taken the next morning. My landlord’s letter was folded around it. People have asked me why I did not move to a cheaper room. I had looked at one. There were four flights of stairs between the room and the toilet, and by then I had to think about what I would be capable of after the money came through.
 
-The gate jammed at the Crenna Gallery’s floor, which the old indicator still called Bedding and Linen. I put my shoulder under it and shoved until the track gave. Bellac later had that shoulder reproduced with extraordinary care, but the new one has never had to open a gate like that. There is always someone to do it for me now.
+The gate jammed at the Crenna Gallery’s floor, which the old indicator still called Bedding and Linen. I put my shoulder under it and shoved until the track gave. Bellac later had that shoulder reproduced with extraordinary care, but the new one has never had to open a gate like that.
 
 Alis was reading when I came in. Beyond the high glass, Etram’s streetlights had come on among the bare branches. Her face was inclined over the phone, clear fingers resting on its edge, and the light inside her made a long amber streak across the polished floor. She had once told me what the trousers she was wearing had cost when trousers still wore out for her. I remembered the sum every time I knelt beside them.
 
@@ -64,7 +64,7 @@ I went for the lifting arm. Its wheels had little rubber tyres to protect the fl
 
 I had forgotten him. I set his number blinking on the meter so I wouldn’t do it twice.
 
-Behind the service screen the stock cabinet ticked over another day. Its little yellow seals had the same scalloped edge as the one on my last sale receipt. Bought human years kept an extracted mind continuous; the electrical supply alone would only run an empty body. The gallery took both down from the ceiling, so that from the floor there was just the one beautiful line entering each bright shoulder.
+Behind the service screen I took down the seated man’s annual refill. ONE YEAR was printed on its yellow band. My last sale had filled three of those little cells. I tried to lift the scalloped tab with my right thumb, then had to put the cell down and get the pliers. Once I had fitted it into his feed, the counter advanced by three hundred and sixty-five days. The white lead climbed to the ceiling and came down again into his bright shoulder. He went on reading while I put the wrapping in my case.
 
 I fitted the lifting arm under Alis’s lead and let it take the weight. For a few seconds she kept very still. Then her fingers spread on the phone.
 
@@ -96,13 +96,13 @@ Bellac waited while I packed the loose collar. His coat smelled of cold wool. In
 
 “A body for you to inhabit, Miss Ors. Preserved here, as part of the collection. I have funding for the extraction and continuing upkeep. I’ve called the proposal *The Attendant*.”
 
-Alis’s thumb stopped moving on her phone.
+Alis’s thumb stopped moving on her phone. I was trying to close the collar’s box with a flap that was meant to go underneath.
 
-“You’ve named it already.”
+“You’ve named it already,” I said.
 
 “I had to call the proposal something. The name can be discussed.”
 
-For a while I went on packing. There was nothing left that needed packing; I fitted the old collar inside the box its replacement had come in and tried to close a flap that was meant to go underneath.
+I turned the box over and tried again.
 
 “What would you want me doing?”
 
@@ -150,7 +150,7 @@ The sample’s palm was cold. In service it would be warm all the way through. M
 
 Alis said, “You ought at least to hear the offer. He’s keeping us together. You know what the other place was proposing.”
 
-The other bidder had wanted three figures for a private dining room. Alis and the man with the backpack would have gone to different houses. I had spent the previous week refusing to tell either of them that it would be a nice change.
+The other bidder had wanted three of the people here for a private dining room. Alis and the man with the backpack would have gone to different houses. I had spent the previous week refusing to tell either of them that it would be a nice change.
 
 “Did you get an offer like this?” I asked her. “When you were transferred?”
 
@@ -182,9 +182,9 @@ The glass was black now. Beyond it, the top branches of the street trees showed 
 
 “I didn’t say that. I wanted to live. I still want to live. There are days when being here makes me so angry I compose letters until morning, and I have to be very careful who I send them to. But if you put me back in the residence with that agreement, I would sign it.”
 
-Bellac said, “The endowment for the collection is attached to the bodies. It does not depend on your doing a certain number of repairs. I should make that clear.”
+Bellac said, “Your upkeep would continue whether you were working or not. The endowment belongs to the collection.”
 
-“So what happens if I stop working?”
+“And if I get sick of fixing them? I could wake up one morning and not want to walk over to her.” I couldn’t look at Alis while I said it.
 
 “We call the contractor. You remain here.”
 
@@ -240,7 +240,21 @@ I picked up Bellac’s pencil and drew a branch from his tidy rail into the spac
 
 “The cabinet doesn’t fill it. There’s room for me.”
 
-He stepped over to look. Beside the screen a man stood with his palm raised toward the wall. His hand was a few inches short of touching it. Bellac had to turn sideways between the plinth and the screen; I followed him through, into the smell of warm insulation.
+He stepped over to look. Beside the screen a man stood with his palm raised toward the wall. His hand was a few inches short of touching it. Bellac had to turn sideways between the plinth and the screen; I followed him through, into the smell of warm insulation. He opened the cabinet to see how far the door would swing past the proposed rail.
+
+There were five-year cells on the lower shelf. I picked one up. The yellow band went all the way round it, and I had to turn the cell to read the number.
+
+“Would you put one of these on my feed?”
+
+“I had allowed a year to begin with. The endowment renews the stock as it is used, whichever size we install.”
+
+“You said. Could I start with this one?”
+
+The money from tomorrow’s eighteen months was already divided up: the room, the deposit, the broker’s fee. Even the change was going on food until the next invoice cleared. I had done the sums so often I knew the last few coins without looking. I understood that one year and a promise to replenish it would keep me alive just as well. But I wanted these five together, with my name against them, before anybody could tell me how much of them was left over.
+
+I put the cell beside the drawing, where the new feed would be. Bellac wrote the larger reserve into the specification. I watched his pen make the five.
+
+Then he looked from the branch I had drawn to the service screen.
 
 “It would put you out of sight,” he said.
 
@@ -250,21 +264,39 @@ He stepped over to look. Beside the screen a man stood with his palm raised towa
 
 “I’d still be in it. I want somewhere I can be awake without somebody seeing me. I don’t want to book it with the gallery. I don’t want to ask a visitor to excuse me, or have someone decide I’ve had long enough and come and open it. I could stay in there a whole afternoon.”
 
-He looked back down the hall at the plinths, then at the branch I had drawn. The screen was an ugly thing in that room, scratched grey panels on small feet. I kept my hand on its edge. For once I was not trying to improve anything.
+He looked back down the hall at the plinths, then at the branch. The screen was an ugly thing in that room, scratched grey panels on small feet. He drew the line of its top with his finger, measuring what it would hide.
 
-Alis spoke from outside. “She spends whole afternoons here now. You’ve seen what it takes to get her as far as the lift.”
+“I could set aside the hour before each viewing. You would be entirely undisturbed.”
 
-“And you would be happy with that?” he asked her. “If she didn’t come out?”
+“I might not want it then. I want to be able to go in while somebody’s here.”
 
-“I would be annoyed. I would have to wait for her.”
+“I could bring people to see the work and find you absent.”
 
-I thought he might offer a timetable again. He took the drawing back instead, put it against the stock cabinet and marked the branch with his pen.
+“You could. I can’t promise to come out because you’ve brought somebody.”
 
-“A screen you control. No timetable. It cannot change the limit at the gallery entrance.”
+He took the drawing from the cabinet. For a little while I thought he was going to mark the branch. Instead he folded the paper along its old creases, keeping the new line on the inside.
+
+“Perhaps I’ve mistaken what can be preserved here,” he said.
+
+He went back out to the plinth and laid the sample hand in its case, fitting each finger to the padding while I held my thumb flat against the screen with my other hand and tried to find a way to call him back without taking the hour. I could read for an hour. On a good night I had that much now, after the tools were cleaned and before I needed to sleep, and I was good at persuading myself I’d wanted no more. The case lid moved; I kept my hand where it was.
+
+“You’ll have to replace that screen,” Alis said. “I’ll be the one looking at it when she doesn’t want to see me.”
+
+Bellac left the case open. “You would accept her being in there all afternoon?”
+
+“I would be annoyed. I can’t tell you she’ll make it convenient for me.”
+
+He turned toward me. I wanted to take my hand off the screen before he saw me holding the thumb straight, but I stayed where I was.
+
+“I won’t do it without somewhere I can close myself in,” I said.
+
+Bellac looked at the space he had left between the hand and the case lid. He took out the drawing again and laid it flat. This time he joined my branch to the rail in ink.
+
+“A screen you control. No timetable. The rail still stops at the gallery door.”
 
 I looked through the gap at the lift gate. There was an advertisement in the car for a concert I had been meaning to attend since the posters went up. I would not be able to go to that, or to another one. Even if somebody brought me the music, there would be no arriving late and finding my seat, no annoyance at the coat on the chair beside me. I had been imagining a great deal of future without imagining where I would put it.
 
-My thumb caught again. I opened the hand against my thigh and worked it loose. There would be new posters next year. I wanted to be here to dislike them. I wanted to find out whether Alis ever sent the letter she kept rewriting. Most of what I had thought of saying to Bellac would have been to save face in front of her. I could not make myself want him to withdraw the offer.
+My thumb caught again. I opened the hand against my thigh and worked it loose. There would be new posters next year. I wanted to be here to dislike them. I wanted to find out whether Alis ever sent the letter she kept rewriting. I could not make myself want him to withdraw the offer.
 
 “I’ll need to read the agreement,” I said. “With that on it.”
 
@@ -330,7 +362,7 @@ I stood without the old pause halfway up. The pad lay flat on the floor. I picke
 
 The carriage followed me past the seated man and the woman with her hand at her forehead. At the turn, the raised palm was level with my face. Beyond it the concrete wall was bare. I took the branch I had drawn with Bellac’s pencil and felt the trolley change direction above my head.
 
-The stock cabinet was warm. Beside it the installer had fixed my supply panel, with the yellow break-seal still intact. I recognised the scalloped edge and the printed series from the receipt I had kept inside my phone case. The serial was new. My thumb rested on the seal and I could feel the pulse of the supply through it, steady against the clear pad of my finger.
+The stock cabinet was warm. Beside it the installer had fixed my supply panel. FIVE YEARS was printed on the yellow break-seal. They had put in the size I asked for. My thumb found the scalloped edge without catching; the old sale receipt was still inside my phone case, with three smaller serials on it. I left this seal intact and could feel the pulse of the supply through it, steady against the clear pad of my finger.
 
 There was room to sit if I moved my case. I did that, reached up and drew the screen. Alis’s bent head disappeared panel by panel. The visitors’ shoes disappeared. I set the catch from inside, and nobody touched it.
 
