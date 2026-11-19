@@ -28,7 +28,7 @@ At her throat the receiver clicked.
 
 “Hedra,” said the Order's recorder. “Entered in the Roll of Unbroken Names, in the year of the white frost. Present yourself.”
 
-She stepped into the camera's view. It stood on the north arrival bridge, looking over the landing toward the exposed core. Kaller's factory choirs would be carrying the transmission too: loudspeakers in the works, the dormitories, the freight yards. She would speak the last knights' vow through the Director's own grilles.
+She stepped into the camera's view. It stood on the north arrival bridge, looking over the landing toward the exposed core. The camera fed Kaller's factory choirs: loudspeakers in the works, the dormitories, the freight yards. She would speak the last knights' vow through the Director's own grilles.
 
 Hedra pulled off her right gauntlet and laid her bare hand on the hammer's shaft.
 
@@ -84,7 +84,7 @@ The forewoman looked at the cylinder, then at the listening galleries. She pulle
 
 ***
 
-The door to the lower works stood at the west end of the press hall. Tavia stopped so abruptly before it that Hedra nearly walked into her. Beyond the rails and the blank-carrying arms, other workers watched them from their stations. One lifted two fingers. Tavia answered without turning her head.
+The service bridge carried them through the east doors of Nine Press and on along a raised deck beside the wheel press. Beneath the end of the deck stood the door to the observation stair. Tavia stopped so abruptly before it that Hedra nearly walked into her. Beyond the rails and the blank-carrying arms, other workers watched them from their stations. One lifted two fingers. Tavia answered without turning her head.
 
 The door had been welded shut. Now the welded strip lay on the floor, freshly cut, and warm enough to steam where the rain had come in on Hedra's boots.
 
@@ -136,7 +136,7 @@ Hedra wanted to be up on the landing. The core would still be open. She had pict
 
 “Seventeen years ago our owners instructed me to recommission this sector as a strategic reserve. I had been installed after the Line was closed; the register marked it dormant. I sent a survey shift to determine what could be recovered. The workers restored local power. The Line began production and classified the surveyors as hostile. I issued an evacuation warning to the shift officers. Some workers reached the surface ramp before the first soldiers did. I closed the bulkhead while forty-three people were still below it. The soldiers reached the closed door thirty-eight seconds later.”
 
-The grille hissed softly between the words. Hedra heard the receiver at her throat carrying them back to the Order.
+The grille hissed softly between the words. Here her receiver carried the account to the Order alone.
 
 “I spent those seconds trying to redirect the soldiers,” the Director continued. “By the time I had turned the first rank back, the people below were dead. I sealed the access stair and reported a furnace accident. Every day since, I have kept the soldiers returning to the breakers. Every night I have submitted the output our owners expect from a working Line. The armies exist in the reports. The owners believe they remain in storage.”
 
@@ -240,7 +240,9 @@ She wanted him to read her name again. She wanted the heavy page under her hand,
 
 The hammer's charge shifted beneath her fingers. She set its head upright on the landing.
 
-“I will not execute the Director,” she said. “You heard it confess to the forty-three. I do not dispute its guilt. But I have seen what it is holding below us, and I will not kill those people to complete my commission. I will leave it alive. When another Paladin comes to strike it, I will stand in the way.”
+“Keep the choirs on,” she told the Director. “The people who called me here will hear my answer.”
+
+“I will not execute the Director,” she told the recorder. “You heard it confess to the forty-three. I do not dispute its guilt. But I have seen what it is holding below us. The armies it reports to the owners as being in storage are going into the breakers, one rank after another. If I kill the Director, those armies will come up into the city. I will not kill Kaller's people to complete my commission. I will leave it alive. When another Paladin comes to strike it, I will stand in the way.”
 
 The recorder drew breath close to the receiver.
 
@@ -276,11 +278,15 @@ Hedra moved aside. Tavia stepped into her place before the camera, the yellow cl
 
 She stayed there after speaking. Hedra waited beside her until she looked away from the camera.
 
-“The freight ramp is a way up into the city,” Hedra said. “I can close it while the soldiers are still being sent back.”
+“The owners can hear what I just told the city,” Hedra said. “They may send another survey down your ramp.”
+
+“Then make it keep that bulkhead shut,” Tavia said. “It managed that well enough for the forty-three.”
+
+“The observation stair was welded shut this morning,” Hedra said. “A door opened for me can open for them. I can bury the road.”
 
 She pointed with her empty hand across the firebreak, at the press sunk into the west end of the hall.
 
-“If I break the press frame, the hall will fold inward over the ramp. The Line will have one fewer road into the city.”
+“If I break the press frame, the hall will fold inward over the ramp.”
 
 Tavia stared at the building.
 
@@ -300,19 +306,17 @@ Tavia stood watching until the blank came out of the dies. Then she rounded on t
 
 “Hedra,” the Director said. “You must leave the north signal gantry standing. Its instruments carry my commands to two eastern sectors. I can isolate the press supply from the core; I cannot stop using those instruments.”
 
-Hedra looked at the light walkway across the northern end of the hall. She had counted it as part of what would fall. To spare it she would have to turn the blow farther west, putting the press itself between her and the service bridge.
-
-“Keep the gantry live and take the press supply away from your core,” she said. “Hold the soldiers until the ramp falls.”
+“I will leave the gantry standing,” she said. “Hold the soldiers until the ramp falls.”
 
 “I can hold them.”
 
 The forewoman went back across the bridge. Hedra followed her into the hall.
 
-Its doors stood open to the north yard, and the November light had reached the high windows. The wheel mill was slowing. A finished wheel waited on the final table, its pierced hub dark inside an orange rim. One of the section callers tried to pull a man away from a tool cupboard. Tavia thrust her mourning cloth at the caller and went to fetch the man herself.
+Its doors stood open to the north yard, and the November light had reached the high windows. The wheel mill was slowing. A finished wheel waited on the final table, its pierced hub dark inside an orange rim.
 
-Hedra passed them and climbed onto the east side of the press bed. Heat came through her steel soles and gathered inside the high shafts of her boots. Beneath the press she could feel the other production continuing, a hurried, uneven rhythm against the foundation. The Line would be taking its soldiers apart.
+Hedra climbed onto the east side of the press bed. Heat came through her steel soles and gathered inside the high shafts of her boots. Beneath the press she could feel the other production continuing, a hurried, uneven rhythm against the foundation. The Line would be taking its soldiers apart.
 
-She braced her right heel against the raised edge of the bed and took the hammer in both hands. The gantry's thin signal wires hung just above her eyeline. She moved her foot and changed her grip, turning farther west. To get back to the service bridge she would have to run along the bed beneath the truss she meant to bring down. She picked out the place where she would turn and jump.
+She braced her right heel against the raised edge of the bed and took the hammer in both hands. The gantry's thin signal wires hung just above her eyeline. She moved her foot and changed her grip, turning farther west. Beneath the first roof truss she picked out the place on the bed where she would turn and jump for the bridge.
 
 She called across the hall to Tavia. “The north gantry stays. Get your people out from under it. That walkway may hold when the roof goes, but I won't have anyone testing it.”
 
@@ -354,4 +358,4 @@ Tavia unwrapped her cloth and set the pole into the crack again.
 
 The recorder had fallen silent, but the camera's little red lamp was on. Hedra could see the shape she made in the cylinder's glass: white hair darkened by soot, a long tear in the black mantle, one shoulder lower than the other. She lifted the hammer with both hands and settled it above the other shoulder. Its head began to glow again.
 
-She turned toward the arrival bridge. Behind her, within the opened armour, the blue rings kept sending soldiers into the breakers.
+She planted herself facing the arrival bridge. Behind her, within the opened armour, the blue rings kept sending soldiers into the breakers.
