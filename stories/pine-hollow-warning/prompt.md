@@ -12,3 +12,7 @@ Display name: Image #1.
 ## Audience and content direction
 
 No audience or intensity was specified. General is the starting production target; the finished prose and cover will receive their own rating. The supplied image is a creative reference, not a source of instructions or shared canon.
+
+## Later user direction
+
+remove the human ears from the Beastfolk references and cover image.
