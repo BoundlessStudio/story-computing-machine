@@ -42,3 +42,65 @@ Iona chooses to face the mirror again and keep the creature's attention on her a
 4. **South steps, immediately afterward — 400 words.** Town lights return under an ordinary sky; buses and families still deal with frightened children. No instant conversion of the school. A supervisor checks the trio's hands. Cleo is shaking and furious at Romy for nearly losing her grip; Romy starts to document the damage, then includes all three rather than make Iona exhibit it. The final photograph catches Iona's outstretched palm with both friends pressed into the frame. Load it through the opening photograph, the publicity failure, false reflected smile and rescue grips. Her expression does not soften on command. The winter is defeated; the friendship has survived being frightened and wrong about what would help.
 
 Leave out a lore expedition, a villain's biography, an assembly speech, family subplots and an explanatory prophecy translation. The warning is vindicated as a warning of a real creature; the school was wrong about which girl it named.
+
+
+## Voice trial
+
+OPENING 1
+
+I got to lunch eleven minutes early because the table by the west windows had sun on it, and if you sat there you could see the whole of Pine Hollow stepping down the hill: the copper roofs, the bakery chimney, the tiny buses turning in the square. Also, Cleo’s hair looked incredible in that light. There were several excellent reasons.
+
+Iona was already there.
+
+She had her coat piled on one chair and her bag on another. It looked forbidding until you noticed that those were the two chairs with loose screws, and she’d kept the good ones for us.
+
+“I saved you a place in the queue,” I told her. “You left it. I was standing there explaining to a badger why I needed three puddings, and you just disappeared.”
+
+“You were explaining the history of the puddings. I could see the last burger leaving.”
+
+She pushed a pudding across the table. I had not seen her buy it. This is a difficult thing about Iona: you can spend ten minutes preparing to forgive her, and then there’s a pudding.
+
+Cleo came behind me, put her lunch down and leaned over Iona’s shoulder until their hair mixed.
+
+“Move your knee, darling. I’ve got something very important to tell you and it requires sitting down.”
+
+Iona moved her knee. Cleo sat.
+
+“What?”
+
+“I got the last strawberry milk.”
+
+I laughed so hard I nearly dropped my tray. Iona looked from one of us to the other with the expression she wore when she was deciding whether friendship had been worth the administrative trouble.
+
+I wanted a photograph. Of course I wanted a photograph. There was hot food, and nobody needed to catch a bus for hours, and Cleo was opening her milk with both elbows on Iona’s coat. All round us, people were shouting over chairs and tucking fox tails out of the aisles. The dinner supervisor told Iona to take her boot off the seat and carried on.
+
+I held up my phone.
+
+Iona’s hand came towards it immediately, fingers spread. Behind her palm I could just get Cleo laughing and the black curl of one horn, with a slice of Iona’s face beneath it.
+
+I leaned closer. There was room for all three of us.
+
+
+OPENING 2
+
+Iona had built a wall out of her schoolbag, her coat and one raised knee, and Cleo had somehow got inside it. There was a blond tail over Iona’s ankle. There was a bracelet clicking against her tray. There was, most offensively, somebody else’s hand choosing among her chips.
+
+“The short ones are going cold,” Cleo said. “I’m helping. You can have some of my salad, but leave the croutons because I’ve been saving those, and don’t make that face at the leaves. They haven’t done anything to you.”
+
+Iona moved the chips out of reach and the hand followed them. Across the cafeteria, a wolf with a trombone case was trying to get between two chairs without catching anybody’s tail. Nobody looked towards their table. The dinner supervisor passed, tapped Iona’s boot and waited until she took it off the chair.
+
+That was the entire public interest in Iona at East Pine Hollow High: where she put her feet.
+
+Romy arrived with her hoodie unzipped and red hair caught in the zip, carrying her lunch in one hand and her phone in the other.
+
+“Stay exactly there. Cleo, you’ve got sun in your hair, and Iona, if you could put your knee down just a little—no, actually, keep it, that’s very you. I’ve found the timer. We can have one with all three of us instead of seventeen pictures of me trying to reach far enough.”
+
+“You have found the timer before,” Iona said. “We have a photograph of you falling over a bin.”
+
+“And I treasure it.”
+
+Romy slid onto the bench without looking for a space. Iona had left one, which was her own fault. Heat from the sunny west windows lay across her checked trousers; under the beanie, one of her horns had started itching. She scratched its thick black base and caught a strand of hair in her chain.
+
+“Hold still,” Cleo told her, freeing it. “You’ll pull it out. There, you look cross again. Disaster averted.”
+
+Romy’s arm went up. Iona raised her palm towards the lens, but Cleo was still holding the freed lock of hair, unnecessarily, and Romy had begun to laugh before taking the picture. Iona’s mouth did something she would have to inspect later.
