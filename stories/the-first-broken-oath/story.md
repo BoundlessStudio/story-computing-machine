@@ -228,7 +228,7 @@ He waited, then went on before she could answer.
 
 “I heard Tavia tell you what it did at the door. It called the watch on her. Now that same voice asks you to preserve it. If you put our armour in front of it, how does she ever get past you? The people who sent for you will see our seal guarding their ruler.”
 
-Tavia watched the listening grille. Hedra could not tell whether she wanted him to say more.
+Tavia watched the receiver at Hedra's throat. Hedra could not tell whether she wanted him to say more.
 
 “Come home,” the recorder said. “Lay the commission down unfinished. We have kept men and women who came back beaten. You needn't put your hammer in a sovereign's service to keep your place with us.”
 
@@ -276,11 +276,11 @@ Hedra moved aside. Tavia stepped into her place before the camera, the yellow cl
 
 She stayed there after speaking. Hedra waited beside her until she looked away from the camera.
 
-“The freight ramp is a way up into the city. I can close it while the soldiers are still being sent back. That is something I can do for the people here.”
+“The freight ramp is a way up into the city,” Hedra said. “I can close it while the soldiers are still being sent back. That is something I can do for the people here.”
 
 She pointed with her empty hand across the firebreak, at the great press sunk into the west end of the hall. The windowless upper wall of its foundation was the roof of the bulkhead chamber they had just left.
 
-“If I break the press frame, the hall will fold inward over the ramp. A passage it has to guard every second becomes a passage the Line no longer has.”
+“If I break the press frame, the hall will fold inward over the ramp. A passage the Director has to guard every second becomes a passage the Line no longer has.”
 
 Tavia stared at the building. For the first time since Hedra had met her, she looked as if she could not find a thing to say.
 
