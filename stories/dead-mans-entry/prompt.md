@@ -5,7 +5,9 @@
 ## Supplied reference images
 - `codex-clipboard-71151530-9f45-488e-b9c9-da8918314aaa.png`
 
-Display name: Image #1.
+## Reference display names
+
+Image #1: `codex-clipboard-71151530-9f45-488e-b9c9-da8918314aaa.png`.
 
 ## Additional user instruction
 
