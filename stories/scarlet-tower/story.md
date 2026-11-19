@@ -196,9 +196,9 @@ Ysolith repeated it. Her eyes closed, and her hair moved away from her face.
 
 She had spoken the last sentences without any singing in her voice.
 
-I copied the nine names onto the back of my muster roll. On a bench I chalked the hall's arches and set out the companies with pebbles. I put the reserve's stone beyond the last arch for the western field Ysolith had proposed. Then I worked out the village parties, keeping companies together where I could. Bellfold took the field's place. I drew its name into the last arch and pulled the reserve's pebble back inside the Tower. I would not send the company into the western field and then close its passage home to make way for Bellfold.
+I copied the nine names onto the back of my muster roll and chalked the hall's arches on the bench, with pebbles for the companies. I put the reserve's pebble beyond the last arch, in the western field. When I wrote Bellfold into that arch, I pulled the pebble back inside the Tower. I would not send the company through the field way and close its passage home to make room for Bellfold.
 
-I assigned eight mages to each village and kept the rest with me. They could reinforce the village parties; they could also use the road which climbed from Thornsett toward the backs of the engines.
+I assigned eight mages to each village and kept the rest with me.
 
 I put my finger on Thornsett.
 
@@ -284,9 +284,9 @@ The Thornsett captain shouted for help. I looked back into the hall. My eight de
 
 Hesta and a mage were lifting the chair over the raised cobbles at the threshold. The old woman gripped its arms and demanded they keep it level. Behind them a man stumbled toward us with a cloth pressed over his mouth.
 
-The court guard was already crossing to help. I intercepted it at the foot of the stair.
+Some of the mages guarding the court were already crossing to help. I intercepted them at the foot of the stair.
 
-“Four to Thornsett,” I said. “The rest to the next bay.”
+“Four to Thornsett,” I said. I pointed to the arch on Thornsett's left. “The rest there.”
 
 One of the shield casters kept going toward Hesta. I caught his sleeve and pulled him back to face the ordinary doors. His eyes went from me to the villagers, and I held on until he planted his feet beside the stair. Thirty of us remained between the outer entrance and the hall.
 
@@ -334,7 +334,7 @@ I went down the last steps with my palm raised, taking as much of the timber's w
 
 The shield caster I had kept beside the stair was still holding his field overhead, braced for the next stone. I took him by the wrist and lowered his hand until the field stood across the entrance, between us and the men climbing over the wreckage.
 
-“Shields down. Hold the mouth of the gate.”
+“Shields forward. Hold the mouth of the gate.”
 
 We drove a windcast through the broken entrance. The first ranks went down against the men behind them. I felt the caster beside me beginning to shake and moved my foot against his, keeping our fields together while the assault tried to get round their edge. Beyond him, the wounded mage's boot dragged a red furrow through the grit. His companions had him inside the hall.
 
@@ -344,13 +344,13 @@ Above the officer's head a black shape wheeled over the nearest engine. My raven
 
 The assault began to turn. I saw the officer look over his shoulder, try once more to bring his men forward, then abandon the fallen door as the reserve reached the approach behind him. We drove them down the road.
 
-Lavinia was still in the Thornsett bay. Our village party had reached the green. The king's men there had lost their support from the hill and were drawing back toward their horses. Hesta stood beside the split post with one of our mages, pointing into the bell house. Three more people came out, carrying bundles they would not put down.
+Lavinia was still in the Thornsett bay. Our village party had reached the green. The king's men were drawing back toward their horses. Hesta stood beside the split post with one of our mages, pointing into the bell house. Three more people came out, carrying bundles they would not put down.
 
 Across the hall, the other village parties began moving forward too. I could hear their captains passing the order down the lanes: keep the soldiers away from the houses.
 
 The king's trumpets sounded again, lower and farther off.
 
-It took longer to end the fighting in the villages than at the engines. At Bellfold the burning cart stood abandoned on the green. At Alder End I could see two smoking roofs and our mages bringing the fire down in sheets of sparks. I sent people where the captains called for them, taking their messages in turn. By the time the sun cleared the Tower, every village party reported the royal troops driven off.
+It took longer to end the fighting in the villages than at the engines. At Bellfold the burning cart stood abandoned on the green. At Alder End I could see two smoking roofs and our mages bringing the fire down in sheets of sparks. By the time the sun cleared the Tower, every village party reported the royal troops driven off.
 
 I read the nine names again. Then I put the list into my coat.
 
@@ -360,7 +360,7 @@ Hesta came through Thornsett's arch leading a man in a leather apron. She made h
 
 He was cradling his hand. When she tried to open his fingers for one of our healers he drew them back, and she took his other hand instead, holding it until he let the healer come close. I stepped out of their way.
 
-The reserve was coming up the ordinary road with the king's prisoners. At its head the hill captain had a mage's arm across his shoulders; another walked close on her other side, carrying the torn field-shield case. I recognized the pair who had waited behind the furze bush. They stopped on the approach when the wounded woman's foot slipped. The captain let her put her weight on him before trying the next step.
+The reserve was coming up the ordinary road with the king's prisoners. At its head the hill captain had a mage's arm across his shoulders; another mage walked close on her other side, carrying the torn field-shield case. I recognized the pair who had waited behind the furze bush. They stopped on the approach when the wounded woman's foot slipped. The captain let her put her weight on him before trying the next step.
 
 I went down to meet them.
 
@@ -372,7 +372,7 @@ I put my hands out to the woman. She caught my sleeve so hard that the bead stri
 
 We waited. Her companion kept the case tucked beneath one arm and used both hands to steady her.
 
-“She took an arrow when we left the furze,” the captain said. “We took the shield back for these two and went up with them inside it. She said she could walk. She's been saying it all the way here.”
+“She took an arrow when we left the furze,” the captain said. “We took the shield back for these two and went up with them under its cover. She said she could walk. She's been saying it all the way here.”
 
 I had watched her from above the field and sent her onward. Now she was trying to find somewhere to put that foot among the shards of the door.
 
