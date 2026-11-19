@@ -216,7 +216,7 @@ He considered that. “You tell me now.”
 
 I stayed with my hand under his cable longer than I needed to. The palm was going numb. Bellac was waiting by the open case, looking neither offended nor impatient; this was what he had come to see. I could have let the contractor take over after that night. I had worked in other galleries. I would have to find one I could still get into with my case.
 
-When I returned, Alis’s phone lay face down in her lap.
+When I returned, Alis held the phone low against her thigh, with the screen pressed to her trousers.
 
 “Why did you let me think you’d been put here?” I asked. “You knew that was what I thought.”
 
@@ -248,7 +248,7 @@ There were five-year cells on the lower shelf. I picked one up. The yellow band 
 
 “You said. Could I start with this one?”
 
-The money from tomorrow’s eighteen months was already divided up: the room, the deposit, the broker’s fee. Even the change was going on food until the next invoice cleared. I had done the sums so often I knew the last few coins without looking. I understood that one year and a promise to replenish it would keep me alive just as well. But I wanted these five together, with my name against them, before anybody could tell me how much of them was left over.
+The money from tomorrow’s eighteen months was already divided up: the room and the broker’s fee. Even the change was going on food until the next invoice cleared. I had done the sums so often I knew the last few coins without looking. I understood that one year and a promise to replenish it would keep me alive just as well. But I wanted these five together, with my name against them, before anybody could tell me how much of them was left over.
 
 I put the cell beside the drawing, where the new feed would be. Bellac wrote the larger reserve into the specification. I watched his pen make the five.
 
