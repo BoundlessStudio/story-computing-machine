@@ -20,7 +20,7 @@ Romy arrived with her hoodie unzipped and red hair caught in the zip, carrying h
 
 “And you’ve kept it, so don’t tell me you don’t like photographs.”
 
-Romy sat down without checking the chair. Iona had left one, which was her own fault. She had also put her coat over the chair with a loose screw. Romy had no sense about chairs. She would sit down anywhere and then be astonished when it happened to her.
+Romy sat down in the space beside Cleo. Iona had left a chair free, which was her own fault. She had also put her coat over the chair with a loose screw. Romy had no sense about chairs. She would sit down anywhere and then be astonished when it happened to her.
 
 Heat from the west windows lay across Iona’s purple checked trousers. Below the school, Pine Hollow stepped down the hill in copper roofs and steep streets, with the chimney of Sutter’s Bakery smoking beside the bus square. People waited there with scarves pulled over their faces. This was the best table for watching her bus arrive without having to stand outside. It also smelled of hot chips instead of the tomato soup that steamed beside the serving hatch. She had chosen it carefully, before either of these people had begun sitting here.
 
@@ -206,11 +206,11 @@ Iona stared at her. “What?”
 
 “Your face in the window. You’re grinning, with all your teeth. Iona, turn round. Don’t look at me, look there.”
 
-Iona turned. Among the black roofs and dark windows of Pine Hollow, her reflection was smiling. It showed every tooth. The violet eyes, which should have been looking towards Romy, were fixed on Iona.
+Iona turned from Romy towards the window. Among the black roofs and dark windows of Pine Hollow, her reflection was smiling. It showed every tooth. The violet eyes, which should have been looking towards Romy, were fixed on Iona.
 
 “Keep your hands there,” Cleo said.
 
-The reflected Iona lifted one hand and set its palm against the inside of the window. Iona’s own fingers were still spread on the table. She pressed them down harder. The face in the glass leaned towards her and the horns enlarged, pushing the beanie off its head. Beneath them the hair was turning white.
+The reflected Iona lifted one hand and set its palm against the inside of the window. Iona’s own fingers were still spread on the table. She pressed them down harder. The face in the glass leaned towards her. The horns widened, dragging the beanie up until it caught on one ridged curl. Under it, frost joined one dark strand to the next, whitening the hair.
 
 Romy stood so abruptly that her chair struck the table. “That isn’t you.”
 
@@ -222,7 +222,7 @@ The thing was waiting. Its palm pressed outwards. The old glass bulged without b
 
 “Move,” Iona said, shoving Cleo behind her. She snatched up her tea tray and brought it between her face and the reaching hand. The cold struck through the plastic into her wrists. White mist poured over the rim and down onto the table, the same low rolling cloud she had seen cross Cleo’s soup. Beyond the tray, the fingers hooked towards her horn.
 
-She hit them sideways. The tray’s edge struck the mirror’s upper corner. A crack shot across the reflected wrist; the fingers on Iona’s side broke apart into frost. They rattled over the tray and vanished. The face in the glass opened its mouth wider than her jaw could ever have gone. Its cry climbed into a thin ringing that set the cutlery rattling on the tables.
+She hit them sideways. The tray’s edge struck the mirror’s upper corner. A crack shot across the reflected wrist; the hand on Iona’s side broke apart into frost. The grains rattled over the tray and vanished. The face in the glass opened its mouth wider than her jaw could ever have gone. Its cry climbed into a thin ringing that set the cutlery rattling on the tables.
 
 Iona stumbled back. The mirror held her own reflection again. In the west window the white-haired figure reappeared, cradling its broken hand.
 
@@ -256,7 +256,7 @@ Iona took one step towards the mirror. Cleo came behind her, hooked a heel round
 
 The white-haired face watched from the window. Iona could feel its eyes on the side of her head. She wanted to keep looking at it; leaving it unwatched made her stomach turn. But she faced the old mirror, lifted her chin and met her own violet eyes in the silver.
 
-The smile appeared.
+At the edge of her sight, the window held her ordinary black-haired profile again. The smile appeared in the mirror.
 
 She went closer, until her boots touched the mirror’s stand. When her hand rose towards her face she caught herself and put it on the frame instead. She wanted the thing looking at her. A long finger emerged beside the missing triangle and hooked itself under the outer curve of her right horn.
 
@@ -264,13 +264,13 @@ Her whole head jerked forward. Cleo’s arm dug into her stomach. Iona put her h
 
 “Not yet,” she said.
 
-One of the creature’s horns came through first, black and ridged and much too large, scraping the frame. Then came its forehead. Its hair dragged over the silver and lifted into the room without any breeze. Iona could smell cold ashes. The first weight of its head met her own horns, and the impact jarred her teeth together. She tried to recoil, but Cleo’s grip held her in place exactly as she had asked, and for a terrible instant she wanted to hate her for doing it.
+One of the creature’s horns came through first, black and ridged and much too large, scraping the frame. Then came its forehead. Its hair dragged over the silver, stiff with frost that broke off against Iona’s collar. Iona could smell cold ashes. Its horns struck hers, and the impact jarred her teeth together. She tried to recoil, but Cleo’s grip held her in place exactly as she had asked, and for a terrible instant she wanted to hate her for doing it.
 
 The table slid an inch.
 
 “Iona,” Romy said. The chair was shaking in her hands.
 
-Inside the mirror, a shoulder rose behind the white hair. The creature was trying to pull the rest of itself through. Its cheek touched Iona’s; she tasted ashes and her tongue went numb before she could draw enough breath to shout. She thought of the broken fingers falling across the tray. She needed the rest of it here, caught across the silver, and it was coming, but so slowly that she could feel every movement of the finger grinding against her horn.
+Inside the mirror, a shoulder rose behind the white hair. The creature was trying to pull the rest of itself through. Its cheek touched Iona’s; she tasted ashes and her tongue went numb before she could draw enough breath to shout. She thought of the frost rattling over the tray where the hand had been. She needed the rest of it here, caught across the silver, and it was coming, but so slowly that she could feel every movement of the finger grinding against her horn.
 
 “Don’t let me go,” she said. It was hardly a voice at all.
 
@@ -290,11 +290,11 @@ Iona shoved her own horn against the creature’s cheek and forced its face back
 
 The second blow hit the silver.
 
-The mirror broke across the creature’s chest. White lines ran through its shoulders and up its throat; its grip on the frame divided into little black shapes, each briefly solid, then flying apart. Cleo hauled Iona backwards. The table moved with them. Romy dropped the chair, reached out with both arms and caught Iona under the shoulders before her head could strike the floor.
+The mirror broke across the creature’s chest. White lines ran through its shoulders and up its throat; the fingers clamped round the frame split across their knuckles and crumbled into frost. Cleo hauled Iona backwards. The table moved with them. Romy dropped the chair, reached out with both arms and caught Iona under the shoulders before her head could strike the floor.
 
 Cold burst over them, carrying the dusty smell of ashes, then was gone. The glass fell into the wooden stand with a long, bright clatter.
 
-Iona lay across two sets of arms. She could feel Cleo’s bracelet pressed into her back and Romy’s sleeve under her cheek, damp where snow had melted through the hole at the elbow. She breathed in. Her throat hurt, but the air went all the way down. Above her, where the mirror had stood, the dark backboard showed through an empty frame.
+Iona lay across two sets of arms. She could feel Cleo’s bracelet pressed into her back and Romy’s sleeve under her cheek, damp where frost had melted through the hole at the elbow. She breathed in. Her throat hurt, but the air went all the way down. Above her, where the mirror had stood, the dark backboard showed through an empty frame.
 
 Romy tried to lift her and nearly let her slip. Cleo made a furious noise and tightened her grip. Iona’s boot came down on something brittle.
 
@@ -306,7 +306,13 @@ They edged sideways together, awkwardly, refusing to put her down until they had
 
 On the south steps, the supervisor checked their hands and made Iona take off her beanie so she could look at the skin beneath her horns. Iona submitted to this with her ears flat and her jaw clenched, while Romy stared at the tear in the elbow of her hoodie.
 
-Below them, lights were coming back along the streets. Ice fell from Sutter’s chimney and broke across the slates. The buses idled with their doors open; someone was calling names, and parents were arriving on foot, slipping and swearing. The whole entrance smelled of diesel and wet coats. A boy from their year stopped at the foot of the steps, looked at Iona’s horns and opened his mouth. She looked back. He went to find his father.
+Below them, lights were coming back along the streets. Ice fell from Sutter’s chimney and broke across the slates. The buses idled with their doors open; someone was calling names, and parents were arriving on foot, slipping and swearing. The whole entrance smelled of diesel and wet coats.
+
+The boy who had asked her to turn round stopped at the foot of the steps. His phone was raised, its camera pointing at them. He looked at her horns and opened his mouth.
+
+“Put it away,” Iona said.
+
+He lowered the phone. She looked back at him until he put it in his pocket, then he went to find his father.
 
 The supervisor gave them a blanket and went to answer another phone. Cleo pulled it over all three pairs of knees. Underneath it, her tail curled round Iona’s ankle again. Her lilac bow was hanging from a single strand of hair, the little flower crushed against her ear.
 
