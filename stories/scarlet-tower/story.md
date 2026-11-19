@@ -30,7 +30,7 @@ Every window of the Tower answered.
 
 The herald asked whether he might withdraw. Lavinia inclined her head, and the escort backed its horses down the approach, leaving the woman with the fleeces to drag her cart clear of their hooves. Two of my mages went to help. From the lower bend came a long complaint of iron against stone. The first stone-thrower was coming up on six wheels, with oxen leaning into its traces.
 
-“Companies into the court,” I called. “No spells at the windows. I want to know who gives the first order to kill, and it is going to be me.”
+“Companies into the court,” I called. “No spells from the windows. I'll give the order to strike.”
 
 The mages came down carrying their field packs, some still fastening the eye badges at their throats. Men and women I had known as disputatious scholars took their places by company. A pair who had not spoken since spring stood shoulder to shoulder, sharing a length of red cloth to bind their sleeves. I counted the companies on my beads and told the gate guard to lower the bar.
 
@@ -46,7 +46,7 @@ Her name was Hesta. She told it to me as though I had requested an inventory of 
 
 For that I had no answer which would get her home. I could not open the doors again without exposing the companies, and the herald's escort had already reached the king's lines. The guard lifted the bar into its sockets. Hesta stood with her hands on the cart shafts until the iron stopped ringing.
 
-Lavinia had gone into the long hall along the north side of the court. Twelve blind arches were sunk into its inner wall, their blocked openings scored with lettering so old that most visitors mistook it for ornament. Ysolith had a book open beneath the nearest.
+Lavinia had gone into the long hall along the north side of the court. Nine blind arches were sunk into its inner wall, cut from the same red stone as the tor. Lettering scored their blocked openings, so old that most visitors mistook it for ornament. Ysolith had a book open beneath the nearest, with the gold band of her sleeve tucked under its cover to protect it from the gritty ledge.
 
 She was singing very softly. Her fair hair stirred away from a pointed ear, though the hall was sheltered from the wind, and she kept lifting her chin to find a note that pleased her. Lavinia's great gold shoulders made the mages give ground as she passed between them.
 
@@ -84,7 +84,7 @@ She did not move away.
 
 ***
 
-By full dark the hill companies were in, and I had a hundred and forty-four battle mages. The captains made their men sleep in turns along the hall, packs under their heads, while Ysolith worked her way down the arches with the open book. Other houses sent birds asking whether the royal order was genuine and whether we had truly refused it. None sent a declaration of its own.
+By full dark the hill companies were in. The last man cleared the threshold, Ysolith let the note end, and the pines closed into stone behind him. The captains made their companies sleep in turns along the hall, packs under their heads, while she worked her way down the arches with the open book. Other houses sent birds asking whether the royal order was genuine and whether we had truly refused it. None sent a declaration of its own.
 
 From the wall I watched mounted companies leaving the king's camp. They went south and west, accompanied by smaller carts than those which had brought the engines. I wanted our people together before we tried to break the ring.
 
@@ -140,7 +140,7 @@ I took my hand off the beads.
 
 “I could tell our people to put down their arms,” she continued. “We would go into the king's keeping. Hesta would go home. Tomorrow these villages would still be standing. I want that considered plainly. Nobody down there took our vows.”
 
-No one spoke. In the court a captain was checking a sleeping mage's boot straps, working in the poor light rather than wake her. I thought of calling him in to hear what we were considering: he had brought his company through the old gate at my summons and was entitled to know if I meant to surrender them before he had even lain down. Then I thought of the others who would have to be called, and the hours that would go while we asked one another whether we could bear it. The captain tied off the strap and moved to the next sleeper. I let him go on.
+No one spoke. In the court the hill captain was checking a sleeping mage's boot straps, working in the poor light rather than wake her. I thought of calling him in to hear what we were considering: he had brought his company through the old gate at my summons and was entitled to know if I meant to surrender them before he had even lain down. Then I thought of the others who would have to be called, and the hours that would go while we asked one another whether we could bear it. The captain tied off the strap and moved to the next sleeper. I let him go on.
 
 Lavinia unfastened the small clasp beneath the great red stone at her breast. The weight of the mantle shifted on her shoulders. It was the movement she made before sitting down to hear a petition, when she expected to be there a long time.
 
@@ -156,7 +156,7 @@ The herald said, “You are not asked to judge orders which have not been given.
 
 “No,” Lavinia said. “I am asked to judge this one.”
 
-She asked the herald to wait in the court while we considered our answer. I showed him to the archway and set a guard beside him, then returned to the ledge. He could still see the warrant under the lamp.
+She asked the herald to wait in the court while we considered our answer. I showed him to the archway and set a guard beside him, then returned to the ledge.
 
 Her hand remained on the loosened clasp. I wanted her to fasten it, and kept my eyes on the warrant rather than let her see me watching her hand.
 
@@ -196,7 +196,9 @@ Ysolith repeated it. Her eyes closed, and her hair moved away from her face. For
 
 She had spoken the last sentences without any singing in her voice. I believed her.
 
-I copied the nine names onto the back of my muster roll, then spread the warrant flat, keeping it down with my glove, and worked the village names into the force I had. There were enough mages to send eight to each village and hold half our strength in the Tower. Small parties could stop men with torches. If the king sent entire companies down a lane, they would need help quickly.
+I copied the nine names onto the back of my muster roll. On a bench I had chalked the hall's arches and set out the companies with pebbles. One lay beyond the last arch, in the western field. I assigned the villages in turn, keeping parties together where I could. Bellfold took the field's place. I drew its name into the last arch and pulled the reserve's pebble back inside the Tower. I was not sending that company through a gate I meant to close behind it.
+
+I left eight mages for each village and kept the rest with me. They could reinforce the village parties; they could also use the road which climbed from Thornsett toward the backs of the engines.
 
 I put my finger on Thornsett.
 
@@ -220,7 +222,11 @@ Hesta looked at the warrant, then at the empty arch beside it.
 
 “Don't put my door in the sheep pens. They've built the hurdles up for market. You couldn't get a stretcher round them. Put it in the lane behind the bell house.”
 
-Ysolith asked her to describe the lane. Hesta told her about the cobbles which rose in the middle, the split post by the turning, the old mounting block which her husband kept asking somebody to remove. She spoke as if she were giving directions to a carrier who had never been there before, and Ysolith listened with an attention she rarely bestowed on anything written in the last two centuries.
+Ysolith asked her to describe the lane.
+
+“There's a split post by the turning. Put it before that, opposite the old mounting block. The cobbles hump up in the middle, so you can't come at it sideways with a cart. My husband keeps saying that block should be taken out. Nobody's mounted a horse from it since his father was young.”
+
+She spoke as if she were giving directions to a carrier who had never been there before. Ysolith held the page open with both hands, listening with an attention she rarely bestowed on anything written in the last two centuries.
 
 I called the herald back. He asked whether that was our answer.
 
@@ -238,9 +244,9 @@ Then she went to fetch her coat.
 
 ***
 
-Before first light I stood on the short stair to the wallwalk. At its head I could see the king's engines; two steps down I could see across the court into the gate hall. The rain had stopped. Water gleamed on the closed outer doors, and the men waiting behind them kept shifting their feet on the wet grit.
+Before first light I went up the gate stair to look for movement among the engines. The stone was cold enough to hurt through my glove. Red grit came away under my thumb, and below me men were lifting the covers off the throwing arms, working by shielded lamps. I leaned farther over the parapet until Ysolith's voice brought me round toward the hall.
 
-Ysolith had laid the book on the ledge. She stood in the middle of the hall with her hands open and her face lifted, singing the two old spells together. The embroidered eye on her breast faced the arches. Her own eyes were shut.
+She had laid the book on the ledge. She stood with her hands open and her face lifted, singing the two old spells together. The embroidered eye on her breast faced the arches. Her own eyes were shut.
 
 The first bay filled with a pale, cobbled lane. I recognized the split post Hesta had described. A little farther off stood the mounting block, with a basket turned upside down upon it. The bell house hid the far end of the lane.
 
@@ -252,49 +258,45 @@ Ysolith's voice rose. Her sleeves lifted clear of her wrists, and the leaves of 
 
 I came down the stair and crossed the court. My mages were looking at me for the order, and beyond their shoulders I could see people moving through streets I knew, at distances which my feet refused to believe. My thumb had slipped off its bead. I found the string tangled round the raven's hood and had to separate them before I could give the order.
 
-The village parties went through, eight at a time, carrying their folded field shields. At Thornsett, Hesta pushed between the first two mages.
+The village parties went through. At Thornsett, Hesta pushed between the first two mages.
 
 “It's my lane. Let me past before you fill it.”
 
 She stepped over the threshold into her village. From where I stood she was three paces away; outside the ordinary gate, the road down to her house was held by an army.
 
-She took the basket off the mounting block and waved to someone I could not see. A door opened. Two people came out carrying an old woman in a chair.
+She took the basket off the mounting block and waved to someone I could not see. A door opened. Two people came out carrying an old woman in a chair. At Bellfold, a mage turned back with a village messenger at his elbow, both trying to speak to me over the other captains. Royal troops were in the green. The next party was already calling for more shields. People moved through every bay, carrying news out and neighbors who could not walk in.
 
 Down the hill the king's trumpets sounded.
 
 A stone cleared the ridge of our wall, and Lavinia stepped forward into the court with both hands raised. The air above her turned red.
 
-The stone struck it. Red light spread outward from the impact, illuminating every wet roof in Thornsett below us. The court shook under my boots. The stone spun once, broke apart and fell outside the wall in a shower of white chips.
+The stone struck it. The court shook under my boots. I put a hand against the ledge to steady myself, while the stone spun above Lavinia's upturned palm, broke apart and fell outside the wall in a shower of white chips. She lowered one hand and turned the other toward the engines. Her mantle dragged over the wet ground as she widened her stance. She had the whole front of the Tower under her hand.
 
-Lavinia lowered one hand and turned the other toward the engines. The gold shoulders of her mantle were bright in the new light. She had the whole front of the Tower under her hand.
+I took the hill captain by the arm and made a gap for him between the villagers coming through Thornsett. His company followed, squeezing past the chair. I waited until the last mage had crossed, then sent help to Bellfold. Its arch, where I had meant to put the western field, was full of villagers trying to bring a man through on a door.
 
-I sent the reserve through Thornsett.
+The reserve went toward Thornsett's market. While the houses screened it I climbed the stair again. By the time I reached the parapet the company was coming out onto the slope, and the bowmen on the eastern path were turning downhill to meet it.
 
-Two dozen mages crossed behind Hesta and took the lane toward the market. I had walked that route often enough to know where they would turn uphill. While they were screened by the houses I went back to the head of the stair. A second stone broke against Lavinia's ward. Below, on the eastern path, the king's bowmen stopped looking up and began turning toward the village.
-
-My company came out of Thornsett at a run.
-
-They were farther from me now than when they had crossed the hall, moving up the open slope toward the backs of the engines. The front rank raised a field shield, a pale plane which tilted above their heads. Arrows struck it and turned aside. The ranks behind them were exposed each time the slope forced them to spread.
+The hill captain raised his field shield. Arrows struck the pale plane and turned aside; behind him the ranks spread to get over a sheep wall, leaving men outside its cover.
 
 I sent the raven out over the wall.
 
-“Keep climbing,” I told him. “The engines. No stopping for the archers.”
+“Keep climbing. The engines. No stopping for the archers.”
 
 He went downhill, black against the first light, and called my order above the company.
 
-In the hall the Thornsett captain shouted for help.
+The Thornsett captain shouted for help. I looked back into the hall. My eight defenders had held the mouth of the lane while the reserve passed, but the king's men could see where the company had gone. More blue coats were coming in from the green, and the mages were yielding ground to keep their shields between the soldiers and the civilians.
 
-A royal party had reached the mouth of the lane. My eight defenders had held them while the reserve passed, but the king's men could see where the company had gone. More blue coats were coming in from the green. The mages fell back a few paces, setting their shields across the lane, and the civilians behind them hurried toward us.
+Hesta and a mage were lifting the chair over the raised cobbles at the threshold. The old woman gripped its arms and demanded they keep it level. Behind them a man stumbled toward us with a cloth pressed over his mouth.
 
-Hesta was helping with the chair. One of its legs caught on the raised cobbles at the threshold. She and a mage lifted it together, the old woman gripping both arms and demanding they keep it level. Behind them a man came stumbling with a cloth pressed over his mouth.
+I went down far enough to catch the court guard as it crossed to help.
 
-I sent four of the court guard through to the captain. At the next bay a spear struck the stone beside a mage's head, and another captain called my name. I pointed the rest of that guard toward him.
+“Four to Thornsett,” I said. “The rest to the next bay.”
 
-There were still thirty men and women between the outer doors and the hall. If I sent them all into the villages, the royal assault would find only Ysolith at the center of nine unguarded ways.
+One of the shield casters kept going toward Hesta. I caught his sleeve and pulled him back to face the ordinary doors. His eyes went from me to the villagers, and I held on until he planted his feet beside the stair. Thirty of us remained between the outer entrance and the hall. We could not all follow the cries for help into the villages.
 
 On the hillside the reserve halted.
 
-From the narrows above their right flank the bowmen had a clear shot. My first rank huddled under the field shield while the company captain tried to turn the men behind him onto a less exposed line. The engines were close enough that I could see their crews hauling the arms down for another cast.
+I ran back up to the parapet. From the narrows above the company's right flank the bowmen had a clear shot. The first rank huddled under the field shield while the captain tried to turn the men behind him onto a less exposed line. The engines were close enough that I could see their crews hauling the arms down for another cast.
 
 I wanted the company back in Thornsett. I wanted the eight I had sent into each village standing where I could see their faces. The captain on the hill had raised his hand to me, asking whether he should continue, and I found I was holding the bead for his company between my finger and thumb as though the string could pull him back. I had made Ysolith promise him a road to retreat along. He would come down under arrows, reach the lane already filled with royal troops, and then we would have the whole reserve fighting for the doorway while the engines went on shooting at the Tower. I could see where the field shield ended. Two mages outside it were waiting for him to move, crouched behind a furze bush which would not stop the next flight of arrows.
 
@@ -316,7 +318,7 @@ The royal pikeman lunged through the bay. Lavinia caught the shaft below its hea
 
 The shaft split in her hand.
 
-The force of the spell went through the doorway. Men and shields were lifted off their feet. The front rank struck the men behind it, and the lane cleared as far as the split post. Lavinia stepped to the threshold and spread her empty hands.
+The force of the spell went through the doorway. The front rank was swept off its feet, shields torn loose, men thrown against the men behind them. The lane cleared as far as the split post. Lavinia stepped to the threshold and spread her empty hands.
 
 “Captain, bring your wounded in. Take your line past me.”
 
@@ -326,58 +328,84 @@ Ysolith kept singing. A pike had cut one of the gold cords on her sleeve, and th
 
 The unshielded outer doors took a stone.
 
-It struck high on the left leaf. The upper hinge tore out of the masonry, and the bar I had ordered lowered broke across its middle. Half the door fell into the court. One mage went down beneath the flying timber; two others dragged him clear while the company at the entrance shut its shields over them.
+It struck high on the left leaf. The upper hinge tore out of the masonry. The bar I had ordered lowered broke across its middle, and the falling timber caught a mage's leg before he could get out of its way.
 
-Through the gap I saw the royal assault coming up the approach.
+Two of his company took him under the arms. He cried out when they pulled, his boot still caught beneath the leaf. Through the gap, the royal assault was coming up the approach.
 
-I went down the stair and joined the line, dragging the hem of my coat over wet splinters while the mages on either side of me kept lifting their shields against stones which were no longer the nearest danger. I took the shield caster on my right by the wrist and brought his hand down until he could look straight through the field at the men coming up the approach. My wet black hair fell into my eyes. I shook it back, let go of him and raised my own hands.
+“Lift the door,” I called. “Leave his leg. On my hand.”
+
+I went down the last steps with my palm raised, taking as much of the timber's weight as I could. The two mages got him clear, but one tried to turn back to the line before they had him safely in the hall. I put my shoulder against hers and drove her after him.
+
+“Stay with him. We've got the gate.”
+
+The shield caster I had kept beside the stair was still holding his field overhead, braced for the next stone. I took him by the wrist and brought his hand down until he could look straight through it at the men climbing over the wreckage.
 
 “Lower them. Hold the mouth of the gate.”
 
-We drove a windcast through the broken entrance. The first ranks of the assault went down against the men behind them, but more were climbing over the fallen door. We could not keep them there through another volley.
+We drove a windcast through the broken entrance. The first ranks went down against the men behind them. I felt the caster beside me beginning to shake and moved my foot against his, keeping our fields together while the assault tried to get round their edge. Beyond him, the wounded mage's boot dragged a red furrow through the grit. His companions had him inside the hall.
 
-I looked toward the hill.
+I could not see the hill. A royal officer had reached the fallen door, shouting his men forward, and I had to step onto the broken leaf to force him back. The wood shifted under my heel.
 
-My reserve had reached the engines.
+Above the officer's head a black shape wheeled over the nearest engine. My raven was calling. Scarlet coats moved among the wheels below him. A throwing arm rose crookedly, twisted out of its bearings and came down across the engine beside it. The next frame burst apart at its base. Its crew ran clear as the counterweight dragged the whole machine sideways.
 
-The raven wheeled above the first frame, crying so fiercely that for an instant I heard him over the battle in the court. Scarlet coats moved among the wheels. A stone-thrower's arm rose crookedly, twisted out of its bearings and came down across the engine beside it. The next frame burst apart at its base. Its crew ran clear as the counterweight dragged the whole machine sideways.
-
-The bowmen on the eastern path tried to fall back. The company captain brought his shield up the slope behind them, giving them a wall of red light to retreat from. Beyond him, the marshal's banner was moving down the road.
-
-The men in our broken gateway began looking over their shoulders. I saw one officer trying to turn them back toward the Tower, then abandoning his place when the reserve reached the approach behind him.
-
-We pushed them out.
+The assault began to turn. I saw the officer look over his shoulder, try once more to bring his men forward, then abandon the fallen door as the reserve reached the approach behind him. We drove them down the road.
 
 Lavinia was still in the Thornsett bay. Our village party had reached the green. The king's men there had lost their support from the hill and were drawing back toward their horses. Hesta stood beside the split post with one of our mages, pointing into the bell house. Three more people came out, carrying bundles they would not put down.
 
-Across the hall, the other village parties began moving forward too. I could hear their captains calling the same order, passing it down the lanes: keep the soldiers away from the houses.
+Across the hall, the other village parties began moving forward too. I could hear their captains passing the order down the lanes: keep the soldiers away from the houses.
 
 The king's trumpets sounded again, lower and farther off.
 
-It took longer to end the fighting in the villages than at the engines. I went from arch to arch, sending what help I could spare, making the captains report back before I moved it elsewhere. At Bellfold the burning cart stood abandoned on the green, its torches scattered in the mud. Through another bay I could see two smoking roofs and our mages bringing the fire down in sheets of sparks. By the time the sun cleared the Tower, every village party reported the royal troops driven off.
+It took longer to end the fighting in the villages than at the engines. At Bellfold the burning cart stood abandoned on the green. At Alder End I could see two smoking roofs and our mages bringing the fire down in sheets of sparks. I sent people where the captains called for them, taking their messages in turn. By the time the sun cleared the Tower, every village party reported the royal troops driven off.
 
 I read the nine names again. Then I put the list into my coat.
 
-Hesta came back through Thornsett's arch, leading a man in a leather apron. She made him sit beside the old woman's chair while she found someone to look at his hand.
+Hesta came through Thornsett's arch leading a man in a leather apron. She made him sit beside the old woman's chair.
 
-“My husband,” she told me. “He thought I was lying in a ditch.”
+“My husband. He thought I was lying in a ditch.”
 
-He looked past me at the smashed doors and said nothing. Hesta went back to the lane. There were people still coming out of the houses, and she knew which of them would need help at the crossing.
+He was cradling his hand. When she tried to open his fingers for one of our healers he drew them back, and she took his other hand instead, holding it until he let the healer come close. I stepped out of their way.
 
-Ysolith let the last note of the joining spell end. The silence made me hear how loudly I had been breathing. Her sleeves settled. She put a hand flat on the open book.
+The reserve was coming up the ordinary road with the king's prisoners. At its head the hill captain had a mage's arm across his shoulders; another walked close on her other side, carrying the torn field-shield case. I recognized the pair who had waited behind the furze bush. They stopped on the approach when the wounded woman's foot slipped. The captain let her put her weight on him before trying the next step.
+
+I went down to meet them.
+
+“Don't make her climb,” he said. “We need bearers. There's three more by the engines who can't walk. Send the litters through Thornsett and up the lower path. I'll take them back.”
+
+I put my hands out to the woman. She caught my sleeve so hard that the bead string dug into my wrist.
+
+“Wait,” she said. “Let me stand before you move.”
+
+We waited. Her companion kept the case tucked beneath one arm and used both hands to steady her.
+
+“She took an arrow when we left the furze,” the captain said. “We took the shield back for these two and went up with them inside it. She said she could walk. She's been saying it all the way here.”
+
+He was watching her foot while he spoke. I had watched her from above the field and sent her onward. Now she was trying to find somewhere to put that foot among the shards of the door.
+
+I called for a chair and the litter parties. When they came, the captain made them show him the slings before he would lead them out. I gave his prisoners to fresh guards. The other mage stayed with the wounded woman, refusing to move aside until the chair was squarely behind her.
+
+Lavinia came to us from the hall. Gray dust lay on the gold of her mantle, and there was a mark across one palm where she had taken the pike. She waited until the captain had gone down with the bearers.
+
+“Thornsett is clear,” she said. “I need the other villages' reports, and yours. Tell me what happened to the company.”
+
+“All nine held. Two roofs at Alder End burned through; the houses are standing. Our parties are still there. Three of the reserve are on the field to be carried in. One here who shouldn't have walked. The captain has gone back with the litters. I've sent guards for his prisoners, but I need to relieve the village parties too. Some have been casting since the first light. I've still got fresh people in the court, but once I send them out, that's the last of what I kept for the Tower.”
+
+The wounded woman had kept hold of my sleeve while I spoke. She let go when her companion rolled the empty shield case and set it under her foot. The bead string had been pressed into my wrist; when I lowered my hand, the cylinder with my commission swung against the chair.
+
+Ysolith's last note ended in the hall. Her sleeves settled; the book lay quiet beneath her hand. She came to the edge of the court, with the cut gold cord trailing from her wrist.
 
 “The ways are joined,” she said. “I can close them now.”
 
-Beyond her, a woman stepped into the hall carrying a boy asleep against her shoulder. She stopped under the arch and waited for someone to tell her where to go.
+Beyond her, a woman had stopped under an arch with a boy asleep against her shoulder. She waited for someone to tell her where to go.
 
-Lavinia had left the Thornsett bay. There was gray dust on the gold of her mantle and a mark across one palm where she had taken the pike.
+Lavinia looked along the hall, from the woman to the waiting mages at the far thresholds.
 
-“Leave the village ways open,” she said. “Keep our guards at the far ends. Anyone who needs to come here may come.”
+“Keep the village ways open,” she said. “Dorian, relieve the parties in turn. Let them rest in the villages if they have a place there; they needn't come up the hill to be sent down again. Keep the far ends guarded. Anyone who needs to come here may come.”
 
-Ysolith smiled at the woman and moved aside for her. The book lay quiet beneath her hand. Outside the arches, the nine places continued into their own morning.
+I called the captains in the court to hear their relief orders. One went straight through Bellfold's arch to speak to the people on the green. Ysolith moved aside for the woman with the sleeping boy, then stood beneath the shining letters with her head lifted, listening to the nine places continuing into their morning.
 
-I brought the village captains' reports to Lavinia at the broken entrance. My raven had come back and stood on the torn seam of my shoulder, watching the hillside. Below us the reserve was returning up the ordinary road, escorting men who had laid down the king's arms. Some of our mages were helping one another climb.
+Lavinia went to the broken entrance. My raven returned to the torn seam of my shoulder. We stood while the rest of the reserve came up the road, some guarding the king's men, others carrying the equipment of those who could not.
 
-Lavinia waited with her hands folded beneath the red stone. When the company reached the gate she stepped down among them, making room for the wounded to pass first.
+When the company reached the gate, Lavinia stepped down among them and made room for the wounded to pass first.
 
-The mages came in through the broken doors. Behind her, through the open arches of the hall, their roads still led to every village the king had named.
+The mages came in through the broken doors. Behind her, through the open arches of the hall, the roads still led to every village the king had named.
