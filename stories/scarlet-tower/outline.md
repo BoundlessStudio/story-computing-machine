@@ -43,3 +43,50 @@ At dawn the arches make those fronts reachable. Ysolith's transported concentrat
 3. **Same hall and court at dawn; long scene, about 2,100 words.** Establish Thornsett's lane through one recognizable bay; glimpse other fronts without touring them. The carter knows individual neighbors and lane obstacles; Dorian knows the wider roads and deployment. She clears the crossing and guides the company. His deployment tests authority already granted. Lavinia's shielding enables the reserve's exposed uphill flank from Thornsett. That commitment weakens the lane's remaining defense; royal soldiers press the defenders back toward the bay while villagers are still crossing. Ysolith needs defended casting ground, not praise. Lavinia refuses closure and moves her defense to the endangered people, directly fighting the incursion. The outer doors fall before the flank silences the engines. Each leader's power changes what the others can accomplish. Turn: encirclement and burning offensive break. Stay for the immediate aftermath.
 
 Summarize intervening preparations, answering companies and other houses' messages asking what Scarlet has answered while none has openly countermanded the crown. Omit court politics, the king's viewpoint and ancient-war history. At sunrise Ysolith could close the magical bays; the leaders deliberately keep them open. Scarlet defenders stand among the threatened villages, the recognizable carter guides people through, and Lavinia receives returning companies beside the smashed ordinary outer doors. The doors are what was lost; the village ways continue by choice. The initial barring, Dorian's concentration, credible surrender and the king's criminalization of hospitality load that image. Complete this confrontation without declaring the kingdom won.
+
+
+## Provisional voice trial — after the outline gate
+
+### Opening A
+
+Lavinia had come down in the gold mantle because the king's men must have no excuse to mistake her answer for an outburst by one of the younger scholars. Now its weight pressed the tendons at the base of her neck, and the herald was still reading out her titles.
+
+His breath whitened over the parchment. Behind his escort, the road dropped toward Thornsett between walls of red stone; four teams of oxen were dragging the first siege engine around the lower bend. The wheels complained every time the driver checked them. Above that noise, she could hear the apprentices breathing in the gate hall at her back.
+
+The herald reached the demand for the Order's surrender and looked up. He had a prepared dignity for this moment, his chin raised, the parchment held at the height of his breast. Lavinia kept her hands folded until he lowered it. He was entitled to finish.
+
+“I will not surrender this house or deliver its people to the king's officers,” she said. “Carry my answer as plainly as you carried his command. Scarlet Tower refuses. We will keep our arms, our books, and everyone who has come here for shelter.”
+
+A hand moved behind her. One of the apprentices had begun to applaud. She turned her head far enough to see him stop, his palms still apart, ashamed. She wished he had not been ashamed. He had scarcely been here a month.
+
+Dorian drew close on her right, the raven shifting its claws on his red shoulder.
+
+“The hill companies have an hour of light left. If I wait for the other houses to answer, we'll be bringing them up under the king's bowmen. I want them called now.”
+
+“Yes. Call them in my hearing.”
+
+She wanted the king's escort to hear, too. Dorian unwound the raven's hood strings from his gloved finger. Down on the bend, a wheel struck stone hard enough to jar the whole wooden engine, and the oxen stopped.
+
+### Opening B
+
+The accounts already reaching us have Lavinia alone on the steps, with the royal army spread beneath her. I was beside her. My raven had one foot on her gold mantle, and she pushed his toes off without interrupting the herald. I don't particularly require a place in the accounts, but I object to the deletion of a useful bird. He carried the summons.
+
+There were also six apprentices in the doorway, two battle companies waiting for an order, and a woman from Thornsett who wanted somebody to move the escort's horses so she could get her cart downhill. She had brought fleeces. I remember the smell because my new coat went on smelling of sheep all night.
+
+Below us the king's bowmen were taking the path on the eastern face of Red Tor. They had perhaps forty paces left before the path narrowed. I kept my thumb on the third bead of my command string and watched their captain trying to hurry them without running himself. He knew we could see him.
+
+The herald demanded the surrender of Scarlet Tower and everyone within it.
+
+Lavinia let him lower the parchment.
+
+“We will not surrender the Tower,” she said. “We will not disarm the Order. You may tell the king that everyone in our keeping remains in our keeping, and that I have given you this answer before witnesses.”
+
+One apprentice tried to applaud. The others stared at his hands, which put an end to that. I had picked out the adults who would help carry the ladders when the shooting started; he was not among them.
+
+I told Lavinia I wanted the hill companies called before the bowmen reached the narrows.
+
+“Call them now, Dorian. Let the herald hear.”
+
+I took the raven's hood off. He shook himself, driving both claws through the seam of my shoulder, and cried the Order's war summons into the cold air.
+
+Every window of the Tower answered.
