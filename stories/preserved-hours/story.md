@@ -8,13 +8,13 @@ canon: false
 
 I used to do my sums in the goods lift. It took a long time to reach the gallery, and the little mirror above the emergency button made it harder to lie about what another sale would cost me. The broker had given me photographs once: my face as it might look if I sold six years, or ten, or fourteen. All the faces looked like women to whom I would have offered my seat. I sold six and wished, as soon as I had done it, that I had taken ten. The fee was the same. You lose a surprising amount of your life to the fee.
 
-On the evening Bellac came I had a cheaper printout in my pocket. Eighteen months, to be taken the next morning. My landlord’s letter was folded around it. People have asked me why I did not move to a cheaper room. I had looked at one. There were four flights of stairs between the room and the toilet, and by then I had to think about what I would be capable of after the money came through.
+On the evening Bellac came I had a fresh printout in my pocket. Eighteen months, to be taken the next morning. My landlord’s letter was folded around it. People have asked me why I did not move to a cheaper room. I had looked at one. There were four flights of stairs between the room and the toilet, and I had to allow for what another eighteen months would do to my knees.
 
 The gate jammed at the Crenna Gallery’s floor, which the old indicator still called Bedding and Linen. I put my shoulder under it and shoved until the track gave. Bellac later had that shoulder reproduced with extraordinary care, but the new one has never had to open a gate like that.
 
-Alis was reading when I came in. Beyond the high glass, Etram’s streetlights had come on among the bare branches. Her face was inclined over the phone, clear fingers resting on its edge, and the light inside her made a long amber streak across the polished floor. She had once told me what the trousers she was wearing had cost when trousers still wore out for her. I remembered the sum every time I knelt beside them.
+Alis was reading when I came in. Beyond the high glass, Etram’s streetlights had come on among the bare branches. Her young face was inclined over the phone, clear fingers resting on its edge, and the light inside her made a long amber streak across the polished floor. She had once told me she’d paid six hundred and forty for the trousers, back when trousers still wore out for her. I remembered the sum every time I knelt beside them.
 
-I switched on my earpiece.
+The last chord of the piano recording was dying away. Under it, the cabinet relays clicked. I switched on my earpiece.
 
 “I would like you to listen before you use the meter,” she said. “You look so pleased when the meter says I am comfortable.”
 
@@ -38,11 +38,7 @@ Alis turned her head just far enough to look at me. Her face held the same warm 
 
 “You clamped it on Monday.”
 
-“A replacement means taking the load off the socket. I need the lifting arm out of the cupboard. I’ll miss my tram.”
-
-“What time is it?”
-
-“Late enough.”
+“A replacement means taking the load off the socket. I need the lifting arm out of the cupboard. I’ll miss the eight forty-two tram.”
 
 She picked up the phone. I thought I had lost her, but she was opening a timetable. I could see the little figures backward through the glass.
 
@@ -56,17 +52,21 @@ She picked up the phone. I thought I had lost her, but she was opening a timetab
 
 Alis closed the timetable. “Then you had better charge for a taxi. The buyer’s coming tonight. I don’t want to spend another evening pretending that noise is somebody talking at the far end of the room.”
 
-I went for the lifting arm. Its wheels had little rubber tyres to protect the floor, although the cupboard had no ramp. I hauled it over the lip with both hands and brought it back past the others: the seated man bent over his handset, a woman touching her forehead, the curly-haired man with his head tipped back as though a bird had got into the ceiling. His backpack was as transparent as his shirt. He had asked to keep it when he was transferred. I had never asked what he had carried in it.
+I wondered whether I would have to send my three unpaid invoices to yet another address.
+
+I went for the lifting arm. Its wheels had little rubber tyres to protect the floor, although the cupboard had no ramp.
+
+The seated man’s annual refill was waiting on the cabinet ledge behind the service screen. ONE YEAR was printed on its yellow band. In October I had sold another three years. I tried to lift the scalloped tab with my right thumb, then had to put the cell down and get the pliers. Once I had fitted it into his feed, the counter advanced by three hundred and sixty-five days. The white lead climbed to the ceiling and came down again into his bright shoulder. He went on reading while I put the wrapping in my case.
+
+I hauled the lifting arm over the lip with both hands and brought it back past the others: the seated man bent over his handset, a woman touching her forehead, the curly-haired man with his head tipped back as though a bird had got into the ceiling. His backpack was as transparent as his shirt. He had asked to keep it when he was transferred. I had never asked what he had carried in it.
 
 “Dena,” he said in my ear. “Could you lower my head before you go? It’s pulling again.”
 
-“After Alis. I haven’t forgotten you.”
+“After Alis, Fedel. I haven’t forgotten you.”
 
 I had forgotten him. I set his number blinking on the meter so I wouldn’t do it twice.
 
-Behind the service screen I took down the seated man’s annual refill. ONE YEAR was printed on its yellow band. My last sale had filled three of those little cells. I tried to lift the scalloped tab with my right thumb, then had to put the cell down and get the pliers. Once I had fitted it into his feed, the counter advanced by three hundred and sixty-five days. The white lead climbed to the ceiling and came down again into his bright shoulder. He went on reading while I put the wrapping in my case.
-
-I fitted the lifting arm under Alis’s lead and let it take the weight. For a few seconds she kept very still. Then her fingers spread on the phone.
+I fitted the lifting arm under Alis’s lead and let it take the weight. She stopped reading. Then her fingers spread on the phone.
 
 “That’s better. You see? I wasn’t doing it to keep you.”
 
@@ -74,21 +74,19 @@ I fitted the lifting arm under Alis’s lead and let it take the weight. For a f
 
 “I usually do.” She had begun reading again before she finished speaking.
 
-The goods lift shuddered. By then I was at the next plinth, easing the cable behind the raised chin. The gate opened on a man in a grey overcoat. He stood well away from my case, waited until I had seated the collar, and said my name as though he had made an appointment with me.
-
-* * *
+The goods lift shuddered. By then I was at Fedel’s plinth, easing the cable behind his raised chin. The gate opened on a man in a grey overcoat. He stood well away from my case, waited until I had seated Fedel’s collar, and said my name as though he had made an appointment with me.
 
 “I’m Bellac,” he said. “I believe they told you I was coming.”
 
 “They told Alis. I’m still here because she wants the job done properly.”
 
-“I hope you’ll charge for the extra time.” He took off his gloves, finger by finger. “I’m buying the collection. The gallery too, if we can come to terms over the lease.”
+“I hope you’ll charge for the extra time.” He took off his gloves. “I’m buying the collection. The gallery too, if we can come to terms over the lease.”
 
-I set the man’s neck a little lower. He closed his eyes. The new angle brought the curls away from his forehead, where a small patch of light had been trembling.
+I set Fedel’s neck a little lower. He closed his eyes. The new angle brought the curls away from his forehead, where a small patch of light had been trembling.
 
 “Don’t try looking right up yet,” I told him. “Let that settle.”
 
-Bellac waited while I packed the loose collar. His coat smelled of cold wool. In the breast pocket he had a pair of spectacles, although he wore another pair; I liked that and distrusted myself for liking it.
+Bellac waited while I packed Alis’s old collar. His coat smelled of cold wool. In the breast pocket he had a pair of spectacles, although he wore another pair; I liked that and distrusted myself for liking it.
 
 “I would like to commission a body for you,” he said.
 
@@ -124,7 +122,7 @@ It sounded very fine with my case closed and the floor clean around us. I wanted
 
 “Dena,” Alis said in my ear. “Would you put me on the room speaker? I would rather ask him things myself.”
 
-I set the meter on her plinth and switched the output. Her next words sounded thin in the big concrete room, less intimate than they had inside my ear.
+I set the meter on her plinth and put her on the room speaker. Her next words sounded thin in the big concrete room, less intimate than they had inside my ear.
 
 “Mr. Bellac, have you allowed for somebody maintaining Dena? She’ll be very difficult about being serviced. I can tell you that now. She sometimes holds a tool in her teeth rather than ask me to take it.”
 
@@ -150,7 +148,7 @@ The sample’s palm was cold. In service it would be warm all the way through. M
 
 Alis said, “You ought at least to hear the offer. He’s keeping us together. You know what the other place was proposing.”
 
-The other bidder had wanted three of the people here for a private dining room. Alis and the man with the backpack would have gone to different houses. I had spent the previous week refusing to tell either of them that it would be a nice change.
+The other bidder had wanted three of the people here for a private dining room. Alis and Fedel would have gone to different houses. I had spent the previous week refusing to tell either of them that it would be a nice change.
 
 “Did you get an offer like this?” I asked her. “When you were transferred?”
 
@@ -182,7 +180,7 @@ The glass was black now. Beyond it, the top branches of the street trees showed 
 
 “I didn’t say that. I wanted to live. I still want to live. There are days when being here makes me so angry I compose letters until morning, and I have to be very careful who I send them to. But if you put me back in the residence with that agreement, I would sign it.”
 
-Bellac said, “Your upkeep would continue whether you were working or not. The endowment belongs to the collection.”
+Bellac brought the drawing between me and the black window. “Your upkeep would continue whether you were working or not. The endowment belongs to the collection.”
 
 “And if I get sick of fixing them? I could wake up one morning and not want to walk over to her.” I couldn’t look at Alis while I said it.
 
@@ -198,13 +196,13 @@ I looked at the drawing. Its line ran from plinth to plinth, turning in a clean 
 
 “You would be a living exhibit, Miss Ors. I don’t want to pretend otherwise.”
 
-Farther along the row, the backpacked man’s head jerked. I heard the collar knock once. His eyes opened and remained on the ceiling.
+Farther along the row, Fedel’s head jerked. I heard the collar knock once. His eyes opened and remained on the ceiling.
 
 I put the clear hand back in its case. “I have to see to him.”
 
 Bellac moved his coat out of my way. Alis watched me go.
 
-The man’s cable had settled out of the clamp. With the lifting arm under it I could turn his head down a fraction. He asked for a little more. The angle he wanted would put the feed against his neck again, so I held it clear while he found a position he could bear. He was looking toward Alis. I switched his output to my earpiece and bent to the work.
+Fedel’s cable had settled out of the clamp. With the lifting arm under it I could turn his head down a fraction. He asked for a little more. The angle he wanted would put the feed against his neck again, so I held it clear while he found a position he could bear. He was looking toward Alis. I bent to the work.
 
 “Could we still call you?” he asked.
 
@@ -216,7 +214,7 @@ The man’s cable had settled out of the clamp. With the lifting arm under it I 
 
 He considered that. “You tell me now.”
 
-I stayed with my hand under his cable longer than I needed to. The palm was going numb. Bellac was waiting by the open case, looking neither offended nor impatient; this was what he had come to see. I could have let the contractor take over after that night. I had worked in other galleries. There would have been other jobs, and other rooms, and other stairs.
+I stayed with my hand under his cable longer than I needed to. The palm was going numb. Bellac was waiting by the open case, looking neither offended nor impatient; this was what he had come to see. I could have let the contractor take over after that night. I had worked in other galleries. I would have to find one I could still get into with my case.
 
 When I returned, Alis’s phone lay face down in her lap.
 
@@ -294,7 +292,7 @@ Bellac looked at the space he had left between the hand and the case lid. He too
 
 “A screen you control. No timetable. The rail still stops at the gallery door.”
 
-I looked through the gap at the lift gate. There was an advertisement in the car for a concert I had been meaning to attend since the posters went up. I would not be able to go to that, or to another one. Even if somebody brought me the music, there would be no arriving late and finding my seat, no annoyance at the coat on the chair beside me. I had been imagining a great deal of future without imagining where I would put it.
+I looked through the gap at the lift gate. There was an advertisement in the car for the January recital at Leston Hall. I had been meaning to go since the posters went up. I would not be able to go to that, or to another one. Even if somebody brought me the music, there would be no arriving late and finding my seat, no annoyance at the coat on the chair beside me.
 
 My thumb caught again. I opened the hand against my thigh and worked it loose. There would be new posters next year. I wanted to be here to dislike them. I wanted to find out whether Alis ever sent the letter she kept rewriting. I could not make myself want him to withdraw the offer.
 
@@ -316,7 +314,7 @@ Four weeks later I gave the landlord my key. Bellac paid the final room bill and
 
 For the first viewing I wore the shape of my work shirt, with the sleeves rolled unevenly, and the trousers with the patch. They had made my short hair clear too. In the fitting mirror it had looked wet. My boots could no longer be taken off, although the laces appeared to go in and out of their little holes.
 
-The gallery smelled of orange oil. Somebody had polished the floor again and left a damp arc beside the lift. I avoided it, an old habit; my new soles would not slip. Above me the carriage clicked past a junction and followed when I turned. I wanted to do it again, simply to feel it keep up.
+The gallery smelled of orange oil. At six the windows were black, with snow in the forks of the street trees. The piano recording began again. Somebody had polished the floor and left a damp arc beside the lift. I avoided it, an old habit; my new soles would not slip. Above me the carriage clicked past a junction and followed when I turned. I wanted to do it again, simply to feel it keep up.
 
 Alis beckoned with the phone.
 
@@ -332,7 +330,7 @@ I knelt. Inside her wrist a bearing had shifted out of its seat. I needed her to
 
 “Dena. Gently.”
 
-I set my palm against the edge of the plinth and tried the movement twice before touching her again. The fingers did exactly what I asked. I could keep a steady pressure without the ache building up my arm.
+I set my palm against the edge of the plinth and tried the movement twice before touching her again. I could keep a steady pressure without the ache building up my arm.
 
 By then Bellac had brought the visitors over. There were three of them, in coats they had not needed to remove. One came between me and the lamp, and a brown sleeve passed through the space I could see inside Alis’s arm. I stopped moving the bearing.
 
@@ -344,13 +342,13 @@ The visitor leaned closer. He had a pleasant face, a little pink from the cold, 
 
 “Would you mind moving back?” I asked him. “I need that tool beside your cuff.”
 
-He looked down at me, then at the case, and gathered his coat with both hands. He seemed embarrassed. I thanked him and took the fine driver out. His shadow cleared Alis’s wrist. Through her hand I could see my own, and through both the small bright bearing I had to settle.
+He looked down at me, then at the case, and gathered his coat with both hands. I thanked him and took the fine driver out. His shadow cleared Alis’s wrist. Through her hand I could see my own, and through both the small bright bearing I had to settle.
 
 Alis watched my fingers. Her bun had loosened at the back, and the strand I had moved away from her socket on that first evening lay across her collar again. She was holding the phone against her chest with her free hand.
 
-“You’re steadier,” she said. “You don’t have to brace yourself.”
+“You’re steadier,” she said. “I’d like my hand back now.”
 
-I turned the bearing once, then eased her wrist back. The movement was smooth. She tried it without my hand under hers and brought the phone up to the old familiar angle. Her face went down toward it, intent, but she had not begun reading.
+I turned the bearing once, then eased her wrist back. She tried it without my hand under hers and brought the phone up to the old familiar angle. Her face went down toward it, intent, but she had not begun reading.
 
 “I’d like a little time in the alcove,” I told her. “I’ll leave the channel on.”
 
@@ -360,9 +358,9 @@ She looked at the screen, then at me. “I have something I want to show you whe
 
 I stood without the old pause halfway up. The pad lay flat on the floor. I picked it up, folded it, and put it away. One of the visitors stepped aside before I asked. In the polished floor his dark outline ran across the light from my legs.
 
-The carriage followed me past the seated man and the woman with her hand at her forehead. At the turn, the raised palm was level with my face. Beyond it the concrete wall was bare. I took the branch I had drawn with Bellac’s pencil and felt the trolley change direction above my head.
+The carriage followed me past Fedel. He lowered his chin to look at me, and I saw the clear backpack straps move against his jacket. I passed the seated man and the woman with her hand at her forehead. At the turn, the raised palm was level with my face. Beyond it the concrete wall was bare. I took the branch I had drawn with Bellac’s pencil and felt the carriage change direction above my head.
 
-The stock cabinet was warm. Beside it the installer had fixed my supply panel. FIVE YEARS was printed on the yellow break-seal. They had put in the size I asked for. My thumb found the scalloped edge without catching; the old sale receipt was still inside my phone case, with three smaller serials on it. I left this seal intact and could feel the pulse of the supply through it, steady against the clear pad of my finger.
+The stock cabinet was warm. Beside it the installer had fixed my supply panel. FIVE YEARS was printed on the yellow break-seal. They had put in the size I asked for. My thumb found the scalloped edge without catching. The old sale receipt was still inside my phone case, with three serials on it. I rested my hand against the band and felt the pulse of the supply through it, steady against the clear pad of my finger.
 
 There was room to sit if I moved my case. I did that, reached up and drew the screen. Alis’s bent head disappeared panel by panel. The visitors’ shoes disappeared. I set the catch from inside, and nobody touched it.
 
