@@ -4,7 +4,9 @@
 
 ## Supplied reference images
 
-- codex-clipboard-4e409c73-9b0f-4df3-9e88-d9d59e246185.png
+- `codex-clipboard-4e409c73-9b0f-4df3-9e88-d9d59e246185.png`
+
+## Reference display name
 
 Display name: Image #1. The supplied original is preserved in `art/references/` under its supplied filename.
 
