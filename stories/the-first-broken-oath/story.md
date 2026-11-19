@@ -84,7 +84,7 @@ The forewoman looked at the cylinder, then at the listening galleries. She pulle
 
 ***
 
-The service bridge carried them through the east doors of Nine Press and on along a raised deck beside the wheel press. Beneath the end of the deck stood the door to the observation stair. Tavia stopped so abruptly before it that Hedra nearly walked into her. Beyond the rails and the blank-carrying arms, other workers watched them from their stations. One lifted two fingers. Tavia answered without turning her head.
+The service bridge carried them through the east doors of Nine Press and on along a raised deck beside the wheel press. At the foot of the deck steps stood the door to the observation stair. Tavia stopped so abruptly before it that Hedra nearly walked into her. Beyond the rails and the blank-carrying arms, other workers watched them from their stations. One lifted two fingers. Tavia answered without turning her head.
 
 The door had been welded shut. Now the welded strip lay on the floor, freshly cut, and warm enough to steam where the rain had come in on Hedra's boots.
 
@@ -242,7 +242,7 @@ The hammer's charge shifted beneath her fingers. She set its head upright on the
 
 “Keep the choirs on,” she told the Director. “The people who called me here will hear my answer.”
 
-“I will not execute the Director,” she told the recorder. “You heard it confess to the forty-three. I do not dispute its guilt. But I have seen what it is holding below us. The armies it reports to the owners as being in storage are going into the breakers, one rank after another. If I kill the Director, those armies will come up into the city. I will not kill Kaller's people to complete my commission. I will leave it alive. When another Paladin comes to strike it, I will stand in the way.”
+“I will not execute the Director,” she answered the recorder. “You heard it confess to the forty-three. I do not dispute its guilt. But I have seen what it is holding below us. The Director tells its owners their armies are in storage. It sends every new rank into the breakers. If I kill the Director, the Line's next soldiers will come up into the city. I will not kill Kaller's people to complete my commission. I will leave it alive. When another Paladin comes to strike it, I will stand in the way.”
 
 The recorder drew breath close to the receiver.
 
@@ -282,7 +282,7 @@ She stayed there after speaking. Hedra waited beside her until she looked away f
 
 “Then make it keep that bulkhead shut,” Tavia said. “It managed that well enough for the forty-three.”
 
-“The observation stair was welded shut this morning,” Hedra said. “A door opened for me can open for them. I can bury the road.”
+“The observation stair door stayed welded shut until this morning,” Hedra said. “A door opened for me can open for them. I can bury the road.”
 
 She pointed with her empty hand across the firebreak, at the press sunk into the west end of the hall.
 
