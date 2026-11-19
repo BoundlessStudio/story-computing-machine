@@ -210,7 +210,7 @@ Iona turned from Romy towards the window. Among the black roofs and dark windows
 
 “Keep your hands there,” Cleo said.
 
-The reflected Iona lifted one hand and set its palm against the inside of the window. Iona’s own fingers were still spread on the table. She pressed them down harder. The face in the glass leaned towards her. The horns widened, dragging the beanie up until it caught on one ridged curl. Under it, frost joined one dark strand to the next, whitening the hair.
+The reflected Iona lifted one hand and set its palm against the inside of the window. Iona’s own fingers were still spread on the table. She pressed them down harder. The face in the glass leaned towards her. The horns widened, dragging the beanie up until it caught on one ridged curl. Under the beanie, frost joined one dark strand to the next, whitening the hair.
 
 Romy stood so abruptly that her chair struck the table. “That isn’t you.”
 
@@ -224,7 +224,7 @@ The thing was waiting. Its palm pressed outwards. The old glass bulged without b
 
 She hit them sideways. The tray’s edge struck the mirror’s upper corner. A crack shot across the reflected wrist; the hand on Iona’s side broke apart into frost. The grains rattled over the tray and vanished. The face in the glass opened its mouth wider than her jaw could ever have gone. Its cry climbed into a thin ringing that set the cutlery rattling on the tables.
 
-Iona stumbled back. The mirror held her own reflection again. In the west window the white-haired figure reappeared, cradling its broken hand.
+Iona stumbled back. The mirror held her own reflection again. In the west window the white-haired figure reappeared, cradling its wrist.
 
 The supervisor was shouting at the doors. Students ran past the serving hatch, slipping on the floor as frost spread under the tables. Romy had caught Iona’s elbow; Cleo had a handful of her shirt. Somewhere a cup broke. The sound was absurdly small after the noise from the glass.
 
@@ -312,7 +312,7 @@ The boy who had asked her to turn round stopped at the foot of the steps. His ph
 
 “Put it away,” Iona said.
 
-He lowered the phone. She looked back at him until he put it in his pocket, then he went to find his father.
+He lowered the phone. She looked back at him until he put it in his pocket. Then he went to find his father.
 
 The supervisor gave them a blanket and went to answer another phone. Cleo pulled it over all three pairs of knees. Underneath it, her tail curled round Iona’s ankle again. Her lilac bow was hanging from a single strand of hair, the little flower crushed against her ear.
 
