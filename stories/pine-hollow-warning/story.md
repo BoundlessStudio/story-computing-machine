@@ -78,7 +78,7 @@ Now Romy was balancing her phone against her fox-patterned water bottle.
 
 Iona had her sleeves pulled over her fingers. The ache was bad today, deep in both curls of horn; she had tried warming them against a radiator and almost been sick when the bell rang. She would have liked to explain that to someone who knew how horns were supposed to feel. Instead, when Romy looked at her, she said, “Point it at the food. If my face goes in, I’m leaving.”
 
-Romy angled the phone down. Its screen contained three trays, Cleo’s lavender sleeve and the edge of Iona’s black one. There were four people watching.
+Romy angled the phone down. Its screen contained three trays, Cleo’s lavender sleeve and the edge of Iona’s black one. The stream had four viewers.
 
 A girl stood beside the west window with her tray clutched to her chest. Her cat ears were flat. She was watching the phone.
 
@@ -132,7 +132,7 @@ Cleo sat down beside her and laid a pair of gloves on the table. A little dressi
 
 “The queue’s closed,” she said. “They’re giving everything away at the hatch. I can get you something if you like. There are still cakes. There were three when I came past, though if I go back and that badger’s got all of them, I’m going to—”
 
-“I don’t want a cake. Your bus is outside.”
+“I don’t want a cake,” Iona said. “Your bus is outside.”
 
 “I saw it.” Romy pulled her chair to the end away from the display and sat facing Iona.
 
@@ -188,7 +188,7 @@ Cleo put her dressed wrist beside Iona’s hand.
 
 “You can’t just decide I’m safe.”
 
-“I’m not deciding the cafeteria is safe.” Cleo picked up the gloves and pushed them into Iona’s lap. “I’ve told Dad I’m waiting here. He’s bringing the car round. Put these on, will you? You’re shivering.”
+“I can’t promise we won’t get hurt.” Cleo picked up the gloves and pushed them into Iona’s lap. “I’ve told Dad I’m waiting here with you. He’s bringing the car round. Put these on, will you? You’re shivering.”
 
 Across the room a child began crying into a phone. The supervisor knelt beside him. Iona folded the gloves and put them in her trouser pocket. She rubbed the loose thread between her fingertips until it broke, and kept rubbing after it was gone. On the walk down to lunch she had rehearsed getting rid of them: say something nasty, make Cleo angry, let Romy drag Cleo outside. She had thought the bandage would make it easier. Instead, Cleo had put that wrist beside her and was waiting for her to look up.
 
@@ -206,7 +206,7 @@ Iona stared at her. “What?”
 
 “Your face in the window. You’re grinning, with all your teeth. Iona, turn round. Don’t look at me, look there.”
 
-Iona turned from Romy towards the window. Among the black roofs and dark windows of Pine Hollow, her reflection was smiling. It showed every tooth. The violet eyes, which should have been looking towards Romy, were fixed on Iona.
+Iona turned from Romy towards the window. Among the black roofs and dark windows of Pine Hollow, her reflection was smiling. It showed every tooth. Its violet eyes were fixed on her.
 
 “Keep your hands there,” Cleo said.
 
