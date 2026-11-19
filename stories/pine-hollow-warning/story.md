@@ -42,7 +42,7 @@ Romy brought the phone down between them. A notification covered half the pictur
 
 Cleo leaned over. “That’s a miserable thing to put on a mirror.”
 
-The post showed incised letters in dark wood, and beneath them a careful transcription. Someone had added a countdown to the solstice. Fourteen days.
+The post showed incised letters in dark wood, and beneath them a careful transcription. The caption put the carving at about nine hundred years old. Someone had added a countdown to the solstice. Fourteen days.
 
 Behind Romy, a boy sniggered.
 
@@ -98,7 +98,7 @@ Iona pulled her hands into her sleeves. She had meant to take the broken bowl. S
 
 “End it,” Cleo said to Romy. Her voice was low and furious. “Put the phone down and find me something to wrap round my wrist.”
 
-Romy knocked the bottle over trying to stop the stream. There were sixty-one people watching now. She seized a handful of napkins and came round the table, with all her red hair falling into Cleo’s lap. Her hands were shaking so much that Iona could hear the paper.
+Romy knocked the bottle over reaching for her phone. The viewer count stood at sixty-one when she ended the video. She seized a handful of napkins and came round the table, with all her red hair falling into Cleo’s lap. Her hands were shaking so much that Iona could hear the paper.
 
 The dinner supervisor arrived. She took the ceramic pieces away, pressed fresh napkins onto the scratch and asked Cleo whether she felt faint.
 
@@ -158,7 +158,7 @@ Romy leaned forward. “You should have said. We could have gone to the nurse to
 
 Romy closed her mouth. Her fox ears flattened until the pale fur inside was hidden.
 
-“At first it was just here.” Iona pressed the heel of her hand above her ear, under the beanie. “Then it was both. On the bus home that day I had to lean my head against the seat because it felt too heavy to hold up. The next morning the shelter was full of ice. I thought somebody had done it because of that stupid warning. Then it happened in science. I touched the bench and my fingers stuck. I had to pull them off.” She spread her hands, showing the small, healing raw places. “I put them in my pockets before anyone saw. I thought if I didn’t get upset it might stop. Then the thing with the soup happened, and I had been upset, so I tried harder. Yesterday I sat in the bathroom for an hour counting tiles and thinking about absolutely nothing. My horns got so cold I couldn’t feel my ears. It’s getting worse whether I do anything or not.”
+“At first it was just here.” Iona pressed the heel of her hand above her ear, under the beanie. “Then it was both. On the bus home that day I had to lean my head against the seat because it felt too heavy to hold up. The next morning the shelter was full of ice. I thought somebody had done it because of that stupid warning. Then it happened in science. I touched the bench and my fingers stuck. I had to pull them off.” She spread her hands, showing the small, healing raw places. “I put them in my pockets before anyone saw. I thought if I didn’t get upset it might stop. Then the thing with the soup happened, and I had been upset, so I tried harder. After we got back from the nurse, I sat in the bathroom for an hour counting tiles and thinking about absolutely nothing. My horns got so cold I couldn’t feel my ears. It’s getting worse whether I do anything or not.”
 
 Cleo had turned her whole body towards her. The heart on her necklace rested in the hollow of her lavender collar, rising and falling rather quickly.
 
@@ -170,11 +170,11 @@ Cleo had turned her whole body towards her. The heart on her necklace rested in 
 
 Iona could see the little white dressing every time Cleo turned her wrist, and kept waiting for the lavender sleeve to slip over it so she could get through a sentence without hearing the bowl break. Cleo pushed the sleeve back to stop it catching on her bracelet.
 
-“You both kept saying it was nothing,” she said. “You were so pleased about not believing any of it. I didn’t want to be the one who told you.”
+“You both kept saying it was nothing,” Iona said. “You were so pleased about not believing any of it. I didn’t want to be the one who told you.”
 
 Romy picked up her phone, turned it over and put it down again.
 
-“I thought if everybody could see us having a normal time, they’d stop. They kept moving their chairs and I couldn’t stand it, and I wanted to show them how stupid they were. I didn’t ask whether you were having a normal time. I just made you sit there while I talked over you.” Her voice caught. She cleared her throat and went on. “I’ve taken the video down. People saved it, so that doesn’t do much. I don’t have a way of making that better. But I’m not going to put another phone between us and hope it does the talking.”
+“I thought if everybody could see us having a normal time, they’d stop. They kept moving their chairs and I couldn’t stand it, and I wanted to show them how stupid they were. I didn’t ask whether you were having a normal time. I just made you sit there while I talked over you.” Her voice caught. She cleared her throat and went on. “I’ve taken the video down. People saved it, though. I can’t make them delete it.”
 
 “I’m not asking you to make it better.” Iona had begun picking at a loose thread in her cuff. She could not stop. “I’m asking you to go home before I do it again. What happens if the next thing isn’t a bowl? I can’t promise you won’t get hurt.”
 
@@ -184,11 +184,11 @@ Cleo put her dressed wrist beside Iona’s hand.
 
 “You can’t just decide I’m safe.”
 
-“I’m not deciding the cafeteria is safe. I’m deciding I don’t want you sitting in it alone, trying to make your head stop hurting by counting tiles. I wish you’d let me be frightened without sending me away.”
+“I’m not deciding the cafeteria is safe.” Cleo picked up the gloves and pushed them into Iona’s lap. “I’ve told Dad I’m waiting here. He’s bringing the car round. Put these on, will you? You’re shivering.”
 
 Across the room a child began crying into a phone. The supervisor knelt beside him. Iona rubbed the loose thread between her fingertips until it broke, and kept rubbing after it was gone. She had rehearsed getting rid of them on the way here: say something nasty, make Cleo angry, let Romy drag her outside. She had thought the bandage would make it easier. Instead, Cleo had put that wrist beside her and was waiting for her to look up.
 
-“Do you think the warning’s about me?” she asked.
+“Do you think the warning’s about me?” Iona asked.
 
 “No,” Romy said. “I think something horrible is happening to you. I don’t think you’re the horrible thing. And before you say I’ve got no proof, I haven’t. I’ve just got you. I’m staying.”
 
@@ -218,7 +218,7 @@ The thing was waiting. Its palm pressed outwards. The old glass bulged without b
 
 “Move,” Iona said, shoving Cleo behind her. She snatched up her tea tray and brought it between her face and the reaching hand. The cold struck through the plastic into her wrists. White mist poured over the rim and down onto the table, the same low rolling cloud she had seen cross Cleo’s soup. Beyond the tray, the fingers hooked towards her horn.
 
-She hit them sideways. The tray’s edge struck the mirror’s upper corner. A crack shot across the reflected wrist; the fingers on Iona’s side broke apart into frost. They rattled over the tray and vanished. The face in the glass opened its mouth wider than her jaw could ever have gone. There was a sound that made all the windows shake.
+She hit them sideways. The tray’s edge struck the mirror’s upper corner. A crack shot across the reflected wrist; the fingers on Iona’s side broke apart into frost. They rattled over the tray and vanished. The face in the glass opened its mouth wider than her jaw could ever have gone. Its cry climbed into a thin ringing that set the cutlery rattling on the tables.
 
 Iona stumbled back. The mirror held her own reflection again. In the west window the white-haired figure reappeared, cradling its broken hand.
 
@@ -234,13 +234,13 @@ She pulled the tray away from her numbed fingers and set it down.
 
 Romy’s eyes went to the enormous window wall.
 
-“It followed my face,” Iona said. “I can get it back in the little one. We saw what happened to its hand.”
+“It followed my face,” Iona said. “I can get it back in the mirror. We saw what happened to its hand.”
 
 Cleo’s grip tightened. “It will reach for you again.”
 
 “I need it to. Otherwise it can just go back into the window.” She looked at Cleo’s wrist and made herself finish. “I’ll need you to hold me.”
 
-Cleo let go of the shirt only long enough to push her slipping bow out of her eyes. “Round your waist. Your chains will break.”
+Cleo let go of the shirt and pushed her slipping bow out of her eyes.
 
 Romy lifted a metal-framed chair with both hands. She nearly caught her tail between its legs, swore, and turned the chair the other way.
 
@@ -288,7 +288,7 @@ The second blow hit the silver.
 
 The mirror broke across the creature’s chest. White lines ran through its shoulders and up its throat; its grip on the frame divided into little black shapes, each briefly solid, then flying apart. Cleo hauled Iona backwards. The table moved with them. Romy dropped the chair, reached out with both arms and caught Iona under the shoulders before her head could strike the floor.
 
-Cold burst over them, carrying the smell of the dead hearths, then was gone. The glass fell into the wooden stand with a long, bright clatter.
+Cold burst over them, carrying the dusty smell of ashes, then was gone. The glass fell into the wooden stand with a long, bright clatter.
 
 Iona lay across two sets of arms. She could feel Cleo’s bracelet pressed into her back and Romy’s sleeve under her cheek, damp where snow had melted through the hole at the elbow. She breathed in. Her throat hurt, but the air went all the way down. Above her, where the mirror had stood, the dark backboard showed through an empty frame.
 
@@ -324,9 +324,9 @@ When Romy got her phone out, she pointed it towards the cafeteria windows, then 
 
 “Could we have one of us?” she asked. “Just to keep.”
 
-Iona pulled a strand of black hair out of her mouth. Her chain was twisted and somebody had torn the cuff off her shirt. She could already feel Cleo arranging herself under the blanket.
+“Wait. I look awful,” Iona said.
 
-“Wait. I look awful.”
+Romy kept the phone lowered while Iona pulled a strand of black hair out of her mouth. Her chain was twisted and somebody had torn the cuff off her shirt. She could already feel Cleo arranging herself under the blanket.
 
 “I look awful too,” Romy said, and laughed, though her breath still shook. “We can all look awful. It’s a group photograph.”
 
