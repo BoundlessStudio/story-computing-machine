@@ -306,17 +306,13 @@ Len held his hand out, palm up. The broken little finger stood away from the res
 
 “I'm trying to get you somewhere you can sit down.”
 
-“You hit me and I had to keep riding because I still wanted to beat you. I could feel something moving inside my knee. I didn't know what I was doing to it. Don't stand there acting like you're the one who got me here.”
+“You hit me and I had to keep riding because I still wanted to beat you. I couldn't find the peg. I thought I was going under your bike, and then I could feel something moving inside my knee. I didn't know what I was doing to it. Don't stand there acting like you're the one who got me here.”
 
 He looked at the woman. She had my arm over her shoulder now. His hand came down.
 
-“I thought you'd back off when I came over. You were coming under me on a bend. There was room behind me, and I wasn't just going to give you the race. I've come a long way for this money too.”
+“I saw you. I thought you'd lift when I came over. There was room behind me, and I wasn't just going to give you the race. I've come a long way for this money too. You don't have to make it sound like I was trying to kill you.”
 
 I had wanted to hurt him in the fish yard. I had pictured it quite clearly. I was trying to remember that while he stood in front of me, but my leg had begun to shake against the woman's leg and I couldn't make it stop.
-
-“I thought I was going under your bike,” I said. My voice was getting louder. “I couldn't find the peg. And you were still there, coming at me. You saw me and you kept coming.”
-
-“I saw you. I thought you'd lift. You don't have to make it sound like I was trying to kill you.”
 
 The woman asked me if I could turn toward the bench. I tried to move with her and had to take a breath before I could do it. Len stepped forward, then stopped when I put my hand up.
 
@@ -354,4 +350,4 @@ I had to hold the table while the woman moved my leg. I looked up at him when I 
 
 “Take your money, Len. Let her do this.”
 
-He took his helmet and went to sit on a piece of concrete beyond the fence. The man beside me started counting the rest of my million. After the woman had wrapped the knee, they helped me bring the Norton alongside the Yamaha. I hooked my hand under its saddle to steady it, and the thick end of the weld pressed into my fingers, warm from the ride. The woman took its weight while I borrowed the flag man's marker and put my number on the black tank, above the fresh scratch. Then I sat back on my own brown saddle, both sets of keys in my hand. They were still counting out the money. Each time the wind took a corner of a note off the table, I watched until somebody put it back.
+He took his helmet and went to sit on a piece of concrete beyond the fence. The man beside me started counting the rest of my million. After the woman had wrapped the knee, they helped me bring the Norton alongside the Yamaha. I hooked my hand under its saddle to steady it, and the thick end of the weld pressed into my fingers, warm from the ride. Dad had pushed my hair out of the light with the back of his wrist, leaving grease on my forehead. I remembered rubbing it off with the hand that was supposed to keep the lamp still, and him catching the lamp before I dropped it. The woman had the bike balanced now. I kept my hand under the saddle until she asked if I was ready. Then I borrowed the flag man's marker and put my number on the black tank, above the fresh scratch. I sat back on my own brown saddle, both sets of keys in my hand. They were still counting out the money. Each time the wind took a corner of a note off the table, I watched until somebody put it back.
