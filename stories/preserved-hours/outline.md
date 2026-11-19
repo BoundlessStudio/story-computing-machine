@@ -43,31 +43,3 @@ The last scene inhabits her first viewing in the clear working body. Opaque visi
 3. **First viewing, 20%.** Weeks later, same room through Dena’s new body. Alis wants familiar attention and tests the hand’s steadiness; Dena wants to do the repair rather than be consumed; Bellac wants authenticity seen. Opaque visitors must give her room. **Turn/payoff:** after the repair Dena exercises the privacy she negotiated. Return the palm, carriage click, phone reflection, and recognised year-stock seal. Stay inside her experience as she shuts the screen beneath the supply line; do not turn this into a motto or final verdict.
 
 Summarize extraction; omit a market tour, procedure scene, conspiracy and technological history. The ending’s beauty must remain difficult to refuse: Dena finally has a future, and its line of supply crosses even the privacy she won.
-
-## Voice trial
-
-### Version A
-
-At the fourth floor Dena wedged her tool case under the lift gate and shook out her hand. She had been able to raise the gate with two fingers before she sold the last three years. Now she needed her shoulder, and the shoulder left a grey streak on the white company shirt she had washed in the basin that morning. The gate would go on the invoice again. It had been on six invoices. Apparently there was a price at which a person could become immortal and no price at which this gate could be repaired.
-
-She levered it up and stepped into the Crenna Gallery. Orange polish caught at the back of her throat. Above the street trees the windows were blue with the snow that had not yet fallen; inside, the people on their separate black plinths shone warmly enough to make the cold floor look inviting. The chill came through her boot soles.
-
-Alis had her head bent over the transparent phone. Through her wrists Dena could see the wall, and through the wall’s reflection in the phone she could see herself approaching: a dark, substantial woman with a bag pulling down one arm. Alis tipped the handset. A strand of clear hair had worked loose from her bun and lay against the luminous connector behind her shoulder.
-
-“Dena, before you tell me about your tram, there is a noise behind my left shoulder. It begins very quietly and then, just as I think I have stopped hearing it, it begins again. I would like you to hear it before you decide it is the fan.”
-
-Dena put the case down. Tomorrow she was booked to sell another eighteen months. The lease renewal was folded inside the appointment slip; she could feel their corners when she bent. She took the pad out, laid it beside Alis’s trainers and lowered herself onto it, one knee at a time.
-
-### Version B
-
-I used to do my sums in the goods lift. It took a long time to reach the gallery, and the little mirror above the emergency button made it harder to lie about what another sale would cost me. The broker had given me photographs once: my face as it might look if I sold six years, or ten, or fourteen. All the faces looked like women to whom I would have offered my seat. I sold six and wished, as soon as I had done it, that I had taken ten. The fee was the same. You lose a surprising amount of your life to the fee.
-
-On the evening Bellac came I had a cheaper printout in my pocket. Eighteen months, to be taken the next morning. My landlord’s letter was folded around it. People have asked me why I did not move to a cheaper room. I had looked at one. There were four flights of stairs between the room and the toilet, and by then I had to think about what I would be capable of after the money came through.
-
-The lift gate jammed. I put my shoulder under it and shoved until the track gave. Bellac later had that shoulder reproduced with extraordinary care, but the new one has never had to open a gate like that. There is always someone to do it for me now.
-
-Alis was reading when I came in. Her face was inclined over the phone, clear fingers resting on its edge, and the light inside her made a long amber streak across the polished floor. She had once told me what the trousers she was wearing had cost when trousers still wore out for her. I remembered the sum every time I knelt beside them.
-
-“I would like you to listen before you use the meter,” she said. “You look so pleased when the meter says I am comfortable.”
-
-I was not pleased. I was trying to get home. But she had put the phone down, which meant she really was in trouble, and I got out my pad.
