@@ -20,3 +20,7 @@ The user specifies an outlaw motorcycle race, danger, crime, a dead father, and 
 ## Later user direction — cover revision
 
 the cover its too far from my reference image try agian.
+
+## Later user direction — collection painting style
+
+make sure to keep the painted artist sytle of collection.
