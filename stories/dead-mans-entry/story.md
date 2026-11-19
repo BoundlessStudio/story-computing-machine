@@ -226,7 +226,7 @@ I went to reclaim the Yamaha. The mechanic had put the new tire on and was putti
 
 “I've paid for a particular amount of air.”
 
-He made me laugh. I was looking at the Norton while Len tied his bag on, and laughing, and I had to sit down on my own brown saddle before I could get my gloves on.
+I was looking at the Norton while Len tied his bag on, and laughing, and I had to sit down on my own brown saddle before I could get my gloves on.
 
 We went west into the evening. I put three riders behind me before the light was gone, lost two of them while I stopped for fuel, and had to do it again in the dark. The extra time at Sundown kept returning to me in the shape of somebody else's taillight. In Arizona a truck threw a piece of tread across my path, and I swerved so hard the bag on my saddle shifted. I stopped to retie it with my stomach still trying to move sideways. A rider had died hitting a piece of truck tire the year I first won. They brought his helmet to the finish.
 
@@ -258,7 +258,7 @@ Dad used to sit farther forward on that saddle. On long rides I had rested my ch
 
 I looked past him. Another right, the far end visible between the trunks, with the road tightening before it straightened. There was no car coming the other way. I could see the strip I had to stay inside.
 
-I brought the Yamaha toward his right again. His head moved. He began his turn early to shut me out, and I let him go without following him into it. I stayed farther left, on our side of the line, while the Norton leaned away from me. For a few yards his back wheel was getting farther ahead. I had to wait through that. My hands wanted to hurry the turn, and I held them where they were until I could put the Yamaha onto the road opening beneath his machine.
+I brought the Yamaha toward his right again. His head moved. He began his turn early to shut me out, and I let him go without following him into it. I stayed farther left, on our side of the line, while the Norton leaned away from me. For a few yards his back wheel was getting farther ahead. I had to wait through that. My hands wanted to hurry the turn, and I held them where they were until the gap on his right was wide enough for the Yamaha.
 
 Then I turned.
 
