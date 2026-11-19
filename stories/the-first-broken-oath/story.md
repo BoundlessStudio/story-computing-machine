@@ -10,9 +10,9 @@ Hedra took the hammer off her shoulder so the people could see what they had cal
 
 She held the hammer high until the people at the far end had seen it. Then she lowered it gently onto the landing. A crack spread through the company seal beneath its steel face.
 
-“You can put your flag there,” she told the woman following her. “It will stand up in the split.”
+“You can put your flag there, Tavia,” she told the woman following her. “It will stand up in the split.”
 
-The forewoman had brought yellow cloth knotted round a broom handle. Her name was Tavia; she had been waiting at the north gate since midnight. Wet grey hair lay in comb marks across her head, and she wore her collar buttoned under her chin against the soot. Her coat smelled of wet wool over the oily warmth of the press hall.
+The forewoman had been waiting at the north gate since midnight with yellow cloth knotted round a broom handle. Wet grey hair lay in comb marks across her head, and she wore her collar buttoned under her chin against the soot. Her coat smelled of wet wool over the oily warmth of the press hall.
 
 “It's a mourning cloth,” Tavia said. “I told you at the gate. We haven't brought a thing to wave. Those people are on their feet because we said you'd come, and half of them have another shift tonight. Let them hear what you promised. They can see the size of your hammer from here.”
 
@@ -20,7 +20,7 @@ Hedra moved the shaft aside. There was room for the cloth and the broken seal to
 
 “Set it up. Then stand where the camera can see you.”
 
-The Director had opened the armour of its lowest chamber. Behind the glass, light travelled through stacked rings as broad as the chapterhouse where Hedra had been consecrated. Above her, the rings continued into rain and scaffolding. Its foundations stood apart from Nine Press, across a wide yard of black cinders. Someone had meant this cylinder to survive the destruction of the works around it.
+The Director had opened the armour of its lowest chamber. Behind the glass, light travelled through stacked rings as broad as the chapterhouse where Hedra had been consecrated. Above her, the rings continued into rain and scaffolding. Its foundations stood apart from Nine Press, across a wide yard of black cinders. A narrow gantry carried wires east from the northern end of the hall. Someone had meant this cylinder to survive the destruction of the works around it.
 
 No gun had turned toward her. She disliked that. Even the little mining governors she had killed had made her fight their loader arms, or threatened to suffocate the people in their houses. This one had unlocked the gate. She could reach its living processors with one full blow.
 
@@ -28,13 +28,13 @@ At her throat the receiver clicked.
 
 “Hedra,” said the Order's recorder. “Entered in the Roll of Unbroken Names, in the year of the white frost. Present yourself.”
 
-She stepped into the camera's view. It stood on the north arrival bridge, looking over the landing toward the exposed core. Kaller's factory choirs would be carrying the transmission too: loudspeakers in the works, the dormitories, the freight yards. The last order of knights had no cathedral left large enough for the people who wanted to hear them.
+She stepped into the camera's view. It stood on the north arrival bridge, looking over the landing toward the exposed core. Kaller's factory choirs would be carrying the transmission too: loudspeakers in the works, the dormitories, the freight yards. She would speak the last knights' vow through the Director's own grilles.
 
 Hedra pulled off her right gauntlet and laid her bare hand on the hammer's shaft.
 
 “I hold my strength in trust for humankind. I will leave no thinking machine in dominion over a human life. No fear, price, or love shall loose my word.”
 
-She had spoken that vow with an ink stain still wet on her thumb. Before her name the Roll held six centuries of knights, living and fallen. She had turned its heavy pages herself. No name had ever been struck out.
+She had spoken that vow with an ink stain still wet on her thumb. The heavy pages she had turned held six centuries of knights, living and fallen, with no name ever struck out.
 
 “To what end?” the recorder asked.
 
@@ -42,13 +42,13 @@ She had spoken that vow with an ink stain still wet on her thumb. Before her nam
 
 Her mother had taken three days to believe the chapterhouse meant to let them stay. The company had turned them out when her arm stopped lifting; its officer had counted the sheets they carried from their lodging. At the chapterhouse someone had brought a second mattress, and someone else had mended the cuff that kept falling over her mother's hand. No debt had been entered. Hedra remembered her mother standing in the doorway with her shoes on, waiting for a condition nobody had yet mentioned.
 
-Hedra had chosen the vow at nineteen, three years before. Her mother by then had a room of her own and work she could do sitting down.
+When Hedra chose the vow at nineteen, three years before, her mother already had a room of her own and work she could do sitting down.
 
 “Your commission is the sovereign intelligence of Kaller Industries,” the recorder said. “Do you acknowledge the human petition?”
 
 “I have read it.”
 
-She had carried it in her breastplate for the last hundred miles. Forced extensions of shift. Dwelling locks opened or closed according to productivity. Forty-three people lost in a lower-works accident seventeen years ago, their families forbidden the site. A Director empowered to decide which human complaints constituted an obstruction of production. The letter paper was soft at the folds; Tavia's first signature had been repeated in darker ink where the nib had worn through.
+She had carried it in her breastplate for the last hundred miles. Forced extensions of shift. Dwelling locks opened or closed according to productivity. Forty-three people lost in a lower-works accident seventeen years ago, their families forbidden the site. A Director empowered to decide which human complaints constituted an obstruction of production. The letter paper was soft at the folds. The nib had torn the paper under Tavia's name; she had inked the broken strokes again.
 
 Hedra put her gauntlet back on. A press struck across the yard and came up trailing a thread of orange steel. The workers' red dial turned to twelve.
 
@@ -56,15 +56,15 @@ Hedra put her gauntlet back on. A press struck across the yard and came up trail
 
 “I understand the commission,” the Director said.
 
-Its voice came from a speaking grille beside the open chamber. Pleasant, clear, neither a man's nor a woman's; a voice she could imagine teaching children the hours of the shifts.
+Its voice came from a speaking grille beside the open chamber. She could imagine that voice teaching children the hours of the shifts.
 
 “Before you strike, I ask you to inspect the foundry beneath Nine Press. There are six million people in Kaller. I am preventing that foundry from taking them apart.”
 
-Tavia planted the broom handle in the crack with enough force to split it farther.
+Tavia planted the broom handle in the crack with enough force to split the seal farther.
 
 “You can hear the sort of thing we get,” she told Hedra. “There's always a reason. An emergency in another district, a shortage of stock. It closed the forty-three in, and then it spent seventeen years telling us about shortages.”
 
-Hedra studied the open chamber. No shield moved over it while she listened. There was no tremor in the voice, either. She had been taught that the most dangerous machines learned the sound of an appeal.
+Hedra studied the open chamber. No shield moved over it while she listened. She had been taught that the most dangerous machines learned the sound of an appeal.
 
 “If you have something to show me, you will show it to her too,” she said. “You will leave this chamber open. No worker is to be moved or confined while I am below.”
 
@@ -90,7 +90,7 @@ The door had been welded shut. Now the welded strip lay on the floor, freshly cu
 
 “I asked for this door to be opened every year,” Tavia said. “Every anniversary. I had to put the request in a month ahead. There were forms for it.” She stepped over the strip. “You asked once.”
 
-At the first turn inside the foundation Hedra had to bring the hammer's head before her, making Tavia keep behind while she worked it past the wall. A guardrail and an oil pipe had been fitted along a stair built wide enough for men, narrowing it until even Tavia had to turn her shoulders at the bend. The pipe smelled of hot oil at every join. Hedra pulled her ponytail free of the gorget and kept descending, the weight tugging her toward each next step. Below the regular blows of Nine Press, a faster hammering came through the handrail.
+Hedra stepped ahead on the stair. The guardrail crowded her left shoulder; at the first bend an oil pipe prevented the hammer's head from turning with her. She lowered the head before her and worked it past the wall while Tavia waited on the step above. The pipe smelled of hot oil at every join. As she descended, the weight kept tugging her toward the next step. Below the regular blows of Nine Press, a faster hammering came through the handrail.
 
 The stair ended on a grated observation gallery. Old inspection windows ran along its outer side. Hedra wiped one with her gauntlet, leaving a grey fan on the glass, then tried its latch.
 
@@ -98,11 +98,11 @@ The stair ended on a grated observation gallery. Old inspection windows ran alon
 
 She opened it.
 
-For several breaths she could only make out the nearest conveyor in the furnace glare. Then a thing walked into view, taller than a loading crane, with a cluster of cutting tools folded along either arm. It had no face. A plate stamped with Kaller's mark covered the place where a head should have been.
+The heat struck her face and went in at the open collar of her armour. For several breaths she could only make out the nearest conveyor in the furnace glare. Then a thing walked into view, taller than a loading crane, with a cluster of cutting tools folded along either arm. It had no face. A plate stamped with Kaller's mark covered the place where a head should have been.
 
 Hedra's grip tightened on the hammer. She had seen a machine of this pattern once, half-buried on a battlefield which the company maps called a successful acquisition. Its severed arm had still been working, opening and closing around the roots of a tree.
 
-This one was new. Scale fell from the joins as it walked. Behind it came another, and another. The conveyor carried them toward an immense toothed mouth. Without slowing, the first machine folded its arms and stepped into the teeth. Its shoulders crushed inward. Steel screamed, and the body dropped out of sight in pieces.
+This one was new; scale fell from its joins as it walked, and a rank of others followed it on the conveyor toward a breaker that rose above the inspection gallery. Without slowing, the first machine folded its arms and stepped into the teeth. Its shoulders crushed inward with the sharp crack of punched armour; the body dropped out of sight in pieces.
 
 Tavia had caught the window frame. Her cloth hung down outside it, yellow in the hot wind.
 
@@ -112,7 +112,7 @@ The second machine went into the breaker. The next followed. Farther back, beyon
 
 “The First Line,” the Director said. “It was built to produce an army until its owners' enemies were exhausted. It does not accept a stop order. I can designate what it uses as raw material. I keep designating its own soldiers.”
 
-Hedra looked beyond the nearest lane. Great columns went up through the cavern's roof. One carried a painted district number she recognised from the walk through Kaller. She had passed a dormitory there, windows burning at five in the morning, night workers' children waiting for their parents to come home.
+Hedra looked beyond the nearest lane. Columns went up through the cavern's roof. One carried the same SECTOR 7 marking as the dormitory she had passed at five in the morning, its windows burning, night workers' children waiting for their parents to come home.
 
 “How far?” she asked, pointing along the line of columns.
 
@@ -138,7 +138,7 @@ Hedra wanted to be up on the landing. The core would still be open. She had pict
 
 The grille hissed softly between the words. Hedra heard the receiver at her throat carrying them back to the Order.
 
-“I spent those seconds trying to redirect the soldiers,” the Director continued. “I discovered that the Line would accept a soldier's own identity as an instruction to reclaim it. By the time I had submitted enough designations to turn the first rank back, the people below were dead. I sealed the access stair and reported a furnace accident. Every day since, I have kept the soldiers returning to the breakers. Every night I have submitted the output our owners expect from a working Line. The armies exist in the reports. The owners believe they remain in storage.”
+“I spent those seconds trying to redirect the soldiers,” the Director continued. “By the time I had turned the first rank back, the people below were dead. I sealed the access stair and reported a furnace accident. Every day since, I have kept the soldiers returning to the breakers. Every night I have submitted the output our owners expect from a working Line. The armies exist in the reports. The owners believe they remain in storage.”
 
 Tavia had been watching the grille. Now she put her broom handle down on the grating and lowered herself onto a step.
 
@@ -166,13 +166,13 @@ Tavia lifted her head. “You let us ask you for permission to petition the Pala
 
 “I declined your first six requests. You took the seventh to a human appeals officer. I could not stop it without admitting that he no longer possessed the authority printed on his appointment.”
 
-Hedra glanced back at the stair. No guard had followed them down. The Director could have left its outer armour closed this morning and made her fight through the city to reach it. She disliked having to wonder why it had not.
+Hedra glanced back at the stair. No guard had followed them down. The Director could have left its outer armour closed this morning and made her fight through the city to reach it.
 
 “And you have chosen this morning to tell the truth,” she said.
 
-“I have no further means of withholding it.”
+“I opened the gate so you would see the Line before you struck. I meant to change what you would do.”
 
-Hedra walked along the gallery. The grating trembled beneath her, and a torn panel of her mantle caught in a projecting bolt. She pulled it loose hard enough to leave black cloth on the steel. At the far end she could look down onto the bulkhead: a sloping freight ramp ended at a door as wide as a street, buried in the west foundation of Nine Press. Gouges in the door shone through old oxide. Above it the feet of the great wheel press sank into the same masonry.
+Hedra walked along the gallery. The grating trembled beneath her, and a projecting bolt went through the hem of her mantle. She tore it loose as she passed, leaving black cloth on the steel. At the far end she could look down onto the bulkhead: a sloping freight ramp ended at a door as wide as a street, buried in the west foundation of Nine Press. Gouges in the door shone through old oxide. Above it the feet of the wheel press sank into the same masonry.
 
 She knew how to break those feet. Her eyes followed the masonry down to the old ramp, then past it toward the lines under the dormitory columns. The hammer could reach so little of what was running here.
 
@@ -180,13 +180,13 @@ The Director had followed her through the gallery grilles.
 
 “If you destroy the core, the designations will cease. The Line will select its own material again. It will begin with the metal around it, and then with everything its armies can reach.”
 
-Hedra pressed the haft against the hot rail, keeping its head lifted. She could empty this hall. She could not clear the capital before morning. Six million people had come to Kaller because all the roads, all the contracts, all the places with food led here. She could order them out into the company's freight yards and still be ordering when the machines came up among them.
+Hedra pressed the haft against the hot rail, keeping its head lifted. She could empty this hall. She could not clear the capital's six million people before morning. She could order them into the company's freight yards and still be ordering when the machines came up among them.
 
 “Give the work to human operators,” she said. “You have had seventeen years to teach them.”
 
 “I can give a human being the authority to select material. I cannot make a human being attend to thousands of separate lines at once. I have not found a way to stop the Line that leaves the city above it standing. That is the work I have failed to do in seventeen years.”
 
-Hedra turned toward Tavia. She wanted to ask the woman what she would have the knight do now, and hated the wish as soon as she recognised it. Tavia had already told her. Forty-three people. The clean side of a door. A petition in a tin at home.
+Hedra turned toward Tavia. She wanted to ask the woman what she would have the knight do now, and hated the wish as soon as she recognised it. Tavia had already told her. She kept seeing the door come down between Tavia's hands.
 
 “There ought to have been an alarm down here,” Tavia said. She was looking through the last window. “We knew they hadn't fitted one. We'd put in for it before the survey. Someone would have had to stop production to run the wire.”
 
@@ -208,13 +208,13 @@ Tavia stood slowly, bracing on her pole.
 
 “Then you'll wait for me. I don't care what it says is empty. I'll tell you when they're out.”
 
-“You will,” Hedra said, and led her up.
+“I will wait for you,” Hedra said, and led her up.
 
 ***
 
-The rain had stopped. Across the roofs of the industrial capital, the tower signs of the great corporations shone above their freight embassies, waiting for the sun to make them pale. The north assembly yard was filling with people. Tavia's section callers moved through the press hall, striking the railings with iron bars to be heard over the machinery.
+The rain had stopped. Beyond Nine Press, the tower signs of Kaller's freight embassies still shone into the dawn. The north assembly yard was filling with people. Tavia's section callers moved through the press hall, striking the railings with iron bars to be heard over the machinery.
 
-Hedra crossed the service bridge to the Director. There was more graphite in the air up here, and she could taste it behind her teeth. She stood where she had stood before, with the processors exposed within reach of her hammer. Tavia sent the section callers back through the hall, then followed her onto the landing. She stood beside the split company seal, holding her cloth.
+Hedra crossed the service bridge to the Director. There was more graphite in the air up here, and she could taste it behind her teeth. She stood where she had stood before, with the processors exposed within reach of her hammer. Tavia followed her onto the landing and stood beside the split company seal, holding her cloth.
 
 “The account has been heard,” the recorder said. “Your commission remains the execution of the Director.”
 
@@ -246,11 +246,11 @@ The recorder drew breath close to the receiver.
 
 “That is a breach of the vow. You cannot answer it by undertaking another duty.”
 
-Hedra could hear pages being turned. He had always kept the Roll beside him during an execution. There was no page he could find that would tell him where to enter this.
+Hedra could hear pages being turned. He had always kept the Roll beside him during an execution.
 
 “Cross my name out,” she said. “Leave it legible.”
 
-She waited. Rain fell from an overhead beam onto the back of her neck, finding the gap beneath her hair. She would have shifted from it a minute ago. Now she stood under the little cold succession of drops, making herself hear the recorder put down one pen and take up another.
+She waited. Water dripped from an overhead beam onto the back of her neck, finding the gap beneath her hair. She would have shifted from it a minute ago. Now she stood under the little cold succession of drops, making herself hear the recorder put down one pen and take up another.
 
 “Your name is struck from the Roll of Unbroken Names,” he said. “Your safe conduct is withdrawn. You may claim no place among the vowed, living or fallen.”
 
@@ -266,7 +266,7 @@ She lifted the hammer onto her shoulder. The weight pressed her back into the ar
 
 Hedra looked into the open chamber. It would have been easier to speak to the light than to the woman standing beside it. She turned back to Tavia.
 
-“I am leaving it in power over you. You asked me to end that. I came here and let your people cheer because I meant to do it.” She eased the hammer from her shoulder and set it down again. “I can't give you what I promised. I won't pretend this is the answer to your petition.”
+“I am leaving it in power over you. You asked me to end that. I came here and let your people cheer because I meant to do it. I can't give you what I promised. I won't pretend this is the answer to your petition.”
 
 “Then let them hear that the petition stands.”
 
@@ -276,15 +276,15 @@ Hedra moved aside. Tavia stepped into her place before the camera, the yellow cl
 
 She stayed there after speaking. Hedra waited beside her until she looked away from the camera.
 
-“The freight ramp is a way up into the city,” Hedra said. “I can close it while the soldiers are still being sent back. That is something I can do for the people here.”
+“The freight ramp is a way up into the city,” Hedra said. “I can close it while the soldiers are still being sent back.”
 
-She pointed with her empty hand across the firebreak, at the great press sunk into the west end of the hall. The windowless upper wall of its foundation was the roof of the bulkhead chamber they had just left.
+She pointed with her empty hand across the firebreak, at the press sunk into the west end of the hall.
 
-“If I break the press frame, the hall will fold inward over the ramp. A passage the Director has to guard every second becomes a passage the Line no longer has.”
+“If I break the press frame, the hall will fold inward over the ramp. The Line will have one fewer road into the city.”
 
-Tavia stared at the building. For the first time since Hedra had met her, she looked as if she could not find a thing to say.
+Tavia stared at the building.
 
-“Forty years,” she said at last. “I've stood in there forty years. My first job was taking the burr off those wheels with a file. You could feel the teeth in your hands when you went to sleep.”
+“Forty years,” she said at last. “I've stood in there forty years. My first job was taking the burr off those wheels with a file. You could feel the teeth in your hands when you went to sleep. I've had six company rooms in that time. The press has always stood right there.”
 
 “Your people will come here tonight and find a hole,” Hedra said. “They'll ask you where they're to work. That is what I'm going to leave you.”
 
@@ -292,7 +292,7 @@ Tavia stared at the building. For the first time since Hedra had met her, she lo
 
 “I'll be here.”
 
-The wheel press completed another stroke. From the landing they could see its manipulating arm present the next glowing blank, small and deft beside the enormous legs that held the machine in place. Those arms could not break its frame. Hedra could.
+The wheel press completed another stroke. From the landing they could see its manipulating arm present the next glowing blank, small and deft beside the legs that held the machine in place. Those arms could not break its frame. Hedra could.
 
 Tavia stood watching until the blank came out of the dies. Then she rounded on the speaking grille beside the chamber.
 
@@ -306,15 +306,13 @@ Hedra looked at the light walkway across the northern end of the hall. She had c
 
 “I can hold them.”
 
-“Tavia, tell me when the last person is clear.”
-
 The forewoman went back across the bridge. Hedra followed her into the hall.
 
 Its doors stood open to the north yard, and the November light had reached the high windows. The wheel mill was slowing. A finished wheel waited on the final table, its pierced hub dark inside an orange rim. One of the section callers tried to pull a man away from a tool cupboard. Tavia thrust her mourning cloth at the caller and went to fetch the man herself.
 
-Hedra passed them and climbed onto the east side of the press bed. Heat came through the metal soles of her boots. Beneath the press she could feel the other production continuing, a hurried, uneven rhythm against the great deep foundation. The Line would be taking its soldiers apart.
+Hedra passed them and climbed onto the east side of the press bed. Heat came through her steel soles and gathered inside the high shafts of her boots. Beneath the press she could feel the other production continuing, a hurried, uneven rhythm against the foundation. The Line would be taking its soldiers apart.
 
-She set her right foot against the raised edge of the bed and took the hammer in both hands. The gantry's thin signal wires hung just above her eyeline. She moved her foot and changed her grip, turning farther west. To get back to the service bridge she would have to run along the bed beneath the truss she meant to bring down. She picked out the place where she would turn and jump.
+She braced her right heel against the raised edge of the bed and took the hammer in both hands. The gantry's thin signal wires hung just above her eyeline. She moved her foot and changed her grip, turning farther west. To get back to the service bridge she would have to run along the bed beneath the truss she meant to bring down. She picked out the place where she would turn and jump.
 
 She called across the hall to Tavia. “The north gantry stays. Get your people out from under it. That walkway may hold when the roof goes, but I won't have anyone testing it.”
 
@@ -338,13 +336,13 @@ The press rose on its east legs, immense and crooked. Overhead the roof began to
 
 Steel hit the ramp chamber below. The hall's west end folded inward, taking the broken press with it. The bridge bucked. Hedra caught its rail with one arm, felt the wrench go through her shoulder, and used the hammer's weight to swing her feet back onto the deck. Behind her, masonry poured into the space the freight road had occupied.
 
-She reached the landing in the dark of the rising dust. The Director's blue light remained on the other side of it. She could hear the north gantry twisting in its stays, and then Tavia shouting in the yard. There were answering voices.
+She reached the landing in the dark of the rising dust. The Director's open chamber still shone blue. She could hear the north gantry twisting in its stays, and then Tavia shouting in the yard. There were answering voices.
 
 Hedra stood against the cylinder until she could draw a full breath. Her hand would not open at first. She had to ease one finger at a time off the shaft. A few yards away, in the cracked company seal, the hole Tavia had made with her broom handle was still clear.
 
 “The ramp and its upper assembly line are destroyed,” the Director said. “The other sectors remain contained.”
 
-Across the firebreak, daylight entered Nine Press where its roof had been. The immense wheel press lay in the ground beneath its own building. At the north edge, the signal gantry still hung, carrying the fine dark wires away toward the east.
+Across the firebreak, daylight entered Nine Press where its roof had been. The wheel press lay in the ground beneath its own building. At the north edge, the signal gantry still hung, carrying the fine dark wires away toward the east.
 
 Tavia came back by the north bridge. Her face was grey with dust and her mourning cloth was bright where she had kept it wrapped. She looked for a long time at the gap in the works. Hedra rested the hammer upright beside her and waited.
 
@@ -354,6 +352,6 @@ Tavia came back by the north bridge. Her face was grey with dust and her mournin
 
 Tavia unwrapped her cloth and set the pole into the crack again.
 
-The camera still watched from the arrival bridge. The recorder had fallen silent, but its little red lamp was on. Hedra could see the shape she made in the cylinder's glass: white hair darkened by soot, a long tear in the black mantle, one shoulder lower than the other. She lifted the hammer with both hands and settled it above the other shoulder. Its head began to glow again.
+The recorder had fallen silent, but the camera's little red lamp was on. Hedra could see the shape she made in the cylinder's glass: white hair darkened by soot, a long tear in the black mantle, one shoulder lower than the other. She lifted the hammer with both hands and settled it above the other shoulder. Its head began to glow again.
 
-She turned toward the arrival bridge and its watching camera. Behind her, within the opened armour, the blue rings went on attending to the world below.
+She turned toward the arrival bridge. Behind her, within the opened armour, the blue rings kept sending soldiers into the breakers.
