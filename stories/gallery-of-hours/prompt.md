@@ -6,6 +6,16 @@
 
 nope i read the story and its not right; rewrite it updating the rating to Matur&#x65;**; make the tech external to the system they maintain.**
 
+## Later clarification
+
+The user selected the following sentence from the assistant’s progress update.
+
+> Dolly’s sale of her own years put her inside the very system you wanted her to observe.
+
+### User’s words
+
+remove this part i dont want them to becoming part of the display; they are tech
+
 ## Supplied reference images
 
 - `codex-clipboard-a0126b04-4dbe-4a9b-96df-92727db3cd7a.png`
