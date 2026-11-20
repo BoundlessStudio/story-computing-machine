@@ -6,7 +6,7 @@ canon: false
 
 # House Time
 
-The first two times I went out about Coralie Hecht's thumb, Gil Parran kept a finger under her chin. I kept my mouth shut. Four Thursday mornings at the North Lamp Works made the payment on my van, and he was a good customer in other respects. He paid for parts before he saw them. There's a species of rich man who'll ask to see the dead part, and then put the thing in a drawer for fear you've left some money in it. Gil had room to devote to better things. He had seven people who would never die arranged down one wall.
+The first two times I went out about Coralie Hecht's thumb, Gil Parran kept a finger under her chin. He'd stand her up straight for me on her black plinth, and the call contact under her thumb would work like a charm until I packed my bag. I kept my mouth shut. Four Thursday mornings at the North Lamp Works made the payment on my van, and he was a good customer in other respects. He paid for parts before he saw them. There's a species of rich man who'll ask to see the dead part, and then put the thing in a drawer for fear you've left some money in it. Gil had seven people in clear bodies arranged down one wall. I could keep the shells running on what he paid to have his floors polished. What cost real money was buying the years to live in them. Every one of those years had to come out of somebody else's life.
 
 On the third call I said, “Mr Parran, I'll have to bill you for the loan of that finger if she's going to need it every time she wants to use the phone.”
 
@@ -18,21 +18,21 @@ Coralie laughed. He took his hand away, which was what I'd come for. She held he
 
 “Will it catch my hair? If Gil pulls my hair out from under that collar one more time I'm going to put my foot through his shoe.”
 
-Through her trouser hems you could see the thick soles, and through the soles the black stone she stood on. The phone was a piece of her too. Its single working feature called a technician. That afternoon she was going to use it to ask me to stop a year.
+Through her trouser hems you could see the thick soles, and through the soles the black stone she stood on. The phone was a piece of her too. Its single working feature called a technician.
 
 Out in the van I had to shift a shutter motor from a baker's shop to get at the box with the collar in it. On my way back I met Jan Pavo. She had heard you had to come round the back of the Works if you'd sold them anything. I said that was for deliveries and she showed me her invitation. Coralie had written *Come early and see me as I generally am.* A good black coat Jan had on, too heavy for the February thaw. Her cuffs smelled of wet wool.
 
-“I sold her the year,” she said. “I'd like to know if you can tell. I keep looking at myself in the windows and I swear to God I had these same two bags under my eyes on Monday.”
+“Mr Parran bought her a year off me,” she said. “I'd like to know if you can tell. I keep looking at myself in the windows and I swear to God I had these same two bags under my eyes on Monday.”
 
 “I'm going to be looking at this little brass swivel when I get in there. Ask Coralie. She likes looking at people.”
 
-Jan came in with me. The man with the clear backpack on the second plinth kept his head thrown back to watch the door in the polish on the ceiling track. He could call the hats coming in upside down like racehorses. Here came Ugly Money on the rail, closely followed by My Mother's Fault. He gave Jan a courteous dip of his chin. Coralie put her clear arm out and took Jan's coat and hung it on the hook in the concrete alongside her plinth. In the old lamp works the inspectors had hung black cloth there to see a flaw in a piece of glass. Now it was mostly my jacket.
+Jan came in with me. The man with the clear backpack on the second plinth kept his head thrown back to watch the door in the polish on the ceiling track. On club nights I'd heard him calling the ladies' hats coming in upside down. “Ugly Money on the rail! My Mother's Fault coming up on the outside!” To Jan he gave a courteous dip of his chin. Coralie put her clear arm out and took Jan's coat and hung it on the hook in the concrete alongside her plinth. In the old lamp works the inspectors had hung black cloth there to see a flaw in a piece of glass. Now it was mostly my jacket.
 
-While the two women talked I fitted the swivel round the plug high on Coralie's back, where a lead no thicker than her little finger came down from the ceiling to keep her alive. The old collar had rubbed through the white call wire where it passed under the rim. I made a sound joint, rolled the collar with two fingers and got Coralie to tuck her chin practically into her collarbone. The call lamp shone as steadily as her heart.
+While the two women talked I fitted the swivel round the plug behind Coralie's shoulder, where a lead no thicker than her little finger came down from the ceiling to keep her alive. The old collar had rubbed through the white call wire where it passed under the rim. I made a sound joint, rolled the collar with two fingers and got Coralie to tuck her chin practically into her collarbone. The call lamp stayed lit until she took her thumb away.
 
 “I'd like you on that lamp during the sitting, Mrs Foy,” Gil said. “Once she gets settled I want to take one picture of her as she is now and one a year from now. See that branch lying across her cheek?”
 
-There was a birch outside the north window. In the light inside Coralie you could see the fine black fork at the end of a twig. “You're liable to have a leaf on it by then,” I said.
+There was a birch outside the north window. In the light inside Coralie you could see the fine black fork at the end of a twig. “That tree'll have put on a foot by next February,” I said.
 
 “That was my contribution,” Coralie told me. “He told me about the two pictures and I said, Why waste the year waiting for me? Put an accelerator on my line. Let me have a year while you have a minute. I rather liked the thought of having one all to myself.”
 
@@ -60,7 +60,7 @@ Somebody in the room had been trying to unwrap a sweet discreetly and now had to
 
 I had a picture in my head of that white wire touching the rim of the collar. I looked at the floor. I wanted to see for myself if she'd actually pressed her thumb down. She had. I pulled the stop.
 
-The hum went out. Her lead was lit from the ceiling to the little translucent plug at her nape, warm as the others on house power. I saw her two hands come together under her belly. With the phone caught awkwardly between them she gathered a handful of the material of her trousers and tried to pull it out from between her legs. Gil took her picture doing it. The man with the backpack heard the shutter and turned, swinging his pack into the line between the lens and Coralie. He always had been able to move further on that plinth than anybody supposed.
+The hum went out. Her lead was lit from the ceiling to the little translucent plug behind her shoulder, warm as the others on house power. I saw her two hands come together under her belly. With the phone caught awkwardly between them she gathered a handful of the material of her trousers and tried to pull it out from between her legs. Gil took her picture doing it. The man with the backpack heard the shutter and turned, swinging his pack into the line between the lens and Coralie. He always had been able to move further on that plinth than anybody supposed.
 
 “Look on the floor for me, would you?” Coralie said to Jan. Her voice used to carry to the last row in this room. It still did. “Tell me if it's wet under my right shoe. I can't see.”
 
@@ -84,25 +84,25 @@ The bench held the two readings for me. “Your call came fifteen seconds in. I 
 
 “Oh, you poor cow,” Jan said, so quietly that for once she was speaking only to Coralie. She had got there before I'd had to say it.
 
-“Six days and two hours,” I said. “I looked to see that you meant it. You did exactly what I asked of you and I wanted to see it twice.”
+“Six days and two hours,” I said. “Your lamp was on and I looked at your thumb in the floor. I wanted to see it twice.”
 
 Coralie turned the cuff over in her hand. Her light came through a pinhole by the seam. “I felt a sort of satisfaction at first. I'd had enough of the dog, I'd said so, and in a little while you were going to come and take me out. Then it got to be tomorrow again. I wondered if perhaps I'd lost the use of my hand. Here I was in plain sight of a dozen people quite interested to know how I felt, and the one way I'd had to tell you had gone wrong. I tried to piss myself. If I could get a puddle to spread on the stone, I thought, somebody must come over with a cloth and the first thing they'd do would be to let me stand up and get out of it.”
 
-I had been holding on to that lever long enough for the edge of it to hurt. I put my hand in my lap.
+I had been holding on to that lever long enough for the edge of it to hurt. I put my hand in my lap. Among the members a man with melting snow on his shoulders stepped up beside the plinth. When he bent his head and sniffed, Coralie drew the cuff against her hip as far as the hook allowed.
 
-“I can't piss. I haven't had the need to in twenty-nine years. It would all come back to me, the money I'd spent and the organs I'd had the privilege of giving up, and I would think, Good, I've understood that now, and the next thing I'd feel hot all down one leg and I'd be trying to push it out again. I did that until I could actually smell it. I can still smell it. Now would you please tell that gentleman with the wet coat that I can hear him sniffing?”
+“I can't piss. I haven't had the need to in twenty-nine years. It would all come back to me, the money I'd spent and the organs I'd had the privilege of giving up, and I would think, Good, I've understood that now, and the next thing I'd feel hot all down one leg and I'd be trying to push it out again. I did that until I could actually smell it. I can still smell it.” She raised her face to the man who was trying to get a noseful for himself. “I should imagine you've had long enough, sir.”
 
 Jan put her face against the stained fold of wool and took a good working sniff. “That's a bus seat,” she said. “Did my damnedest to get it out before I came.”
 
 The gentleman sat back. One of the women he'd stood beside made a place for him on the window ledge. Coralie let go of the cuff at last. I thought of the times I'd been in there and set a rag under her shoes while I blew the dust out of the ceiling, how amenable she'd been to lifting one foot and then the other for me, nobody ever needing to say a word about it. I wished she had needed a cloth. I had a clean one on my knee.
 
-Gil was marking the exposure he'd just taken with a white pencil on the back of the camera. Coralie asked him for it.
+Gil took the closed plate holder out of his camera and marked it with a white pencil. Coralie put out her free hand. “I'd like that plate, Gil.”
 
 “Of course,” he said. “I'll send you a print this evening.”
 
 “I meant give it to me, Gil.”
 
-He put the pencil into an inside pocket. “We did agree that what I got in the room was mine to keep. I'd like you to see it before you decide that you object to it. I don't suppose I've taken a picture of you with both hands together since you were in the hospital.”
+He slipped the holder into an inside pocket. “We did agree that what I got in the room was mine to keep. I'd like you to see it before you decide that you object to it. I don't suppose I've taken a picture of you with both hands together since you were in the hospital.”
 
 Coralie wiped her hands down the sides of her trousers and they went back to looking like fashionably rumpled clothes. He came around the camera and looked past her to the birch. The twig had moved on her cheek about the width of its own shadow.
 
@@ -124,13 +124,11 @@ I nearly told her I had, on account of a cat, when I was twenty-three. She was d
 
 “I would. All that time in there, Jan, and I'd still be glad of another year.”
 
-“Call the exchange in the morning, then. They'll take your order over the phone. If it's in by nine I can have the first chair. Don't have me down there on an empty stomach for an hour waiting for one of those men to pass you round to the right desk.”
-
-They settled on ten to nine for the call. Then Jan got her bus schedule out and went down to the window ledge. She ran a little split thumbnail down the morning column while she rang about the flat. I heard her ask if they'd hold it till ten. If the man wanted a bank draft it would have to be ten-thirty.
+Jan put her own phone against Coralie's clear ear and let her place the order. Tomorrow at nine Jan would go back to the chair. When she got her phone back she rang about the flat, and from the pleased way she said the word *kitchen* I took it there was good news at that end too.
 
 Coralie tilted her phone to look once more through the corner where she had seen the dog. “I would like to live the rest of this year as slowly as the rest of you,” she told Gil.
 
-“It's a disappointment to be held to something one was rather proud to propose,” he said to her, almost tenderly. Then he looked over her head at me. “Mrs Foy, if you please. It's your call lamp in working order we came in about. Is there any technical reason you can't start us up again?”
+“You made me promise to take those two pictures in the same light. I'd still like to keep my promise, Coralie.” Then he looked over her head at me. “Mrs Foy, the call came through. Is there any technical reason you can't start us up again?”
 
 To give him his due, I'd have liked it to be a fault. It would have been something he could have left me to find and I could have taken a couple of hours about finding it. By then the birch would have been a black twig in a black window. Instead, there was good light to shoot in and a machine that worked beautifully.
 
@@ -150,7 +148,7 @@ Gil held his hand out for the button the way he'd have held it out to a boy who 
 
 Gil put the glasses on again and bent to look into her face. “I could send you the picture I just took. There's no question in the world which one is later.”
 
-“That one will remind me what it was like trying to get to a lavatory in front of people who'd paid to see me. I expect you can find a buyer for it.” She let him look another little while. “Gil, I'm staying on house time. You'll have to let the rest of my year go by. Come in the autumn and bring the camera. Whatever light there is that day, that's what you can have.”
+“Please don't send me a print of myself trying to get to a lavatory. I expect to see it on somebody's wall soon enough.” She let him look another little while. “Gil, I'm staying on house time. You'll have to let the rest of my year go by. Come in the autumn and bring the camera. Whatever light there is that day, that's what you can have.”
 
 He went back to his tripod and put the lens cap on with the hand he'd held out. The little window in the accelerator above Coralie still showed ready.
 
