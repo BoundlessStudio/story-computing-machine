@@ -14,13 +14,13 @@ At four that November afternoon I was mending her shoulder. I was on my stool at
 
 “There. When I lift my arm,” she said. “It sounds as though someone is eating toast behind me.”
 
-I felt under the socket where the cable entered her shoulder. Her loose shirt was made of the same resin as the arm beneath it. Before I was born, Clary had paid to have her consciousness taken out of flesh, then paid again to have that shirt reproduced as part of her new body. I had to work through a little opening in a fold; whoever had cast her had been more interested in preserving the shirt than making it easy to repair. Amber light lay across my fingers. Under her other hand the phone kept going dark, and she would jab it awake without looking away from the window.
+I felt under the socket where the cable entered her shoulder. Her loose shirt was made of the same resin as the arm beneath it. Before I was born, Clary had paid to have her consciousness taken out of flesh, then paid again to have that shirt reproduced as part of her new body. I had to work through a little opening in a fold; whoever had cast her had been more interested in preserving the shirt than making it easy to repair. Amber light lay across my fingers. The phone kept going dark, and she would jab it awake without looking away from the window.
 
 “They've changed the lighting again,” she said. “Ask them to put it back.”
 
 “It's November, Clary. I've changed nothing. Lift your arm once more, and leave the phone down.”
 
-She obeyed, with the air of doing me a favour. I eased a bent contact away from the socket rim and the scraping stopped. At the far end of the hall a man sat forward over his own screen, tapping his heel against his black plinth. Another of the six stood with one hand covering his face. He had been like that since lunch; I had asked whether he wanted company, and he had said he wanted the tapping to stop.
+She obeyed, with the air of doing me a favour. I eased a bent contact away from the socket rim and the scraping stopped. At the far end of the hall a man sat forward over his own screen, tapping his heel against his black plinth. Another of the seven stood with one hand covering his face. He had been like that since lunch; I had asked whether he wanted company, and he had said he wanted the tapping to stop.
 
 My phone vibrated in my trouser pocket. Clary asked why I had been checking it all afternoon.
 
@@ -36,7 +36,7 @@ On her screen was a photograph of Clary in the hall, head bowed over the very ph
 
 “Making sure you never meet the buyer, apparently. Don't go tomorrow. Sell it here tonight.”
 
-She said this while searching for something else on her phone, as if tonight were a restaurant with an empty table. I looked down at my hands. I was thirty-eight, forty-nine on the clinic's chart, with eleven years of sales making up the difference. I blamed the sold ones whenever one of my knees felt older than the other. The clinic paid immediately. I had two months' rent to find, and my wages were already divided between food, fares and the arrears on the room's heating. I could wait for next payday or for a decent price. I couldn't do both.
+She said this while searching for something else on her phone, as if tonight were a restaurant with an empty table. I looked down at my hands. I was thirty-eight, forty-nine on the clinic's chart, with eleven years of sales making up the difference. I blamed the sold ones whenever one of my knees felt older than the other. The clinic paid immediately. I had two months' rent to find, and my wages were already divided between food, fares and the arrears on the room's heating.
 
 “Your buyer won't want mine in particular.”
 
@@ -62,7 +62,7 @@ Clary had stopped scrolling.
 
 “She didn't answer. I asked the clinic for her new address. They refused to give it to me. At the time I thought that was disgraceful.” He rubbed his thumb along the clear strap.
 
-I had serviced Damil for six years. I had known he liked birthday cake put beside his plinth, although he couldn't eat it. I hadn't known about the letter in which he asked his donor to like him again.
+I had serviced Damil for six years. I had known he liked birthday cake put beside his plinth, although he couldn't eat it.
 
 “I'm not proposing a birthday dinner,” Clary said. “I'm proposing Nera gets paid. The rest can be refused if anyone asks for it.”
 
@@ -126,7 +126,7 @@ The collector came to the end of the stool. He looked at our hands for quite a l
 
 Clary's thumb stopped moving over the back of my hand.
 
-I looked at the director. She was changing the number on her tablet.
+I looked at the director. She was changing the number on her tablet. When she had finished, she handed it to the collector.
 
 My rent was two hundred and forty a month. I got as far as ten years before I lost my place in the sum. I could pay off the heating account and leave the room, not just keep it. I could find a room nearer work, or stop coming to work and spend a while finding out what else I could do. The cuff was heavy on my arm.
 
@@ -176,13 +176,15 @@ Clary put her free hand over her face, exactly as the man at the end of the room
 
 “I've thought about it. I'm still willing to sell this one.”
 
-The collector stood. “I understand. I don't think the single transfer is something I can collect in the same way. I had allowed for the year as part of Clary's exhibition, but I was hoping for something beyond that.”
+The collector stood. “I understand. But I was hoping for more than the single transfer. I can't buy Clary's exhibition at the original asking price.” He handed the tablet back to the director without signing.
 
-I put the phone in my pocket and peeled back the cuff's fastening. The contact plate lifted from my skin, leaving a pale oval. I laid the band beside me and caught up my empty coat sleeve. The lining was still inside out; I started turning it back with my fingers. The director was reaching for her tablet.
+Clary watched its screen as the director lowered it to her side.
+
+I put the phone in my pocket and peeled back the cuff's fastening. The contact plate lifted from my skin, leaving a pale oval. I laid the band beside me and caught up my empty coat sleeve. The lining was still inside out; I started turning it back with my fingers.
 
 “Take six thousand off my fee,” Clary said.
 
-The director turned the tablet toward herself again. “Clary, are you certain?”
+The director lifted the tablet again. “Clary, are you certain?”
 
 “Twelve thousand for my exhibition. Twelve thousand for Nera's year. He can bring his guests to see me whenever he books the hall, as planned. Nera comes to work when she's working.” She shifted the phone and held her hand out to me again. “I should like to get on with it.”
 
@@ -212,7 +214,7 @@ She leaned forward. “Are you all right?”
 
 She straightened slowly. I watched the joint I had mended instead of looking at my own arm. A steady brightness filled her chest; it lit the loose folds of the shirt and brought out the worn pattern cast into her trainers. Now I knew exactly how much longer she would have to look at her phone, find the light too dim and tell me the shoulder needed doing again. I wanted that year of hers to go well. I also wanted her to stop talking until the intake was over.
 
-The cuff loosened. I took my thumb away. A knife scraped the slate beside us; I turned my head because the sound was so close. There were the six feeders again, and a shoe sliding on the floor, and somebody laughing at the far end of the hall. I hadn't realised how much of the room I had stopped hearing. I listened for the knife again before I did anything else.
+The cuff loosened. I took my thumb away. A knife scraped the slate beside us; I turned my head because the sound was so close. There were the seven feeders again, and a shoe sliding on the floor, and somebody laughing at the far end of the hall. I hadn't realised how much of the room I had stopped hearing. I listened for the knife again before I did anything else.
 
 Clary's balance came up on the control block, a year higher. My clinic age stayed at fifty on the display. I turned my hand over and touched each fingertip to my thumb, slowly, then scraped at the yellow stain with my nail. The hand could still do what I asked. I kept looking at it anyway.
 
@@ -236,7 +238,7 @@ Standing up was worse than the intake. My knees had stiffened while I sat, and I
 
 “I'll tell her that if she comes back.”
 
-Then I disconnected the service lead overhead, coiled it, and came down again to check Clary's shoulder. The hall was warmer now, with the guests in it. The smell of fish had settled over the polish. Somebody had moved the slate out of my reach while I sat, but Clary asked the waiter to bring it back.
+A few minutes later I went up to disconnect the service lead, coiled it, and came down again to check Clary's shoulder. The hall was warmer now, with the guests in it. The smell of fish had settled over the polish. Somebody had moved the slate out of my reach while I sat, but Clary asked the waiter to bring it back.
 
 “Don't clear it yet. Nera hasn't had any.”
 
@@ -296,6 +298,6 @@ I swallowed. “No. I'm going home.”
 
 He looked at Clary, who was still standing off her plinth. She put her phone back under her arm, but she didn't reach for me. I closed the tool case.
 
-The waiter offered to wrap a few of the remaining rounds. I let him. There was grease on the paper by the time I put it in my pocket, above the loose coat lining. Tomorrow I would need to clean the floor where the collector's glass had been. I would need to check six balances and the contact in Clary's shoulder. I knew where I would set the stool.
+The waiter offered to wrap a few of the remaining rounds. I let him. There was grease on the paper by the time I put it in my pocket, above the loose coat lining. Tomorrow I would need to clean the floor where the collector's glass had been. I would need to check seven balances and the contact in Clary's shoulder. I knew where I would set the stool.
 
-I carried the case past the window, outside the reach of the last cable. In the glass, the six warm bodies stood among the bare trees on Bellfoundry Street. My reflection moved across them as I went to the door. I could taste the horseradish all the way to the lift.
+I carried the case past the window, outside the reach of the last cable. In the glass, the seven warm bodies stood among the bare trees on Bellfoundry Street. My reflection moved across them as I went to the door. I could taste the horseradish all the way to the lift.
