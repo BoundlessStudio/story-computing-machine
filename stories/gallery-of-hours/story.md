@@ -26,7 +26,7 @@ Out in the van I had to shift a shutter motor from a baker's shop to get at the 
 
 “I'm going to be looking at this little brass swivel when I get in there. Ask Coralie. She likes looking at people.”
 
-Jan came in with me. The man with the clear backpack stood gazing up from the second plinth. In the bright underside of his ceiling track the door opened upside down. On club nights I'd heard him calling the ladies' hats as they came through. “Ugly Money on the rail! My Mother's Fault coming up on the outside!” To Jan he gave a courteous dip of his chin. Coralie put her clear arm out and took Jan's coat and hung it on the hook in the concrete alongside her plinth. In the old lamp works the inspectors had hung black cloth there to see a flaw in a piece of glass. Now it was mostly my jacket.
+Jan came in with me. The man with the clear backpack stood gazing up from the second plinth. His lead ran on a polished track overhead, and in that strip of metal he could watch the door open upside down. On club nights I'd heard him calling the ladies' hats as they came through. “Ugly Money on the rail! My Mother's Fault coming up on the outside!” To Jan he gave a courteous dip of his chin. Coralie put her clear arm out and took Jan's coat and hung it on the hook in the concrete alongside her plinth. In the old lamp works the inspectors had hung black cloth there to see a flaw in a piece of glass. Now it was mostly my jacket.
 
 While the two women talked I fitted the swivel round the plug behind Coralie's shoulder, where a lead no thicker than her little finger came down from the ceiling to keep her alive. The old collar had rubbed through the white call wire where it passed under the rim. I made a sound joint, rolled the collar with two fingers and got Coralie to tuck her chin practically into her collarbone. The call lamp stayed lit until she took her thumb away.
 
@@ -46,11 +46,11 @@ Gil opened the hood of my service bench. A start button on a long grey lead sat 
 
 By four o'clock there were a dozen people on the window side, members who bought living pieces themselves and a few who made a business of telling other people which ones to buy. The bodies cast long broken reflections in the floor. I liked being there when the room was full on a winter afternoon. All those overcoats giving off their animal heat and the smell of the snow they had brought in with them, and behind the soft ordinary breathing you could hear each ceiling reel take up an inch or two as a sitter shifted on a plinth. Down at the far end, a boy bent over a battered little phone in a leather case had all the news before I did. It was him I asked for the score when I worked a Saturday.
 
-Gil let them come up one at a time and put an eye to the back of his camera. Coralie had composed the picture herself. Under her bent head the screen of her phone picked up a little of the sleeve of Jan's coat. When Jan saw it she offered to take the coat away.
+Gil let the members come up one at a time to the back of his camera. Coralie had composed the picture herself. When it was Jan's turn at the viewfinder she could pick out her own black cuff in the corner of Coralie's clear phone. She offered to take the coat away.
 
 “I'd as soon look at something of yours,” Coralie said.
 
-Jan took her turn at the camera and had her look at what she had given Coralie to see. On the way to her place by the window, she told me she'd had a week to pay off her room or get out. The exchange had the money in her account by the time they let her get up from the chair. “Fifty-one on Monday,” she said, “fifty-two on Tuesday and in two weeks I have a birthday. You tell me how many bloody candles to buy.”
+Jan stopped by my bench on her way to the window. She'd had a week to pay off her room or get out, she told me. The exchange had the money in her account by the time they let her get up from the chair. “Fifty-one on Monday,” she said, “fifty-two on Tuesday and in two weeks I have a birthday. You tell me how many bloody candles to buy.”
 
 I told her to put one candle on and go somewhere expensive to blow it out.
 
@@ -76,7 +76,7 @@ Jan got her head down alongside hers. They were there a little while like that, 
 
 “I've been trying to decide if he was asleep,” Coralie told her. “You won't mind my saying he, I hope. We were acquainted quite a while. At first I had a plan for what I ought to do in there. I didn't come to my own show empty-headed. I thought I'd start with the first place I could remember living and put all the furniture back in all the rooms. In a houseful of grown people I could only think of one chair. My mother kept her handbag on it. I could remember the bag better than the woman, which irritated me so much I went looking for something to do outside my own head. There he was.”
 
-Jan stayed down, looking into the phone, while Coralie told us what she'd done with her company. She'd walked him into town, in her mind, to buy a newspaper and ask for a lump of cheese at a shop she hadn't used since she was young. She knew quite well when she went in for the cheese that she had made the dog up. She had liked having the wherewithal to make a good one. Later on she had wanted him to lift his head for a reason of his own. A dark bead of thaw had collected on his nose.
+Jan stayed down, looking into the phone. Coralie told her about walking the dog into town, in her mind, to buy a newspaper and ask for a lump of cheese at a shop she hadn't used since she was young. She knew quite well when she went in for the cheese that she had made the dog up. She had liked having the wherewithal to make a good one. Later on she had wanted him to lift his head for a reason of his own. A dark bead of thaw had collected on his nose.
 
 “I thought when the drop fell he'd feel it and wake up. I spent what felt like a week talking to him. He was such a good boy, couldn't he just open his eyes for me? When I heard the way I was begging a piece of your sleeve for something, Jan, I put my thumb down.”
 
@@ -112,7 +112,7 @@ Coralie wiped her hands down the sides of her trousers and they went back to loo
 
 “The money would interest me,” Jan said. “I'd get myself out of that room by the bus station. There's a little flat I can have if I can get them the deposit by tomorrow afternoon. It's got a stove with four burners all the same size. I tried every one of them. I let the man think I was a great one for entertaining. I'd just like to put on four pans of water for the hell of watching them boil.”
 
-“Then perhaps you'd ask her to do it,” Gil said. “I should like her to hear from you what a difference a second sitting could make.”
+“Then perhaps you'd ask her to do it,” Gil said. “Tell her what a difference a second sitting could make.”
 
 “You want what they get you to put on the little card at the exchange. What a difference this has made to my life. First time I let them have five years off me, they said a woman of my age should be prepared for the change. I thought that meant buy a fan. I bled for three days and never again, and the man who let me my old place kept my whole damage deposit for the mattress. Did it cross any of their minds to tell a woman to put twenty dollars of that cheque into a rubber sheet? They're all concerned with how you think you'll feel once you're older. I don't imagine anybody in this room has been charged for a mattress.”
 
@@ -126,7 +126,7 @@ I nearly told her I had, on account of a cat, when I was twenty-three. She was d
 
 “I would. All that time in there, Jan, and I'd still be glad of another year.”
 
-Jan put her own phone against Coralie's clear ear and let her place the order. Tomorrow at nine Jan would go back to the chair. When she got her phone back she rang about the flat, and from the pleased way she said the word *kitchen* I took it there was good news at that end too.
+Jan put her own phone against Coralie's clear ear and let her place the order. Tomorrow at nine Jan would go back to the chair. She took her phone and for a little while the two women stayed face to face. “I might have liked fifty-two,” Jan said. “I've only had it since Tuesday.” Then she rang about the flat, and from the pleased way she said the word *kitchen* I took it there was good news at that end too.
 
 Coralie tilted her phone to look once more through the corner where she had seen the dog. “I'd like the rest of the year you bought me to pass this slowly, Gil.”
 
@@ -140,7 +140,7 @@ She took the button in her free hand. I let go.
 
 “You can scratch next Thursday out of your book, Mrs Foy,” Gil said. “I'll telephone when I want you for the others.”
 
-I went back to the bench. It put me where I ought to be if she pressed the green and afterwards wanted the red. I could come up with the money on three Thursdays if I was careful, providing he gave me the three.
+I went back to the bench and put my hand on the red lever in case she ran the green and called for me again. I could come up with the money on three Thursdays if I was careful, providing he gave me the three.
 
 Gil held his hand out for the button the way he'd have held it out to a boy who had parked his car. Coralie closed her fingers around it. Her thumb lay along the side of the button where she could leave it as long as she liked. The woman with the sweet in her cuff took a step sideways so her neighbour could see what he was going to do with his hand. He'd have to catch Coralie by the wrist, pull her fingers open one by one. He took off his glasses and held them instead.
 
