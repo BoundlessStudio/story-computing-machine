@@ -6,7 +6,7 @@ The request explicitly puts a **struggling technician** among continuing human c
 
 ## Three takes considered
 
-1. **Sale night, played straight:** a living technician discovers the extravagant price collectors will pay for a year whose seller they can meet. With help from an exhibited woman, she sells directly at a private viewing. The central scene is an apparently successful auction in which everybody must say what, and whom, the money buys. **Chosen:** it brings the whole economy into the room without making the inhabitants mute evidence or requiring a transfer-industry conspiracy.
+1. **Sale night, played straight:** a living technician discovers the extravagant price collectors will pay for a year whose seller they can meet. With help from an exhibited woman, she sells directly at a private viewing. The central scene is an apparently successful sale in which everybody must say what, and whom, the money buys. **Chosen:** it brings the whole economy into the room without making the inhabitants mute evidence or requiring a transfer-industry conspiracy.
 2. **Unpaid wages:** at the gallery's liquidation, the technician is offered wages in years siphoned from the inhabitants' reserves. The central scene pits her lost future against three conscious creditors in bodies she can switch off. Strong reversal, but its legal machinery and manufactured emergency threaten to occupy the story.
 3. **The closing exhibition:** six immortals learn their collector will leave them awake only for viewings. They plan a last exhibition of freely chosen actions, while the technician decides whether to help them leave. The central scene is the contested departure at the limit of the cables. Strong ensemble image, but escape equipment would easily become the main problem and the sale of human years a background injustice.
 
@@ -22,7 +22,7 @@ Nera performs the finite transfer using the gallery's standard donor cuff and se
 
 ## Craft plan
 
-**Teller/voice:** close third through Nera, past tense, attentive to touch, wear and the absurd expense of things she must handle without owning. Warmly particular rather than arch or uniformly bitter. Trial against Nera's first-person account, told later with the defensiveness of someone explaining why she accepted the money. Approximate length 4,000–4,800 words; three scenes, one continuous central viewing.
+**Teller/voice:** voice trial selected Nera's retrospective first person for the particular teller in her paper, money and clothing, preserving the alternative's direct interaction once she enters the gallery. The viewing stays in scene rather than returning to a settled defense. Approximate length 4,000–4,800 words; three scenes, one continuous central viewing.
 
 **People and speech:** Nera explains practical things generously and understates need; pressure makes her specific about money. She wants Clary's help without a new obligation. She knows equipment and wholesale rates, not retail, and wrongly assumes preserved wealth lasts. Clary fills space, names luxuries and revises offers while speaking, often still studying her phone. She knows this buyer and the retail rate; wrongly thinks enough money will make the extra conditions acceptable. She wants Nera's trust, renewal and a successful placement, then forgiveness without earning it cheaply. Damil speaks slowly in concrete anecdotes; he wants to avoid a repetition of his own donor's rejection and resents being called a killjoy. He knows the retail trade, not Nera's appointment. The dealer is briskly encouraging. The collector speaks in patient, hospitable proposals: genuinely moved by the mortal/immortal pairing, he assumes concessions can always be priced. His failure is interested entitlement, not snarling cruelty. Neither needs an additional biography. No invented family rescue obligation.
 
@@ -37,45 +37,3 @@ Nera performs the finite transfer using the gallery's standard donor cuff and se
 1. **Before the viewing, 30%.** Nera's shoulder-socket service and Clary's phone-price revelation remain one interrupted encounter. Clary wants trust in a direct sale; Nera wants a safe price. Damil's account discloses his own entitlement and fear of rejection; it complicates both generosity and objection. Turn: Nera agrees to ask the dealer. Remember the screen through clear fingers. Earlier sales and arrears enter briefly through Nera's present work; omit separate clinic/home scenes.
 2. **Private viewing, 50%, the long scene.** Begin with the dealer's eager approval. Food Nera normally clears, cold windows, climb and feeder connection visible to guests. Buyer and exhibit begin turning her care into an acquisition. The tempting offer must work on Nera; Damil's account cannot have decided her answer. Her attempted limit, refusal and Clary's contested support follow. Damil's later part can stay small and interested. Nera conducts the single-year transfer as staged above; stay for apprehension and bodily experience. Other residents can shift, disagree or fall silent without forming a panel. Turn: buyer acquires the named year and Clary's display at Haldane, not Nera's appearances. The dealer's interest in repeating the sale belongs here. No applause or converted crowd.
 3. **Afterward, 20%.** Verify payment once, then Nera cancels the wholesale appointment and checks Clary's intake and shoulder. Their conversation addresses Clary's attempt to include her; affection, resentment and an imperfect reply, not “I know.” They remain technician and resident; this is no farewell. The buyer asks them to resume the transfer pose, rather than merely watching the actual condition check. Nera refuses the performance, puts away her kit and leaves at the end of her shift. Last image: her opaque, living body beyond the reflected cords, money received and chosen food in hand, with ordinary work to return to tomorrow. Let the sold year be present in how she gets there and how familiar food tastes, without prescribing injury or guilt. Load the exit with the service ladder's restriction, the refused summons and Clary's food invitation. Material relief matters alongside permanent cost.
-
-## Voice trials — temporary preservation
-
-### A
-
-Clary wanted her left shoulder quieter. She had kept Nera's stool beside her plinth all afternoon, although Nera needed it at the other end of the hall and had said so twice.
-
-“There. When I lift my arm. It sounds as though someone is eating toast behind me.”
-
-Nera stood on the stool and put two fingers beneath the shoulder socket. Warmth came through the clear shirt, which was part of Clary's body and could neither be taken off nor rolled out of the way. The artificial cloth preserved the loose folds of something its owner had worn a hundred years ago. Beneath it, a small amber light trembled with the movement of her arm.
-
-“Again, slowly. You don't need to hold your telephone that far up.”
-
-“I do if I'm to read it. You've made the hall darker.”
-
-Nera had changed no lights. Outside the high window the trees on Bellfoundry Street were losing their leaves, and at four o'clock the gallery began to look as it did after closing. The six bodies shone down one side of the long room. A man hunched over his phone near the far window; Damil, on the next plinth, tipped his clear, close-curled head back to watch Nera's hands.
-
-She eased a bent contact away from the rim. That was the toast. The little scrape had travelled all the way up the cable into the feeder above them, adding a second note to its permanent whine. Nobody heard these things until the room got quiet, and then everybody heard them, and wanted to know what Nera had done.
-
-Her own phone vibrated against her leg.
-
-“If that's about tonight, tell them I'm already committed,” Clary said.
-
-“It's the year clinic. Confirming tomorrow.” Nera tested the joint once more before climbing down. “They'd better not be changing the price. I need the six hundred.”
-
-Clary lowered her arm. For a few seconds she scrolled with her other thumb; then she held her screen out sideways, between their bodies.
-
-“Six hundred for a whole year? Nera, come and look at what they're charging for mine.”
-
-### B
-
-I paid the rent first. Four years, in advance, and I made the landlord write out the date I could stay until. He wanted to give me one of his ordinary little slips, the kind he pulls from a book and signs before you have counted the money. I asked for a full sheet of paper. There was room on it for the date, my name and the address, and I could fold it without folding any of those things.
-
-Then I bought a coat. That part wasn't sensible. I had a coat, and when the lining came away I had work thread to mend it with, but I wanted one that hadn't been repaired. The salesman kept telling me the new lining was silk. I would have paid the same if it had been ordinary cotton, provided it was all attached.
-
-Clary says she knew I would buy clothes. She is mistaken. She asked what I meant to buy and I said I hadn't decided. She has put the rest together afterward, as people do when they helped you and want to remember it being simple.
-
-The day began with me mending her shoulder. I was on my stool at the first plinth in Haldane, with her power cable against my cheek. It was warm. They all run warm, and you mustn't hang a coat over one, although the guests do, and then I have to find out whose coat it is. Clary was holding her phone up to the window light, where there was hardly any light left. November, four in the afternoon. Behind her clear ear I could see the fingers of my own left hand.
-
-She asked why I kept checking my phone. I told her I had a clinic appointment in the morning and wanted to make sure they were still paying six hundred for a year.
-
-She turned her screen toward me. I remember having to wipe the grease off my thumb before she would let me touch it.
