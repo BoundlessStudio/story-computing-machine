@@ -10,7 +10,7 @@ Then, on my next payday, I bought a coat. That part wasn't sensible. I had a coa
 
 Clary says she knew I would buy clothes. She is mistaken. She asked what I meant to buy and I said I hadn't decided. She has filled in the rest since, as people do when they helped you and want to remember it being simple.
 
-At four that November afternoon I was mending her shoulder. I was on my stool at the first plinth in the Haldane Gallery, still in my coat, with her power cable against my cheek. It was warm. They all run warm, and you mustn't hang a coat over one, although the guests do, and then I have to find out whose coat it is. Clary was holding her phone up to the window light, where there was hardly any light left. Behind her clear ear I could see the fingers of my own left hand.
+At four that November afternoon I was mending her shoulder. I was standing on my stool at the first plinth in the Haldane Gallery, still in my coat, with her power cable against my cheek. It was warm. They all run warm, and you mustn't hang a coat over one, although the guests do, and then I have to find out whose coat it is. Clary was holding her phone up to the window light, where there was hardly any light left. Behind her clear ear I could see the fingers of my own left hand.
 
 “There. When I lift my arm,” she said. “It sounds as though someone is eating toast behind me.”
 
@@ -154,7 +154,7 @@ He sat back. His glass had left a ring on the floor beside his chair, and I noti
 
 “I don't know yet.”
 
-I looked down the hall toward Damil. He had come to the front of his plinth. The backpack lifted a little against his shoulders as his cable took the weight, and he stepped back, tipping his face toward Clary's feeder.
+I looked down the hall toward Damil. He had come to the front of his plinth. The backpack lifted a little against his shoulders as his cable came taut, and he stepped back, tipping his face toward Clary's feeder.
 
 “You don't go anywhere in the evenings,” Clary said. “You tell me you're too tired. Forgive me, but this wouldn't be like hauling that case around. You could read. He might hardly come at all. We spend whole days here without anybody coming.”
 
@@ -172,13 +172,13 @@ I tried to pull my hand away to reach my phone. She let go at once. I opened the
 
 Clary put her free hand over her face, exactly as the man at the end of the room had done. She took it away before she spoke.
 
-“Nera, do take a minute. You've been at these clinics for years. If I'd meant you to come out with six hundred again, I'd have left you alone this afternoon.”
+“Nera, do take a minute. Thirty-six thousand, and you could have that garden. You might sit in it for a change, instead of coming here worn out.”
 
 “I've thought about it. I'm still willing to sell this one.”
 
 The collector stood. “I understand. But I was hoping for more than the single transfer. I can't buy Clary's exhibition at the original asking price.” He handed the tablet back to the director without signing.
 
-Clary watched its screen as the director lowered it to her side.
+Clary watched its screen as the director lowered it to her side. I looked up at Clary's feeder. He wasn't buying the year for her, either.
 
 I put the phone in my pocket and peeled back the cuff's fastening. The contact plate lifted from my skin, leaving a pale oval. I laid the band beside me and caught up my empty coat sleeve. The lining was still inside out; I started turning it back with my fingers.
 
@@ -238,7 +238,7 @@ Standing up was worse than the intake. My knees had stiffened while I sat, and I
 
 “I'll tell her that if she comes back.”
 
-A few minutes later I went up to disconnect the service lead, coiled it, and came down again to check Clary's shoulder. The hall was warmer now, with the guests in it. The smell of fish had settled over the polish. Somebody had moved the slate out of my reach while I sat, but Clary asked the waiter to bring it back.
+A few minutes later I went up and disconnected the service lead, coiled it, and came down again to check Clary's shoulder. The hall was warmer now, with the guests in it. The smell of fish had settled over the polish. Somebody had moved the slate out of my reach while I sat, but Clary asked the waiter to bring it back.
 
 “Don't clear it yet. Nera hasn't had any.”
 
