@@ -20,7 +20,7 @@ I felt under the socket where the cable entered her shoulder. Her loose shirt wa
 
 “It's November, Clary. I've changed nothing. Lift your arm once more, and leave the phone down.”
 
-She obeyed, with the air of doing me a favour. I eased a bent contact away from the socket rim and the scraping stopped. At the far end of the hall a man sat forward over his own screen, tapping his heel against his black plinth. Another of the six stood with one hand covering his face. He had been like that since lunch; I had asked whether he wanted company, and he had said he wanted the tapping to stop. The tapper was the only one who could not hear it.
+She obeyed, with the air of doing me a favour. I eased a bent contact away from the socket rim and the scraping stopped. At the far end of the hall a man sat forward over his own screen, tapping his heel against his black plinth. Another of the six stood with one hand covering his face. He had been like that since lunch; I had asked whether he wanted company, and he had said he wanted the tapping to stop.
 
 My phone vibrated in my trouser pocket. Clary asked why I had been checking it all afternoon.
 
@@ -30,7 +30,7 @@ My phone vibrated in my trouser pocket. Clary asked why I had been checking it a
 
 I remember having to wipe the grease off my thumb before she would let me touch it.
 
-There was a photograph of Clary in the hall, head bowed over the very phone she was showing me. Next to it were the terms of her exhibition: twelve months at Haldane, eighteen thousand marks, with a year's continuance charged separately at twelve thousand. I put my thumb below the number and hid its last two zeroes. Her clear fingers lay against the back of the glass. I knew what one year of continuance was; I filled the feeders and checked their balances every morning. One year bought from a living body, one year spent keeping a preserved person awake. Ordinary current worked the shell, but nobody had made a current that could replace what the clinics took out of us.
+On her screen was a photograph of Clary in the hall, head bowed over the very phone she was showing me. Her exhibition fee was eighteen thousand marks, with a year's continuance charged separately at twelve thousand. She spread two clear fingers across the phone to enlarge the second price. I filled the feeders and checked their balances every morning: one year bought from a living body, one year spent keeping a preserved person awake.
 
 “I could put a year into your feeder myself,” I said. “What are they doing with the other eleven thousand four hundred?”
 
@@ -46,7 +46,7 @@ On the next plinth Damil lifted his chin, following the cable over her shoulder 
 
 “Will you still get your exhibition money?” he asked Clary.
 
-“Of course. Nera gets the year money. She'll get twenty times what the clinic offers, and the buyer spends the same. I think that's rather generous of everyone.”
+“Of course. The buyer's already paying for the year; I want it to go to Nera instead of the clinic. I think that's rather generous of everyone.”
 
 “You haven't given anything away.”
 
@@ -60,7 +60,7 @@ Clary had stopped scrolling.
 
 “What did she say?” I asked.
 
-“She didn't answer. I asked the clinic for her new address. They refused to give it to me. At the time I thought that was disgraceful.” He rubbed his thumb along the clear strap. “I should rather not watch it happen to somebody else.”
+“She didn't answer. I asked the clinic for her new address. They refused to give it to me. At the time I thought that was disgraceful.” He rubbed his thumb along the clear strap.
 
 I had serviced Damil for six years. I had known he liked birthday cake put beside his plinth, although he couldn't eat it. I hadn't known about the hotel bills, the flowers, the letter in which he asked his donor to like him again.
 
@@ -76,7 +76,9 @@ I put the cap back on her socket and climbed off the stool. When I crouched to p
 
 ***
 
-At six the director came down with the collector, having already called the proposal excellent. She had told him about it upstairs. He wanted to meet me before deciding, and the director spoke as though arranging this meeting were another kindness she had found time for.
+At six the director set her tablet on my stool. “I've changed the payee for the year,” she said. “Nera, you'll have to fill in this bit.”
+
+The collector had come down with her. He wanted to meet me before deciding.
 
 “Nera has been with us for six years,” she said. “She knows everybody here better than I do.”
 
@@ -88,9 +90,9 @@ The collector shook my hand. He had grey hair and broad, well-kept hands, and he
 
 “Please go ahead with the connection. Then we can all see what we're discussing.”
 
-The director had laid out the sale on her tablet: eighteen thousand for the exhibition, twelve thousand for the year, with the second payment now going to my account. I put my name into the empty space. Beyond the tablet, a waiter was arranging little rounds of potato on a long slate. There was fish on them and something white he was squeezing from a bag. I hadn't eaten since the bread I had brought for lunch. Citrus polish caught in my throat every time I swallowed.
+I put my name and account number into the empty spaces. Beyond the tablet, a waiter was arranging little rounds of potato on a long slate. There was fish on them and something white he was squeezing from a bag. I hadn't eaten since the bread I had brought for lunch. Citrus polish caught in my throat every time I swallowed.
 
-I fetched the donor cuff from the service cabinet and took its lead up the ladder. The lift went only to the reception floor; the open grating above the hall was reached by twenty-three rungs, which I knew without counting. When I was three quarters of the way up, the collector moved back so he could watch. His guests looked up with him. I had never climbed those rungs so slowly. There was a torn place in the seat of my trousers which I had mended in black thread because I had run out of grey.
+I fetched the donor cuff from the service cabinet and took its lead up the ladder. The lift went only to the reception floor; the open grating above the hall was reached by twenty-three rungs, which I knew without counting. When I was three quarters of the way up, the collector moved back so he could watch. His guests looked up with him. There was a torn place in the seat of my trousers which I had mended in black thread because I had run out of grey.
 
 At Clary's box I checked her balance, traced her cable by hand and connected the lead to the service port. The feeder smelled of hot dust. Down below she was watching her phone. Her hair had been drawn up into a high, untidy bun when she was cast, with a loose strand touching her cheek. My own hair was coming out of its clip. I couldn't tuck it back until I had finished the continuity check.
 
@@ -126,7 +128,7 @@ Clary's thumb stopped moving over the back of my hand.
 
 “For the year?” I asked.
 
-“For the year and your participation in the exhibition. I should like to bring people to see you together over the next twelve months. With proper notice, naturally. At least a day. I wouldn't expect you to drop whatever you were doing.”
+“For the year and your participation in the exhibition. I'd bring people to see you together over the next twelve months. With proper notice, naturally. At least a day. I wouldn't expect you to drop whatever you were doing.”
 
 “You would need me to come whenever you gave the notice?”
 
@@ -134,7 +136,7 @@ Clary's thumb stopped moving over the back of my hand.
 
 I looked at the director. She was changing the number on her tablet.
 
-Thirty-six thousand was more money than I had ever been offered for anything. My rent was two hundred and forty a month. I got as far as ten years before I lost my place in the sum. I could pay off the heating account and leave the room, not just keep it. I could find a room nearer work, or stop coming to work and spend a while finding out what else I could do. The cuff was heavy on my arm. I wanted it off so I could get my phone out and work out the figures properly.
+My rent was two hundred and forty a month. I got as far as ten years before I lost my place in the sum. I could pay off the heating account and leave the room, not just keep it. I could find a room nearer work, or stop coming to work and spend a while finding out what else I could do. The cuff was heavy on my arm. I wanted it off so I could get my phone out and work out the figures properly.
 
 “You could have that place you were telling me about,” Clary said. “With the door onto the garden.”
 
@@ -142,7 +144,7 @@ It was a bedsit I had seen advertised in spring. The advertisement had promised 
 
 “What would I be doing at these viewings?”
 
-The collector leaned forward, pleased to be asked. “Just what you're doing now. Sitting with Clary. We might talk, or we might leave you to talk to one another. I wouldn't ask you to pretend to be someone else. People see a preserved body and have no sense of the person who has made its continued existence possible. You could help them see that.”
+The collector leaned forward, pleased to be asked. “Just what you're doing now. Sitting with Clary. We might talk, or we might leave you to talk to one another. I wouldn't ask you to pretend to be someone else.”
 
 “And will Clary be paid more?”
 
@@ -168,7 +170,7 @@ I looked down the hall toward Damil. He had come to the front of his plinth. The
 
 “You don't go anywhere in the evenings,” Clary said. “You tell me you're too tired. Forgive me, but this wouldn't be like hauling that case around. You could read. He might hardly come at all. We spend whole days here without anybody coming.”
 
-“Would you want me here if he didn't come?” I asked the collector.
+“Would you want me here if you didn't come?” I asked the collector.
 
 “Only when I give notice.”
 
@@ -176,9 +178,7 @@ I looked down the hall toward Damil. He had come to the front of his plinth. The
 
 “You look at your telephone every day now,” Clary said.
 
-I tried to pull my hand away to reach my phone. She let go at once. I took it out, opened the calculator and divided thirty-six thousand by twelve. Three thousand a month. My pay from the gallery was eleven hundred before deductions. I could come here and hold her hand instead of doing my job. There would be someone else on the ladder, and I would watch for her loose parts and hope she hadn't been given my stool.
-
-I put in twelve thousand and did the rent sum. Fifty months. The collector watched me do it, with the patience of someone waiting for an assistant to find the right page.
+I tried to pull my hand away to reach my phone. She let go at once. I opened the calculator and stared at it. I could come here and hold her hand instead of doing my job. There would be someone else on the ladder, and I would watch for her loose parts and hope she hadn't been given my stool. The collector waited for me, as patiently as if I had been finding him a price.
 
 “I can't leave every evening for you to choose,” I told him. “I'd like to sell the year on its own.”
 
@@ -190,9 +190,9 @@ Clary put her free hand over her face, exactly as the man at the end of the room
 
 The collector stood. “I understand. I don't think the single transfer is something I can collect in the same way. I had allowed for the year as part of Clary's exhibition, but I was hoping for something beyond that.”
 
-The director closed the figure she'd been amending. Clary's phone lit up against her arm; she looked at it, and I watched her eyes move down the offer that had been sent to her.
+I put the phone in my pocket and peeled back the cuff's fastening. The pad lifted from my skin, leaving a pale oval. I had rolled my sleeve high to keep it out of the way; now I had to pull the band free of the loose lining before I could put it down. The director was reaching for her tablet.
 
-“Take six off my fee,” she said.
+“Take six thousand off my fee,” Clary said.
 
 The director turned the tablet toward herself again. “Clary, are you certain?”
 
@@ -206,15 +206,17 @@ He looked at me. I could have picked up the extra money again by saying I had ch
 
 “One year,” I said. “Twelve thousand. No appearances afterward.”
 
-The collector nodded to the director. “At twenty-four in total, I can do that.”
+The director amended the payment screen and turned the tablet toward the collector. He signed, then she set it on my knee. I read my part twice, signed with the little pen on its cord and fitted it back into the tablet.
 
-She drew the new sale up and put it on my knee. I read my part twice. Clary's year would be spent here, in this room, and I would still be the person who checked her feeder. There was no requirement for me to sit with her or attend a viewing. I signed with the little pen on its cord and fitted it back into the tablet.
+I fastened the cuff again. Only then did I put my hand into Clary's.
 
-Only then did I put my hand into Clary's again.
+I laid the cuff's little control block on my right knee, with its oval pad under my thumb. I had used the same model at the clinics; I had repaired this one twice. I held the pad until the setting turned from one year in pale type to one year in dark type. Below it was my clinic age, forty-nine. The lead moved slightly as the feeder above us took the intake. Clary looked up at the box, lifting her chin so the light gathered under her jaw.
 
-The cuff had an oval pad under my thumb. I had used the same model at the clinics; I had repaired this one twice. I held the pad until the setting turned from one year in pale type to one year in dark type. The lead moved slightly as the feeder above us took the intake. Clary looked up at the box, lifting her chin so the light gathered under her jaw.
+The heat came under the band first. I was used to that. Then it spread up under my shirt and I thought I should have taken the coat off altogether. My face was damp. I was conscious of the collector watching the side of my head, where the hair had escaped its clip, and I wanted to smooth it back. I had to keep my thumb on the pad. My other hand was still in Clary's and I held that more tightly instead.
 
-It starts with heat under the cuff. I knew that and had rolled the sleeve high enough, but the heat spread up under my shirt and I thought I should have taken the coat off altogether. My face was damp. I was conscious of the collector watching the side of my head, where the hair had escaped its clip, and I wanted to smooth it back. I had to keep my thumb on the pad. My other hand was still in Clary's and I held that more tightly instead.
+I looked at my right hand. There was a white mark beside the thumb where I had cut myself on the service grating years ago, and a yellow stain on the middle finger from a bottle of contact cleaner that had leaked that morning. I knew how those had got there. While I watched, the age on the display changed to fifty. I tried to find a difference in the hand. A fold at the wrist looked deeper until I straightened it; then I couldn't tell. I wanted the stool higher so I could get both feet under me and stand as soon as this was done. I pushed one heel back, felt the pull in that knee and set it forward again.
+
+At my last birthday Clary had asked me how many candles. I had made a joke about needing a second cake. Now I wished I had given her the proper number. Thirty-eight. I counted the years I had lived again, in case I had got them wrong, and kept coming to the same answer. The pad was growing slippery under my thumb. I pressed harder.
 
 She leaned forward. “Are you all right?”
 
@@ -222,17 +224,19 @@ She leaned forward. “Are you all right?”
 
 She straightened slowly. I watched the joint I had mended instead of looking at my own arm. A steady brightness filled her chest; it lit the loose folds of the clear shirt and brought out the worn pattern cast into her trainers. It was ordinary current I was seeing, yet now I knew exactly how much longer she would have to look at her phone, find the light too dim and tell me the shoulder needed doing again. I wanted that year of hers to go well. I also wanted her to stop talking until the intake was over.
 
-The cuff loosened. I took my thumb away and the room, which I had been hearing through a rushing in my ears, came back: the six feeders, someone's shoe on the floor, a knife scraping the slate. I hadn't realised how much of the noise had gone. The year was in the meter above us, added to Clary's balance. I was sitting in my work clothes with a damp back and a sore place where I had pressed my thumbnail into the pad.
+The cuff loosened. I took my thumb away. A knife scraped the slate beside us; I turned my head because the sound was so close. There were the six feeders again, and a shoe sliding on the floor, and somebody laughing at the far end of the hall. I hadn't realised how much of the room I had stopped hearing. I wanted to hear it properly before anybody asked me to get up.
+
+Clary's meter had taken the year. On the cuff, the smaller number stayed at fifty. I turned my hand over and touched each fingertip to my thumb, slowly, then scraped at the yellow stain with my nail. The hand could still do what I asked. I kept looking at it anyway.
 
 “Finished,” I said. I had meant to say more, something about needing a minute, but my mouth was dry and I reached for the water.
 
 Clary kept her hand open while I drank. Her palm had the little indentations my fingers had made in it; they slowly filled out. She watched them disappear.
 
-The director crouched by the stool. “Would you feel able to do this again at another viewing? Not you as the donor, necessarily. We could bring someone in. You'd conduct the intake.”
+The director crouched by the stool. “I could book a second evening like this. We'd bring somebody else in as the donor. Would you run it?”
 
 “I need to disconnect the equipment,” I said.
 
-“Of course. Think about it.” She stood to speak to the collector. I stayed seated, letting the last of the water cool my tongue, until I was ready to take the cuff off.
+“Don't answer now. Work out your fee.” She stood to speak to the collector. I stayed seated, letting the last of the water cool my tongue, until I was ready to take the cuff off.
 
 ***
 
@@ -250,7 +254,7 @@ I let him. Then I disconnected the service lead overhead, coiled it, and came do
 
 “In a minute,” I said. “Lift your arm for me.”
 
-She lifted it, and the joint moved without a sound. I followed the cable from the socket to the back of her neck and checked that she hadn't twisted it when she stepped down. The loose strand of hair still rested on her cheek. My own hand shook when I tried to seat the cap, so I put it down on her plinth and waited.
+She lifted it, and the joint moved without a sound. I lifted the socket cap to check the contact, then followed the cable to the back of her neck to make sure she hadn't twisted it when she stepped down. The loose strand of hair still rested on her cheek. My own hand shook when I tried to seat the cap, so I put it down on her plinth and waited.
 
 “I nearly took the thirty-six,” I said.
 
@@ -258,13 +262,9 @@ She lifted it, and the joint moved without a sound. I followed the cable from th
 
 I looked at her. She pressed her phone between her arm and her side, leaving both hands free.
 
-“I don't mean I wish you'd been made to sit here,” she said. “I can remember what it was like to have money enough to stop adding things up. You were doing sums on your telephone with a cuff on your arm. I wanted you to be able to stop. And you could have had that garden. I would have liked to hear about it when you came in.”
+“I don't mean I wish you'd been made to sit here,” she said. “I can remember what it was like to have money enough to stop adding things up. You could have had that garden. I would have liked to hear about it when you came in.”
 
-“I could have had to leave it whenever he called.”
-
-“You leave your room when the director calls you.”
-
-“And when I'm late she takes it out of my pay. Sometimes I can afford that.” I picked up the cap. This time it seated properly. “I kept thinking what would happen if I wanted to stop coming. I'd have spent some of the money. I would need to find enough to give back.”
+I picked up the cap. This time it seated properly. “If I wanted to stop coming after I'd spent the money, how would I have paid him back?”
 
 Clary looked at the collector. He was talking to one of his guests at the far end of the hall, under the trees reflected in the window. He had taken his chair with him.
 
