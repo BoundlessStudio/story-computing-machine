@@ -26,6 +26,19 @@ Option 1
 
 The selected option permits Odette to operate the emergency stop from her service bench during a showing.
 
+## Ruling on the ending
+
+The assistant asked, “When Coralie asks to live the rest of her purchased year at ordinary speed, which ending do you want?”
+
+1. Odette removes the accelerator. Coralie stays awake on ordinary power, the collector loses his chance to finish the portrait that night, and Odette loses the gallery contract.
+2. Odette leaves the accelerator in place and puts the restart control in Coralie’s hand. Coralie faces the collector and decides when, if ever, his sitting resumes.
+
+### User’s words
+
+option 2
+
+The user selected the ending in which Coralie holds the restart control.
+
 ## Supplied reference images
 
 - `codex-clipboard-a0126b04-4dbe-4a9b-96df-92727db3cd7a.png`
