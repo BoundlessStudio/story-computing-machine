@@ -16,6 +16,16 @@ The user selected the following sentence from the assistant’s progress update.
 
 remove this part i dont want them to becoming part of the display; they are tech
 
+## Ruling on the technician’s duties
+
+The assistant asked, “Can Odette operate the emergency stop from her service bench during a showing, or should gallery staff operate it and call her in only for repairs?”
+
+### User’s words
+
+Option 1
+
+The selected option permits Odette to operate the emergency stop from her service bench during a showing.
+
 ## Supplied reference images
 
 - `codex-clipboard-a0126b04-4dbe-4a9b-96df-92727db3cd7a.png`

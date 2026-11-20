@@ -2,7 +2,7 @@
 
 ## The experience promised
 
-The request puts a struggling technician at work among human beings whom collectors can buy and look at. A person shines through the clear body on its overhead lead. Someone who needs money has given up actual years for that light. I read a promise of beauty, unease and intimacy with the material cost of immortality. The later directions explicitly ask for Mature and insist that the technician stay external, including at the end. “They are tech.” Which souls we meet, who tells, what happens at the gallery and whether anyone prevails are open.
+The request puts a struggling technician at work among human beings whom collectors can buy and look at. A person shines through the clear body on its overhead lead. Someone who needs money has given up actual years for that light. I read a promise of beauty, unease and intimacy with the material cost of immortality. The later directions ask for Mature and keep the technician outside the display and the trade in years through the ending. “They are tech.” By choosing “Option 1,” the user explicitly permitted Odette to operate the emergency stop from her service bench during a showing. Which souls we meet, who tells, what happens at the gallery and whether anyone prevails are open.
 
 ## Three possible stories
 
