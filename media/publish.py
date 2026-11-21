@@ -7,10 +7,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
 import json
 import os
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 import re
 import time
-from urllib.error import URLError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
@@ -63,6 +63,70 @@ def object_headers(entry: dict) -> dict:
         "ContentType": entry["contentType"], "CacheControl": IMMUTABLE_CACHE,
         "Metadata": {"sha256": entry["sha256"]},
     }
+
+
+def load_retired_assets(root: Path, manifest: dict) -> list[dict]:
+    """Validate explicit retirements before any network write; never delete live art."""
+    path = root / "media" / "retired-assets.json"
+    if not path.is_file():
+        return []
+    records = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(records, list):
+        raise ValueError("Invalid retired media list")
+    live_paths = {entry["path"] for entry in manifest["assets"]}
+    live_keys = {entry["key"] for entry in manifest["assets"]}
+    retired, seen = [], set()
+    for record in records:
+        if (not isinstance(record, dict)
+                or set(record) != {"path", "sha256", "size", "contentType"}):
+            raise ValueError("Invalid retired media entry")
+        relative, digest = record["path"], record["sha256"]
+        if (not isinstance(relative, str) or "\\" in relative or ":" in relative
+                or any(part in {"", ".", ".."} for part in relative.split("/"))
+                or not isinstance(digest, str) or not re.fullmatch(r"[a-f0-9]{64}", digest)
+                or type(record["size"]) is not int or record["size"] <= 0
+                or record["contentType"] != CONTENT_TYPES.get(PurePosixPath(relative).suffix.lower())):
+            raise ValueError("Invalid retired media identity")
+        if selected_paths({relative}) != [relative]:
+            raise ValueError("Retired media is outside public story art")
+        key = object_key(relative, digest)
+        if relative in live_paths or key in live_keys:
+            raise ValueError("Cannot retire media still selected for publication")
+        if key in seen:
+            raise ValueError("Duplicate retired media key")
+        seen.add(key)
+        retired.append(record | {"key": key, "url": public_url(manifest["baseUrl"], key)})
+    return retired
+
+
+def verify_public_removed(entry: dict, attempts: int = 5) -> None:
+    request = Request(entry["url"], method="HEAD", headers={
+        "Accept-Encoding": "identity", "User-Agent": USER_AGENT,
+    })
+    for attempt in range(attempts):
+        try:
+            with urlopen(request, timeout=20):
+                pass
+        except HTTPError as error:
+            if error.code == 404:
+                return
+        except (URLError, OSError):
+            pass
+        if attempt + 1 < attempts:
+            time.sleep(2 ** attempt)
+    raise ValueError(f"Retired public URL is still available: {entry['url']}")
+
+
+def delete_retired_assets(client, bucket: str, entries: list[dict]) -> None:
+    for entry in entries:
+        existing = head_object(client, bucket, entry["key"])
+        if existing is not None:
+            verify_object(existing, entry)
+            client.delete_object(Bucket=bucket, Key=entry["key"])
+        if head_object(client, bucket, entry["key"]) is not None:
+            raise ValueError(f"Retired R2 object still exists: {entry['path']}")
+        verify_public_removed(entry)
+        print(f"Removed and verified retired art: {entry['path']}", flush=True)
 
 
 def head_object(client, bucket: str, key: str):
@@ -165,6 +229,7 @@ def publish(manifest_path: Path, root: Path, client, bucket: str, *, workers: in
             cache_path: Path | None = None, verify_all: bool = False,
             update_index: bool = False) -> dict:
     manifest, entries = load_manifest(manifest_path, root)
+    retired = load_retired_assets(root, manifest) if update_index else []
     if not 1 <= workers <= 32:
         raise ValueError("Workers must be between 1 and 32")
     now = time.time()
@@ -204,6 +269,7 @@ def publish(manifest_path: Path, root: Path, client, bucket: str, *, workers: in
                 future.cancel()
             raise
     if update_index:
+        delete_retired_assets(client, bucket, retired)
         publish_index(client, bucket, manifest_path, manifest)
     if cache_path:
         save_cache(cache_path, scope, records)

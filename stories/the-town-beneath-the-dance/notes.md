@@ -25,3 +25,7 @@ Both final readers reread the whole current story. Codex's harshness concern cha
 ## 2026-11-16 dialogue edit
 
 A reader heard Elspie's warning against teaching the words collide with Tib's immediate request. The warning fits what Elspie knows at the lifted stone and leaves her later decision about the wind to the crisis itself.
+
+## Requested image removal — 2026-11-20
+
+The user requested removal of Hetts Shop And Upper Room from the website, source package, and hosted copy. The interior image is removed from the package. Its exact content-addressed object is recorded in media/retired-assets.json so the publisher deletes it from R2, verifies the public URL returns 404, and prevents a later publication from restoring it.
