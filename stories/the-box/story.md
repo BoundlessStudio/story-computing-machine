@@ -52,7 +52,7 @@ She takes her hand away. “When you call for me to let go of the bar, I can fee
 
 “Come over to the bakehouse with me,” I say. “We can leave it standing here while we eat.”
 
-One side of her mouth goes up. In the air if I give the call at the right moment Rissa comes to me. If she shuts herself in The Box, she has one chance in two of coming out able to do magic and one in two of burning to death. I’d never call for her to let go on odds like those. I take one step into the cold that’s coming through between the shops. If I put myself at the gate Rissa will have to say out loud whether she wants me to go. I get as far as the ladder and stay there.
+One side of her mouth goes up. In the air if I give the call at the right moment Rissa comes to me. If she shuts herself in The Box, she has one chance in two of coming out able to do magic and one in two of burning to death. I’d never call for her to let go on odds like those. I take one step into the cold that’s coming through between the shops, thinking if I go all the way to the gate she might call me back. I get as far as the ladder and stay there.
 
 “Do you remember when the woman from the bakehouse first went up?” Rissa says. “You were over there rolling up one side of the net with me. I put the whole thing down in the dirt and then you did too. The woman had come straight out of The Box with her apron on. She pulled it in against herself as she went up and I thought, she’s scared she’ll go up out of it like a flag out of its ties. Then her girl called from the window above the shop, and the woman turned and went straight in at the window and a minute later I could see her passing the girl a hairbrush. I’ve been thinking about it ever since. If you called me from down here when I was up over the roof, I could turn and come down right where you were.”
 
@@ -60,7 +60,7 @@ One side of her mouth goes up. In the air if I give the call at the right moment
 
 She does. There’s a thumb’s width of flour left on her shoulder and I’m silly enough to brush at it for her. The shutter bangs and we both look at it. I wish we had something familiar to do, an eyelet to sew back on, anything I could take up where she can come and be beside me.
 
-“I remember her stopping,” I say. “Before the girl called. I thought I could have a whole minute up at that height. Maybe more. I’d want to find out how long I could stand it before I had to look down. I brought The Box up on our landing last week. It came so close to the top stair that I could have got into it with one foot still on the step. I stood there holding on to the rail to see how far I could lean in. Then I heard you putting a cup in the sink down below and I went upstairs.”
+“I remember her stopping,” I say. “Before the girl called. I thought I could have a whole minute up at that height. Maybe more. I’d want to find out how long I could stand it before I had to look down. I brought The Box up on our landing last week. It came so close to the top stair that I could have got into it with one foot still on the step. I stood there holding on to the rail to see how far I could lean in. Then I heard you putting a cup in the sink down below, and I took the last step up and went past The Box to my room.”
 
 “I could have come up and run straight into you,” she says. “You might just as well have called down to me.”
 
@@ -72,7 +72,7 @@ I remember picking up that bowl with my sleeves pulled over my hands because she
 
 “When I call from the bar I can see your hands. I can see where they’re going to be. I’m so sure of what’ll happen to them I call before they’re ready. It’s taken me years to get that word into your feet. I can’t give you the call here. I’ll stay here with you and you can tell me what you like when you come out.”
 
-Rissa gets in and stands with her arms at her sides. Her left foot is a little ahead of her right, the way she stands with the bar in hand at the edge of the board. I try to think of something I can look at in the yard that will give me the time till she reaches for the door. The man with the boards has made a stack twice as high as his doorstep. He bends to get an arm under the whole load. By the time he’s drawn himself up Rissa has stepped down again. She stands next to me and we watch him take the boards in. He gets the longest ones through by going sideways. I turn a little toward the gate so she can walk next to me.
+Rissa gets in and stands with her arms at her sides. Her left foot is a little ahead of her right, the way she stands with the bar in hand at the edge of the board. I try to think of something I can look at in the yard that will give me the time till she reaches for the door. The man with the boards has made a stack twice as high as his doorstep. He bends to get an arm under the whole load. By the time he’s drawn himself up Rissa has stepped down again. She stands next to me and we watch him take the boards in. He gets the longest ones through by going sideways. I turn a little toward the gate so she can walk next to me. Rissa looks back at The Box.
 
 “I wish I’d been on the stairs with you that night,” she says. “One step up and I could have put my head on your belly just as I used to when you got big enough to go up the ladder before me. I’d have stayed till you told me to move.”
 
@@ -80,11 +80,11 @@ She takes my hand. Her fingers are cold on the inside where they’ve been in th
 
 “Come wait at the door,” she says. “Right up where I can see you till it shuts.”
 
-I come as close to the door as she lets me. She steps inside and pulls it shut.
+She leads me back by the hand. I stop a little short of the jamb and she brings me the rest of the way with a small pull. She steps inside with her hand still in mine and turns to see my face. Then she lets go and pulls the door shut.
 
 The door trembles with a low noise coming from inside. I stand to the side of the door so that when it opens she’ll have all the room there is. A line of fire shows under it. The noise rises and my hands come halfway up to my ears, and I stop them there. When I catch Rissa on a bad day, she takes a little dragging breath that I can hear all the way through the swing before she says so much as my name. I listen for that much of a sound from her. I keep my feet where they are so I won’t have so much as the scrape of a boot to hear through.
 
-The line goes out and I hear the shutter bang across the yard. I’m holding my own wrists very hard. I have to uncross my arms to reach for her as the door opens. Rissa is on the floor with her right hand open, palm up. It’s the hand she squeezes my wrist with when she wants me to throw her back. I put my wrist alongside it where she could take hold.
+The line goes out and I hear the shutter bang across the yard. I’m holding my own wrists very hard. I have to uncross my arms to reach for her as the door opens. Heat runs up under my cuffs. Rissa is on the floor with her right hand open, palm up. It’s the hand she squeezes my wrist with when she wants me to throw her back. I put my wrist alongside it where she could take hold.
 
 “Rissa,” I say, in the voice I’d use if I came up behind her in the yard when she thought she had it to herself. I want her to hear who it is and have that one bit of good news before she tries to get to her feet. I’ve gone down on one knee beside her. I keep my own hand open while I wait.
 
