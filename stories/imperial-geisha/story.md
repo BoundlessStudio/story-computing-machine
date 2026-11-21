@@ -16,11 +16,11 @@ I took Iori to the hinge of the great outer petal and set the toe of her gold sh
 
 “As soon as I give them your name. Look how far down I go. Then they’ll get up and stay with you.”
 
-Iori leaned over her gold toe to try to see through the petals. “Would they do what I told them, or would they ask Mother’s people first?”
+Iori leaned over her gold toe to try to see through the petals. “Would they do what I told them, or would they ask Mother’s people first?” I caught her by the cuff where the three gold bars of her mother’s house were sewn.
 
 “Kase will give them the orders until you’re old enough. Bring your toe back to the mark, please. It should sit there in the dark, too.”
 
-“They can tell them I’m going to stay up. Father has seven bells tonight and I only got to hear one yesterday. The woman who brought me my supper went back for a spoon and by the time I got my spoon there was only one left.” Iori kicked off the black shoe and undid the buckle of the gold one, holding her hair out of her mouth. “If it isn’t allowed you can tell me here. I can keep it to myself.”
+“Kase can tell the samurai I’m going to stay up. Father has seven bells tonight and I only got to hear one yesterday. The woman who brought me my supper went back for a spoon and by the time I got my spoon there was only one left.” Iori kicked off the black shoe and undid the buckle of the gold one, holding her hair out of her mouth. “If it isn’t allowed you can tell me here. I can keep it to myself.”
 
 It was the first time she had spoken to me as though I were someone who had a door of her own and could shut it. I touched the board beside me. “You can stay with me until the last bell.” I was still on the floor when Tsune came in. She had a way of walking onto boards already crowded with people so there was space for her a step before she needed it. In her ceremony whites she could reach the narrow pink gap between the petals without picking up any of their color. I had never managed that. My casing took up every scrap of light.
 
@@ -36,7 +36,7 @@ We stood close enough that I could have turned her head between my palms and fou
 
 “Does Kase know what you’re asking me to do?”
 
-“They want their regency. I asked their lawyers what they’d do if she died before taking the throne. The order about Iori is mine.”
+“Kase wants that regency. I asked its lawyers what they’d do if Iori died before taking the throne. The order about Iori is mine.”
 
 Whenever they renewed the peace, the great corporate houses sent our order dishes in their colors. We had a thousand years of them, shelves of good bowls from companies in cities I had never been allowed to visit. Our makers gave us hands that could carry a bowl of broth through a whole dance without stirring the surface. A man once took mine in both of his and thanked me for the peace, while I counted the seconds left to him. Tsune had put me beside him specially because his daughter would be dining too. I was supposed to have learned something from how little of that evening the girl had had cause to remember.
 
@@ -72,15 +72,15 @@ The temple signs of Karusen could shine clear across a street on the nights we m
 
 From the public stair above the platform I could see the white lights of the tram coming to take the night workers out past the gates. There were still people on the platform who cared about that tram more than the imperial succession. One woman tried to read the board through the top half of a cake she was eating. I was deciding how much I could give her to bring a little girl down from the temple without making her wonder why I’d picked her. I had got that far before I thought what it might be like for her to have my sisters knock on her door later. I wanted a hand from the crowd that could be explained afterward.
 
-The white lights went out. A change travelled down the board, replacing the fares and stops with a suspension of service by order of the court. The tram was still coming. Women stepped forward with their bags. It went straight by, with the temple signs lighting row after row of empty seats, and stopped just short of the lattice the samurai were drawing across the tracks. When I looked along the lit streets running down to the city wall, I could see lacquer shoulder plates at the other gates. The women on the platform began talking about how long it would take to walk home. They were still talking as if a samurai had ever opened a closed gate for somebody who wanted to go home.
+The white lights went out. A change travelled down the board, replacing the fares and stops with a suspension of service by order of the court. The tram was still coming. Women stepped forward with their bags. It went straight by, with the temple signs lighting row after row of empty seats, and stopped just short of the lattice the samurai were drawing across the tracks at the wall gate. When I looked along the lit streets running down to the city wall, I could see lacquer shoulder plates at the other gates. The women on the platform began talking about how long it would take to walk home. They were still talking as if a samurai had ever opened a closed gate for somebody who wanted to go home.
 
 I heard the second bell while I stood there. I had promised the girl three.
 
-Two of my sisters came down across from me toward the side gate of the platform, with a length of mourning silk between them. One held it high to keep it off the ground while the other bent to address the samurai at the foot of their stair. I could see his waiting face reflected in the white of her cheek. She showed him the folded end of the cloth, and he drew the side gate open as a court sentry does for the women officiating. He shut it again behind them and resumed his watch. The sisters lowered the silk and looked among the people it had screened from them. Showing the sentry my whites would get me the same privilege, a place on the platform with my sisters.
+Two of my sisters came down across from me toward the side gate of the platform, with a length of mourning silk between them. One held it high to keep it off the ground while the other bent to address the samurai at the foot of their stair. I could see his waiting face reflected in the white of her cheek. She showed him the folded end of the cloth, and he drew the side gate open as a court sentry does for the women officiating. He shut it again behind them and resumed his watch. The sisters lowered the silk and looked among the people it had screened from them.
 
-My knee ticked as I turned from the stairs. Tsune had once heard it from the far side of an orchestra and made me start a whole dance over. All the women who had worked in our hall that year knew it. One of my sisters lifted her chin. The other gathered the silk and came so fast that the woman with the cake turned right around in the breeze she left without seeing whom to blame.
+My knee ticked as I turned back toward the street. Tsune had once heard it from the far side of an orchestra and made me start a whole dance over. All the women who had worked in our hall that year knew it. One of my sisters lifted her chin and passed her end of the silk to the other. She came across the platform for the public stair where I stood, so fast that the woman with the cake turned right around in the breeze she left without seeing whom to blame.
 
-I ran back up Fold Street. The rival companies’ troops were on the roof of the Twenty Vows, just visible when the lettering went white. At the foot of the terraces my sister touched my arm so lightly she might have been testing a sleeve for fit, and by the time I felt her fingers close on my elbow we were passing a dark stall window in the posture of two women greeting each other. My face in the window was very pale, with all the red on it gathered at the mouth. The pink flower was coming loose from the crown of my black hair.
+I ran up to Fold Street. The rival companies’ troops were on the roof of the Twenty Vows, just visible when the lettering went white. By the time I reached the first terrace my sister was at my shoulder. She touched my arm so lightly she might have been testing a sleeve for fit, and by the time I felt her fingers close on my elbow we were passing a dark stall window in the posture of two women greeting each other. My face in the window was very pale, with all the red on it gathered at the mouth. The pink flower was coming loose from the crown of my black hair.
 
 The first row of mourners raised their paper lamps and bowed to us. My sister had to return the bow in full view of the street. Her fingers were still on my arm as she bent. I pulled until a crack ran all the way around my elbow and I felt the cold at the joint. She kept hold of the white plate. I was halfway down in my own bow when the next vow lit up pink and put the same color on my face as it did on the paper and all the faces above it. I came up between two swaying lamps and went in the door off Fold Street. The flowers in my hair dragged against the lintel. I was still close enough to the street to hear someone ask my sister if she had dropped something.
 
@@ -92,19 +92,21 @@ The third bell began as I came down to the passage. I had kept Iori’s time. Th
 
 Somebody was coming down from the stage. I could tell it was Tsune from the way the sound of her feet stopped at the edge of a step before the rest of her came into view. That pause had taken me weeks. “I heard your knee on the way in, Naho,” she said. She came down another step and caught sight of Iori at the end of the bench.
 
-“It’s very cold down here, dear,” she said to Iori. “Come as far as the top and feel how warm the boards are tonight.”
+The street door opened behind me. The sister from the platform stood on the top step with the white plate from my elbow cupped in one hand. “Keep the door,” Tsune told her. “I’ll see to Naho myself.” My sister set the plate on the step and went back outside. Iori was still holding the curtain when the door shut.
+
+“It’s very cold down here, dear,” Tsune said to Iori. “Come as far as the top and feel how warm the boards are tonight.”
 
 Iori looked at me. “Are we still seeing if we can get on?”
 
-“The trams have stopped.” I put my hand down between hers and the curtain. She let go and came against my side. I turned the bare iron at my elbow out of the way of her coat. “Walk us out through the tram gate in your whites, Tsune. You can leave the apron empty at the last bell. The guard can keep its posts, and we can go back to the houses with new terms in the morning.”
+“The trams have stopped.” I put my hand down between hers and the curtain. She let go and came against my side. I turned the bare iron at my elbow out of the way of her coat. “Walk us through the wall at the tram gate, Tsune. The samurai shut it on the court’s word, and you speak for the court. Let the last bell go by without a name. The guard can keep its posts and we can ask the houses for one more night.”
 
-“Kase will want the girl wherever you take her. They’ll look for her to give her a crown and the other houses will look for her to put her in the ground. If you’re very good at hiding they may only have to send you word of what they have done to somebody who once gave you a room.” Tsune lowered herself onto the step without using a hand. Her knees made no sound. “All that can begin in the morning, if we leave somebody to inherit. I want you to be able to go across a room in any of their cities without hearing the people in it get up and run.”
+“Kase will want the girl wherever you take her. They’ll look for her to give her a crown and the other houses will look for her to put her in the ground. If you’re very good at hiding, the other houses may only have to send you word of what they have done to somebody who once gave you a room.” Tsune lowered herself onto the step without using a hand. Her knees made no sound. “All that can begin in the morning, if we leave somebody to inherit. I want you to be able to go across a room in any of their cities without hearing the people in it get up and run.”
 
 “There’s somebody left,” said Iori. “I can sit in Father’s chair. He showed me the gold letters on the back.” She worked the buckle loose on one of her shoes with a fingernail.
 
 Tsune drew her folded coat in to make room beside her. “Come and sit here, Iori. It’s only a few steps. I’ve sat on these stairs with Naho after nearly every performance she’s given.”
 
-“Would you tell me what for before I go up? The man in Father’s room sent me for a blanket and when I brought it back somebody had put it in my arms to take away again. I had to go right across the palace twice for nothing.”
+“Would you tell me what for before I go up? The man in Father’s room sent me for a blanket. When I came back with it he took it in, and then a woman came out and handed it back to me. I had to go right across the palace twice for nothing.”
 
 I could still make a word like *nobody* sound soft in my mouth and persuade the child to go up to Tsune as if there were only the business of her shoes left to settle. My sister was waiting with both palms flat on her knees, the way she did when there was to be no audience. I could have brought Iori straight into those hands.
 
@@ -136,15 +138,15 @@ Tsune came up the stairs after us. When she drew level with me she lifted her ha
 
 She let her hand fall and glanced at the dark at the head of the stairs. “You can still give me Iori when we bow. Everyone will be watching your face.”
 
-“Iori, wait for me here.” I took my sister’s hand so she couldn’t pass behind me. In its accustomed place, the tips of her fingers rested cool and light on the back of my palm. She matched my grip exactly.
+“Iori, wait for me here.” I took my sister’s hand so she couldn’t pass behind me. The tips of her fingers rested cool and light on the back of my hand. She matched my grip exactly.
 
 The last bell rang. Behind me, Iori said, “Seven.” The petals turned and the pink light reached the roofs at the far side of Fold Street. At our feet were the tops of twenty samurai helmets, smooth as the bottoms of good bowls. Beyond them silk offerings hung in rows down among the people. Tsune led into the bow, and with her free hand she reached for Iori.
 
-I stepped where she meant to put her hand. She struck my forearm hard enough to take my feet off the floor. I had spent half my life learning the moment at which she would put her weight into a movement, but she had never expected me to stay in its way. I felt the pin she had just set drag at my scalp. My heel came down. The plank gave under it and I turned Tsune as you turn a partner through the open part of a figure, taking the weight of both of us toward the street. It brought her cheek as close to mine as when she had taught me where to put my hand on a person’s face. Through the bow I saw the two scratches I had left on her temple, which always took longer than the rest of her face to go pink in this light. I held her there and there was room beside me for Iori. The girl had both black shoes down solidly in the space Tsune had meant to close.
+I stepped between Tsune’s hand and the hinge. She struck my forearm hard enough to take my feet off the floor. I had spent half my life learning the moment at which she would put her weight into a movement, but she had never expected me to stay in its way. I felt the pin she had just set drag at my scalp. My heel came down. The plank gave under it, and I turned Tsune toward the stair as you turn a partner through the open part of a figure. It brought her cheek as close to mine as when she had taught me where to put my hand on a person’s face. Through the bow I saw the two scratches I had left on her temple, which always took longer than the rest of her face to go pink in this light. I held Tsune on the side next to the stair. On my other side Iori had both black shoes down solidly with nothing between her and the apron.
 
 “I want to come now,” she said.
 
-I turned my face straight to Iori. The corner of my mouth kept trembling after I had got the rest of me still. She looked quite hard at me before she went past. I let go of Tsune and took the two steps to the apron with Iori, in the time it took the people who were sitting to see there was a girl going out in front of the dancers. I could hear Tsune come after us. Even then I could have lifted Iori up and given her back to my sister.
+I turned my face straight to Iori. The corner of my mouth kept trembling after I had got the rest of me still. She looked quite hard at me before she went ahead. I let go of Tsune and took the two steps to the apron with Iori, in the time it took the people who were sitting to see there was a girl going out in front of the dancers. I could hear Tsune come after us. Even then I could have lifted Iori up and given her back to my sister.
 
 I gave the name aloud. “I present Iori, daughter of the emperor and your sovereign.”
 
