@@ -4,9 +4,11 @@ created: 2026-11-20
 canon: false
 ---
 
+# The Copper Roof
+
 I see the copper roof when I swing back with my arms empty. It’s my only look at it on a catch, so I’ve learned it in pieces. There are three seams near the chimney that swell up off the roof in a hard frost. Once a man in a red shirt put down his hammer and slid the length of it on his backside. Today a bird is balancing on the spoon they bent into a rain cap. I’d like to stay up here until it flies away. I’d like to see where it goes.
 
-Anise comes up from the bakehouse. The catch bar works against the raw place behind my right knee. I turn my head. Across Bellwether Yard Rissa’s off the board and headed toward me. The loose shutter gives one of its tremendous claps just as I call “Hep!” I hear my own voice come back off the bakehouse wall. She might have heard that much of it. She lets go right where she ought to and puts her hands out. The slap when we take hold runs straight up into my teeth.
+The smell of anise comes up from the bakehouse. The catch bar works against the raw place behind my right knee. I turn my head. Across Bellwether Yard my sister Rissa is off the board and headed toward me. The loose shutter gives one of its tremendous claps just as I call “Hep!” I hear my own voice come back off the bakehouse wall. She might have heard that much of it. She lets go right where she ought to and puts her hands out. The slap when we take hold runs straight up into my teeth.
 
 She grins at me from the other end of our arms. There’s flour on her shoulder. She swore she’d wait to eat till we got home, and she was all of half an hour keeping her word. I can see the print where she brushed at it with her fingers. On the way up the far side she gets very light, and there it is, the little squeeze of her hands to say she wants the return. We’ve done it together since we were small enough for the net to hold us both barely any lower than it did empty. When I send her back she finds the bar with both hands at once. The weight comes off my arms and I can feel exactly where her thumbs were.
 
@@ -42,13 +44,13 @@ Rissa puts her hand out at her side, crooked a little so she might be reaching f
 
 Someone at the bakehouse runs a tray in hard on its runners. I cross under the net to get a better look. The Box is so plain the wood might have come from the shop across the yard, except that I’ve seen boxes from the shop left out in the rain. By now at least one edge would stand up, and you’d be able to see where the boards of the door had started to cup. Rissa has her knuckles against the door at the dark edge where she can pull it to from the inside.
 
-“Give me the call when I get in,” she says.
+“Give me the call when I get in,” she says, her fingers slipping round the edge.
 
-I say her name a little too loudly. She lets go of the door.
+“Rissa. Take your hand off the door.”
 
-“You’re good at it,” she says. “All the way down my arms I can feel it when you say it. I might stand in there till we both get hungry and go away if you leave me to it.”
+She takes it off. “You’re good at it. All the way down my arms I can feel it when you say it. I might stand in there till we both get hungry and go away if you leave me to it.”
 
-“We can eat here. I’ll go over and ask for something.”
+“Come over to the bakehouse with me,” I say. “We can leave it standing here while we eat.”
 
 She almost laughs. In the air if I give the call at the right moment Rissa comes to me. Every time a person closes this door the chance they’ll come out able to work magic and the chance they’ll burn to death are exactly even. We both know the terms. It seems wrong that the two things should take so little time to say. I take one step into the cold that’s coming through between the shops. If I put myself at the gate Rissa will have to say out loud whether she wants me to go. I get as far as the ladder and stay there.
 
@@ -62,15 +64,15 @@ She does. There’s a thumb’s width of flour left on her shoulder and I’m si
 
 “Why didn’t you tell me?”
 
-“I didn’t want you to be there till I’d decided. Then I could have done it and come and told you, the way you tell somebody you’ve been somewhere and you wish they’d come with you. I stood in it here yesterday, after you went home. I walked straight back out. I could still change my mind, and I did it fast in case I changed it again.”
+“I didn’t want you to be there till I’d decided. Then I could have done it and come and told you, the way you tell somebody you’ve been somewhere and you wish they’d come with you. Yesterday I waited till you’d gone home and I stood in it here. I took two steps backward and kept on walking. I was afraid I’d turn right round and get in again.”
 
-I’ve let myself talk long enough that for a while I think my real purpose is to listen to my own account. There is Rissa looking directly up at me, even though when I get on like this she usually finds work to do with her hands.
+“Yesterday?” Rissa looks at the ground on either side of The Box. “I’d put two bowls out and sat so long waiting that I started to think I’d call it while you were gone. I had this lovely picture of tapping at your window once you’d gone upstairs to bed and seeing your face when you got to the glass. Then there was a bang out back and I was out of my chair. I thought you’d shut yourself in The Box. I got to the latch and tried to think whose door I could knock on to ask somebody to come with me and look for you. Then I heard the man next door swearing about the coal shovel he’d dropped and I went back and put your bowl on the stove.”
 
-“We should have talked about it,” she says. “I want to be able to tell you how it is when I get out. I know I might die in there. I’ve been seeing it both ways all week.”
+I remember picking up that bowl with my sleeves pulled over my hands because she’d kept it so hot. Rissa looks straight at me now. “Afterwards I kept putting you in my place,” she says. “Going round all the houses asking if they’d seen me. That’s why I wanted you here with me tonight.”
 
 “When I call from the bar I can see your hands. I can see where they’re going to be. I’m so sure of what’ll happen to them I call before they’re ready. It’s taken me years to get that word into your feet. I can’t say it while you’re standing in there. I’ll stay here with you and you can tell me what you like when you come out. I can give that much.”
 
-Rissa gets in and stands with her arms at her sides. Her left foot is a little ahead of her right, the way she stands with the bar in hand at the edge of the board. I try to think of something I can look at in the yard that will give me the time till she reaches for the door. The man with the boards has made a stack twice as high as his doorstep. He bends to get an arm under the whole load. By the time he’s drawn himself up Rissa has stepped down again. She stands next to me and we watch him take the boards in. He gets the longest ones through by going sideways. We could be waiting for him to come back and give us the road. I’d like it if he did. I could get Rissa as far as the gate with me.
+Rissa gets in and stands with her arms at her sides. Her left foot is a little ahead of her right, the way she stands with the bar in hand at the edge of the board. I try to think of something I can look at in the yard that will give me the time till she reaches for the door. The man with the boards has made a stack twice as high as his doorstep. He bends to get an arm under the whole load. By the time he’s drawn himself up Rissa has stepped down again. She stands next to me and we watch him take the boards in. He gets the longest ones through by going sideways. I turn a little toward the gate so she can walk next to me.
 
 “I wish you’d had me up on the landing when you called it,” she says. “One step up and I could have put my head on your belly just as I used to when you got big enough to go up the ladder before me. I’d have stayed till you told me to move.”
 
@@ -88,9 +90,9 @@ The line goes out. I’m holding my own wrists very hard. I have to uncross my a
 
 When I look out the woman from the bakehouse has caught hold of her shutter. She pulls it in and comes across the yard with a cloth folded four ways. She kneels down at the doorway to unfold it. I reach for an end and get it wrong and pull where she means to let it open, and for a moment we’re both working against each other.
 
-“That’s it,” the baker says when I let go. “Istrid. Shall I stay here with you?”
+“Give me this corner,” the baker says, putting her hand above mine. I let her have it and she gets the cloth open. “Istrid. Shall I stay here with you?”
 
-I give her some room beside me. Rissa is dead. I still find myself looking out across the yard to see if the sound has brought her running out of one of the shops. In a little while the man comes back out to get the two boards he left by the step. He puts his hands up on the jambs of his door and looks across at us.
+I give her some room beside me. Rissa is dead. I still find myself looking out across the yard to see if the sound has brought Rissa running out of one of the shops. In a little while the man comes back out to get the two boards he left by the step. He puts his hands up on the jambs of his door and looks across at us.
 
 * * *
 
@@ -102,19 +104,19 @@ Five weeks later I make a catch that pleases me so much I laugh just as the weig
 
 I get as far as my knees to look at her. “The first time we do it I’ll say it twice. Once when you’re in my hands and once when I let you go.”
 
-“That’s a lot to say when you could come over for supper and try it on me with both our feet on the floor. My sister made so many dumplings she’s put a plate out on the step to cool.”
+“Come up the hill and eat with us. My sister made so many dumplings she’s put a plate out on the step to cool.”
 
 The invitation puts me in mind of the bench by her stove, where they give you a cushion to tuck between your shoulders and the hot pipe along the wall. I can sit against it till I’m warm. I want to tell her sister how near we were to getting that catch wrong last week and how well we did it today, as I’ve hardly got a word out of her about it here.
 
 “I’ll be a little while,” I say. “Go on ahead.”
 
-She puts on her great loose coat and goes. I get my own coat from the hook by the ladder. There are still the outlines of houses on the hill beyond the gate and there’s the first pale light in the upper bakehouse window. I’ve got every reason to walk up that hill. I want tomorrow at the rig with the two of us finding out if I can put her where she needs to go to get hold of her own bar, and her wanting me to try again if I get it wrong. I thought one good catch together would put everything I want right here in the yard for a while. I lay in the net just now with the notion that I could go straight up out of it.
+She puts on her great loose coat and goes. I get my own coat from the hook by the ladder. There are still the outlines of houses on the hill beyond the gate and there’s the first pale light in the upper bakehouse window. I want tomorrow at the rig with the two of us finding out if I can put her where she needs to go to get hold of her own bar, and her wanting me to try again if I get it wrong. I thought one good catch together would put everything I want right here in the yard for a while. I lay in the net just now with the notion that I could go straight up out of it.
 
 I walk out from under the net and ask for The Box. It stands in front of me with its door open as if I’ve walked up to it. When I step in I have a view of the yard gate and a little of the hill. The two flat boards on the gate lean away from each other above the latch and the light on the hill shows between them. A boy passes the gate at a run with enough time between his steps that it sounds as though he’s taking deliberate care where he runs. He’s going the way I would go.
 
 I put my hand on the inside of the door. There’s a hollow there the right size for four fingers, the sort of place the man working across the yard would rub back with sandpaper till it felt good to reach for the handle in the dark. If I let my hand fall, I can still get to supper in time to eat with everybody. I can almost smell the onion in the steam as they take the lid off the pot. My shoulders loosen in advance of the heat of the stove. I’d walk into the yard again tomorrow and there would come that one look at the copper roof on the way back to the catch.
 
-In another five weeks a man might be up there shovelling off the snow. He’d stop every once in a while to look out and decide if it was going to snow again, and I’d want to be up there long enough to see what he was looking at. I’d want to stay as long as I could stand it and then go higher. I have the same chance now that I had last time I stood here and that Rissa had when she let go of my hand. I still want supper up the hill. If the door opens and I can walk out of it, I want to go there as glad as I’ll be and tell them everything I’ve seen.
+In another five weeks a man might be up there shovelling off the snow. He’d stop every once in a while to look out and decide if it was going to snow again, and I’d want to be up there long enough to see what he was looking at. I’d want to stay as long as I could stand it and then go higher. I still want supper up the hill. If the door opens and I can walk out of it, I want to go there as glad as I’ll be and tell them everything I’ve seen.
 
 It takes hardly any strength to pull it shut. I keep my hand on it for a little while in the dark, and then I know I’ve left it on there so I can feel the heat come. I take two breaths and I can hear that the second one is longer. I think the sound could start so softly I’d draw another breath without knowing it. I do draw another one, just so it can be over.
 
