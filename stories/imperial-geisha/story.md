@@ -108,7 +108,7 @@ Tsune drew her folded coat in to make room beside her. “Come and sit here, Ior
 
 “Would you tell me what for before I go up? The man in Father’s room sent me for a blanket. When I came back with it he took it in, and then a woman came out and handed it back to me. I had to go right across the palace twice for nothing.”
 
-I could still make a word like *nobody* sound soft in my mouth and persuade the child to go up to Tsune as if there were only the business of her shoes left to settle. My sister was waiting with both palms flat on her knees, the way she did when there was to be no audience. I could have brought Iori straight into those hands.
+I knew how to send Iori up to sit beside Tsune in the same voice I’d used to tell her to bring her toe back to the mark. My sister was waiting with both palms flat on her knees, the way she did when there was to be no audience. I could have brought Iori straight into those hands.
 
 “Tsune came down to kill you,” I said. Iori’s fingers came open against mine, and I went on because I had heard people try to make things clear for her all day by stopping in the middle of what they had to say. “I came back for you because I want to take you upstairs and say who you are, so the samurai will come and stand around you.”
 
@@ -124,7 +124,7 @@ Tsune’s own coat was white that winter, and by the time she got home it was we
 
 “I’d see you, Naho,” said Tsune. “You wouldn’t have to look for me.”
 
-I had expected her to give me a way out of this as well. She could still do what she’d offered. If I handed her the girl, tomorrow Fusa would be at her stall. I could take her the black shoes to have the backs let out. There would be no one to put them on. There was a relief in the thought of how much of the morning I could get through before I came to that fact again. I looked up at the steps and at Tsune’s two hands. She would have the body carried quietly after the vigil. I could tell people Iori had slept right through her father’s bells. People would come up to me in the street and put both their hands over one of mine.
+I was still waiting for Tsune to make the choice easier. She could still do what she’d offered. If I handed her the girl, tomorrow Fusa would be at her stall. I could take her the black shoes to have the backs let out. There would be no one to put them on. There was a relief in the thought of how much of the morning I could get through before I came to that fact again. I looked up at the steps and at Tsune’s two hands. She would have the body carried quietly after the vigil. I could tell people Iori had slept right through her father’s bells. People would come up to me in the street and put both their hands over one of mine.
 
 “If I stood out where you showed me, could they see my feet?” Iori had let go of my hand. She put one shoe down flat and the other at an angle so wide we would have stopped a rehearsal. The shoe with the loose buckle started to slip off and she held it there with her toes. “I can stay there if I have to. Can I keep my feet like they are right now?”
 
