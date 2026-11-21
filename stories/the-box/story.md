@@ -44,7 +44,7 @@ Sefra turned up the radio. Two drivers came round the end of the conveyor to lis
 
 The traffic office would have been Temra’s at seven the next morning. In her head she’d put her old chair against the window and brought in a clean mug from home, one with the handle still on. She could go over and eat an apple and ask Varet what the pay was. She’d had the chance to ask him all afternoon. As she walked across she was still trying to fit Sefra’s boy onto a lift already full of people she’d promised would get home at six. She asked Varet what he’d take for the hall.
 
-He put the apple down. “The office is yours, Temra. A proper wage for everybody who takes a job up there. Go and look at the place we have ready before you move anything.”
+He put the apple down. “The office is yours, Temra. A proper wage for everybody who takes a job up there. Go look at our berth above Lipstone before you move the hall.”
 
 Sefra came up behind Temra. “When my boy comes here with dinner, will there be a place on the lift for him?”
 
@@ -74,7 +74,7 @@ The frost in Shale Crown had whitened Davra’s steps, and cold came through Iva
 
 Davra’s husband Ferren had come up behind her with his coat open. He was looking at his end of the house, where the window was small and the snow had caught in the gutter.
 
-“We have our ride to the headland,” he said. “I want to go into the Box first.”
+“We have our ride to Kelm,” he said. “I want to go into the Box first.”
 
 Davra lowered her arm and looked at the neighbor’s board. He and his brother had got their own houses up first. That was his board to get from one house to the other, and he’d agreed to bring Davra and her husband along with their house when he went. Ivari had seen him take hold on the first lift and ask them to move the plates toward the middle. He could feel the weight go over.
 
@@ -100,7 +100,7 @@ Ivari stood with her laces done up and nothing to do with her hands. She watched
 
 “Come with me when I take the house,” he said. “Pick a place and I’ll put you down there.”
 
-“You’ll have to go down again for your brother, and there I’ll be.” Davra looked up at the kitchen door. “Set the house on its steps. I want to walk up to it. I’d like to go in the back without anybody seeing I’ve gone in.”
+“You’ll have to go down again for your brother, and I’ll be up in the kitchen waiting on you.” Davra looked up at the kitchen door. “Set the house on its steps. I want to walk up to it. I’d like to go in the back without anybody seeing I’ve gone in.”
 
 Ivari could see the narrow part of the lane, the way between the empty steps and Davra’s sister’s back window. In winter they shoveled that part first because a person had to be able to get from their door to somebody else’s. Ivari had been thinking in houses ever since the first one went up. She’d left room on the back of her list to say who was flying in which house.
 
@@ -180,11 +180,11 @@ Sali took hold of the rail at the start of the ramp. Mevrit remembered how the s
 
 “If you go in, I’ll stay where you can see me. I’ll have to hold on to something myself till that door comes open.” Mevrit tried to say the rest looking straight at her. “What would you want to lift first if you came out with it?”
 
-“Bring the pears up at four,” Sali said. “Carry the empty crates home afterward even when you’re gone. I went round to get you last week when you said you’d take me over to the other island. Your shoes were outside and I thought you’d left them there for me to see. I waited on the step till it started to rain and found out you’d flown a chair straight out of the window without putting shoes on.”
+“I’d take my pears up at four every morning,” Sali said. “I’d bring the empty crates home even when you’re gone. I went round to get you last week when you said you’d take me over to the other island. Your shoes were outside and I thought you’d left them there for me to see. I waited on the step till it started to rain and found out you’d flown a chair straight out of the window without putting shoes on.”
 
 “That woman needed the chair.”
 
-“I know. I had somebody waiting for me, too.” Sali glanced over at the awning. “You do a lot for me. You say you will, and then there’s a great deal of waiting.”
+“I know. Somebody on the other island was waiting for me, too.” Sali glanced over at the awning. “You do a lot for me. You say you will, and then there’s a great deal of waiting.”
 
 A line of drops fell off the outer lip of the door. From inside came the slight metallic hum Mevrit knew in her hands. Under the running rain the four steps between them and the old market were black, the same steps she’d been going up and down with crates since she was big enough to turn one over on her own. Her aunt had needed them to sit on near the end, to get her breath when she came out to inspect the stall. If the shelf met the landing level on the other side, Sali could come along it in the dark, before anyone else was up.
 
@@ -222,7 +222,7 @@ The upper exchange sent down its own lift for the Lipstone crew. Its pilot, a ma
 
 Temra turned the list of names over in her hands. “I haven’t got money to promise you. I sold my shares for the hall. I can put in a shift on the door here myself. If you want your place on that lift, take it. You can still come in our side door whenever you’re down.”
 
-The pilot from the exchange said he could get work for anyone who could help raise the next stands for the market. Two of the hall crew went aboard, their jackets still rolled up at the wrists for taking hold. The man who’d spoken about his boys stayed on the step until Sefra moved her bag clear. Then he went aboard and sat down by the man in the white coat.
+The pilot from the exchange said he could get work for anyone who could help raise the next stands for the market. Two of the hall crew went aboard, their jackets still rolled up at the wrists for taking hold. The man who’d spoken about his boys waited while Sefra took her bag off the exchange lift and set it beside her on the step. Then he went aboard and sat down by the man in the white coat.
 
 Sefra came over far enough to see the new shelf past the Box. “Set the wired door here,” she told Temra. “Let whoever needs to knock get to the pane.” One of the women from the hall had set her bag in a place on the exchange lift. She reached over the rail to get it back and laid it beside Sefra’s on the step. Then the man in the white coat put his hands to the rail and took the three of them up through the cloud.
 
