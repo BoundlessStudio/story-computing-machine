@@ -8,13 +8,13 @@ Mr. Auden had somehow mislaid nine of his steps. *Five steps to the street, Dena
 
 Dena typed in one hundred and eighty, then deleted it. The queue moved, and Bess caught her at the elbow before she walked into a stanchion. Rain broke on the concrete beside her boot and ran along the yellow stripe where they'd once towed planes in. At the end of the stripe stood the Box. Its grey iron door came up about as high as one of their long piano boards stood on end. Garth might have to duck.
 
-“Dena. That woman over by the guard.”
+“Dena,” Bess said. “That woman over by the guard.”
 
 The woman had just come out of the Box. She was pinching at the cuff of her coat, which was brown with a print of green leaves. One of the leaves came up between her fingers with a stem on it. She let go. It stayed upright. Bess got an arm through the rail to point, and Dena pulled her back by the belt. The guard had already told somebody twice to keep their arms on this side.
 
 “If I get that,” Bess said, “I'd like it to work on the drawing of an orange, so I'd have an orange to eat while I tried the drawing of a horse.”
 
-Dena got as far as thinking where a horse would fit, with the shoe rack out of the hall, before the phone buzzed. *My new mover can send it straight out of the house with the doors shut, right into the music room at Firth Road. He'll do it for a hundred and forty.* Forty less than Dena had nearly asked. That was what they set aside for Garth's van before any of them put a hand on a piano. She looked down the stripe at the Box. Whatever it had given Auden's new mover, he could do that job without a van. It was good of Auden to remember her number after eight years of Friday deliveries. This was the first job he'd sent her in a month.
+Dena got as far as thinking where a horse would fit, with the shoe rack out of the hall, before the phone buzzed. *My new mover can send it straight out of the house with the doors shut, right into the music room at Firth Road. He'll do it for a hundred and forty.* Forty less than Dena had nearly asked. That was what they set aside for Garth's van before any of them put a hand on a piano. She looked down the stripe at the Box. Whatever it had given Auden's new mover, he could do that job without a van. Auden had rung her with pianos to move every Friday for eight years. It was good of him to remember her number after a month, even if it was only to ask her to match a price.
 
 The man in front of Dena took his coat from a woman on the far side of the rail. He worked one arm into it. “Which of you is going?”
 
@@ -78,7 +78,7 @@ Dena had the keys in her fist and could feel the little peg for the garage stick
 
 Bess pressed flat a corner of her slip. “I'd take you up on the lift. And I'd take you up on the money. Even if all the work came back I'd still want a turn. I've seen a green leaf come out of a woman's coat. Think of growing a whole row of them out of the wallpaper in that room. I'd do it all afternoon, Dena. I think if we get back to the van I'll be pulling out my phone to see when I can get another number.”
 
-“On the way here I kept waiting for you to say we'd all three be coming home,” Dena said. “I could see us getting back in the van. You saying it was my turn in the middle.”
+“On the way here I kept waiting for you to say we'd all three be coming home,” Dena said. “I could see us getting back in the van. You saying it was my turn to sit in the middle.”
 
 At the head of the queue the attendant swung open the low gate and read Dena's number. People who'd been whispering began to talk again. The attendant read the number a second time. The man who'd put his coat back on looked from Dena to Bess, and she remembered having given him three people to watch for. She left Bess at the bend and stepped up to the gate with her slip. Just beyond the attendant's shoes was the yellow stripe.
 
