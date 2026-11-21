@@ -13,3 +13,9 @@ None supplied.
 ## Audience and content
 
 No audience, length, or intensity was specified. General is the starting target; the finished prose and cover will receive a reviewed AO3 rating. The request calls for joy, shared learning, multiplying magic, ancient forces, and danger in a seaside town.
+
+## Later user direction — 2026-11-20
+
+remove the image "Hetts Shop And Upper Room" from the system.
+
+Scope clarification: Website, source, and hosted copy.
