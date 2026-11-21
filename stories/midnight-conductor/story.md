@@ -6,9 +6,9 @@ canon: false
 
 # No Room for Banners
 
-The man across the aisle has two minutes to midnight on his watch. When he puts his hand up to the bell, the flour in the fold of his sleeve dusts the face. Mette keeps her eyes there through the long breath in her headphones. A pause follows, wide enough for her to say good morning.
+The man across the aisle has two minutes to midnight on his watch. When he puts his hand up to the bell, the flour in the fold of his sleeve dusts the watch face. Mette keeps her eyes there. In her headphones Delys’s recording begins with a long breath. A pause follows, wide enough for Mette to say good morning.
 
-Delys has sent her a recording of their history talk, including the gaps for Mette’s parts. Once Delys gets to the year the Crookwall bakery put in its first electric oven, she can give you every fact about that oven without drawing breath. Introductions are harder. Mette promised to take the first line in the exam tomorrow. She has started saying it under her breath as she walks to school and sometimes people on the pavement say good morning back.
+It’s their history talk, including the gaps for Mette’s parts. Once Delys gets to the year the Crookwall bakery put in its first electric oven, she can give you every fact about that oven without drawing breath. Introductions are harder. Mette promised to take the first line in the exam tomorrow. She has started saying it under her breath as she walks to school and sometimes people on the pavement say good morning back.
 
 The man leans over to look at the school badge on her black blazer. “Have you overshot?”
 
@@ -24,9 +24,11 @@ She watches him cross under the red bakery sign and put a shoulder to the steel 
 
 Mette has heard that every time the rain’s been heavy enough. She goes up by Enid to watch the far lane out of Crookwall. They won’t know which road they’re getting till the turn of the clock.
 
-The dashboard clock hits twelve. Where the first white line of the freight bypass ought to be, the headlamps pick up the underside of a shop sign, and before Mette can read it the bus dips into the dark and comes up sending a wingspan of water out over the paving stones. Another bus, a number 17 with someone standing in the same place in it as Mette is standing now, takes the turning over their heads. The street climbs through the open air to a court with one huge lamp on each corner. A god in the court has a face for every lamp. One face turns down to watch the 17 as it goes by. The rain that fills the space below the 17’s wheels sounds deep enough to swim in.
+The dashboard clock hits twelve. Where the first white line of the freight bypass ought to be, the headlamps pick up the underside of a shop sign, and before Mette can read it the bus dips into the dark and comes up sending a wingspan of water out over the paving stones.
 
-On the far side of that turning Mette can just see the glass roof of the High Exchange, with enough lights under it for a whole town to wait there. Two people are standing at the edge of the platform. She always watches one or two people raise a hand when the 17 goes past, and waits in case it does something she hasn’t thought of and goes across for them. There’s no road the last of the way. At the bottom of her list she’s written *High Exchange* and left the rest of the paper blank for the stops they might ask her for.
+Another bus, a number 17 with someone standing in the same place in it as Mette is standing now, takes the turning over their heads. Its rear lights cross the top of the windscreen and climb toward a court with one huge lamp on each corner. A god in the court has a face for every lamp. One face turns down to watch the 17 as it goes by. The rain that fills the space below the 17’s wheels sounds deep enough to swim in.
+
+On the far side of that turning Mette can just see the glass roof of the High Exchange, with enough lights under it for a whole town to wait there. Two people are standing at the edge of the platform. One sets a bag down to wave as the 17 goes past. Mette watches the bus take the road up to the court as it always does. There’s no road the last of the way to the Exchange. At the bottom of her list she’s written *High Exchange* and left the rest of the paper blank for the stops they might ask her for.
 
 A woman in blue flags them down at the crossroads. She’s waiting in the light from the one shop with a lit sign, an ironmonger’s with a brass goat in the window. Mette rings and Enid lets the woman in out of the rain.
 
@@ -40,11 +42,11 @@ Mette lays a hand on the rail beside hers. “Old Tile Shelter. Stay there till 
 
 The door would open on a gully if the driver let her down now. Mette walks to the rear window and lets them draw level with the tile roof. Then she rings. The woman takes the same step out she would have taken any day of the week when she was alive. There’s a blue smear on the tiles above the bench where she used to rest her elbow, and she bends to look for it.
 
-Six passengers who have been waiting together in the lee of the shelter need the bus. A man with a long shiny mark where a carrying strap used to ride his coat counts them in, himself last. He looks at Mette’s ears, which are still turned to check that the woman in blue has found her bench.
+Six passengers who have been waiting together in the lee of the shelter need the bus. A man with a carrying strap over one shoulder counts them in, himself last. The strap has worn a long shiny mark into his coat. He looks at Mette’s ears, which are still turned to check that the woman in blue has found her bench.
 
 “Tallow Yard,” he says. “We followed the old factory wall last time and it brought us back here. There’s a boy who’s gone all the way round twice.” He touches a child on the shoulder as he says it, lightly enough that the child doesn’t have to look up.
 
-Mette has heard of Tallow Yard. In the city they took it out to make room for the freight bypass, a gray braid on every map she’s checked. She thinks she can get to the old yard from the road by the Marshal’s court. The city gave up the Marshal’s feast long before Mette was born. In school there’s a picture of the feast day so you can see what the hill used to look like between the banners. On these nights the Marshal can still raise the streets she used to lead her march along. Mette’s come to ask her to lay a road the last of the way to the Exchange.
+On every map Mette’s checked, the freight bypass takes up the whole place where Tallow Yard was. The old way there goes by the Marshal’s court. At school there’s a picture of the feast day so you can see what the hill used to look like between the banners. The feast is gone, and on nights like this Mette has seen the Marshal lift the streets she used to march down. That’s who she’s come to ask about a road to the Exchange.
 
 “Take a seat. We’ll be passing the court.”
 
@@ -68,21 +70,21 @@ A woman walks uphill on Enid’s side. The hard taps of her soles come in throug
 
 “Conductor,” says the Marshal. Her coat has a deep square fold where a sash used to cross it. Water runs down her arm. “I wondered when you’d be bringing me a company.”
 
-Rella gets up. One end of his strap has worked out from under him. “We’re for the yard.”
+Rella steps out from the rail. His strap slips to his elbow. “We’re for the yard.”
 
 “You’ll have a place at the front. There’ll be people who need someone to show them where to stand. I used to have a woman with a sore hip who took the first call from a chair. Three streets over, little children still knew it was her before they could see the first lamp.” The Marshal has been looking at Rella until she says this. Now she looks up at Mette. “You’d do for her chair. Bring everybody up in the bus and call them down at my door. Once I’ve heard you make that call, I’ll lay you a road to any stop you choose. I’ll do it tonight.”
 
 From the front of the bus Mette can still see the gap she’s tried to draw a road across. She points up at the glass roof with the corner of the list.
 
-“There are three big glass boards under that roof,” she says. She was going to begin with the people she sees waving. She can hear herself carry on about how many buses used to fit at the platform, the bits she could tell anybody. The Marshal is waiting. Mette puts the list away. “Even the High Exchange?”
+“There are three big glass boards under that roof,” she says. She was going to begin with the people she sees waving. The Marshal is waiting and Mette puts the list away. “Even the High Exchange? There are two people up there now. Somebody’s waiting every time we come through.”
 
-“You could bring them all down on your next trip,” says the Marshal, with her arm along the sill of Enid’s window. “It’ll be your road and your stops.”
+“You could take the bus up for those people on your next trip,” says the Marshal, with her arm along the sill of Enid’s window. “It’ll be your road and your stops.”
 
 “Would I have a lamp of my own?” the boy says. He has his face down by the corner of the glass, where the tall lamps inside the court grow eyes in the rain.
 
 “Every child gets a lantern. You can light yours from somebody else’s while you learn where to walk.” The Marshal sets her hand on the edge of the open window. The wheels start rolling again.
 
-“See if the old shutter is banging,” Rella says to Mette. He has a fist around the rail where she’d been standing. He glances toward the boy, who still has his head at the window, before he goes on. “When the procession took the street we’d go home round the back of the yard. There’d always be some boxes left to carry. We’d lift the last of them up to the gallery by the shutter and pull out a plank to sit on when we were done. You could hear the door banging against its staple the whole time in a wind. Just the two knocks. Let us off by that shutter and we can go down through the yard and out the back, same as we used to. Your driver can leave us at the sill.”
+“See if the old shutter is banging,” Rella says to Mette. He takes hold of the rail beside him. He glances toward the boy, who still has his head at the window, before he goes on. “When the procession took the street we’d go home round the back of the yard. There’d always be some boxes left to carry. We’d lift the last of them up to the gallery by the shutter and pull out a plank to sit on when we were done. You could hear the door banging against its staple the whole time in a wind. Just the two knocks. Let us off by that shutter and we can go down through the yard and out the back, same as we used to. Your driver can leave us at the sill.”
 
 Enid’s fingers tighten on the wheel. “I can still take the lane toward home,” she says. “If we go now.”
 
@@ -90,11 +92,11 @@ Now the rain has the sound of dry peas bouncing on the roof. The thinner streaks
 
 Two knocks come through the window above the front door. Mette listens with her head tilted, hair sliding along her collar. The next knocks are a little farther back. She goes to the door and cups her hands against the glass. A few feet up the whitewashed wall there’s a shutter lifting an inch or two in the wind. Three white hooks stand out along the brick sill below it.
 
-“Can you put us alongside that shutter?” Mette keeps her hand against the window. “That’s the yard right there.”
+Mette keeps her hand against the glass and catches the Marshal’s eye across the aisle. “Can you put us alongside that shutter? That’s the yard right there.”
 
 “Nobody ever wanted to stay in the loading yard,” says the Marshal. “That’s a place you hurry through with the things you’re bringing to somebody. Let me take you up to the court, conductor. I’ve got the street all the way to my door.”
 
-The boy kneels up on the seat. Mette turns from the shutter to face the Marshal across the bus. “Keep the road to the Exchange, then. I’ve got a stop to call here.”
+The boy kneels up on the seat. Across the old gap the woman at the Exchange is still there. She’s got the bag in both hands now. Mette turns to face the Marshal. “Keep the road to the Exchange, then. I’ve got a stop to call here.”
 
 She presses the bell. “Tallow Yard. We can get you to the gallery.”
 
@@ -102,9 +104,9 @@ At the sound of the bell the Marshal raises a hand toward her court, and the str
 
 “Give me the back door,” she says to Enid. “Roll forward slow till I tell you.”
 
-Enid looks down the aisle at her. Ahead of the bus the white stripe is coming clear where it divides at the end of the wall. Enid takes her hand off the door switch and lets the bus roll another yard, then another. Mette goes down to the rear doors and rings when the three hooks are just outside the glass. They’re two handspans from the rubber edge when the bus comes to rest. Enid opens up.
+Enid looks down the aisle at her. Ahead of the bus the white stripe is coming clear where it divides at the end of the wall. Enid lets the bus roll another yard, then another. Mette goes down to the rear doors and rings when the three hooks are just outside the glass. They’re two handspans from the rubber edge when the bus comes to rest. Enid opens up.
 
-The gallery feels a long way from the aisle until Mette puts her shoe on it. She takes a whole breath there. The floor of the bus is shivering under the foot she still has to bring over. The bricks under her other foot hold. She swings her tail clear of the doors and puts a hand on the shutter, where the place to push is marked by a wide flat thumbprint in dried tallow. The shutter gives. She has to step through to keep it from blowing shut, and the wind on her face smells of hot candles.
+The gallery feels a long way from the aisle until Mette puts her shoe on it. She takes a whole breath there. The floor of the bus is shivering under the foot she still has to bring over. The bricks under her other foot hold. She swings her tail clear of the doors and puts a hand on the shutter, where the place to push is marked by a wide flat thumbprint in dried tallow. The shutter gives. She leans it back against the wall and comes out onto the sill again. The wind on her face smells of hot candles.
 
 “Here’s the step.” She frees the red bow from her collar and winds an end of it round the white hook at the opening. The whole piece of road under the bus is sliding toward the court. A passenger puts the toe of his boot past the edge of the doorway and then takes it back. “Look at the red. There’s room to stand. Rella, you know this place.”
 
@@ -118,13 +120,13 @@ The front doors are well above the gallery now, but the Marshal is still out the
 
 “You can ask the driver. Or we could look through the yard together. I’ve never seen inside it either.”
 
-The boy studies her. She could make it back to the bus from here if she jumps now. At the end of the green bench the little silver circle on a headphone catches the light. She thinks of Delys on the recording, taking that breath and leaving it there for her. They’d arranged to go over it one last time in the hall before the exam. Her partner will be leaning there against the cold part of the wall where the plaster has come off, holding the notes out so there’ll be room to read over her shoulder. Delys could give the whole talk once she’s got started. Mette tries to hear her saying good morning to the examiners on her own.
+The boy studies her. The edge of the bus door is sliding past the last white hook. At the end of the green bench the little silver circle on a headphone catches the light. She thinks of Delys on the recording, taking that breath and leaving it there for her. They’d arranged to go over it one last time in the hall before the exam. Her partner will be leaning there against the cold part of the wall where the plaster has come off, holding the notes out so there’ll be room to read over her shoulder. Delys could give the whole talk once she’s got started. Mette tries to hear her saying good morning to the examiners on her own.
 
 “I’d like to see where Rella sat,” the boy says. “Could you hold my hand over the bit with nothing?”
 
-Mette sets a foot by the bow. She can feel both steps in her legs, back to the bench and forward into the boy’s weight. She braces her knee against the sill and reaches. The boy springs too soon and for a little of the reach there’s only the cuff of his sleeve in her fingers. Then he has two feet on the bricks and a hand planted in the middle of her blazer.
+Mette sets a foot at the outer edge of the sill. It’s still close enough to the doors that she could spring straight into the aisle. She can feel both steps in her legs, back to the bench and forward into the boy’s weight. She braces her knee against the sill and reaches. The boy springs too soon and for a little of the reach there’s only the cuff of his sleeve in her fingers. Then he has two feet on the bricks and a hand planted in the middle of her blazer.
 
-Mette leans out. “Take that stripe where it splits. I’ll be here.”
+She slips her free hand into the one he has on her blazer. As she feels his fingers close, she leans out toward Enid. “Take that stripe where it splits. I’ll be here.”
 
 Enid turns in her seat and lifts an open hand where Mette can see it past the stanchions. “I’ll have your headphones with me when you come back,” she says.
 
@@ -136,7 +138,7 @@ There’ll be all kinds of rain in Crookwall before another bus comes through.
 
 Water is seeping down the back of her collar. She lifts her chin and sees the glass roof of the Exchange. Its lamps reach the very edge of the platform. From there to the end of the street is a clear stretch of dark.
 
-The boy is standing where she set him down. With the shutter open there’s a little light from a lantern stub stuck right into a crack in the wall. She takes her bow off the hook. It sags from her hand with the weight of water in it. The boy puts out his hand again, and they go down the gallery into the yard.
+The boy is waiting at her elbow. With the shutter open there’s a little light from a lantern stub stuck right into a crack in the wall. She takes her bow off the hook. It sags from her hand with the weight of water in it. They go down the gallery into the yard.
 
 Rella has the edge of a plank in his fingers. He’s found it on a ledge under the wall by sliding his hand along through a brittle run of old white spills. He lifts it out, clears the two blocks where the porters used to set it and puts it down across them. The first creak of it under his weight makes him laugh. There are people waiting at the far gate and he keeps his seat. He has taken his strap off and put it beside him with the worn side up.
 
