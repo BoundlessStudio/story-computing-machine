@@ -6,172 +6,202 @@ canon: false
 
 # The World at One Step
 
-The first freighter out of Lipstone lifted at four with a hundred and sixteen Boxes in its hold. Its shadow came through the open freight doors and moved across the people waiting to get into one. Temra Vosen knew the shadow had reached the end of the chalk line at the public ramp because a woman in a pale coat took her hand down from her eyes. She looked at the floor and moved up the length of one shoe.
+Six weeks after the Boxes opened, there were enough buildings above Lipstone to put the freight hall in shadow before the end of a shift. The hotel went up that afternoon with its washing still out. A sheet came free as it crossed the apron, and Temra Vosen watched it fall the length of the building and go on falling until a driver got up on his truck to catch it. The doorman called down to thank him. He had to call twice.
 
-An alarm rang at the far end of the rollers. A driver had a load in the air with the green net drawn tight into the corners of the crates, and the forks were taking more weight on one side. Temra waved her down, and all along the rollers the other loads stopped. In the sudden slow air she could smell the hot paint on the top of the cases. Each tag gave the arrival hour by the clock at the other end. On Shale Crown’s clock the first arrival would be at breakfast the next day. The crew at Rendar would be unloading at midnight. The longest list on the load was the list of places one pallet would have to stop on its way to Kelm Quay.
+The owners had offered Temra the highest office in Lipstone at a time when you could put a number on what that meant. They had sent her a plan of the hall at its proposed new height, with her desk marked in the corner and the people waiting at ground level drawn in pale ink. She’d unfolded it so often that the paper had gone soft at the crease. By Thursday the people at the bottom of the building had rubbed right off.
 
-Olek came round the end of the rollers in the rust-coloured shirt he wore whenever he expected to go up with a load. The yellow Kelm tag dangled from his fist.
+“Have you got a minute before you go up?” said the woman with the blue repair on her glove.
 
-“Were you going to put that on?” she said.
+Temra had been waiting all week for a chance to say how much she could do for the crew from that office. She got through the first two things before she saw that Sefra had set her locker key on the back of her bare hand.
 
-“Before I do, come and stand over here a minute.”
+“My boy comes to the side door on Thursdays,” Sefra said. “He brings enough dinner for both of us if I’ve had to stay. I told him which pane to knock on because it’s got a wire loose in the glass. Will there be a door he can get to when the hall goes up?”
 
-He went across to the public ramp. The nearest Box was out of its crate and standing by itself with the door open. It had the same steel casing with sunken holes for lifting as the ones under the net, and the same oval of white light over a seat. There were three handprints on the inside where someone had been in and come out again. Temra thought she could guess how each print had come to be there, two on the side near the door and the third in the middle of the back wall, high enough that a person would have to raise a hand in front of their own face.
+“They’re going to run a lift from the street.”
 
-Two hours earlier Temra had heard the cooperative’s opening announcement in nineteen languages as the first installed Boxes came on across the continents. The same words were packed with every unit she’d shipped and printed here on the ramp. Anyone could enter. There was no charge. With the door shut you had one chance in two of coming out a magic user, and one in two of burning to death inside. Your chances were the same no matter what had happened to the person before you. The woman in the pale coat read the whole of it again from the head of the ramp and stepped out of the line.
+“Will you come to the door yourself every Thursday and tell the pilot to put my boy on with his dinner? I’m trying to think how many people you can do that for before he starts selling those places.”
 
-“I want you here while I try it,” Olek said.
+Sefra turned her hand over. The green key stayed in the air where she’d left it. She put her glove back on, pulling it tight at the wrist with her teeth.
 
-Temra put her hand out for the tag. Olek kept his thumb on the clip after hers had reached it.
+Beyond them, the old freight radio was selling places by the seat. A pilot in the islands had four left to the market above her own capital. At Rendar it was already dark and the last ride to the hanging terraces cost twice what they’d asked in daylight. The owners of the Lipstone hall had put a curtained booth beside the apron for their first ticket seller. He was eating one of the small hard apples Temra used to take up with her on a long run.
 
-“My first foreign cargo was for Kelm,” he said. “Two days on the planes and I only got near enough to hand it to a man who could put it on a boat. He had a picture of the quay on his coffee cup. I begged to go with him. He said there was room for me or the freight. I sent the freight. All the people who came out alive at the trials could put two doors together if they took one end each. I’d like to find somebody to hold the other end so I can walk out onto the stones in that picture.”
+Past his booth stood the Box. One of its two wide copper bands had gone into shadow. The higher one ran round the graphite steel three storeys up and was still in the sun. The bands had come in on their sides, with a man standing upright in the middle of each to undo the ties. As fast as the factories made the parts, the planes and ships had sent them out. There were Boxes with the same white-lit recess in places Temra had only ever seen as the other end of a route.
 
-She’d put her relief down for six, so she’d have time to join this line before she went home. The roster didn’t say what for. With Olek beside the white-lit seat she found herself wishing for a load troublesome enough to keep the pair of them up by the rollers for the rest of the day.
+A man at the top of the low ramp changed his mind and made his way back down. With the door open he could take all the time he needed. The woman behind him held the rail until he had cleared it, then went up herself. She stopped inside with her right glove off and the left still on. She reached for the door. As she drew it shut, Temra heard the first low note of the motor go through the casing.
 
-“There’s a place in the back of a ferry next week if you want one,” she said.
+She’d been able to see a square of Olek’s red shirt until the last inch. Afterward there had been heat at the foot of the ramp where the air should have been cool. The whole world could walk up to any of these machines and get the same fifty-fifty chance, for free, every time the door shut. Olek had burned to death at this one. Temra had walked out of it alive. The first thing she’d done with her changed hands was pick up the back of her own truck, which had a loose bottle in it she could hear rolling away from her up the bed.
 
-“I want this first. Would you wait where I can see you?”
+The steel drew back. The woman came down holding the bare hand out in front of her. Halfway to the bottom she stopped. The glove she’d been carrying rose out of her palm, caught the air by one finger and slowly straightened. She walked the rest of the ramp with her palm under it, laughing in short bursts as if she were trying to get somebody a long way off to look before they missed it.
 
-She put the tag in her pocket and stayed at the foot of the ramp. She was used to watching cargo holds close and being able to say who would be there when they opened. Olek turned his head as far as he could to look at her, set both heels down inside the sill, and pulled the door across. As the door took the light away she lost a square of his shirt. A thin orange light came on along the bottom of the steel. Behind her the driver called out that the load was level and the rollers started up. She raised her right hand for everyone to stop. The load went on ringing over the rollers.
+On the freight radio somebody said, “Kelm Quay. Hello to any town with its feet off the ground. We’ve got room off the headland and we can see you coming a long way out. Call for Mevrit once you can see the island.”
 
-By the time it stopped there was nothing left to hear from the Box. The door slid back. The air above the sill shivered. Heat reached her face at the bottom of the ramp, and the smell of something burnt took the place of the hot paint.
+Temra knew Kelm by the road Olek had planned to take from the airstrip to the first place you could smell the sea. He’d made her sit down once and trace it with him. Sefra and two drivers were looking at her. Inside the hall the blue paint still smelled where they’d marked off lanes for the owners’ passengers. The foreman had put a line of chalk round the foundation for the lift. At the corners the chalk was already scuffed away by boots.
 
-Olek lay dead between the seat and the open door. She was still standing right where he’d asked her to stand. She kept thinking she had only to lower her hand for him to go ahead with everything he’d meant to do. Then there was somebody coming up on either side of her to get to him. One of the attendants touched her raised arm to get by. She had to make the hand come down an inch at a time.
+“We can take the hall with us,” Sefra said. “I’d like to find out where we’d put it if we could look first.”
 
-The woman who stayed at the head of the line while the attendants went in wore work gloves with a blue repair at one cuff. She pulled off the other glove with her teeth and waited there with one hand bare. Out on the apron the nearest plane had stopped short of the turn. One of Temra’s drivers came in and held out his headset. There was a pilot on the line whom Temra knew by voice. Temra watched the pilot start down the steps of the standing plane, a silver stripe high across her jacket.
+The traffic office would have been hers at seven the next morning. She could go over and eat an apple and ask the man in the booth what the pay was. She’d had the chance to ask him all afternoon. The drivers were calling to people along the rollers now, and she saw them leaving their trucks and coming round to the load-bearing walls. At the doorway she rolled back the striped cuffs of her jacket and put both palms flat on the steel.
 
-“The loader who’s meant to meet me at Rendar died in a Box,” the pilot was saying. “His wife’s on our channel. She’s trying to find out where they’ve taken him. I’m staying on the ground till I get word to her.”
-
-Another crew called from the end of the apron to say its unloaders were looking after two people who’d burned to death at their own receiving hall. The carrier’s dispatcher stood down every departure still on the ground until they could speak to the crews at both ends. Temra could hear the engines go down one after another. Then a bus driver sounded his horn by the ramp on his way to pick up another load of people. The public buses and ferries were still taking people for free to the installed Boxes. The Boxes in crates stayed on the rollers.
+The first thing she felt was the others taking hold. The wall took a little time to follow. A light cable pulled loose at the side door, and the rollers’ bell sounded with its last poor breath and went quiet. Still pressing her palms to the steel, Temra looked down through the wired glass. The driver on the apron was small enough now that it took him both hands to hold the sheet up to where she could see it. The Box stood clear on the ground beyond him, its second copper band coming back into full light as the shadow of the freight hall moved away.
 
 * * *
 
-By five the attendants had taken Olek through the door to the infirmary. With the engines stopped, Temra could hear her receiver rattling on a box of bolts at the loading table. The call was from Shale Crown. When Temra got it to her ear, Ivari asked if the flight had taken off. She had six tractors clearing the yard for the next morning’s load.
+At Shale Crown there’d been a frost overnight. It had whitened the three stone steps that used to lead to Davra’s house. The house was hanging forty feet above them now, with a ruffle of snow lifting and settling on the roof whenever the wind came up the lane.
 
-“The lift’s been withdrawn,” Temra said. “We have the freight on the floor. I haven’t got anybody who’ll fly it.”
+“You’ve still got your place if you want it,” the quarry buyer called to Davra from the turn. He had on good wool gloves with a leather palm, the sort Ivari wore when she had a reason to expect to stand in the cold for a long time. He’d brought the keys to the new houses, with a picture to show people what each would open. “I’ll show you the pictures again, if you like. The bedrooms are all the same size.”
 
-“I can keep our yard crew past the time we’re due to unload. Tell me when you think another plane could go.”
+“Let me show you ours,” Davra said. She put her head back and pointed up at her kitchen window. “We got up there yesterday and that was the first time I saw all the way to the birches while I was putting out plates.”
 
-Temra could see the flight envelope on the table, with a square waiting for her signature at this end and a square waiting for Ivari’s at the other.
+“If you mean to take it away, I can give you till noon.”
 
-“Olek died in The Box,” she said. “I stood there with him. I thought they’d stop the rollers for him. I thought when they stopped I’d hear him.”
+Davra’s husband had come up behind her with his coat open. He was looking at his end of the house, where the window was small and the snow had caught in the gutter.
 
-Ivari called away from the receiver for the drivers to finish clearing by the windbreak. When she spoke to Temra again, she was close enough that Temra could hear the breath before the words.
+“We have our ride to the headland,” he said. “I want to go into the Box first.”
 
-“I talked to Olek at the change of shift all week,” Ivari said. “He was coming with the Kelm pallet as far as Shale Crown. He asked if I’d come out to the apron so he could see who he’d been talking to. I was going to walk down with the first tractor. I’m sorry, Temra.”
+Davra lowered her arm. The brothers down the lane had raised their own houses first. One of them had raised Davra’s and was going to take the couple and their house along with him when he left. Ivari had seen that first lift. He’d had to ask them to move the kitchen things a little toward the middle because he could feel the weight go over as he took hold.
 
-Temra took the tag out of her pocket and set it on the table. “I meant to try it myself before I went home,” she said.
+“Where are you after going?” Davra asked her husband. “Somewhere he can’t take you?”
 
-“I tried it here at the head of the ramp. I’d got down on the seat with the door open and remembered there was a tractor I’d left unlocked. I thought if I could get out of there to lock it, by the time I came back there’d be someone else in my place, and I’d go round to where I could see them come out. I could do that all morning if anybody let me. I stayed on the seat. I put my thumb in the latch and thought of what I’d do if I never had to wait for a load of seed to come down out of a cloud again. And right up till the door opened I was thinking how glad I’d be to be back out here doing it the way I always had.”
+“I want to bring you up and down to the house myself,” he said. “I spent forty minutes down here last night waiting to get to my own bed. If I come out with it you can tell me what you want done with the house and have it done then and there. You could ask me to put it all the way out over the birches.” He looked up again. “I’d like to see them from the kitchen.”
 
-Temra asked her if she could tell yet what she had come out able to do.
+The buyer went on down the lane and stood a little apart from them, putting the keys back in his pocket one at a time. Across the forecourt the Box stood where they used to keep the plow. There was hoarfrost in the shallow cuts of its factory number. The copper bands were wet where the current warmed the casing and dry again a little way below. In the light at the door you could see marks along the wall where people had gone in far enough to put a hand on it and come out to think.
 
-“There’s a woman from the tractor crew who came out alive before me. She went across the yard and put her hand on the frame of the shed door. I took hold at the office. When I looked through my door, her husband was coming up the shed ramp straight toward me. I was so startled I let go, and the file cabinet was there again. Next time I want to hold the door while somebody comes right through.”
+“I’ll stay at the bottom,” Davra told her husband.
 
-The screen above the loading table still showed who was taking over at six. Temra could eat at the table and help with the calls about the freight without having to watch another person go up that ramp. Since Olek died, she’d been looking at every dark seam where two pieces of steel met and seeing how far an orange light could go along it. If she shut the door, she’d have to wait in the space where that light had started.
+While he went up the ramp, Ivari crouched to get her laces tight. Cold came in where the leather folded. Her coat dragged on the frost. When she looked up again Davra’s husband was sitting down under the white light with his arms loose at his sides. He waited for Davra to look straight at him before he drew the door shut.
 
-In the test room once she’d watched from one door while a man at the other end bent to pick up a screw. As he straightened he held it out and laid it in the middle of her palm. She’d wanted ever since to be able to reach someone where he stood.
+There was scarcely a sound. A line of orange appeared at the sill, grew bright enough for Ivari to see it on the ramp, and went out. In the next breath she smelled hot wool.
 
-“I’m going to try it now,” she said. “Will you stay on the line?”
+Two people were coming across the forecourt with a litter. The motor started up and the door slipped back from a darkness that shook with heat. Davra’s husband lay dead within the lip of the door. The people who’d come for him had to wait. Davra went up past them to the edge of the heat and bent down to speak her husband’s name as if she were the first one up that morning.
 
-“Take the receiver up with you,” Ivari said. “I’ll talk till you have to put it down.”
+Ivari stood with her laces done up and nothing to do with her hands. She watched her own breath go away. When they carried him out the neighbor came down from one of the hanging houses on a piece of board with a little fence at one end so there’d be somewhere to put his hand. He let the board rest at the old steps, climbed off and waited until Davra was back beside them. He asked if she’d like him to take her up to the house.
 
-“Tell me how it’s getting light over there.”
+“I can carry you with it when I go,” he said. “I’ll set you down wherever you ask.”
 
-Temra put Olek’s tag back in her pocket and crossed to the ramp. By then there were two lines of people, and space between them to wheel a chair. She went to the end of the shorter one. A man in front of her took a look inside and came down the ramp slowly, keeping his eyes on her so she would give him enough room to get by. As she passed him, Ivari was saying that all six tractors were still lit up but you could see the line of their shovels without the lights already. Temra set the receiver on the rail outside the Box.
+“And then you’ll go back for your brother?”
 
-From the seat she could see the high handprint on the wall just beyond her shoulder. She put up one hand to see how far below it she would touch. From the same angle she could see a hank of netting in front of the rollers. Her body had turned toward it at once, ready to pick it up. If she walked out now the people on the ramp would give her the room she’d given the man. She hoped nobody would come to stand where she’d stood for Olek. She got up far enough to reach the door and brought it the rest of the way across.
+“He’s still got the hens below.”
 
-It shut with a click she had expected to hear from farther away. She left both feet where they had been and stared at the seam above the floor. Ivari’s voice was gone. The seam was still dark. She pressed her open hand to the wall again, a little below the other person’s print, and tried to feel if the steel there was getting warm. She tried to imagine how long Olek had gone on looking for her where she’d promised to stand. She didn’t know if he’d had time to put his own hand up.
+Davra looked up. “There’s nobody coming down out of that door for me now. I’d like to be able to walk to it. I’d like to go in the back without anybody seeing I’ve gone in.”
 
-Something in the casing made half a sound. She thought that if she moved now she’d make a sound too and wouldn’t be able to tell the two apart. She meant to give the next thing five seconds, the length of time it took the rollers to start after the switch went on. There was no way of knowing how many of those seconds she’d used trying to clear her mouth to count.
+Ivari could see the narrow part of the lane, where the woman’s kitchen would have been in line with her sister’s bedroom across the way. In winter they shoveled that part first because a person had to be able to get from their door to somebody else’s. Ivari had been thinking in houses ever since the first one went up. She’d had a whole list of them under her coat and room on the back of each sheet for how many people would need a ride.
 
-The door drew back. She saw the edge of the daylight on the floor and could follow it down the ramp. The next person in line moved back to give her the whole way down. Temra took hold of the rail, then let it go to feel her own weight on the last of the slope. Her heel touched concrete and she stayed there for a breath with both feet flat on it. She had enough air to say Olek’s name if he’d been waiting for her.
+She asked the neighbor to put Davra’s house back on its steps. He stooped to put a hand on his board. Up he went on it, his collar blowing flat against his cheek, until he was level with the kitchen. She watched him take hold at the corner. As the house came down Davra reached behind herself for the handrail and set one foot on the bottom step.
 
-“I’m out,” Temra said at the loading table. She’d brought the receiver with her.
+“If you brought your place back and your brother brought his,” Ivari called up to him, “we could take this much of the ridge together. I could take my end where the rock shows past the last house. I’ve worked on that face and it’ll go a long way down before you get a split. What I want to know is whether you’ll take hold with me at the other end. Get everybody who put something up to come and do this while we’ve got the people.”
 
-“Sit down for a second if you can,” Ivari said. “I was hanging on to the rail for about a minute before I could stand without it.”
+“If I’ve understood you, you want the lane,” said the neighbor.
 
-Temra put both palms flat on the table. “I’d like to stay on my feet. I didn’t think I’d get to put my weight on a floor again.”
+“I want enough of it for her to get up to her own door.”
 
-She felt the cool of the table through her hands. “Will you take hold of a doorway at Shale,” she said, “and find out whether I can join one to it from Lipstone?”
+Below the forecourt the buyer took a look at the side of the ridge. “As far down as the outcrop?”
 
-Ivari said there was a doorway through the windbreak next to where she was standing. Temra left her receiver on the loading table with the volume turned up so it could be heard from the staff door. She put a palm to the jamb. In the test room she’d watched two people stand like this without moving their hands. They’d both had the same sudden look of confidence, as if there was something to grasp there that she couldn’t see. She could feel it now. It was a pressure that lifted as soon as she thought of where it was coming from, and by the time she leaned a little into it the office on the other side was gone. She saw snow moving through a line of lights on a rise in the dark. Cold ran across the floor and behind it came the first of the sun, over the rise. She could see a person at the edge of the opening in a coat so thick at the shoulders it held its shape when she moved.
+“That’s where I’ll be,” Ivari said.
 
-“Is that you?” Temra said.
+They spread down the long face of the hill. More people came up from where the airstrip stood below the ridge, and as each found a place to lay a hand there was another wet glove put down in the frost. At the turn, a man who wanted to stay came out with his scarf in one hand. Ivari asked if he would come look from where she was. He folded the scarf across his arm and stood with her long enough to see the last houses go back into place in their old order. Then he took the path down with his boots sliding at the steep part, and waved when he reached the quarry road. Ivari could see where he’d set each foot in the frost.
 
-“Look down here,” Ivari said. “I’m going to set a ruler down so you can see where the ground is. I’d like to come right up to you, but I can feel what will happen if I take my hand away.”
+She put both hands to the rock. A lorry would have fit easily in the first cleft that opened. From where she stood she could see the roots of the birches come out of the ground in their full length, carrying little bells of frozen soil that rang against one another. The lane came with them. She heard someone shout from above and had time to look and see a whole washing line between two houses draw tight in the wind.
 
-Ivari pushed a steel ruler across with her boot. An inch of it lay on the lip of the staff door and the rest of it lay down among snow packed hard by other boots. Temra didn’t like even to look away from it until she heard someone come up behind her.
-
-“I can take that end,” said the woman with the repaired blue glove. She had the other hand bare. “I tried our Box after the man you waited for. I can feel what you’re holding there.”
-
-Temra waited until the bare hand was flat against the jamb beside her own. She felt the pressure come away from her, and when she looked through, Ivari still had her hand against the door and the ruler was still across the sill. Temra stepped over it, low enough to keep her face out of the wind. Both her feet came down eleven thousand miles from the place she’d last put them. The tractor yard was so bright now it hurt to look at bare snow. Six machines stood with their engines on, and she could smell the exhaust coming out under their warm hoods even with the wind in her face. Two freight gates stood in opposite walls, each high enough for the shovel of a tractor to go up before a load went in.
-
-Ivari watched Temra’s boots clear the ruler and let go of the windbreak. She took Temra by the elbow and put herself on the side the wind was coming from.
-
-“I can hold that one,” Ivari said, pointing to the nearer of the two freight gates. “Come out of the wind and have a look at it with me.”
-
-The freight hall stayed visible in the little opening for another instant. Then Temra could see the snow behind the windbreak. She had to put her head back to see Ivari’s face under her collar.
-
-“I’m short of people to send with the new units,” Temra said. “Olek asked me to come where he could see me. I was there for him. There was a woman behind him and I didn’t think to look at her till he was gone. Who can you send with the ones going to Kelm?”
-
-“I can send the people who stayed at our ramp this morning. When I came down I had to take somebody’s arm before I knew where the floor was,” Ivari said. “A loader from Kelm took the free ferry to the mainland Box and came back with magic. Let me get her on.”
-
-Rain drummed at the other end when Ivari passed the receiver to Temra.
-
-“I can hold the arch at the market,” the loader said. “Do you have to put the Boxes down in the freight yard?”
-
-“That’s where the tag sends them.”
-
-“At the yard you have to go past the shift office just to come and take a look. Even if you turn round at the ramp, everyone in there will see. Bring them into the market. People can walk straight back into the street from there.”
-
-“Have you got room for the ramps under the awnings?” Temra asked.
-
-“If I can get the fruit carts out of the way. Shall I go and ask?”
-
-“Ask them,” Temra said. “We’ll send the Boxes to your market. Tell us when the stones are clear.”
-
-Temra lowered the receiver and turned back to Ivari. “I had three people set up to sign off on that load before it got to Kelm. Who do I ask if I need to know where it is along the way?”
-
-“Ask me when it gets here,” Ivari said. “Then you’ll be able to see where it is. Take the big door when you get back to Lipstone. I’ll hold the gate on this side and you can watch our people take it the rest of the way.”
-
-The Box beyond the tractor line might have been on the rollers at Lipstone, with its lifting holes at the same height and the oval of light on the seat. Its door was open. One of the people at the ramp turned aside and let another walk down and go back up to the buildings. Temra took the tag out of her pocket and looked at the three places Olek had to stop before the quay, all the empty spaces printed alongside them for people to fill in when they picked up his work.
-
-“I’ll bring it to our big gate,” she said. “Can you hold till the last crate goes?”
-
-“I’ll hold it,” Ivari said. “When you come to your door I’ll have a tractor facing you. You can get an idea of how much room there is from that.”
-
-Ivari took back her receiver and asked the loading crew at Lipstone for the woman in the blue glove. Then she took hold of the doorway in the windbreak again. The hall came into view with the woman’s bare hand on the Lipstone jamb. Temra took the ruler with her when she crossed. At the rollers she felt grit from Shale’s yard go under her boots.
+They took the ridge clear with the occupied streets on it and the great copper bands of the Box shining in the forecourt. The quarry stairs stopped in air. High up on the house side of them, Davra had both feet on the first of her own steps.
 
 * * *
 
-It took five people to roll the widest freight door up at Lipstone. The chain ran down through their hands and rattled on the floor. The carrier apron beyond it was blue in the approaching dusk. There was room for four trucks to drive through the opening beside Temra.
+Above the clouds off Kelm there was sunshine on the pears. Sali had put her crates down by the first of the empty stalls and was shaking the rain out of her sleeves. Below her feet the freight exchange ran to a chipped white edge. A month ago it had stood at the head of a set of steps on another island. You could still see the ends of the iron banisters where it had come away.
 
-She took hold at one side of the opening. She saw people in orange vests on the apron until she felt the answering pressure from the other side of the world and the whole opening filled with morning. Ivari stood at the far end of the new sill in her heavy coat. Behind her one of the Shale Crown tractors was coming toward them with the shovel up. Light cleared the top of it and lay high up on Lipstone’s steel roof. The tractor came another ten feet nearer. In all the times she’d loaded a machine as big as that, she couldn’t think of a time she’d stood where the driver would have to look straight at her before he brought it through. He looked first to Ivari, who had a hand free to show him how much room he had.
+Mevrit had been up once already. She knew the surprise of walking into sunlight with a load that had gone on under rain. The smell of the sea fell away at this height. Standing by the stall she could smell a pear that had split at the corner of Sali’s crate. She meant to take Sali to a place by the outer rail where you could see a string of six separate streets hanging over the water. On her way there Sali stopped with one hand on the warm stone and stood quite still.
 
-A man came through from Shale with snow on the broad tops of his boots. It came away before he’d crossed the hot floor. He pointed to the pallet third from the gate. It had a corner sticking out on account of the alarm earlier and he could bring all the others up behind it if they got enough people around it to move it sideways. Temra called for a truck to be brought round, and the man was across the floor in the middle of a group from the apron before she’d got the whole instruction out. He’d pushed a sideways load before. Within a minute it was out of the line and moving to the door.
+“Is that our island?” she said.
 
-“You’ve got the Kelm load,” Temra said as he came back alongside her.
+Through an opening in the cloud Mevrit could see the landing and the square top of the Box. Sun caught a corner of one copper band and there was a scatter of light on the water beyond it. On the island itself the market awnings were the red they went when they’d had all the rain they could take. She pointed out the green one they had got from their aunt.
 
-He pointed at the bare corner of the pallet where the tag went.
+“I can see that,” Sali said. She went straight past Mevrit to the end of the rail. “I can see where the shadow of the market stops.”
 
-She fetched the tag out with her free hand. Her thumb found the place on the clip where Olek had kept his thumb at the ramp. There were three countries on the tag with a line for each time somebody was supposed to take the load and sign off on it. She turned the tag over, saw Kelm on its own on the back, and put that side up in the man’s hand.
+Mevrit hadn’t known that was what Sali would want to see. She would have liked to show her where the plateau town had come in the night and stopped out to sea almost level with the new air exchange. On the radio Ivari had said her crews took turns moving the ridge. They lay still in the air to watch a storm pass under them, and a day later someone had to call her from her supper to tell her there was land in sight. Below it hung a single freight hall with the shutters down on three sides. Its people had been running their trial platform up to the exchange all morning.
 
-“The people on the quay can take it from your yard,” she said. “They can tell you where to put it.”
+“Flying down now,” the pilot called.
 
-He went on with it. Through the little row of windows high on the wall Temra could still see the standing fleet’s lights. The daylight through the opening stretched the first tractor’s shadow right down to her boots. The Shale drivers called for more loads. By the time the first tractor was out of the freight hall, the next one had come all the way round the far side of the yard with an empty carriage and was turning in toward the gate.
+Sali came back slowly. She tugged the front crate of pears to a place she liked in the sun. Then she walked onto the platform and went straight to the rim the pilot had told them to stay a foot back from. Sefra, the former loader from Lipstone, had a glove stitched in blue at one wrist. She took it off with her teeth and put the other hand on the rail too. The deck moved out until every part of it was over the cloud. Sali backed up then, laughing, and brought her whole weight against Mevrit’s shoulder.
 
-The far freight door across Ivari’s yard was already up and showed the bank of snow behind it. One of the tractor drivers got down and laid her hand against the frame. The bank went out of sight. In its place was a woman standing with one hand already braced against stone and the other on her hood. Red canvas bellied out over her in the rain. She pointed with her free hand to the strip of stones the fruit carts had left clear. Rain came through and striped the snow as the first tractor went to her.
+At the foot of the old quay steps, the pilot brought the deck to rest above the wet stones and took her hands off the rail. For a little while it was queer to feel the ground give so little under each foot. Mevrit went up the steps to help Sali get their aunt’s awning. They unhooked the weighted ends together and walked the folded thing down between them. Already they could hear the pilot counting the people on her next load.
 
-The pallet with the yellow tag rode over both thresholds. People on the quay brought up a gang of hand trucks with small hard wheels and broke the load down beside a pile of crates with yellow fruit showing through them. On the face of the net that had caught the weather in Shale there was a dusting of snow. When the first Box came out from under it, a little of the snow fell onto the stones and went transparent.
+Temra was under a lean-to keeping the dispatch board dry with her jacket. The board showed who had paid for seats and how many baskets the pilot could take if all the seats were full. In the square where she’d written the four o’clock departure, she’d drawn a small circle round the word HALL.
 
-Somebody on the next gate shouted for another hand. Temra saw the woman with the blue repair on her glove take hold of the jamb with her bare hand. It opened onto full night. Temra knew it for Rendar from the way the square lamps came down in a row to the toes of the freight crew. The crew had brought out a covered stretcher from beside an open Box. One of them came alongside it with a laced boot upright on each palm. The pilot who’d got out of her plane came past Temra with the silver stripe on her back. Temra raised her free hand and the first freight truck at Rendar stopped. The pilot walked across to the crew carrying the stretcher and took up one end of it. Temra waited till they had passed under the last lamp before she dropped her hand.
+“I think we’ll clear the apron by then,” she told Mevrit. “There are nine of us down for wages as soon as we set it at the upper exchange, with a share in the fares after that. They’ve given us the berth till sundown. I’d like to get there in daylight. You can see past the exchange for miles in this weather.”
 
-A lift truck painted a bright blue Temra had never seen at Lipstone rolled through an opening beneath three storeys of tiled balconies. There were people calling from up there to get the last handcarts clear. The truck went across the hall carrying a row of steel cabins and turned at the foot of the rollers. From the gate at the other end of the hall, Temra heard men calling the driver down to a yard that looked newly cut out of red rock. They ran across it to take the load. The truck went into the red yard with all its Boxes. There were two kinds of weather against Temra’s face besides the one she’d come to work in.
+Sali reached the foot of the stairs with the awning over one shoulder. “I’ve left the pears up there,” she said. “Let me come back up with the cloth once and I’ll stay out of your way.”
 
-The people at the quay set the Boxes on the stones beside the market lane and turned their doors to the street. A loader took the printed notices out of the packing sleeve and clipped one to the rail of each ramp. A woman came from under a red awning and stepped into the white light with one foot still on the ramp. She stood there long enough for the man behind her to have a look in, too. Then she stepped out. The man offered his forearm on the wet ramp. She went past the people arriving to move another load and was into the lane before the next person had come up.
+The next flight was already full. Two women on the deck had put a long wooden case between them so it could go across both their knees. Temra looked down the list. “I can have Sefra come back early for you. If you’re here when she comes.”
 
-At the other Box a woman came down the same lane at a walk. She went in still holding the wet sides of her coat. Through the two big freight openings Temra could see the woman take a good look at the lane and put her hand out to the edge of the steel door. She waited there without moving until Temra couldn’t tell whether she was going to pull it toward her at all. Water poured from a sag in the awning onto the stones in front of her. Then the woman pulled the door shut.
+Mevrit saw the place where Temra’s forefinger stopped. The next return from above was promised to three men who’d be plastering the exchange until four. One of them had come down with them the previous afternoon with the knees of his trousers so white he’d left prints against the rail.
 
-The first trucks from Rendar were coming through with their headlamps on and light from Shale Crown running up their cabs. They went past in both kinds of light. Temra kept her hand on the jamb and her eyes on the door at Kelm.
+“I can take you,” Mevrit said. “Give me five minutes to get Ivari and the people from Rendar on the radio. Rendar wants a price to dock at the exchange and I told them I’d find someone who could give them one.”
+
+Sali picked up the other end of the awning and brought it round so the two of them stood on opposite sides of it. Rain was coming through the canvas onto Mevrit’s boots.
+
+“Come as far as the steps with me,” Sali said. “You’ve got things to do.”
+
+There was more light at the top of the steps. They carried the awning up there and set it on the fixed landing by the Box, where people could get past them to the old market. Uphill the street went into town. The red shelf of the market ran along the side of the headland to their left. To their right there was deep water. The Box had its steel feet in the one broad piece of stone where the street and the steps met. The lower copper band was just within reach from the top of the ramp. It had been warm under Mevrit’s hand on the day she went in.
+
+Sali took hold of the rail at the start of the ramp. Mevrit remembered how the shore had come into sight in parts as she walked down after her own trial, and how she’d wanted to lift every part of it.
+
+“Have you been thinking about going in?” she asked.
+
+“Since I saw the shadow from up there.” Sali took her hand off the rail and put it back. A woman coming down the slope saw where they were standing and gave them room. “I like it up there. Are you going to tell me I can’t?”
+
+“If you want to, you can.” Mevrit tried to say the rest looking straight at her. “Which part would you want to do if you came out with it?”
+
+“Bring the pears up at four,” Sali said. “Carry the empty crates home afterward even when you’re gone. I went round to get you last week when you said you’d take me over to the other island. Your shoes were outside and I thought you’d left them there for me to see. I waited on the step till it started to rain and found out you’d flown a chair straight out of the window without putting shoes on.”
+
+“That woman needed the chair.”
+
+“I know. I had somebody waiting for me, too.” Sali glanced over at the awning. “You do a lot for me. You say you will, and then there’s a great deal of waiting.”
+
+A line of drops fell off the outer lip of the door. From inside came the slight metallic hum Mevrit knew in her hands. She wanted to say if Sali just waited now, she would take every last thing there was to take up to the exchange herself. Under the running rain the four steps between them and the old market were black, the same steps she’d been going up and down with crates since she was big enough to turn one over on her own. Her aunt had needed them to sit on near the end, to get her breath when she came out to inspect the stall.
+
+“Suppose we moved the market,” she said.
+
+“We’ve got one up there.”
+
+“Out to sea. Right square in front of the Box, so you’d come down the street the way you do in the dark. Where it bends by the stairs you could keep going. We could leave it level here.” She had a hand on the stone of the landing already. “You can wait to see if I can put it there, if you want to.”
+
+Sali looked in through the door. The light was good enough to show the rain on her own shoes. When she drew back from the rail she stood for a time with her hands flat against the thighs of her trousers. Then she picked up the awning and carried it away from the ramp.
+
+Mevrit found the people who’d already lifted things on the headland. They were down drinking from the end of the tea stall, and one of them had her apron folded like a square cushion on the stone floor alongside her. On a hot day the rock here would give out heat well into the evening. She told them which piece she wanted and took the man who sold small plums by the elbow to show him what would be left of his old place. From there he could see the end of the shelf and the shoulder that ran beneath the good stone. He asked if he could bring his mother’s stall. Two vendors had bought their places facing the afternoon sun. Mevrit said they’d get the same stone and could see where the sun went when they’d set it down.
+
+On the radio Ivari had come up near enough to see the fixed landing. Mevrit told her where she could put the ridge if she brought it down.
+
+“If I turn it in there I’ll have everybody at the bottom of our road as soon as they can walk over,” Ivari said. “The quarry man could walk up to his old stone if he crossed all the water. Will people on that market be telling me which houses are ours to keep?”
+
+“If somebody walks over that road and asks for your house, tell them where you want them to go,” Mevrit said. “I’m asking you where I can walk. There’s space to bring your whole street onto us if you’ll leave the street open.”
+
+She heard Ivari say away from the receiver that she wanted hands on the rock at the far end. Then Ivari came back. “My road narrows at the birches,” she said. “Try leaving me the wide end of the market.”
+
+It took the vendors time to clear the weighted stalls. Some took the fruit out, moving one box at a time under the awnings, and some merely stood by until a person with a pair of strong hands could come over and float a whole stall clear of the shelf. In the gap where the fruit tables had been, Mevrit put her hands to the stone with enough room to straighten her elbows. She could feel it give as the others reached the ends of the shelf and took hold. Her first impulse was to look behind her and call for the people on the stairs to stand back. Then she saw how far all of them had gone from the stairs already.
+
+They brought the shelf round until the old lane that used to take you from the step to the first stall pointed straight out to sea. On land there was an open cut where the market had been. Water was still running off a red awning that someone had brought up flat across both arms. Mevrit could see, past each of the pairs of hands on the stone, a little more water where just before there’d been the shoulder of the headland. She had to move slowly to match her end to the landing below the Box. It felt the way a wet board feels when you lower it in the dark, with the width of the load in both arms and all your attention on the last place where it might catch. The two edges met on a level. When she let go there was a little water running from the market stone across onto the landing.
+
+The pilot came back for Temra. Mevrit heard her ask at the foot of the steps if they meant to take the hall up now. It was still light above the weather. If you went out onto the new shelf and looked back, you could see the trim high streets of the upper exchange arranged in clear air, with men hauling in bright flags where the next hall was to come alongside. All the way back here you could see their small shadows move.
+
+“The berth’s there for us now,” Temra said to the people on the deck. “You could take me up and we’d be working at this time tomorrow at those wages. I gave you my word about that. I’d like to put the hall down here beside the market and get both doors open. Will you come with me for that?”
+
+There was a little movement on the deck. One man asked who was going to pay the people at the door. Sefra walked away some distance before she spoke so she could see the new shelf past the Box.
+
+“Does the side door open onto this road?” she asked.
+
+“I can put it there,” said Temra.
+
+The man who’d asked about wages set down the coil of rope he was carrying. He told Temra he’d go up to the exchange on the next flight and see if they’d give him work. Nobody put a hand on him when he walked away. There were enough people left to take the hall, and they had to turn the deck around to get them all on with room for their feet.
+
+From the market Mevrit watched them reach it. The hall travelled over in slow daylight with the floor level and both great doors open, so that as it passed the end of the market the people there could see right through and out above the waves. The sleeves of Temra’s jacket were back off her wrists, and Mevrit could see the stripe on each sleeve where she had her arms to the steel. She looked down once from that height. She had to widen her feet.
+
+From beyond the far end of the market came the sound of stone moving in the air. A dark line was coming toward them out of the rain. It was a road, with birches growing along one side, and on its far side the whole long ridge with lights on in the houses. Below the road the rock went a long way down to roots that hung over the sea. Mevrit looked up from where she stood and saw someone from Shale Crown taking hold beside the first tree with Ivari, who’d opened her heavy coat to the wind. All the small changes of height the ridge made while they brought it in went through the line of roofs and into the trees. The woman beside Ivari kept calling out the distance from the road to the edge of the red stone. Mevrit went out past the last stall and called back as the first birch came level with her feet.
+
+The road came flush with the market. Temra and her people turned the freight hall until the largest doors faced the new street and the small one with the wired glass was at the corner of the steps. Then the whole line of shade from stone and roofs lay out past the farthest waves Mevrit could see breaking. Boats that had been crossing open water under full light passed into the shadow of a coast.
+
+A woman waited for Ivari to take her hands off the rock. She’d come up along the road from one of the houses, wearing boots with little white grains of Shale still pressed into the seams. Ivari called her Davra and offered her a hand. She smiled at Ivari and walked across. Mevrit watched her pause by a stall that was just going back on its feet. She put one thumb to the gold side of a pear.
+
+Sali had the awning back over her shoulders. She took the steps two at a time. By the foot of the Box ramp she stopped to see whether Mevrit was looking. “I’ll get my crates on the last lift tonight. They’ve got sun in the meantime.” Then she went over too. The path across the market was wide enough for her to carry the awning without turning sideways.
+
+Somebody’s radio in the open hall was still taking bookings. Eight to the upper exchange at the evening fare. A woman on another frequency had space for three on a late lift at the other end of the world. Off Kelm, a row of lights came close enough through the rain that Mevrit could make them out as lamps down the middle of a street. They were the people from Rendar, bringing an inhabited ledge much longer than she had expected. The first call asked if their berth at the upper exchange was still clear. There was a pause, with the lamps hanging steady past the last of the waves.
+
+“Tell us how high you’ve got that road of yours,” someone said on the radio. “We can see there’s people walking over.”
+
+Mevrit took the receiver. “Bring your road down level with the foot of the Box ramp. There’s sea to spare past the doors of the freight hall.” When she put it down, the road from Rendar was beginning to turn. From here she could see a pair of people taking hold between every two lamps. At the top of the quay steps a woman was going up the ramp of the Box. She put her hand to the casing for a while before she went inside. She had the whole breadth of the doorway to turn in. All the air from the new coast came past her as she reached for the edge of the door and pulled it shut.
