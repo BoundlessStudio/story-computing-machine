@@ -1,5 +1,5 @@
 # Content rating
 
 - **Rating:** General
-- **Content notes:** Spirits, bereavement, a severe rainstorm, and brief peril on a steep road.
-- **Reason:** The story treats death through two sisters finding each other and gives the dangerous ride a mild level of suspense. The cover depicts Nemi signaling a giant in the rain.
+- **Content notes:** Spirits, references to death, a severe storm, coercion by a god, and brief peril at a bus door.
+- **Reason:** The story handles the spirits and the Marshal's pressure through conversation and a short suspenseful crossing. The cover shows Mette helping the boy across the gap at Tallow Yard.
