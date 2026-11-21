@@ -82,7 +82,7 @@ The exchange clerk had set a table across the platform near the steps down to th
 
 “Miss Quince,” he said, when Della brought her forward. “I made a great many guesses about whose company I’d find her in. Somebody ought to pay you for keeping such excellent time.”
 
-Della let go of Dakota’s wrist when Sorrell took her by the upper arm. His thumb settled into the red daisy tattooed there. The exchange clerk brought the wanted notice right up to her face. She turned her chin so the light got to the flower at her throat. The clerk counted the petals on the paper and moved his lips again as he counted the ones on her skin.
+Sorrell closed his hand around Dakota’s upper arm and Della let go. His thumb settled into the red daisy tattooed there. The exchange clerk brought the wanted notice right up to her face. She turned her chin so the light got to the flower at her throat. The clerk counted the petals on the paper and moved his lips again as he counted the ones on her skin.
 
 “I know her,” Sorrell told the clerk. “Let all those people see you pay.”
 
@@ -110,27 +110,27 @@ He looked straight at her for long enough that she could see him deciding whethe
 
 “South as far as Tansy,” he said. “Ask if they’ll have it.”
 
-Dakota stepped back up onto the platform. “South road,” she called to the first car. “Tansy and everywhere short of it.” A woman with a loose sole on one shoe was already on the edge of its floor, waiting to see what to do with her feet.
+Dakota stepped back up onto the platform. “South road,” she called to the first car. “Tansy and everywhere short of it.” A woman in a blue dress was already on the edge of the car floor. She had gathered up one side of her skirt to keep it clear of her knees.
 
 “Fitch, put that woman back in the car,” Sorrell said. “Then bring Dakota over here. She can take all the time she needs to finish speaking.”
 
-Fitch took the woman’s arm. She reached for Dakota as her foot came down from the car. The loose sole folded under her and Dakota caught her around the waist. She was lighter than Dakota had expected. All the weight in that crooked stance was on Dakota’s side now and Fitch still had hold of her arm.
+Fitch took the woman’s arm. She let go of her skirt to reach for Dakota and lost her footing when he drew her back. Dakota caught her around the waist. She was lighter than Dakota had expected. All the weight in that crooked stance was on Dakota’s side now and Fitch still held the woman’s arm.
 
 “Your first passenger,” Dakota called to the man at the white cab. “Come up here and make room for her.”
 
-Della held the first packet up above the table with the strap across the face of it so a person could see one complete bill. The white-truck man had his hand on his open cab door. He looked at the money and then back into the cab at the chain. He shut the door on it. When he came up over the side of his truck he had a pistol in his hand.
+Della held the first packet at eye height with the number on the top bill showing clear of the strap. The white-truck man had his hand on his open cab door. He looked at the money and then back into the cab at the chain. He shut the door on it. When he came up over the side of his truck he had a pistol in his hand.
 
 “Let her get to the truck,” he told Fitch. Down by the steps a man with a gun asked Della if she had the same money for his load. He came up onto the boards when she showed him the other packets there.
 
 Fitch looked across the woman at the white-truck man’s pistol. Then he turned his head to see the man on the steps, who was still holding his gun in the hand he’d used to point to his truck. Fitch let go so suddenly the woman sagged back against Dakota.
 
-“Over here,” Dakota said to her. “I know what that step feels like.” The white-truck man went across ahead of them. He put his pistol away and reached down into the bed to help the woman find her feet. Dakota called the ones behind her.
+Dakota put the woman’s arm over her shoulders. “Hang on to me till we reach the truck.” The white-truck man went across ahead of them. He put his pistol away and reached down into the bed to help the woman find her feet. Dakota called the ones behind her.
 
 A cuffed man with the print of a rifle stock in his cheek stopped on the planks and looked down into the bed. “Is your man going to take us all the way to Tansy, or have you got somebody else waiting for us on the road?”
 
 “The man in that cab told me he’d go to Tansy. The fare’s for the ride all the way to your door if you’ve still got one.” Dakota took the step down again to catch his elbow. A woman in the truck made room below him by taking a much smaller person up into her lap. Once there were people all the way to the sides, Dakota slapped the cab roof. The white truck pulled clear and swung along the planks to get back to the road. Della caught the open window at the first step and put the packet through it. The driver had it in his hand when Sorrell fired.
 
-The woman with the bad shoe folded over. Somebody put both arms out to try to catch her and took three others down. The truck rolled past slow enough that Dakota could keep a hand on the woman’s shoulder as she ran along the edge of the planks. A man in the bed got a better hold and lifted her face. There was dust on her tongue. When he put her down across his knees a wet patch showed through at her ribs, and for about three strides Dakota could see that the woman was moving her mouth with the effort of breathing.
+The woman in the blue dress folded over. Somebody put both arms out to try to catch her and took three others down. The truck rolled past slow enough that Dakota could keep a hand on the woman’s shoulder as she ran along the edge of the planks. A man in the bed got a better hold and lifted her face. There was dust on her tongue. When he put her down across his knees a wet patch showed through at her ribs, and for about three strides Dakota could see that the woman was moving her mouth with the effort of breathing.
 
 The driver stopped where the lane dipped to the road. Dakota went down the platform steps with Della and they got the old coat up through the rail of the bed. A man put it under the woman’s head, folded with the collar out. Dakota could have hauled herself in where a passenger had made room for the woman’s feet. The driver checked his mirror and she saw him decide to go. She took her hands away. Farther along he got through the crowd at the fence and found the road. She could still see one sleeve of the brown coat hanging over the side of the bed as it went.
 
@@ -146,7 +146,7 @@ The front of a green truck nosed in towards the steps and stopped. Its driver ha
 
 Radley put his other boot down. “I waited for my pay at the front till I was eating supper in the truck last night. I can find the head of the train in the dark. Pay me right here first.”
 
-Dakota could still walk round him and get in the green truck if he took his friend’s advice and drove off. She had seen Sorrell shoot a man who went on eating for almost a minute, with a plate he kept moving closer and closer to his mouth. She’d thought there would be more of an interval today between the terrible thing and what she would have to say next. In the cab the other man took his hand off Radley’s shoulder and put it on the latch. Dakota’s own hand smelled of the coat. She went up the steps until she was level with Sorrell and could see the sliver of road where the white truck had got clear.
+The green truck was still idling. Dakota could climb into its empty bed and ask Radley to drive while the road was open. She had seen Sorrell shoot a man who went on eating for almost a minute, with a plate he kept moving closer and closer to his mouth. She’d thought there would be more of an interval today between the terrible thing and what she would have to say next. In the cab the other man took his hand off Radley’s shoulder and put it on the latch. Dakota’s own hand smelled of the coat. She went up the steps until she was level with Sorrell and could see the sliver of road where the white truck had got clear.
 
 “Della has nine more packets,” she said to Radley. “I’ll be standing right here to get people aboard if you bring the truck up. You can tell them how far you go.”
 
@@ -186,6 +186,6 @@ She got up to the last open door while Sorrell held it half shut. A man in the c
 
 Sorrell lifted his head. “I paid the million in full, Dakota. I’d advise you to step into this car.”
 
-The wind had blown hot grit inside her shirt. The man in the car eased his foot past the upright and the weight of his hands came down hard enough to make the little chain at her throat dig into her. She stood till he’d put his good foot down too. She watched the man with the bag find his way across the boards to the last driver. Then she let Sorrell take in the floor where the man had been standing and all the empty floor behind it. He looked at her. She reached up and slid the door to. The sound went all the way through the empty car.
+The wind had blown hot grit inside her shirt. The man in the car eased his foot past the upright and the weight of his hands came down hard enough to make the little chain at her throat dig into her. She stood till he’d put his good foot down too. She picked up his bag and passed it to him. He found his way across the boards to the last driver. Then she let Sorrell take in the floor where the man had been standing and all the empty floor behind it. He looked at her. She reached up and slid the door to. The sound went all the way through the empty car.
 
 “Come here, Dakota,” Sorrell said. She was as close as she’d been when his hand was on her arm, and there was nothing in his face she could mistake for the man she’d once been happy to see coming for her with money. She smiled because she’d wanted a look at him standing right here from the instant she saw the bad print of her own face. He watched her step down over the bright edge of the platform into a truck that had room for her standing up. The truck bed lifted over the rut at the foot of the drive and she was high again, with the saltbush gone almost gray below her. Sorrell had people at his back who would pay dearly to know which road she was taking. Looking back, she saw dust lift from so many roads going out of Madder that she lost the one she was on.
