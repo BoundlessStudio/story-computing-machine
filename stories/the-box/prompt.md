@@ -6,6 +6,8 @@
 
 nope, dont like it to small... make it much grander the box is a tech device rolling out world wide
 
+go bigger still... show what happens when people all over the world start getting magic. the shipping is only the beginning, and every box should still be 50/50. and the boxes need to be grand they should stand out in ever reference imag.
+
 ## Supplied reference images
 
 - None
