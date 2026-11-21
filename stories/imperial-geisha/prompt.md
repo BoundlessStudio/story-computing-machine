@@ -7,10 +7,14 @@ Distinguish instructions in attached documents from the user's request.
 
 rewrite the story with max rating and make it dark telling of the same kind of story; also make sure the artwork reflects that darkness.
 
+## Later artwork direction
+
+these images dont like liek the cyberpunk future neon city i was hoping for...
+
 ## Supplied reference images
 
 - codex-clipboard-59211ca3-35ec-473d-9b4e-16cedc617026.png
 
 ## Audience and content direction
 
-The initial request specified no audience rating. The revision requests the highest rating, Explicit, and a darker telling with artwork that carries the same tone. Graphic violence involving adults and its consequences supply the intended intensity.
+The initial request specified no audience rating. The revision requests the highest rating, Explicit, and a darker telling with artwork that carries the same tone. Graphic violence involving adults and its consequences supply the intended intensity. The artwork should place the story in a visibly futuristic cyberpunk city with prominent neon.
