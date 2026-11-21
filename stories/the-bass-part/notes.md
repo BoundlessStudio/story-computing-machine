@@ -79,3 +79,9 @@ The fresh prose-only reader could place every speaker and follow the offer throu
 The name in the bowl voice and the actual cart arriving too late for the intended act give the performance's loss a consequence the readers heard. The private reason for the telling comes through what Tulla feared and heard. Whitewheel's organized noise and the stone carry choices that only this pair can make here. The breath and the dust keep their scale right through the two calls. The final prose was checked against the shared boundaries and no additional universe fact was introduced.
 
 The final Decisions checkpoint returned **Yes** with native confidence 1.00, Yes/No probabilities 1.00/0.00, and source-ambiguity probability 0.00. Proceeded to reference art. Zero restarts and no user direction requested.
+
+## Art and rating
+
+Built-in ImageGen made separate sheets for Tulla, Mallow, and Sefra and one painting of Whitewheel. The Ketta sheet from *The White Marble* guided the human study layouts. Hobnob from *Shenanigans* guided the arrangement of one animal across views. *The Five-Minute Warranty* supplied oil handling for the rock and the scale of the basin. The faces, clothing, and elephant design follow the finished story where it specifies them and otherwise reflect illustration choices.
+
+The four saved WebPs were inspected first. Tulla and Sefra have consistent faces and dress across views, empty hands and readable labels. Mallow has the same ear, trunk and tusk anatomy in each study. The Whitewheel painting places the seats by the pale clay wall, the wide ramp under the bronze bell, and the uninterrupted dark shelf toward the saddle. The cover used the accepted Tulla, Mallow and Whitewheel images for the touch on the shelf. The saved 864 × 1536 JPEG has the exact title once, the same two figures and clothing, and a clear, gentle wrist contact. The finished prose and cover are rated General.
