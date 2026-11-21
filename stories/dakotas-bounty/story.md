@@ -146,13 +146,13 @@ The green truck was still idling. Dakota could climb into its empty bed and ask 
 
 “Della has nine more packets,” she said to Radley. “I’ll be standing right here to get people aboard if you bring the truck up. You can tell them how far you go.”
 
-Sorrell lifted his pistol. Radley took a look at it and kept both feet where he had put them. All along the foot of the platform there were people who had seen the first truck’s money go by. One of them went back to his rig and Della called down past Sorrell to ask how many places he had in the cab. A second rig pulled out of the lane to follow him. Dakota could hear both drivers trying to get a word in with Della.
+Sorrell lifted his pistol. Radley took a look at it and kept both feet where he had put them. All along the foot of the platform there were people who had seen the first truck’s money go by. One of them went back to his rig. Della came back up to the table and called down past Sorrell to ask how many places he had in the cab. A second rig pulled out of the lane to follow him. Dakota could hear both drivers trying to get a word in with Della.
 
 “Fitch,” Sorrell said. “I’d be obliged if you went down to Mr. Radley and gave him a plain account of his duties this afternoon.”
 
 Fitch was at the second car. While Sorrell waited, Fitch put a hand in and helped a prisoner onto the boards. Another company man came along to hold the door for him. Sorrell looked from one man to the other and waited till they had brought the prisoner all the way across.
 
-Radley climbed into his cab. “I’ve got the ridge road,” he called up to Dakota. He backed to the lip. People came away from the side of the train to see how much room he had. Sorrell looked past the pistol at the pay table to the rifle that had come up on the steps. He lowered his own pistol an inch at a time. In the open between him and the road Dakota took hold of the first person who put out a hand to cross. Radley got his people up and named their stops to Della, and she put the money into his hand with Sorrell watching.
+Radley climbed into his cab. “I’ve got the ridge road,” he called up to Dakota. He backed to the lip. People came away from the side of the train to see how much room he had. Sorrell looked from the pistol at the pay table to the driver Della had called to, coming up the steps with a rifle. He lowered his own pistol an inch at a time. In the open between him and the road Dakota took hold of the first person who put out a hand to cross. Radley got his people up and named their stops to Della, and she put the money into his hand with Sorrell watching.
 
 By the time the replacement engine sounded its whistle, Della had paid all but one of the fares. She pressed the last packet into the clerk’s hand. “For the last driver, as soon as you can see who he’s carrying.”
 
