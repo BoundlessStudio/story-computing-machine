@@ -1,0 +1,5 @@
+# Editorial notes
+
+**2026-11-21 · Request reading.** The Codex promise keeper read the request and original before any beats existed. Its explicit baseline was the engineered sisterhood’s thousand-year peace, the youngest’s refusal and isolation under the hunt order, and the child heir’s life set against the risk of civilization-wide war. It expected “a taut, elegant pursuit in which the same graces that uphold the public order give the Geisha their lethal reach” and a later, informed act when the cost comes due. The pictured woman’s direct gaze and formal pose suggested composure and watchfulness. The keeper left the sisters’ histories, the child’s survival, and the outbreak of war open.
+
+Claude independently read the request and original. It identified “Grace as a weapon,” shared training turned to pursuit, and a refusal that might come by instinct while the later choice reckons with the cost. It expected one direct confrontation with a sister and a climax the youngest decides herself. It saw a poised, exposed machine body with an expressive human face against a luminous night, and left the technology, succession rules, and outcome open.
