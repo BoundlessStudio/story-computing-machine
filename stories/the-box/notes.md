@@ -1,0 +1,9 @@
+# Editorial notes
+
+## November 20, 2026
+
+The Codex promise keeper read the request alone. The explicit terms are universal free access, a closed door as the trigger, and even odds of magic or fatal fire. It looked for “what people do with an offer that is available to everyone and carries the same terrible odds for each entrant” and expected temptation and dread, with wonder or dark humor possible. It wanted “a consequential choice about the offer and a payoff that makes the choice matter.” The relationship, scale, depicted outcome, and kind of magic were open.
+
+Claude independently read the request as “the choice under even odds.” It expected to see why a person would enter or refuse and warned that rigging the odds would cost the story its hook. It expected the specific death to register without graphic detail, and inferred that “every person” and “free opportunity” could show through social pressure, abstention, and grief. It favored personal stakes with the wider world felt through them. It identified no required tone or relationship.
+
+At outline, the keeper saw two separate decisions governed by the Box, with one sister deciding whether to give the call and each sister deciding for herself whether to close the door. It found that the ending made magic “in a way the reader can experience” by sustaining a view that formerly lasted an instant. It flagged that “the weeks of grief are the only clearly new circumstance” before the second closure. Claude favored the release call as “the sisters’ physical language” for the gamble and saw the same danger in an underplayed second decision: “the protagonist’s own coin flip is the least dramatized decision in the story.” It also wanted one or two ordinary consequences of universal access beyond the sisters and an enacted use for the yard’s wind and shutter.
