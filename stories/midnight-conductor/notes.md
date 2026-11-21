@@ -41,3 +41,11 @@
 **Final Decisions checkpoint.** Yes, native confidence 1.00, with Yes 1.00, No 0.00 and source ambiguity 0.00. Proceed, zero restarts and no user ruling. The complete finished prose, prompt, and supplied original were evaluated together.
 
 **Artwork.** The supplied image sets Nemi's likeness and the bus's warm interior against heavy rain. The Sarve sheet from *The Last Stormweaver* guided the spacing and brushwork of the three individual sheets. The garage painting from *A Knock in Someone Else's Sleep* supplied handling for metal and worn upholstery. Lumespire in rain from *A Crown in the Bargain* and the wet lane from *By Tooth and Threshold* supplied wet masonry and hillside brushwork. The shelter correction kept the chemist's in its advertisement, and the final cover used the accepted Nemi, Long Dancer, bus and Gilder Lane references to show the red bow signal from the bus door. All five places and three character sheets were inspected before making the cover. The selected 9:16 cover was inspected with the full title and rated with the finished prose.
+
+## November 21, 2026
+
+The user rejected the first story and requested another attempt. The original prompt and supplied image still govern. The reply identifies no particular fault or new story constraint. This attempt will develop a new plot in the same package and draft pull request.
+
+**New Codex keeper, request only.** The explicit relationship is the conductor's work with lost passengers. The keeper expects “ordinary city transit even as its routes take people somewhere the living city can no longer locate.” They would miss the connection if any other vehicle could substitute for the bus. The words suggest wonder and loss, with the stakes and outcome open. The girl looks watchful and self-contained, in a seat where warmth, reflections, and the storm affect what a rider can see.
+
+**Claude, new request-only reading.** The promise was “the ordinary next to the uncanny,” especially fare and stop routines alongside a destination the city has erased. It saw the uniform and headphones as suggesting a solitary student with a double life. Claude expected a gentle ride and diminished gods. These are possible readings of the mood, and the request leaves the gods' power and the story's scale open.
