@@ -12,7 +12,7 @@ The owners had offered Temra the highest office in Lipstone. They had sent her a
 
 “Have you got a minute before you go up?” said the woman with the blue repair on her glove.
 
-“I can post the shifts a week ahead if I take that office,” Temra said. “I can put you down for a lift home as soon as I put you down to work. If you’re due off at six, somebody’ll know to take you down at six.” She’d been waiting all week to say this. She was working out how many she could send down on the first lift when she saw that Sefra had set her locker key on the back of her bare hand.
+“From that office I’ll post the shifts a week ahead,” Temra said. “Your name goes down for work and a lift home in the same stroke. If you’re due off at six, somebody’ll know to take you down at six.” She was working out how many she could send down on the first lift when she saw that Sefra had set her locker key on the back of her bare hand.
 
 “My boy comes to the side door on Thursdays,” Sefra said. “He brings enough dinner for both of us if I’ve had to stay. I told him which pane to knock on because it’s got a wire loose in the glass. Will there be a door he can get to when the hall goes up?”
 
@@ -38,13 +38,13 @@ The steel drew back. The woman came down holding the bare hand out in front of h
 
 On the freight radio somebody said, “Kelm Quay. Hello to any town with its feet off the ground. We’ve got room off the headland and we can see you coming a long way out. Call for Mevrit once you can see the island.”
 
-Sefra turned up the radio. Two drivers came round the end of the conveyor to listen. Inside the hall the blue paint still smelled where they’d marked off lanes for the owners’ passengers. Varet had put a line of chalk round the foundation for the lift. At the corners the chalk was already scuffed away by boots.
+Sefra turned up the radio. Two drivers came round the end of the conveyor to listen. A caller from the upper exchange at Kelm offered a berth above the rain to any crew that brought a hall. The exchange would pay them from the first day. Inside the hall the blue paint still smelled where they’d marked off lanes for the owners’ passengers. Varet had put a line of chalk round the foundation for the lift. At the corners the chalk was already scuffed away by boots.
 
 “Take the hall to Kelm,” Sefra said. “You’ve got all of us to move it. Let’s have a look at where it could go before somebody puts a ticket booth in front of it.”
 
 The traffic office would have been Temra’s at seven the next morning. In her head she’d put her old chair against the window and brought in a clean mug from home, one with the handle still on. She could go over and eat an apple and ask Varet what the pay was. She’d had the chance to ask him all afternoon. As she walked across she was still trying to fit Sefra’s boy onto a lift already full of people she’d promised would get home at six. She asked Varet what he’d take for the hall.
 
-He put the apple down. “I can give you the office. A proper wage for everybody who takes a job up there. Your crew can take a look at the place we have ready before you move anything.”
+He put the apple down. “The office is yours, Temra. A proper wage for everybody who takes a job up there. Go and look at the place we have ready before you move anything.”
 
 Sefra came up behind Temra. “When my boy comes here with dinner, will there be a place on the lift for him?”
 
@@ -98,7 +98,7 @@ The two people who waited at the forecourt whenever the door closed came across 
 
 Ivari stood with her laces done up and nothing to do with her hands. She watched her own breath go away. When Davra came back from her sister’s house, where the people with the litter had carried Ferren, she had his cap. From the lane Ivari could see her working it open where it had been folded to fit in his pocket, and brushing it off with the back of her hand. The neighbor let his board come to rest by the empty steps and asked if she wanted to go up to the house on it.
 
-“I can carry you with it when I go,” he said. “I’ll set you down wherever you ask.”
+“Come with me when I take the house,” he said. “Pick a place and I’ll put you down there.”
 
 “You’ll have to go down again for your brother, and there I’ll be.” Davra looked up at the kitchen door. “Set the house on its steps. I want to walk up to it. I’d like to go in the back without anybody seeing I’ve gone in.”
 
@@ -156,7 +156,7 @@ Mevrit hadn’t known that was what Sali would want to see. She could have shown
 
 Sefra called them onto the platform. She was holding the rail with her bare hand and had the glove with the blue repair still on the other. Sali hurried back to draw a crate of pears a little farther into the sun. She balanced it on one knee with just the tips of her fingers under it, then had to put it down hard. She walked onto the platform and went straight to the rim Sefra had told them to stay a foot back from. Sefra pulled her glove off with her teeth and gripped the rail with both hands. The deck moved out until every part of it was over the cloud. Sali backed up then, laughing, and brought her whole weight against Mevrit’s shoulder.
 
-At the foot of the old quay steps, Sefra brought the deck to rest above the wet stones and took her hands off the rail. It was queer to feel the ground give so little under each foot. Mevrit went up to help Sali get their aunt’s awning. They unhooked the weighted ends together and walked the folded thing down between them. Already they could hear Sefra counting the people on her next load.
+At the foot of the old quay steps, Sefra brought the deck to rest above the wet stones and took her hands off the rail. It was queer how little the stone gave under Mevrit’s feet when she stepped off. She went up to help Sali get their aunt’s awning. They unhooked the weighted ends together and walked the folded thing down between them. Already they could hear Sefra counting the people on her next load.
 
 Temra was under a lean-to keeping a list of names dry with her jacket. Sali asked if she could take the awning up to her pears. Sefra’s lift was full already. Temra put a finger on the list and said she could call it straight back down for Sali.
 
@@ -204,19 +204,19 @@ Mevrit found the people on the headland who’d already lifted things, drinking 
 
 Mevrit went back down the steps to get on the radio. Ivari had brought the ridge near enough to see the fixed landing. Mevrit asked her to put the ridge road against the end of the market, where it would be open to anybody coming down from town.
 
-“I can still take these houses so high the quarry man will never put a foot on his old stone again,” Ivari said. “If we put it down by your market, he can walk right up to our doors and tell us what the ground is worth. We’ve taken our houses this far. I want to hear what your people think they’ll have a right to if I bring them in.”
+“High enough and the quarry man will spend the rest of his life looking up at that stone,” Ivari said. “Put it down by your market and he can walk right up to our doors and tell us what the ground is worth. We’ve taken our houses this far. I want to hear what your people think they’ll have a right to if I bring them in.”
 
 “Keep the road open for anybody who wants to walk it,” Mevrit said. “I can leave you room at the end of the market for stalls. Anybody who comes looking for your house can knock, same as at mine.”
 
 The radio carried wind for a time. “I’ve left a man at the bottom of that road who can’t come up through his own top gate,” Ivari said at last. “If he comes all this way, I want him to be able to walk in. Leave me the wide end of the market.” Mevrit heard her tell somebody away from the receiver to take hold at the far end of the ridge.
 
-It took the vendors time to clear the weighted stalls. Some took the fruit out, moving one box at a time under the awnings, and some merely stood by until a person with a pair of strong hands could come over and float a whole stall clear of the shelf. In the gap where the fruit tables had been, Mevrit put her hands to the stone with enough room to straighten her elbows. She could feel it give as the others reached the ends of the shelf and took hold. Her first impulse was to look behind her and call for the people on the stairs to stand back. Then she saw how far all of them had gone from the stairs already.
+The vendors carried the fruit away a box at a time. Lifters floated the empty stalls clear of the shelf. In the gap where the fruit tables had been, Mevrit put her hands to the stone with enough room to straighten her elbows. She could feel it give as the others reached the ends of the shelf and took hold. Her first impulse was to look behind her and call for the people on the stairs to stand back. Then she saw how far all of them had gone from the stairs already.
 
 They brought the shelf round until the old lane that used to take you from the step to the first stall pointed straight out to sea. On land there was an open cut where the market had been. Water was still running off a red awning that someone had brought up flat across both arms. Mevrit could see, past each of the pairs of hands on the stone, a little more water where just before there’d been the shoulder of the headland. She had to move slowly to match her end to the landing below the Box. It felt the way a wet board feels when you lower it in the dark, with the width of the load in both arms and all your attention on the last place where it might catch. The two edges met on a level. When she let go there was a little water running from the market stone across onto the landing.
 
 The upper exchange sent down its own lift for the Lipstone crew. Its pilot, a man in a white coat, took his hands off the rail and said the berth was ready for the hall. Through a break in the weather Mevrit could see the bright flags overhead where the hall would go. The streets on either side were full of people going to market in the sun.
 
-“If we take the hall up now, the exchange pays us all from the first day, as I told you,” Temra said to the people on the steps. “I want the hall here, with both doors on the market. Anybody who can afford to give up the wages, come and take hold with me.”
+“Our wages start today if we take the hall up to the exchange,” Temra said to the people on the steps. “I want the hall here, with both doors on the market. Anybody who can afford to give up the wages, come and take hold with me.”
 
 “I could have stayed in Lipstone at a wage,” said a man on the lower steps. “I came because you had work for me up there. I’ve been putting away what I have to send back for my boys. If we put it down here, what do I tell them when it’s time to send the next lot?”
 
@@ -226,7 +226,7 @@ The pilot from the exchange said he could get work for anyone who could help rai
 
 Sefra came over far enough to see the new shelf past the Box. “Set the wired door here,” she told Temra. “Let whoever needs to knock get to the pane.” One of the women from the hall had set her bag in a place on the exchange lift. She reached over the rail to get it back and laid it beside Sefra’s on the step. Then the man in the white coat put his hands to the rail and took the three of them up through the cloud.
 
-“I’m three people short at the far corner,” Temra said. Mevrit brought two of the market lifters to Sefra’s platform. High out over the sea they stepped from the platform onto the freight floor beside Temra. Once Mevrit had the corner under her hands, she felt what everybody at the other end had been up against. Temra called for another try and this time both ends moved together. The stripes rode up Temra’s arms as she widened her feet against the pull.
+“I’m three people short at the far corner,” Temra said. Mevrit brought two of the market lifters to Sefra’s platform. High out over the sea they stepped from the platform onto the freight floor beside Temra. On their first try, the corner dragged seaward hard enough to straighten Mevrit’s elbows. Temra called for another try and this time both ends moved together. The stripes rode up Temra’s arms as she widened her feet against the pull.
 
 Mevrit could step straight off onto the new shelf once they had the hall low enough. She turned on the edge to look back through both freight doors at the sea.
 
@@ -240,7 +240,7 @@ Sali had the awning back over her shoulders. She took the steps two at a time. B
 
 Somebody’s radio in the open hall was still taking bookings. Eight to the upper exchange at the evening fare. Off Kelm, a row of lights came close enough through the rain that Mevrit could make them out as lamps down the middle of a street. The people from Rendar were bringing an inhabited ledge longer than any of the pieces here. Beyond the two copper bands of their Box the roofline ran down to the old harbor steps. Below there was a ship riding at rest. Its deck was full of people who had been on their feet long enough to know how to stand in the swell without a hand on the rail.
 
-Rendar’s harbormaster called the exchange to ask about their berth. The answer from overhead was that they could still have it dry, with a full rate for the market sheds. The owner of the sheds said he could pay the quay crew starting in the morning if they went up. Mevrit could see the old dark line where the tide used to come up the steps. It was well above the tips of the ship’s masts.
+Rendar’s harbormaster called the exchange to ask about their berth. The exchange still had a berth above the rain and would pay the full rent for the market sheds. The owner of the sheds said he could pay the quay crew starting in the morning if they went up. Mevrit could see the old dark line where the tide used to come up the steps. It was well above the tips of the ship’s masts.
 
 The captain of the packet came on the radio. “The little quay at Kelm can’t take this ship. If your steps stay in the air I’ll go back to Lirven at dark. It’s the next place I can get in. I’ve got people who came all that way to get their dead home.”
 
@@ -248,6 +248,8 @@ Mevrit went to the open doors of the hall and took up the radio. “Bring your r
 
 “I’ll open the sheds down there,” their owner said. “I’ll have to tell the crew there’s no pay tomorrow.”
 
-The harbormaster waited for the lifters at both ends to say they could make the turn. Then she gave the word to bring the steps down first. Mevrit put down the receiver. The lamps began turning toward Kelm, with a pair of people taking hold between every two of them. The sea came up to the dark line on the steps. The ship changed course with just room to spare for its stern and somebody on the deck threw a line. A woman with a light at the foot of Rendar’s steps leaned out to catch it. She held her light low for the first people bringing a white case up the stone.
+A woman carrying a lamp came up to the harbormaster’s radio. “I was down for the first shift,” she said.
+
+The harbormaster waited for the lifters at both ends to say they could make the turn. Then she gave the word to bring the steps down first. Mevrit put down the receiver. The lamps began turning toward Kelm, with a pair of people taking hold between every two of them. The sea came up to the dark line on the steps. The ship changed course with just room to spare for its stern and somebody on the deck threw a line. The woman with the lamp leaned out from the foot of Rendar’s steps to catch it. She held her light low for the first people bringing a white case up the stone.
 
 On the old landing at Kelm, a woman Mevrit had never seen before was going up the ramp of the Box. She put her hand to the casing for a while before she went inside. She had the whole breadth of the doorway to turn in. All the air from the new coast came past her as she reached for the edge of the door and pulled it shut.
