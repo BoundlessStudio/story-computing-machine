@@ -1,119 +1,133 @@
 ---
-title: "Clover Stair, by Request"
-created: 2026-11-20
+title: "No Room for Banners"
+created: 2026-11-21
 canon: false
 ---
 
-# Clover Stair, by Request
+# No Room for Banners
 
-At the Rope Street shelter a woman leaned through a man's shoulder to read the timetable. First her forehead disappeared into his wet coat, then the tip of her nose. The man was eating a roll. From her seat on the 17 Nemi watched him look up, and it was a relief to see the woman's face come whole again.
+When the man across the aisle puts his hand up to the bell, the flour in the fold of his sleeve dusts his watch. Mette keeps her eyes on that watch while she waits through the long breath in her headphones, followed by a place for her to say good morning.
 
-Heat from under the green seat was getting through the wet stripes of Nemi's stockings. Her tail lay along the warm crack where the seat met the wall. She knew the woman's face from Tuesday, when she'd gone past Rope Street on the way home and heard her say *Clover Stair* to a pair of retreating taillights. The clock on her phone said 11:56. As the bus drew to a stop, rain came off the shelter roof in a sheet so flat it looked like another pane of glass.
+Her exam partner has sent her a recording of the whole talk, including the gaps for Mette’s parts. Once she gets to the date the first electric oven opened on Crookwall, she can give you every fact about that oven without drawing breath. Introductions are harder. Mette promised to take the first line tomorrow. She has started saying it under her breath as she walks to school and sometimes people on the pavement say good morning back.
 
-The man got on with the last of the roll bulging under his cheek. By the time he'd tapped his card Nemi had him placed two forms above her at school, always asked to carry chairs down for assembly because he was tall. Behind him, the shelter's lightbox held an advertisement for the Clover shops. A man in a pink shirt was giving a little girl a ride on his shoulders, both of them looking in through the window of the new chemist's.
+“Have you overshot?” the man asks.
 
-“Clover Stair,” the woman said from outside. She spoke patiently, with one hand at the open door. “Whenever you get there, love.”
+He means her. His eyes have come down from her headphones to the badge on her black blazer. In the window, above her pleated plaid skirt and a tumble of white hair, Mette can see one pink eye looking altogether too awake. She has been a passenger in school clothes all the way up from the depot, and she’s quite willing to stay one until he gets off. The gap in the recording ends and her partner talks on, splendidly, about a gas bill.
 
-The tall boy caught Nemi's eye and looked down at her red bow. “Still in your school things? I never got stuck that late, even on chairs.”
+“Bakery’s here,” calls the driver. Mette draws her pale tail clear of the man’s feet. When the doors open, the air comes down the aisle cold through her striped socks. The man puts his wrists together and gives the bus a little bow. He does it two nights out of three. On the other night he usually has a cake in a box.
 
-The woman was still out under the rain. Nemi put a finger to the cup of her silver headphones and looked at the woman over the boy's shoulder. “Get on this bus,” she said. “I've got a seat for you.”
+She watches him cross under the red bakery sign and put a shoulder to the steel door. The pavement goes shiny all at once as the rain comes down harder. He shouldn’t be able to hear her from there, but she waits for the door to shut behind him before she slips the silver headphones off and leaves them on the green bench.
 
-The boy nodded at the headphones and went on to the back. The woman at the door considered the bright route number without moving her hand.
+“Just us,” she says, on her feet now with her list unfolded.
 
-“I've been to the shops up there,” she said. “I sat opposite the chemist's till it opened.”
+“Has to hold like this till we come back.” The driver watches the wipers labor across the glass.
 
-Nemi pushed a wet hank of silver hair out of one eye. She had room on her bench already, but she swept the damp end of her tail into her lap to show it. “Stay on past Cresset Viaduct. I'll tell you when we're at the steps.”
+Mette has heard that every time the rain’s been heavy enough. She stands where she can see down the far lane and she still can’t tell, until the clock rolls over, which road they’re about to get.
 
-The woman got on. She took one look at the green bench and pulled out a clean handkerchief to sit on. Nemi watched her pinch the ends into pleats so they lay flat. The handkerchief was the sort that used to come in folded packets of three and it looked newer than her hands. “Wolla,” she said, when she was settled. “If you have to call me.”
+The numbers change to twelve. The headlamps light the underside of a shop sign where there ought to be the first white line of the truck lanes. The road dips and the bakery glass goes dark. When the bus rises again, it sends up a wingspan of water from the paving stones in the gods’ part of Crookwall. Another bus, a number 17 with someone standing in the same place in it as Mette is standing now, takes the turning over their heads. The street climbs through the open air to a court with one huge lamp on each corner. There’s a god up there with a face turned to each lamp. It looks down at the second bus with the face that has been in the dark. The bus goes on. The rain that fills the space below those wheels sounds deep enough to swim in.
 
-The boy and a woman with blue hospital trousers under her coat got out at the last stop before the railway. The boy put up his hood and stood under the sign looking back down Lornet at the lights in their descending rows. Then he made off at a run. As the doors folded shut, Joris put the radio volume all the way down. Nemi slipped her headphones down round her neck and shook her pointed ears free of the hair that had gone cold against them.
+A woman in blue flags them down at the crossroads. She’s waiting in the light from the one shop with a lit sign, an ironmonger’s with a brass goat in the window. Mette rings and the driver lets the woman in out of the rain.
 
-They reached Cresset Viaduct at midnight. Rain had hidden the railway at the top. It took a storm that heavy at that hour for the 17 to go under the arch in Lornet and come out in the gods' country. Of the three city buses that could cross, Nemi liked the 17 best. There was a place under the arch where its wheels always felt for a downhill that never came. The white bands of the road went under the bonnet and Joris let the bus coast until the kick of the wipers was the only way Nemi could tell they were moving.
+“I stood under that orange roof at the new stop,” she tells Mette as she gets aboard. “Every one of the bus numbers was wrong.”
 
-When they came out, dark brick ran ahead of them across a high bank with nothing built beneath it. A god as big as the arch they had left sat squeezed under her altar table. She held a fat candle in her hands to keep the wet off the wick. There were more candles than there had been a year ago, and still no one to come and light them. Wet lichen and the raw smell of tallow got in at the seams of the bus. Far below, the 9's headlights were pitching down another road.
+The woman used to hand out the pen when there was a petition to save the old shelter. They saved it twice, and then they took it down by the time the third petition got to fifty names. Two streets past the crossroads, Mette goes up by the driver to watch for a low break in the wall. The roof of Old Tile Shelter sticks out through the rain. It still has the brown tiles you could make out a face in if you’d done enough waiting. The woman hasn’t taken her hand off the rail since she got aboard.
 
-At Button Yard Joris swung the whole bus round on the cobbles in one turn and put the front door beside a narrow passage. Nemi got up to show a man in a button factory apron the way in. He had been getting out in Lornet at the stop for the new Button Court flats and going around every side of the building looking for the yard. When the doors opened, the wind brought in the hot smell of ground horn. He stepped out and turned round to smile at her. She hadn't seen any of his teeth since he got on.
+“Old Tile Shelter. Stay there till I get you a step.”
 
-Wolla sat up now as though it were bad luck to find yourself slouching as you drew near. Nemi knew when to expect the landing light, because it usually slid about two seats down the aisle just as the driver braked. He braked tonight and the aisle stayed dark. In the white of the headlights there was an oblong of earth where Clover Stair ought to have begun.
+The door would open on a gully if the driver let her down now. Mette walks to the rear window and lets them draw level with the tile roof. Then she rings. The woman takes the same step out she would have taken any day of the week when she was alive. There’s a blue smear on the tiles above the bench where she used to rest her elbow, and she bends to look for it.
 
-“Go a little nearer,” Nemi said.
+Six passengers who have been waiting together in the lee of the shelter need the bus. A man with a long shiny mark where a carrying strap used to ride his coat counts them in, himself last. He looks at Mette’s ears, which are still turned to check that the woman in blue has found her bench.
 
-Joris eased the bus forward till the light touched the raw ends of the bottom bricks. They might have been looking at a place where somebody had pulled up a tree. The iron rope post lay on the exposed earth with its cord still knotted round it. Once, to get the loose end clear of the doors, Nemi had tied it to the rail of the bottom step. She had her hand half up for Joris to open the doors. She turned it and gripped the pole. “Give me a minute, Wolla.”
+“Tallow Yard,” he says. “We followed the old factory wall last time and it brought us back here. There’s a boy who’s gone all the way round twice.” He touches a child on the shoulder as he says it, lightly enough that the child doesn’t have to look up.
 
-Then the landing light went over the roof. Wolla reached past Nemi for the window, leaving the square of linen on the bench. High on the slope, the lit windows of a building were passing from one side of a stand of bare trees to the other. There was the wide one above the landing and there, higher, the little round one with the red glass. Nemi made out a moving elbow where it cut off half the light. Timber creaked with such a low note that she felt it first in the pole she was holding. Somebody was walking away with the whole building.
+Mette has heard of Tallow Yard. In the city they took it out to make room for the truck lanes, which are a gray braid on every map she’s checked. She thinks she can get to the old yard from the road by the Marshal’s court. If she catches the Marshal on the way past, Mette has a question ready to ask her about that road and all the others she can lay.
 
-The walker ducked under a branch. There was the Long Dancer's cocked ear. Nemi knew it from the mosaic above her old station bench, where the rest of his face had fallen away. In the tiles a crowd with lit candles was catching up to him, and a woman in a paper crown looked pleased enough to start without anybody. *SPRING PROCESSION, DATE UNKNOWN*, said the little metal strip above their heads. Now the Long Dancer's heel came down on the hillside and a shudder ran through the bus wheels. Dust came out of the heater.
+“Take a seat. We’ll be passing the court.”
 
-Wolla said, “He's got the Stair too.”
+The man stays on his feet. “I’m Rella. Will you put us off at the yard first, if you’re going to see her? There’s no lifting us out of a crowd once she’s put us in the running order.”
 
-The Stair lay against him all of a piece, starting at his hip and rising to the hall on his shoulder. His hand was wrapped all the way over the foot of it, with his thumb along the bottom step. He had the hall level. Nemi saw two people swing past first one window and then the next. The Dancer went out with them over shelves of sharp rock that only his long stride could cross.
+“The yard first,” says Mette. “I’ve got time to ask her what I came to ask.”
 
-“Where does he think he's going with a dance on?” Wolla had both hands on the rail now.
+The child is still looking out. The lamps on the way to the upper courts have begun to swing in the rain.
 
-“Up where the road turns back,” Nemi said. She could see him setting his feet down in places he could turn easily with a building on his shoulder. The 17's road went round the whole hill before it came to the level ground up top. By the time it got there, the Dancer could be taking the hall into the high country, where the bus had no road at all.
+“Did you get to carry one of those?” he asks.
 
-“There's somebody I came to see,” Wolla said. “My sister Meral. She died six years before I did, and if she found her way up, she'd have stayed. Meral could dance in shoes you wouldn't put on to go across a kitchen.”
+“I had boxes to carry,” says Rella. “You wait here with me, now. Let the young lady find a curb.”
 
-“Do you want me to let you out where the steps were?” Nemi asked.
+In the usual way of things, a bus can wait at the bottom of the court road until the line of march goes by. Mette is looking out for a straight wall with a place to wait beside it when the wall leans in over them. The driver lets the bus roll to a standstill. Rain keeps coming down hard on the front windows, and the long shadow of the wall goes on moving.
 
-“So I can stand here and watch him get smaller? I can do that from the warm.” Wolla let go of the rail to put her handkerchief back in her pocket. She had to look at her coat to find the opening. “Does your driver know Gilder Lane?”
+“Tell me when you see the turnout for home,” the driver says. “You may get a better view down your side. I’ll want you up here going back.”
 
-“There's a wall at the top,” Nemi said. She'd once pushed her bicycle up to it.
+Mette steps right up to the glass. The bend they’ve just taken is standing higher than the shelter where they picked up Rella, although she can see the tiles below them in the same place. She can see another street beyond it lift out of its bed, gently enough to keep the rain pooling between the stones until it’s high in the air. A great deal of lamplight comes on overhead as the streets gather under the court. Inside the bus there’s a rattle of something small working its way down the aisle. Mette looks back in time to see a pencil roll under the green bench.
 
-“The wall came later, love. There was a gate with a square hole in the stone post where the latch went. One wet night Meral and I went up with the band. I got out to open the gate for the van, and there I was holding it wide, with rain coming off the top of it and down my neck. Alf drove for the band. He stopped by me to tell me he had nobody for the accordion that night. I let him tell me this. Meral was sitting next to him with her accordion on her knees. He was soft on her and always asking me to put in a word for him. I stood out in the rain till he turned his head and asked Meral to play. Then he went through and turned the van right round in the yard. He never once had to back up.”
+A woman walks uphill beside the driver’s open window. The road turns pale under the toes of her shoes, and you can see where she stepped last, all the way back to the bend. The city gave up the Marshal’s feast long before Mette was born. She can still raise any street where once she walked at the front of a procession. Mette has only ever seen her move one at a time.
 
-Joris let the bus roll up the road until the headlamps found the bricks of Gilder Lane climbing away on their left. He braked with the front wheels still on the main road, and Wolla let go of the top button she'd been trying to do up.
+“Conductor,” says the Marshal. Her coat has a deep square fold where a sash used to cross it. Water runs down her arm. “I wondered when you’d be bringing me a company.”
 
-“I called the dances in my street shoes till the band took a break, then I went down for air. My dance shoes were still hanging on the rail at the foot of the Stair. I got one on and stood there looking at the bottom step. It was iron, and if you wanted somebody to come down and get you, you gave it a rap. You could hear it all the way up to the hall. I had a little tap of my own worked out, with the pause Meral always gave me when I called a set. I wanted to see if she'd know me that way. I had my foot up when she leaned out over the landing and said, ‘I've saved you one.’ That was how she always did it. Up I went with the other shoe in my hand, and I think I did the whole first turn with it caught between us.” Wolla slid one of her hands under the other on the rail. “That was our last dance. I'd like her to hear me coming before she sees me, for once.”
+Rella gets up. One end of his strap has worked out from under him. “We’re for the yard.”
 
-Up the hill the Dancer took a great step across the bare rock. The landing light passed across the top of the lane and flashed through a square hole in a stone pillar. Nemi knew the pillar from the 17's usual route home. She'd always thought it was the end of a wall. In the wash from the hall windows she could see two dark lines where the wheels used to go, running up the lane and straight through the gap beside the stone.
+“You’ll have a place at the front. There’ll be people who need someone to show them where to stand. I used to have a woman with a sore hip who took the first call from a chair. Three streets over, little children still knew it was her before they could see the first lamp.” The Marshal has been looking at Rella until she says this. Now she looks up at Mette. “You’d do for her chair. Once you’ve brought this lot in, I’ll lay a road from my court to any stop you ask for. You may have one this very night.”
 
-“There it is.” Nemi went up front. “The gate. Right by our last bend. We could get up there while he's still coming around the hill.”
+Mette has imagined asking the Marshal down to the bus more than once. She was going to ask for one road, just to see where it went after the blue stone turn. Now she can see what a road looks like as the Marshal puts it in place. It comes up black out of the rain. The lamps light the stones one by one, all the way to a run of houses with a tower behind them, where a moment ago there was only dark. She can think of a dozen roads she’d ask for before she had to take a breath.
 
-Joris brought the wipers round to their highest speed. “I can take the lane if there's room to turn at the top. I want to come down with my headlights in front of me.”
+“Would I have a lamp of my own?” the boy says. He has his face down by the corner of the glass, where the tall lamps inside the court grow eyes in the rain.
 
-Nemi bent so close her hair touched the windscreen. She waited for the wiper to pass and could still see both lines leading through. *I'll tell you when we're at the steps*, she'd said, lifting her tail out of Wolla's way. She remembered how warm the seat had been and how easy it had been to say it.
+“Everybody has a light to wait by. There’s a long line for the small ones.” The Marshal sets her hand on the edge of the open window. The wheels start rolling again. “You can stand in it with somebody bigger until you know your place.”
 
-“There's as much room by that post as there is at Button Yard,” she said. “Take the lane. Pull up facing downhill and he'll come past our door. I'll show him where to put the Stair.”
+“See if the old shutter is banging,” Rella says to Mette. He has a fist around the rail where she’d been standing. He glances toward the boy, who still has his head at the window, before he goes on. “When the procession took the street we’d go home round the back of the yard. There’d always be some boxes left to carry. We’d lift the last of them up to the gallery by the shutter and pull out a plank to sit on when we were done. You could hear the door banging against its staple the whole time in a wind. Just the two knocks. Let us off by that shutter and we can go down through the yard and out the back, same as we used to. Your driver can leave us at the sill.”
 
-“If I have to back out, you'll stand by the rear window and tell me what I'm about to hit.” He waited for Nemi to take hold of the pole, then turned the 17 off the road.
+The driver’s fingers tighten on the wheel. “I can still take the lane toward home,” she says. “If we go now.”
 
-The headlamps scraped their way along the brick wall and caught a sweep of bramble hanging from the top. On the right there was scarcely enough dirt for the rain to strike before it fell away. Every time Joris took his foot off the accelerator, a few more pieces of brick went ticking past their back wheel and down the hillside. As they rounded the steepest part of the lane, Nemi wedged a foot under the heater and spread her tail for balance, looking ahead for the pale stone of the gatepost.
+For a few seconds the rain has the sound of dry peas bouncing on the roof. The thinner streaks already let Mette make out the stripe of the return road below them. She could send the bus that way with everyone aboard. They could be at Crookwall again inside of three minutes, in time to get back to the part of the night when she can pretend to fall asleep over a book. Even thinking about it makes her put a hand halfway to the seat in front of the bench where she left her headphones. She puts the hand on a stanchion instead.
 
-They went between the two gateposts, the latch hole so near Nemi could have put her hand into it from the window. Joris turned left in one sweep on the paved shelf and brought them round facing the way the 17 usually took home. There was room for the Stair on the flat stretch outside the front door. A fiddle in the hall took the high part of the Millgate Reel, clear enough now to hear from the shelf. Nemi knew it from listening through the glass at the old stop.
+Two knocks come from outside the driver’s window. There’s wind in at the opening, and with it the smell of hot tallow from beyond the brick wall. Mette listens with her head tilted, hair sliding along her collar. The noise stays in the same place while the bus moves. She sees three white hooks along a sill.
 
-Joris set the brake. Nemi reached under her collar and pulled free the red bow. When the doors swung out she held an elbow around the front pole and stretched the bow into the light outside. The Long Dancer set one foot on the rock beyond the shelf. As his heel came down the bus rocked on its springs. He caught the red moving by his ankle and bent sideways to see who was there. The whole side of the hall came into view above them, running with rain. At one window hands appeared to pull up a blind.
+“I did come to ask you for a road,” she says. “I wanted everything you’ve just offered. But I can stop for the yard now if you’ll let me. That’s what these people asked me for at the shelter.”
 
-“Clover Stair,” Nemi called. “I've got someone for your stop.”
+“Nobody ever wanted to stay in the loading yard,” says the Marshal. “That’s a place you hurry through with the things you’re bringing to somebody. Little one, lift your head. It’s a fine view from the court.”
 
-He breathed in to speak. The cloth of his shirt rose behind the slats of the stairs and shook loose a handful of beech leaves. “I'll take your passenger to the top. Come along, whoever's for the Stair.”
+The boy kneels up on the seat. Mette goes to the bell and presses. “Tallow Yard. We can get you to the gallery.”
 
-He brought his palm around to the front door and held it there like the floor of a lift. It would be a moment's ride to the room with the lights. His other hand still covered the whole bottom tread. Nemi put the bow in her blazer pocket, where it immediately began to come out again.
+The Marshal takes her hand from the window. The nose of the bus climbs so sharply the boy sits down in a rush. Mette holds on and sees the sill drop below the driver’s window. For a few seconds she thinks she’s missed her chance and then she looks back down the aisle. The rear doors are lower than the front, with the whole length of the bus sloping between them. Down there she can still catch the sound of the shutter almost at her own height.
 
-Wolla came to stand by her in the door. “I need to get off at the bottom, love. I came to call my sister.”
+“Give me the back door,” she says to the driver. “Roll forward slow till I tell you.”
 
-“If she's dancing upstairs, you'll see her from my hand. I'll set you right by the window. I've done it for feet that couldn't come any other way.” He held his offered hand where she could see it. His nails were worn close and clean, and rain ran into a little cup in his palm.
+The driver looks down the aisle at her. There’s enough of the return road in the mirror now to see where the stripe divides. The driver takes her hand off the door switch and lets the bus roll another yard, then another. Mette goes down after it and rings when the three hooks are just outside her own door. They’re two handspans from the rubber edge when the bus comes to rest. The driver opens up.
 
-“She's my passenger,” Nemi said. “She's been left at the chemist's before, and she got on the 17 because I said I could give her the steps. Will you put them down for us? There's room where the light from our door falls.” She leaned out far enough to show him the flat stretch of road. She could see the ends of the bricks at the edge, with darkness where the row ought to go on, and her wet hair was working its way into the corner of her mouth. She held tight to the pole. If he walked on from here, all she would have left for Wolla was the seat she'd given her in the first place.
+The gallery feels a long way from the aisle until Mette puts her shoe on it. She takes a whole breath there. The floor of the bus is shivering under the foot she still has to bring over. The bricks under her other foot hold. She swings her tail clear of the doors and puts a hand on the shutter, where the place to push is marked by a wide flat thumbprint in dried tallow. The shutter gives and she has to step through to keep it from blowing shut.
 
-The Dancer lowered himself far enough for the side of his face to come nearly level with the top of the bus. “I left the bottom step on the ground below that hill for years after they stopped coming from Lornet. That used to be my place to listen. A child who'd never climbed so many would count the steps up to eight, then get to ten somehow after that, and all the rest of them would cheer at ten because they could hear the child was going to make it.” He shifted the weight on his shoulder and there was a faint slither of furniture overhead. “Some nights when your bus went by I thought I heard them again.”
+“Here’s the step.” She frees the red bow from her collar and winds an end of it round the white hook at the opening. The whole piece of road under the bus is sliding toward the court. A passenger puts the toe of his boot past the edge of the doorway and then takes it back. “Look at the red. There’s room to stand. Rella, you know this place.”
 
-Nemi felt Wolla reach for the door rail. Wolla planted one foot and drew the other back. Two quick strikes of her heel on the bus floor, and then another after a space Nemi could have fitted one strike into. Wolla waited just that long again before she spoke.
+Rella crosses. He gives the first man his hand and waits for his boot to come down on the bricks. “I sorted deliveries right where you’ve got that foot,” he says, as cheerfully as if somebody might be unloading before a nice quiet breakfast. Two more riders crowd the door and Mette gets them down. The woman behind them has a much longer stride than she needs and Mette has to catch her against the shutter. She laughs in Mette’s ear when she’s firm on the brick. Mette opens her mouth to tell her to watch her footing and laughs too. She looks back for the boy and can see the width of the dark shining through the bottom of the open door.
 
-“There,” she said to the Dancer. “Will you keep time for us, if I get her down? The band used to take the pause too fast and I'd have to make them wait.”
+“Conductor,” the driver says, and her voice is pitched so it can reach both ends of the bus. “I have to take that turn in the next few seconds.”
 
-The Dancer looked down at Wolla's shoes. Mud edged the stitching where the sole met the leather. One heel was worn on a slant. He brought his free hand down to the side of his knee and tried two taps with his fingertips. Nemi thought at first that he had missed the third, but he waited as long as Wolla had done and gave it its own weight.
+The boy is looking past Mette up the bus. “Could I get out at the front? I could go with the lady.”
 
-Then he turned in place. It took him time to get the foot of Clover Stair round to the door. He held the weight of it on his forearm while he eased his fingers off the step, one by one, and Nemi stood with her hand out showing him how much room there was as the metal edge came down through the rain. It stopped at the height of an ordinary pavement outside the front door. There was a long held note from the hall. Wolla had both feet just inside the rubber strip along the floor of the 17. Nemi could have touched her shoulder without reaching.
+She can see what he means. The front doors are well above the gallery now, but the Marshal is still out there up on her street. The whole side of the hill is alight. Through the tall windows above the court doors it looks as if a hundred people could already be waiting with a job for him. Behind Mette there are two slow sets of feet. Something wooden drags along the brick and falls quiet. Rella hasn’t come to the edge to tell him what to do.
 
-“We're at the steps, Wolla,” Nemi said.
+“You can ask the driver. Or we could look through the yard together. I’ve never seen inside it either.”
 
-“I used to come down backwards in my best pair,” Wolla said. She put one shoe out and felt for the tread with the flat of it. When she was sure, she put the other beside it, and looked back so Nemi could see she had made it. Then she turned her face to the landing. The bottom of her coat was dark all the way round from the westerly rain that had got through the doors. Nemi wanted to call and tell her she'd wait, in case nobody came and Wolla turned and found the door shut. She looked back at Joris instead and held her hand flat. He took his hand away from the switch.
+The boy studies her. She could make it back to the bus from here if she jumps now. At the end of the green bench the little silver circle on a headphone catches the light. She thinks of her partner on the recording, taking that breath and leaving it there for her. They’d arranged to go over it one last time in the hall before the exam. Her partner will be leaning there against the cold part of the wall where the plaster has come off, holding the notes out so there’ll be room to read over her shoulder.
 
-Wolla struck the tread twice. The stair took the blows all the way up with a hollow sound that was round and full even to Nemi's ears, which had always found the warning chime on a bus a little sharp. It was hard to let the pause lie there. In it Nemi could hear rain finding its way into the trough over the door, the steady swell of the idling engine, and the thump of the hall floor when a whole room of shoes met it at once. Wolla's third blow rang longer than the first two. She stood down there with her head up.
+“I’d like to see where he sat,” the boy says. “Could you hold my hand over the bit with nothing?”
 
-“Wolla?” called a woman from beyond the bend of the Stair.
+Mette sets a foot by the bow. For a breath she feels ready for both steps, back to the bench and forward into the boy’s weight. She braces her knee against the sill and reaches. The boy springs too soon and for a little of the reach there’s only the cuff of his sleeve in her fingers. Then he has two feet on the bricks and a hand planted in the middle of her blazer.
 
-“Meral,” said Wolla. She caught the rail and went up a step, then the next, her whole coat swinging with her. The woman who'd called came down as far as the bend with her arms bare. She stood where the light from the hall reached her hands and took hold of the rail too, to let Wolla come up to her. Wolla saw she was going to wait and laughed once, hard, where anybody could have heard it. Wolla offered her hand first.
+Mette leans out. “Take that stripe where it splits. I’ll be here.”
 
-Joris glanced at Nemi past the door, and this time she nodded. There was hardly any light at the bottom of the Stair after the bus doors came together. She caught the bow as it worked out of her pocket and raised it to the glass to give the Dancer the all-clear. He took up the Stair. The hall rose with it and came level with his shoulder again. Her headphones had gone cold against her throat. She left them there and brought one ear close to the glass for as much of the reel as she could still hear. As he turned toward the ridge he tried out the first two taps with one vast heel. He waited, and on the last beat took a stride that carried both women and the lighted hall out of reach of the road.
+The doors fold together. Mette can hear the brake let go from the gallery. When the bus pulls across to the turnout it has to swing round to come off the Marshal’s road. A long gray splash hits the side of it as it takes the return road down into the rain.
+
+Mette stays at the opening. The bus is a single bright length about the size of the green bench now. The windows slip past a dark red band and light it up from the side. It’s the sign over the bakery door. The end of the bus follows, with the bench where she left her headphones. The bus lights go out of sight and the rain goes down to a whisper against the bricks. There’ll be all kinds of rain in Crookwall before another bus comes through.
+
+The boy is standing where she set him down. With the shutter open there’s a little light from a lantern stub stuck right into a crack in the wall. She takes her bow off the hook. It sags from her hand with the weight of water in it. The boy puts out his hand again, and they go down the gallery into the yard.
+
+Rella has the edge of a plank in his fingers. He’s found it on a ledge under the wall by sliding his hand along through a brittle run of old white spills. He lifts it out, clears the two blocks where the porters used to set it and puts it down across them. The first creak of it under his weight makes him laugh. There are people waiting at the far gate and he keeps his seat. He has taken his strap off and put it beside him with the worn side up. His fingers curl around the seam of his trousers. Little by little he opens out both hands until they lie flat on his knees.
+
+The boy has a look at the low shelf. “Were you cold out here?”
+
+“Sometimes,” says Rella. He shifts over on the plank. “Come try the good end. That corner keeps the wind off.”
+
+By the time Rella gets up, somebody has pulled a gate back between the loading doors at the far end of the yard. There’s room in the opening for several people at once. Outside it there are no big lights to see by. The first person out has got far enough to turn a corner before the lantern over her glows, and Mette can see from the angle of the light that she’s gone a good way down. Another road begins behind a store with empty hanging baskets. One of the others goes out that way.
+
+Rella asks Mette to come as far as the gate with him. Together they pass the last of the loading doors where the tallow smell is stronger. He picks out a way from the opening that Mette can’t quite see. She nearly calls out that the ground seems to dip there, but he’s already felt it for himself and lengthened his stride. The shutter knocks twice behind her. When he gets far enough down his road for a light to come on, she sees how much room he’s left between himself and every other person walking.
