@@ -17,3 +17,9 @@
 **Outline Decisions checkpoint.** Yes at native confidence 0.98 (Yes 0.99, No 0.01, source ambiguity 0.00). Proceed, with zero restarts and no user ruling needed. The two inherited shapes and the timing of their changes determine Efa’s shortcut, catch, and choice to run again.
 
 **Voice trial.** Both readers chose Efa’s retrospective first person at the pear-stalk line. Efa remembers exactly what waiting at the gate got her. The keeper called the opening a “family argument over who remembers it correctly.” Claude heard a woman who “still keeps the receipts, fondly.” Both liked the close-third trial’s physical immediacy and Avice’s thorn and pie. The chosen opening needs room for Avice’s particular speech and for the body of the runner in the moment. Both trial texts are in the outline revision’s commit message.
+
+The writer chose retrospective Efa for her pleasure in disputing the family’s account. She keeps the head-start argument, holds back the result, and stays close to the body through the two changes in the race.
+
+## First complete draft · 2026-11-20
+
+The writer checked listener knowledge and the race’s order of actions on two read-throughs. The prose profile pointed to the longer narrative paragraphs and Avice’s sustained accounts. The three movements run without a typographic break because Efa stays with the same day, place, and opponent.
