@@ -12,6 +12,8 @@ the refence iamge dose not make sense the dock cloide the with trunks and docks 
 
 you got the reference image corrected but that failed to use that correctly for the cover image; try again
 
+change the cover iamge to really focus on the girl same camera pose as the reference image.
+
 ## Supplied reference images
 
 - `codex-clipboard-f3f89445-df47-42c2-b8ef-94798e63ea99.png`
