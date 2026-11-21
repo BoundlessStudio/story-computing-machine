@@ -14,9 +14,9 @@ The woman had just come out of the Box. She was pinching at the cuff of her coat
 
 “If I get that,” Bess said, “I'd like it to work on the drawing of an orange, so I'd have an orange to eat while I tried the drawing of a horse.”
 
-Dena got as far as thinking where a horse would fit, with the shoe rack out of the hall, before the phone buzzed. *My new mover can send it straight out of the house with the doors shut, right into the music room at Firth Road. He'll do it for a hundred and forty.* Eight years of Friday deliveries. It was good of him to remember her number when he needed somebody to match a price. This was the first job he'd sent her in a month.
+Dena got as far as thinking where a horse would fit, with the shoe rack out of the hall, before the phone buzzed. *My new mover can send it straight out of the house with the doors shut, right into the music room at Firth Road. He'll do it for a hundred and forty.* Forty less than Dena had nearly asked. That was what they set aside for Garth's van before any of them put a hand on a piano. She looked down the stripe at the Box. Whatever it had given Auden's new mover, he could do that job without a van. It was good of Auden to remember her number after eight years of Friday deliveries. This was the first job he'd sent her in a month.
 
-A woman across the rail passed the man ahead his coat. He worked one arm into it. “Which of you is going?”
+The man in front of Dena took his coat from a woman on the far side of the rail. He worked one arm into it. “Which of you is going?”
 
 “All three,” Dena said. It came out readily, like the price when you'd already seen the stairs.
 
@@ -36,7 +36,7 @@ The wet coats had begun to steam by the heaters at the next bend, and the place 
 
 “It's for my own piano, when I've got one,” Bess said. “I could leave the lid up all the time in there.”
 
-The roof panels had gone the green they went when it was late enough to turn on the lamps. Dena saw the whole room, with flour in the cracks and no one in it. She would have liked to ask why Bess had found a place for the piano before saying anything about where she'd sleep. Garth was looking up at the roof and the crossbeams running below it.
+The roof panels were darkening to green when the lamps came on. Dena saw the whole room, with flour in the cracks and no one in it. She would have liked to ask why Bess had found a place for the piano before saying anything about where she'd sleep. Garth was looking up at the roof and the crossbeams running below it.
 
 “The first thing I'd do if I got flying is take a look in my sister's window,” he said. “I was short for the first van, so I took a perfectly good radio off my windowsill and let the man have it for the difference. It was my sister's radio, see. She says I could stay away six months and she'd miss the radio more. I'll go up to the fifth floor when she's fixing supper and put my feet on her sill. I'll ask her just how much she's got that wants bringing down.”
 
@@ -44,7 +44,7 @@ The roof panels had gone the green they went when it was late enough to turn on 
 
 The second bend of the queue brought them back near the entrance, with three dozen people between them and the place they'd started. A man was coming in with a boy asleep against his shoulder. The guard held the door until the man's bag was clear, and cold air went under Dena's cuffs. At the table by the doors another guard found the man's booking and handed him a numbered slip. Anyone could book a turn and it cost nothing. North Sill had the only Box in the world.
 
-On the back of every slip were the two things that could happen once the door closed. An even chance of burning to death, an even chance of coming out with a power. Whatever power you got was chance again. Dena had taken three numbers because she could think of almost anything they could get between them and see a use for it. On the morning she made the booking she'd looked up the odds of all three people dying and come downstairs feeling better. She hadn't put down anybody's name while she was doing the sums.
+On the back of every slip were the two things that could happen once the door closed. An even chance of burning to death, an even chance of coming out with a power. Whatever power you got was chance again. Dena had taken three numbers because she thought even one new thing any of them could do might be enough to bring the work back. She'd waited four months for an afternoon when they could get three turns together. On the morning she made the booking she'd looked up the odds of all three people dying and come downstairs feeling better. She hadn't put down anybody's name while she was doing the sums.
 
 Garth took off his cap and let Bess push his hair flat with her hand. He went when his number was called. A low gate opened onto a stretch of floor kept clear all the way to the Box. From much farther back, Dena had thought the Box looked as if you could tip it and slide something under it. Now she could see how the sides went straight down into the concrete. The old paint of the tow stripe went right up to the shut iron door.
 
@@ -58,7 +58,7 @@ Dena took out his keys. She was very near the low gate. Perhaps forty feet of op
 
 Bess slid a hand under Dena's arm. “Come on,” she said almost under her breath, and gave an upward tug, the way she did when Dena had missed a step. “We can get out the way we came in.”
 
-They went a little way back down the line together. People flattened themselves to let them through. A woman was pouring something from a thermos into its lid. Some of it had spilled over her fingers, and she took a step sideways with one hand out, trying to keep the hot lid from coming up against the sisters as they passed. Just back from the low gate the rail made a corner. A guard pointed to the hinged section there. Bess brought Dena right up to it. Behind them one of the attendants was setting a fan in front of the open Box. Dena felt such relief at being farther from it that she thought they'd both already left.
+They went back two steps to the bend in the rail. People flattened themselves to let them through. A woman was pouring something from a thermos into its lid. Some of it had spilled over her fingers, and she took a step sideways with one hand out, trying to keep the hot lid from coming up against the sisters as they passed. At the bend a guard showed them where a hinged section opened sideways to the people waiting with coats and bags. Bess brought Dena right up to it. Beyond the low gate an attendant was setting a fan in front of the open Box. Dena felt such relief at being farther from it that she thought they'd both already left.
 
 “We can get a van from Cotton's on Monday,” she said. “We'll ring about Auden's to fill the afternoon and go after the one at Orchard Music in the morning. For the price of a day's hire we can do two if we have them lined up right. We've got a set of straps at home. I can go back to the yard for the blocks when his sister's had time to put things in order.”
 
@@ -74,13 +74,15 @@ Dena had the keys in her fist and could feel the little peg for the garage stick
 
 “I don't need another look. I've asked if she'll hold it till the first.” Bess put two fingers in her pocket and brought out the end of her slip. “I put a chair in it in my head as soon as I saw the place. A chair you could put all the way back against the wall without somebody having to get up and open a cupboard. I'll have to get the money yet. You asked me if I wanted to come. I said I did, and then all the way here you talked about jobs we could do after. You were trying to take another one while we were in line. I've been looking at the other end of this room all afternoon, Dena.”
 
-“Come home with me, Bess. I'll drive. I'll take what Auden's offering. If we can get the piano down for what he's paying, it'll be a start. I'll answer the phone and you can decide what you'll do when we get through the front door. Look what I said to Garth about that trunk. He was putting the keys in my hand and I told him he'd be home to take it down. I said it like I'd been out to look and knew the way was clear. I can't tell you you're coming out, Bess. I'll give you every penny Auden ever paid me if you'll come back to the van.”
+“Come home with me, Bess. I'll drive. I'll take what Auden's offering. If we can get the piano down for what he's paying, it'll be a start. I'll answer the phone and you can decide what you'll do when we get through the front door. Look what I said to Garth about that trunk. He'd put the keys in my hand and I told him he'd be home to take it down. I can't tell you you're coming out, Bess. I'll give you every penny Auden ever paid me if you'll come back to the van.”
 
-Bess breathed out quite steadily. “I'd take you up on the lift. And I'd take you up on the money. Even if all the work came back I'd still want a turn. I've seen a green leaf come out of a woman's coat. Think of growing a whole row of them out of the wallpaper in that room. I'd do it all afternoon, Dena. I think if we get back to the van I'll be pulling out my phone to see when I can get another number.”
+Bess pressed flat a corner of her slip. “I'd take you up on the lift. And I'd take you up on the money. Even if all the work came back I'd still want a turn. I've seen a green leaf come out of a woman's coat. Think of growing a whole row of them out of the wallpaper in that room. I'd do it all afternoon, Dena. I think if we get back to the van I'll be pulling out my phone to see when I can get another number.”
 
 “On the way here I kept waiting for you to say we'd all three be coming home,” Dena said. “I could see us getting back in the van. You saying it was my turn in the middle.”
 
-They opened the low gate to the Box. People who'd been whispering began to talk again. A woman read Dena's number out once, and then again. The man who'd put his coat back on looked from Dena to Bess, and she remembered having given him three people to watch for. She took out her slip, and when the woman saw it and held out a hand, Dena stepped toward the stripe. Garth had taken the clear floor in such long steps she'd hardly had to move her head to look after him. She looked down and saw that one of her boots was across the stripe already. The fan at the other end had blown the smell of scorched wool back up the line. Dena could hear Garth saying “Go on” as plainly as she'd heard him from the rail.
+At the head of the queue the attendant swung open the low gate and read Dena's number. People who'd been whispering began to talk again. The attendant read the number a second time. The man who'd put his coat back on looked from Dena to Bess, and she remembered having given him three people to watch for. She left Bess at the bend and stepped up to the gate with her slip. Just beyond the attendant's shoes was the yellow stripe.
+
+If she came out strong enough to take an upright down by herself, she could put a price back in the message to Auden and mean it. She could get on with the work while Bess went to see about her room. Dena looked down and saw that one of her boots was across the stripe already. The fan at the other end had blown the smell of scorched wool back up the line. When she thought of saying “Go on” to the man at the door, it came to her in Garth's voice.
 
 “I'm giving up my turn,” Dena said. She backed up to where Bess stood with the guard. “Will you let me out here?”
 
@@ -106,9 +108,9 @@ The attendant pulled the door open. Bess walked out. She put one hand to her mou
 
 ***
 
-A week later, at a quarter to three, Dena pulled the hired van into the alley behind Orchard Music. Mr. Auden's piano had reached Firth Road before she'd got back to him with a price. She could lay the ramps flat along one wall of the hired van, in the space Garth had used for a crate in his. They'd pushed it under gates that swung shut and propped toolboxes on it, and once, in the first year the three of them had worked together, Dena had stood on it to see whether Bess was coming back down a street they'd got lost in.
+A week later, at a quarter to three, Dena pulled the hired van into the alley behind Orchard Music. Mr. Auden's piano had reached Firth Road before she'd got back to him with a price. She could lay the ramps flat along one wall of the hired van. In Garth's van that space had belonged to the crate. They'd pushed the crate under gates that swung shut and propped toolboxes on it, and once, in the first year the three of them had worked together, Dena had stood on it to see whether Bess was coming back down a street they'd got lost in.
 
-When Dena had brought Garth's keys round, two days after calling his sister Enid from the airport, she'd meant to ask if they could keep the crate. Enid opened the garage with the little brass key. She held the ring by the key with the spot of nail varnish, letting the rest of them hang down and knock together.
+She'd rung Garth's sister Enid from the airport on the night he died. Two days after the call she went round with his keys, thinking she might ask if they could keep the crate. Enid opened the garage with the little brass key. She held the ring by the key with the spot of nail varnish, letting the rest of them hang down and knock together.
 
 “When you rang, you said he'd been talking about my window. Was that the last thing he said?”
 
