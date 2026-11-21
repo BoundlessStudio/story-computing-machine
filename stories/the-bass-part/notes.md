@@ -27,3 +27,7 @@ Decisions on the revised outline returned **Yes** with native confidence 1.00, Y
 ## Voice
 
 Both readers chose opening 2, Tulla's address to Sefra. The keeper stayed for “You would ordinarily need a whole row of people to give a woman so much attention,” which gives her a reason to play again. Claude stayed for the crate she paid her cousins to carry so she could “be the largest thing in the view.” Both preferred the close third opening's eye for Mallow's cheek folds and Whitewheel's crowds. The writer chose first person for Tulla's pride and willingness to make her own mistakes entertaining, and will let her patter fall quiet on the shelf. Both trial openings are in the voice-trial commit.
+
+## First complete draft
+
+The writer checked the whole account, reread the middle aloud, and tested dialogue from each listener's knowledge. The first failed relay now lands at a boy's feet on the near shelf. The missed distance becomes visible without having to explain the echo off the nearer wall. The profile flagged no recurring habits, with more varied sentence rhythm and longer spoken turns than the collection baseline.
