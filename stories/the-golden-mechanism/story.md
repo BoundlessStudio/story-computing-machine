@@ -90,15 +90,25 @@ I come away from the spearheads toward that paving. In the place where I knelt f
 
 He stops with one foot ahead of mine. I feel his hand move in mine as he leans back to look. His eyes go up with the foam. I wait for him to look down into the water where the lights are. He lets go so fast my fingers go right on trying to hold his. I'm still holding my hand out when he gets his eyes down to the stone and puts his palm flat on it. The weight comes back into my shins. My legs go loose the way they did for him when I was little, and I'm waiting for the stone to meet them gently when my knee hits the back of the hollow and something in the joint goes with a snap I can hear through the bone.
 
-The woman whose husband covered her head gets straight to her feet at the sound. The god with the sheaf turns to look at my knee. His hands stay on the rail. I have both hands down. I can go the whole way to the city if Orsen lifts the weight for long enough to let me up. The paving is clean and dry at the far end, and from where I am there's a split in one of the flags. I'll step over the split. I'll keep right on walking.
+The woman whose husband covered her head gets straight to her feet at the sound. The god with the sheaf looks from my knee to the water. He leans back till the spearhead in his fist begins to bend. When he straightens he has his whole back to the sea. I have both hands down. I can go the whole way to the city if Orsen lifts the weight for long enough to let me up. The paving is clean and dry at the far end, and from where I am there's a split in one of the flags. I'll step over the split. I'll keep right on walking.
 
 “Let me up, Orsen. I'll walk in beside you.”
 
-His hand stays flat. There's time to take several breaths in which nothing hurts any more than it did. I've got most of myself on my hands and there's one good foot. I want to tell him how much my knee hurts. I want to see the shape carrying the lights. If I slide one palm a bit farther back I can tip my face up without moving my knee. I get as far as seeing the foam overhead and the stretch of water where the lights ought to be. Orsen shuts his eyes. His fingers spread against the stone.
+His hand stays flat. There's time to take several breaths in which nothing hurts any more than it did. I've got most of myself on my hands and there's one good foot. I want to tell him how much my knee hurts. I want to see the shape carrying the lights. If I slide one palm a bit farther back I can tip my face up without moving my knee. I get as far as seeing the foam overhead and the stretch of water where the lights ought to be.
+
+The goddess of the Last Light lifts one hand toward the water. The feast lamps go out all along the Step, as far back as the market stalls. The white of the water goes on moving across her face. She puts her other hand up too. She keeps closing her fingers on the light and opening them again, faster than I can count.
+
+“Last Light,” Orsen says. He looks across me to the god with the sheaf. “Come down here. Both of you. Help me kill her.”
+
+Orsen shuts his eyes. His fingers spread against the stone.
 
 He puts more weight on me and I get my elbow up to shield my face, and the stone catches the side of my mouth even as my arm makes a turn that an arm can't make, and there is a white bit sticking through the cloth of my sleeve. I try to get the sleeve over it. The air goes out in one rough rush, and by the time I hear it come back in a wet patter I've got two teeth loose against my tongue. A bubble of blood sticks to my chin and bursts against the stone.
 
-I am trying to take a breath under the weight. If I could get a finger under me I could leave a little room, just the width of a finger. The wrist I put against the stone has slipped in something warm. My lungs are trying to make room for themselves and all they do is push back against the stone. Orsen is still pressing. I know it because I feel the lowest of my ribs give and then the ones above it come apart one after another. The ends go in. My mouth fills again around both loose teeth and I have to try to breathe through it.
+The god with the sheaf comes over with the broken spearhead in his hand. Even on his knees beside me he keeps his back to the water. The iron knocks twice against the stone before he drives it into my side. I try to get my hand around his. Something warm comes down the side of my body and my wrist slips in it.
+
+The Last Light comes down beside my face and lays the silver of her veil across my mouth. I think she's going to wipe it. The silver pulls at the air left in my chest. I open my mouth wider and the breath goes on going out, even when I try to draw it in. The silver goes dark with my blood where she holds it.
+
+If I could get a finger under me I could leave a little room, just the width of a finger. My lungs are trying to make room for themselves and all they do is push back against the stone. Orsen is still pressing. I know it because I feel the lowest of my ribs give and then the ones above it come apart one after another. The ends go in. My mouth fills again around both loose teeth and I have to try to breathe through it.
 
 There is a strip of the sea I can see without lifting my head. One of the pairs of lights comes all the way across it, with an extra light moving a little way behind. I can't see what's carrying them. There is blood between my hand and the edge of the stone. It swells out, clings, and lifts in long strings into the strip of light. My right hand is lying open with the little dirty mark showing. I want to pull my fingers in. I get one of them to scrape the stone and I am surprised by how much I need to do the same with the others.
 
