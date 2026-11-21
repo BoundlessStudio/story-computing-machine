@@ -58,9 +58,11 @@ For years after that, on mornings when I could get my elbow on Ida's pod, I read
 
 At sixteen I could read the sight tubes standing up. At Ida's I still had to bend to see the bubbles clear of the reflection from her lamp. On the first morning Marl let me take both banks alone, I found him in the galley afterward with flour up one sleeve. He carried the log into the aisle with me. I could tell from which way his eyes went that he was going to ask me what Ida's reading had been. He took a second look at the page and read it back to me instead.
 
-He taught me to fly in that year, too, on the console with the drive in simulation. The end of every practice run was the point where we'd meet the ferry. I'd ask where it went from there. He always talked about what we could do here to make it easier for them to take us aboard. When I got tired of the simulation I'd listen to Ibis and the other ports calling their supply boats in. Once that whole long after-supper hour was taken up by three men who needed a fourth to get a piano through the collar.
+He taught me to fly in that year, too, on the console with the drive in simulation. The end of every practice run was the point where we'd meet the ferry. I'd ask where it went from there. He always talked about what we could do here to make it easier for them to take us aboard.
 
-By twenty-three I was keeping the night watch, when I could hear a pump knock from my bed and look out to see where we were by the lights on the coast. The new coastal towns belonged to the dinosaurs. I'd seen them on the survey feed replacing the North Ferry steps with a broad tram crossing. I spent most of a winter looking for number fourteen in the new roofs before it occurred to me that Ida might be glad just to see where it had been. I began to mark out a way from the landing field to the crossing. Human survey crews still went down, a few at a time, when the towns let them.
+I listened to Ibis and the other ports calling their supply boats in. Once that whole long after-supper hour was taken up by three men who needed a fourth to get a piano through the collar. Their boats looked close on the plot, and I tried flying one up to Westerly in the simulator. I kept changing the approach. By the time I could see Westerly in the boat's window, I'd spent the fuel I needed to come alongside.
+
+By twenty-three I was keeping the night watch, when I could hear a pump knock from my bed and look out to see where we were by the lights on the coast. On the survey feed I watched the dinosaurs in the coastal towns putting a broad tram crossing over the North Ferry steps. I spent most of a winter looking for number fourteen in their roofs before it occurred to me that Ida might be glad just to see where it had been. I began to mark out a way from the landing field to the crossing. Human survey crews still went down, a few at a time, when the towns let them.
 
 In our charter the ferry assigned to us was *Sanderling*. I'd seen it in photographs of the evacuation, a little ship with heat tiles and feet for landing. Marl said the charter covered everyone in the pods. While we waited for the ferry's flight papers I worked out what I'd have to pack to help Ida cross a station deck and go outdoors in the same morning, down to two kinds of shoes.
 
@@ -72,7 +74,7 @@ Marl thought I was slipping. He caught my sleeve. He was still wearing the apron
 
 “Did we get a place to land?” I asked. “I've got the part where we meet the ferry. I want to see the leg that goes down to the coast.”
 
-Marl let go of my sleeve. He went to the other side of the console and slid my docking sketch away from the screen. There was the rendezvous marker, well out from Earth where I knew it from the practice runs. A second mark came up beside it, on an incoming track. He brought up its image. I thought it was a photograph of several stations laid end to end until I saw how the structures fitted round the drive.
+Marl let go of my sleeve. He went to the other side of the console and slid my docking sketch away from the screen. There was the rendezvous marker, well out from Earth where I knew it from the practice runs. A second mark came up on a track that swept past the rendezvous and went clean off the plot. Marl brought up its image. I thought it was a photograph of several stations laid end to end until I saw how the structures fitted round the drive.
 
 “You're looking at the colony ship,” he said. “Sanderling will carry us across to it. Westerly was built for that transfer. There has never been a leg back to Earth on our plan.”
 
@@ -86,7 +88,7 @@ I looked for the ferry in the image and found a white shape six or seven decks u
 
 “I've put you down as Westerly's pilot for the transfer.”
 
-I knew a dozen pictures of a ferry's gate coming down and the one I could recall all the way across was a photograph somebody had taken with their thumb in it. I tried the image of the colony ship again. Under it Marl had opened the itinerary as far as the colony world. Our transfer ferry was drawn as a line the width of a finger between two things in the sky. I'd seen how space on an itinerary was managed. If there was a leg down to Earth there would be a line for it.
+I knew a dozen pictures of a ferry's gate coming down on land. The one I kept seeing had the photographer's thumb in it. I tried the image of the colony ship again. Under it Marl had opened the itinerary as far as the colony world. Our transfer ferry was drawn as a line the width of a finger between two things in the sky. I'd seen how space on an itinerary was managed. If there was a leg down to Earth there would be a line for it.
 
 “You watched me make a list of the houses,” I said. “I asked you to look up where they keep the spare keys.”
 
@@ -104,7 +106,7 @@ He still had the apron on. I could see a twist of the hem where he always put on
 
 “You could have told me that afternoon. I'd still have put your hook in.”
 
-Outside, at the wide end of the window, the winter coast was coming clear. In the new tram crossing over the old ferry steps the turnstiles had been set up in pairs, one for the travelers with high crests and one for the broad ones who had to push with their hips. I'd watched them coming home so many afternoons that I thought I could have found my way from the tram toward the Row if they'd let me off. I had a feeling in my legs I could have sworn came from actually walking there. I stayed at the window until there was just the curve of a black field and a lighthouse flashing at the head of it.
+Outside, at the wide end of the window, the winter coast was coming clear. I could see the lights where the road went down to the crossing. I remembered the survey footage of the turnstiles in pairs, one for the travelers with high crests and one for the broad ones who had to push with their hips. I'd watched them coming home so many afternoons that I thought I could have found my way from the tram toward the Row if they'd let me off. I had a feeling in my legs I could have sworn came from actually walking there. I stayed at the window until there was just the curve of a black field and a lighthouse flashing at the head of it.
 
 Marl moved the picture of the colony ship aside. He'd set the docking sketch in front of me again with the torn corner laid next to it. “I will need you to fly the approach. I'd have preferred to have told you all this on a morning when there was time for you to ask me to leave the room.”
 
@@ -114,7 +116,7 @@ He looked at the old circuit gauges when he took his hand away. He went to the g
 
 I still had my file of notices from Ibis. They'd opened a recovery ward since the business with the piano. When a fever went round, they put out a notice asking for clothes to fit some children they'd taken in from another station with their parents. I remembered thinking they must have found beds for everybody if all they still needed were the clothes.
 
-I found Ibis on the plot and laid its approach over Marl's drawing. I could run my finger down either fuel column and see where we'd be scraping the tank on the way into dock. I tried to write the port a message in the order I normally sent a request for parts. I got to the word *patients* and had to put in a number. It was the first time I had asked another person to make room for even one of them.
+I found Ibis on the plot and laid its approach over Marl's drawing. I could run my finger down either fuel column and see where we'd be scraping the tank on the way into dock. I set the message out the way I asked the port workshops for drawings of parts I had to make. I got to the word *patients* and had to put in a number. It was the first time I had asked another person to make room for even one of them.
 
 The ward wanted the pod readings before it made an offer. While they were checking them I opened the register. In the days when the receiving halls were full, the clerks had to squeeze new destinations in beside the old ones. A woman called Letty had put North Ferry Row down as her old address and Ibis as her new one. Her name was still in the Ibis directory for a dining room. I called and told her we might be bringing some people from the Row. Did anybody she used to know still come for supper?
 
@@ -142,19 +144,19 @@ The left pump lost power under the draw from the waiting drive. I felt the fan s
 
 Marl had his hand round my boot to keep my foot braced at the opening. I told him when I'd got the handle. Being able to hear the other bank running used to be the nicest thing about a failure, because I could listen to it until I got the two sounds back together. I put my head against the side of the hatch and waited for the second thrum. When I came out he was still holding the lamp in the place I'd asked him to hold it.
 
-Marl set the lamp beside the hatch and came with me down Ida's row to see that the pump had caught. From the dock end I could see its light on the floor and above it two courses drawn on the screen.
+Marl set the lamp beside the hatch and came with me down Ida's row to see that the pump had caught. From the dock end I could see the lamp shining on the floor below the screen with the two courses.
 
 “I can't tell whether Ida wants to see anybody,” I said. I could see the hand she'd have to put out, the one lying along the dark fold in her blanket. “She might say she picked that plot because that was the only place she wanted to go. I don't get to say she traded it for something. I can put a doctor beside her this month. Then I can ask Ida who else she wants through the door.”
 
 We walked back to the console. The ferry had called twice while we were down at the hatch. I turned to Marl. “I'm taking Westerly to Ibis.”
 
-Then I lifted the receiver and gave the colony ship the port and berth number so they could find the people whose names they had. Sanderling came in on the same channel. “We're out from the ship. We'll be waiting for you at the marker.”
+Then I lifted the receiver. I gave the colony ship our port and berth so the crew could send on any messages for the passengers they'd been expecting. Sanderling came in on the same channel. “We're out from the ship. We can meet you at the marker. We have to be back aboard before the ship's four o'clock burn.”
 
 I told it to go back.
 
 Marl took the log from between the sheets showing the two courses. “I would have put them on that ferry,” he said. He wrote Ibis on the next line and signed for the watch. “I'll be with the banks while you fly.”
 
-He took the lamp with him down the aisle. At Ida's pod he put his palm flat on the white rail where the pear had printed. He was looking at the sight tube when I took the port's course and lit the drive. The coast tipped up in the window and I felt the belt draw tight across my ribs. I thought of Ida in the next row with nothing to steady herself on, her left hip all I'd felt of her for years through a sheet of cold glass. When the drive fell quiet, the coastal lights had gone beyond the frame. Ibis was still too far to see and I had to turn back to the screen to know I was carrying us toward it.
+I fastened my belt while he took the lamp down the aisle. At Ida's pod he put his palm flat on the white rail where the pear had printed. He was looking at the sight tube when I took the port's course and lit the drive. The coast tipped up in the window and I felt the belt draw tight across my ribs. I thought of Ida in the next row with nothing to steady herself on, her left hip all I'd felt of her for years through a sheet of cold glass. When the drive fell quiet, the coastal lights had gone beyond the frame. Ibis was still too far to see and I had to turn back to the screen to know I was carrying us toward it.
 
 
 * * *
