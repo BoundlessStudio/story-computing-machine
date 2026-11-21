@@ -6,9 +6,9 @@ canon: false
 
 # The Noon Hare
 
-Avice will tell you she gave me a head start. Ask her how a person with a stuffed hare in her belt can give the chaser a head start. She’ll say she gave me twenty-six years, which is a generous way of remembering what I used to do for her at Crowsteps.
+Avice will tell you she gave me a head start. Ask her how a person with a stuffed hare in her belt can give the chaser a head start. She’ll say she gave me all twenty-six years I’d been alive, which is a generous way of remembering what I used to do for her at Crowsteps.
 
-I’d been there plenty. I’d do the counting and hold the coats. One year I had four good coats hung on the gate and the only person who put a hand in a pocket for me was a child eating a pear, who gave me the stalk. From that gate you could see most of the race. You could see even better if you climbed up and put your foot in somebody’s sleeve, which is where the counting generally went to pieces. At the full moon my father’s sister Avice could go over the upper wall as a wolf in a single jump. We climbed the steps after her, by which time she had generally done something else worth seeing.
+I’d been there plenty. I’d do the counting and hold the coats. One year I had four good coats hung on the gate and the only person who put a hand in a pocket for me was a child eating a pear, who gave me the stalk. On full-moon nights whoever had the hare went on two feet. I gave them thirty to make for the slate on the far side of the upper wall. Then the wolves went. You could see most of the race from the gate, and even more if you climbed up and put your foot in somebody’s sleeve. That was generally where the counting went to pieces. My father’s sister Avice could go over the wall as a wolf in a single jump. We climbed the steps after her, by which time she had generally done something else worth seeing.
 
 That day it was a week past the full moon and the sun was high enough to put the gate’s shadow directly under it. Avice had the hare on top of the gate and was pulling a gorse thorn out of its eye with her teeth. The eye was a jet button. I felt a little pull in my own eyelid and looked down the field, where the wind off the sea was turning the grass to show its undersides. The sun had brought up the smell of sheep from an old knot of wool by the latch.
 
@@ -18,17 +18,17 @@ That day it was a week past the full moon and the sun was high enough to put the
 
 “In three weeks. I’ve put another seam in the belly, see? Less of it to stuff down the front of yourself that way. When your father carried it he had the whole thing in the same pocket as a piece of rabbit pie. He brought the pie out with him because he was looking forward to eating it on the far side of the finish slate. I smelled the butter from halfway across the fold. Eat before you come out. I’d like a chance of smelling you before I smell your dinner.”
 
-Avice had three weeks yet before she could get into her wolf’s skin. At noon she stood there with her own excellent teeth and the boots she’d been breaking in since the last rain. My mother’s people had been werewolves too, before some of them went to live among the shepherds. The families stayed with the flocks. The animal shapes of their children got shorter in the leg and rounder in the face from one generation to the next. By my grandmother’s time they were weredogs and could change at any hour. Mum could be a dog in the time it took her toast to go brown. I got her legs, her afternoon hours, and one of her ears. The other ear is bent down the middle and I lay that on my father’s side, where the hats all fit badly.
+Avice had three weeks yet before she could get into her wolf’s skin. At noon she stood there with her own excellent teeth and the boots she’d been breaking in since the last rain. My mother’s people had been werewolves too, before some of them went to live among the shepherds. They stayed with the flocks. On four feet, each generation had a little less leg and a little more forehead than the one before. By my grandmother’s time they were weredogs and could change at any hour. Mum could be a dog in the time it took her toast to go brown. I got her legs, her afternoon hours, and one of her ears. The other ear is bent down the middle and I lay that on my father’s side, where the hats all fit badly.
 
-“Put it in your belt, Aunt,” I said. “See how fast you can take it over the wall.”
+“Put it in your belt, Aunt,” I said. “I’ll give you a start.”
 
 She lifted the hare clear of the gate. “I’m asking you to run with it come full moon, the way your father did.”
 
-“I want to catch it. I’ve spent half my life standing on that gate to see what happens at the top of the wall. If you take the hare up to the slate today, I can find that out for myself.”
+“I want to catch it. I’ve spent half my life on that gate watching you run it down. If you take it up to the slate today, I’ll be there with my nose right behind you.”
 
-Avice had a queer way of going still when she took an interest. A nose showed a little farther forward and both shoulders settled, even if she was only looking across a table at somebody with a piece of news. She looked at me that way now, with the hare pinned under her hand.
+Avice had a queer way of going still when she took an interest. She tilted her head forward and both shoulders settled, even if she was only looking across a table at somebody with a piece of news. She looked at me that way now, with the hare pinned under her hand.
 
-“Give me thirty. If I get to the slate with the hare, you carry it at the full moon. If you take it off me on the way, it’s yours to take home. I want you to count the whole thirty. The way you stood on your father’s sleeves I used to hear you drop numbers to come up and see.”
+“Give me thirty. If I get to the slate with the hare, you carry it at the full moon. If you take it off me on the way, it’s yours to take home. I want you to count the whole thirty. I used to hear you skip numbers when you climbed onto your father’s sleeves to get a better look.”
 
 “I was twelve and the sleeve was coming off the gate. I can get as far as thirty on the ground.”
 
@@ -50,15 +50,15 @@ This time Avice swung from the rock to the first tread and got her hand on the s
 
 During the change I had the taste of wool for company. My mouth drew in under my nose and my teeth lost their places. My forefeet were up against the wall and then they had knuckles. The skin on the heel of one palm dragged against the stone as the weight came down. I put my fingers over the top of the first tread, got a boot on it, and raised myself so fast my knee struck the step above. Avice had one leg over the wall. As she hiked the other one up, the back of her belt came level with my eyes and the hare’s legs hung over it.
 
-I got my toes on the second tread and shut my hand on a wool foot. The wool gave. I thought of her new seam. Then the whole hare started to slide, with the belt going slack as she bent to drop to the slate. For about as long as it took her foot to disappear I had her by the hare. I pulled again, hard enough this time to have something left in my hand when her feet struck the other side.
+I got my toes on the second tread and shut my hand on a wool foot. The wool gave. I thought of her new seam. Then the whole hare started to slide, with the belt going slack as she bent to drop to the slate. I pulled again and the hare came free in my hand. Below me her boots hit the slate.
 
 The hare felt absurdly small now there was nobody wearing it. One ear lay over my wrist, and the fingers I’d been in such a hurry to get still wouldn’t open all the way. I climbed the rest of the way and sat on the wall. Avice was bending over the slate with her hands on her thighs. I could see where she had struck one shin on a tread and made a white square of her stocking. On moon nights she always held the hare up by one ear. I’d meant to show her the catch the same way. She might look up, see me at it, and say she’d been giving me a practice race. Come full moon she’d bring the hare to the gate for my real turn carrying it. I laid it flat across my knees.
 
 “Which bit of it did you get?” she said.
 
-“One of the feet. Were you still on the wall when I took it?”
+“One of the feet. Did you feel it go before you landed?”
 
-“I had both feet off it. In the air I had already started thinking what I was going to make you bring in your pockets next month. I had got as far as a raw onion.” She pressed a thumb against the white patch on her shin and left it there. “You got it before I came down. Your mother will ask which foot, so have a look and see.”
+“I was still in the air. I had already started thinking what I was going to make you bring in your pockets next month. I had got as far as a raw onion.” She pressed a thumb against the white patch on her shin and left it there. “You got it before I came down. Your mother will ask which of the hare’s feet it was, so have a look and see.”
 
 “You’ll tell them at supper?”
 
@@ -84,11 +84,11 @@ I rubbed the hare’s belly and caught a loose end of her thread on my thumb. I 
 
 Avice’s shoulders settled. “Where do you mean to go with it?”
 
-I let my boots hang down on the side we’d just climbed. “I’ll stay on this side. You can start as soon as you’re over.”
+I swung my boots round so they hung above the fold we’d run through. “I’ll stay on this side. You can start as soon as you’re over.”
 
-I slid down into the upper fold and waited with the hare in one hand. The first thing over the wall was Avice’s hand. Then her head came up into the sun and she looked straight down at me. I stayed right there where she could see me until she had both feet on a tread.
+I slid down and waited with the hare in one hand. The first thing over the wall was Avice’s hand. Then her head came up into the sun and she looked straight down at me. I stayed right there where she could see me until she had both feet on a tread.
 
-I set the hare on the pale rock. I went down on one knee to be at a good height for it and came out of my boot soles into the grass, with my mouth open. The warm seam went broad across my tongue. A length of the thread I’d caught on my thumb tickled my gum. With the hare in my mouth I waved my tail once. It moved again while I was standing there thinking about it.
+I set the hare on the pale rock. I went down on one knee to be at a good height for it, my mouth already open, and felt the grass come up between my toes as my boot soles shrank away. The warm seam went broad across my tongue. A length of the thread I’d caught on my thumb tickled my gum. With the hare in my mouth I waved my tail once. It moved again while I was standing there thinking about it.
 
 Avice came off the last step and made for me so quick I nearly dropped the hare. I swerved round the gorse with the two long ears snapping alongside my face. Down by the dividing wall I could see straight through the creep into the lower fold. I went past it and out into the grass where Avice could run. She cut inside my turn and for a couple of strides she was ahead of me. I could hear her making the little breathy sound she makes at table when she has got to the part of a story she likes.
 
