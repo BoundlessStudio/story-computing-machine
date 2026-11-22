@@ -6,7 +6,7 @@ canon: false
 
 # Call Your Pocket
 
-I’d made the tie on a Sunday when I had the shop to myself. I was an inch short on the wide end, so I stole it from the tail, where it would spend its life against my shirt. I liked that tie. I liked to have it straight.
+I’d made the tie on a Sunday when I had the shop to myself. I cut the wide end from the last good length of black silk and pieced the tail out of what was left. I put the join where it would spend its life against my shirt. I liked that tie. I liked to have it straight.
 
 Riva Tallis was looking at me from the far end of the Bobbin’s pool table when I went to check the knot a third time. I’d only meant to look at her left hand. When she took a shot that hand lay down on the cloth as flat and sure as if somebody had put a weight on it. There was a red rose inked above it. Tonight there was also a flash of red under her tartan where she leaned. She had her right heel on a bad board I knew well enough to step over on my way to the chalk shelf. She pressed down. The board let out a squeak.
 
@@ -22,7 +22,7 @@ At ten on a Friday night, its light made the green cloth the brightest thing on 
 
 “The shade,” I said. “I’d take the shade if it’s yours.”
 
-“Oh, it’s mine. He was showing it off one night after he’d got it rewired and he bet it against my good cue.” She raised her voice for the owner, who was stacking coasters by the till. “He came in the next evening with fifty in an envelope. It was my thirty-eighth birthday and he’d thought of everything except how much I liked the damn light. I told him the shade could stay up, and that if he wanted to keep it he could try and win it off me.”
+“Oh, it’s mine.” She looked past me at the owner, who was stacking coasters by the till. “He was showing it off one night after he’d got it rewired and he bet it against my good cue.” She raised her voice so he could hear the rest. “He came in the next evening with fifty in an envelope. It was my thirty-eighth birthday and he’d thought of everything except how much I liked the damn light. I told him the shade could stay up, and that if he wanted to keep it he could try and win it off me.”
 
 The owner picked up the stack and straightened it against the bar. His ears had gone red. Nobody in Ternwick had ever seen her lose a game, turn down a wager, or take cash off anybody for what she’d won. The people who’d lost to her were always coming up with better terms for next time. This one still had money in his wallet and her lamp over his table.
 
@@ -44,7 +44,9 @@ I came up off the cue and let myself look properly. There were pink bows tattooe
 
 “Well,” she said. “You’ve got options.”
 
-I got another stripe down, then gave up my turn on a hard cut that ran along the lip of a side pocket. Somebody on the bench said I’d missed by half a finger. Riva made two solids down the same rail. On the second, she hit so softly the cue ball all but stopped at the point of contact. She walked up the side to see the angle for the next one. At the chalk shelf beyond the foot rail she set her cue against the wall and took the chalk from my hand. She laid it on the shelf and reached for the knot at my throat. She stopped her hand where I could see it.
+I got another stripe down, then gave up my turn on a hard cut that ran along the lip of a side pocket. Somebody on the bench behind the head of the table said I’d missed by half a finger. Riva made two solids down the same rail. On the second, she hit so softly the cue ball all but stopped at the point of contact. She walked up the side to see the angle for the next one.
+
+The chalk shelf ran along the back of the shallow recess where the old club phone had been, a pace beyond the foot rail. Riva set her cue against the wall below its two bare screws and took the chalk I was holding out. She laid it on the shelf and reached for the knot at my throat. She stopped her hand where I could see it.
 
 “Can I see what you’ve been doing to that thing all night?”
 
@@ -56,7 +58,7 @@ I lifted my chin. She closed a finger and thumb on the knot and lifted the wide 
 
 “You kept this one.” She opened her hand and let the tie fall. “Better get to look at what you came for while I’m up. If it’s the bow you want, it’s right here.”
 
-She turned enough to give me one of the pink bows, and put my hand where she wanted it at the edge of the stocking. She watched me over her shoulder while I ran two fingers along the ribbon where it crossed her skin. Her leg was warm even this close to the draft from the door. I very nearly took my hand away. Then I saw the five past her elbow, sitting right where she’d left it. I wanted her looking down at that easy shot with something from me still in her head.
+She turned enough to give me one of the pink bows and put my hand at the edge of the stocking. I ran two fingers along the ribbon. Her leg was warm even this close to the draft from the door. I could see the five past her elbow, sitting right where she’d left it. I wanted her to go back to that easy shot with something from me still in her head. I laid my palm over the bow and held it there till she settled a little against my hand and looked back at me.
 
 “You put your tongue in the side of your mouth when you’ve got a shot nobody else likes,” I said. “You did it just now. I could see that little bit of cheek move from all the way down here. I’d like both these bows over my shoulders, Riva. I’d like to find out what kind of noise you make when you quit thinking about who’s listening.”
 
@@ -66,7 +68,7 @@ Over by the bar the racks rattled as the empties went in. Riva turned far enough
 
 She picked up her cue and fitted the chalk back in my hand. I had it upside down and got blue in the lines of my palm. On her way back to the shot her right heel struck the bad board and she made a short, surprised sound that was almost the start of a laugh. At the side rail she flattened out her left hand. Then she raised it and put it down again a fraction closer to her body. I could see the line from the five to the corner. I’d had that shot a hundred times under that lamp.
 
-The five caught the near jaw of the pocket and kicked back out. She set her cue upright and leaned on it. I let her look all she wanted at the grin I was trying to get under control. The man at the nearest end of the bench had already gone to the bar for another beer and missed the whole thing.
+The five caught the near jaw of the pocket and kicked back out. She stayed down, watching it roll back along the rail, and I saw her hand open and close around the cue. By the time she stood up she could see the whole grin I was trying to get under control. The man at the nearest end of the bench had already gone to the bar for another beer and missed the whole thing.
 
 “Hell of a thing to do to a woman who’s just told you where to put your hands,” she said. She said it for me, and she stood there till I got to the cue ball.
 
@@ -76,15 +78,15 @@ I put the fourteen away and went down to the foot to see the angle on my last st
 
 “You had one like that the night your phone went off on the bench,” she said. “You were already down on the ball and you stood up and went all the way over to shut it up. Then you came back and put it away. I wanted to know if you could do that twice. It was a pretty shot.”
 
-I’d spent half that evening looking at her glass to see if getting her another beer would get her to come over and watch. I hadn’t known she’d watched the part where I’d managed to beat somebody. I stood back to give her room in the old phone recess and she came with me. She turned the loose end of my tie over, found the seam again, and slipped my top button through its hole. After that there was plenty of room for her fingers inside my collar.
+I’d spent half that evening looking at her glass to see if getting her another beer would get her to come over and watch. I hadn’t known she’d watched the part where I’d managed to beat somebody. I stepped back into the recess to chalk my cue. Riva followed and put her elbow on the shelf. I set the chalk down beside it. She turned the short end of my tie over, found the seam again, and slipped my top button through its hole. After that there was plenty of room for her fingers inside my collar.
 
-I had room to go either way. I put a hand on her hip. For a second she held me where I could feel her breath. Her eyes were wide open and I wanted to see what she’d do while I still had my hand there. There was a little question in the way she tipped her face up, and it was good to be able to answer it by leaning in the last inch. Her mouth tasted of beer. I’d have stayed long enough to find out which one. She backed off far enough to speak, with her fingers still hooked in my collar.
+I stood my cue up against the wall and put my hand on her hip. For a second she held me where I could feel her breath. Her eyes were wide open and I wanted to see what she’d do while I still had my hand there. There was a little question in the way she tipped her face up, and it was good to be able to answer it by leaning in the last inch. Her mouth tasted of beer. She backed off far enough to speak, with her fingers still hooked in my collar.
 
 “I want this tie, Jory. I’d like to see it on me with everything else on the floor. You could look all you want then. I might even let you hold the wide end in your teeth while I decide where to put the rest of you.” She pulled her hand free and let the collar go. “I’d still like you to make that fucking shot. If you want to keep your tie, make it.”
 
 I stood there with my collar open at the top and the tie an inch away from it. She had one hip against the wall where the phone used to be. I could have gone down to the bar for a drink and come back. I could have asked her to move. For a little while I pictured her staying there and getting to see both, the stripe drop and the cue ball come back where I needed it. I had a very strong wish to see what her face would do if I could put that twelve away with the taste of her still on my mouth.
 
-I bent over the rail. I needed to catch the outside edge of the stripe and I saw it perfectly. In the last inch of the stroke I put in some extra squeeze with my right hand as if the ball were already getting away. It clipped one jaw, then the other, and sat in the mouth of the corner pocket.
+I picked up my cue and bent over the rail. I needed to catch the outside edge of the stripe and I saw it perfectly. In the last inch of the stroke my grip tightened until I could feel the points of my fingernails and the cue jumped in my hand. The twelve clipped one jaw, then the other, and sat in the mouth of the corner pocket.
 
 I could still see how to make it. There it was a foot from the end of my cue. I could have picked that ball up and dropped it in the pocket with my fingers. Riva walked past me and around to the blue two. It landed in the side with a clap. She’d let the cue ball run wide and by the time it stopped she had a bank on the eight across the middle. If she missed, all I had to do was knock my stripe in and get back for the black.
 
@@ -96,7 +98,7 @@ I saw her smile from the little pull at the corner of her cheek under her hair. 
 
 “Stand right where you are,” she said. “I’ve spent half this game getting you to look at me and I want you to see this one.”
 
-“Side pocket,” she said, and pointed to the one on my right. She got down again and her rose stretched flat over her wrist as she opened her bridge. She took two practice strokes. I could hear a shoe scuff at the head of the table and a pint glass make its last half turn on the bar. Riva was taking long enough that I had time to see where the black would hit the far cushion, yellow on top under the shade. I still wanted it to hit a little too far up, with enough pace to run past the pocket on its way back. Then I’d have her watching me do it right, and we’d get this whole last part of the game to go through again.
+“Side pocket,” she said, and pointed to the one on my right. She got down again and the rose above her wrist faced the lamp as she opened her bridge. She took two practice strokes. I could hear a shoe scuff at the head of the table and a pint glass make its last half turn on the bar. I could see where the black had to hit the far cushion and the white line in the amber glass above it. On Friday I could come in under my own lamp, with this tie on, and see if she was there to win it back. I wanted the ball to run a little wide of the pocket. I wanted her watching when I made the twelve.
 
 The cue clicked. The eight crossed under the lamp, struck the cushion, and came back at the place she’d pointed to. I could see the white of the number go round and come up again. Somebody on the bench took a breath that carried. The eight went the last foot slower than I’d have dared to send it. It took a last little pull into the mouth and then dropped so cleanly I heard it roll the length of the return.
 
