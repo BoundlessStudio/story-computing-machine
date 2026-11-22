@@ -40,7 +40,7 @@ Zella had once filled tins for nineteen hundred soldiers on Dayrate’s count. O
 
 “You told it I’d help,” she said.
 
-“I told it you’d serve it. The boys with the blue pennants saw me climb back out of the prize booth with it under my arm. I went straight here while they were still trying to start their bikes. When they show up I want you to tell them we’re at your table. That’s the bit I promised.”
+“I told it you’d serve it. There were hunters up and down the midway, looking in every booth. I was climbing back out the window when Dayrate asked me if you took late orders. One of the blue-pennant boys turned round and said he knew that voice from the army mess. He was on his radio telling everybody Dayrate was in a yellow shell before my feet hit the ground. I could hear engines starting up on both sides of the wheel. So I came straight here. When they show up I want you to tell them we’re at your table. That’s the bit I promised.”
 
 “My table, Saffy. You could have fucking asked.”
 
@@ -50,7 +50,7 @@ Zella brought the second bowl over to the crate herself. She could see a crooked
 
 The bowls on the ledge began to tick against one another.
 
-Beyond the red shade of the lanterns a line of blue pennants sprang up in a wash of white headlamps. More engines followed until she could hear them on every side. Wheels came to a stop one by one at the old brass queue studs she’d dug out of the cracked tar and set back fifty feet from the truck. Zella could still have gone round the counter and put a bowl into the hands of anyone sitting under a lantern. Beyond those lanterns she could hardly see a patch of ground that somebody hadn’t parked on or lit up to shoot across.
+Beyond the red shade of the lanterns a line of blue pennants sprang up in a wash of white headlamps. “Here. At the truck,” somebody called. Then she heard the same cry from across the midway and more engines came in until she could hear them on every side. Wheels came to a stop one by one at the old brass queue studs she’d dug out of the cracked tar and set back fifty feet from the truck. Zella could still have gone round the counter and put a bowl into the hands of anyone sitting under a lantern. Beyond those lanterns she could hardly see a patch of ground that somebody hadn’t parked on or lit up to shoot across.
 
 “Dayrate,” said a voice from the midway. “We’d like a word.”
 
@@ -75,6 +75,8 @@ Zella bent over to see if the turret had spoons or anything living attached. The
 The red-crested woman held up an empty carton for Zella to see. “Clear that gun away and I’ll put in an order to go.”
 
 Zella let the ladle ring down against the bucket once more. The machine picked up the turret. The bucket sank into the tar when it set the thing down. Then it went straight back to the stool and lowered itself onto it, gathering all its narrow legs carefully to one side. “My unit can speak for the rest,” it said. “One seat. One bowl to hold.” It held out one of the long arms it had carried the turret with and Zella put a bowl of steaming broth into its hand.
+
+The machine tilted its head towards the crate. “My column wants the ammunition to stay underground. We would like to discuss what that would cost.”
 
 The red-crested woman fished a radio out of her studded belt. “Kill those engines, boys. You can hear yourselves spend money from here.” One by one the bikes under the blue pennants fell quiet. The woman slid a bounty leaflet out from under her bowl. The paper had gone soft at one corner. There was an old photograph of Dayrate printed in the middle of it, nearly a hundred black cases locked together. Beside the leaflet she set one of the noodle truck’s folding cartons.
 
@@ -132,7 +134,7 @@ The woman brought the radio up from beside her soup. She kept her finger beside 
 
 “You’ll be sitting up a long time waiting for me to pull that rig out of the way so the girl and her friend can go for a walk,” he said. “We could see how long all those pots go on making steam for.”
 
-She took the envelope from behind the board and shook the four tokens out onto the ledge. With the cloth she wiped off a pork order and a reminder that a man was coming to fix the latch. Tomorrow’s supper went in one stroke.
+She took the envelope from behind the board and shook the four tokens out onto the ledge. With the cloth she wiped off a pork order and a reminder that a man was coming to fix the latch. Raddock had a hand out for the tokens. When she put the cloth to the South Gate names, his hand stayed open on the sill. Tomorrow’s supper went in one stroke.
 
 Zella pulled down on the shutter strap till the painted slats covered the light from the pots. The lanterns strung above the tables still burned, each with her skull in a gear on it. Dayrate turned on the crate and looked up at her in their light.
 
@@ -158,7 +160,9 @@ Raddock kept two hands flat on the table while he picked up the bowl with his th
 
 The red-crested woman still had her finger beside her switch. When she leaned out to look towards the ring toss, an inked blue swallow came into the lantern light on her shoulder. Her driver stood waiting with the ribbon wound round his wrist. Her finger came down. “Boys behind the duck booth,” she said into the radio. “Lights on. Come up to the mouth of the alley where you can see the ticket step. I want everybody here to be able to count you. You can send me the bill for the gas. When the ladle comes down, you clear out with the rest. I’ve got a man going to his truck.”
 
-The rogue machine set its bowl down and stood. “Ferris wheel road,” it called in its loudspeaker voice. “Entire column to vacate. On signal from the cook.” The mercenary glanced at his watch. Then he took out his radio and told his wagons to leave the west road on Zella’s signal.
+The rogue machine set its bowl down and stood. “Ferris wheel road,” it called in its loudspeaker voice. “Entire column to vacate. On signal from the cook.” Then it took its bowl and sat back down facing Dayrate.
+
+From where the mercenary sat, he had a straight view from the crate to his wagons. So did the crews on every gun carriage across the midway. Zella watched him look from the yellow shell to the line of guns. He ran his thumb across the face of his watch, then took out his radio and told his wagons to leave the west road on Zella’s signal.
 
 Once Zella had stepped around the truck and up onto the old ticket step she could see how much work she’d done by that window to make those fifty feet look bigger than they were. The red crates and the tables made it look like someplace you could get lost in for an hour. Seen from the step, they occupied less ground than the land rig needed to turn.
 
