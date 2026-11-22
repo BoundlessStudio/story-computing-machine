@@ -1,0 +1,13 @@
+# Editorial notes
+
+## November 21, 2026
+
+**Codex promise keeper, request only.** The request specifies a redhead with three nevers, one game of eight-ball, and a winner who can take whatever they desire. The later direction asks for maximum intensity and makes her attempt to break the other player’s concentration explicit. The reader took “filtering” to mean flirting and anticipated “an accomplished, sexually forward player mak[ing] the challenger play two games at once,” with a changed shot or decision and a consequential prize. Gender, history, whether the attraction is mutual, and who wins were open. In the image, the planted bridge hand and the glance at “someone she has chosen to catch watching” establish both competence and showmanship.
+
+**Claude outline reader, request only.** “The main pleasure is the game itself as seduction.” Claude anticipated a consequential run and called eight, a winner who actually collects, and a “brazen, amused” woman who knows where the other player is looking. Claude took second person and an on-page sexual climax to be required. The coordinator reads “you” as the position of the challenged player, with narrative person available for the voice trial, and “max rating” as the highest intensity allowed by the shared fade-to-black boundary. The game and the collection of the prize both need room on the page.
+
+**Codex promise keeper, later direction.** The new words make the interference reciprocal and give it physical expression on the page. Each player finds a way to unsettle this particular opponent during the game. The redhead still issues the challenge, while “emotional” could mean embarrassment, daring, or unexpected honesty. The winner, the prize, and any backstory remain open.
+
+**Claude outline reader, later direction.** “The distraction goes both ways.” The reader now anticipates deliberate contact close enough to bend pool etiquette, needling that touches a nerve, and a credible crack in the redhead’s composure while she retains her home-turf confidence. The latest request explicitly brings lewdness, touching, and mutual provocation onto the page during play. The first reading’s assumption about an explicit sex scene goes beyond what these words require.
+
+**Pool-hall direction, read independently.** Both readers took “cinmax” to mean climax and expected the winner to be decided on the page at the table. With the selected sentence in hand, both understood “that can come later” to defer sex beyond this story. Claude anticipated “mutual touching, flirting, and needling to break each other’s concentration.” The keeper saw room for the winner to name or secure the wager in the hall. The coordinator will check whether that beat gives the result weight without becoming another climax.
