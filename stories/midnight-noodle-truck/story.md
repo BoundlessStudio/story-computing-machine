@@ -60,7 +60,7 @@ The voice had come from a loudspeaker on a gun carriage. A column of rogue machi
 
 Inside the lanterns the drivers at the exchange had grown intent on their soup. Saffy sucked a noodle into her mouth in stages, with a small lift of the chin when she came to a kink in it. She had a gear and skull patched over one shoulder of her jacket, the same yellow as Dayrate’s shell. Zella could look at the two of them and almost believe they’d come to supper together every night of their lives.
 
-The mercenary with the goggle strap dug into his forehead got a boot on the truck’s running board. There was a pale stripe in his beard where he’d wiped his mouth. Zella knew the bare-metal wagons coming down the west road behind him. On any given night they’d be putting up with whoever was paying. He tucked a thumb into his belt and looked at his watch. “I can get you half the bounty if I hand it over still talking,” he told Zella. “You’ve got three minutes to decide. Look out there. Everybody has a different idea of intact.”
+The mercenary with the goggle strap dug into his forehead got a boot on the truck’s running board. There was a pale stripe in his beard where he’d wiped his mouth. Zella knew the bare-metal wagons coming down the west road behind him. They worked for whichever side had put down the money that week. He tucked a thumb into his belt and looked at his watch. “I can get you half the bounty if I hand it over still talking,” he told Zella. “You’ve got three minutes to decide. Look out there. Everybody has a different idea of intact.”
 
 “Get off the fucking truck. I serve speeches sitting down.”
 
@@ -104,7 +104,7 @@ There was a tremble in the crate as Dayrate straightened up. Its eye reached the
 
 “I get asked to leave respectable establishments all the time,” Saffy said. She tried to pull up a last noodle and sent a spot of broth onto the crate. “It’s actually really nice being somewhere we can do it the other way round.”
 
-Raddock considered Dayrate over the rim of his bowl. He knew how to hold a mouthful of soup a while so it would do him some good. When he took the bowl down he found the proper end of the table with his lower hand, in the casual way of someone who came here twice a week.
+Raddock considered Dayrate over the rim of his bowl. He knew how to hold a mouthful of soup a while so it would do him some good. When he lowered the bowl, his third hand set it down on the pale ring at his end of the table. He ate there twice a week.
 
 “I can afford to offer you a place and ask you to think about it,” he said to the machine. “But I’ve got a man who takes my salt south, and every month he shows me a new hole in his truck. You could make people a lot less inclined to shoot at that man. That’s the kind of employment I have in mind. There isn’t a thing on my roads you’d want for, up to and including a cook.” He lifted his eyes to the service window. “It’s an old army mind, Zella. How many bowls did you make because it told you to?”
 
@@ -180,7 +180,7 @@ She opened the shutter. The red-crested woman picked up the coins from her leafl
 
 The woman picked up her chopsticks and dipped them back into the soup.
 
-By the time Zella had got a new basket of noodles down into the pot, Dayrate had made it off the crate and out to the line. It was barely high enough to see above a wheel rut. Saffy went after it as far as the brass studs. A splash of broth had darkened the yellow at one cuff.
+By the time Zella had got a new basket of noodles down into the pot, Dayrate had made it off the crate and out to the line. It was barely high enough to see above a wheel rut. Saffy went after it as far as the brass studs. She had a dark spot of broth on one cuff of her yellow jacket.
 
 “I could walk with you as far as the prize booths,” she called. “I mean, you can make up your mind all the way out there if you like.”
 
