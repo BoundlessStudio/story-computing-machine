@@ -54,7 +54,7 @@ She looked down on the people Emil had seated for Vernon. He had put two men who
 
 She gave the song to the piano. Emil was rising, and she beckoned him to the apron. A few weeks after he'd bought the piano, he'd had the stage raised three inches so he could see the singer's shoes from his chair. He walked up the steps tonight with his head thrown back, listening for a note he knew was coming. She moved away from the microphone to meet him at the edge of the light and laid a glove on his sleeve.
 
-“The door sticks when it's wet,” Emil said. “The man you like has been going out to let people in all night. His feet are soaked. I pay him to go out there so we don't leave your people on the wrong side of the door.”
+“The door sticks when it's wet,” Emil said. “The doorman you like has been going out to let people in all night. His feet are soaked. I pay him to go out there so we don't leave your people on the wrong side of the door.”
 
 “I was going to ask you to move him to the Pelican. It'd be easier on his shoes. Vernon gave Bell Street to his backers and the police are going to shut the clubs tomorrow.”
 
@@ -102,7 +102,7 @@ She had first sung the song to him seven years ago in his walk-up, with the stai
 
 “Suppose you and I walk down Bell Street tomorrow,” she said. “They'll put paper in the windows before dark. You could come in here every night for the rest of your life and never once have to look at those windows. Did you think what I'd sing for you when you told me?”
 
-“I thought of that one. I could hear you sing it to me and look out anywhere you wanted. There's a house right up in the sky if you want it, with a fancy garden in the glass on the door. You can walk around in it barefoot.” He slid one hand a long way along the stage till it was almost touching the toe of her shoe. “I want to hear my song.”
+“I thought of that one. I could hear you singing it to me by the window. There's a house right up in the sky if you want it, with a fancy garden in the glass on the door. You can go upstairs barefoot and see the whole city.” He slid one hand a long way along the stage till it was almost touching the toe of her shoe. “I want to hear my song.”
 
 She straightened up. A man at the table next to Vernon's lost his silver fork from his plate and tried to get it back with his shoe. A waiter came up to him, holding a tray of empties. Emil stood at the corner of the stage with the full room in view. When she lifted the microphone clear of its clip the pianist looked up past her shoulder to see if it was time for him to stop. She sang the first few notes without him. He recognized the song and set the bass on its way under her, so evenly they could have been playing all along.
 
