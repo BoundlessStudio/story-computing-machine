@@ -19,3 +19,7 @@ The user redirected the active story to a home wedding between mother and daught
 
 
 **Outline fidelity.** Decisions answered Yes at native confidence 0.92, with P(Yes) 0.96, P(No) 0.04 and source ambiguity 0.00. Proceeded after the revised outline discussion with zero automatic restarts. The home wedding and mother-daughter direction is preserved verbatim in the prompt.
+
+**Voice trial.** Both blind readers chose Opening 1. Claude heard the mother in the good glasses whose sloped bottoms “make any amount look generous,” and the keeper chose “I had been prepared, one way and another, to meet any objection to the shoes.” Opening 2 brought the boot tray and the ridge obscured by the guests closer. The writer chose Nita’s first person because Renna’s words can change the account Nita thinks she is telling, and carried the porch’s physical details into that voice.
+
+**First draft.** The writer built the three turns as continuous action on the porch, reread the whole, and tested each reply against what its listener knows. The profile’s candidate gloss, “what they meant by anything,” is Nita joking about the offers she heard. The off-page announcement carries Renna’s decision and Nita’s request while the narration stays with them.
