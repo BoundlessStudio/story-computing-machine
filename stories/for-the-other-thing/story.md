@@ -6,13 +6,13 @@ canon: false
 
 # For the Other Thing
 
-I'd put the rye where I could get at it from the back porch without so much as opening the door to the kitchen. I put two glasses out too, our good ones, with a little slope in the bottoms that makes any amount look generous if you see it from above. I told Renna we'd have one quick drink in the porch when the wedding was over, and she said I'd get her for two if I gave her time to get out of the dress.
+I'd put the rye where I could get at it from the back porch without so much as opening the door to the kitchen. I put two glasses out too, our good ones, with a little slope in the bottoms that makes any amount look generous if you see it from above. I told Renna we'd have one quick drink in the porch when the wedding was over. “Two,” she said, “if you help me out of the dress.”
 
-The fiddle was still going behind me when I came up the back steps from the field, a little before five. Down by the arbor, Callum's grandfather was bringing over another armful of family for him to shake hands with. All I had to do to start the walk was get Renna on my arm and text the emcee.
+The fiddle was still going behind me when I came up the back steps from the field, a little before five. Down by the arbor, Callum's grandfather was bringing over another armful of family for him to shake hands with. Renna and I had put “and household” on the invitations. As far as my sisters were concerned that still took in their grown boys and anybody they brought along to Sunday dinner. All I had to do to start the walk was get Renna on my arm and text the emcee.
 
 Three days of rain at the end of June and our screen door had swollen at the bottom. I lifted it with the heel of my hand and went in. The old curtain was still drawn along the side that faced the aisle. Through the end window I'd been able to see Cooper's Ridge clear over the chairs yesterday, after Renna and I set them out, and now I got it a piece at a time as people got up to let other people past.
 
-Renna was on the bench where we'd done the hem. She'd taken her good shoes off and put her bare feet in the boot tray, which smelled of hot rubber in the afternoon. A grain of last winter's rock salt stuck to the side of her heel. I had been prepared, one way and another, to meet any objection to the shoes.
+Renna was on the bench where we'd done the hem. She'd taken her good shoes off and put her bare feet in the boot tray, which smelled of hot rubber in the afternoon. A grain of last winter's rock salt stuck to the side of her heel. Her phone lay on the bench beside her. I had been prepared, one way and another, to meet any objection to the shoes.
 
 “I-I-I can't do this!” She said it to the tray, then looked right up at me. “I can't marry him!”
 
@@ -26,11 +26,11 @@ The screen door was still ajar behind me. Renna gathered the dress off her knees
 
 “Could you shut that, Mum?” she said. I lifted the door clear of the sill and fitted it back in the frame.
 
-I brought down the rye. Renna and I had put “and household” on the invitations. As far as my sisters were concerned that still took in their grown boys and anybody they brought along to Sunday dinner. I gave us both a good inch.
+I brought down the rye and gave us both a good inch.
 
 “First thing, feet flat. Get the dress clear of that tray.” I took her glass over. “You can look at me right up until we get to Callum. People will try to get your eye, but you needn't give it to them. I can go slow enough for that walk to take us till Tuesday. Nobody can do a blessed thing about it once we've started.”
 
-She put up her hand before I could start on the advantages of taking any walk with me. There was a pin still caught in the cuff of my sleeve. She'd put it there herself while I finished the hem that afternoon. I kept putting a hand down for the pincushion and finding her shoulder. She took it out now and held it by the head.
+She put up her hand before I could start on the advantages of taking any walk with me. There was a pin still caught in the cuff of my sleeve. It had come loose from the hem that afternoon. She'd picked it off the lino and put it through my cuff for me, my hands being full of dress. She took it out now and held it by the head.
 
 “Could you give me one for the other thing?” she said.
 
@@ -38,19 +38,21 @@ I looked at the glass I was still holding.
 
 “The pep talk,” she said. “For calling it off. I want that one.”
 
-She set the pin down on the bench where I could see it and took her glass. She swallowed, waited for the rye to go down, and came back with her eyes watering and nothing altered in the way she was looking at me.
+She set the pin down on the bench where I could see it and took her glass. The rye made her eyes water as she swallowed, and there was nothing altered in the way she was looking at me.
 
 “If it's the people, I can clear the kitchen and borrow two witnesses who know how to sit still. The rest of them can eat as much as they want.” So many people had said they'd do anything for us, and I had naturally been in no position at the time to ask what they meant by anything.
 
-“Callum offered me a kitchen wedding on Thursday,” she said. “Or we could wait. We were supposed to be writing what we'd say to each other. I had a whole side of paper by then. It was mostly thanks for things he'd done. I thanked him for coming to get me the day of your surgery. He drove me to the hospital and sat out in the car with the heat on till I could stand to go inside. All that part I could have said to him in front of as many people as you like.”
+“Callum and I sat down to write our vows after supper on Thursday,” she said. “I filled a whole side of paper. Mostly thanks for things he'd done. I thanked him for coming to get me the day of your surgery. He drove me to the hospital and sat out in the car with the heat on till I could stand to go inside. All that part I could have said to him in front of as many people as you like.”
 
 I'd been much put out with her that day because she'd let me spend half an hour alone with a bare foot out of the blanket. I'd heard somebody go by with coffee twice and been able to think of nothing except who should be there to bring me some.
 
-“He saw I'd got to the part where I had to, where I had to make the promise, and I couldn't write a word of it,” she went on. “He had both his hands flat on the table when he made the offer. I shut my eyes and pictured us saying the words right there where we were. I could see his face far better with nobody else around. Once I pictured telling him I couldn't promise it, I could breathe right down to my belt, and I hadn't done that all through supper. I opened my eyes and knew he'd see in a second what I'd been thinking, and I told him I'd be all right if he poured me some tea.”
+“He saw I'd got to the part where I had to, where I had to make the promise, and there wasn't a word of it. He put both hands flat on the table and said we could do it right there in the kitchen with two witnesses. Or wait for as long as we liked.”
 
-The fiddle stopped. I'd taken it for the whole noise till then. Chairs scraped, and the talking came clear up to the house. Down in the second row my sister turned her big green hat to see what the people behind her had made of the wait.
+Renna set her glass down beside the pin. The fiddle stopped. I'd taken it for the whole noise till then. Chairs scraped, and the talking came clear up to the house. Down in the second row my sister turned her big green hat to see what the people behind her had made of the wait.
 
-“I thought seeing him at the other end was going to be the easy part,” I said. “What do you suppose he'd have done if you'd told him at supper?”
+“I did try to see us saying the words at the table. I could see his face far better with nobody else around, which made it worse. Then I pictured telling him I couldn't promise it, and I could breathe right down to my belt.” She kept a finger on the lip of the glass. “I knew he'd see what I was thinking if I let him look at me properly, so I asked him to get the tea.”
+
+“I thought if I could get you close enough to see him you'd be all right,” I said. “What do you suppose he'd have done if you'd told him there at the table?”
 
 “He'd have shoved the kettle out of the road and let me. He's not afraid of listening to me when I'm in a state.” She looked at my glass. “You could have some of that, you know.”
 
@@ -86,13 +88,17 @@ I picked up the phone and held down the delete key till the line about her being
 
 I turned the screen toward her. “That's all they'll hear from me. You can have the rest with whoever you like.”
 
-She leaned in to read it and I felt her weight where it came against my arm. “All right. I'll tell Callum before we send it.”
+She leaned in to read it and I felt her weight where it came against my arm. “I'll tell Callum first. Could we get him away from all those people before he has to hear it?”
 
-She sent Callum the news and asked him to come to the front door later so they could talk. While we waited for him to see it, a couple of people came up our end of the aisle and put their heads together above the peonies. I had to sit on my hands to keep from getting up to say it would just be a few minutes. Renna held the phone on her lap and touched it whenever the screen faded. When she tipped it toward me, there was a little “Read” under what she'd sent him. I sent mine.
+“The front door's unlocked,” I said. “Have him come round by the clothesline. He can have the front hall to himself.”
+
+She picked up her phone and asked him to come round. While we waited, a couple of people came up our end of the aisle and put their heads together above the peonies. I had to sit on my hands to keep from getting up to say it would just be a few minutes.
+
+We heard the front door shut. Renna looked at the kitchen door and gathered her skirt off her feet. Then she settled back beside me and wrote that she'd called off the wedding and would come in to talk when the field was clear. When she tipped her phone toward me, there was a little “Read” under what she'd sent him. I sent mine.
 
 The emcee's voice came from the speakers where we'd been hearing the fiddle. Even the people by the peonies stood still to listen. Then people began to talk in the particular way they talk when everybody wants to be the one who has understood. Their heads weren't turned uphill by then. At the far end of the field, where it was easiest to get out, people were making for the gap by threes and fours. Down in front a woman stood at the end of a row with one hand up, waiting while the rest of her party came past the empty chairs. I had been expecting to find out how the whole company would look on its feet. It was quite different to see them stand up at their own times.
 
-I had left my glass on the sill. Renna got it for me before I got as far as turning round, and set it in my hand. Her train was still somewhere in my lap. I had meant to stand in that porch with half the buttons undone down the back of her dress so she could let it drop the rest of the way herself. I'd counted twenty-eight covered buttons when we tried it on. I thought what a pleasure it was going to be, come evening, to undo them one by one.
+I had left my glass on the sill. Renna got it for me before I got as far as turning round, and set it in my hand. Her train was still somewhere in my lap. I had meant to stand in that porch with half the buttons undone down the back of her dress so she could let it drop the rest of the way herself. When we tried it on I'd counted twenty-eight covered buttons and thought what a pleasure it would be, after the wedding, to undo them one by one.
 
 I put my finger against the top button. “Do you want out of it?”
 
