@@ -4,7 +4,7 @@ The workshop tests the story's fulfillment of the request through its scenes and
 
 The reader to write for has read a great deal of published short fiction and has Ursula K. Le Guin, Alice Munro, Ted Chiang, Kelly Link, George Saunders, and Terry Pratchett on the shelf. That reader is not asking for an imitation of any of them. They are the measure of how alive a page can be: a narrator with a stance, people who sound like themselves, a place that could be nowhere else, sentences that move at more than one speed. A story that delivers its prompt in flat, careful prose has only done the first half.
 
-Read this during story development and return to the relevant passages in revision. These are craft aims a deliberate story voice can depart from. [Story development](story-development.md) helps find the story, [craft examples](craft-examples.md) shows the work on the page, and [the reading briefs](reader-briefs.md) guide feedback.
+Consult the section that bears on the story you are writing or the difficulty a reader has named. These are craft aims a deliberate story voice can depart from. [Story development](story-development.md) helps find the story, [craft examples](craft-examples.md) shows the work on the page, and [the reading briefs](reader-briefs.md) guide feedback.
 
 ## What this collection does when nobody decides otherwise
 
@@ -23,13 +23,13 @@ These habits were measured across the existing stories. Each began as sound advi
 - **Less talk every month.** In the earliest fifty-five stories about a quarter of the words are spoken. In the thirty most recent it is under a sixth, and in twenty-four of those thirty nobody speaks forty words together.
 - **Thought as aphorism.** Where a mind should be working, the narrator supplies a polished general remark, or the character arrives at once at the verdict a fair-minded reviewer would give.
 
-The last five were found by reading the newest stories for their talk in November 2026, and they point one way. The standing warnings against machine-written fiction (do not explain, do not state feelings, do not make speeches) have been obeyed here past the point of sense. The result is people who say less than a reader needs in order to follow them or to care. In this workshop the error to fear is the withheld line, not the spoken one.
+The last five observations came from a November 2026 reading of dialogue. When a reader loses the exchange, ask what they had understood before the missing line. When they can already name the wish a character is keeping private, try the scene with and without its explicit admission. What does the reader experience while waiting for the other person to answer?
 
 Treat these as the gravity to write against, not as new rules to invert. Long sentences everywhere would be one speed too. `scripts/prose_profile.py` measures a draft against these figures; use it to find where to look, never as a target to hit.
 
 ## Design a short story, not a compressed novel
 
-A short story earns its effect by staying somewhere. Decide these before the outline's beats, and record them in the outline's craft plan.
+When the scenes feel hurried or indistinct, try one of these changes. Some stories can cross years in the time it takes a character to turn on a light. What does the reader need to experience at full length?
 
 **Fewer scenes, fully inhabited.** Two to four scenes will carry most stories of three to five thousand words. Choose the moments where the premise presses hardest on a person and stay in them long enough for talk to wander, for someone to change their mind, for the room to matter. Cover everything else in a paragraph of summary or leave it out. One scene, the one the reader came for, should be allowed to run long. When the outline travels through many locations, check which scenes need more room and which can be combined. Let the request and the chosen form determine the final count.
 
@@ -108,7 +108,7 @@ The test a reader applies: could an illustrator who had never seen the image dra
 
 ## Setting
 
-Choose the place on purpose. Before outlining, name three candidate settings and ask of each where this premise would be most pressured, most surprising, most itself. The first to arrive is usually a category from the list above, or one this collection has used many times. Record the choice and the reason in the craft plan. A supplied image's environment is evidence here too: its light, weather, architecture, and mood.
+Choose the place on purpose. If a scene could happen anywhere, move it somewhere that changes what one person can see, risk or hear. A request may already give the writer exactly that place. A supplied image's environment is evidence here too: its light, weather, architecture, and mood.
 
 A place is particular. It has a name, a season, an hour, a climate, work that goes on whether or not the plot arrives, things that are broken, food, and something the locals complain about. Two or three true details do more than ten plausible ones; when a setting resembles a real kind of place or trade, find out how it actually works.
 
@@ -122,7 +122,7 @@ The shared world offers real places in [universe/locations.md](../../../../unive
 
 ## Revising
 
-Revise scenes, not sentences. When a reader reports confusion, the usual house repair is an added clause of clarification, and a story repaired that way ten times reads like minutes of a meeting. Restage the moment so it is clear, or cut what needed the explanation.
+When a reader reports confusion, find the moment it began. A word, a gesture or a change in who is present may be enough. Restage the encounter when its circumstances prevent the reader from understanding a reply.
 
 Keep repairs out of people's mouths. When a reader finds a gap in the logic (how the ship stays up, which gate, whose flag), the cheapest patch is a spoken line that states the missing fact. It will be said by someone with no reason to say it, to someone who already knows. Restage, move the fact into what the viewpoint character notices, or change the story so the question does not come up.
 
