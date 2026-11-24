@@ -159,7 +159,14 @@ def finite_number(value, minimum: float, maximum: float) -> bool:
     return type(value) in (int, float) and math.isfinite(value) and minimum <= value <= maximum
 
 
-def assess_response(bundle: dict, response: dict, restarts: int = 0, conflict: str | None = None) -> dict:
+def assess_response(
+    bundle: dict,
+    response: dict,
+    restarts: int = 0,
+    conflict: str | None = None,
+    *,
+    mismatch: str | None = None,
+) -> dict:
     if not isinstance(bundle, dict):
         return ask_user("checkpoint", ["The saved checkpoint bundle is invalid."])
     stage = bundle.get("stage", "unknown")
@@ -212,9 +219,14 @@ def assess_response(bundle: dict, response: dict, restarts: int = 0, conflict: s
         "honors_request": honors, "confidence": confidence, "probability_yes": distribution[True], "probability_no": distribution[False],
         "answer": copy.deepcopy(answer), "source_ambiguity_probability": ambiguity, "restarts_used": restarts,
     }
+    mismatch = (mismatch or "").strip()
+    if mismatch:
+        details["editorial_mismatch"] = mismatch
     uncertainty = []
     if conflict:
-        uncertainty.append("Coordinator or reader evidence conflicts with the API result: " + conflict)
+        uncertainty.append("Editorial concern about the Decisions result. " + conflict)
+    if honors and mismatch:
+        uncertainty.append("The coordinator confirmed a material mismatch despite the Yes result.")
     if confidence < MINIMUM_CONFIDENCE:
         uncertainty.append(f"honors_request confidence is {confidence:.2f}, below 0.80")
     if distribution[honors] <= distribution[not honors]:
@@ -224,9 +236,21 @@ def assess_response(bundle: dict, response: dict, restarts: int = 0, conflict: s
     if uncertainty:
         return ask_user(stage, uncertainty, **details)
     if not honors:
+        if not mismatch:
+            return {
+                "stage": stage,
+                "action": "review_no",
+                "reasons": ["Check the No against the request and candidate for a specific material mismatch."],
+                **details,
+            }
         if restarts >= MAXIMUM_RESTARTS:
             return ask_user(stage, ["Two fresh restarts at this stage have not met the fidelity gate."], **details)
-        return {"stage": stage, "action": "restart_outline" if stage == "outline" else "restart_story", "reasons": ["A confident No says the artifact does not materially honor the request."], **details}
+        return {
+            "stage": stage,
+            "action": "restart_outline" if stage == "outline" else "restart_story",
+            "reasons": ["The coordinator confirmed a material mismatch and Decisions returned a confident No."],
+            **details,
+        }
     return {"stage": stage, "action": "proceed", "reasons": [], **details}
 
 
@@ -335,6 +359,8 @@ def restart_state(bundle: dict, requested_restarts: int, direction_file: Path | 
 
 
 def record_restart_state(state_file: Path, state: dict, decision: dict, decision_file: Path) -> None:
+    if decision["action"] == "review_no":
+        return
     stage_state = state[decision["stage"]]
     used = decision["restarts_used"]
     stage_state["minimum_restarts"] = used + 1 if decision["action"].startswith("restart_") else used
@@ -398,6 +424,7 @@ def main() -> int:
             command.add_argument("--decisions-script")
             command.add_argument("--restarts", type=int, required=True)
             command.add_argument("--conflict")
+            command.add_argument("--mismatch", help="Material mismatch confirmed against the current request and candidate")
             command.add_argument("--user-direction-file", type=Path)
     assess = commands.add_parser("assess")
     assess.add_argument("--bundle", required=True, type=Path)
@@ -405,6 +432,7 @@ def main() -> int:
     assess.add_argument("--output", required=True, type=Path)
     assess.add_argument("--restarts", type=int, required=True)
     assess.add_argument("--conflict")
+    assess.add_argument("--mismatch", help="Material mismatch confirmed against the current request and candidate")
     assess.add_argument("--user-direction-file", type=Path)
     args = parser.parse_args()
     try:
@@ -412,7 +440,7 @@ def main() -> int:
             bundle = json.loads(args.bundle.read_text(encoding="utf-8-sig"))
             response = json.loads(args.response.read_text(encoding="utf-8-sig"))
             state_file, state, restarts = restart_state(bundle, args.restarts, args.user_direction_file)
-            decision = assess_response(bundle, response, restarts, args.conflict)
+            decision = assess_response(bundle, response, restarts, args.conflict, mismatch=args.mismatch)
             decision.setdefault("restarts_used", restarts)
             target = output_path(args.output, Path(bundle["prompt_file"]).parent)
             write_json(target, decision)
@@ -442,13 +470,13 @@ def main() -> int:
                 response = {"error": {"code": "invalid_client_response"}}
             write_json(directory / "response.json", response)
             validate_current_sources(bundle)
-            decision = assess_response(bundle, response, restarts, args.conflict)
+            decision = assess_response(bundle, response, restarts, args.conflict, mismatch=args.mismatch)
             decision.setdefault("restarts_used", restarts)
             decision_file = directory / "decision.json"
             write_json(decision_file, decision)
             record_restart_state(state_file, state, decision, decision_file)
         print(json.dumps(decision, indent=2, ensure_ascii=True, allow_nan=False))
-        return 0 if decision["action"] == "proceed" else 10 if decision["action"].startswith("restart_") else 20
+        return {"proceed": 0, "restart_outline": 10, "restart_story": 10, "ask_user": 20, "review_no": 30}[decision["action"]]
     except (OSError, ValueError, KeyError, TypeError, IndexError, AttributeError, subprocess.SubprocessError) as exc:
         failed_stage = getattr(args, "stage", "checkpoint")
         failed_directory = getattr(args, "story_dir", None)

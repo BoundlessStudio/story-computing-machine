@@ -1,10 +1,10 @@
 # The craft standard
 
-The fidelity gates and the promise keeper decide whether this is the story the user asked for. This reference is about the other half of the job: whether it is written well enough that a stranger would finish it, remember it, and pass it on.
+The workshop tests the story's fulfillment of the request through its scenes and ending. This reference describes the writing that can make a stranger finish it, remember it, and pass it on.
 
 The reader to write for has read a great deal of published short fiction and has Ursula K. Le Guin, Alice Munro, Ted Chiang, Kelly Link, George Saunders, and Terry Pratchett on the shelf. That reader is not asking for an imitation of any of them. They are the measure of how alive a page can be: a narrator with a stance, people who sound like themselves, a place that could be nowhere else, sentences that move at more than one speed. A story that delivers its prompt in flat, careful prose has only done the first half.
 
-The writer reads this before outlining and again before revising. It describes aims and the reasons for them; none of it is a quota, and a deliberate voice can break any of it on purpose. Three companions go with it: [From prompt to outline](story-development.md) turns these aims into planning decisions, [Craft examples](craft-examples.md) shows seven of them on the page, and [Reader and editor briefs](reader-briefs.md) is how readers test for them.
+Read this during story development and return to the relevant passages in revision. These are craft aims a deliberate story voice can depart from. [Story development](story-development.md) helps find the story, [craft examples](craft-examples.md) shows the work on the page, and [the reading briefs](reader-briefs.md) guide feedback.
 
 ## What this collection does when nobody decides otherwise
 
@@ -35,7 +35,7 @@ A short story earns its effect by staying somewhere. Decide these before the out
 
 **A cast the reader can hold.** Two or three people known well will often carry a short story. Choose the principals the request needs and give each room to become particular. Supporting characters can stay lightly drawn. When the prompt or a reference image supplies a crowd, choose the people through whom the reader meets it while preserving any individuals and relationships the request makes central.
 
-**A narrator with a stance.** Decide who is telling this, from how far away, and how they feel about it: amused, grieving, defensive, besotted, looking back after forty years. That stance should color the description, not only the dialogue. Before committing, write the opening page two genuinely different ways (a different teller, distance, tense, or temperament) and keep the one with more life in it. The first voice to arrive is usually the house manner.
+**A narrator with a stance.** Decide who is telling the story, from how far away, and how they feel about it. A teller can sound amused, grieving, defensive, or besotted. Let that stance color what the narrator notices and how they describe it. When the teller is in question, try a genuinely different point of view, distance, tense, or temperament in the decisive scene. The first voice to arrive is usually the house manner.
 
 **One mechanism, lightly held.** A speculative rule needs to be clear enough for one consequential choice. If the outline takes a paragraph to explain how the magic, contract, or machine works, simplify the rule rather than staging a scene to teach it.
 
@@ -89,7 +89,7 @@ Interior passages go wrong here in two ways. The narrator produces an aphorism, 
 
 ## Reference characters
 
-A supplied image of a character is casting, not a costume list. The fidelity checkpoint rightly does not treat every pixel as binding; this is a different question. The user chose that picture because of who it shows, and the story should give that person back to them.
+Treat a supplied image of a character as casting. Keep the temperament and recognizable details the user chose alive in the character's decisions and speech.
 
 **Study the image before choosing a plot**, and put a short character study in the outline:
 
@@ -126,17 +126,10 @@ Revise scenes, not sentences. When a reader reports confusion, the usual house r
 
 Keep repairs out of people's mouths. When a reader finds a gap in the logic (how the ship stays up, which gate, whose flag), the cheapest patch is a spoken line that states the missing fact. It will be said by someone with no reason to say it, to someone who already knows. Restage, move the fact into what the viewpoint character notices, or change the story so the question does not come up.
 
-Before each handoff, read a page from the middle aloud. If every sentence is the same length, if two speakers could trade lines, if you could not say what the room smells like or what hour it is, the draft is still in the house manner. Then check that the longest scene is the one that matters most, and that each reference character's last appearance is as much themselves as their first. Last, go through every exchange once from each listener's side, as described under Dialogue.
+Listen to a page from the middle. Note where sentences take the same shape, where speakers could trade lines, and where the room ceases to be particular. Give the scene that matters most the attention it needs. Check that reference characters stay themselves through the ending. Hear the consequential exchanges from each listener's side, as described under Dialogue.
 
 After a round of discussion, reread the whole story for voice. Committee repairs are local, and each one is a place the narrator may have stopped sounding like anyone.
 
 ## How this is tested
 
-Four readings hold a story to this standard, each with a brief in [Reader and editor briefs](reader-briefs.md):
-
-- The **outline readers** test the craft plan before drafting: the take chosen, the shape, the cast, the reference character studies, the setting, the ending.
-- The **cold and fresh readers** give a quoted craft reading after their account of the story: prose, dialogue, reference characters, setting, shape, and the gap between this draft and one a good magazine would take.
-- The **plain reader**, given the prose and nothing else, lists every spoken line whose meaning or reference could not be followed on one hearing. Examine each finding against the quoted text and repair sustained failures. A line-level problem deserves an answer even when it affects only a few words.
-- The **line editor** works through the structurally settled draft passage by passage and returns notes and a keep list.
-
-Their findings are material. A story that delivers its prompt and fails these readings is not finished.
+Compare the decisive scene trials before settling the plan. In whole-story readings, ask first about the reader's actual experience, then check the prose and ending against the request. Rewrite structural causes before editing the lines, and ask a fresh reader what the finished draft now does. Use a focused dialogue check when a consequential exchange leaves someone lost. Examine the line against what the speaker and listener could know, even when the repair only takes a few words. [Reader and editor briefs](reader-briefs.md)

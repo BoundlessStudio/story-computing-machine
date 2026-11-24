@@ -1,10 +1,8 @@
 # Story Computing Machine
 
-A shared-universe home for short stories. Its main job is to turn a writing prompt into prose worth reading. Characters, continuity, and art serve that job.
+A workshop for short fiction. It turns writing prompts into stories through experiments on the page, independent reading, and revision.
 
-## Start with `[WP]`
-
-Give Codex a prompt such as:
+## Start with a writing prompt
 
 ```text
 [WP] Every city has a ghost assigned to it. Tonight, ours resigns.
@@ -12,30 +10,16 @@ Give Codex a prompt such as:
 About 3,000 words. Close third person. Melancholy but hopeful.
 ```
 
-Codex keeps your complete request intact, including later directions, and assesses the experience it promises before choosing a plot. One existing outline reader acts as a continuing promise keeper: it records its own understanding of your request before seeing an outline or editorial interpretation. The writer begins a brief, provisional outline with the distinctive pleasure, tone, scale, any specified central relationship, and anticipated payoff, separating your explicit requirements from interpretations, then proposes relationships and scenes that could deliver them. The independent Claude outline reader also records its understanding of your request before seeing the plan. Both readers describe the story the proposed beats actually deliver, then compare its dramatic center, agency, tension, and ending with the request. The coordinator must record concrete scene evidence for beginning the draft and resolve material mismatches through changes to the outline; general approval or a workable mechanism cannot supply that evidence.
+Your request sets the promise of the story. The writer tries the scene that has to deliver it in more than one way before committing to an outline. When that scene is a conversation, we look for people who have something to ask of each other, hear what is said, and respond in ways only they would.
 
-The keeper follows the story through production, asking whether the distinctive premise drives events, revelations change possibilities, and the ending delivers the promised experience. Separate cold readers read the complete draft, discuss their actual experience with the writer, and read the revision. Each also gives a quoted craft reading against [the craft standard](.agents/skills/story-create/references/craft-standard.md): the prose, the dialogue, whether reference characters stay themselves, what the setting does, and the gap between the draft and published literary fiction. Delivering the prompt is half the aim; the writing is the other half. To serve it, the writer sketches three different takes before outlining, studies supplied characters as casting, chooses a particular place, tries two voices for the opening, and drafts scene by scene; a line editor then works through the settled draft before the final readers see it. Fresh final readers see the whole story without the earlier discussion. Material promise failures need changes to scenes or structure before polish; editorial preference or majority approval cannot override your explicit requirements. The outline remains provisional, and local repairs receive contextual checks rather than restarting every review stage. [The story workshop skill](.agents/skills/story-create/SKILL.md) explains the practice.
+An independent reader meets the complete draft cold. The writer rewrites what the reader's experience shows needs work, including the structure or ending when necessary. The prose then receives a line edit and a fresh whole-story reading. [The story workshop](.agents/skills/story-create/SKILL.md) describes the standards, and [the craft guide](.agents/skills/story-create/references/craft-standard.md) sets out the collection's recurring weaknesses.
 
-A Decisions checkpoint compares the complete prompt and supplied reference-image originals with the outline before drafting, and with the finished prose before art and handoff. It asks whether the outline or story delivers the story the [WP] asks for, refined by explicit later story directions and relevant reference-image guidance. A reliable No with native confidence at least 0.80 triggers a fresh outline or story; a reliable Yes may proceed. Confidence below 0.80 or conflicting evidence halts production with a question for you; two unsuccessful restarts at a stage also require your direction. Previous attempts stay in Git, and your prompt and originals stay intact. The Yes/No decision supplements the independent readings and discussion.
+The finished package contains your prompt, the provisional outline, the story, concise editorial notes, and a reviewed AO3 rating. Supplied images are preserved as source material. The prose and its rating are the writing deliverable. [Storytelling Machine](https://github.com/BoundlessStudio/storytelling-machine) handles new artwork and public presentation. [Read the package guide](stories/README.md#visualization-handoff).
 
-Separate character sheets, with one character per sheet, and references for the story's important locations normally come next, covering multiple distinct places when the story has them. After those references are finished and inspected, they guide the cover.
+## Find or revise a story
 
-New stories start with a General audience target unless the prompt says otherwise. General limits content intensity, not ambition or scale; adventure, conflict, spectacle, and grandeur belong when the request calls for them. Familiar tropes can work through specific, satisfying results. The collection also watches for repeated defaults toward humble work, therapeutic conversations, or maintenance without forcing spectacle or novelty onto every story. Each finished story's `ratings.md` records its reviewed General, Teen, Mature, or Explicit classification and content notes under the [shared content boundaries](universe/style-guide.md#audience-and-content-boundaries).
+- [Stories](stories/README.md) contains the prose and editorial packages.
+- [Universe](universe/README.md) contains approved shared facts and narrative boundaries.
+- [AGENTS.md](AGENTS.md) governs revisions, canon permissions, and worktree use.
 
-The story's `notes.md` keeps concise editorial memory: both outline readers' independent request understandings, the coordinator's scene evidence for beginning the draft, useful findings from outline, draft, and final readings, what readers experienced, what changed, whether it worked, and the reasons for resolving objections or preserving dissent. It also records the two fidelity checkpoints, confidence, restart counts, and resulting user directions. Git records substantial draft and revision rounds. Ordinary readings remain evidence-based accounts rather than numerical reviews; no file hashes or fixed number of editorial rounds are required.
-
-## Where things live
-
-- [stories/](stories/README.md) — prompts, prose, editorial notes, and selected story art. Older packages retain their previous layout.
-- [universe/](universe/README.md) — shared facts and the small set of narrative boundaries. A story becomes canon only with your explicit approval.
-- [universe/art.md](universe/art.md) — collection visual direction and art provenance guidance.
-- [AGENTS.md](AGENTS.md) — permissions, worktree rule, and the few repository boundaries.
-- [tmp/](tmp/) — temporary task files and directories. Its `.gitkeep` is tracked; all other contents are ignored. Keep scratch work here inside the active worktree, as required by [AGENTS.md](AGENTS.md).
-
-The former GitHub Pages site, galleries, and publication captures have been retired from this repository. A separate media-only CI workflow publishes selected artwork to Cloudflare R2 for downstream use; it does not render or publish story pages. Read stories directly in Markdown or through the files in a pull request. Future presentation can be built as a separate project without shaping how stories are written here.
-
-## Revising a story
-
-Name the story and the change you want. Non-canon stories can be edited within that scope; a substantial revision benefits from fresh readers and discussion. A canon story must be explicitly unlocked by name before its package changes. No review or general invitation to improve the collection unlocks it.
-
-Work uses the worktree attached to your chat through Codex's built-in workflow, then a pull request for your review. Nothing merges automatically.
+Name the story and the change you want. Non-canon stories can be edited within that scope. A canon story requires an explicit unlock naming it. Review substantial work through a pull request in the Codex worktree.

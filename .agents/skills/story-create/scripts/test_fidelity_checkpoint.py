@@ -12,6 +12,9 @@ import unittest
 import fidelity_checkpoint as checkpoint
 
 
+MISMATCH = 'The request says "the sea stays open". The ending closes it again.'
+
+
 def result_for(bundle, honors=True, confidence=0.95, ambiguity=0.0, probability_yes=None):
     yes = (0.95 if honors else 0.05) if probability_yes is None else probability_yes
     return {"model": "gpt-6-luna", "answers": [
@@ -72,22 +75,36 @@ class FidelityCheckpointTests(unittest.TestCase):
         result=checkpoint.assess_response(self.bundle,result_for(self.bundle,confidence=.8))
         self.assertEqual(result["action"],"proceed")
         self.assertEqual(result["confidence"],.8)
-        self.assertEqual(checkpoint.assess_response(self.bundle,result_for(self.bundle,honors=False,confidence=.8))["action"],"restart_outline")
+        self.assertEqual(checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False, confidence=.8), mismatch=MISMATCH)["action"], "restart_outline")
 
 
-    def test_confident_no_outline_restarts_the_outline(self):
-        result=checkpoint.assess_response(self.bundle,result_for(self.bundle,honors=False))
-        self.assertEqual(result["action"],"restart_outline")
+    def test_confident_no_without_a_confirmed_mismatch_awaits_review(self):
+        response = result_for(self.bundle, honors=False)
+        for mismatch in (None, "  "):
+            with self.subTest(mismatch=mismatch):
+                result = checkpoint.assess_response(self.bundle, response, mismatch=mismatch)
+                self.assertEqual(result["action"], "review_no")
+                self.assertNotIn("question", result)
 
 
-    def test_confident_no_final_restarts_the_story(self):
+    def test_unsupported_no_after_review_asks_the_user(self):
+        response = result_for(self.bundle, honors=False)
+        result = checkpoint.assess_response(self.bundle, response, conflict='The last beat explicitly "leaves it open".')
+        self.assertEqual(result["action"], "ask_user")
+        self.assertEqual(result["restarts_used"], 0)
+
+
+    def test_confirmed_no_final_restarts_the_story(self):
         bundle=checkpoint.build_bundle(self.story,"final")
-        self.assertEqual(checkpoint.assess_response(bundle,result_for(bundle,honors=False))["action"],"restart_story")
+        decision = checkpoint.assess_response(bundle, result_for(bundle, honors=False), mismatch=MISMATCH)
+        self.assertEqual(decision["action"], "restart_story")
+        self.assertEqual(decision["editorial_mismatch"], MISMATCH)
 
 
     def test_low_confidence_overrides_both_yes_and_no(self):
         for honors in (True,False):
-            result=checkpoint.assess_response(self.bundle,result_for(self.bundle,honors=honors,confidence=.79))
+            response = result_for(self.bundle, honors=honors, confidence=.79)
+            result = checkpoint.assess_response(self.bundle, response, mismatch=MISMATCH if not honors else None)
             self.assertEqual(result["action"],"ask_user")
             self.assertTrue(result["question"])
 
@@ -95,7 +112,7 @@ class FidelityCheckpointTests(unittest.TestCase):
     def test_failed_third_attempt_asks_user_but_a_successful_one_can_proceed(self):
         for restarts, expected in ((0, "restart_outline"), (1, "restart_outline"), (2, "ask_user")):
             with self.subTest(restarts=restarts):
-                self.assertEqual(checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), restarts)["action"], expected)
+                self.assertEqual(checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), restarts, mismatch=MISMATCH)["action"], expected)
         self.assertEqual(checkpoint.assess_response(self.bundle, result_for(self.bundle), 2)["action"], "proceed")
 
     def test_image_request_and_any_material_no_cannot_be_averaged_into_yes(self):
@@ -105,7 +122,7 @@ class FidelityCheckpointTests(unittest.TestCase):
         self.inventory("original.png")
         bundle=checkpoint.build_bundle(self.story,"final")
         self.assertEqual(len([q for q in bundle["request"]["questions"] if q["type"]=="choice"]),1)
-        self.assertEqual(checkpoint.assess_response(bundle,result_for(bundle,honors=False))["action"],"restart_story")
+        self.assertEqual(checkpoint.assess_response(bundle, result_for(bundle, honors=False), mismatch=MISMATCH)["action"], "restart_story")
 
 
     def test_ambiguous_request_asks_user_for_yes_and_no(self):
@@ -117,6 +134,7 @@ class FidelityCheckpointTests(unittest.TestCase):
 
     def test_conflicting_reader_evidence_or_selected_answer_asks_user(self):
         self.assertEqual(checkpoint.assess_response(self.bundle,result_for(self.bundle),conflict="The reader cites a required ending contradicted by the text.")["action"],"ask_user")
+        self.assertEqual(checkpoint.assess_response(self.bundle, result_for(self.bundle), mismatch=MISMATCH)["action"], "ask_user")
         for yes in (.4,.5):
             self.assertEqual(checkpoint.assess_response(self.bundle,result_for(self.bundle,probability_yes=yes))["action"],"ask_user")
 
@@ -225,18 +243,18 @@ class FidelityCheckpointTests(unittest.TestCase):
         for expected_used in (0, 1):
             state_file, state, used = checkpoint.restart_state(self.bundle, 0)
             self.assertEqual(used, expected_used)
-            decision = checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), used)
+            decision = checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), used, mismatch=MISMATCH)
             self.assertEqual(decision["action"], "restart_outline")
             checkpoint.record_restart_state(state_file, state, decision, self.story / f"different-output-{expected_used}/decision.json")
         state_file, state, used = checkpoint.restart_state(self.bundle, 0)
         self.assertEqual(used, 2)
-        decision = checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), used)
+        decision = checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), used, mismatch=MISMATCH)
         self.assertEqual(decision["action"], "ask_user")
         checkpoint.record_restart_state(state_file, state, decision, self.story / "last/decision.json")
 
     def test_user_direction_renews_a_halted_budget_once_and_must_be_recorded(self):
         state_file, state, used = checkpoint.restart_state(self.bundle, 2)
-        halted = checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), used)
+        halted = checkpoint.assess_response(self.bundle, result_for(self.bundle, honors=False), used, mismatch=MISMATCH)
         checkpoint.record_restart_state(state_file, state, halted, self.story / "halted.json")
         direction = "Make the clockmaker open the sea with a different mechanism."
         direction_file = self.story / "user-direction.txt"
@@ -250,7 +268,7 @@ class FidelityCheckpointTests(unittest.TestCase):
         updated_bundle = checkpoint.build_bundle(self.story, "outline")
         state_file, state, used = checkpoint.restart_state(updated_bundle, 0, direction_file)
         self.assertEqual(used, 0)
-        decision = checkpoint.assess_response(updated_bundle, result_for(updated_bundle, honors=False), used)
+        decision = checkpoint.assess_response(updated_bundle, result_for(updated_bundle, honors=False), used, mismatch=MISMATCH)
         checkpoint.record_restart_state(state_file, state, decision, self.story / "renewed.json")
         self.assertEqual(checkpoint.restart_state(updated_bundle, 0, direction_file)[2], 1)
 
@@ -296,7 +314,7 @@ class FidelityCheckpointTests(unittest.TestCase):
     def test_final_user_ruling_can_return_to_outline_without_regrading_stale_prose(self):
         final = checkpoint.build_bundle(self.story, "final")
         state_file, state, used = checkpoint.restart_state(final, 2)
-        halted = checkpoint.assess_response(final, result_for(final, honors=False), used)
+        halted = checkpoint.assess_response(final, result_for(final, honors=False), used, mismatch=MISMATCH)
         checkpoint.record_restart_state(state_file, state, halted, self.story / "final-halted.json")
         direction = "Choose a new mechanism for opening the sea."
         reply_file = self.story / "new-direction.txt"
@@ -347,6 +365,34 @@ class FidelityCheckpointTests(unittest.TestCase):
         self.assertEqual(json.loads(completed.stdout)["action"], "ask_user")
         with self.assertRaisesRegex(ValueError, "halted awaiting"):
             checkpoint.restart_state(checkpoint.build_bundle(self.story, "final"), 0)
+
+    def test_cli_applies_saved_no_after_review_without_spending_a_restart_first(self):
+        (self.story / "outline.md").write_text("She opens the sea. The ending closes it again.", encoding="utf-8")
+        bundle = checkpoint.build_bundle(self.story, "outline")
+        response = result_for(bundle, honors=False)
+        client = self.story / "fake-decisions.py"
+        client.write_text(f"print({json.dumps(response)!r})\n", encoding="utf-8")
+        output = self.story / "checkpoint"
+        cli = [sys.executable, "-B", checkpoint.__file__]
+        first = subprocess.run(
+            [*cli, "run", "--story-dir", str(self.story), "--stage", "outline", "--restarts", "0",
+             "--output-dir", str(output), "--decisions-script", str(client)],
+            capture_output=True, text=True, encoding="utf-8",
+        )
+        self.assertEqual(first.returncode, 30, first.stderr)
+        self.assertEqual(json.loads(first.stdout)["action"], "review_no")
+        state_file, _, restarts = checkpoint.restart_state(bundle, 0)
+        self.assertEqual(restarts, 0)
+        self.assertFalse(state_file.exists())
+
+        reviewed = subprocess.run(
+            [*cli, "assess", "--bundle", str(output / "bundle.json"), "--response", str(output / "response.json"),
+             "--output", str(output / "reviewed.json"), "--restarts", "0", "--mismatch", MISMATCH],
+            capture_output=True, text=True, encoding="utf-8",
+        )
+        self.assertEqual(reviewed.returncode, 10, reviewed.stderr)
+        self.assertEqual(json.loads(reviewed.stdout)["action"], "restart_outline")
+        self.assertEqual(checkpoint.restart_state(bundle, 0)[2], 1)
 
     def test_invalid_stage_budget_blocks_both_stages_without_resetting_it(self):
         state_file, state, _ = checkpoint.restart_state(self.bundle, 0)
