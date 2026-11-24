@@ -76,9 +76,11 @@ These are shared narrative boundaries and craft defaults, not a recipe or a revi
 - Aliases: Content ceiling
 - Notes:
   - General is the starting target when the user has not specified an audience
-    or intensity. It is not an automatic final rating. Assign the rating from
-    the finished story and its cover, using their most intense material. Record
-    the reason and specific content notes in `ratings.md` beside the story.
+    or intensity. The workshop rates the most intense material in the finished
+    prose and records the reason and specific content notes in `ratings.md`.
+    The site imports that rating with the text. Its illustrator checks the
+    finished cover against the same rating and revises artwork that exceeds it.
+    For an existing illustrated edition, consider its prose and cover together.
   - General: suitable for all ages. Teen: material may be unsuitable for readers
     under 13. Mature: adult themes or stronger violence without the detail of
     Explicit. Explicit: detailed sexual activity, graphic violence, or similarly
