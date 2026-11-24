@@ -184,7 +184,6 @@ class ProseProfileTests(unittest.TestCase):
         self.assertIn("did not or could not answer", notes)
         self.assertIn("cut off with a dash", notes)
         self.assertIn("listener's side", notes)
-        self.assertIn("explains what a spoken line meant", notes)
         self.assertIn("“Their hands,”", pp.render(p, None, pp.observations(p)))
 
     def test_voiced_draft_raises_no_avoided_talk_notes(self):
@@ -217,6 +216,17 @@ class ProseProfileTests(unittest.TestCase):
         self.assertEqual(p["longest_run_of_short_paragraphs"], 4)
         self.assertEqual(p["longest_run_of_bare_exchange"], 4)
         self.assertNotIn("long stretch of bare short lines", " ".join(pp.observations(p)))
+
+    def test_legacy_meaning_count_is_descriptive_only(self):
+        # Sophie's guess at the bread's destination explains her reaching for
+        # her bag. A different story uses the same phrasing to repeat a referent.
+        for passage in ("I thought she meant me to take some to Vern.", "He meant the structures."):
+            with self.subTest(passage=passage):
+                p = pp.profile(passage)
+                self.assertEqual(p["narrator_glosses"], 1)
+                no_match = dict(p, narrator_glosses=0)
+                self.assertEqual(pp.observations(p), pp.observations(no_match))
+                self.assertEqual(pp.render(p, None, []), pp.render(no_match, None, []))
 
     def test_meaning_it_or_meaning_to_is_not_a_gloss(self):
         p = pp.profile("“Go,” she said. She meant it. She had meant to say more.\n")

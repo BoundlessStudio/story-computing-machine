@@ -63,6 +63,8 @@ NON_ANSWER = re.compile(
     r"|\bnothing to say\b|\bneither (?:of (?:us|them) )?spoke\b"
     r"|\btried to answer and could not\b"
 )
+# Kept for the narrator_glosses JSON field. These phrases can also describe
+# plans and misunderstandings. The count cannot establish a dialogue fault.
 GLOSS = re.compile(
     r"\b(?:he|she|they|i) meant (?!it\b|to\b|well\b|no\b)|\bunderstood (?:him|her|them|it) perfectly\b"
     r"|\bknew what (?:he|she|they) meant\b"
@@ -303,8 +305,6 @@ def observations(p: dict) -> list[str]:
         notes.append("More than one spoken line is cut off with a dash. If one of them is the question or admission a scene was built for, write it out.")
     if len(p["pointing_lines"]) >= 4:
         notes.append("Several short lines point at something without naming it (listed under Dialogue). Read each from the listener's side: do they, and the reader, know what is meant?")
-    if p["narrator_glosses"]:
-        notes.append("The narration explains what a spoken line meant. Rewrite the line so that it does not need explaining.")
     if p["words"] >= 1500 and p["dialogue_share_of_words"] < 0.08:
         notes.append("Fewer than 8% of the words appear in quoted turns. If an exchange matters here, can the reader follow it through speech, signing, writing, gesture or silence?")
     if p["words"] and p["scenes"] > 1 and p["words_per_scene"] < 900:
@@ -353,7 +353,6 @@ def render(p: dict, base: dict | None, notes: list[str]) -> str:
     row("Bare acknowledgements as a share of turns", "bare_acknowledgement_share", pct)
     lines.append(f"- Quoted turns cut off with a dash: {p['cut_off_lines']}")
     row("Times the narration says someone did not or could not answer", "narrated_non_answers")
-    lines.append(f"- Times the narration explains what a line meant: {p['narrator_glosses']}")
     if p["pointing_lines"]:
         shown = " / ".join(f"“{s}”" for s in p["pointing_lines"][:12])
         more = " …" if len(p["pointing_lines"]) > 12 else ""
