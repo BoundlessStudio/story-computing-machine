@@ -18,7 +18,7 @@ Ask for a few quoted craft findings from the whole story, with the most conseque
 
 ## Line editing
 
-Give the editor the whole structurally settled prose, the request, and relevant originals. Ask for an account of the voice at its best, a short list of passages to protect, and specific quoted notes in story order. Follow the sentence and paragraph rhythms, the words particular to a speaker, what each turn does, scene texture, and places where the writing draws away at the moment it should get closer. Offer a concrete way to investigate each major problem. Tell the writer when a passage needs restaging or a different shape. The writer makes the changes in the story's own voice.
+Give the editor the whole structurally settled prose, the request, and relevant originals. Ask for an account of the voice at its best, a short list of passages to protect, and specific quoted notes in story order. Follow the sentence and paragraph rhythms, the words particular to a speaker, what each turn does, scene texture, and places where the writing draws away at the moment it should get closer. When checking a reader’s reported hitch, start at the line they named. Read through the reply and use the earlier scene to check what the listener already knows. Say what a cut or move would gain and what keeping the passage gives the reader. Offer a concrete way to investigate each major problem. Tell the writer when a passage needs restaging or a different shape. The writer makes the changes in the story's own voice.
 
 ## Focused dialogue check
 

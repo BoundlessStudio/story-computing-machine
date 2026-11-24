@@ -2,6 +2,10 @@
 
 A workshop for short fiction. It turns writing prompts into stories through experiments on the page, independent reading, and revision.
 
+## Improve the writing workflow
+
+A request such as “Improve how the editor handles dialogue that stalls” starts with existing passages. The coordinator tests a change to the editor’s instructions on those passages and reports where it helps and what it risks losing. The result is a change to the workshop or evidence for keeping the current method. [Workshop development](AGENTS.md#improving-the-workshop) · [Dialogue handoff experiment](reports/workshop-method/dialogue-handoff.md)
+
 ## Start with a writing prompt
 
 ```text
