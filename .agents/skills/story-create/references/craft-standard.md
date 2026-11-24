@@ -25,7 +25,7 @@ These habits were measured across the existing stories. Each began as sound advi
 
 The last five observations came from a November 2026 reading of dialogue. When a reader loses the exchange, ask what they had understood before the missing line. When they can already name the wish a character is keeping private, try the scene with and without its explicit admission. What does the reader experience while waiting for the other person to answer?
 
-Treat these as the gravity to write against, not as new rules to invert. Long sentences everywhere would be one speed too. `scripts/prose_profile.py` measures a draft against these figures; use it to find where to look, never as a target to hit.
+Long sentences everywhere would be one speed too. Use the optional [prose profiler](../scripts/prose_profile.py) to find a passage worth reading. Its dialogue figures count words in double quotation marks. In [The Friends I Built](../../../../stories/the-friends-i-built/05-story.md), one student makes a proposal on a slate and another signs his refusal. Read the exchange itself to judge what passes between them.
 
 ## Design a short story, not a compressed novel
 

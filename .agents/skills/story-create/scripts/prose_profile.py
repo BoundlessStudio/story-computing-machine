@@ -21,10 +21,13 @@ import json
 import re
 import statistics
 import sys
+from itertools import groupby
 from pathlib import Path
 
 SCENE_BREAK = re.compile(r"^\s*(\*\s?\*\s?\*|-{3,}|#{2,}\s.*)\s*$")
-QUOTE = re.compile(r"[“\"]([^”\"]+)[”\"]")
+# A newline here is a physical paragraph break. A quotation can cross it
+# only when the next paragraph reopens the quote and a closing mark follows.
+QUOTE_OR_BREAK = re.compile(r'[“"]([^”"\n]+(?:\n[“"][^”"\n]+)*)[”"]|\n')
 SENTENCE_END = re.compile(r"(?<=[.!?…])[”\"’')\]]*\s+(?=[“\"‘'(\[]?[A-Z0-9])")
 
 SENSES = {
@@ -138,37 +141,47 @@ def longest_run(flags, scene_ids=None) -> int:
     return best
 
 
+def quoted_turns_by_paragraph(tagged):
+    """Yield each logical paragraph, with its narration and quoted fragments."""
+    for scene, group in groupby(tagged, key=lambda row: row[0]):
+        text = "\n".join(p for _, p in group) + "\n"
+        start = previous_end = 0
+        narration, quotes = [], []
+        for match in QUOTE_OR_BREAK.finditer(text):
+            narration.append(text[previous_end:match.start()])
+            previous_end = match.end()
+            if match[1] is not None:
+                quotes.append(re.sub(r'\n[“"]', ' ', match[1]))
+                narration.append(" " + "\n" * match[1].count("\n"))
+            else:
+                # A break outside quotation marks separates turns. Inside a
+                # turn, narration such as a dialogue tag stays on its own line.
+                yield scene, text[start:match.start()], "".join(narration).split("\n"), " ".join(quotes)
+                start = previous_end
+                narration, quotes = [], []
+
+
 def profile(text: str) -> dict:
-    paragraphs, scenes = paragraphs_and_scenes(text)
-    scene_ids = [s for s, _ in paragraphs_by_scene(text)]
+    tagged = paragraphs_by_scene(text)
+    paragraphs = [p for _, p in tagged]
+    scene_ids = [s for s, _ in tagged]
+    scenes = len(set(scene_ids)) or 1
     body = "\n\n".join(paragraphs)
     total_words = words(body)
     para_lengths = [words(p) for p in paragraphs]
 
-    # Sentence rhythm is measured on narration: quoted speech is removed first so
-    # that terse dialogue does not masquerade as terse prose (it is counted below).
-    narration = [QUOTE.sub(" ", p) for p in paragraphs]
-    sentence_lengths = [n for p in narration for n in (words(s) for s in split_sentences(p)) if n]
-
-    # One paragraph is one speaker's turn, so quoted pieces split by a tag or a
-    # beat ("Now," she said, "sit down.") are joined and counted as one speech.
-    speeches = [" ".join(QUOTE.findall(p)) for p in paragraphs]
-    speeches = [s for s in speeches if any(character.isalpha() for character in s)]
-    speech_lengths = [words(s) for s in speeches]
-    spoken_words = sum(speech_lengths)
-
-    # A "bare exchange" paragraph is one that is almost entirely a short spoken line.
-    bare = [bool(QUOTE.search(p)) and words(p) <= 10 for p in paragraphs]
-
-    # Habits of avoided talk. A turn is one paragraph's quoted speech.
+    narration, speeches, bare, exchange_scenes = [], [], [], []
     acknowledgements = i_know = cut_off = 0
     pointing: list[str] = []
     scenes_with_speech: set[int] = set()
-    for scene_id, p in zip(scene_ids, paragraphs):
-        quotes = QUOTE.findall(p)
-        speech = " ".join(quotes).strip()
+    for scene_id, p, unquoted, speech in quoted_turns_by_paragraph(tagged):
+        narration.extend(unquoted)
+        bare.append(bool(speech) and words(p) <= 10)
+        exchange_scenes.append(scene_id)
+        speech = speech.strip()
         if not any(character.isalpha() for character in speech):
             continue
+        speeches.append(speech)
         key = normal(speech)
         first_in_scene = scene_id not in scenes_with_speech
         scenes_with_speech.add(scene_id)
@@ -176,13 +189,16 @@ def profile(text: str) -> dict:
             acknowledgements += 1
         if key in I_KNOW:
             i_know += 1
-        if quotes[-1].rstrip().endswith(("—", "–", "--")):
+        if speech.endswith(("—", "–", "--")):
             cut_off += 1
         if key not in ACKNOWLEDGEMENTS and (
             (words(speech) <= 3 and POINTING_START.match(speech))
             or (first_in_scene and PRONOUN_START.match(speech))
         ):
             pointing.append(speech)
+    speech_lengths = [words(s) for s in speeches]
+    spoken_words = sum(speech_lengths)
+    sentence_lengths = [n for p in narration for n in (words(s) for s in split_sentences(p)) if n]
     narration_lower = " ".join(narration).lower().replace("’", "'")
     non_answers = len(NON_ANSWER.findall(narration_lower))
     glosses = len(GLOSS.findall(narration_lower))
@@ -193,8 +209,8 @@ def profile(text: str) -> dict:
     mannerisms = {name: count for name, count in mannerisms.items() if count}
 
     names: dict[str, int] = {}
-    for p in paragraphs:
-        for sentence in split_sentences(QUOTE.sub(" ", p)):
+    for p in narration:
+        for sentence in split_sentences(p):
             for token in re.findall(r"(?<!^)(?<![.!?] )\b[A-Z][a-z]{2,}\b", sentence.strip()):
                 names[token] = names.get(token, 0) + 1
     recurring_names = sorted(n for n, c in names.items() if c >= 3)
@@ -220,7 +236,7 @@ def profile(text: str) -> dict:
         "speeches_40_words_or_more": sum(1 for n in speech_lengths if n >= 40),
         "longest_speech": max(speech_lengths, default=0),
         "one_or_two_word_spoken_questions": sum(1 for s in speeches if s.strip().endswith("?") and words(s) <= 2),
-        "longest_run_of_bare_exchange": longest_run(bare, scene_ids),
+        "longest_run_of_bare_exchange": longest_run(bare, exchange_scenes),
         "speech_count": len(speeches),
         "bare_acknowledgements": acknowledgements,
         "bare_acknowledgement_share": round(acknowledgements / len(speeches), 3) if speeches else 0,
@@ -274,7 +290,7 @@ def observations(p: dict) -> list[str]:
     if p["paragraphs_12_words_or_fewer"] > 0.4 or p["longest_run_of_short_paragraphs"] >= 8:
         notes.append("Many very short paragraphs, or a long unbroken run of them. Check whether paragraphs develop or only tick.")
     if p["speech_mean"] and p["speeches_5_words_or_fewer"] > 0.5 and p["speeches_40_words_or_more"] == 0:
-        notes.append("Most spoken lines are five words or fewer and nobody speaks at length. Cover the tags: can the speakers be told apart?")
+        notes.append("Most quoted turns are five words or fewer, and none reaches forty words. Cover the tags. Can you tell who is talking?")
     if p["longest_run_of_bare_exchange"] >= 8:
         notes.append("A long stretch of bare short lines in strict exchange. Look for the room, the bodies, and a speaker who wants to say more.")
     if p["one_or_two_word_spoken_questions"] >= 6:
@@ -290,7 +306,7 @@ def observations(p: dict) -> list[str]:
     if p["narrator_glosses"]:
         notes.append("The narration explains what a spoken line meant. Rewrite the line so that it does not need explaining.")
     if p["words"] >= 1500 and p["dialogue_share_of_words"] < 0.08:
-        notes.append("Under a twelfth of the words are spoken. Confirm that the people the reader is meant to know are heard, and that the story's central conversation happens aloud.")
+        notes.append("Fewer than 8% of the words appear in quoted turns. If an exchange matters here, can the reader follow it through speech, signing, writing, gesture or silence?")
     if p["words"] and p["scenes"] > 1 and p["words_per_scene"] < 900:
         notes.append("Scenes average under about 900 words. Ask whether any scene has room, and which could be merged or cut.")
     if p["sense_words_per_1000"]["smell"] + p["sense_words_per_1000"]["taste"] < 0.5:
@@ -314,7 +330,7 @@ def render(p: dict, base: dict | None, notes: list[str]) -> str:
     lines.append(f"- Words: {p['words']}; scenes: {p['scenes']}")
     row("Words per scene", "words_per_scene")
     lines.append("")
-    lines.append("## Narration (speech removed)")
+    lines.append("## Narration (quoted words removed)")
     row("Mean sentence length", "narration_sentence_mean")
     lines.append(f"- Median sentence length: {p['narration_sentence_median']}")
     row("Spread of sentence length (st. dev.)", "narration_sentence_stdev")
@@ -326,16 +342,16 @@ def render(p: dict, base: dict | None, notes: list[str]) -> str:
     row("Longest run of short paragraphs", "longest_run_of_short_paragraphs")
     lines.append("")
     lines.append("## Dialogue")
-    row("Share of words spoken", "dialogue_share_of_words", pct)
-    row("Mean spoken line", "speech_mean")
-    row("Spoken lines of 5 words or fewer", "speeches_5_words_or_fewer", pct)
-    row("Speeches of 40 words or more", "speeches_40_words_or_more")
-    row("Longest speech (words)", "longest_speech")
-    lines.append(f"- One- or two-word spoken questions: {p['one_or_two_word_spoken_questions']}")
+    row("Share of words in quoted turns", "dialogue_share_of_words", pct)
+    row("Mean words per quoted turn", "speech_mean")
+    row("Quoted turns of 5 words or fewer", "speeches_5_words_or_fewer", pct)
+    row("Quoted turns of 40 words or more", "speeches_40_words_or_more")
+    row("Longest quoted turn (words)", "longest_speech")
+    lines.append(f"- One- or two-word quoted questions: {p['one_or_two_word_spoken_questions']}")
     row("Longest run of bare short exchange", "longest_run_of_bare_exchange")
     lines.append(f"- Whole turns that are a bare acknowledgement: {p['bare_acknowledgements']} (“I know.”: {p['i_know_turns']})")
     row("Bare acknowledgements as a share of turns", "bare_acknowledgement_share", pct)
-    lines.append(f"- Spoken lines cut off with a dash: {p['cut_off_lines']}")
+    lines.append(f"- Quoted turns cut off with a dash: {p['cut_off_lines']}")
     row("Times the narration says someone did not or could not answer", "narrated_non_answers")
     lines.append(f"- Times the narration explains what a line meant: {p['narrator_glosses']}")
     if p["pointing_lines"]:

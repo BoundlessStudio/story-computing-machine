@@ -74,7 +74,7 @@ class ProseProfileTests(unittest.TestCase):
         self.assertEqual(p["mannerisms"].get("that was all"), 1)
         notes = " ".join(pp.observations(p))
         self.assertIn("short and even", notes)
-        self.assertIn("nobody speaks at length", notes)
+        self.assertIn("five words or fewer", notes)
 
     def test_voiced_draft_measures_range_and_senses(self):
         p = pp.profile(VOICED)
@@ -86,6 +86,88 @@ class ProseProfileTests(unittest.TestCase):
     def test_speech_is_excluded_from_narration_rhythm(self):
         p = pp.profile("“No.” “Yes.” “No.” She crossed the whole length of the yard before she let herself look back at the house.\n")
         self.assertEqual(p["narration_sentence_mean"], 17)
+
+    def test_reopened_speech_matches_a_single_paragraph_turn(self):
+        lines = [
+            "Ask Ada. She said nothing.",
+            "At noon Ada took down the bell and I went out to find another length of rope in the shed.",
+            "On Sunday Ada put it up again with both hands as if the whole tower already belonged to her.",
+            "Who?",
+        ]
+        for opening, closing in (("“", "”"), ('"', '"')):
+            with self.subTest(opening=opening):
+                lead = "Two bells rang.\n\n"
+                single = pp.profile(lead + opening + " ".join(lines) + closing)
+                spread = pp.profile(lead + "\n\n".join(opening + line for line in lines) + closing)
+                expected = {
+                    "speech_count": 1,
+                    "longest_speech": 45,
+                    "speeches_40_words_or_more": 1,
+                    "dialogue_share_of_words": round(45 / 48, 3),
+                    "narration_sentence_mean": 3,
+                    "narrated_non_answers": 0,
+                    "recurring_capitalized_names": [],
+                    "one_or_two_word_spoken_questions": 0,
+                    "pointing_lines": [],
+                }
+                for key, value in expected.items():
+                    self.assertEqual(single[key], value, key)
+                    self.assertEqual(spread[key], single[key], key)
+                self.assertEqual(single["paragraph_mean"], 24)
+                self.assertEqual(spread["paragraph_mean"], 9.6)
+                self.assertEqual(spread["paragraphs_12_words_or_fewer"], 0.6)
+
+    def test_eight_short_paragraphs_can_be_one_turn_or_an_exchange(self):
+        lines = ["One more.", "Again?"] * 4
+        continued = pp.profile("\n\n".join("“" + line for line in lines) + "”")
+        exchange = pp.profile("\n\n".join(f"“{line}”" for line in lines))
+        self.assertEqual(continued["longest_run_of_short_paragraphs"], 8)
+        self.assertEqual(continued["longest_speech"], 12)
+        self.assertLessEqual(continued["longest_run_of_bare_exchange"], 1)
+        self.assertEqual(exchange["speech_count"], 8)
+        self.assertEqual(exchange["longest_run_of_bare_exchange"], 8)
+
+    def test_tag_and_action_stay_outside_a_continued_speech(self):
+        for opening, closing in (("“", "”"), ('"', '"')):
+            for greeting, beat in (("Here,", "she said."), ("Here.", "She tipped the tray.")):
+                with self.subTest(opening=opening, beat=beat):
+                    text = "\n\n".join([
+                        f"{opening}{greeting}{closing} {beat} {opening}The red cup is yours.",
+                        f"{opening}The blue one—{closing}",
+                        f"{opening}Which?{closing}",
+                        f"{opening}I know.{closing}",
+                    ])
+                    p = pp.profile(text)
+                    narration_words = len(beat.split())
+                    self.assertEqual(p["narration_sentence_mean"], narration_words)
+                    self.assertEqual(p["dialogue_share_of_words"], round(12 / (12 + narration_words), 3))
+                    self.assertEqual(p["speech_count"], 3)
+                    self.assertEqual(p["longest_speech"], 9)
+                    self.assertEqual(p["cut_off_lines"], 1)
+                    self.assertEqual(p["one_or_two_word_spoken_questions"], 1)
+                    self.assertEqual(p["i_know_turns"], 1)
+
+    def test_abandoned_opener_does_not_reach_a_later_turn(self):
+        for opening, closing in (("“", "”"), ('"', '"')):
+            for boundary in ("***", "She said nothing."):
+                with self.subTest(opening=opening, boundary=boundary):
+                    text = f"Unfinished chalk marks.\n\n{boundary}\n\n{opening}Who?{closing}"
+                    plain = pp.profile(text)
+                    abandoned = pp.profile(opening + text)
+                    self.assertEqual(abandoned["speech_count"], 1)
+                    self.assertEqual(abandoned["longest_speech"], 1)
+                    self.assertEqual(abandoned["dialogue_share_of_words"], plain["dialogue_share_of_words"])
+                    self.assertEqual(abandoned["narration_sentence_mean"], plain["narration_sentence_mean"])
+                    self.assertEqual(abandoned["narrated_non_answers"], plain["narrated_non_answers"])
+                    self.assertEqual(abandoned["pointing_lines"], ["Who?"])
+
+    def test_unquoted_signing_keeps_zero_quoted_words(self):
+        passage = "She signed the question with both hands. Her brother signed back across the kitchen table."
+        p = pp.profile("\n\n".join([passage] * 100))
+        self.assertGreaterEqual(p["words"], 1500)
+        self.assertEqual(p["speech_count"], 0)
+        self.assertEqual(p["dialogue_share_of_words"], 0)
+        self.assertNotIn("central conversation happens aloud", " ".join(pp.observations(p)).lower())
 
     def test_avoided_talk_is_counted_and_listed(self):
         p = pp.profile(AVOIDED)
